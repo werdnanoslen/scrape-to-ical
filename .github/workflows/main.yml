@@ -1,0 +1,47 @@
+name: generate_calendar
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */1 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install poetry
+        run: |
+          python -m pip install poetry==1.1.11
+      - name: Configure poetry
+        run: |
+          python -m poetry config virtualenvs.in-project true
+      - name: Cache the virtualenv
+        uses: actions/cache@v2
+        with:
+          path: ./.venv
+          key: ${{ runner.os }}-venv-${{ hashFiles('**/poetry.lock') }}
+      - name: Install dependencies
+        run: |
+          python -m poetry install
+      - name: Generate calendar files
+        env:
+          OUTPUT_ROOT: ${{ github.workspace }}
+        run: |-
+          cd $GITHUB_WORKSPACE
+          python -m src.main
+      - name: Commit calendar files if changed
+        run: |-
+          git diff
+          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "ANDY-bot"
+          git add -A
+          git commit -m "Updated calendars" || exit 0
+          git push
