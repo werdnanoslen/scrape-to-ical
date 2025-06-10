@@ -34,6 +34,7 @@ jobs:
       - name: Generate calendar files
         env:
           OUTPUT_ROOT: ${{ github.workspace }}
+          PYTHONPATH: ${{ github.workspace }}/src
         run: |-
           cd $GITHUB_WORKSPACE
           poetry run python -m src.main
