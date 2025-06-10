@@ -55,8 +55,8 @@ class MyCalendarEvent:
         dtend = dtstart + timedelta(hours=2)
         event_time = entry.get('mfgigcal_event-time', '')
         content = entry.get('mfgigcal_content', '')
+        link = entry.get('link', '')
         if event_time:
-            # Find all time matches and their positions
             matches = list(
                 re.finditer(
                     r'(\d{1,2}:\d{2}(?:\s*[APMapm]{2})?)',
@@ -79,12 +79,16 @@ class MyCalendarEvent:
                 r'\n\1',
                 formatted_time
             )
+            details_parts = []
+            if link:
+                details_parts.append(link)
+            if formatted_time:
+                details_parts.append(formatted_time)
             if content:
-                details = f"{formatted_time}\n{content}"
-            else:
-                details = formatted_time
+                details_parts.append(content)
+            details = "\n".join(details_parts)
         else:
-            details = content
+            details = link + "\n" + content if link else content
         return MyCalendarEvent(
             id=entry.get('id') or entry.get('guidislink', ''),
             title=entry.get('title', ''),
