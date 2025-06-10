@@ -36,7 +36,7 @@ jobs:
           OUTPUT_ROOT: ${{ github.workspace }}
         run: |-
           cd $GITHUB_WORKSPACE
-          python -m src.main
+          poetry run python -m src.main
       - name: Commit calendar files if changed
         run: |-
           git diff
