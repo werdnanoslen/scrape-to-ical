@@ -8,7 +8,7 @@ from abstract_scraper import AbstractScraper
 
 class OwlScraper(AbstractScraper):
     NAME = "The Owl Music Parlor"
-    URL = "https://theowlmusicparlor.com/calendar/feed/"
+    URL = "https://theowl.nyc/feed/mfgigcal"
 
     @staticmethod
     def parse_datetime(date_str: str, time_str: str) -> datetime:

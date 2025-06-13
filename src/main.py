@@ -1,6 +1,6 @@
 from my_calendar import MyCalendar
-from scrapers.barzakh import BarzakhScraper
 from scrapers.owl import OwlScraper
+from scrapers.barzakh import BarzakhScraper
 
 
 def main() -> None:
