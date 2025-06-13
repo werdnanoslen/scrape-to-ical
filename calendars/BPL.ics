@@ -38,14 +38,6 @@ DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250613T160000Z
-DTEND:20250613T180000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/768726
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250613T170000Z
 DTEND:20250613T190000Z
@@ -369,5 +361,15 @@ DESCRIPTION:Presented by Council Member Hanif’s office and Brooklyn Lega
  l Services\, this KYR will help our community understand LGBTQ+ rights und
  er the current administration.\n\nhttps://www.bklynlibrary.org/node/773213
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Book Club: The Heaven and Earth Grocery Store by James McBri
+ de
+DTSTART:20250617T223000Z
+DTEND:20250617T233000Z
+DESCRIPTION:Join Claire from Brooklyn Heights in our Craft Room for this c
+ hat. We are discussing James McBride's novel The Heaven and Earth Grocery 
+ Store.\n\nhttps://www.bklynlibrary.org/node/770849
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
