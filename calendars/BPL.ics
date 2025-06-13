@@ -38,24 +38,6 @@ DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250613T170000Z
-DTEND:20250613T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 24
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20250613T180000Z
-DTEND:20250613T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763515
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20250614T133000Z
 DTEND:20250614T163000Z
@@ -371,5 +353,25 @@ DESCRIPTION:Join Claire from Brooklyn Heights in our Craft Room for this c
  hat. We are discussing James McBride's novel The Heaven and Earth Grocery 
  Store.\n\nhttps://www.bklynlibrary.org/node/770849
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Visual Reporting: The Power of Comics and Illustration in Journali
+ sm
+DTSTART:20250617T223000Z
+DTEND:20250617T233000Z
+DESCRIPTION:Explore the history of your surroundings with artist and journ
+ alist Medar de la Cruz with the goal of presenting what you have discovere
+ d through visual and written form combined. Each workshop will i\n\nhttps:
+ //www.bklynlibrary.org/node/772615
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250618T140000Z
+DTEND:20250618T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
+ 17
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
