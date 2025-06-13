@@ -5,6 +5,7 @@ from zoneinfo import ZoneInfo
 from icalendar import Event
 from abstract_scraper import AbstractScraper
 from playwright.sync_api import sync_playwright
+import re
 
 
 class BarzakhScraper(AbstractScraper):
@@ -37,14 +38,13 @@ class BarzakhScraper(AbstractScraper):
                 )
                 if not isinstance(datetime_div, Tag):
                     continue
-                date_str = ''
-                time_str = ''
-                text = datetime_div.get_text(strip=True)
-                date_str, time_str = [p.strip() for p in text.split('•')]
-                format = "%b %d, %Y %I:%M %p %Z"
-                dt = datetime.strptime(f"{date_str} {time_str}", format)
-                local_tz = ZoneInfo("America/New_York")
-                dt_local = dt.replace(tzinfo=local_tz)
+                div_text = datetime_div.get_text(strip=True)
+                date_str, time_str = [p.strip() for p in div_text.split('•')]
+                datetime_str = f"{date_str} {time_str}"
+                # Remove trailing timezone abbreviation ('EDT')
+                datetime_str = re.sub(r'\s([A-Z]{2,4})$', '', datetime_str)
+                dt = datetime.strptime(datetime_str, "%b %d, %Y %I:%M %p")
+                dt_local = dt.replace(tzinfo=ZoneInfo("America/New_York"))
                 dtstart = dt_local.astimezone(ZoneInfo("UTC"))
                 dtend = dtstart + timedelta(hours=2)
 
