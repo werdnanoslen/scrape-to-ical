@@ -5,8 +5,7 @@ from typing import List
 from icalendar import Calendar, Event
 from os import getenv
 from dotenv import load_dotenv
-from abc import ABC, abstractmethod
-from datetime import datetime
+from abstract_scraper import AbstractScraper
 
 
 load_dotenv()
@@ -16,23 +15,9 @@ assert OUTPUT_ROOT
 getLogger().setLevel(DEBUG if LOG_LEVEL == 'DEBUG' else INFO)
 
 
-class AbstractCalendarSource(ABC):
-    NAME: str
-    URL: str
-
-    @staticmethod
-    @abstractmethod
-    def parse_datetime(date_str: str, time_str: str) -> datetime:
-        pass
-
-    @abstractmethod
-    def get_events(self) -> list[Event]:
-        pass
-
-
 @dataclass
 class MyCalendar:
-    scraper: AbstractCalendarSource
+    scraper: AbstractScraper
     events: List[Event] = field(default_factory=list)
     cal: Calendar | None = None
     cal_bytes: bytes | None = None

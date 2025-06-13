@@ -1,9 +1,11 @@
 from my_calendar import MyCalendar
-from owl import OwlCalendarSource
+from scrapers.barzakh import BarzakhScraper
+from scrapers.owl import OwlScraper
 
 
 def main() -> None:
-    MyCalendar(OwlCalendarSource()).write()
+    MyCalendar(OwlScraper()).write()
+    MyCalendar(BarzakhScraper()).write()
 
 
 if __name__ == '__main__':

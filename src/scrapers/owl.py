@@ -3,10 +3,10 @@ from datetime import datetime, timedelta
 import re
 from zoneinfo import ZoneInfo
 from icalendar import Event
-from my_calendar import AbstractCalendarSource
+from abstract_scraper import AbstractScraper
 
 
-class OwlCalendarSource(AbstractCalendarSource):
+class OwlScraper(AbstractScraper):
     NAME = "The Owl Music Parlor"
     URL = "https://theowlmusicparlor.com/calendar/feed/"
 
@@ -43,7 +43,7 @@ class OwlCalendarSource(AbstractCalendarSource):
         d = parse(self.URL)
         events = []
         for entry in d.entries:
-            dtstart = OwlCalendarSource.parse_datetime(
+            dtstart = OwlScraper.parse_datetime(
                 str(entry['mfgigcal_event-date'] or ''),
                 str(entry['mfgigcal_event-time'] or '00:00')
             )
