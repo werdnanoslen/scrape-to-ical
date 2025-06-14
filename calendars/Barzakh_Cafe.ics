@@ -11,29 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Ustad Abdullah Niazi & Waqas Niazi Qawwal
-DTSTART:20250614T000000Z
-DTEND:20250614T020000Z
-DTSTAMP:20250614T000000Z
-UID:Ustad Abdullah Niazi & Waqas Niazi Qawwal
-DESCRIPTION:https://www.viewcy.com/e/ustad_abdullah_niazi_1\n<img alt="Ust
- ad Abdullah Niazi &amp\; Waqas Niazi Qawwal thumbnail" class="styles_cover
- Img__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-s
- entry-element="Image" data-sentry-source-file="index.tsx" decoding="async"
-  height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=h
- ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
- d_images%2F000%2F017%2F527%2Fcover%2FUstad_Abdullah_Niazi___Waqas_Niazi_Qa
- wwal.jpg%3F1747684419&amp\;w=640&amp\;q=100" srcset="/_next/image?url=http
- s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
- mages%2F000%2F017%2F527%2Fcover%2FUstad_Abdullah_Niazi___Waqas_Niazi_Qawwa
- l.jpg%3F1747684419&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F
- %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
- F000%2F017%2F527%2Fcover%2FUstad_Abdullah_Niazi___Waqas_Niazi_Qawwal.jpg%3
- F1747684419&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="
- 308"/>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Star Spangled Ragas
 DTSTART:20250615T000000Z
 DTEND:20250615T020000Z
