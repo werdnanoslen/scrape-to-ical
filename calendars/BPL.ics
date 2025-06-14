@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Knitting Circle at Brooklyn Heights with Margot
-DTSTART:20250614T183000Z
-DTEND:20250614T203000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing. 
- Instructor Margot will be at this session. Please refer to her wit\n\nhttp
- s://www.bklynlibrary.org/node/742732
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feng Shui and I Ching
-DTSTART:20250614T193000Z
-DTEND:20250614T210000Z
-DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
- arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
- ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
- ps://www.bklynlibrary.org/node/768573
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250616T140000Z
 DTEND:20250616T210000Z
@@ -134,6 +114,16 @@ DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/769378
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20250616T200000Z
+DTEND:20250616T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/773880
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -374,6 +364,14 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  hing Corps (FCC) can help you manage your money\, find resources in a fina
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/753383
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Update Your Skills Using Metrix Learning
+DTSTART:20250618T190000Z
+DTEND:20250618T200000Z
+DESCRIPTION:Looking to grow your skills or explore a new career—all on y
+ our own schedule?\n\nhttps://www.bklynlibrary.org/node/766455
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
