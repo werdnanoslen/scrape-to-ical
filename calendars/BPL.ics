@@ -21,6 +21,14 @@ DESCRIPTION:Learn to use the recording studio\, located right here at Broo
 LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Movies @ the Library : Conclave
+DTSTART:20250614T180000Z
+DTEND:20250614T200000Z
+DESCRIPTION:Join Us for an Afternoon of Secrets\, Power\, and Intrigue! 
+ 🕊️\n\nhttps://www.bklynlibrary.org/node/767662
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Harmonica Concert with Jiayi He presented by Brooklyn Music School
 DTSTART:20250614T180000Z
 DTEND:20250614T190000Z
@@ -28,14 +36,6 @@ DESCRIPTION:Join us for a performance from award-winning harmonica virtuos
  o Jiayi He\, presented by the Brooklyn Music School.\n\nhttps://www.bklynl
  ibrary.org/node/768988
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Movies @ the Library : Conclave
-DTSTART:20250614T180000Z
-DTEND:20250614T200000Z
-DESCRIPTION:Join Us for an Afternoon of Secrets\, Power\, and Intrigue! 
- 🕊️\n\nhttps://www.bklynlibrary.org/node/767662
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Knitting Circle at Brooklyn Heights with Margot
