@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Star Spangled Ragas
-DTSTART:20250615T000000Z
-DTEND:20250615T020000Z
-DTSTAMP:20250615T000000Z
-UID:Star Spangled Ragas
-DESCRIPTION:https://www.viewcy.com/e/star_spangled_ragas\n<img alt="Star S
- pangled Ragas thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data
- -sentry-component="ImageWithFallback" data-sentry-element="Image" data-sen
- try-source-file="index.tsx" decoding="async" height="186" loading="lazy" s
- rc="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-pro
- duction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F017%2F938%2Fc
- over%2FStar_Spangled_Ragas.jpg%3F1749482108&amp\;w=640&amp\;q=100" srcset=
- "/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%
- 2Fcourses%2Ffeatured_images%2F000%2F017%2F938%2Fcover%2FStar_Spangled_Raga
- s.jpg%3F1749482108&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F
- %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
- F000%2F017%2F938%2Fcover%2FStar_Spangled_Ragas.jpg%3F1749482108&amp\;w=640
- &amp\;q=100 2x" style="color: transparent\;" width="308"/>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Arabic Vocal Workshop:  Sotak Harir ™ (Your Voice is Silk)
 DTSTART:20250615T170000Z
 DTEND:20250615T190000Z
