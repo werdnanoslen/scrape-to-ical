@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20250616T140000Z
-DTEND:20250616T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/772368
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20250616T190000Z
 DTEND:20250616T230000Z
@@ -29,38 +19,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/753382
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20250616T190000Z
-DTEND:20250616T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /759575
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20250616T190000Z
-DTEND:20250616T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/762654
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250616T190000Z
-DTEND:20250616T210000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/768728
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jigsaw Puzzle Hour
-DTSTART:20250616T190000Z
-DTEND:20250616T210000Z
-DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
- wide variety of new and vintage puzzles with other puzzle enthusiasts.\n\n
- https://www.bklynlibrary.org/node/770955
-LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
@@ -73,17 +31,7 @@ DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
 LOCATION:Brooklyn Heights Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20250616T200000Z
-DTEND:20250616T210000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/773880
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
+SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20250616T203000Z
 DTEND:20250616T220000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -202,7 +150,7 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LGBTQ+ Know Your Rights!
+SUMMARY:CANCELLED: LGBTQ+ Know Your Rights!
 DTSTART:20250617T220000Z
 DTEND:20250617T000000Z
 DESCRIPTION:Presented by Council Member Hanif’s office and Brooklyn Lega
@@ -276,6 +224,15 @@ DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:One-On-One Computer Help
+DTSTART:20250618T150000Z
+DTEND:20250618T160000Z
+DESCRIPTION:Need help with understanding the basics of using a computer? O
+ r maybe it’s just been a while and you’re looking to brush up on your 
+ computer skills.\n\nhttps://www.bklynlibrary.org/node/774111
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ask a tech
 DTSTART:20250618T153000Z
 DTEND:20250618T163000Z
@@ -332,6 +289,16 @@ DESCRIPTION:Looking to grow your skills or explore a new career—all on y
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250618T190000Z
+DTEND:20250618T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774120
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20250618T200000Z
 DTEND:20250618T210000Z
@@ -376,5 +343,43 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7584
  15
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250620T140000Z
+DTEND:20250620T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772370
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: Ministry of Fear (1944)
+DTSTART:20250620T143000Z
+DTEND:20250620T160000Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
+ n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/769475
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250620T150000Z
+DTEND:20250620T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/753720
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20250620T150000Z
+DTEND:20250620T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) get free one-on-one resume hel
+ p\, education and career advice\, interviewing prep\, and more with\n\nhtt
+ ps://www.bklynlibrary.org/node/758227
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
