@@ -980,18 +980,6 @@ DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/intermediate-premie
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Gogol Bordello | Puzzled Panther | Pons
-DTSTART:20250802T220000Z
-DTEND:20250803T023000Z
-DTSTAMP:20250802T220000Z
-UID:Gogol Bordello | Puzzled Panther | Pons-2025-08-02T22:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/gogol-bordello-puz
- zled-panther-pons/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https
- ://bricartsmedia.org/wp-content/uploads/2025/04/IMG_4216-200x200.jpg" alt=
- "" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TV Studio Intensive
 DTSTART:20250802T180000Z
 DTEND:20250802T210000Z
@@ -1010,6 +998,18 @@ UID:Mini Studio Production-2025-08-02T18:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
  ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gogol Bordello | Puzzled Panther | Pons
+DTSTART:20250802T220000Z
+DTEND:20250803T023000Z
+DTSTAMP:20250802T220000Z
+UID:Gogol Bordello | Puzzled Panther | Pons-2025-08-02T22:00:00+00:00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/gogol-bordello-puz
+ zled-panther-pons/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https
+ ://bricartsmedia.org/wp-content/uploads/2025/04/IMG_4216-200x200.jpg" alt=
+ "" />
+LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to DaVinci Resolve
@@ -1054,16 +1054,13 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/emily-johnson-cata
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adrian Quesada’s Boleros Psicodélicos | Trish Toledo
-DTSTART:20250808T220000Z
-DTEND:20250809T023000Z
-DTSTAMP:20250808T220000Z
-UID:Adrian Quesada’s Boleros Psicodélicos | Trish Toledo-2025-08-08T22:
- 00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/adrian-quesada-tri
- sh-toledo/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://brica
- rtsmedia.org/wp-content/uploads/2025/04/Adrian-Quesada-Boleros-II-Photo-1-
- Jackie-Lee-Young-stitched-by-Victoria-Villasana-200x200.jpg" alt="" />
-LOCATION:Lena Horne Bandshell
+SUMMARY:Intro to Radio Podcasting
+DTSTART:20250808T180000Z
+DTEND:20250808T210000Z
+DTSTAMP:20250808T180000Z
+UID:Intro to Radio Podcasting-2025-08-08T18:00:00+00:00
+DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
+ asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
