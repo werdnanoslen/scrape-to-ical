@@ -83,6 +83,49 @@ DESCRIPTION:https://www.viewcy.com/e/global_majority__all\n<img alt="Globa
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Arabic Vocal Workshop:  Sotak Harir ™ (Your Voice is Silk)
+DTSTART:20250622T170000Z
+DTEND:20250622T190000Z
+DTSTAMP:20250622T170000Z
+UID:The Arabic Vocal Workshop:  Sotak Harir ™ (Your Voice is Silk)
+DESCRIPTION:https://www.viewcy.com/e/the_arabic_vocal_work_9\n<img alt="Th
+ e Arabic Vocal Workshop:  Sotak Harir ™ (Your Voice is Silk) thumbnail" 
+ class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageW
+ ithFallback" data-sentry-element="Image" data-sentry-source-file="index.ts
+ x" decoding="async" height="186" loading="lazy" src="https://www.viewcy.co
+ m/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%
+ 2Fcourses%2Ffeatured_images%2F000%2F018%2F211%2Fcover%2FGaida_Post__28Inst
+ agram_Post_29.jpg%3F1750082873&amp\;w=640&amp\;q=100" srcset="/_next/image
+ ?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ff
+ eatured_images%2F000%2F018%2F211%2Fcover%2FGaida_Post__28Instagram_Post_29
+ .jpg%3F1750082873&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F018%2F211%2Fcover%2FGaida_Post__28Instagram_Post_29.jpg%3F1750082873
+ &amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arabic Classes with Essam
+DTSTART:20250622T190000Z
+DTEND:20250622T210000Z
+DTSTAMP:20250622T190000Z
+UID:Arabic Classes with Essam
+DESCRIPTION:https://www.viewcy.com/e/arabic_classes_with_e_11\n<img alt="A
+ rabic Classes with Essam thumbnail" class="styles_coverImg__PsR9G" data-ni
+ mg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Imag
+ e" data-sentry-source-file="index.tsx" decoding="async" height="186" loadi
+ ng="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy
+ -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F01
+ 8%2F212%2Fcover%2FArabic_Classes.jpg%3F1750082971&amp\;w=640&amp\;q=100" s
+ rcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaw
+ s.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F212%2Fcover%2FArabic_Class
+ es.jpg%3F1750082971&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F018%2F212%2Fcover%2FArabic_Classes.jpg%3F1750082971&amp\;w=640&amp
+ \;q=100 2x" style="color: transparent\;" width="308"/>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Prinkipo at Barzakh
 DTSTART:20250623T000000Z
 DTEND:20250623T020000Z
