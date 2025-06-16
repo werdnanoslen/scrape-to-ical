@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mah Jongg
-DTSTART:20250616T160000Z
-DTEND:20250616T190000Z
-DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
- library.org/node/770594
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
 DTSTART:20250616T180000Z
 DTEND:20250616T200000Z
@@ -375,5 +367,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
  50
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Darkroom MCs Premiere
+DTSTART:20250619T000000Z
+DTEND:20250619T013000Z
+DESCRIPTION:Please join the Darkroom Masters of Culture for a celebratory 
+ premiere of their new ALL ARTS channel series “The Darkroom MCs”\, whi
+ ch showcases some of the most important but often underrepresented ph\n\nh
+ ttps://www.bklynlibrary.org/node/770171
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
