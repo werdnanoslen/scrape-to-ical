@@ -167,6 +167,29 @@ DESCRIPTION:https://www.viewcy.com/e/soire_egyptotunisie\n<p><img alt="Soi
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Psychedelic Cumbia Night with MILAGRO VERDE
+DTSTART:20250714T000000Z
+DTEND:20250714T020000Z
+DTSTAMP:20250714T000000Z
+UID:Psychedelic Cumbia Night with MILAGRO VERDE
+DESCRIPTION:https://www.viewcy.com/e/psychedelic_cumbia_ni\n<p><img alt="P
+ sychedelic Cumbia Night with MILAGRO VERDE thumbnail" class="styles_coverI
+ mg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-se
+ ntry-element="Image" data-sentry-source-file="index.tsx" decoding="async" 
+ height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F018%2F761%2Fcover%2FBlack_Modern_Live_Music_Instagram_Post
+ _Template.jpg%3F1751659228&amp\;w=640&amp\;q=100" srcset="/_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F018%2F761%2Fcover%2FBlack_Modern_Live_Music_Instagram_P
+ ost_Template.jpg%3F1751659228&amp\;w=384&amp\;q=100 1x\, /_next/image?url=
+ https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
+ ed_images%2F000%2F018%2F761%2Fcover%2FBlack_Modern_Live_Music_Instagram_Po
+ st_Template.jpg%3F1751659228&amp\;w=640&amp\;q=100 2x" style="color: trans
+ parent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Inner Song: Vinay Desai X Vivek Pandya
 DTSTART:20250719T000000Z
 DTEND:20250719T020000Z
