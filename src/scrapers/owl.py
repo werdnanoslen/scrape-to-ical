@@ -11,43 +11,82 @@ class OwlScraper(AbstractScraper):
     URL = "https://theowl.nyc/feed/mfgigcal"
 
     @staticmethod
-    def parse_datetime(date_str: str, time_str: str) -> datetime:
-        # Example: date_str = 'Jun 5, 2025',
-        # Example: time_str = '7:30 Doors 8:00 Music $15.00 suggested donation'  # noqa: E501
-        date_fmt = "%b %d, %Y"
-        try:
-            date_obj = datetime.strptime(date_str.strip(), date_fmt)
-        except Exception:
-            date_obj = datetime.strptime(date_str.strip(), "%Y-%m-%d")
+    def parse_datetime(date_str: str, time_str: str):
+        # Returns a list of tuples: (dtstart, dtend, allday)
+        range_pattern = r"([A-Za-z]+)\s+(\d+)-(\d+),\s*(\d{4})"
+        range_match = re.match(range_pattern, date_str.strip())
+        results = []
+        if range_match:
+            month = range_match.group(1)
+            first_day = int(range_match.group(2))
+            last_day = int(range_match.group(3))
+            year = int(range_match.group(4))
+            for day in range(first_day, last_day + 1):
+                single_date_str = f"{month} {day}, {year}"
+                date_fmt = "%b %d, %Y"
+                try:
+                    date_obj = datetime.strptime(
+                        single_date_str.strip(),
+                        date_fmt
+                    )
+                except Exception:
+                    continue
+                if not time_str.strip():
+                    # All-day event
+                    dtstart = date_obj.date()
+                    dtend = (date_obj + timedelta(days=1)).date()
+                    results.append((dtstart, dtend, True))
+                else:
+                    time_obj = OwlScraper._parse_time(time_str)
+                    dt = datetime.combine(date_obj.date(), time_obj)
+                    local_dt = dt.replace(tzinfo=ZoneInfo("America/New_York"))
+                    dt_utc = local_dt.astimezone(ZoneInfo("UTC"))
+                    dtend = dt_utc + timedelta(hours=2)
+                    results.append((dt_utc, dtend, False))
+            return results
+        else:
+            date_fmt = "%b %d, %Y"
+            try:
+                date_obj = datetime.strptime(date_str.strip(), date_fmt)
+            except Exception:
+                date_obj = datetime.strptime(date_str.strip(), "%Y-%m-%d")
+            if not time_str.strip():
+                dtstart = date_obj.date()
+                dtend = (date_obj + timedelta(days=1)).date()
+                return [(dtstart, dtend, True)]
+            else:
+                time_obj = OwlScraper._parse_time(time_str)
+                dt = datetime.combine(date_obj.date(), time_obj)
+                local_dt = dt.replace(tzinfo=ZoneInfo("America/New_York"))
+                dt_utc = local_dt.astimezone(ZoneInfo("UTC"))
+                dtend = dt_utc + timedelta(hours=2)
+                return [(dt_utc, dtend, False)]
+
+    @staticmethod
+    def _parse_time(time_str: str):
         m = re.search(r'(\d{1,2}:\d{2}(?:\s*[APMapm]{2})?)', time_str)
         if m:
             time_part = m.group(1).strip()
-            # If no am/pm specified, default to pm
             if not re.search(r'[ap]m', time_part, re.IGNORECASE):
                 time_part += ' pm'
             try:
-                time_obj = datetime.strptime(time_part, "%I:%M %p").time()
+                return datetime.strptime(time_part, "%I:%M %p").time()
             except Exception:
                 try:
-                    time_obj = datetime.strptime(time_part, "%H:%M").time()
+                    return datetime.strptime(time_part, "%H:%M").time()
                 except Exception:
-                    time_obj = datetime.strptime("00:00", "%H:%M").time()
+                    return datetime.strptime("00:00", "%H:%M").time()
         else:
-            time_obj = datetime.strptime("00:00", "%H:%M").time()
-        dt = datetime.combine(date_obj.date(), time_obj)
-        local_dt = dt.replace(tzinfo=ZoneInfo("America/New_York"))
-        dt_utc = local_dt.astimezone(ZoneInfo("UTC"))
-        return dt_utc
+            return datetime.strptime("00:00", "%H:%M").time()
 
     def get_events(self) -> list[Event]:
         d = parse(self.URL)
         events = []
         for entry in d.entries:
-            dtstart = OwlScraper.parse_datetime(
-                str(entry['mfgigcal_event-date'] or ''),
-                str(entry['mfgigcal_event-time'] or '00:00')
+            dtinfos = OwlScraper.parse_datetime(
+                str(entry.get('mfgigcal_event-date', '') or ''),
+                str(entry.get('mfgigcal_event-time', '') or '')
             )
-            dtend = dtstart + timedelta(hours=2)
             event_time = entry.get('mfgigcal_event-time', '')
             content = entry.get('mfgigcal_content', '')
             link = entry.get('link', '')
@@ -84,13 +123,23 @@ class OwlScraper(AbstractScraper):
                 details = "\n".join(details_parts)
             else:
                 details = f'{link}\n{content}' if link else content
-            event = Event()
-            event.add('uid', entry.get('id') or entry.get('guidislink', ''))
-            event.add('dtstamp', dtstart)
-            event.add('dtstart', dtstart)
-            event.add('dtend', dtend)
-            event.add('summary', entry.get('title', ''))
-            event.add('description', details)
-            event.add('location', 'The Owl Music Parlor,  497 Rogers Ave. Brooklyn, NY 11225')  # noqa: E501
-            events.append(event)
+
+            for dtstart, dtend, allday in dtinfos:
+                event = Event()
+                id = entry.get('id') or entry.get('guidislink', '')
+                event.add('summary', entry.get('title', ''))
+                event.add('description', details)
+                event.add('location', 'The Owl Music Parlor, 497 Rogers Ave., Brooklyn, NY 11225')  # noqa: E501
+                if allday:
+                    event.add('uid', f"{id}-{dtstart.isoformat()}")
+                    event.add('dtstart', dtstart)
+                    event['dtstart'].params['VALUE'] = 'DATE'
+                    event.add('dtend', dtend)
+                    event['dtend'].params['VALUE'] = 'DATE'
+                else:
+                    event.add('uid', f"{id}-{dtstart}")
+                    event.add('dtstamp', dtstart)
+                    event.add('dtstart', dtstart)
+                    event.add('dtend', dtend)
+                events.append(event)
         return events
