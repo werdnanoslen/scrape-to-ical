@@ -53,7 +53,7 @@ class BarzakhScraper(AbstractScraper):
                 link = result.find('a', href=True)
                 path = link.get('href') if isinstance(link, Tag) else None
                 href = f'https://www.viewcy.com{path}'
-                details = f"{href}\n{img}" if img else href
+                details = f"{href}\n<p>{img}</p>" if img else href
 
                 # Create the event
                 event = Event()
