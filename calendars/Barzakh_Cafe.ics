@@ -11,29 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:The United States of Couscous
-DTSTART:20250704T180000Z
-DTEND:20250704T200000Z
-DTSTAMP:20250704T180000Z
-UID:The United States of Couscous
-DESCRIPTION:https://www.viewcy.com/e/the_united_states_of\n<p><img alt="Th
- e United States of Couscous thumbnail" class="styles_coverImg__PsR9G" data
- -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
- mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
- ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvie
- wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
- F018%2F387%2Fcover%2FWhite_Blue_Photographic_Modern_Elegant_Colorful_Trave
- l_Flyer.jpg%3F1750374463&amp\;w=640&amp\;q=100" srcset="/_next/image?url=h
- ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
- d_images%2F000%2F018%2F387%2Fcover%2FWhite_Blue_Photographic_Modern_Elegan
- t_Colorful_Travel_Flyer.jpg%3F1750374463&amp\;w=384&amp\;q=100 1x\, /_next
- /image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcours
- es%2Ffeatured_images%2F000%2F018%2F387%2Fcover%2FWhite_Blue_Photographic_M
- odern_Elegant_Colorful_Travel_Flyer.jpg%3F1750374463&amp\;w=640&amp\;q=100
-  2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bağlama Classes with Ercan Alkan
 DTSTART:20250705T200000Z
 DTEND:20250705T220000Z
