@@ -369,6 +369,20 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1637\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caleb Wheeler Curtis Trio • Eric Burns’s TSIB Aug 3
+DTSTART:20250803T233000Z
+DTEND:20250804T013000Z
+DTSTAMP:20250803T233000Z
+UID:https://theowl.nyc/calendar?event_id=1644-2025-08-03 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1644\n7:30 Doors\n8:00 Mu
+ sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
+ mage-1096" src="https://theowl.nyc/wp-content/uploads/Caleb-Wheeler-Curtis
+ -5-Color-232x300.jpg" alt="" width="232" height="300" /> <img class="align
+ none size-medium wp-image-2941" src="https://theowl.nyc/wp-content/uploads
+ /eric-burns-235x300.avif" alt="" width="235" height="300" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Felicia Douglass • Mina Walker • Panther Hollow Aug 8
 DTSTART;VALUE=DATE:20250808
 DTEND;VALUE=DATE:20250809
