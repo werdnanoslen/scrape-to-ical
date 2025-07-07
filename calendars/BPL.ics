@@ -11,51 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20250707T140000Z
-DTEND:20250707T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/772376
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250707T190000Z
-DTEND:20250707T210000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/768738
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jigsaw Puzzle Hour
-DTSTART:20250707T190000Z
-DTEND:20250707T210000Z
-DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
- variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
- ://www.bklynlibrary.org/node/774969
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20250707T190000Z
-DTEND:20250707T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /776031
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20250707T200000Z
-DTEND:20250707T210000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/776367
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Basics of the Recording Studio: Music Production at the Library
 DTSTART:20250707T213000Z
 DTEND:20250707T233000Z
@@ -376,5 +331,49 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772378
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: Mission: Impossible – Dead Reckoning (2023)
+DTSTART:20250711T143000Z
+DTEND:20250711T171500Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
+ n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/769521
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20250711T150000Z
+DTEND:20250711T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) get free one-on-one resume hel
+ p\, education and career advice\, interviewing prep\, and more with\n\nhtt
+ ps://www.bklynlibrary.org/node/758230
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250711T150000Z
+DTEND:20250711T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774154
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clase de Computación
+DTSTART:20250711T150000Z
+DTEND:20250711T160000Z
+DESCRIPTION:Viernes de 11am-12pm\n\nhttps://www.bklynlibrary.org/node/7773
+ 66
+LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20250711T160000Z
+DTEND:20250711T180000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/768736
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
