@@ -21,26 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250707T180000Z
-DTEND:20250707T200000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758204
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250707T180000Z
-DTEND:20250707T200000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774057
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250707T190000Z
 DTEND:20250707T210000Z
@@ -377,5 +357,24 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/777339
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250711T140000Z
+DTEND:20250711T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7584
+ 19
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250711T140000Z
+DTEND:20250711T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772378
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
