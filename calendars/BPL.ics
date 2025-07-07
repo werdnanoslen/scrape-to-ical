@@ -21,13 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20250707T150000Z
-DTEND:20250707T160000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/776489
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class (We Speak NYC)
 DTSTART:20250707T153000Z
 DTEND:20250707T173000Z
@@ -372,5 +365,15 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/763496
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20250710T213000Z
+DTEND:20250710T223000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/776158
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
