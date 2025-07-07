@@ -78,6 +78,30 @@ DESCRIPTION:https://www.viewcy.com/e/bahloul__friends_1\n<p><img alt="Bahl
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Farafina Blues
+DTSTART:20250712T000000Z
+DTEND:20250712T020000Z
+DTSTAMP:20250712T000000Z
+UID:Farafina Blues
+DESCRIPTION:https://www.viewcy.com/e/farafina_blues\n<p><img alt="Farafina
+  Blues thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry
+ -component="ImageWithFallback" data-sentry-element="Image" data-sentry-sou
+ rce-file="index.tsx" decoding="async" height="186" loading="lazy" src="htt
+ ps://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F805%2Fcover%2F
+ Black_and_White_Modern_Minimalist_Jazz_Band_Live_Music_Event_Instagram_Pos
+ t.jpg%3F1751925517&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3
+ A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
+ es%2F000%2F018%2F805%2Fcover%2FBlack_and_White_Modern_Minimalist_Jazz_Band
+ _Live_Music_Event_Instagram_Post.jpg%3F1751925517&amp\;w=384&amp\;q=100 1x
+ \, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.co
+ m%2Fcourses%2Ffeatured_images%2F000%2F018%2F805%2Fcover%2FBlack_and_White_
+ Modern_Minimalist_Jazz_Band_Live_Music_Event_Instagram_Post.jpg%3F17519255
+ 17&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p
+ >
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mandingo Ambassadors Live
 DTSTART:20250713T000000Z
 DTEND:20250713T020000Z
