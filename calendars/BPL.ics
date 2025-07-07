@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20250707T153000Z
-DTEND:20250707T173000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/777216
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
 DTSTART:20250707T180000Z
 DTEND:20250707T200000Z
@@ -375,5 +367,15 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
  \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
  lynlibrary.org/node/776158
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20250710T213000Z
+DTEND:20250710T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/777339
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR

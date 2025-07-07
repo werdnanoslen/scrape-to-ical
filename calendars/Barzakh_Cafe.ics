@@ -78,6 +78,27 @@ DESCRIPTION:https://www.viewcy.com/e/bahloul__friends_1\n<p><img alt="Bahl
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mandingo Ambassadors Live
+DTSTART:20250713T000000Z
+DTEND:20250713T020000Z
+DTSTAMP:20250713T000000Z
+UID:Mandingo Ambassadors Live
+DESCRIPTION:https://www.viewcy.com/e/mandingo_ambassadors\n<p><img alt="Ma
+ ndingo Ambassadors Live thumbnail" class="styles_coverImg__PsR9G" data-nim
+ g="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image
+ " data-sentry-source-file="index.tsx" decoding="async" height="186" loadin
+ g="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-
+ heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018
+ %2F788%2Fcover%2F1000035305.jpg%3F1751909817&amp\;w=640&amp\;q=100" srcset
+ ="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com
+ %2Fcourses%2Ffeatured_images%2F000%2F018%2F788%2Fcover%2F1000035305.jpg%3F
+ 1751909817&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewc
+ y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
+ 18%2F788%2Fcover%2F1000035305.jpg%3F1751909817&amp\;w=640&amp\;q=100 2x" s
+ tyle="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bağlama Classes with Ercan Alkan
 DTSTART:20250713T210000Z
 DTEND:20250713T230000Z
@@ -89,15 +110,13 @@ DESCRIPTION:https://www.viewcy.com/e/ba%C4%9Flama_classes_with_1\n<p><img
  -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
  ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
  3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
- ges%2F000%2F018%2F785%2Fcover%2FRed___Black_minimalist_music_class_faceboo
- k_post.jpg%3F1751903420&amp\;w=640&amp\;q=100" srcset="/_next/image?url=ht
- tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
- _images%2F000%2F018%2F785%2Fcover%2FRed___Black_minimalist_music_class_fac
- ebook_post.jpg%3F1751903420&amp\;w=384&amp\;q=100 1x\, /_next/image?url=ht
- tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
- _images%2F000%2F018%2F785%2Fcover%2FRed___Black_minimalist_music_class_fac
- ebook_post.jpg%3F1751903420&amp\;w=640&amp\;q=100 2x" style="color: transp
- arent\;" width="308"/></p>
+ ges%2F000%2F018%2F785%2Fcover%2F1000035306.jpg%3F1751910826&amp\;w=640&amp
+ \;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
+ 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F785%2Fcover%2F10
+ 00035306.jpg%3F1751910826&amp\;w=384&amp\;q=100 1x\, /_next/image?url=http
+ s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
+ mages%2F000%2F018%2F785%2Fcover%2F1000035306.jpg%3F1751910826&amp\;w=640&a
+ mp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
