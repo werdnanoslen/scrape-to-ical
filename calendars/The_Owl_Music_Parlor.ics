@@ -11,46 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:strangely July 3-6
-DTSTART;VALUE=DATE:20250703
-DTEND;VALUE=DATE:20250704
-UID:https://theowl.nyc/calendar?event_id=1640-2025-07-03
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1640\n<p>...we'll be clos
- ed the whole weekend/performing week.  Meanwhile we can meditate a smidge
-  on what America means to us\, I suppose.</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:strangely July 3-6
-DTSTART;VALUE=DATE:20250704
-DTEND;VALUE=DATE:20250705
-UID:https://theowl.nyc/calendar?event_id=1640-2025-07-04
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1640\n<p>...we'll be clos
- ed the whole weekend/performing week.  Meanwhile we can meditate a smidge
-  on what America means to us\, I suppose.</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:strangely July 3-6
-DTSTART;VALUE=DATE:20250705
-DTEND;VALUE=DATE:20250706
-UID:https://theowl.nyc/calendar?event_id=1640-2025-07-05
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1640\n<p>...we'll be clos
- ed the whole weekend/performing week.  Meanwhile we can meditate a smidge
-  on what America means to us\, I suppose.</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:strangely July 3-6
-DTSTART;VALUE=DATE:20250706
-DTEND;VALUE=DATE:20250707
-UID:https://theowl.nyc/calendar?event_id=1640-2025-07-06
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1640\n<p>...we'll be clos
- ed the whole weekend/performing week.  Meanwhile we can meditate a smidge
-  on what America means to us\, I suppose.</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kelly Schenk  • Lila Bloom Jul 10
 DTSTART:20250710T233000Z
 DTEND:20250711T013000Z
@@ -530,6 +490,43 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1642\n7:30 Doors\n8:00 Mu
  300" height="206" />    <img class="alignnone wp-image-1582" src="https:
  //theowl.nyc/wp-content/uploads/prunkastrings-owl-300x147.jpg" alt="" widt
  h="433" height="213" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lexxie Mathis • Elora • Camille Schmidt Oct 2
+DTSTART:20251002T233000Z
+DTEND:20251003T013000Z
+DTSTAMP:20251002T233000Z
+UID:https://theowl.nyc/calendar?event_id=1645-2025-10-02 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1645\n7:30 Doors\n8:00 Mu
+ sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
+ mage-2942" src="https://theowl.nyc/wp-content/uploads/Lexxie-Mathis-300x30
+ 0.jpeg" alt="" width="300" height="300" /> <img class="alignnone size-medi
+ um wp-image-1869" src="https://theowl.nyc/wp-content/uploads/elora-300x224
+ .png" alt="" width="300" height="224" /> <img class="alignnone size-medium
+  wp-image-2241" src="https://theowl.nyc/wp-content/uploads/camille-schmidt
+ -202x300.jpg" alt="" width="202" height="300" /></p>\n<p><strong>Lexxie Ma
+ this</strong> is a session bass player\, composer\, and ambient musician. 
+ This show celebrates the release of her new record\, the edge of forever\,
+  a deeply personal and emotive project\, and her favorite work to date.  
+ She’ll be joined by Samuel Nobles\, a fellow ambient artist whose piano 
+ playing is gentle\, hypnotic\, and at the heart of the record\, and Mikey 
+ Mester on drums.  Lexxie doesn’t perform live often\, so when she does\
+ , it’s intimate — a soft invitation into her world. Her music is nosta
+ lgic and dreamy\, healing and immersive\, meant to be felt as much as hear
+ d.</p>\n<p>From the outskirts of New York City\, <strong>Elora</strong> mo
+ ved to Brooklyn during her undergrad with her partner Theo Walentiny (pian
+ ist\, composer\, producer). The two began producing Elora’s songs in 202
+ 0 while sharing an apartment with no doors in quarantine. The lack of priv
+ acy brought them closer\, learning how to collaborate through being stuck 
+ inside together\, resulting in a sound that represents both of their own s
+ tyles. Theo’s dreamy sound design and Elora’s grounding guitar playing
+  create a warm canvas where the songs feel as alive as the experiences fro
+ m which they were written.</p>\n<p><strong>Camille Schmid</strong>t is a B
+ rooklyn-based songwriter. She released her debut EP <i>Good Person</i> o
+ n June 2\, 2024. You can find her on instagram <a id="m_-3157744207247049
+ 212m_5513655986210063725plusReplyChip-1" class="gmail_plusreply"></a>@cami
+ llejschmidt</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
