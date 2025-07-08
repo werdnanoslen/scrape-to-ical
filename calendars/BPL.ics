@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20250708T210000Z
-DTEND:20250708T223000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/753419
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
 DTSTART:20250708T220000Z
 DTEND:20250708T233000Z
@@ -37,16 +27,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
  67
 LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Basic Computer Class
-DTSTART:20250708T220000Z
-DTEND:20250708T230000Z
-DESCRIPTION:Whether you're starting from scratch or just need a refresher\
- , our Basic Computer classes at Brooklyn Heights are designed to help you 
- get comfortable with using a computer. No need to bring your own—\n\nhtt
- ps://www.bklynlibrary.org/node/769779
-LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aymann Ismail in Conversation with Ramy Youssef
@@ -377,5 +357,22 @@ DTSTART:20250712T140000Z
 DTEND:20250712T150000Z
 DESCRIPTION:Register\n\nhttps://www.bklynlibrary.org/node/767769
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group Cancelled
+DTSTART:20250712T143000Z
+DTEND:20250712T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
+ 85
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crafting with Bioplastics
+DTSTART:20250712T190000Z
+DTEND:20250712T210000Z
+DESCRIPTION:Join us for a hands-on\, drop-in crafting session using biodeg
+ radable materials!\n\nhttps://www.bklynlibrary.org/node/773219
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
