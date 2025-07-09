@@ -11,29 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Soirée Egypto-Tunisienne
-DTSTART:20250708T230000Z
-DTEND:20250709T010000Z
-DTSTAMP:20250708T230000Z
-UID:Soirée Egypto-Tunisienne
-DESCRIPTION:https://www.viewcy.com/e/soire_egyptotunisie\n<p><img alt="Soi
- rée Egypto-Tunisienne thumbnail" class="styles_coverImg__PsR9G" data-nimg
- ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
-  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
- ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-h
- eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%
- 2F354%2Fcover%2FBrown_and_Beige_Simple_Minimalist_Live_Music_Instagram_Pos
- t.jpg%3F1750700868&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3
- A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
- es%2F000%2F018%2F354%2Fcover%2FBrown_and_Beige_Simple_Minimalist_Live_Musi
- c_Instagram_Post.jpg%3F1750700868&amp\;w=384&amp\;q=100 1x\, /_next/image?
- url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
- atured_images%2F000%2F018%2F354%2Fcover%2FBrown_and_Beige_Simple_Minimalis
- t_Live_Music_Instagram_Post.jpg%3F1750700868&amp\;w=640&amp\;q=100 2x" sty
- le="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bahloul & Friends
 DTSTART:20250711T003000Z
 DTEND:20250711T023000Z
