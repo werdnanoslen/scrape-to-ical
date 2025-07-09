@@ -11,43 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
-DTSTART:20250708T220000Z
-DTEND:20250708T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/770462
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250708T220000Z
-DTEND:20250708T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
- 67
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aymann Ismail in Conversation with Ramy Youssef
-DTSTART:20250708T220000Z
-DTEND:20250708T233000Z
-DESCRIPTION:Join us at Brooklyn Heights Library to hear Aymann Ismail disc
- uss his new memoir with actor Ramy Youssef.\n\nhttps://www.bklynlibrary.or
- g/node/771845
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Market Research Simplified! Researching Your Industry
-DTSTART:20250708T220000Z
-DTEND:20250708T000000Z
-DESCRIPTION:In Brooklyn's dynamic and competitive landscape\, true success
-  means seeing beyond the present. Are you ready to gain a crucial competit
- ive edge by deeply understanding your industry? The Brooklyn Publ\n\nhttps
- ://www.bklynlibrary.org/node/772806
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250709T140000Z
 DTEND:20250709T160000Z
@@ -374,5 +337,43 @@ DTEND:20250712T210000Z
 DESCRIPTION:Join us for a hands-on\, drop-in crafting session using biodeg
  radable materials!\n\nhttps://www.bklynlibrary.org/node/773219
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20250712T193000Z
+DTEND:20250712T210000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/768575
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Board Game Exchange - Trade Your Board Games!
+DTSTART:20250713T170000Z
+DTEND:20250713T200000Z
+DESCRIPTION:Bring your gently used games to exchange them out for other ge
+ ntly used games.\n\nhttps://www.bklynlibrary.org/node/773753
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Dungeons & Dragons with the NYC Dice Goblins
+DTSTART:20250713T170000Z
+DTEND:20250713T200000Z
+DESCRIPTION:How do I create a character? What are the rules of combat\, an
+ d how does exploration and role-play work? What do I need to bring when I 
+ show up to a table? What is the role of the DM vs. the role of th\n\nhttps
+ ://www.bklynlibrary.org/node/773765
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250714T140000Z
+DTEND:20250714T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772379
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
