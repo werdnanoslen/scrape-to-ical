@@ -18,15 +18,7 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  y questions you may have about getting online and using digital tools for 
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772377
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plum Paper Craft:  Paper Bag Star
-DTSTART:20250709T170000Z
-DTEND:20250709T183000Z
-DESCRIPTION:Using only paper lunch bags and glue\, create this impressive 
- star.\n\nhttps://www.bklynlibrary.org/node/768457
-LOCATION:Park Slope\, Auditorium
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
@@ -37,6 +29,15 @@ DESCRIPTION:This is a self-service open lab with support tech in the room
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: One-On-One Computer Help
+DTSTART:20250709T190000Z
+DTEND:20250709T200000Z
+DESCRIPTION:Need help with understanding the basics of using a computer? O
+ r maybe it’s just been a while and you’re looking to brush up on your 
+ computer skills.\n\nhttps://www.bklynlibrary.org/node/777362
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250709T190000Z
 DTEND:20250709T210000Z
@@ -45,15 +46,6 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774123
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: One-On-One Computer Help
-DTSTART:20250709T190000Z
-DTEND:20250709T200000Z
-DESCRIPTION:Need help with understanding the basics of using a computer? O
- r maybe it’s just been a while and you’re looking to brush up on your 
- computer skills.\n\nhttps://www.bklynlibrary.org/node/777362
-LOCATION:Pacific Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
@@ -185,7 +177,7 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  y questions you may have about getting online and using digital tools for 
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772378
-LOCATION:Central Library
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Movie: Mission: Impossible – Dead Reckoning (2023)
@@ -328,7 +320,7 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  y questions you may have about getting online and using digital tools for 
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772379
-LOCATION:Central Library
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free English Class (We Speak NYC)
@@ -373,5 +365,15 @@ DTEND:20250714T210000Z
 DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
  /776032
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20250714T200000Z
+DTEND:20250714T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/776368
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
