@@ -168,6 +168,51 @@ DESCRIPTION:https://www.viewcy.com/e/krol_fest_presents_s\n<p><img alt="Kr
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Armadi tsayn Live at Barzakh
+DTSTART:20250727T230000Z
+DTEND:20250728T010000Z
+DTSTAMP:20250727T230000Z
+UID:Armadi tsayn Live at Barzakh
+DESCRIPTION:https://www.viewcy.com/e/armadi_tsayn_live_at\n<p><img alt="Ar
+ madi tsayn Live at Barzakh thumbnail" class="styles_coverImg__PsR9G" data-
+ nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Im
+ age" data-sentry-source-file="index.tsx" decoding="async" height="186" loa
+ ding="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fview
+ cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
+ 018%2F862%2Fcover%2FPHOTO-2025-07-03-18-04-28.jpg%3F1752180844&amp\;w=640&
+ amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-productio
+ n.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F862%2Fcover%2
+ FPHOTO-2025-07-03-18-04-28.jpg%3F1752180844&amp\;w=384&amp\;q=100 1x\, /_n
+ ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
+ urses%2Ffeatured_images%2F000%2F018%2F862%2Fcover%2FPHOTO-2025-07-03-18-04
+ -28.jpg%3F1752180844&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
+ " width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book and Movie Night
+DTSTART:20250731T220000Z
+DTEND:20250801T000000Z
+DTSTAMP:20250731T220000Z
+UID:Book and Movie Night
+DESCRIPTION:https://www.viewcy.com/e/book_and_movie_night\n<p><img alt="Bo
+ ok and Movie Night thumbnail" class="styles_coverImg__PsR9G" data-nimg="1"
+  data-sentry-component="ImageWithFallback" data-sentry-element="Image" dat
+ a-sentry-source-file="index.tsx" decoding="async" height="186" loading="la
+ zy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F86
+ 1%2Fcover%2FGray_Black_and_White_Modern_Fashion_Launch_Flyer.jpg%3F1752180
+ 230&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%
+ 2F861%2Fcover%2FGray_Black_and_White_Modern_Fashion_Launch_Flyer.jpg%3F175
+ 2180230&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%
+ 2F861%2Fcover%2FGray_Black_and_White_Modern_Fashion_Launch_Flyer.jpg%3F175
+ 2180230&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"
+ /></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lala Tamar & friends\, ft Yacouba Sissoko
 DTSTART:20250803T000000Z
 DTEND:20250803T020000Z
