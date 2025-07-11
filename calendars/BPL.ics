@@ -21,25 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:How SBA Programs and Services Can Help Your Start\, Grow and Succe
- ed
-DTSTART:20250711T180000Z
-DTEND:20250711T200000Z
-DESCRIPTION:Your Blueprint for Success: SBA Programs for Brooklyn Business
-  Owners!\n\nhttps://www.bklynlibrary.org/node/772573
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pop-up Card Craft Workshop
-DTSTART:20250711T180000Z
-DTEND:20250711T200000Z
-DESCRIPTION:Join us to learn and create a pop-up card! We'll provide all t
- he materials you need to make a heart-shaped pop-up card.Express your feel
- ings to someone special—whether it’s a friend\, a partner\, or a p\n\n
- https://www.bklynlibrary.org/node/775117
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Literacy Volunteer Information Session
 DTSTART:20250712T140000Z
 DTEND:20250712T150000Z
@@ -376,5 +357,23 @@ DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
  d then have the option to engage in conversation with other book love\n\nh
  ttps://www.bklynlibrary.org/node/768684
 LOCATION:Central Library\, Info Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20250716T180000Z
+DTEND:20250716T190000Z
+DESCRIPTION:Ask A Tech is a class where you can ask about anything involvi
+ ng your computer\, phone\, and or tablet\, and also acquire knowledge on h
+ ow to use all of technological equipment you have.\n\nhttps://www.bklynlib
+ rary.org/node/774339
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Tech Help for Your Job Search
+DTSTART:20250716T180000Z
+DTEND:20250716T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/771658
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
