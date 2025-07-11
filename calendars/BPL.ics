@@ -29,26 +29,6 @@ DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250711T150000Z
-DTEND:20250711T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758230
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250711T150000Z
-DTEND:20250711T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774154
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250711T160000Z
 DTEND:20250711T180000Z
@@ -372,5 +352,23 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772380
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20250716T140000Z
+DTEND:20250716T153000Z
+DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew 
+ Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
+ 650
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One-On-One Computer Help
+DTSTART:20250716T150000Z
+DTEND:20250716T160000Z
+DESCRIPTION:Need help with understanding the basics of using a computer? O
+ r maybe it’s just been a while and you’re looking to brush up on your 
+ computer skills.\n\nhttps://www.bklynlibrary.org/node/777363
+LOCATION:Pacific Library
 END:VEVENT
 END:VCALENDAR
