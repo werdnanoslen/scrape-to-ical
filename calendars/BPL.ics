@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group Cancelled
-DTSTART:20250711T170000Z
-DTEND:20250711T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 28
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20250711T180000Z
-DTEND:20250711T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763519
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:How SBA Programs and Services Can Help Your Start\, Grow and Succe
  ed
 DTSTART:20250711T180000Z
@@ -374,5 +356,25 @@ DESCRIPTION:Do you have a specific question about how to use computers or
   1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
  //www.bklynlibrary.org/node/764123
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
+DTSTART:20250716T170000Z
+DTEND:20250716T180000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/773228
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiet Reading Party
+DTSTART:20250716T173000Z
+DTEND:20250716T190000Z
+DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
+ \, art\, and more! Bring your own book to quietly read for 45 minutes\, an
+ d then have the option to engage in conversation with other book love\n\nh
+ ttps://www.bklynlibrary.org/node/768684
+LOCATION:Central Library\, Info Commons
 END:VEVENT
 END:VCALENDAR
