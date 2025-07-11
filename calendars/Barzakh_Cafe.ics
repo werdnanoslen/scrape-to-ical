@@ -122,6 +122,30 @@ DESCRIPTION:https://www.viewcy.com/e/vinay_x_vivek\n<p><img alt="The Inner
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ameer Armaly & Friends
+DTSTART:20250720T233000Z
+DTEND:20250721T013000Z
+DTSTAMP:20250720T233000Z
+UID:Ameer Armaly & Friends
+DESCRIPTION:https://www.viewcy.com/e/ameer_armaly__friend_1\n<p><img alt="
+ Ameer Armaly &amp\; Friends thumbnail" class="styles_coverImg__PsR9G" data
+ -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
+ mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
+ ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvie
+ wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
+ F018%2F877%2Fcover%2FBlack_and_Orange_Modern_Photocentric_Rock_Music_Event
+ _Instagram_Post.jpg%3F1752246465&amp\;w=640&amp\;q=100" srcset="/_next/ima
+ ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
+ Ffeatured_images%2F000%2F018%2F877%2Fcover%2FBlack_and_Orange_Modern_Photo
+ centric_Rock_Music_Event_Instagram_Post.jpg%3F1752246465&amp\;w=384&amp\;q
+ =100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazo
+ naws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F877%2Fcover%2FBlack_and
+ _Orange_Modern_Photocentric_Rock_Music_Event_Instagram_Post.jpg%3F17522464
+ 65&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p
+ >
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kréol Fest presents Sounds From the Indian Ocean Vol 2 ft. Maya K
  amaty at Barzakh Café.
 DTSTART:20250726T000000Z
