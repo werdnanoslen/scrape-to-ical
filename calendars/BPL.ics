@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Crafting with Bioplastics
-DTSTART:20250712T190000Z
-DTEND:20250712T210000Z
-DESCRIPTION:Join us for a hands-on\, drop-in crafting session using biodeg
- radable materials!\n\nhttps://www.bklynlibrary.org/node/773219
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feng Shui and I Ching
-DTSTART:20250712T193000Z
-DTEND:20250712T210000Z
-DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
- arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
- ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
- ps://www.bklynlibrary.org/node/768575
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Board Game Exchange - Trade Your Board Games!
 DTSTART:20250713T170000Z
 DTEND:20250713T200000Z
@@ -377,5 +359,24 @@ DESCRIPTION:BPL Presents welcomes nationally renowned author and leader St
   returning protagonist Avery down a dark rabbit hole into the bre\n\nhttps
  ://www.bklynlibrary.org/node/772580
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20250717T140000Z
+DTEND:20250717T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7530
+ 25
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20250717T140000Z
+DTEND:20250717T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/767021
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
