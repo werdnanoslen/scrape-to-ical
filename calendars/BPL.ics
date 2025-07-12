@@ -11,13 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Literacy Volunteer Information Session
-DTSTART:20250712T140000Z
-DTEND:20250712T150000Z
-DESCRIPTION:Register\n\nhttps://www.bklynlibrary.org/node/767769
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group Cancelled
 DTSTART:20250712T143000Z
 DTEND:20250712T160000Z
@@ -375,5 +368,14 @@ DESCRIPTION:NOTE: This session has been relocated to the Information Commo
  er for help with your resume\, cover letter\, interview\, and job se\n\nht
  tps://www.bklynlibrary.org/node/774124
 LOCATION:Central Library\, Info Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250716T200000Z
+DTEND:20250716T210000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763455
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
