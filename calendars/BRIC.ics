@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:3D Modeling with Blender
-DTSTART:20250711T220000Z
-DTEND:20250712T010000Z
-DTSTAMP:20250711T220000Z
-UID:3D Modeling with Blender-2025-07-11T22:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/3d-modeling-with-bl
- ender/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lightroom Essentials
-DTSTART:20250711T180000Z
-DTEND:20250711T200000Z
-DTSTAMP:20250711T180000Z
-UID:Lightroom Essentials-2025-07-11T18:00:00+00:00
-DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
- s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Digital Photography 
 DTSTART:20250712T220000Z
 DTEND:20250713T010000Z
@@ -454,16 +434,6 @@ DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/intermediate-premie
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250726T180000Z
-DTEND:20250726T210000Z
-DTSTAMP:20250726T180000Z
-UID:TV Studio Intensive-2025-07-26T18:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Tribute to Quincy Jones: The Wiz
 DTSTART:20250726T220000Z
 DTEND:20250727T023000Z
@@ -473,6 +443,16 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/the-wiz/\nhttps://
  goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-cont
  ent/uploads/2025/05/The-Wiz-image-200x200.webp" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250726T180000Z
+DTEND:20250726T210000Z
+DTSTAMP:20250726T180000Z
+UID:TV Studio Intensive-2025-07-26T18:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
@@ -499,16 +479,6 @@ LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
-DTSTART:20250728T180000Z
-DTEND:20250728T210000Z
-DTSTAMP:20250728T180000Z
-UID:Video Production in the Field-2025-07-28T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
 DTSTART:20250728T220000Z
 DTEND:20250729T010000Z
 DTSTAMP:20250728T220000Z
@@ -518,23 +488,13 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250729T220000Z
-DTEND:20250730T010000Z
-DTSTAMP:20250729T220000Z
-UID:TV Studio Intensive-2025-07-29T22:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20250729T220000Z
-DTEND:20250730T010000Z
-DTSTAMP:20250729T220000Z
-UID:Video Editing with Premiere -2025-07-29T22:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Video Production in the Field
+DTSTART:20250728T180000Z
+DTEND:20250728T210000Z
+DTSTAMP:20250728T180000Z
+UID:Video Production in the Field-2025-07-28T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -548,6 +508,16 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250729T220000Z
+DTEND:20250730T010000Z
+DTSTAMP:20250729T220000Z
+UID:TV Studio Intensive-2025-07-29T22:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Session 1: Art of the Pitch
 DTSTART:20250729T220000Z
 DTEND:20250729T230000Z
@@ -556,6 +526,26 @@ UID:Session 1: Art of the Pitch-2025-07-29T22:00:00+00:00
 DESCRIPTION:Cost: Cost - (suggested donation $10 per session)\nhttps://bri
  cartsmedia.org/class/bric-pitch-series-with-seed-spark-jul-dec-2025/
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20250729T220000Z
+DTEND:20250730T010000Z
+DTSTAMP:20250729T220000Z
+UID:Video Editing with Premiere -2025-07-29T22:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20250730T220000Z
+DTEND:20250731T010000Z
+DTSTAMP:20250730T220000Z
+UID:Video Production in the Field-2025-07-30T22:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to DaVinci Resolve
@@ -575,26 +565,6 @@ DTSTAMP:20250730T180000Z
 UID:Video Production in the Field-2025-07-30T18:00:00+00:00
 DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
  -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20250730T220000Z
-DTEND:20250731T010000Z
-DTSTAMP:20250730T220000Z
-UID:Video Production in the Field-2025-07-30T22:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20250731T220000Z
-DTEND:20250801T010000Z
-DTSTAMP:20250731T220000Z
-UID:Video Editing with Premiere -2025-07-31T22:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -618,6 +588,26 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20250731T220000Z
+DTEND:20250801T010000Z
+DTSTAMP:20250731T220000Z
+UID:Video Editing with Premiere -2025-07-31T22:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D Modeling with Blender
+DTSTART:20250801T220000Z
+DTEND:20250802T010000Z
+DTSTAMP:20250801T220000Z
+UID:3D Modeling with Blender-2025-08-01T22:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/3d-modeling-with-bl
+ ender/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mireya Ramos and the Poor Choices | Morley | Talibah Safiya
 DTSTART:20250801T220000Z
 DTEND:20250802T023000Z
@@ -631,13 +621,23 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/mireya-ramos-and-t
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3D Modeling with Blender
-DTSTART:20250801T220000Z
-DTEND:20250802T010000Z
-DTSTAMP:20250801T220000Z
-UID:3D Modeling with Blender-2025-08-01T22:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/3d-modeling-with-bl
- ender/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Mini Studio Production
+DTSTART:20250802T180000Z
+DTEND:20250802T210000Z
+DTSTAMP:20250802T180000Z
+UID:Mini Studio Production-2025-08-02T18:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intermediate Premiere
+DTSTART:20250802T180000Z
+DTEND:20250802T210000Z
+DTSTAMP:20250802T180000Z
+UID:Intermediate Premiere-2025-08-02T18:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/intermediate-premie
+ re/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -651,26 +651,6 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/gogol-bordello-puz
  ://bricartsmedia.org/wp-content/uploads/2025/04/IMG_4216-200x200.jpg" alt=
  "" />
 LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intermediate Premiere
-DTSTART:20250802T180000Z
-DTEND:20250802T210000Z
-DTSTAMP:20250802T180000Z
-UID:Intermediate Premiere-2025-08-02T18:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/intermediate-premie
- re/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20250802T180000Z
-DTEND:20250802T210000Z
-DTSTAMP:20250802T180000Z
-UID:Mini Studio Production-2025-08-02T18:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
- ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TV Studio Intensive
@@ -771,6 +751,29 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/adrian-quesada-tri
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
+DTSTART:20250809T150000Z
+DTEND:20250809T170000Z
+DTSTAMP:20250809T150000Z
+UID:Liberty Farms and BRIC present Farm Fresh Saturdays-2025-08-09T15:00:0
+ 0+00:00
+DESCRIPTION:https://bricartsmedia.org/event/liberty-farms-and-bric-present
+ -farm-fresh-saturdays/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="h
+ ttps://bricartsmedia.org/wp-content/uploads/2025/06/CSA-FLYER-1-200x200.pn
+ g" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250809T180000Z
+DTEND:20250809T210000Z
+DTSTAMP:20250809T180000Z
+UID:TV Studio Intensive-2025-08-09T18:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mini Studio Production
 DTSTART:20250809T180000Z
 DTEND:20250809T210000Z
@@ -793,29 +796,6 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/lyricist-lounge-an
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250809T180000Z
-DTEND:20250809T210000Z
-DTSTAMP:20250809T180000Z
-UID:TV Studio Intensive-2025-08-09T18:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
-DTSTART:20250809T150000Z
-DTEND:20250809T170000Z
-DTSTAMP:20250809T150000Z
-UID:Liberty Farms and BRIC present Farm Fresh Saturdays-2025-08-09T15:00:0
- 0+00:00
-DESCRIPTION:https://bricartsmedia.org/event/liberty-farms-and-bric-present
- -farm-fresh-saturdays/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="h
- ttps://bricartsmedia.org/wp-content/uploads/2025/06/CSA-FLYER-1-200x200.pn
- g" alt="" />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Digital Photography 
 DTSTART:20250811T180000Z
 DTEND:20250811T210000Z
@@ -836,16 +816,6 @@ DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/davinci-resolve-for
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250812T220000Z
-DTEND:20250813T010000Z
-DTSTAMP:20250812T220000Z
-UID:TV Studio Intensive-2025-08-12T22:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere 
 DTSTART:20250812T180000Z
 DTEND:20250812T210000Z
@@ -856,6 +826,16 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250812T220000Z
+DTEND:20250813T010000Z
+DTSTAMP:20250812T220000Z
+UID:TV Studio Intensive-2025-08-12T22:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DaVinci Resolve for Editors
 DTSTART:20250813T220000Z
 DTEND:20250814T010000Z
@@ -863,36 +843,6 @@ DTSTAMP:20250813T220000Z
 UID:DaVinci Resolve for Editors-2025-08-13T22:00:00+00:00
 DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/davinci-resolve-for
  -editors/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intro to Digital Photography 
-DTSTART:20250814T180000Z
-DTEND:20250814T210000Z
-DTSTAMP:20250814T180000Z
-UID:Intro to Digital Photography -2025-08-14T18:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/class/intro-to-digital-photography/\
- nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Audition Essentials
-DTSTART:20250814T143000Z
-DTEND:20250814T173000Z
-DTSTAMP:20250814T143000Z
-UID:Audition Essentials-2025-08-14T14:30:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/audition-essential
- s/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20250814T180000Z
-DTEND:20250814T210000Z
-DTSTAMP:20250814T180000Z
-UID:Video Editing with Premiere -2025-08-14T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -909,6 +859,36 @@ DESCRIPTION:Cost: 26.38\nhttps://bricartsmedia.org/event/reel-sisters-and-
 LOCATION:BRIC House &amp\; Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20250814T180000Z
+DTEND:20250814T210000Z
+DTSTAMP:20250814T180000Z
+UID:Video Editing with Premiere -2025-08-14T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audition Essentials
+DTSTART:20250814T143000Z
+DTEND:20250814T173000Z
+DTSTAMP:20250814T143000Z
+UID:Audition Essentials-2025-08-14T14:30:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/audition-essential
+ s/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Digital Photography 
+DTSTART:20250814T180000Z
+DTEND:20250814T210000Z
+DTSTAMP:20250814T180000Z
+UID:Intro to Digital Photography -2025-08-14T18:00:00+00:00
+DESCRIPTION:https://bricartsmedia.org/class/intro-to-digital-photography/\
+ nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to Radio Podcasting
 DTSTART:20250815T180000Z
 DTEND:20250815T210000Z
@@ -916,6 +896,16 @@ DTSTAMP:20250815T180000Z
 UID:Intro to Radio Podcasting-2025-08-15T18:00:00+00:00
 DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
  asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20250815T180000Z
+DTEND:20250815T210000Z
+DTSTAMP:20250815T180000Z
+UID:Video Production in the Field-2025-08-15T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -931,13 +921,26 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/william-parker-nik
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20250815T180000Z
-DTEND:20250815T210000Z
-DTSTAMP:20250815T180000Z
-UID:Video Production in the Field-2025-08-15T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
+DTSTART:20250816T150000Z
+DTEND:20250816T170000Z
+DTSTAMP:20250816T150000Z
+UID:Liberty Farms and BRIC present Farm Fresh Saturdays-2025-08-16T15:00:0
+ 0+00:00
+DESCRIPTION:https://bricartsmedia.org/event/liberty-farms-and-bric-present
+ -farm-fresh-saturdays/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="h
+ ttps://bricartsmedia.org/wp-content/uploads/2025/06/CSA-FLYER-1-200x200.pn
+ g" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250816T180000Z
+DTEND:20250816T210000Z
+DTSTAMP:20250816T180000Z
+UID:TV Studio Intensive-2025-08-16T18:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -954,27 +957,14 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/closing-night-nick
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250816T180000Z
-DTEND:20250816T210000Z
-DTSTAMP:20250816T180000Z
-UID:TV Studio Intensive-2025-08-16T18:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Mini Studio Production
+DTSTART:20250818T220000Z
+DTEND:20250819T010000Z
+DTSTAMP:20250818T220000Z
+UID:Mini Studio Production-2025-08-18T22:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
-DTSTART:20250816T150000Z
-DTEND:20250816T170000Z
-DTSTAMP:20250816T150000Z
-UID:Liberty Farms and BRIC present Farm Fresh Saturdays-2025-08-16T15:00:0
- 0+00:00
-DESCRIPTION:https://bricartsmedia.org/event/liberty-farms-and-bric-present
- -farm-fresh-saturdays/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="h
- ttps://bricartsmedia.org/wp-content/uploads/2025/06/CSA-FLYER-1-200x200.pn
- g" alt="" />
-LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Television Studio Basics
@@ -997,13 +987,13 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20250818T220000Z
-DTEND:20250819T010000Z
-DTSTAMP:20250818T220000Z
-UID:Mini Studio Production-2025-08-18T22:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
- ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Video Editing with Premiere 
+DTSTART:20250819T180000Z
+DTEND:20250819T210000Z
+DTSTAMP:20250819T180000Z
+UID:Video Editing with Premiere -2025-08-19T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1014,16 +1004,6 @@ DTSTAMP:20250819T220000Z
 UID:TV Studio Intensive-2025-08-19T22:00:00+00:00
 DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
  on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20250819T180000Z
-DTEND:20250819T210000Z
-DTSTAMP:20250819T180000Z
-UID:Video Editing with Premiere -2025-08-19T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1055,5 +1035,25 @@ UID:Television Studio Basics-2025-08-20T18:00:00+00:00
 DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/television-studio-b
  asics/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20250821T180000Z
+DTEND:20250821T210000Z
+DTSTAMP:20250821T180000Z
+UID:Video Editing with Premiere -2025-08-21T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audition Essentials
+DTSTART:20250821T143000Z
+DTEND:20250821T173000Z
+DTSTAMP:20250821T143000Z
+UID:Audition Essentials-2025-08-21T14:30:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/audition-essential
+ s/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 END:VCALENDAR
