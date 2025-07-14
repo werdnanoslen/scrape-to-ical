@@ -21,26 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250714T180000Z
-DTEND:20250714T200000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758205
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250714T180000Z
-DTEND:20250714T200000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774058
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250714T190000Z
 DTEND:20250714T210000Z
@@ -55,6 +35,13 @@ DTEND:20250714T210000Z
 DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
  /776032
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20250714T190000Z
+DTEND:20250714T210000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778969
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga
@@ -305,6 +292,13 @@ DESCRIPTION:NOTE: This session has been relocated to the Information Commo
  er for help with your resume\, cover letter\, interview\, and job se\n\nht
  tps://www.bklynlibrary.org/node/774124
 LOCATION:Central Library\, Info Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20250716T190000Z
+DTEND:20250716T210000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778971
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
