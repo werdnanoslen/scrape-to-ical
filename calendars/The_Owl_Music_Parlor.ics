@@ -749,6 +749,22 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1658\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Owl Presents: Elysian Fields at LPR!  Nov 23
+DTSTART:20251124T000000Z
+DTEND:20251124T020000Z
+DTSTAMP:20251124T000000Z
+UID:https://theowl.nyc/calendar?event_id=1659-2025-11-24 00:00:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1659\n7:00 pm\n<p><strong
+ >ATTENTION!  </strong></p>\n<p><strong>This Concert is at Le Poisson Roug
+ e</strong> and is a co-presentation of TOMP.</p>\n<p>See the adjacent list
+ ing for The Owl's on-site programming.</p>\n<p>&nbsp\;</p>\n<p><img class=
+ "alignnone size-large wp-image-2949" src="https://theowl.nyc/wp-content/up
+ loads/Screenshot-2025-07-15-at-12.38.35-AM-1024x655.png" alt="" width="669
+ " height="428" /></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>
+ &nbsp\;</p>\n<p>&nbsp\;</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hanksgiving Nov 28
 DTSTART:20251128T050000Z
 DTEND:20251128T070000Z
