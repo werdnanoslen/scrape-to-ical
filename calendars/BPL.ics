@@ -218,13 +218,6 @@ DESCRIPTION:NOTE: This session has been relocated to the Information Commo
 LOCATION:Central Library\, Info Commons
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20250716T190000Z
-DTEND:20250716T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778971
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20250716T200000Z
 DTEND:20250716T210000Z
@@ -318,13 +311,6 @@ DESCRIPTION:This drop-in lab is geared towards beginner computer users to
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20250717T190000Z
-DTEND:20250717T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778972
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20250717T213000Z
 DTEND:20250717T230000Z
@@ -380,5 +366,24 @@ DESCRIPTION:Looking for a different way to earn your high school equivalen
  Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
  ://www.bklynlibrary.org/node/775804
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250718T140000Z
+DTEND:20250718T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7635
+ 37
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250718T140000Z
+DTEND:20250718T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772381
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
