@@ -687,6 +687,68 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1633\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Elysian Fields 30th Anniversary i Oct 24
+DTSTART:20251024T233000Z
+DTEND:20251025T013000Z
+DTSTAMP:20251024T233000Z
+UID:https://theowl.nyc/calendar?event_id=1653-2025-10-24 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1653\n7:30 Doors\n8:00 Mu
+ sic\n<p><img class="wp-image-171 size-full" src="https://theowl.nyc/wp-con
+ tent/uploads/2015/11/elysianfields-18.jpg" alt="" width="630" height="420"
+  /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elysian Fields 30th Anniversary ii Nov 1
+DTSTART:20251101T233000Z
+DTEND:20251102T013000Z
+DTSTAMP:20251101T233000Z
+UID:https://theowl.nyc/calendar?event_id=1654-2025-11-01 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1654\n7:30 Doors\n8:00 Mu
+ sic\n<p><img class="alignnone wp-image-1384" src="https://theowl.nyc/wp-co
+ ntent/uploads/ElysianFieldsbyMichaelLavine_2374-683x1024.jpg" alt="" width
+ ="314" height="471" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dig Nitty • Jackie West • tba.  Nov 6
+DTSTART:20251107T003000Z
+DTEND:20251107T023000Z
+DTSTAMP:20251107T003000Z
+UID:https://theowl.nyc/calendar?event_id=1652-2025-11-07 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1652\n7:30 Doors\n8:00 Mu
+ sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
+ mage-1779" src="https://theowl.nyc/wp-content/uploads/Dig-itty-300x194.png
+ " alt="" width="300" height="194" /> <img class="alignnone size-medium wp-
+ image-2185" src="https://theowl.nyc/wp-content/uploads/Jackie-West-1-200x3
+ 00.jpeg" alt="" width="200" height="300" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elysian Fields 30th Anniversary iii Nov 8
+DTSTART:20251109T003000Z
+DTEND:20251109T023000Z
+DTSTAMP:20251109T003000Z
+UID:https://theowl.nyc/calendar?event_id=1656-2025-11-09 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1656\n7:30 Doors\n8:00 Mu
+ sic\n<p><img class="alignnone wp-image-123" src="https://theowl.nyc/wp-con
+ tent/uploads/2015/10/ElysianFieldsbyPeterBeste-39.jpg" alt="" width="500" 
+ height="333" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elysian Fields 30th Anniversary iv Nov 15
+DTSTART:20251116T003000Z
+DTEND:20251116T023000Z
+DTSTAMP:20251116T003000Z
+UID:https://theowl.nyc/calendar?event_id=1658-2025-11-16 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1658\n7:30 Doors\n8:00 Mu
+ sic\n<p><img class="alignnone wp-image-2714" src="https://theowl.nyc/wp-co
+ ntent/uploads/Elysian-Fields-Dec-213.55.10-PM.png" alt="" width="456" heig
+ ht="431" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hanksgiving Nov 28
 DTSTART:20251128T050000Z
 DTEND:20251128T070000Z
