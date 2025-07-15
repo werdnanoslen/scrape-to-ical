@@ -154,6 +154,16 @@ DESCRIPTION:Learn all about today's financial markets from two women who
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adult Coloring
+DTSTART:20250716T170000Z
+DTEND:20250716T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /779290
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Quiet Reading Party
 DTSTART:20250716T173000Z
 DTEND:20250716T190000Z
@@ -377,15 +387,5 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  p\, education and career advice\, interviewing prep\, and more with\n\nhtt
  ps://www.bklynlibrary.org/node/758231
 LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250718T150000Z
-DTEND:20250718T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774150
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
