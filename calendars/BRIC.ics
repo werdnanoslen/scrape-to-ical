@@ -85,18 +85,6 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Benefit Concert: Men I Trust | strongboi
-DTSTART:20250718T223000Z
-DTEND:20250719T003000Z
-DTSTAMP:20250718T223000Z
-UID:Benefit Concert: Men I Trust | strongboi-2025-07-18T22:30:00+00:00
-DESCRIPTION:Cost: $49.99-$58 + fees\nhttps://bricartsmedia.org/event/benef
- it-concert-men-i-trust/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="
- https://bricartsmedia.org/wp-content/uploads/2025/02/SefcJgUg-200x200.jpeg
- " alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Driven Society Presents "Events in Culture" Summit in Partnership 
  with BRIC
 DTSTART:20250718T190000Z
@@ -110,6 +98,18 @@ DESCRIPTION:Cost: $44.19 - $529.49\nhttps://bricartsmedia.org/event/driven
  content/uploads/2025/06/DrivenSociety-Jul18thEvent-Graphics-C-200x200.jpg"
   alt="" />
 LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benefit Concert: Men I Trust | strongboi
+DTSTART:20250718T223000Z
+DTEND:20250719T003000Z
+DTSTAMP:20250718T223000Z
+UID:Benefit Concert: Men I Trust | strongboi-2025-07-18T22:30:00+00:00
+DESCRIPTION:Cost: $49.99-$58 + fees\nhttps://bricartsmedia.org/event/benef
+ it-concert-men-i-trust/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="
+ https://bricartsmedia.org/wp-content/uploads/2025/02/SefcJgUg-200x200.jpeg
+ " alt="" />
+LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3D Modeling with Blender
@@ -132,16 +132,6 @@ DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250719T180000Z
-DTEND:20250719T210000Z
-DTSTAMP:20250719T180000Z
-UID:TV Studio Intensive-2025-07-19T18:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BRIC Celebrate Brooklyn! at Brower Park
 DTSTART:20250719T190000Z
 DTEND:20250720T020000Z
@@ -152,6 +142,16 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bric-celebrate-bro
  g src="https://bricartsmedia.org/wp-content/uploads/2025/05/images-200x200
  .jpg" alt="" />
 LOCATION:Park Place between Brooklyn Ave and Kingston Ave
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250719T180000Z
+DTEND:20250719T210000Z
+DTSTAMP:20250719T180000Z
+UID:TV Studio Intensive-2025-07-19T18:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
@@ -496,6 +496,16 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/3d-modeling-with-bl
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250802T180000Z
+DTEND:20250802T210000Z
+DTSTAMP:20250802T180000Z
+UID:TV Studio Intensive-2025-08-02T18:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intermediate Premiere
 DTSTART:20250802T180000Z
 DTEND:20250802T210000Z
@@ -525,16 +535,6 @@ DTSTAMP:20250802T180000Z
 UID:Mini Studio Production-2025-08-02T18:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
  ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250802T180000Z
-DTEND:20250802T210000Z
-DTSTAMP:20250802T180000Z
-UID:TV Studio Intensive-2025-08-02T18:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -636,6 +636,16 @@ DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250809T180000Z
+DTEND:20250809T210000Z
+DTSTAMP:20250809T180000Z
+UID:TV Studio Intensive-2025-08-09T18:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LYRICIST LOUNGE Anniversary Show
 DTSTART:20250809T220000Z
 DTEND:20250810T023000Z
@@ -646,16 +656,6 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/lyricist-lounge-an
  bricartsmedia.org/wp-content/uploads/2025/05/Photo-Credit-Lyricist-Lounge-
  Productions-Inc-200x200.jpg" alt="" />
 LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250809T180000Z
-DTEND:20250809T210000Z
-DTSTAMP:20250809T180000Z
-UID:TV Studio Intensive-2025-08-09T18:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
@@ -671,16 +671,6 @@ DESCRIPTION:https://bricartsmedia.org/event/liberty-farms-and-bric-present
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Digital Photography 
-DTSTART:20250811T180000Z
-DTEND:20250811T210000Z
-DTSTAMP:20250811T180000Z
-UID:Intro to Digital Photography -2025-08-11T18:00:00+00:00
-DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/class/intro-to-digital-ph
- otography/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DaVinci Resolve for Editors
 DTSTART:20250811T220000Z
 DTEND:20250812T010000Z
@@ -689,6 +679,16 @@ UID:DaVinci Resolve for Editors-2025-08-11T22:00:00+00:00
 DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/davinci-resolve-for
  -editors/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Digital Photography 
+DTSTART:20250811T180000Z
+DTEND:20250811T210000Z
+DTSTAMP:20250811T180000Z
+UID:Intro to Digital Photography -2025-08-11T18:00:00+00:00
+DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/class/intro-to-digital-ph
+ otography/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TV Studio Intensive

@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quiet Reading Party
-DTSTART:20250716T173000Z
-DTEND:20250716T190000Z
-DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
- \, art\, and more! Bring your own book to quietly read for 45 minutes\, an
- d then have the option to engage in conversation with other book love\n\nh
- ttps://www.bklynlibrary.org/node/768684
-LOCATION:Central Library\, Info Commons
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Tech Help for Your Job Search
 DTSTART:20250716T180000Z
 DTEND:20250716T200000Z
@@ -39,17 +29,7 @@ DESCRIPTION:This is a self-service open lab with support tech in the room
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20250716T180000Z
-DTEND:20250716T190000Z
-DESCRIPTION:Ask A Tech is a class where you can ask about anything involvi
- ng your computer\, phone\, and or tablet\, and also acquire knowledge on h
- ow to use all of technological equipment you have.\n\nhttps://www.bklynlib
- rary.org/node/774339
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
 DTSTART:20250716T190000Z
 DTEND:20250716T210000Z
 DESCRIPTION:NOTE: This session has been relocated to the Information Commo
@@ -380,5 +360,23 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  p\, education and career advice\, interviewing prep\, and more with\n\nhtt
  ps://www.bklynlibrary.org/node/758206
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250721T180000Z
+DTEND:20250721T200000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774059
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20250721T190000Z
+DTEND:20250721T210000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/771661
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
