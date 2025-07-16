@@ -10,4 +10,208 @@ URL:https://raw.githubusercontent.com/werdnanoslen/scrape-to-ical/refs/hea
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
+BEGIN:VEVENT
+SUMMARY:The Inner Song: Vinay Desai X Vivek Pandya
+DTSTART:20250719T000000Z
+DTEND:20250719T020000Z
+DTSTAMP:20250719T000000Z
+UID:The Inner Song: Vinay Desai X Vivek Pandya
+DESCRIPTION:https://www.viewcy.com/e/vinay_x_vivek\n<p><img alt="The Inner
+  Song: Vinay Desai X Vivek Pandya thumbnail" class="styles_coverImg__PsR9G
+ " data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elem
+ ent="Image" data-sentry-source-file="index.tsx" decoding="async" height="1
+ 86" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F
+ %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
+ F000%2F018%2F572%2Fcover%2FQawwals_Live_Performance.jpg%3F1751573020&amp\;
+ w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-pro
+ duction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F572%2Fc
+ over%2FQawwals_Live_Performance.jpg%3F1751573020&amp\;w=384&amp\;q=100 1x\
+ , /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com
+ %2Fcourses%2Ffeatured_images%2F000%2F018%2F572%2Fcover%2FQawwals_Live_Perf
+ ormance.jpg%3F1751573020&amp\;w=640&amp\;q=100 2x" style="color: transpare
+ nt\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bağlama Classes with Ercan Alkan
+DTSTART:20250719T190000Z
+DTEND:20250719T210000Z
+DTSTAMP:20250719T190000Z
+UID:Bağlama Classes with Ercan Alkan
+DESCRIPTION:https://www.viewcy.com/e/ba%C4%9Flama_classes_with_3\n<p><img 
+ alt="Bağlama Classes with Ercan Alkan thumbnail" class="styles_coverImg__
+ PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
+ -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
+ ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F018%2F922%2Fcover%2FRed___Black_minimalist_music_class_faceboo
+ k_post.jpg%3F1752514901&amp\;w=640&amp\;q=100" srcset="/_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F018%2F922%2Fcover%2FRed___Black_minimalist_music_class_fac
+ ebook_post.jpg%3F1752514901&amp\;w=384&amp\;q=100 1x\, /_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F018%2F922%2Fcover%2FRed___Black_minimalist_music_class_fac
+ ebook_post.jpg%3F1752514901&amp\;w=640&amp\;q=100 2x" style="color: transp
+ arent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Songs From Here and There
+DTSTART:20250720T220000Z
+DTEND:20250721T000000Z
+DTSTAMP:20250720T220000Z
+UID:Songs From Here and There
+DESCRIPTION:https://www.viewcy.com/e/songs_from_here_and_t\n<p><img alt="S
+ ongs From Here and There thumbnail" class="styles_coverImg__PsR9G" data-ni
+ mg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Imag
+ e" data-sentry-source-file="index.tsx" decoding="async" height="186" loadi
+ ng="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy
+ -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F01
+ 8%2F880%2Fcover%2FBlack_Pink_Bold_Music_Concert_Event_Poster.jpg%3F1752261
+ 985&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%
+ 2F880%2Fcover%2FBlack_Pink_Bold_Music_Concert_Event_Poster.jpg%3F175226198
+ 5&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-
+ production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F880%
+ 2Fcover%2FBlack_Pink_Bold_Music_Concert_Event_Poster.jpg%3F1752261985&amp\
+ ;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ameer Armaly & Friends
+DTSTART:20250720T233000Z
+DTEND:20250721T013000Z
+DTSTAMP:20250720T233000Z
+UID:Ameer Armaly & Friends
+DESCRIPTION:https://www.viewcy.com/e/ameer_armaly__friend_1\n<p><img alt="
+ Ameer Armaly &amp\; Friends thumbnail" class="styles_coverImg__PsR9G" data
+ -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
+ mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
+ ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvie
+ wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
+ F018%2F877%2Fcover%2FBlack_and_Orange_Modern_Photocentric_Rock_Music_Event
+ _Instagram_Post.jpg%3F1752246465&amp\;w=640&amp\;q=100" srcset="/_next/ima
+ ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
+ Ffeatured_images%2F000%2F018%2F877%2Fcover%2FBlack_and_Orange_Modern_Photo
+ centric_Rock_Music_Event_Instagram_Post.jpg%3F1752246465&amp\;w=384&amp\;q
+ =100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazo
+ naws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F877%2Fcover%2FBlack_and
+ _Orange_Modern_Photocentric_Rock_Music_Event_Instagram_Post.jpg%3F17522464
+ 65&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p
+ >
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maryam Turkey ft. Shahzad Ismaily and EilonElikam
+DTSTART:20250725T000000Z
+DTEND:20250725T020000Z
+DTSTAMP:20250725T000000Z
+UID:Maryam Turkey ft. Shahzad Ismaily and EilonElikam
+DESCRIPTION:https://www.viewcy.com/e/maryam_turkey_ft_sha\n<p><img alt="Ma
+ ryam Turkey ft. Shahzad Ismaily and EilonElikam thumbnail" class="styles_c
+ overImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" da
+ ta-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="as
+ ync" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?u
+ rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
+ tured_images%2F000%2F018%2F933%2Fcover%2FBlue___white_Minimalist_Sunday_Pr
+ aise___Worship_Event_Instagram_Post.jpg%3F1752525713&amp\;w=640&amp\;q=100
+ " srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazo
+ naws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F933%2Fcover%2FBlue___wh
+ ite_Minimalist_Sunday_Praise___Worship_Event_Instagram_Post.jpg%3F17525257
+ 13&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku
+ -production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F933
+ %2Fcover%2FBlue___white_Minimalist_Sunday_Praise___Worship_Event_Instagram
+ _Post.jpg%3F1752525713&amp\;w=640&amp\;q=100 2x" style="color: transparent
+ \;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kréol Fest presents Sounds From the Indian Ocean Vol 2 ft. Maya K
+ amaty at Barzakh Café.
+DTSTART:20250726T000000Z
+DTEND:20250726T020000Z
+DTSTAMP:20250726T000000Z
+UID:Kréol Fest presents Sounds From the Indian Ocean Vol 2 ft. Maya Kamat
+ y at Barzakh Café.
+DESCRIPTION:https://www.viewcy.com/e/krol_fest_presents_s\n<p><img alt="Kr
+ éol Fest presents Sounds From the Indian Ocean Vol 2 ft. Maya Kamaty at B
+ arzakh Café. thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data
+ -sentry-component="ImageWithFallback" data-sentry-element="Image" data-sen
+ try-source-file="index.tsx" decoding="async" height="186" loading="lazy" s
+ rc="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-pro
+ duction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F017%2F868%2Fc
+ over%2FKr_C3_A9ol__28Instagram_Post_29.jpg%3F1749156040&amp\;w=640&amp\;q=
+ 100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
+ azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F017%2F868%2Fcover%2FKr_C3_
+ A9ol__28Instagram_Post_29.jpg%3F1749156040&amp\;w=384&amp\;q=100 1x\, /_ne
+ xt/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcou
+ rses%2Ffeatured_images%2F000%2F017%2F868%2Fcover%2FKr_C3_A9ol__28Instagram
+ _Post_29.jpg%3F1749156040&amp\;w=640&amp\;q=100 2x" style="color: transpar
+ ent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Armadi tsayn Live at Barzakh
+DTSTART:20250727T230000Z
+DTEND:20250728T010000Z
+DTSTAMP:20250727T230000Z
+UID:Armadi tsayn Live at Barzakh
+DESCRIPTION:https://www.viewcy.com/e/armadi_tsayn_live_at\n<p><img alt="Ar
+ madi tsayn Live at Barzakh thumbnail" class="styles_coverImg__PsR9G" data-
+ nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Im
+ age" data-sentry-source-file="index.tsx" decoding="async" height="186" loa
+ ding="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fview
+ cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
+ 018%2F862%2Fcover%2FPHOTO-2025-07-03-18-04-28.jpg%3F1752180844&amp\;w=640&
+ amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-productio
+ n.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F862%2Fcover%2
+ FPHOTO-2025-07-03-18-04-28.jpg%3F1752180844&amp\;w=384&amp\;q=100 1x\, /_n
+ ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
+ urses%2Ffeatured_images%2F000%2F018%2F862%2Fcover%2FPHOTO-2025-07-03-18-04
+ -28.jpg%3F1752180844&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
+ " width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book and Movie Night
+DTSTART:20250731T220000Z
+DTEND:20250801T000000Z
+DTSTAMP:20250731T220000Z
+UID:Book and Movie Night
+DESCRIPTION:https://www.viewcy.com/e/book_and_movie_night\n<p><img alt="Bo
+ ok and Movie Night thumbnail" class="styles_coverImg__PsR9G" data-nimg="1"
+  data-sentry-component="ImageWithFallback" data-sentry-element="Image" dat
+ a-sentry-source-file="index.tsx" decoding="async" height="186" loading="la
+ zy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F86
+ 1%2Fcover%2Fbook_and_movie_night_.jpg%3F1752183402&amp\;w=640&amp\;q=100" 
+ srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazona
+ ws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F861%2Fcover%2Fbook_and_mo
+ vie_night_.jpg%3F1752183402&amp\;w=384&amp\;q=100 1x\, /_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F018%2F861%2Fcover%2Fbook_and_movie_night_.jpg%3F1752183402
+ &amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lala Tamar & friends\, ft Yacouba Sissoko
+DTSTART:20250803T000000Z
+DTEND:20250803T020000Z
+DTSTAMP:20250803T000000Z
+UID:Lala Tamar & friends\, ft Yacouba Sissoko
+DESCRIPTION:https://www.viewcy.com/e/lala_tamar__friends\n<p><img alt="Lal
+ a Tamar &amp\; friends\, ft Yacouba Sissoko thumbnail" class="styles_cover
+ Img__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-s
+ entry-element="Image" data-sentry-source-file="index.tsx" decoding="async"
+  height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F018%2F731%2Fcover%2FLala_Tamar.jpg%3F1751566856&amp\;w=64
+ 0&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-product
+ ion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F018%2F731%2Fcover
+ %2FLala_Tamar.jpg%3F1751566856&amp\;w=384&amp\;q=100 1x\, /_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F018%2F731%2Fcover%2FLala_Tamar.jpg%3F1751566856&amp\;w=
+ 640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
