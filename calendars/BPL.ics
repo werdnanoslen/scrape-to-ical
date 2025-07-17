@@ -40,15 +40,6 @@ DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20250717T143000Z
-DTEND:20250717T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/777186
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chair Yoga
 DTSTART:20250717T153000Z
 DTEND:20250717T163000Z
@@ -374,6 +365,14 @@ SUMMARY:Free English Class (We Speak NYC)
 DTSTART:20250721T214500Z
 DTEND:20250721T234500Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778120
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20250722T133000Z
+DTEND:20250722T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/774662
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
