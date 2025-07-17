@@ -30,26 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Motion Graphics with After Effects
-DTSTART:20250717T143000Z
-DTEND:20250717T173000Z
-DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
- mic motion graphics and video effects compositing. This course covers the 
- basics of the After Effects interface\, text and layer animation\,\n\nhttp
- s://www.bklynlibrary.org/node/765347
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250717T170000Z
-DTEND:20250717T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/778106
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Career Computer Lab: Exploring Canva for Business
 DTSTART:20250717T180000Z
 DTEND:20250717T193000Z
@@ -374,5 +354,24 @@ DTEND:20250722T210000Z
 DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77543
  8
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NELP Business Entity Formation
+DTSTART:20250722T200000Z
+DTEND:20250722T213000Z
+DESCRIPTION:Choosing a legal structure is one of the most impactful decisi
+ ons a small business owner can make.\n\nhttps://www.bklynlibrary.org/node/
+ 769308
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20250722T210000Z
+DTEND:20250722T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/753421
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR

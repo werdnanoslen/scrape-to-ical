@@ -55,6 +55,19 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:SOLD OUT: Benefit Concert: Men I Trust | strongboi
+DTSTART:20250718T223000Z
+DTEND:20250719T003000Z
+DTSTAMP:20250718T223000Z
+UID:SOLD OUT: Benefit Concert: Men I Trust | strongboi-2025-07-18T22:30:00
+ +00:00
+DESCRIPTION:Cost: $49.99-$58 + fees\nhttps://bricartsmedia.org/event/benef
+ it-concert-men-i-trust/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="
+ https://bricartsmedia.org/wp-content/uploads/2025/02/SefcJgUg-200x200.jpeg
+ " alt="" />
+LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Driven Society Presents "Events in Culture" Summit in Partnership 
  with BRIC
 DTSTART:20250718T190000Z
@@ -68,18 +81,6 @@ DESCRIPTION:Cost: $44.19 - $529.49\nhttps://bricartsmedia.org/event/driven
  content/uploads/2025/06/DrivenSociety-Jul18thEvent-Graphics-C-200x200.jpg"
   alt="" />
 LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Benefit Concert: Men I Trust | strongboi
-DTSTART:20250718T223000Z
-DTEND:20250719T003000Z
-DTSTAMP:20250718T223000Z
-UID:Benefit Concert: Men I Trust | strongboi-2025-07-18T22:30:00+00:00
-DESCRIPTION:Cost: $49.99-$58 + fees\nhttps://bricartsmedia.org/event/benef
- it-concert-men-i-trust/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="
- https://bricartsmedia.org/wp-content/uploads/2025/02/SefcJgUg-200x200.jpeg
- " alt="" />
-LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3D Modeling with Blender
@@ -269,6 +270,16 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/3d-modeling-with-bl
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250726T180000Z
+DTEND:20250726T210000Z
+DTSTAMP:20250726T180000Z
+UID:TV Studio Intensive-2025-07-26T18:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Tribute to Quincy Jones: The Wiz
 DTSTART:20250726T220000Z
 DTEND:20250727T023000Z
@@ -278,16 +289,6 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/the-wiz/\nhttps://
  goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-cont
  ent/uploads/2025/05/The-Wiz-image-200x200.webp" alt="" />
 LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250726T180000Z
-DTEND:20250726T210000Z
-DTSTAMP:20250726T180000Z
-UID:TV Studio Intensive-2025-07-26T18:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
