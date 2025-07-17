@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Exploring Canva for Business
-DTSTART:20250717T180000Z
-DTEND:20250717T193000Z
-DESCRIPTION:This drop-in lab is geared towards beginner computer users to 
- help you learn how to use Canva for Business.\n\nhttps://www.bklynlibrary.
- org/node/771652
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20250717T213000Z
 DTEND:20250717T230000Z
@@ -114,16 +105,6 @@ DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250718T150000Z
-DTEND:20250718T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758231
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250718T150000Z
 DTEND:20250718T170000Z
@@ -140,6 +121,16 @@ DTEND:20250718T160000Z
 DESCRIPTION:Viernes de 11am-12pm\n\nhttps://www.bklynlibrary.org/node/7773
  67
 LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20250718T150000Z
+DTEND:20250718T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) get free one-on-one resume hel
+ p\, education and career advice\, interviewing prep\, and more with\n\nhtt
+ ps://www.bklynlibrary.org/node/758231
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
@@ -373,5 +364,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
  69
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basic Computer Class
+DTSTART:20250722T220000Z
+DTEND:20250722T230000Z
+DESCRIPTION:Whether you're starting from scratch or just need a refresher\
+ , our Basic Computer classes at Brooklyn Heights are designed to help you 
+ get comfortable with using a computer. No need to bring your own—\n\nhtt
+ ps://www.bklynlibrary.org/node/769781
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
