@@ -91,7 +91,7 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1558\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sexmob Jul 20
+SUMMARY:Sexmob Jul 20   $17 adv/ $20 door
 DTSTART:20250720T233000Z
 DTEND:20250721T013000Z
 DTSTAMP:20250720T233000Z
@@ -298,18 +298,19 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1647\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Felicia Douglass • Mina Walker • Panther Hollow Aug 8
-DTSTART;VALUE=DATE:20250808
-DTEND;VALUE=DATE:20250809
-UID:https://theowl.nyc/calendar?event_id=1624-2025-08-08
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1624\n<p><img class="alig
- nnone size-medium wp-image-2240" src="https://theowl.nyc/wp-content/upload
- s/felicia-douglass-247x300.png" alt="" width="247" height="300" /> <img cl
- ass="alignnone size-medium wp-image-2098" src="https://theowl.nyc/wp-conte
- nt/uploads/IMG_4158-300x300.jpeg" alt="" width="300" height="300" /> <img 
- class="alignnone size-medium wp-image-2918" src="https://theowl.nyc/wp-con
- tent/uploads/Nardo-Panther-Hollow-199x300.jpeg" alt="" width="199" height=
- "300" /></p>
+SUMMARY:Panther Hollow • Mina Walker • Gemma Aug 8
+DTSTART:20250808T233000Z
+DTEND:20250809T013000Z
+DTSTAMP:20250808T233000Z
+UID:https://theowl.nyc/calendar?event_id=1624-2025-08-08 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1624\n7:30 Doors 8pm Show
+ \n<p><img class="alignnone size-medium wp-image-2918" src="https://theowl.
+ nyc/wp-content/uploads/Nardo-Panther-Hollow-199x300.jpeg" alt="" width="19
+ 9" height="300" />  <img class="alignnone size-medium wp-image-2098" src=
+ "https://theowl.nyc/wp-content/uploads/IMG_4158-300x300.jpeg" alt="" width
+ ="300" height="300" /> <img class="alignnone size-medium wp-image-2223" sr
+ c="https://theowl.nyc/wp-content/uploads/Gemma-300x200.jpg" alt="" width="
+ 300" height="200" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -431,6 +432,16 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1613\n7:30 Door\n8:00 Sho
  and new. On this evening\, </span><span class="">The ALTA String Quartet p
  erforms Shostakovich and Prokofiev.</span><b class=""><span class=""><br c
  lass="" /></span></b></div>\n</div>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kitba “Hold the Edges” Listening Party
+DTSTART;VALUE=DATE:20250916
+DTEND;VALUE=DATE:20250917
+UID:https://theowl.nyc/calendar?event_id=1660-2025-09-16
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1660\n<p><img class="alig
+ nnone wp-image-2781" src="https://theowl.nyc/wp-content/uploads/kitba-1024
+ x683.jpeg" alt="" width="519" height="346" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -708,6 +719,16 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1654\n7:30 Doors\n8:00 Mu
  sic\n<p><img class="alignnone wp-image-1384" src="https://theowl.nyc/wp-co
  ntent/uploads/ElysianFieldsbyMichaelLavine_2374-683x1024.jpg" alt="" width
  ="314" height="471" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WishWish • tba Nov 2
+DTSTART;VALUE=DATE:20251102
+DTEND;VALUE=DATE:20251103
+UID:https://theowl.nyc/calendar?event_id=1661-2025-11-02
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1661\n<p><img class="alig
+ nnone wp-image-2344" src="https://theowl.nyc/wp-content/uploads/wish-wish-
+ rachel-houslejpg-300x200.jpg" alt="" width="466" height="310" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
