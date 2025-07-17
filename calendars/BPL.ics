@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250716T220000Z
-DTEND:20250716T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 54
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stacey Abrams Discusses Coded Justice with Glory Edim
 DTSTART:20250716T230000Z
 DTEND:20250716T003000Z
@@ -377,5 +368,15 @@ DTEND:20250721T214500Z
 DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
   class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/767682
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music Lab Class: Sampling – Music Production at the Library
+DTSTART:20250721T213000Z
+DTEND:20250721T233000Z
+DESCRIPTION:Learn the basics of Sampling (Records)\, right here at Brookly
+ n Public Library. This workshop will cover the fundamentals of using sampl
+ es at a beginner level. We will work together from scratch using\n\nhttps:
+ //www.bklynlibrary.org/node/775428
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
