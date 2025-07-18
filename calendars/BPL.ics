@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Collage Party
-DTSTART:20250718T180000Z
-DTEND:20250718T200000Z
-DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
- es and other supplies available to make cards\, postcards\, and other proj
- ects. You're welcome to bring your own additional materials to cut\n\nhttp
- s://www.bklynlibrary.org/node/772567
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250719T143000Z
 DTEND:20250719T160000Z
@@ -378,5 +368,14 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774125
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250723T200000Z
+DTEND:20250723T210000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763456
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
