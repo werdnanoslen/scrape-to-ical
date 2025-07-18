@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250718T140000Z
-DTEND:20250718T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7635
- 37
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250718T140000Z
 DTEND:20250718T210000Z
@@ -36,14 +27,6 @@ DTEND:20250718T162000Z
 DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
  n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/769522
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clase de Computación
-DTSTART:20250718T150000Z
-DTEND:20250718T160000Z
-DESCRIPTION:Viernes de 11am-12pm\n\nhttps://www.bklynlibrary.org/node/7773
- 67
-LOCATION:Pacific\, Basement Meeting Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
@@ -375,5 +358,23 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772383
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20250723T140000Z
+DTEND:20250723T153000Z
+DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew 
+ Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
+ 651
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One-On-One Computer Help
+DTSTART:20250723T150000Z
+DTEND:20250723T160000Z
+DESCRIPTION:Need help with understanding the basics of using a computer? O
+ r maybe it’s just been a while and you’re looking to brush up on your 
+ computer skills.\n\nhttps://www.bklynlibrary.org/node/777364
+LOCATION:Pacific Library
 END:VEVENT
 END:VCALENDAR
