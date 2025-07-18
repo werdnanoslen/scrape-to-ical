@@ -21,34 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Movie: The Learning Tree (1969)
-DTSTART:20250718T143000Z
-DTEND:20250718T162000Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
- n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/769522
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250718T150000Z
-DTEND:20250718T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758231
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250718T150000Z
-DTEND:20250718T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774150
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250718T160000Z
 DTEND:20250718T180000Z
@@ -376,5 +348,35 @@ DESCRIPTION:Need help with understanding the basics of using a computer? O
  r maybe it’s just been a while and you’re looking to brush up on your 
  computer skills.\n\nhttps://www.bklynlibrary.org/node/777364
 LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask a tech
+DTSTART:20250723T153000Z
+DTEND:20250723T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/764124
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20250723T170000Z
+DTEND:20250723T180000Z
+DESCRIPTION:Ask A Tech is a class where you can ask about anything involvi
+ ng your computer\, phone\, and or tablet\, and also acquire knowledge on h
+ ow to use all of technological equipment you have.\n\nhttps://www.bklynlib
+ rary.org/node/774340
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Coloring
+DTSTART:20250723T170000Z
+DTEND:20250723T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /779291
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
