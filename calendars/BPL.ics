@@ -11,44 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20250717T213000Z
-DTEND:20250717T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/777340
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sami Tamimi on Boustany\, in conversation with Andy Baraghani
-DTSTART:20250717T220000Z
-DTEND:20250717T233000Z
-DESCRIPTION:Join us at Brooklyn Heights Library as Sami Tamimi discusses h
- is new cookbook Boustany with Andy Baraghani.\n\nhttps://www.bklynlibrary.
- org/node/772933
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20250717T220000Z
-DTEND:20250717T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/778695
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National External Diploma Program (NEDP) Info. Session
-DTSTART:20250717T223000Z
-DTEND:20250717T233000Z
-DESCRIPTION:Looking for a different way to earn your high school equivalen
- cy diploma? The National External Diploma Program could be right for you! 
- Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
- ://www.bklynlibrary.org/node/775804
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250718T140000Z
 DTEND:20250718T160000Z
@@ -375,5 +337,43 @@ DESCRIPTION:Join Diana Pho\, editor of Erewhon Books\, and award-winning w
  ience fiction and fantasy publishing today.\n\nhttps://www.bklynlibrary.or
  g/node/772861
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hospitality Front Desk Representative or Guestroom Attendant Certi
+ fication Training
+DTSTART:20250722T223000Z
+DTEND:20250722T233000Z
+DESCRIPTION:First impressions starts with you! Are you interested in earni
+ ng a nationally recognized hospitality front desk representative certifica
+ tion? Join our session to learn how you can learn the necessary\n\nhttps:/
+ /www.bklynlibrary.org/node/770759
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250723T140000Z
+DTEND:20250723T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
+ 22
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business Help for Immigrants (Central)
+DTSTART:20250723T140000Z
+DTEND:20250723T160000Z
+DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
+ .bklynlibrary.org/node/773296
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250723T140000Z
+DTEND:20250723T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772383
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
