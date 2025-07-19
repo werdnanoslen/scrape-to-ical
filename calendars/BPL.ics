@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CyPurr Session: Safe Browsing
-DTSTART:20250719T170000Z
-DTEND:20250719T190000Z
-DESCRIPTION:The internet doesn't have to be scary. Whether you're worried 
- about scam sites or creepy surveillance\, there are a few steps you can ta
- ke to keep your browsing safer and more private. This month we're\n\nhttps
- ://www.bklynlibrary.org/node/774985
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Advanced Guided Studio Session: Music Production at the Library
-DTSTART:20250719T170000Z
-DTEND:20250719T190000Z
-DESCRIPTION:Learn to use the recording studio\, located right here at the 
- Brooklyn Public Library. Limited to five participants\, this workshop open
- s the doors to the recording studio for intermediate users. With t\n\nhttp
- s://www.bklynlibrary.org/node/775418
-LOCATION:Central Library\, Info Commons\, Recording Studio
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250721T140000Z
 DTEND:20250721T210000Z
@@ -377,5 +357,24 @@ DESCRIPTION:Regional Samaúma performs the  nineteenth century Choro of c
   twentieth-century music of Pixinguinha\, Jacob do Bandolim\, Altamiro C\n
  \nhttps://www.bklynlibrary.org/node/776451
 LOCATION:Central Library\, Plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20250724T140000Z
+DTEND:20250724T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7530
+ 26
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20250724T140000Z
+DTEND:20250724T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/767022
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
