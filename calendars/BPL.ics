@@ -21,26 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250721T180000Z
-DTEND:20250721T200000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758206
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250721T180000Z
-DTEND:20250721T200000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774059
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Tech Help for Your Job Search
 DTSTART:20250721T190000Z
 DTEND:20250721T210000Z
@@ -379,5 +359,25 @@ DTEND:20250724T163000Z
 DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
  bklynlibrary.org/node/764518
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20250724T170000Z
+DTEND:20250724T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/778108
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
+DTSTART:20250724T203000Z
+DTEND:20250724T221500Z
+DESCRIPTION:The Business & Career Center is partnering with the City Bar J
+ ustice Center’s Neighborhood Entrepreneur Law Project (NELP) and Pace SB
+ DC to offer a virtual small business legal clinic. This clinic\, co\n\nhtt
+ ps://www.bklynlibrary.org/node/773706
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
