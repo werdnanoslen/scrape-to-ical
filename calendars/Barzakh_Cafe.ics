@@ -83,6 +83,29 @@ DESCRIPTION:https://www.viewcy.com/e/ba%C4%9Flama_classes_with_4\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Juan Sebastián Monsalve trío
+DTSTART:20250727T000000Z
+DTEND:20250727T020000Z
+DTSTAMP:20250727T000000Z
+UID:Juan Sebastián Monsalve trío
+DESCRIPTION:https://www.viewcy.com/e/juan_sebastin_monsal\n<p><img alt="Ju
+ an Sebastián Monsalve trío thumbnail" class="styles_coverImg__PsR9G" dat
+ a-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="
+ Image" data-sentry-source-file="index.tsx" decoding="async" height="186" l
+ oading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvi
+ ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
+ 2F019%2F100%2Fcover%2FWhite_and_Black_Simple_Modern_Live_Music_Instagram_P
+ ost.jpg%3F1753134523&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F019%2F100%2Fcover%2FWhite_and_Black_Simple_Modern_Live_Music_
+ Instagram_Post.jpg%3F1753134523&amp\;w=384&amp\;q=100 1x\, /_next/image?ur
+ l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
+ ured_images%2F000%2F019%2F100%2Fcover%2FWhite_and_Black_Simple_Modern_Live
+ _Music_Instagram_Post.jpg%3F1753134523&amp\;w=640&amp\;q=100 2x" style="co
+ lor: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Armadi tsayn Live at Barzakh
 DTSTART:20250727T230000Z
 DTEND:20250728T010000Z
@@ -102,6 +125,28 @@ DESCRIPTION:https://www.viewcy.com/e/armadi_tsayn_live_at\n<p><img alt="Ar
  urses%2Ffeatured_images%2F000%2F018%2F862%2Fcover%2FPHOTO-2025-07-03-18-04
  -28.jpg%3F1752180844&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
  " width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drawn to Music
+DTSTART:20250729T223000Z
+DTEND:20250730T003000Z
+DTSTAMP:20250729T223000Z
+UID:Drawn to Music
+DESCRIPTION:https://www.viewcy.com/e/drawn_to_music\n<p><img alt="Drawn to
+  Music thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry
+ -component="ImageWithFallback" data-sentry-element="Image" data-sentry-sou
+ rce-file="index.tsx" decoding="async" height="186" loading="lazy" src="htt
+ ps://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F101%2Fcover%2F
+ WhatsApp_Image_2025-07-21_at_21.47.16_47ae6a29.jpg%3F1753134703&amp\;w=640
+ &amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
+ on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F101%2Fcover%
+ 2FWhatsApp_Image_2025-07-21_at_21.47.16_47ae6a29.jpg%3F1753134703&amp\;w=3
+ 84&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F101%2Fcover%2F
+ WhatsApp_Image_2025-07-21_at_21.47.16_47ae6a29.jpg%3F1753134703&amp\;w=640
+ &amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
