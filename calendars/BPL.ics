@@ -21,30 +21,12 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20250721T153000Z
-DTEND:20250721T173000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/777218
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American and Chinese Mah Jongg
 DTSTART:20250721T160000Z
 DTEND:20250721T190000Z
 DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
  library.org/node/777663
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250721T170000Z
-DTEND:20250721T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/778107
-LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
@@ -378,5 +360,24 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/763478
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motion Graphics with After Effects
+DTSTART:20250724T143000Z
+DTEND:20250724T173000Z
+DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
+ mic motion graphics and video effects compositing. This course covers the 
+ basics of the After Effects interface\, text and layer animation\,\n\nhttp
+ s://www.bklynlibrary.org/node/765348
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20250724T143000Z
+DTEND:20250724T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/777187
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
