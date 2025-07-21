@@ -60,6 +60,29 @@ DESCRIPTION:https://www.viewcy.com/e/krol_fest_presents_s\n<p><img alt="Kr
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bağlama Classes with Ercan Alkan
+DTSTART:20250726T190000Z
+DTEND:20250726T210000Z
+DTSTAMP:20250726T190000Z
+UID:Bağlama Classes with Ercan Alkan
+DESCRIPTION:https://www.viewcy.com/e/ba%C4%9Flama_classes_with_4\n<p><img 
+ alt="Bağlama Classes with Ercan Alkan thumbnail" class="styles_coverImg__
+ PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
+ -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
+ ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F019%2F096%2Fcover%2FRed___Black_minimalist_music_class_faceboo
+ k_post.jpg%3F1753131485&amp\;w=640&amp\;q=100" srcset="/_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F019%2F096%2Fcover%2FRed___Black_minimalist_music_class_fac
+ ebook_post.jpg%3F1753131485&amp\;w=384&amp\;q=100 1x\, /_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F019%2F096%2Fcover%2FRed___Black_minimalist_music_class_fac
+ ebook_post.jpg%3F1753131485&amp\;w=640&amp\;q=100 2x" style="color: transp
+ arent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Armadi tsayn Live at Barzakh
 DTSTART:20250727T230000Z
 DTEND:20250728T010000Z
