@@ -11,6 +11,18 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
+SUMMARY:Kitba Birthday Party  Dec 7
+DTSTART:20250722T233000Z
+DTEND:20250723T013000Z
+DTSTAMP:20250722T233000Z
+UID:https://theowl.nyc/calendar?event_id=1693-2025-07-22 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1693\n7:30 Doors\n8:00 Sh
+ ow \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-im
+ age-2781" src="https://theowl.nyc/wp-content/uploads/kitba-300x200.jpeg" a
+ lt="" width="300" height="200" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Adam O'Farrill • Allan Mednard Jul 24
 DTSTART:20250724T233000Z
 DTEND:20250725T013000Z
@@ -942,6 +954,27 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1684\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Innov Gnawa late show  Oct 30
+DTSTART:20251031T013000Z
+DTEND:20251031T033000Z
+DTSTAMP:20251031T013000Z
+UID:https://theowl.nyc/calendar?event_id=1685-2025-10-31 01:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1685\n9:30\n<p><img class
+ ="alignnone wp-image-1246" src="https://theowl.nyc/wp-content/uploads/Hass
+ an-Ben-Jaafar-Innov-300x200.jpg" alt="" width="387" height="258" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ryan El-Sohl presents 'The Master & Margarita' Oct 31
+DTSTART:20251031T233000Z
+DTEND:20251101T013000Z
+DTSTAMP:20251031T233000Z
+UID:https://theowl.nyc/calendar?event_id=1686-2025-10-31 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1686\n7:30 Doors\n8:00 mu
+ sic \n$15 suggested donation
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Elysian Fields 30th Anniversary ii Nov 1
 DTSTART:20251101T233000Z
 DTEND:20251102T013000Z
@@ -1002,6 +1035,18 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1658\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rose Stoller Nov 16
+DTSTART:20251117T003000Z
+DTEND:20251117T023000Z
+DTSTAMP:20251117T003000Z
+UID:https://theowl.nyc/calendar?event_id=1687-2025-11-17 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1687\n7:30 Doors\n8:00 mu
+ sic \n$15 suggested donation\n<p><img class="alignnone size-medium wp-imag
+ e-2659" src="https://theowl.nyc/wp-content/uploads/Rose-Stoller-200x300.jp
+ g" alt="" width="200" height="300" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Doveman & friends Nov 20
 DTSTART:20251121T003000Z
 DTEND:20251121T023000Z
@@ -1032,6 +1077,28 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1659\n7:00 pm\n<p><strong
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Good Intentions • TBA Nov 23
+DTSTART:20251124T003000Z
+DTEND:20251124T023000Z
+DTSTAMP:20251124T003000Z
+UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
+ sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
+ "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
+ ="344" height="258" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:closed for the holiday
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+UID:https://theowl.nyc/calendar?event_id=1689-2025-11-27
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1689\n<p><img class="alig
+ nnone size-full wp-image-2955" src="https://theowl.nyc/wp-content/uploads/
+ peltier.jpeg" alt="" width="201" height="191" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hanksgiving Nov 28
 DTSTART:20251128T050000Z
 DTEND:20251128T070000Z
@@ -1049,6 +1116,50 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1635\n<p><img class="alig
  Rachel Swaner and Oren Bloedow.</div>\n<div> </div>\n<div>Doors at 7:30pm
  \, show at 8pm\, and pumpkin pie after the show!</div>\n<div> </div>\n<di
  v> </div>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Youbet • 0 Stars • The Cradle Dec 4
+DTSTART:20251205T003000Z
+DTEND:20251205T023000Z
+DTSTAMP:20251205T003000Z
+UID:https://theowl.nyc/calendar?event_id=1690-2025-12-05 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1690\n7:30 Doors\n8:00 Mu
+ sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1851" src=
+ "https://theowl.nyc/wp-content/uploads/youbet-by-Pooneh-Ghana-CROP2-300x20
+ 1.jpg" alt="" width="352" height="236" /> <img class="alignnone size-mediu
+ m wp-image-2421" src="https://theowl.nyc/wp-content/uploads/Mikey-Buishas-
+ 0-stars-241x300.jpg" alt="" width="241" height="300" /> <img class="alignn
+ one size-medium wp-image-1219" src="https://theowl.nyc/wp-content/uploads/
+ Cradle-paco-207x300.jpeg" alt="" width="207" height="300" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lily Talmers • Ali Dineen • Katy Pinke
+DTSTART:20251206T003000Z
+DTEND:20251206T023000Z
+DTSTAMP:20251206T003000Z
+UID:https://theowl.nyc/calendar?event_id=1691-2025-12-06 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1691\n7:30 Doors\n8:00 Mu
+ sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
+ mage-2159" src="https://theowl.nyc/wp-content/uploads/Lily-Talmers-200x300
+ .jpeg" alt="" width="200" height="300" /> <img class="alignnone wp-image-2
+ 366" src="https://theowl.nyc/wp-content/uploads/ali-at-piano-brian-geltner
+ -300x200.jpg" alt="" width="367" height="245" /> <img class="alignnone siz
+ e-medium wp-image-2089" src="https://theowl.nyc/wp-content/uploads/IMG_734
+ 8-300x232.jpeg" alt="" width="300" height="232" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ian Davis and friends Dec 6
+DTSTART:20251207T003000Z
+DTEND:20251207T023000Z
+DTSTAMP:20251207T003000Z
+UID:https://theowl.nyc/calendar?event_id=1692-2025-12-07 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1692\n7:30 Doors\n8:00 Sh
+ ow \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-im
+ age-2419" src="https://theowl.nyc/wp-content/uploads/Ian-Davis-1-300x199.j
+ pg" alt="" width="300" height="199" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -1077,6 +1188,38 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1643\n7:30 Doors\n8:00 Mu
  z-200x300.jpg" alt="" width="200" height="300" /> <img class="alignnone si
  ze-medium wp-image-2304" src="https://theowl.nyc/wp-content/uploads/IMG_44
  16-240x300.jpg" alt="" width="240" height="300" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dorée • Otracami • Wendy Eisenberg Dec 11
+DTSTART:20251212T003000Z
+DTEND:20251212T023000Z
+DTSTAMP:20251212T003000Z
+UID:https://theowl.nyc/calendar?event_id=1694-2025-12-12 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1694\n7:30 Doors\n8:00 Sh
+ ow \n$15.00 suggested donation\n<p><img class="alignnone wp-image-2605" sr
+ c="https://theowl.nyc/wp-content/uploads/image_123650291-2-300x202.jpg" al
+ t="" width="359" height="242" /> <img class="alignnone size-medium wp-imag
+ e-2384" src="https://theowl.nyc/wp-content/uploads/OtracamiPressPhoto_bySa
+ iTripathi-200x300.jpeg" alt="" width="200" height="300" /> <img class="ali
+ gnnone size-medium wp-image-1972" src="https://theowl.nyc/wp-content/uploa
+ ds/RFL_220705_3815-300x200.jpg" alt="" width="300" height="200" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katie Martucci •Eliza Edens • Adeline Hotel Dec 14
+DTSTART:20251215T003000Z
+DTEND:20251215T023000Z
+DTSTAMP:20251215T003000Z
+UID:https://theowl.nyc/calendar?event_id=1695-2025-12-15 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1695\n7:30 Doors\n8:00 Mu
+ sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
+ mage-2391" src="https://theowl.nyc/wp-content/uploads/Katie-Martucci-300x2
+ 00.jpg" alt="" width="300" height="200" /> <img class="alignnone size-medi
+ um wp-image-2403" src="https://theowl.nyc/wp-content/uploads/eliza-edens-3
+ 00x300.jpg" alt="" width="300" height="300" /> <img class="alignnone size-
+ medium wp-image-2105" src="https://theowl.nyc/wp-content/uploads/Adeline-H
+ otel-300x200.jpg" alt="" width="300" height="200" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 END:VCALENDAR
