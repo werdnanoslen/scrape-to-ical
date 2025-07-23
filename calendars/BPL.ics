@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250723T140000Z
-DTEND:20250723T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 22
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250723T140000Z
 DTEND:20250723T210000Z
@@ -28,32 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772383
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20250723T140000Z
-DTEND:20250723T153000Z
-DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew 
- Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
- 651
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Business Help for Immigrants (Central)
-DTSTART:20250723T140000Z
-DTEND:20250723T160000Z
-DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
- .bklynlibrary.org/node/773296
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One-On-One Computer Help
-DTSTART:20250723T150000Z
-DTEND:20250723T160000Z
-DESCRIPTION:Need help with understanding the basics of using a computer? O
- r maybe it’s just been a while and you’re looking to brush up on your 
- computer skills.\n\nhttps://www.bklynlibrary.org/node/777364
-LOCATION:Pacific Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask a tech
@@ -381,5 +346,40 @@ DESCRIPTION:Have you been dreaming of perfectly cropped shirts for summer?
  101! This event is open to all\, but intended for trans\, gender no\n\nhtt
  ps://www.bklynlibrary.org/node/775108
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20250726T193000Z
+DTEND:20250726T210000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/768576
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250728T140000Z
+DTEND:20250728T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772385
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20250728T150000Z
+DTEND:20250728T170000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779087
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20250728T153000Z
+DTEND:20250728T173000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/777219
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
