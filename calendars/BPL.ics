@@ -12,56 +12,6 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
-DTSTART:20250722T220000Z
-DTEND:20250722T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
- 69
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group - Brooklyn Heights
-DTSTART:20250722T220000Z
-DTEND:20250722T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/770464
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Market Research Simplified! Researching Your Customers
-DTSTART:20250722T220000Z
-DTEND:20250722T000000Z
-DESCRIPTION:Knowing your customers isn't just an advantage—it's your com
- petitive imperative! The Brooklyn Public Library's Business & Career Cente
- r invites you to a dynamic webinar that is your blueprint for crea\n\nhttp
- s://www.bklynlibrary.org/node/772815
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carlos Hernandez and Diana Pho Discuss Science Fiction and Fantasy
-  Writing
-DTSTART:20250722T220000Z
-DTEND:20250722T233000Z
-DESCRIPTION:Join Diana Pho\, editor of Erewhon Books\, and award-winning w
- riter Carlos Hernandez as they answer your questions about the state of sc
- ience fiction and fantasy publishing today.\n\nhttps://www.bklynlibrary.or
- g/node/772861
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hospitality Front Desk Representative or Guestroom Attendant Certi
- fication Training
-DTSTART:20250722T223000Z
-DTEND:20250722T233000Z
-DESCRIPTION:First impressions starts with you! Are you interested in earni
- ng a nationally recognized hospitality front desk representative certifica
- tion? Join our session to learn how you can learn the necessary\n\nhttps:/
- /www.bklynlibrary.org/node/770759
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
 DTSTART:20250723T140000Z
 DTEND:20250723T160000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -382,5 +332,54 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
  ://www.bklynlibrary.org/node/763521
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Access to Capital
+DTSTART:20250725T180000Z
+DTEND:20250725T200000Z
+DESCRIPTION:The Brooklyn Public Library's Business & Career Center has tea
+ med up with the U.S. Small Business Administration to bring you a dynamic 
+ series designed to equip you with everything you need to launch\n\nhttps:/
+ /www.bklynlibrary.org/node/772600
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20250725T180000Z
+DTEND:20250725T190000Z
+DESCRIPTION:Please join us for a discussion of "The Jilting of Granny Weat
+ herall" by Katherine Anne Porter. Copies of the story are available at th
+ e Languages and Literature reference desk on the first floor of C\n\nhttps
+ ://www.bklynlibrary.org/node/775944
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250726T143000Z
+DTEND:20250726T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
+ 87
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Virtual Saturdays Clinic!
+DTSTART:20250726T170000Z
+DTEND:20250726T190000Z
+DESCRIPTION:The City spends up to $20 billion per year on goods and servic
+ es. Getting certified as a Minority and Women-Owned Business Enterprise\, 
+ or MWBE\, will help you compete for these opportunities and access\n\nhttp
+ s://www.bklynlibrary.org/node/771867
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hemming 101 with Butch Monthly
+DTSTART:20250726T170000Z
+DTEND:20250726T190000Z
+DESCRIPTION:Have you been dreaming of perfectly cropped shirts for summer?
+  We have\, and we want to teach you how to hem your own shirts at Hemming 
+ 101! This event is open to all\, but intended for trans\, gender no\n\nhtt
+ ps://www.bklynlibrary.org/node/775108
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
