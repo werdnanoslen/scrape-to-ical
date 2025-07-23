@@ -30,14 +30,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Business Help for Immigrants (Central)
-DTSTART:20250723T140000Z
-DTEND:20250723T160000Z
-DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
- .bklynlibrary.org/node/773296
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beginning Hebrew Conversation for Adults
 DTSTART:20250723T140000Z
 DTEND:20250723T153000Z
@@ -45,6 +37,14 @@ DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew
  Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
  651
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Business Help for Immigrants (Central)
+DTSTART:20250723T140000Z
+DTEND:20250723T160000Z
+DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
+ .bklynlibrary.org/node/773296
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:One-On-One Computer Help
