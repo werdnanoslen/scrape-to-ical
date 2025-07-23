@@ -21,26 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20250723T170000Z
-DTEND:20250723T180000Z
-DESCRIPTION:Ask A Tech is a class where you can ask about anything involvi
- ng your computer\, phone\, and or tablet\, and also acquire knowledge on h
- ow to use all of technological equipment you have.\n\nhttps://www.bklynlib
- rary.org/node/774340
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Coloring
-DTSTART:20250723T170000Z
-DTEND:20250723T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /779291
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250723T180000Z
 DTEND:20250723T200000Z
@@ -379,5 +359,25 @@ DTEND:20250728T190000Z
 DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
  library.org/node/777664
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20250728T170000Z
+DTEND:20250728T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/778109
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20250728T180000Z
+DTEND:20250728T200000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) get free one-on-one resume hel
+ p\, education and career advice\, interviewing prep\, and more with\n\nhtt
+ ps://www.bklynlibrary.org/node/758207
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
