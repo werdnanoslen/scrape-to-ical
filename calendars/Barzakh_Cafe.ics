@@ -191,4 +191,28 @@ DESCRIPTION:https://www.viewcy.com/e/lala_tamar__friends\n<p><img alt="Lal
  640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sham-e-ghazal: Ustad Ghulam Abbas Khan presents Ghalib\, Faiz\, Ah
+ med Faraz
+DTSTART:20250808T223000Z
+DTEND:20250809T003000Z
+DTSTAMP:20250808T223000Z
+UID:Sham-e-ghazal: Ustad Ghulam Abbas Khan presents Ghalib\, Faiz\, Ahmed 
+ Faraz
+DESCRIPTION:https://www.viewcy.com/e/shameghazal_ustad\n<p><img alt="Sham-
+ e-ghazal: Ustad Ghulam Abbas Khan presents Ghalib\, Faiz\, Ahmed Faraz thu
+ mbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component
+ ="ImageWithFallback" data-sentry-element="Image" data-sentry-source-file="
+ index.tsx" decoding="async" height="186" loading="lazy" src="https://www.v
+ iewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazon
+ aws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F135%2Fcover%2FSham-e-gha
+ zal.jpg%3F1753278268&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F019%2F135%2Fcover%2FSham-e-ghazal.jpg%3F1753278268&amp\;w=384
+ &amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
+ 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F135%2Fcover%2FSh
+ am-e-ghazal.jpg%3F1753278268&amp\;w=640&amp\;q=100 2x" style="color: trans
+ parent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
