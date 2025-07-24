@@ -30,26 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Motion Graphics with After Effects
-DTSTART:20250724T143000Z
-DTEND:20250724T173000Z
-DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
- mic motion graphics and video effects compositing. This course covers the 
- basics of the After Effects interface\, text and layer animation\,\n\nhttp
- s://www.bklynlibrary.org/node/765348
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250724T170000Z
-DTEND:20250724T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/778108
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
 DTSTART:20250724T203000Z
 DTEND:20250724T221500Z
@@ -376,6 +356,25 @@ DESCRIPTION:Ask A Tech is a class where you can ask about anything involvi
  ng your computer\, phone\, and or tablet\, and also acquire knowledge on h
  ow to use all of technological equipment you have.\n\nhttps://www.bklynlib
  rary.org/node/774341
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
+ siness Solutions Center
+DTSTART:20250729T170000Z
+DTEND:20250729T200000Z
+DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
+ ? Join the Brooklyn Business Solutions Center for "The Flower Hour\," a sp
+ ecial session of our popular Joint Ventures educational series wh\n\nhttps
+ ://www.bklynlibrary.org/node/772443
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20250729T190000Z
+DTEND:20250729T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77543
+ 9
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
