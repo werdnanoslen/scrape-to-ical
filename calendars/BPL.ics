@@ -11,35 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
-DTSTART:20250724T203000Z
-DTEND:20250724T221500Z
-DESCRIPTION:The Business & Career Center is partnering with the City Bar J
- ustice Center’s Neighborhood Entrepreneur Law Project (NELP) and Pace SB
- DC to offer a virtual small business legal clinic. This clinic\, co\n\nhtt
- ps://www.bklynlibrary.org/node/773706
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250724T213000Z
-DTEND:20250724T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763498
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20250724T213000Z
-DTEND:20250724T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/776160
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resume Coaching
 DTSTART:20250724T213000Z
 DTEND:20250724T233000Z
@@ -377,5 +348,32 @@ DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
  est in entertainment\, share fan theories\, play trivia\, and dive into\n\
  nhttps://www.bklynlibrary.org/node/778764
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250729T220000Z
+DTEND:20250729T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
+ 70
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group - Brooklyn Heights
+DTSTART:20250729T220000Z
+DTEND:20250729T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
+  Heights.\n\nhttps://www.bklynlibrary.org/node/770465
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250730T140000Z
+DTEND:20250730T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
+ 23
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
