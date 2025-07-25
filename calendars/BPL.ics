@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250725T170000Z
-DTEND:20250725T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 30
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20250725T180000Z
-DTEND:20250725T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763521
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Access to Capital
 DTSTART:20250725T180000Z
 DTEND:20250725T200000Z
@@ -47,16 +29,6 @@ DESCRIPTION:The Brooklyn Public Library's Business & Career Center has tea
  series designed to equip you with everything you need to launch\n\nhttps:/
  /www.bklynlibrary.org/node/772600
 LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Short Story Discussion Group
-DTSTART:20250725T180000Z
-DTEND:20250725T190000Z
-DESCRIPTION:Please join us for a discussion of "The Jilting of Granny Weat
- herall" by Katherine Anne Porter. Copies of the story are available at th
- e Languages and Literature reference desk on the first floor of C\n\nhttps
- ://www.bklynlibrary.org/node/775944
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -377,5 +349,33 @@ DESCRIPTION:Ask A Tech is a class where you can ask about anything involvi
  ow to use all of technological equipment you have.\n\nhttps://www.bklynlib
  rary.org/node/774342
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250730T190000Z
+DTEND:20250730T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774126
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250730T200000Z
+DTEND:20250730T210000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763457
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250730T220000Z
+DTEND:20250730T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
+ 56
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR

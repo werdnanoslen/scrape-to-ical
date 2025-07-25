@@ -168,6 +168,27 @@ DESCRIPTION:https://www.viewcy.com/e/lala_tamar__friends\n<p><img alt="Lal
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gnawa Ritual Night: Gnawa Spirit
+DTSTART:20250803T020000Z
+DTEND:20250803T040000Z
+DTSTAMP:20250803T020000Z
+UID:Gnawa Ritual Night: Gnawa Spirit
+DESCRIPTION:https://www.viewcy.com/e/gnawa_ritual_night_g_1\n<p><img alt="
+ Gnawa Ritual Night: Gnawa Spirit thumbnail" class="styles_coverImg__PsR9G"
+  data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-eleme
+ nt="Image" data-sentry-source-file="index.tsx" decoding="async" height="18
+ 6" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F019%2F207%2Fcover%2FGnawa_spirit.jpg%3F1753468897&amp\;w=640&amp\;q=
+ 100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
+ azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F207%2Fcover%2FGnawa_
+ spirit.jpg%3F1753468897&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F019%2F207%2Fcover%2FGnawa_spirit.jpg%3F1753468897&amp\;w=640&a
+ mp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sham-e-ghazal: Ustad Ghulam Abbas Khan presents Ghalib\, Faiz\, Ah
  med Faraz
 DTSTART:20250808T223000Z
