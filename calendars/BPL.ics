@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250725T160000Z
-DTEND:20250725T180000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/771666
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250725T170000Z
 DTEND:20250725T190000Z
@@ -375,5 +367,15 @@ DTEND:20250730T200000Z
 DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
  .bklynlibrary.org/node/773297
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20250730T180000Z
+DTEND:20250730T190000Z
+DESCRIPTION:Ask A Tech is a class where you can ask about anything involvi
+ ng your computer\, phone\, and or tablet\, and also acquire knowledge on h
+ ow to use all of technological equipment you have.\n\nhttps://www.bklynlib
+ rary.org/node/774342
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
