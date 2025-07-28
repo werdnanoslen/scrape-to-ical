@@ -54,6 +54,50 @@ DESCRIPTION:https://www.viewcy.com/e/book_and_movie_night\n<p><img alt="Bo
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bahloul & Friends
+DTSTART:20250802T003000Z
+DTEND:20250802T023000Z
+DTSTAMP:20250802T003000Z
+UID:Bahloul & Friends
+DESCRIPTION:https://www.viewcy.com/e/bahloul__friends_2\n<p><img alt="Bahl
+ oul &amp\; Friends thumbnail" class="styles_coverImg__PsR9G" data-nimg="1"
+  data-sentry-component="ImageWithFallback" data-sentry-element="Image" dat
+ a-sentry-source-file="index.tsx" decoding="async" height="186" loading="la
+ zy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F27
+ 3%2Fcover%2Fbahloul___friends.jpg%3F1753710443&amp\;w=640&amp\;q=100" srcs
+ et="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.c
+ om%2Fcourses%2Ffeatured_images%2F000%2F019%2F273%2Fcover%2Fbahloul___frien
+ ds.jpg%3F1753710443&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F019%2F273%2Fcover%2Fbahloul___friends.jpg%3F1753710443&amp\;w=640&
+ amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baglama Classes with Ercan Alkan
+DTSTART:20250802T190000Z
+DTEND:20250802T210000Z
+DTSTAMP:20250802T190000Z
+UID:Baglama Classes with Ercan Alkan
+DESCRIPTION:https://www.viewcy.com/e/baglama_classes_with\n<p><img alt="Ba
+ glama Classes with Ercan Alkan thumbnail" class="styles_coverImg__PsR9G" d
+ ata-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element
+ ="Image" data-sentry-source-file="index.tsx" decoding="async" height="186"
+  loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2F
+ viewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F00
+ 0%2F019%2F275%2Fcover%2FRed___Black_minimalist_music_class_facebook_post.j
+ pg%3F1753711414&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F019%2F275%2Fcover%2FRed___Black_minimalist_music_class_facebook_po
+ st.jpg%3F1753711414&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F019%2F275%2Fcover%2FRed___Black_minimalist_music_class_facebook_po
+ st.jpg%3F1753711414&amp\;w=640&amp\;q=100 2x" style="color: transparent\;"
+  width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lala Tamar & friends\, ft Yacouba Sissoko
 DTSTART:20250803T000000Z
 DTEND:20250803T020000Z
