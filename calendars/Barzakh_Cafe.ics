@@ -140,6 +140,29 @@ DESCRIPTION:https://www.viewcy.com/e/gnawa_ritual_night_g_1\n<p><img alt="
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brooklyn Chaabi Project
+DTSTART:20250803T220000Z
+DTEND:20250804T000000Z
+DTSTAMP:20250803T220000Z
+UID:Brooklyn Chaabi Project
+DESCRIPTION:https://www.viewcy.com/e/brooklyn_chaabi_proje\n<p><img alt="B
+ rooklyn Chaabi Project thumbnail" class="styles_coverImg__PsR9G" data-nimg
+ ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
+  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
+ ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%
+ 2F278%2Fcover%2FPublication_Instagram_Festival_de_Musique_Artiste_Moderne_
+ Abstrait.jpg%3F1753714641&amp\;w=640&amp\;q=100" srcset="/_next/image?url=
+ https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
+ ed_images%2F000%2F019%2F278%2Fcover%2FPublication_Instagram_Festival_de_Mu
+ sique_Artiste_Moderne_Abstrait.jpg%3F1753714641&amp\;w=384&amp\;q=100 1x\,
+  /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%
+ 2Fcourses%2Ffeatured_images%2F000%2F019%2F278%2Fcover%2FPublication_Instag
+ ram_Festival_de_Musique_Artiste_Moderne_Abstrait.jpg%3F1753714641&amp\;w=6
+ 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sham-e-ghazal: Ustad Ghulam Abbas Khan presents Ghalib\, Faiz\, Ah
  med Faraz
 DTSTART:20250808T223000Z
