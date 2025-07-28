@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20250728T200000Z
-DTEND:20250728T213000Z
-DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/778284
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class (We Speak NYC)
 DTSTART:20250728T214500Z
 DTEND:20250728T234500Z
@@ -385,5 +375,15 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772387
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York State Reparations Remedies Business Meeting
+DTSTART:20250801T140000Z
+DTEND:20250801T170000Z
+DESCRIPTION:See August 1 Meeting AgendaPlease note: the first 20 minutes o
+ f the business meeting will be open to the public. The meeting will then g
+ o into Executive Session which is closed to the public.\n\nhttps://www.bkl
+ ynlibrary.org/node/780250
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR

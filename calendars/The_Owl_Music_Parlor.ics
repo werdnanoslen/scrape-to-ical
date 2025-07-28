@@ -11,42 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:Tommy Crane • Emma Frank • Elliot Krimsky July 26
-DTSTART:20250726T233000Z
-DTEND:20250727T013000Z
-DTSTAMP:20250726T233000Z
-UID:https://theowl.nyc/calendar?event_id=1641-2025-07-26 23:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1641\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-2472" src="https://theowl.nyc/wp-content/uploads/Tommy-Crane-03-Carol
- ine-Desilets-200x300.jpg" alt="" width="200" height="300" /> <img class="a
- lignnone size-medium wp-image-2329" src="https://theowl.nyc/wp-content/upl
- oads/EmmaFrank-pressphoto-300x200.jpeg" alt="" width="300" height="200" />
-  <img class="alignnone size-medium wp-image-1103" src="https://theowl.nyc/
- wp-content/uploads/Krimsky-300x200.jpg" alt="" width="300" height="200" />
- </p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Colby Nathan • Therese • Miriam Elhajli • The Cradle  Jul 27
-DTSTART:20250727T233000Z
-DTEND:20250728T013000Z
-DTSTAMP:20250727T233000Z
-UID:https://theowl.nyc/calendar?event_id=1620-2025-07-27 23:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1620\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-2916" src="https://theowl.nyc/wp-content/uploads/Screenshot-2025-05-1
- 6-at-9.58.47 PM-300x264.png" alt="" width="300" height="264" />  <img c
- lass="alignnone size-medium wp-image-2915" src="https://theowl.nyc/wp-cont
- ent/uploads/Colby-Nathan-300x290.png" alt="" width="300" height="290" /> 
- </p>\n<p>                     <img class="alignnone size-medium
-  wp-image-1902" src="https://theowl.nyc/wp-content/uploads/Miriam-169x300.
- jpg" alt="" width="169" height="300" />   <img class="alignnone size-medi
- um wp-image-1897" src="https://theowl.nyc/wp-content/uploads/Paco-cradle-3
- 00x225.jpg" alt="" width="300" height="225" />  </p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Josh Halper • Iceblink • Dr. Kathy Jul 31
 DTSTART:20250731T233000Z
 DTEND:20250801T013000Z
@@ -148,19 +112,17 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1647\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Panther Hollow • Mina Walker • Gemma Aug 8
+SUMMARY:Mina Walker • Gemma Aug 8
 DTSTART:20250808T233000Z
 DTEND:20250809T013000Z
 DTSTAMP:20250808T233000Z
 UID:https://theowl.nyc/calendar?event_id=1624-2025-08-08 23:30:00+00:00
 DESCRIPTION:https://theowl.nyc/calendar?event_id=1624\n7:30 Doors 8pm Show
- \n<p><img class="alignnone size-medium wp-image-2918" src="https://theowl.
- nyc/wp-content/uploads/Nardo-Panther-Hollow-199x300.jpeg" alt="" width="19
- 9" height="300" />  <img class="alignnone size-medium wp-image-2098" src=
- "https://theowl.nyc/wp-content/uploads/IMG_4158-300x300.jpeg" alt="" width
- ="300" height="300" /> <img class="alignnone size-medium wp-image-2223" sr
- c="https://theowl.nyc/wp-content/uploads/Gemma-300x200.jpg" alt="" width="
- 300" height="200" /></p>
+ \n<p>  <img class="alignnone size-medium wp-image-2098" src="https://theo
+ wl.nyc/wp-content/uploads/IMG_4158-300x300.jpeg" alt="" width="300" height
+ ="300" /> <img class="alignnone size-medium wp-image-2223" src="https://th
+ eowl.nyc/wp-content/uploads/Gemma-300x200.jpg" alt="" width="300" height="
+ 200" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -270,7 +232,7 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1664\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:tba Aug 15
+SUMMARY:Alkebulan • Margeuuux • Miles Peterson Aug 15
 DTSTART:20250815T233000Z
 DTEND:20250816T013000Z
 DTSTAMP:20250815T233000Z
@@ -516,7 +478,7 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1662\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Charlie Burnham • Dana Lyn Sept 19
+SUMMARY:Charlie Burnham • We\, the Gleaners Sept 19
 DTSTART:20250919T233000Z
 DTEND:20250920T013000Z
 DTSTAMP:20250919T233000Z
@@ -526,7 +488,26 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1665\n7:30 Doors\n8:00 Mu
  mage-798" src="https://theowl.nyc/wp-content/uploads/charlie-burnham-1-225
  x300.jpeg" alt="" width="225" height="300" /> <img class="alignnone wp-ima
  ge-1561" src="https://theowl.nyc/wp-content/uploads/dana-lyn.jpeg" alt="" 
- width="315" height="315" /></p>
+ width="315" height="315" /></p>\n<p><b>Charles Burnham</b> is a modern vio
+ linist who works most often as an improviser in blues based music forms. O
+ ver the last four decades he has been living and working in New York City 
+ with some of modern music’s brightest stars.  In 1982 he began an ongoi
+ ng partnership with the groundbreaking guitarist James Blood Ulmer which p
+ roduced several recordings\, including the critically acclaimed “Oddesse
+ y”\, and performed around the world. Also in the 1980’s Burnham replac
+ ed the wonderful Billy Bang in the legendary String Trio of New York. This
+  association lasted until the early ‘90’s and produced many recordings
+  and worldwide tours.<span class="Apple-converted-space">  </span>In 1992
+  Burnham was asked to record and arrange music for Cassandra Wilson’s fi
+ rst Blue Note record\, Blue Light ‘til Dawn\, after which he remained in
+  her touring ensemble until she retired from public performing.The year 20
+ 00 was the start of Charles’s association with Steven Bernstein’s Mill
+ enial Territory Orchestra that continues to this day.  MTO is the band th
+ at accompanied piano virtuoso Henry Butler just before he passed away. Amo
+ ng the artists with whom Burnham has collaborated on a more short term bas
+ is we include Henry Threadgill\, Wynton Marsalis\, Nora Jones\, Susie Ibar
+ ra\, and many more.</p>\n<p>We\, the Gleaners is Dana Lyn\, Matt Kanelos o
+ n piano and Kyle Sanna</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -1070,6 +1051,18 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1677\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Good Intentions • TBA Nov 23
+DTSTART:20251124T003000Z
+DTEND:20251124T023000Z
+DTSTAMP:20251124T003000Z
+UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
+ sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
+ "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
+ ="344" height="258" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Owl Presents: Elysian Fields at LPR!  Nov 23
 DTSTART:20251124T000000Z
 DTEND:20251124T020000Z
@@ -1083,18 +1076,6 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1659\n7:00 pm\n<p><strong
  loads/Screenshot-2025-07-15-at-12.38.35-AM-1024x655.png" alt="" width="669
  " height="428" /></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>
  &nbsp\;</p>\n<p>&nbsp\;</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Intentions • TBA Nov 23
-DTSTART:20251124T003000Z
-DTEND:20251124T023000Z
-DTSTAMP:20251124T003000Z
-UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
- sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
- "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
- ="344" height="258" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -1195,20 +1176,6 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1676\n7:30 Doors\n8:00 Mu
   height="298" /></p>\n<p>Thomas Bartlett (born September 31\, 1831)\, also
   known as <strong>Doveman</strong>\, is <em>an American pianist\, producer
  \, and singer</em>. He has released four solo albums as Doveman\,</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Otracami • Wendy Eisenberg Dec 11
-DTSTART:20251212T003000Z
-DTEND:20251212T023000Z
-DTSTAMP:20251212T003000Z
-UID:https://theowl.nyc/calendar?event_id=1643-2025-12-12 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1643\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-2585" src="https://theowl.nyc/wp-content/uploads/Otracami-CAmila-Orti
- z-200x300.jpg" alt="" width="200" height="300" /> <img class="alignnone si
- ze-medium wp-image-2304" src="https://theowl.nyc/wp-content/uploads/IMG_44
- 16-240x300.jpg" alt="" width="240" height="300" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
