@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20250728T160000Z
-DTEND:20250728T190000Z
-DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
- library.org/node/777664
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
 DTSTART:20250728T180000Z
 DTEND:20250728T200000Z
@@ -49,6 +41,13 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Free English Class
+DTSTART:20250728T190000Z
+DTEND:20250728T210000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779563
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250728T190000Z
 DTEND:20250728T210000Z
@@ -63,13 +62,6 @@ DTEND:20250728T210000Z
 DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
  /776034
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Free English Class
-DTSTART:20250728T190000Z
-DTEND:20250728T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779563
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga
@@ -379,5 +371,15 @@ DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
  e class will begin with stretch and breathing exercises. Workouts\n\nhttps
  ://www.bklynlibrary.org/node/778110
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York State Commission on Reparations Remedies Public Hearing
+DTSTART:20250731T200000Z
+DTEND:20250731T000000Z
+DESCRIPTION:Join the New York State Community Commission on Reparations Re
+ medies for a public hearing at Central Library. Community members are invi
+ ted to share personal testimony about the lasting impacts of red\n\nhttps:
+ //www.bklynlibrary.org/node/779661
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
