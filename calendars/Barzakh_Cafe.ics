@@ -54,24 +54,25 @@ DESCRIPTION:https://www.viewcy.com/e/book_and_movie_night\n<p><img alt="Bo
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bahloul Sings Ziad Rahbani
+SUMMARY:Bahloul & Friends: A Tribute to Ziad Rahbani
 DTSTART:20250802T003000Z
 DTEND:20250802T023000Z
 DTSTAMP:20250802T003000Z
-UID:Bahloul Sings Ziad Rahbani
+UID:Bahloul & Friends: A Tribute to Ziad Rahbani
 DESCRIPTION:https://www.viewcy.com/e/bahloul__friends_2\n<p><img alt="Bahl
- oul Sings Ziad Rahbani thumbnail" class="styles_coverImg__PsR9G" data-nimg
- ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
-  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
- ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-h
- eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%
- 2F273%2Fcover%2Fbahloul___friends.jpg%3F1753728653&amp\;w=640&amp\;q=100" 
- srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazona
- ws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F273%2Fcover%2Fbahloul___f
- riends.jpg%3F1753728653&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
- 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
- ges%2F000%2F019%2F273%2Fcover%2Fbahloul___friends.jpg%3F1753728653&amp\;w=
- 640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+ oul &amp\; Friends: A Tribute to Ziad Rahbani thumbnail" class="styles_cov
+ erImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data
+ -sentry-element="Image" data-sentry-source-file="index.tsx" decoding="asyn
+ c" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F019%2F273%2Fcover%2Fbahloul___friends.jpg%3F1753728653&
+ amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F27
+ 3%2Fcover%2Fbahloul___friends.jpg%3F1753728653&amp\;w=384&amp\;q=100 1x\, 
+ /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2
+ Fcourses%2Ffeatured_images%2F000%2F019%2F273%2Fcover%2Fbahloul___friends.j
+ pg%3F1753728653&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wid
+ th="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
@@ -206,6 +207,29 @@ DESCRIPTION:https://www.viewcy.com/e/the_umm_kalthum_works_7\n<p><img alt=
  es%2Ffeatured_images%2F000%2F019%2F279%2Fcover%2FThe_Umm_Kalthum_Workshop.
  jpg%3F1753715254&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wi
  dth="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sham E Qawwali
+DTSTART:20250831T000000Z
+DTEND:20250831T020000Z
+DTSTAMP:20250831T000000Z
+UID:Sham E Qawwali
+DESCRIPTION:https://www.viewcy.com/e/sham_e_qawwali_2\n<p><img alt="Sham E
+  Qawwali thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sent
+ ry-component="ImageWithFallback" data-sentry-element="Image" data-sentry-s
+ ource-file="index.tsx" decoding="async" height="186" loading="lazy" src="h
+ ttps://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
+ on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F293%2Fcover%
+ 2FBlack_and_White_Simple_Classic_Art_Museum_Exhibition_Instagram_Post.jpg%
+ 3F1753738940&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F019%2F293%2Fcover%2FBlack_and_White_Simple_Classic_Art_Museum_Exhibit
+ ion_Instagram_Post.jpg%3F1753738940&amp\;w=384&amp\;q=100 1x\, /_next/imag
+ e?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2F
+ featured_images%2F000%2F019%2F293%2Fcover%2FBlack_and_White_Simple_Classic
+ _Art_Museum_Exhibition_Instagram_Post.jpg%3F1753738940&amp\;w=640&amp\;q=1
+ 00 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
