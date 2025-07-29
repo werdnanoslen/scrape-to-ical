@@ -11,12 +11,15 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20250729T133000Z
-DTEND:20250729T163000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/774663
-LOCATION:Central Library\, Business & Career Center\, Classroom
+SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
+ siness Solutions Center
+DTSTART:20250729T170000Z
+DTEND:20250729T200000Z
+DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
+ ? Join the Brooklyn Business Solutions Center for "The Flower Hour\," a sp
+ ecial session of our popular Joint Ventures educational series wh\n\nhttps
+ ://www.bklynlibrary.org/node/772443
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech
@@ -27,17 +30,6 @@ DESCRIPTION:Ask A Tech is a class where you can ask about anything involvi
  ow to use all of technological equipment you have.\n\nhttps://www.bklynlib
  rary.org/node/774341
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
- siness Solutions Center
-DTSTART:20250729T170000Z
-DTEND:20250729T200000Z
-DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
- ? Join the Brooklyn Business Solutions Center for "The Flower Hour\," a sp
- ecial session of our popular Joint Ventures educational series wh\n\nhttps
- ://www.bklynlibrary.org/node/772443
-LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater Workshop
@@ -387,6 +379,14 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  p with your resume\, cover letter\, interview\, and job search questions. 
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774152
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20250801T160000Z
+DTEND:20250801T180000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/779483
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
