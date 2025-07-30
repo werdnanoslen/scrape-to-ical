@@ -37,16 +37,6 @@ DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20250730T180000Z
-DTEND:20250730T190000Z
-DESCRIPTION:Ask A Tech is a class where you can ask about anything involvi
- ng your computer\, phone\, and or tablet\, and also acquire knowledge on h
- ow to use all of technological equipment you have.\n\nhttps://www.bklynlib
- rary.org/node/774342
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250730T190000Z
 DTEND:20250730T210000Z
@@ -385,5 +375,15 @@ DTEND:20250804T190000Z
 DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
  library.org/node/777665
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20250804T180000Z
+DTEND:20250804T200000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) get free one-on-one resume hel
+ p\, education and career advice\, interviewing prep\, and more with\n\nhtt
+ ps://www.bklynlibrary.org/node/758208
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
