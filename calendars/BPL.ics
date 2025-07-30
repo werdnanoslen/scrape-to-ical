@@ -21,22 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250730T180000Z
-DTEND:20250730T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/771668
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Business Help for Immigrants (Central)
-DTSTART:20250730T180000Z
-DTEND:20250730T200000Z
-DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
- .bklynlibrary.org/node/773297
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250730T190000Z
 DTEND:20250730T210000Z
@@ -290,7 +274,7 @@ DTEND:20250802T153000Z
 DESCRIPTION:First impressions starts with you! Are you interested in earni
  ng a nationally recognized hospitality front desk representative certifica
  tion? Join our session to learn how you can learn the necessary\n\nhttps:/
- /www.bklynlibrary.org/node/780099
+ /www.bklynlibrary.org/node/780100
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
@@ -301,7 +285,7 @@ DTEND:20250802T153000Z
 DESCRIPTION:First impressions starts with you! Are you interested in earni
  ng a nationally recognized hospitality front desk representative certifica
  tion? Join our session to learn how you can learn the necessary\n\nhttps:/
- /www.bklynlibrary.org/node/780100
+ /www.bklynlibrary.org/node/780099
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
@@ -385,5 +369,23 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  p\, education and career advice\, interviewing prep\, and more with\n\nhtt
  ps://www.bklynlibrary.org/node/758208
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250804T180000Z
+DTEND:20250804T200000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774061
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20250804T190000Z
+DTEND:20250804T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /776035
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
