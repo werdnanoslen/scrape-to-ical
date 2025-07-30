@@ -12,24 +12,6 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
-DTSTART:20250729T220000Z
-DTEND:20250729T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
- 70
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group - Brooklyn Heights
-DTSTART:20250729T220000Z
-DTEND:20250729T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/770465
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
 DTSTART:20250730T140000Z
 DTEND:20250730T160000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -388,5 +370,25 @@ DESCRIPTION:WNYC's Public Song Project invites anyone to create new music
  ontribute song covers and musical adaptations of books\, poetry\,\n\nhttps
  ://www.bklynlibrary.org/node/776374
 LOCATION:Central Library\, Plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cache Me Outside: Digital Defense + Zine Making Workshop
+DTSTART:20250802T180000Z
+DTEND:20250802T210000Z
+DESCRIPTION:Cache Me Outside is a digital defense circle designed for comm
+ unity organizers\, care workers\, educators\, and anyone navigating hypers
+ urveillance. This space challenges the mainstream cybersecurity nar\n\nhtt
+ ps://www.bklynlibrary.org/node/777183
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYC Livecode Meetup
+DTSTART:20250803T173000Z
+DTEND:20250803T203000Z
+DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers 
+ to discuss\, promote\, and explore real-time programming. Our meetups are 
+ open to all. Come with works in progress to show\, with ideas to bo\n\nhtt
+ ps://www.bklynlibrary.org/node/747700
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
