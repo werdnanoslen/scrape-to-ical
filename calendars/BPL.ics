@@ -30,16 +30,6 @@ DESCRIPTION:SimplyAnalytics is a webbased mapping and data visualization t
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigration & Legal Support Workshop with New York Legal Assistanc
- e Group
-DTSTART:20250730T220000Z
-DTEND:20250730T230000Z
-DESCRIPTION:Join us on Zoom for an Immigration & Legal Support Workshop wi
- th the New York Legal Assistance Group (NYLAG).\n\nhttps://www.bklynlibrar
- y.org/node/779408
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20250731T140000Z
 DTEND:20250731T190000Z
@@ -383,5 +373,15 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
  s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
  ps://www.bklynlibrary.org/node/780765
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20250804T200000Z
+DTEND:20250804T213000Z
+DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/780951
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
