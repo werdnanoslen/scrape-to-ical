@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask a tech
-DTSTART:20250730T153000Z
-DTEND:20250730T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/764125
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adult Coloring
 DTSTART:20250730T170000Z
 DTEND:20250730T180000Z
@@ -353,6 +343,15 @@ DESCRIPTION:Cache Me Outside is a digital defense circle designed for comm
  urveillance. This space challenges the mainstream cybersecurity nar\n\nhtt
  ps://www.bklynlibrary.org/node/777183
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knitting Circle at Brooklyn Heights
+DTSTART:20250802T183000Z
+DTEND:20250802T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing.\
+ n\nhttps://www.bklynlibrary.org/node/780958
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NYC Livecode Meetup
