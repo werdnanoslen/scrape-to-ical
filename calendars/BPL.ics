@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Coloring
-DTSTART:20250730T170000Z
-DTEND:20250730T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /779292
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250730T180000Z
 DTEND:20250730T200000Z
@@ -387,5 +377,13 @@ DTEND:20250804T173000Z
 DESCRIPTION:The library offers free English classes for beginners learning
   English.\n\nhttps://www.bklynlibrary.org/node/777220
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20250804T160000Z
+DTEND:20250804T190000Z
+DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
+ library.org/node/777665
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
