@@ -21,15 +21,6 @@ DESCRIPTION:Join the New York State Community Commission on Reparations Re
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250731T213000Z
-DTEND:20250731T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763499
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Zumba
 DTSTART:20250731T213000Z
 DTEND:20250731T223000Z
@@ -48,6 +39,15 @@ DESCRIPTION:This session is cancelled One-on-one resume coaching at the li
  ng their resumes. Join us for assistance including feedback and\n\nhttp
  s://www.bklynlibrary.org/node/777342
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250731T213000Z
+DTEND:20250731T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763499
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
