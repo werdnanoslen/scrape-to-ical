@@ -30,26 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Motion Graphics with After Effects
-DTSTART:20250731T143000Z
-DTEND:20250731T173000Z
-DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
- mic motion graphics and video effects compositing. This course covers the 
- basics of the After Effects interface\, text and layer animation\,\n\nhttp
- s://www.bklynlibrary.org/node/765349
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250731T170000Z
-DTEND:20250731T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/778110
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New York State Commission on Reparations Remedies Public Hearing
 DTSTART:20250731T200000Z
 DTEND:20250731T000000Z
@@ -382,5 +362,22 @@ DTEND:20250805T163000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/774664
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20250805T170000Z
+DTEND:20250805T180000Z
+DESCRIPTION:Class will involve explaining and assisting with any technolog
+ ical questions or problems you may have with your devices.\n\nhttps://www.
+ bklynlibrary.org/node/776725
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20250805T190000Z
+DTEND:20250805T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
+ 0
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
