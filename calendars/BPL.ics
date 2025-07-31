@@ -21,16 +21,6 @@ DESCRIPTION:Join the New York State Community Commission on Reparations Re
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Zumba
-DTSTART:20250731T213000Z
-DTEND:20250731T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/776161
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Resume Coaching
 DTSTART:20250731T213000Z
 DTEND:20250731T233000Z
@@ -39,15 +29,6 @@ DESCRIPTION:This session is cancelled One-on-one resume coaching at the li
  ng their resumes. Join us for assistance including feedback and\n\nhttp
  s://www.bklynlibrary.org/node/777342
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250731T213000Z
-DTEND:20250731T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763499
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
@@ -379,6 +360,25 @@ DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
   trending? Join our Pop Culture Club! We meet regularly to discuss the lat
  est in entertainment\, share fan theories\, play trivia\, and dive into\n\
  nhttps://www.bklynlibrary.org/node/778765
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250805T220000Z
+DTEND:20250805T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
+ 71
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basic Computer Class
+DTSTART:20250805T220000Z
+DTEND:20250805T230000Z
+DESCRIPTION:Whether you're starting from scratch or just need a refresher\
+ , our Basic Computer classes at Brooklyn Heights are designed to help you 
+ get comfortable with using a computer. No need to bring your own—\n\nhtt
+ ps://www.bklynlibrary.org/node/769783
 LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
