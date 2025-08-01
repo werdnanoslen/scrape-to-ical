@@ -11,20 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:Josh Halper • Iceblink • Dr. Kathy Jul 31
-DTSTART:20250731T233000Z
-DTEND:20250801T013000Z
-DTSTAMP:20250731T233000Z
-UID:https://theowl.nyc/calendar?event_id=1637-2025-07-31 23:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1637\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-2952" src="https://theowl.nyc/wp-content/uploads/josh-halper.png-300x
- 300.avif" alt="" width="300" height="300" /> <img class="alignnone wp-imag
- e-2953" src="https://theowl.nyc/wp-content/uploads/iceblink.jpg" alt="" wi
- dth="351" height="319" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zahra & Aljanoub • Leila Adu Ensemble Aug 1
 DTSTART:20250801T233000Z
 DTEND:20250802T013000Z
@@ -242,7 +228,7 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1664\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alkebulan • Miles Ave • low bo Aug 15
+SUMMARY:Alkebulan • Miles Ave • low.bo Aug 15
 DTSTART:20250815T233000Z
 DTEND:20250816T013000Z
 DTSTAMP:20250815T233000Z
