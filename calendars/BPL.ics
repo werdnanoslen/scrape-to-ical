@@ -21,36 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York State Reparations Remedies Business Meeting
-DTSTART:20250801T140000Z
-DTEND:20250801T170000Z
-DESCRIPTION:See August 1 Meeting AgendaPlease note: the first 20 minutes o
- f the business meeting will be open to the public. The meeting will then g
- o into Executive Session which is closed to the public.\n\nhttps://www.bkl
- ynlibrary.org/node/780250
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250801T150000Z
-DTEND:20250801T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758233
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250801T150000Z
-DTEND:20250801T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774152
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250801T160000Z
 DTEND:20250801T180000Z
@@ -376,5 +346,34 @@ DTEND:20250806T160000Z
 DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
  .bklynlibrary.org/node/773298
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250806T140000Z
+DTEND:20250806T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772389
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20250806T140000Z
+DTEND:20250806T153000Z
+DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew 
+ Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
+ 653
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask a tech
+DTSTART:20250806T153000Z
+DTEND:20250806T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/764126
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
