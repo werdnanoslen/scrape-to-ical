@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250801T160000Z
-DTEND:20250801T180000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/779483
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250801T170000Z
 DTEND:20250801T190000Z
@@ -375,5 +367,13 @@ DESCRIPTION:Do you have a specific question about how to use computers or
   1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
  //www.bklynlibrary.org/node/764126
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plum Papercraft: Origami Star Box and Fox Box
+DTSTART:20250806T170000Z
+DTEND:20250806T183000Z
+DESCRIPTION:Learn to fold two types of decorative origami boxes out of squ
+ ares of paper.\n\nhttps://www.bklynlibrary.org/node/778570
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
