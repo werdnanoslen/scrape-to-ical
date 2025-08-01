@@ -22,24 +22,6 @@ LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
-DTSTART:20250801T170000Z
-DTEND:20250801T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 31
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20250801T180000Z
-DTEND:20250801T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763522
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
 DTSTART:20250802T143000Z
 DTEND:20250802T160000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -359,6 +341,14 @@ DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hollywood Hunk Movies: The Fall Guy
+DTSTART:20250806T143000Z
+DTEND:20250806T163000Z
+DESCRIPTION:Join us for a month of Hollywood Hunks!\n\nhttps://www.bklynli
+ brary.org/node/781300
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ask a tech
 DTSTART:20250806T153000Z
 DTEND:20250806T163000Z
@@ -375,5 +365,13 @@ DTEND:20250806T183000Z
 DESCRIPTION:Learn to fold two types of decorative origami boxes out of squ
  ares of paper.\n\nhttps://www.bklynlibrary.org/node/778570
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20250806T180000Z
+DTEND:20250806T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/779475
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
