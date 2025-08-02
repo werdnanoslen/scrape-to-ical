@@ -11,37 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250802T143000Z
-DTEND:20250802T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
- 88
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hospitality Front Desk Representative or Guestroom Attendant Certi
- fication Training
-DTSTART:20250802T143000Z
-DTEND:20250802T153000Z
-DESCRIPTION:First impressions starts with you! Are you interested in earni
- ng a nationally recognized hospitality front desk representative certifica
- tion? Join our session to learn how you can learn the necessary\n\nhttps:/
- /www.bklynlibrary.org/node/780099
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hospitality Front Desk Representative or Guestroom Attendant Certi
- fication Training
-DTSTART:20250802T143000Z
-DTEND:20250802T153000Z
-DESCRIPTION:First impressions starts with you! Are you interested in earni
- ng a nationally recognized hospitality front desk representative certifica
- tion? Join our session to learn how you can learn the necessary\n\nhttps:/
- /www.bklynlibrary.org/node/780100
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WNYC's Public Song Project Concert
 DTSTART:20250802T170000Z
 DTEND:20250802T181500Z
@@ -373,5 +342,30 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774127
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250806T200000Z
+DTEND:20250806T210000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763458
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Bingo Night
+DTSTART:20250806T200000Z
+DTEND:20250806T210000Z
+DESCRIPTION:Join us for Adult Bingo at the library every first Wednesday o
+ f the month!\n\nhttps://www.bklynlibrary.org/node/776106
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eat Healthy Be Active Workshop led by City Harvest
+DTSTART:20250806T210000Z
+DTEND:20250806T220000Z
+DESCRIPTION:Do you spend too much time worrying about what's for dinner? W
+ e can help!\n\nhttps://www.bklynlibrary.org/node/780770
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
