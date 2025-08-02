@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Cache Me Outside: Digital Defense + Zine Making Workshop
-DTSTART:20250802T180000Z
-DTEND:20250802T210000Z
-DESCRIPTION:Cache Me Outside is a digital defense circle designed for comm
- unity organizers\, care workers\, educators\, and anyone navigating hypers
- urveillance. This space challenges the mainstream cybersecurity nar\n\nhtt
- ps://www.bklynlibrary.org/node/777183
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Knitting Circle at Brooklyn Heights
-DTSTART:20250802T183000Z
-DTEND:20250802T203000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing.\
- n\nhttps://www.bklynlibrary.org/node/780958
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYC Livecode Meetup
 DTSTART:20250803T173000Z
 DTEND:20250803T203000Z
@@ -366,5 +347,24 @@ DTEND:20250806T220000Z
 DESCRIPTION:Do you spend too much time worrying about what's for dinner? W
  e can help!\n\nhttps://www.bklynlibrary.org/node/780770
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250806T220000Z
+DTEND:20250806T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
+ 57
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navigating NYS Cannabis Policy: Regulations\, Results & Resources
+DTSTART:20250806T220000Z
+DTEND:20250806T233000Z
+DESCRIPTION:Regulations\, Results\, & Resources: A legal review of recent 
+ NYS cannabis policy changes and their impact on legal operatorsJoin us for
+  this attorney-led workshop covering recent NYS cannabis policy ch\n\nhttp
+ s://www.bklynlibrary.org/node/779374
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
