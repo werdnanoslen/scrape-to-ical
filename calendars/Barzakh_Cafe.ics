@@ -81,27 +81,27 @@ DESCRIPTION:https://www.viewcy.com/e/baglama_classes_with_1\n<p><img alt="
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yegua Banda Live
+SUMMARY:Yegua Live
 DTSTART:20250810T000000Z
 DTEND:20250810T020000Z
 DTSTAMP:20250810T000000Z
-UID:Yegua Banda Live
+UID:Yegua Live
 DESCRIPTION:https://www.viewcy.com/e/yegua_banda_live\n<p><img alt="Yegua 
- Banda Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-se
- ntry-component="ImageWithFallback" data-sentry-element="Image" data-sentry
- -source-file="index.tsx" decoding="async" height="186" loading="lazy" src=
- "https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
- tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F477%2Fcove
- r%2FAffiche_Annonce_de_programmation_d%27artistes_Bold_Moderne_Minimaliste
- _Noir_Blanc.jpg%3F1754330805&amp\;w=640&amp\;q=100" srcset="/_next/image?u
- rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
- tured_images%2F000%2F019%2F477%2Fcover%2FAffiche_Annonce_de_programmation_
- d'artistes_Bold_Moderne_Minimaliste_Noir_Blanc.jpg%3F1754330805&amp\;w=384
- &amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
+ Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-c
+ omponent="ImageWithFallback" data-sentry-element="Image" data-sentry-sourc
+ e-file="index.tsx" decoding="async" height="186" loading="lazy" src="https
+ ://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
  3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F477%2Fcover%2FAf
- fiche_Annonce_de_programmation_d'artistes_Bold_Moderne_Minimaliste_Noir_Bl
- anc.jpg%3F1754330805&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
- " width="308"/></p>
+ fiche_Annonce_de_programmation_d%27artistes_Bold_Moderne_Minimaliste_Noir_
+ Blanc.jpg%3F1754339180&amp\;w=640&amp\;q=100" srcset="/_next/image?url=htt
+ ps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_
+ images%2F000%2F019%2F477%2Fcover%2FAffiche_Annonce_de_programmation_d'arti
+ stes_Bold_Moderne_Minimaliste_Noir_Blanc.jpg%3F1754339180&amp\;w=384&amp\;
+ q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
+ onaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F477%2Fcover%2FAffiche_
+ Annonce_de_programmation_d'artistes_Bold_Moderne_Minimaliste_Noir_Blanc.jp
+ g%3F1754339180&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" widt
+ h="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
@@ -140,13 +140,13 @@ DESCRIPTION:https://www.viewcy.com/e/arabic_classes_with_e_14\n<p><img alt
  ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvie
  wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
  F019%2F484%2Fcover%2FRed___Black_minimalist_music_class_facebook_post_arab
- ic.jpg%3F1754336670&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%
+ ic.jpg%3F1754340901&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%
  3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
  ges%2F000%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_class_faceboo
- k_post_arabic.jpg%3F1754336670&amp\;w=384&amp\;q=100 1x\, /_next/image?url
+ k_post_arabic.jpg%3F1754340901&amp\;w=384&amp\;q=100 1x\, /_next/image?url
  =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
  red_images%2F000%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_class_
- facebook_post_arabic.jpg%3F1754336670&amp\;w=640&amp\;q=100 2x" style="col
+ facebook_post_arabic.jpg%3F1754340901&amp\;w=640&amp\;q=100 2x" style="col
  or: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
@@ -170,6 +170,28 @@ DESCRIPTION:https://www.viewcy.com/e/the_umm_kalthum_works_7\n<p><img alt=
  es%2Ffeatured_images%2F000%2F019%2F279%2Fcover%2FThe_Umm_Kalthum_Workshop.
  jpg%3F1753715254&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wi
  dth="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drawn to Music
+DTSTART:20250811T223000Z
+DTEND:20250812T003000Z
+DTSTAMP:20250811T223000Z
+UID:Drawn to Music
+DESCRIPTION:https://www.viewcy.com/e/drawn_to_music_1\n<p><img alt="Drawn 
+ to Music thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sent
+ ry-component="ImageWithFallback" data-sentry-element="Image" data-sentry-s
+ ource-file="index.tsx" decoding="async" height="186" loading="lazy" src="h
+ ttps://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
+ on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F490%2Fcover%
+ 2FWhatsApp_Image_2025-08-04_at_15.24.22_3013a39c.jpg%3F1754338491&amp\;w=6
+ 40&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
+ tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F490%2Fcove
+ r%2FWhatsApp_Image_2025-08-04_at_15.24.22_3013a39c.jpg%3F1754338491&amp\;w
+ =384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
+ on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F490%2Fcover%
+ 2FWhatsApp_Image_2025-08-04_at_15.24.22_3013a39c.jpg%3F1754338491&amp\;w=6
+ 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
