@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20250804T160000Z
-DTEND:20250804T190000Z
-DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
- library.org/node/777665
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
 DTSTART:20250804T180000Z
 DTEND:20250804T200000Z
@@ -369,5 +361,15 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
  e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
  lynlibrary.org/node/767024
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getting to School: Making Special Education Busing Work!
+DTSTART:20250807T140000Z
+DTEND:20250807T160000Z
+DESCRIPTION:Where is the bus? Learn how you can get your child on a bus to
+  school and how to deal with any problems. Find out about recent changes t
+ o how busing works. Make sure your child has a safe\, secure\, and\n\nhttp
+ s://www.bklynlibrary.org/node/778490
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR

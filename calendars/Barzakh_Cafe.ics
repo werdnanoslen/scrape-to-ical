@@ -58,6 +58,30 @@ DESCRIPTION:https://www.viewcy.com/e/shameghazal_ustad\n<p><img alt="Sham-
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yegua Banda Live
+DTSTART:20250810T000000Z
+DTEND:20250810T020000Z
+DTSTAMP:20250810T000000Z
+UID:Yegua Banda Live
+DESCRIPTION:https://www.viewcy.com/e/yegua_banda_live\n<p><img alt="Yegua 
+ Banda Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-se
+ ntry-component="ImageWithFallback" data-sentry-element="Image" data-sentry
+ -source-file="index.tsx" decoding="async" height="186" loading="lazy" src=
+ "https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
+ tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F477%2Fcove
+ r%2FAffiche_Annonce_de_programmation_d%27artistes_Bold_Moderne_Minimaliste
+ _Noir_Blanc.jpg%3F1754330805&amp\;w=640&amp\;q=100" srcset="/_next/image?u
+ rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
+ tured_images%2F000%2F019%2F477%2Fcover%2FAffiche_Annonce_de_programmation_
+ d'artistes_Bold_Moderne_Minimaliste_Noir_Blanc.jpg%3F1754330805&amp\;w=384
+ &amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
+ 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F477%2Fcover%2FAf
+ fiche_Annonce_de_programmation_d'artistes_Bold_Moderne_Minimaliste_Noir_Bl
+ anc.jpg%3F1754330805&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
+ " width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Afternoon Mehfil with Abdullah Niazi Qawwal
 DTSTART:20250810T190000Z
 DTEND:20250810T210000Z
@@ -100,6 +124,30 @@ DESCRIPTION:https://www.viewcy.com/e/the_umm_kalthum_works_7\n<p><img alt=
  es%2Ffeatured_images%2F000%2F019%2F279%2Fcover%2FThe_Umm_Kalthum_Workshop.
  jpg%3F1753715254&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wi
  dth="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRM Concert and Jam Featuring Ramanan Venkatraman & Aditya Phatak
+DTSTART:20250814T230000Z
+DTEND:20250815T010000Z
+DTSTAMP:20250814T230000Z
+UID:BRM Concert and Jam Featuring Ramanan Venkatraman & Aditya Phatak
+DESCRIPTION:https://www.viewcy.com/e/brm_concert_and_jam_f\n<p><img alt="B
+ RM Concert and Jam Featuring Ramanan Venkatraman &amp\; Aditya Phatak thum
+ bnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component=
+ "ImageWithFallback" data-sentry-element="Image" data-sentry-source-file="i
+ ndex.tsx" decoding="async" height="186" loading="lazy" src="https://www.vi
+ ewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazona
+ ws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F480%2Fcover%2FBRM_Concert
+ _and_Jam_Featuring_Aditya_Phatak__28Instagram_Post_29.jpg%3F1754331568&amp
+ \;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-p
+ roduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F480%2
+ Fcover%2FBRM_Concert_and_Jam_Featuring_Aditya_Phatak__28Instagram_Post_29.
+ jpg%3F1754331568&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F019%2F480%2Fcover%2FBRM_Concert_and_Jam_Featuring_Aditya_Phatak__28In
+ stagram_Post_29.jpg%3F1754331568&amp\;w=640&amp\;q=100 2x" style="color: t
+ ransparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
