@@ -21,13 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20250804T150000Z
-DTEND:20250804T170000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779088
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class (We Speak NYC)
 DTSTART:20250804T153000Z
 DTEND:20250804T173000Z
@@ -365,5 +358,14 @@ DESCRIPTION:In case of rain\, this concert will relocate to the Dweck Cent
  er\, located on the lower level of Central Library.\n\nhttps://www.bklynli
  brary.org/node/775644
 LOCATION:Central Library\, Plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20250807T140000Z
+DTEND:20250807T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7530
+ 28
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
