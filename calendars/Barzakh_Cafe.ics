@@ -219,6 +219,29 @@ DESCRIPTION:https://www.viewcy.com/e/brm_concert_and_jam_f\n<p><img alt="B
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:North African Night with Naji Soul
+DTSTART:20250817T000000Z
+DTEND:20250817T020000Z
+DTSTAMP:20250817T000000Z
+UID:North African Night with Naji Soul
+DESCRIPTION:https://www.viewcy.com/e/north_african_night_w\n<p><img alt="N
+ orth African Night with Naji Soul thumbnail" class="styles_coverImg__PsR9G
+ " data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elem
+ ent="Image" data-sentry-source-file="index.tsx" decoding="async" height="1
+ 86" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F
+ %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
+ F000%2F019%2F511%2Fcover%2FBeige_et_noir_moderne_minimaliste_spectacle_aff
+ iche.jpg%3F1754426158&amp\;w=640&amp\;q=100" srcset="/_next/image?url=http
+ s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
+ mages%2F000%2F019%2F511%2Fcover%2FBeige_et_noir_moderne_minimaliste_specta
+ cle_affiche.jpg%3F1754426158&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F019%2F511%2Fcover%2FBeige_et_noir_moderne_minimaliste_spe
+ ctacle_affiche.jpg%3F1754426158&amp\;w=640&amp\;q=100 2x" style="color: tr
+ ansparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sham E Qawwali
 DTSTART:20250831T000000Z
 DTEND:20250831T020000Z
