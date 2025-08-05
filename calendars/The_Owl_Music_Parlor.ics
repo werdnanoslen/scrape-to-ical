@@ -521,6 +521,19 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1665\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rivulet • tba Sept 20
+DTSTART:20250920T233000Z
+DTEND:20250921T013000Z
+DTSTAMP:20250920T233000Z
+UID:https://theowl.nyc/calendar?event_id=1701-2025-09-20 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1701\n7:30 Doors\n8:00 Mu
+ sic \n$15.00 suggested donation\n<p><img class="alignnone wp-image-2986" s
+ rc="https://theowl.nyc/wp-content/uploads/Claire-300x200.jpg" alt="" width
+ ="391" height="261" /></p>\n<p><strong>Rivulet</strong> are Claire Dickson
+  (pictured)\, Maya Keren\, Henry Fraser and Henry Mermer.</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:History Dog • CarDust  Sept 21
 DTSTART:20250921T233000Z
 DTEND:20250922T013000Z
@@ -554,7 +567,7 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1650\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:tba • Oren 0'Blivion • Chelsea Crabtree  Sept 25
+SUMMARY:Oren 0'Blivion • Evan Tyor • Chelsea Crabtree  Sept 25
 DTSTART:20250925T233000Z
 DTEND:20250926T013000Z
 DTSTAMP:20250925T233000Z
@@ -563,30 +576,22 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1648\n7:30 Doors\n8:00 Mu
  sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
  mage-2179" src="https://theowl.nyc/wp-content/uploads/Oren-2-300x200.jpg" 
  alt="" width="300" height="200" /> <img class="alignnone size-medium wp-im
- age-2195" src="https://theowl.nyc/wp-content/uploads/Chelsea-Crabtree-300x
- 200.jpg" alt="" width="300" height="200" /> </p>\n<p>Singer / musician ty
- pe<strong> Oren 0'Blivion</strong> will be offering songs from his most re
- cent writing and recording spurts and possibly armed with only his guitar.
- </p>\n<p dir="ltr"><strong>Chelsea Crabtree</strong> is a Brooklyn based s
- inger-songwriter originally from Seattle\, WA. Growing up in a very musica
- l family\, she has been singing with her 8 siblings from a very young age.
-  After studying jazz voice in college\, she has now been inspired to write
-  her own songs. Her music draws from elements of folk\, pop\, soul and 90
- ’s rock music. She will be joined at The Owl by Gregg Belisle-Chi\, Sam 
- Decker\, Chris Parker and Matt Aronoff.</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rivulet • tba Sept 26
-DTSTART:20250926T233000Z
-DTEND:20250927T013000Z
-DTSTAMP:20250926T233000Z
-UID:https://theowl.nyc/calendar?event_id=1701-2025-09-26 23:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1701\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone wp-image-2986" s
- rc="https://theowl.nyc/wp-content/uploads/Claire-300x200.jpg" alt="" width
- ="391" height="261" /></p>\n<p><strong>Rivulet</strong> are Claire Dickson
-  (pictured)\, Maya Keren\, Henry Fraser and Henry Mermer.</p>
+ age-2339" src="https://theowl.nyc/wp-content/uploads/Evan-Tyor-300x200.jpe
+ g" alt="" width="300" height="200" />  <img class="alignnone size-medium 
+ wp-image-2195" src="https://theowl.nyc/wp-content/uploads/Chelsea-Crabtree
+ -300x200.jpg" alt="" width="300" height="200" /> </p>\n<p>Singer / musici
+ an type<strong> Oren 0'Blivion</strong> will be offering songs from his mo
+ st recent writing and recording spurts probably accompanied only by a guit
+ ar.</p>\n<p><strong>Evan Tyor</strong> is a Brooklyn based multi-instrumen
+ talist\, songwriter and audio engineer\, and a founder of the legendary Ap
+ artment Sessions live music video series.</p>\n<p dir="ltr"><strong>Chelse
+ a Crabtree</strong> is a Brooklyn based singer-songwriter originally from 
+ Seattle\, WA. Growing up in a very musical family\, she has been singing w
+ ith her 8 siblings from a very young age. After studying jazz voice in col
+ lege\, she has now been inspired to write her own songs. Her music draws f
+ rom elements of folk\, pop\, soul and 90’s rock music. She will be joine
+ d at The Owl by Gregg Belisle-Chi\, Sam Decker\, Chris Parker and Matt Aro
+ noff.</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -707,7 +712,9 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1679\n7:30 Doors\n8:00 Mu
  sic\n<p><img class="alignnone wp-image-701" src="https://theowl.nyc/wp-con
  tent/uploads/Erik-300x248.jpg" alt="" width="363" height="300" /> <img cla
  ss="alignnone wp-image-2981" src="https://theowl.nyc/wp-content/uploads/pe
- rowsky.jpeg" alt="" width="326" height="224" /></p>
+ rowsky.jpeg" alt="" width="326" height="224" /></p>\n<p>&nbsp\;</p>\n<p>Be
+ n Perowsky will perform with Dana Lyn\, Ilusha Tsinadze\, and Marcus Rojas
+ ..</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -1046,17 +1053,19 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1661\n<p><img class="alig
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dig Nitty • Jackie West • tba.  Nov 6
+SUMMARY:Nicomo • Dig Nitty • Jackie West   Nov 6
 DTSTART:20251107T003000Z
 DTEND:20251107T023000Z
 DTSTAMP:20251107T003000Z
 UID:https://theowl.nyc/calendar?event_id=1652-2025-11-07 00:30:00+00:00
 DESCRIPTION:https://theowl.nyc/calendar?event_id=1652\n7:30 Doors\n8:00 Mu
  sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-1779" src="https://theowl.nyc/wp-content/uploads/Dig-itty-300x194.png
- " alt="" width="300" height="194" /> <img class="alignnone size-medium wp-
- image-2185" src="https://theowl.nyc/wp-content/uploads/Jackie-West-1-200x3
- 00.jpeg" alt="" width="200" height="300" /></p>
+ mage-1318" src="https://theowl.nyc/wp-content/uploads/36570002-300x199.jpg
+ " alt="" width="300" height="199" />  <img class="alignnone size-medium w
+ p-image-1779" src="https://theowl.nyc/wp-content/uploads/Dig-itty-300x194.
+ png" alt="" width="300" height="194" /> <img class="alignnone size-medium 
+ wp-image-2185" src="https://theowl.nyc/wp-content/uploads/Jackie-West-1-20
+ 0x300.jpeg" alt="" width="200" height="300" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
