@@ -242,6 +242,28 @@ DESCRIPTION:https://www.viewcy.com/e/north_african_night_w\n<p><img alt="N
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Launch Party and Fundraiser with Zohran Mamdani
+DTSTART:20250821T233000Z
+DTEND:20250822T013000Z
+DTSTAMP:20250821T233000Z
+UID:Launch Party and Fundraiser with Zohran Mamdani
+DESCRIPTION:https://www.viewcy.com/e/launch_party_and_fund\n<p><img alt="L
+ aunch Party and Fundraiser with Zohran Mamdani thumbnail" class="styles_co
+ verImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" dat
+ a-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="asy
+ nc" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?ur
+ l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
+ ured_images%2F000%2F019%2F528%2Fcover%2Fbarzakh_version.jpg%3F1754490717&a
+ mp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku
+ -production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F528
+ %2Fcover%2Fbarzakh_version.jpg%3F1754490717&amp\;w=384&amp\;q=100 1x\, /_n
+ ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
+ urses%2Ffeatured_images%2F000%2F019%2F528%2Fcover%2Fbarzakh_version.jpg%3F
+ 1754490717&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="3
+ 08"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sham E Qawwali
 DTSTART:20250831T000000Z
 DTEND:20250831T020000Z
