@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plum Papercraft: Origami Star Box and Fox Box
-DTSTART:20250806T170000Z
-DTEND:20250806T183000Z
-DESCRIPTION:Learn to fold two types of decorative origami boxes out of squ
- ares of paper.\n\nhttps://www.bklynlibrary.org/node/778570
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250806T180000Z
 DTEND:20250806T200000Z
@@ -376,5 +368,14 @@ DESCRIPTION:At Crown Heights Library Council Member Rita Joseph office wil
  l be available to answer questions about:\n\nhttps://www.bklynlibrary.org/
  node/779773
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Bread Kitchen
+DTSTART:20250811T150000Z
+DTEND:20250811T180000Z
+DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
+  Lobby to meet with you and discuss their food career training programs!\n
+ \nhttps://www.bklynlibrary.org/node/781965
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
