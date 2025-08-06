@@ -758,16 +758,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/photoshop-essentia
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Television Studio Basics
-DTSTART:20250920T180000Z
-DTEND:20250920T210000Z
-DTSTAMP:20250920T180000Z
-UID:Television Studio Basics-2025-09-20T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/television-studio-b
- asics/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
 DTSTART:20250920T150000Z
 DTEND:20250920T170000Z
@@ -792,6 +782,16 @@ DESCRIPTION:Cost: $15-$38\nhttps://bricartsmedia.org/event/bed-stuy-art-ho
  BZJ6\n<img src="https://bricartsmedia.org/wp-content/uploads/2025/05/IMG_2
  291-Shaun-Neblett-1-200x200.jpeg" alt="" />
 LOCATION:BRIC House Stoop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Television Studio Basics
+DTSTART:20250920T180000Z
+DTEND:20250920T210000Z
+DTSTAMP:20250920T180000Z
+UID:Television Studio Basics-2025-09-20T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/television-studio-b
+ asics/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
@@ -824,16 +824,6 @@ DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20250923T220000Z
-DTEND:20250924T010000Z
-DTSTAMP:20250923T220000Z
-UID:Mini Studio Production-2025-09-23T22:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
- ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TV Studio Intensive
 DTSTART:20250923T220000Z
 DTEND:20250924T010000Z
@@ -841,6 +831,16 @@ DTSTAMP:20250923T220000Z
 UID:TV Studio Intensive-2025-09-23T22:00:00+00:00
 DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
  on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20250923T220000Z
+DTEND:20250924T010000Z
+DTSTAMP:20250923T220000Z
+UID:Mini Studio Production-2025-09-23T22:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -864,16 +864,6 @@ DESCRIPTION:Cost: Cost - (suggested donation $10 per session)\nhttps://bri
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Radio Podcasting
-DTSTART:20250924T220000Z
-DTEND:20250925T010000Z
-DTSTAMP:20250924T220000Z
-UID:Intro to Radio Podcasting-2025-09-24T22:00:00+00:00
-DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
- asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Video Production in the Field
 DTSTART:20250924T220000Z
 DTEND:20250925T010000Z
@@ -894,6 +884,16 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Intro to Radio Podcasting
+DTSTART:20250924T220000Z
+DTEND:20250925T010000Z
+DTSTAMP:20250924T220000Z
+UID:Intro to Radio Podcasting-2025-09-24T22:00:00+00:00
+DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
+ asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mini Studio Production
 DTSTART:20250925T220000Z
 DTEND:20250926T010000Z
@@ -901,6 +901,16 @@ DTSTAMP:20250925T220000Z
 UID:Mini Studio Production-2025-09-25T22:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
  ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20250925T180000Z
+DTEND:20250925T210000Z
+DTSTAMP:20250925T180000Z
+UID:Video Editing with Premiere -2025-09-25T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -914,16 +924,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/photoshop-essentia
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20250925T180000Z
-DTEND:20250925T210000Z
-DTSTAMP:20250925T180000Z
-UID:Video Editing with Premiere -2025-09-25T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Color Grading in DaVinci Resolve
 DTSTART:20250926T220000Z
 DTEND:20250927T010000Z
@@ -931,6 +931,26 @@ DTSTAMP:20250926T220000Z
 UID:Intro to Color Grading in DaVinci Resolve-2025-09-26T22:00:00+00:00
 DESCRIPTION:Cost: 20\nhttps://bricartsmedia.org/class/intro-to-color-gradi
  ng-in-davinci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightroom Essentials
+DTSTART:20250927T180000Z
+DTEND:20250927T200000Z
+DTSTAMP:20250927T180000Z
+UID:Lightroom Essentials-2025-09-27T18:00:00+00:00
+DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
+ s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Television Studio Basics
+DTSTART:20250927T180000Z
+DTEND:20250927T210000Z
+DTSTAMP:20250927T180000Z
+UID:Television Studio Basics-2025-09-27T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/television-studio-b
+ asics/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -947,26 +967,6 @@ DESCRIPTION:https://bricartsmedia.org/event/liberty-farms-and-bric-present
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Television Studio Basics
-DTSTART:20250927T180000Z
-DTEND:20250927T210000Z
-DTSTAMP:20250927T180000Z
-UID:Television Studio Basics-2025-09-27T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/television-studio-b
- asics/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lightroom Essentials
-DTSTART:20250927T180000Z
-DTEND:20250927T200000Z
-DTSTAMP:20250927T180000Z
-UID:Lightroom Essentials-2025-09-27T18:00:00+00:00
-DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
- s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to DaVinci Resolve
 DTSTART:20250929T180000Z
 DTEND:20250929T210000Z
@@ -974,16 +974,6 @@ DTSTAMP:20250929T180000Z
 UID:Intro to DaVinci Resolve-2025-09-29T18:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/intro-to-davinci-re
  solve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20250930T220000Z
-DTEND:20251001T010000Z
-DTSTAMP:20250930T220000Z
-UID:TV Studio Intensive-2025-09-30T22:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -997,6 +987,16 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20250930T220000Z
+DTEND:20251001T010000Z
+DTSTAMP:20250930T220000Z
+UID:TV Studio Intensive-2025-09-30T22:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to DaVinci Resolve
 DTSTART:20251001T180000Z
 DTEND:20251001T210000Z
@@ -1004,16 +1004,6 @@ DTSTAMP:20251001T180000Z
 UID:Intro to DaVinci Resolve-2025-10-01T18:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/intro-to-davinci-re
  solve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20251002T180000Z
-DTEND:20251002T210000Z
-DTSTAMP:20251002T180000Z
-UID:Video Editing with Premiere -2025-10-02T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -1027,13 +1017,23 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/photoshop-essentia
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lightroom Essentials
+SUMMARY:Video Editing with Premiere 
+DTSTART:20251002T180000Z
+DTEND:20251002T210000Z
+DTSTAMP:20251002T180000Z
+UID:Video Editing with Premiere -2025-10-02T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
 DTSTART:20251004T180000Z
-DTEND:20251004T200000Z
+DTEND:20251004T210000Z
 DTSTAMP:20251004T180000Z
-UID:Lightroom Essentials-2025-10-04T18:00:00+00:00
-DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
- s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+UID:TV Studio Intensive-2025-10-04T18:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT

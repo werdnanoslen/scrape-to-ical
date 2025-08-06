@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250806T140000Z
-DTEND:20250806T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 24
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250806T140000Z
 DTEND:20250806T210000Z
@@ -28,23 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772389
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Business Help for Immigrants (Central)
-DTSTART:20250806T140000Z
-DTEND:20250806T160000Z
-DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
- .bklynlibrary.org/node/773298
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20250806T140000Z
-DTEND:20250806T153000Z
-DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew 
- Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
- 653
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hollywood Hunk Movies: The Fall Guy
@@ -375,5 +349,33 @@ DESCRIPTION:Max Glazer has represented New York City touring the world DJ
   Branford Marsalis\, and Jay-Z\, to name just a few. Separate from the\n\
  nhttps://www.bklynlibrary.org/node/779574
 LOCATION:Central Library\, Plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250809T143000Z
+DTEND:20250809T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
+ 89
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knitting Circle at Brooklyn Heights
+DTSTART:20250809T183000Z
+DTEND:20250809T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing.\
+ n\nhttps://www.bklynlibrary.org/node/780959
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20250809T193000Z
+DTEND:20250809T210000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/768577
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
