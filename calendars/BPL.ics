@@ -40,6 +40,14 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sips & Scholars: Robyn Marasco on "The Authoritarian Personality T
+ oday"
+DTSTART:20250807T220000Z
+DTEND:20250807T233000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/774658
+LOCATION:Halyards Bar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20250807T220000Z
 DTEND:20250807T000000Z
@@ -47,14 +55,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/778698
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sips & Scholars: Robyn Marasco on "The Authoritarian Personality T
- oday"
-DTSTART:20250807T220000Z
-DTEND:20250807T233000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/774658
-LOCATION:Halyards Bar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
