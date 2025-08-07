@@ -21,16 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Working with Word
-DTSTART:20250807T180000Z
-DTEND:20250807T193000Z
-DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
-  your own resume or cover letter on Microsoft Word and will have real worl
- d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
- /www.bklynlibrary.org/node/779457
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Virtual English Conversation Group Cancelled
 DTSTART:20250807T213000Z
 DTEND:20250807T230000Z
@@ -373,5 +363,13 @@ DTEND:20250811T234500Z
 DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
  ://www.bklynlibrary.org/node/767645
 LOCATION:Central Library\, Reverend Elsie Smith Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20250812T133000Z
+DTEND:20250812T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/774665
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
