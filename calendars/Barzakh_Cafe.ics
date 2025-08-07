@@ -265,6 +265,53 @@ DESCRIPTION:https://www.viewcy.com/event/launch_party_and_fund\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Notes Between Us
+DTSTART:20250824T230000Z
+DTEND:20250825T010000Z
+DTSTAMP:20250824T230000Z
+UID:Notes Between Us
+DESCRIPTION:https://www.viewcy.com/event/notes_between_us\n<p><img alt="No
+ tes Between Us thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" dat
+ a-sentry-component="ImageWithFallback" data-sentry-element="Image" data-se
+ ntry-source-file="index.tsx" decoding="async" height="186" loading="lazy" 
+ src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-pr
+ oduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F568%2F
+ cover%2FDark_minimalist_music_event_singer_introduction_instagram_post__28
+ portrait_29.jpg%3F1754598192&amp\;w=640&amp\;q=100" srcset="/_next/image?u
+ rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
+ tured_images%2F000%2F019%2F568%2Fcover%2FDark_minimalist_music_event_singe
+ r_introduction_instagram_post__28portrait_29.jpg%3F1754598192&amp\;w=384&a
+ mp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.
+ amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F568%2Fcover%2FDark
+ _minimalist_music_event_singer_introduction_instagram_post__28portrait_29.
+ jpg%3F1754598192&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wi
+ dth="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Underground Spiritual Game ft Maryam Turkey
+DTSTART:20250830T000000Z
+DTEND:20250830T020000Z
+DTSTAMP:20250830T000000Z
+UID:Underground Spiritual Game ft Maryam Turkey
+DESCRIPTION:https://www.viewcy.com/event/underground_spiritual_1\n<p><img 
+ alt="Underground Spiritual Game ft Maryam Turkey thumbnail" class="styles_
+ coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" d
+ ata-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="a
+ sync" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?
+ url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
+ atured_images%2F000%2F019%2F569%2Fcover%2FWhatsApp_Image_2025-08-07_at_21.
+ 12.32_03cee121.jpg%3F1754598470&amp\;w=640&amp\;q=100" srcset="/_next/imag
+ e?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2F
+ featured_images%2F000%2F019%2F569%2Fcover%2FWhatsApp_Image_2025-08-07_at_2
+ 1.12.32_03cee121.jpg%3F1754598470&amp\;w=384&amp\;q=100 1x\, /_next/image?
+ url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
+ atured_images%2F000%2F019%2F569%2Fcover%2FWhatsApp_Image_2025-08-07_at_21.
+ 12.32_03cee121.jpg%3F1754598470&amp\;w=640&amp\;q=100 2x" style="color: tr
+ ansparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sham E Qawwali
 DTSTART:20250831T000000Z
 DTEND:20250831T020000Z
