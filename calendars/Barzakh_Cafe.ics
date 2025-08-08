@@ -196,6 +196,27 @@ DESCRIPTION:https://www.viewcy.com/event/brm_concert_and_jam_f\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Baglama Classes with Ercan Alkan
+DTSTART:20250816T190000Z
+DTEND:20250816T210000Z
+DTSTAMP:20250816T190000Z
+UID:Baglama Classes with Ercan Alkan
+DESCRIPTION:https://www.viewcy.com/event/baglama_classes_with_2\n<p><img a
+ lt="Baglama Classes with Ercan Alkan thumbnail" class="styles_coverImg__Ps
+ R9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-e
+ lement="Image" data-sentry-source-file="index.tsx" decoding="async" height
+ ="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A
+ %2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_image
+ s%2F000%2F019%2F595%2Fcover%2FBarzakh_Classes.jpg%3F1754686979&amp\;w=640&
+ amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-productio
+ n.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F595%2Fcover%2
+ FBarzakh_Classes.jpg%3F1754686979&amp\;w=384&amp\;q=100 1x\, /_next/image?
+ url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
+ atured_images%2F000%2F019%2F595%2Fcover%2FBarzakh_Classes.jpg%3F1754686979
+ &amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:North African Night with Naji Soul
 DTSTART:20250817T000000Z
 DTEND:20250817T020000Z
@@ -216,6 +237,27 @@ DESCRIPTION:https://www.viewcy.com/event/north_african_night_w\n<p><img al
  tured_images%2F000%2F019%2F511%2Fcover%2FBeige_et_noir_moderne_minimaliste
  _spectacle_affiche.jpg%3F1754426158&amp\;w=640&amp\;q=100 2x" style="color
  : transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oud Classes with Zafer Tawil
+DTSTART:20250817T190000Z
+DTEND:20250817T210000Z
+DTSTAMP:20250817T190000Z
+UID:Oud Classes with Zafer Tawil
+DESCRIPTION:https://www.viewcy.com/event/oud_classes_with_zafe\n<p><img al
+ t="Oud Classes with Zafer Tawil thumbnail" class="styles_coverImg__PsR9G" 
+ data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
+ t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
+ " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F019%2F594%2Fcover%2FBarzakh_Classes.jpg%3F1754686305&amp\;w=640&amp\;
+ q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.
+ amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F594%2Fcover%2FBarz
+ akh_Classes.jpg%3F1754686305&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F019%2F594%2Fcover%2FBarzakh_Classes.jpg%3F1754686305&amp\
+ ;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
