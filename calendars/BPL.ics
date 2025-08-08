@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250808T160000Z
-DTEND:20250808T180000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/779480
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group Cancelled
 DTSTART:20250808T170000Z
 DTEND:20250808T190000Z
@@ -366,5 +358,14 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772392
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20250813T140000Z
+DTEND:20250813T153000Z
+DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew 
+ Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
+ 654
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
