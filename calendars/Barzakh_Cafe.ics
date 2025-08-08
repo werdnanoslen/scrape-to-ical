@@ -82,29 +82,6 @@ DESCRIPTION:https://www.viewcy.com/event/yegua_banda_live\n<p><img alt="Ye
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arabic Classes with Essam
-DTSTART:20250810T190000Z
-DTEND:20250810T210000Z
-DTSTAMP:20250810T190000Z
-UID:Arabic Classes with Essam
-DESCRIPTION:https://www.viewcy.com/event/arabic_classes_with_e_14\n<p><img
-  alt="Arabic Classes with Essam thumbnail" class="styles_coverImg__PsR9G" 
- data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
- t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
- " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
- Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
- 00%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_class_facebook_post_
- arabic.jpg%3F1754340901&amp\;w=640&amp\;q=100" srcset="/_next/image?url=ht
- tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
- _images%2F000%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_class_fac
- ebook_post_arabic.jpg%3F1754340901&amp\;w=384&amp\;q=100 1x\, /_next/image
- ?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ff
- eatured_images%2F000%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_cl
- ass_facebook_post_arabic.jpg%3F1754340901&amp\;w=640&amp\;q=100 2x" style=
- "color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Afternoon Mehfil with Abdullah Niazi Qawwal
 DTSTART:20250810T190000Z
 DTEND:20250810T210000Z
@@ -125,6 +102,29 @@ DESCRIPTION:https://www.viewcy.com/event/ustad_abdullah_niazi_3\n<p><img a
  es%2F000%2F019%2F397%2Fcover%2FUstad_Abdullah_Niazi___Waqas_Niazi_Qawwal.j
  pg%3F1754147654&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wid
  th="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arabic Classes with Essam
+DTSTART:20250810T190000Z
+DTEND:20250810T210000Z
+DTSTAMP:20250810T190000Z
+UID:Arabic Classes with Essam
+DESCRIPTION:https://www.viewcy.com/event/arabic_classes_with_e_14\n<p><img
+  alt="Arabic Classes with Essam thumbnail" class="styles_coverImg__PsR9G" 
+ data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
+ t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
+ " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_class_facebook_post_
+ arabic.jpg%3F1754340901&amp\;w=640&amp\;q=100" srcset="/_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_class_fac
+ ebook_post_arabic.jpg%3F1754340901&amp\;w=384&amp\;q=100 1x\, /_next/image
+ ?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ff
+ eatured_images%2F000%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_cl
+ ass_facebook_post_arabic.jpg%3F1754340901&amp\;w=640&amp\;q=100 2x" style=
+ "color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
@@ -196,6 +196,28 @@ DESCRIPTION:https://www.viewcy.com/event/brm_concert_and_jam_f\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:World Folk Fusion Night
+DTSTART:20250816T000000Z
+DTEND:20250816T020000Z
+DTSTAMP:20250816T000000Z
+UID:World Folk Fusion Night
+DESCRIPTION:https://www.viewcy.com/event/world_folk_fusion_nig\n<p><img al
+ t="World Folk Fusion Night thumbnail" class="styles_coverImg__PsR9G" data-
+ nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Im
+ age" data-sentry-source-file="index.tsx" decoding="async" height="186" loa
+ ding="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fview
+ cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
+ 019%2F597%2Fcover%2FMimi_and_luis_jazz_night_.jpg%3F1754688378&amp\;w=640&
+ amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-productio
+ n.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F597%2Fcover%2
+ FMimi_and_luis_jazz_night_.jpg%3F1754688378&amp\;w=384&amp\;q=100 1x\, /_n
+ ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
+ urses%2Ffeatured_images%2F000%2F019%2F597%2Fcover%2FMimi_and_luis_jazz_nig
+ ht_.jpg%3F1754688378&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
+ " width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Baglama Classes with Ercan Alkan
 DTSTART:20250816T190000Z
 DTEND:20250816T210000Z
@@ -261,6 +283,28 @@ DESCRIPTION:https://www.viewcy.com/event/oud_classes_with_zafe\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pisando el Césped
+DTSTART:20250817T230000Z
+DTEND:20250818T010000Z
+DTSTAMP:20250817T230000Z
+UID:Pisando el Césped
+DESCRIPTION:https://www.viewcy.com/event/pisando_el_csped\n<p><img alt="Pi
+ sando el Césped thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" d
+ ata-sentry-component="ImageWithFallback" data-sentry-element="Image" data-
+ sentry-source-file="index.tsx" decoding="async" height="186" loading="lazy
+ " src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-
+ production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F596%
+ 2Fcover%2FWhatsApp_Image_2025-08-08_at_02.20.19_b7844fa5.jpg%3F1754687257&
+ amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F59
+ 6%2Fcover%2FWhatsApp_Image_2025-08-08_at_02.20.19_b7844fa5.jpg%3F175468725
+ 7&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-
+ production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F596%
+ 2Fcover%2FWhatsApp_Image_2025-08-08_at_02.20.19_b7844fa5.jpg%3F1754687257&
+ amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Launch Party for Zohran and Fundraiser
 DTSTART:20250821T233000Z
 DTEND:20250822T013000Z
@@ -281,6 +325,30 @@ DESCRIPTION:https://www.viewcy.com/event/launch_party_and_fund\n<p><img al
  images%2F000%2F019%2F528%2Fcover%2FWhatsApp_Image_2025-08-07_at_17.54.46_d
  75e188e.jpg%3F1754586269&amp\;w=640&amp\;q=100 2x" style="color: transpare
  nt\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Farafina Blues
+DTSTART:20250823T000000Z
+DTEND:20250823T020000Z
+DTSTAMP:20250823T000000Z
+UID:Farafina Blues
+DESCRIPTION:https://www.viewcy.com/event/farafina_blues_1\n<p><img alt="Fa
+ rafina Blues thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
+ sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
+ ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
+ c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F598%2Fco
+ ver%2FBlack_and_White_Modern_Minimalist_Jazz_Band_Live_Music_Event_Instagr
+ am_Post.jpg%3F1754690248&amp\;w=640&amp\;q=100" srcset="/_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F019%2F598%2Fcover%2FBlack_and_White_Modern_Minimalist_Jaz
+ z_Band_Live_Music_Event_Instagram_Post.jpg%3F1754690248&amp\;w=384&amp\;q=
+ 100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazon
+ aws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F598%2Fcover%2FBlack_and_
+ White_Modern_Minimalist_Jazz_Band_Live_Music_Event_Instagram_Post.jpg%3F17
+ 54690248&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308
+ "/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
