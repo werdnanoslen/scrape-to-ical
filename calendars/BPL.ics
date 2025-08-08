@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group Cancelled
-DTSTART:20250808T170000Z
-DTEND:20250808T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 32
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20250808T180000Z
-DTEND:20250808T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763523
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Collage Party
 DTSTART:20250808T180000Z
 DTEND:20250808T200000Z
@@ -367,5 +349,25 @@ DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew
  Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
  654
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sound Bath and Meditation
+DTSTART:20250813T150000Z
+DTEND:20250813T163000Z
+DESCRIPTION:Immerse yourself in sound and meditation. Local musician Paul 
+ Wellington will introduce you to the soothing and calming sounds of Indian
+  music therapy.Relax with others in the community as Paul plays\n\nhttps:/
+ /www.bklynlibrary.org/node/768967
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask a tech
+DTSTART:20250813T153000Z
+DTEND:20250813T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/764127
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
