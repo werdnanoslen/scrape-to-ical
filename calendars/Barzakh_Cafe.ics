@@ -11,30 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Yegua Live
-DTSTART:20250810T000000Z
-DTEND:20250810T020000Z
-DTSTAMP:20250810T000000Z
-UID:Yegua Live
-DESCRIPTION:https://www.viewcy.com/event/yegua_banda_live\n<p><img alt="Ye
- gua Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sent
- ry-component="ImageWithFallback" data-sentry-element="Image" data-sentry-s
- ource-file="index.tsx" decoding="async" height="186" loading="lazy" src="h
- ttps://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
- on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F477%2Fcover%
- 2FAffiche_Annonce_de_programmation_d%27artistes_Bold_Moderne_Minimaliste_N
- oir_Blanc.jpg%3F1754339180&amp\;w=640&amp\;q=100" srcset="/_next/image?url
- =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
- red_images%2F000%2F019%2F477%2Fcover%2FAffiche_Annonce_de_programmation_d'
- artistes_Bold_Moderne_Minimaliste_Noir_Blanc.jpg%3F1754339180&amp\;w=384&a
- mp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.
- amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F477%2Fcover%2FAffi
- che_Annonce_de_programmation_d'artistes_Bold_Moderne_Minimaliste_Noir_Blan
- c.jpg%3F1754339180&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" 
- width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Afternoon Mehfil with Abdullah Niazi Qawwal
 DTSTART:20250810T190000Z
 DTEND:20250810T210000Z
