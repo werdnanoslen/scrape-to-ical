@@ -34,29 +34,6 @@ DESCRIPTION:https://www.viewcy.com/event/ustad_abdullah_niazi_3\n<p><img a
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arabic Classes with Essam
-DTSTART:20250810T190000Z
-DTEND:20250810T210000Z
-DTSTAMP:20250810T190000Z
-UID:Arabic Classes with Essam
-DESCRIPTION:https://www.viewcy.com/event/arabic_classes_with_e_14\n<p><img
-  alt="Arabic Classes with Essam thumbnail" class="styles_coverImg__PsR9G" 
- data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
- t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
- " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
- Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
- 00%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_class_facebook_post_
- arabic.jpg%3F1754340901&amp\;w=640&amp\;q=100" srcset="/_next/image?url=ht
- tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
- _images%2F000%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_class_fac
- ebook_post_arabic.jpg%3F1754340901&amp\;w=384&amp\;q=100 1x\, /_next/image
- ?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ff
- eatured_images%2F000%2F019%2F484%2Fcover%2FRed___Black_minimalist_music_cl
- ass_facebook_post_arabic.jpg%3F1754340901&amp\;w=640&amp\;q=100 2x" style=
- "color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Umm Kalthum Workshop
 DTSTART:20250810T223000Z
 DTEND:20250811T003000Z
