@@ -30,14 +30,6 @@ DESCRIPTION:At Crown Heights Library Council Member Rita Joseph office wil
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20250811T160000Z
-DTEND:20250811T190000Z
-DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
- library.org/node/777666
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
 DTSTART:20250811T180000Z
 DTEND:20250811T200000Z
@@ -370,6 +362,14 @@ DTEND:20250813T210000Z
 DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/763459
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eat Healthy Be Active Workshop led by City Harvest
+DTSTART:20250813T210000Z
+DTEND:20250813T220000Z
+DESCRIPTION:Do you spend too much time worrying about what's for dinner? W
+ e can help!\n\nhttps://www.bklynlibrary.org/node/780771
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
