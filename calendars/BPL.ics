@@ -72,16 +72,6 @@ DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250811T180000Z
-DTEND:20250811T200000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758209
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250811T180000Z
 DTEND:20250811T200000Z
@@ -100,6 +90,16 @@ DESCRIPTION:Join the Pace University SBDC and Brooklyn Public Library's B
  iting workshop at BPL's Business & Career Center\, 10 Grand Army Plaza\,\
  n\nhttps://www.bklynlibrary.org/node/776991
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20250811T180000Z
+DTEND:20250811T200000Z
+DESCRIPTION:Today's sessions are cancelled. If you are an immigrant (wheth
+ er you recently arrived to the United States or have been here for a while
+ ) get free one-on-one resume help\, education and career advice\,\n\nhttps
+ ://www.bklynlibrary.org/node/758209
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
