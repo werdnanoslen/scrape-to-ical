@@ -21,45 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Satellite office hours with Council Member Rita Joseph
-DTSTART:20250811T150000Z
-DTEND:20250811T200000Z
-DESCRIPTION:At Crown Heights Library Council Member Rita Joseph office wil
- l be available to answer questions about:\n\nhttps://www.bklynlibrary.org/
- node/779773
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250811T180000Z
-DTEND:20250811T200000Z
-DESCRIPTION:Today's sessions are cancelled. If you are an immigrant (wheth
- er you recently arrived to the United States or have been here for a while
- ) get free one-on-one resume help\, education and career advice\,\n\nhttps
- ://www.bklynlibrary.org/node/758209
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250811T180000Z
-DTEND:20250811T200000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774062
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small Business Website Workday (at Brooklyn Public Library)
-DTSTART:20250811T180000Z
-DTEND:20250811T200000Z
-DESCRIPTION:Join the Pace University SBDC and Brooklyn Public Library's B
- usiness & Career Center for a no-cost\, two-hour\, IN-PERSON website ed
- iting workshop at BPL's Business & Career Center\, 10 Grand Army Plaza\,\
- n\nhttps://www.bklynlibrary.org/node/776991
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20250811T190000Z
 DTEND:20250811T210000Z
@@ -83,16 +44,6 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779565
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20250811T200000Z
-DTEND:20250811T213000Z
-DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/780952
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Yoga
 DTSTART:20250811T200000Z
 DTEND:20250811T210000Z
@@ -101,6 +52,16 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
  s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
  ps://www.bklynlibrary.org/node/780766
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20250811T200000Z
+DTEND:20250811T213000Z
+DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/780952
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Meditation Class
@@ -371,5 +332,43 @@ DTEND:20250813T220000Z
 DESCRIPTION:Do you spend too much time worrying about what's for dinner? W
  e can help!\n\nhttps://www.bklynlibrary.org/node/780771
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250813T220000Z
+DTEND:20250813T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
+ 58
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20250814T140000Z
+DTEND:20250814T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/767025
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20250814T140000Z
+DTEND:20250814T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7820
+ 91
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audition Essentials
+DTSTART:20250814T143000Z
+DTEND:20250814T173000Z
+DESCRIPTION:Adobe Audition is an industry standard audio editing software 
+ for Mac and PC. This course covers how to start an Audition project\, impo
+ rting and layering audio files\, basic editing techniques and effe\n\nhttp
+ s://www.bklynlibrary.org/node/765350
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
