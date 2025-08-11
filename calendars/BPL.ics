@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20250811T200000Z
-DTEND:20250811T213000Z
-DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/780952
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Meditation Class
-DTSTART:20250811T210000Z
-DTEND:20250811T214500Z
-DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
-  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780013
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class (We Speak NYC)
 DTSTART:20250811T214500Z
 DTEND:20250811T234500Z
@@ -373,5 +355,25 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/763501
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20250814T213000Z
+DTEND:20250814T223000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/776163
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20250814T213000Z
+DTEND:20250814T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/777344
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
