@@ -125,16 +125,6 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779565
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20250811T200000Z
-DTEND:20250811T210000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/780766
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20250811T200000Z
 DTEND:20250811T213000Z
@@ -143,6 +133,16 @@ DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/780952
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Yoga
+DTSTART:20250811T200000Z
+DTEND:20250811T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/780766
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Meditation Class
