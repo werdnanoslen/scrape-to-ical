@@ -30,23 +30,6 @@ DESCRIPTION:At Crown Heights Library Council Member Rita Joseph office wil
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Hot Bread Kitchen
-DTSTART:20250811T150000Z
-DTEND:20250811T180000Z
-DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
-  Lobby to meet with you and discuss their food career training programs!\n
- \nhttps://www.bklynlibrary.org/node/781965
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20250811T153000Z
-DTEND:20250811T173000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/777221
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
 DTSTART:20250811T160000Z
 DTEND:20250811T190000Z
@@ -55,14 +38,14 @@ DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250811T170000Z
-DTEND:20250811T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/778113
-LOCATION:Crown Heights Library
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20250811T180000Z
+DTEND:20250811T200000Z
+DESCRIPTION:Today's sessions are cancelled. If you are an immigrant (wheth
+ er you recently arrived to the United States or have been here for a while
+ ) get free one-on-one resume help\, education and career advice\,\n\nhttps
+ ://www.bklynlibrary.org/node/758209
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -83,16 +66,6 @@ DESCRIPTION:Join the Pace University SBDC and Brooklyn Public Library's B
  iting workshop at BPL's Business & Career Center\, 10 Grand Army Plaza\,\
  n\nhttps://www.bklynlibrary.org/node/776991
 LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250811T180000Z
-DTEND:20250811T200000Z
-DESCRIPTION:Today's sessions are cancelled. If you are an immigrant (wheth
- er you recently arrived to the United States or have been here for a while
- ) get free one-on-one resume help\, education and career advice\,\n\nhttps
- ://www.bklynlibrary.org/node/758209
-LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
@@ -370,5 +343,33 @@ DTEND:20250813T203000Z
 DESCRIPTION:Join us for a month of Hollywood Hunks!\n\nhttps://www.bklynli
  brary.org/node/781302
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250813T190000Z
+DTEND:20250813T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/781650
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music & Sound Therapy  w/ Carlton Lula
+DTSTART:20250813T190000Z
+DTEND:20250813T210000Z
+DESCRIPTION:Escape from the stressors and microaggressions of daily livi
+ ng\, on this aural journey to where\n\nhttps://www.bklynlibrary.org/node/7
+ 82056
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250813T200000Z
+DTEND:20250813T210000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763459
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
