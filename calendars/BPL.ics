@@ -11,31 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20250811T214500Z
-DTEND:20250811T234500Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778123
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Street Photography
-DTSTART:20250811T220000Z
-DTEND:20250811T233000Z
-DESCRIPTION:In collaboration with Leo Jimenez of LEOWUZHERE Studios\, we i
- nvite you to dive into an exciting journey of Street Photography. In this 
- immersive class\, you'll explore how to capture authentic moments\n\nhttps
- ://www.bklynlibrary.org/node/775187
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philosophy Discussion Group: Plato's Republic\, Book 7
-DTSTART:20250811T221500Z
-DTEND:20250811T234500Z
-DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
- ://www.bklynlibrary.org/node/767645
-LOCATION:Central Library\, Reverend Elsie Smith Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20250812T133000Z
 DTEND:20250812T163000Z
@@ -375,5 +350,32 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/777344
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20250814T220000Z
+DTEND:20250814T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/778699
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Singing Event
+DTSTART:20250814T220000Z
+DTEND:20250814T233000Z
+DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
+ klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/778571
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20250814T220000Z
+DTEND:20250814T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/780674
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
