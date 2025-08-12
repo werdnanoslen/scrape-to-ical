@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Want to Become MWBE Certified? Join Our Office Hours!
-DTSTART:20250812T150000Z
-DTEND:20250812T173000Z
-DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
- //www.bklynlibrary.org/node/771871
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20250812T190000Z
 DTEND:20250812T210000Z
@@ -379,5 +371,14 @@ DESCRIPTION:These beginner friendly hands -on- sessions will dive into the
  red to enable participants to create their own resin pendants\, k\n\nhttps
  ://www.bklynlibrary.org/node/782084
 LOCATION:Crown Heights\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250815T140000Z
+DTEND:20250815T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7635
+ 41
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
