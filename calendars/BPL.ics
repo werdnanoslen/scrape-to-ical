@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20250812T133000Z
-DTEND:20250812T163000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/774665
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Want to Become MWBE Certified? Join Our Office Hours!
 DTSTART:20250812T150000Z
 DTEND:20250812T173000Z
@@ -377,5 +369,15 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
  ynlibrary.org/node/780674
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Jewelry Making with Resin
+DTSTART:20250814T220000Z
+DTEND:20250814T230000Z
+DESCRIPTION:These beginner friendly hands -on- sessions will dive into the
+  creation of resin jewelry making. Essential resin techniques will be cove
+ red to enable participants to create their own resin pendants\, k\n\nhttps
+ ://www.bklynlibrary.org/node/782084
+LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 END:VCALENDAR
