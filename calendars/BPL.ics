@@ -21,35 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sound Bath and Meditation
-DTSTART:20250813T150000Z
-DTEND:20250813T163000Z
-DESCRIPTION:Immerse yourself in sound and meditation. Local musician Paul 
- Wellington will introduce you to the soothing and calming sounds of Indian
-  music therapy.Relax with others in the community as Paul plays\n\nhttps:/
- /www.bklynlibrary.org/node/768967
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask a tech
-DTSTART:20250813T153000Z
-DTEND:20250813T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/764127
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20250813T153000Z
-DTEND:20250813T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/781486
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
 DTSTART:20250813T170000Z
 DTEND:20250813T180000Z
@@ -381,5 +352,34 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
  90
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burner Phone 101
+DTSTART:20250816T170000Z
+DTEND:20250816T183000Z
+DESCRIPTION:Worried about carrying your phone to a protest? Traveling soon
+  and want to keep your data safe at the border? Just looking for ways to b
+ e less tied to your smartphone? Burner phones are low-cost\, prep\n\nhttps
+ ://www.bklynlibrary.org/node/777162
+LOCATION:Hybrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knitting Circle at Brooklyn Heights
+DTSTART:20250816T183000Z
+DTEND:20250816T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing.\
+ n\nhttps://www.bklynlibrary.org/node/780960
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250818T140000Z
+DTEND:20250818T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772394
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
