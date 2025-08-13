@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250813T140000Z
-DTEND:20250813T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 25
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250813T140000Z
 DTEND:20250813T210000Z
@@ -28,23 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772392
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Business Help for Immigrants (Central)
-DTSTART:20250813T140000Z
-DTEND:20250813T160000Z
-DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
- .bklynlibrary.org/node/773299
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20250813T140000Z
-DTEND:20250813T153000Z
-DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew 
- Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
- 654
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sound Bath and Meditation
@@ -380,5 +354,32 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
  ://www.bklynlibrary.org/node/763524
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doing Business with the Federal Government A-Z | SBA Government Co
+ ntracting Series\, Part 1
+DTSTART:20250815T180000Z
+DTEND:20250815T200000Z
+DESCRIPTION:Ready to tap into a powerful new revenue stream for your Brook
+ lyn business? The Brooklyn Public Library's Business & Career Center has p
+ roudly teamed up with the U.S. Small Business Administration (SB\n\nhttps:
+ //www.bklynlibrary.org/node/779422
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Cinema Series @ Pacific Library
+DTSTART:20250815T190000Z
+DTEND:20250815T210000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782315
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group Cancelled
+DTSTART:20250816T143000Z
+DTEND:20250816T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
+ 90
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
