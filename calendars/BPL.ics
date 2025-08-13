@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Eat Healthy Be Active Workshop led by City Harvest
-DTSTART:20250813T210000Z
-DTEND:20250813T220000Z
-DESCRIPTION:Do you spend too much time worrying about what's for dinner? W
- e can help!\n\nhttps://www.bklynlibrary.org/node/780771
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250813T220000Z
 DTEND:20250813T000000Z
@@ -152,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creative Jewelry Making with Resin
 DTSTART:20250814T220000Z
-DTEND:20250814T230000Z
+DTEND:20250814T233000Z
 DESCRIPTION:These beginner friendly hands -on- sessions will dive into the
   creation of resin jewelry making. Essential resin techniques will be cove
  red to enable participants to create their own resin pendants\, k\n\nhttps
@@ -374,5 +366,15 @@ DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/780953
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Basics of the Recording Studio: Music Production at the Library
+DTSTART:20250818T213000Z
+DTEND:20250818T233000Z
+DESCRIPTION:Learn to use the recording studio\, located right here at the 
+ Brooklyn Public Library. Limited to five participants\, this workshop open
+ s the doors to the recording studio for beginners. With the help o\n\nhttp
+ s://www.bklynlibrary.org/node/780183
+LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 END:VCALENDAR
