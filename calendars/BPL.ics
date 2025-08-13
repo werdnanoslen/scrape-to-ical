@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
-DTSTART:20250813T170000Z
-DTEND:20250813T180000Z
-DESCRIPTION:Learn all about today's financial markets from two women who 
- watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
- s they host The Women and Money Roundtable. This series is a virt\n\nhttps
- ://www.bklynlibrary.org/node/779368
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Collaging with Vision Boards
 DTSTART:20250813T170000Z
 DTEND:20250813T190000Z
@@ -50,6 +40,15 @@ DESCRIPTION:Play board\, card and tabletop games with us at [The Pacific]
 LOCATION:Pacific Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20250813T180000Z
+DTEND:20250813T190000Z
+DESCRIPTION:Class will involve explaining and assisting with any technolog
+ ical questions or problems you may have with your devices.\n\nhttps://www.
+ bklynlibrary.org/node/776738
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250813T180000Z
 DTEND:20250813T200000Z
@@ -66,15 +65,6 @@ DESCRIPTION:Learn about BWI's 8 free training programs and requirements an
  ire a high school diploma and there are options for those who ne\n\nhttps:
  //www.bklynlibrary.org/node/779529
 LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20250813T180000Z
-DTEND:20250813T190000Z
-DESCRIPTION:Class will involve explaining and assisting with any technolog
- ical questions or problems you may have with your devices.\n\nhttps://www.
- bklynlibrary.org/node/776738
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hollywood Hunk Movies: Magic Mike
@@ -381,5 +371,12 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772394
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20250818T150000Z
+DTEND:20250818T170000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779090
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
