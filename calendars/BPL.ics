@@ -40,14 +40,6 @@ DESCRIPTION:Adobe Audition is an industry standard audio editing software
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chair Yoga
-DTSTART:20250814T153000Z
-DTEND:20250814T163000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/781046
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chair Aerobics for Adults
 DTSTART:20250814T170000Z
 DTEND:20250814T180000Z
@@ -373,5 +365,15 @@ DTEND:20250819T163000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/774666
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Vet Center Tabling
+DTSTART:20250819T140000Z
+DTEND:20250819T180000Z
+DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
+ dential and free help to Veterans\, service members\, and their families. 
+ Staff from the Vet Center will assist with information on health a\n\nhttp
+ s://www.bklynlibrary.org/node/782954
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
