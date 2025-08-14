@@ -30,26 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Audition Essentials
-DTSTART:20250814T143000Z
-DTEND:20250814T173000Z
-DESCRIPTION:Adobe Audition is an industry standard audio editing software 
- for Mac and PC. This course covers how to start an Audition project\, impo
- rting and layering audio files\, basic editing techniques and effe\n\nhttp
- s://www.bklynlibrary.org/node/765350
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250814T170000Z
-DTEND:20250814T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/778114
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Career Computer Lab: Online Job Applications
 DTSTART:20250814T181500Z
 DTEND:20250814T194500Z
@@ -375,5 +355,23 @@ DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
  Staff from the Vet Center will assist with information on health a\n\nhttp
  s://www.bklynlibrary.org/node/782954
 LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Nonprofit Project Budgets
+DTSTART:20250819T180000Z
+DTEND:20250819T193000Z
+DESCRIPTION:Are you ready to start fundraising for your project or idea\, 
+ but don't know what and how much to ask for? If preparing a budget for you
+ r foundation grant is holding you back\, come learn the basic elem\n\nhttp
+ s://www.bklynlibrary.org/node/777677
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
+ 2
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
