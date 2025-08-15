@@ -233,4 +233,25 @@ DESCRIPTION:https://www.viewcy.com/event/sham_e_qawwali_2\n<p><img alt="Sh
  ;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Manheim Band live at Barzakh
+DTSTART:20250921T230000Z
+DTEND:20250922T010000Z
+DTSTAMP:20250921T230000Z
+UID:Peter Manheim Band live at Barzakh
+DESCRIPTION:https://www.viewcy.com/event/peter_manheim_band\n<p><img alt="
+ Peter Manheim Band live at Barzakh thumbnail" class="styles_coverImg__PsR9
+ G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-ele
+ ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
+ 186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F019%2F703%2Fcover%2FBarzakh__282_29.jpg%3F1755274290&amp\;w=640&am
+ p\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.
+ s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F703%2Fcover%2FB
+ arzakh__282_29.jpg%3F1755274290&amp\;w=384&amp\;q=100 1x\, /_next/image?ur
+ l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
+ ured_images%2F000%2F019%2F703%2Fcover%2FBarzakh__282_29.jpg%3F1755274290&a
+ mp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR

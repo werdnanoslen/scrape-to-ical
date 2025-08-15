@@ -21,34 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hollywood Hunk Movies: A Streetcar Named Desire
-DTSTART:20250815T143000Z
-DTEND:20250815T163000Z
-DESCRIPTION:Join us for a month of Hollywood Hunks!\n\nhttps://www.bklynli
- brary.org/node/781303
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250815T150000Z
-DTEND:20250815T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758235
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250815T150000Z
-DTEND:20250815T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/781651
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20250815T170000Z
 DTEND:20250815T190000Z
@@ -78,7 +50,7 @@ DESCRIPTION:Ready to tap into a powerful new revenue stream for your Brook
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World Cinema Series @ Pacific Library
+SUMMARY:World Cinema Series
 DTSTART:20250815T190000Z
 DTEND:20250815T210000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782315
@@ -371,5 +343,34 @@ DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew
  Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
  655
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask a tech
+DTSTART:20250820T153000Z
+DTEND:20250820T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/764128
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20250820T153000Z
+DTEND:20250820T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/781487
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Coloring
+DTSTART:20250820T170000Z
+DTEND:20250820T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /780965
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
