@@ -1072,18 +1072,6 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1697\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Good Intentions • TBA Nov 23
-DTSTART:20251124T003000Z
-DTEND:20251124T023000Z
-DTSTAMP:20251124T003000Z
-UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
- sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
- "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
- ="344" height="258" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Owl Presents: Elysian Fields at LPR!  Nov 23
 DTSTART:20251124T000000Z
 DTEND:20251124T020000Z
@@ -1097,6 +1085,18 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1659\n7:00 pm\n<p><strong
  loads/Screenshot-2025-07-15-at-12.38.35-AM-1024x655.png" alt="" width="669
  " height="428" /></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>
  &nbsp\;</p>\n<p>&nbsp\;</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Intentions • TBA Nov 23
+DTSTART:20251124T003000Z
+DTEND:20251124T023000Z
+DTSTAMP:20251124T003000Z
+UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
+ sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
+ "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
+ ="344" height="258" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -1242,35 +1242,6 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1695\n7:30 Doors\n8:00 Mu
  00x300.jpg" alt="" width="300" height="300" /> <img class="alignnone size-
  medium wp-image-2105" src="https://theowl.nyc/wp-content/uploads/Adeline-H
  otel-300x200.jpg" alt="" width="300" height="200" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alexia Avina • Julian Cubillos • Oropendola WEDS Dec 17
-DTSTART:20251218T003000Z
-DTEND:20251218T023000Z
-DTSTAMP:20251218T003000Z
-UID:https://theowl.nyc/calendar?event_id=1702-2025-12-18 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1702\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-1543" src="https://theowl.nyc/wp-content/uploads/Alexia-Avina-200x300
- .jpg" alt="" width="200" height="300" />  <img class="alignnone size-medi
- um wp-image-892" src="https://theowl.nyc/wp-content/uploads/Julian-Cubillo
- s-225x300.jpg" alt="" width="225" height="300" />   <img class="alignnon
- e size-medium wp-image-2908" src="https://theowl.nyc/wp-content/uploads/Or
- opendola-233x300.jpeg" alt="" width="233" height="300" /></p>\n<p><span st
- yle="color: #000000\;"><strong>Oropendola</strong> is the project of Broo
- klyn-based singer\, composer\, and keyboardist Joanna Schubert. Her songs
-  draw from keys-based art-pop and indie-folk traditions\, moving between t
- he whimsical and the confessional\, blending playful dissonance and lyrica
- l storytelling. </span>Oropendola’s newest album Swimming is a piano-v
- ocal collection with a fierce\, almost <span class="gmail-il">confrontat
- ional intimacy</span>\, adorned in arrangements that could have been play
- ed by a small experimental band of elves\, gnomes and fairies. Harkening
-  to inspirations such as Fiona Apple\, Regina Spektor\, and The Roches\, t
- he album captures Schubert’s penchant and reverence for unfettered live 
- performance. For this performance\, she will be joined by Gabby Sherba on 
- vocals\, Elizabeth LoPiccolo on vocals and flute\, and Nico Osborne on bas
- s and toy piano.</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
