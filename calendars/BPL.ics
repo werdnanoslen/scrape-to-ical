@@ -11,53 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20250814T213000Z
-DTEND:20250814T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/777344
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Singing Event
-DTSTART:20250814T220000Z
-DTEND:20250814T233000Z
-DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
- klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/778571
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20250814T220000Z
-DTEND:20250814T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/778699
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20250814T220000Z
-DTEND:20250814T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/780674
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Jewelry Making with Resin
-DTSTART:20250814T220000Z
-DTEND:20250814T233000Z
-DESCRIPTION:These beginner friendly hands -on- sessions will dive into the
-  creation of resin jewelry making. Essential resin techniques will be cove
- red to enable participants to create their own resin pendants\, k\n\nhttps
- ://www.bklynlibrary.org/node/782084
-LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250815T140000Z
 DTEND:20250815T160000Z
@@ -373,5 +326,50 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
   Heights.\n\nhttps://www.bklynlibrary.org/node/770468
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Book Club: Between Two Moons by Aisha Abdel Gawad
+DTSTART:20250819T223000Z
+DTEND:20250819T233000Z
+DESCRIPTION:Join Claire from Brooklyn Heights in our Craft Room for this c
+ hat. We are discussing Aisha Abdel Gawad's novel Between Two Moons (please
+  click link for page to reserve hold).\n\nhttps://www.bklynlibrary.org/nod
+ e/779270
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finish Your Diploma Now!
+DTSTART:20250819T223000Z
+DTEND:20250819T233000Z
+DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
+ \nhttps://www.bklynlibrary.org/node/781064
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250820T140000Z
+DTEND:20250820T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
+ 26
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business Help for Immigrants (Central)
+DTSTART:20250820T140000Z
+DTEND:20250820T160000Z
+DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
+ .bklynlibrary.org/node/773300
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250820T140000Z
+DTEND:20250820T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772395
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
