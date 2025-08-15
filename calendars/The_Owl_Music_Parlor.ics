@@ -11,42 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:American Seraphim • Tandem Array • Worldwide Seagull Aug 14
-DTSTART:20250814T233000Z
-DTEND:20250815T013000Z
-DTSTAMP:20250814T233000Z
-UID:https://theowl.nyc/calendar?event_id=1664-2025-08-14 23:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1664\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-2956" src="https://theowl.nyc/wp-content/uploads/Cail-American-Seraph
- im-300x283.jpg" alt="" width="300" height="283" />  <img class="alignnone
-  size-medium wp-image-2960" src="https://theowl.nyc/wp-content/uploads/Tan
- dem-Array-225x300.jpg" alt="" width="225" height="300" /> <img class="alig
- nnone size-medium wp-image-2982" src="https://theowl.nyc/wp-content/upload
- s/IMG_0751-279x300.jpeg" alt="" width="279" height="300" />  </p>\n<div 
- class="">\n<p dir="ltr"><strong>American Seraphim</strong> is the project 
- of North Narolina born guitarist\, composer\, singer-songwriter Christian 
- Cail. It has been aptly described with the prefixes (chamber\, baroque\, i
- ndie\, prog\, avant) and the suffixes (folk\, country\, and rock). It’s 
- an attempt to quilt contradictory elements into something unitary: acousti
- c/electric\, improvised/composed\, incidental/deliberate\, simple/ambitiou
- s.  It is principally a fanciful and personal attempt to write truly beau
- tiful songs\, drawing influence from Bach\, Gesualdo\, Stravinsky\, Appala
- chian folk\, mid-century exotica\, and jazz.</p>\n<p dir="ltr">The live in
- strumentation typically includes guitar\, voice (Melanie Giselle)\,  viol
- in (Minnie Jordan)\, flute (Samantha Kochis)\, bass (Kevin Eichenberger)\,
-  and mellotron (Nico Fennell).</p>\n</div>\n<p dir="ltr"><strong>Tandem Ar
- ray</strong> is love songs from the murky depths of Adam Turay’s bloody 
- heart. With Judette Elliston on synths and background vox and Alfredo Colo
- n on EWI!</p>\n<div class=""><strong>Worldwide Seagull</strong> is Anna Ab
- ondolo’s alter ego\, where each performance unfolds on an imagined beach
- . Inspired by ASMR\, the nervous system\, and storytelling\, a typical Sea
- gull set explores the singer-songwriter archetype\, the confessional natur
- e of performance\, and the tension between earnestness and theatricality.<
- /div>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alkebulan • Miles Ave • low.bo Aug 15
 DTSTART:20250815T233000Z
 DTEND:20250816T013000Z
@@ -165,11 +129,25 @@ DTEND:20250823T013000Z
 DTSTAMP:20250822T233000Z
 UID:https://theowl.nyc/calendar?event_id=1669-2025-08-22 23:30:00+00:00
 DESCRIPTION:https://theowl.nyc/calendar?event_id=1669\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-2482" src="https://theowl.nyc/wp-content/uploads/IMG_8651-225x300.jpe
- g" alt="" width="225" height="300" /> <img class="alignnone wp-image-2593"
-  src="https://theowl.nyc/wp-content/uploads/Katy-Rea-297x300.jpeg" alt="" 
- width="241" height="243" /></p>
+ sic \n$15.00 suggested donation\n[caption id="attachment_2992" align="alig
+ nnone" width="300"]<img class="wp-image-2992 size-medium" src="https://the
+ owl.nyc/wp-content/uploads/Doree-1-300x200.jpg" alt="" width="300" height=
+ "200" />    photo - Seiden<span style="font-size: 16px\;">    </span>
+ [/caption]\n<p><img class="alignnone size-medium wp-image-2993" src="https
+ ://theowl.nyc/wp-content/uploads/raybody-pic-290x300.jpeg" alt="" width="2
+ 90" height="300" /></p>\n<div><strong>Dorée</strong> is an artist and ban
+ d from New York City. Their songs have elements of folk\, indie\, poetry\,
+  and rhythmic feelings to create a hypnotic songwriter sound. This show i
+ s the pre-release show for their upcoming album "Chameleon Tactic"\, recor
+ ded at Tropico Beauty with Guy Paz (drums)\, Judah Sweig\, Jolee Gordon (v
+ oice) and Crystal Rose (voice).</div>\n<p><strong>Raybody</strong> (fka Ka
+ ty Rea) writes classic singer-songwriter shit that gets weird. Her voice 
+ is endlessly dynamic—feral and vulnerable\, tough in its nurturing. Back
+ ed by Andrew Forman (Guitar: Daryl Johns\, Nick Hakim) and Ethan Kogan\, t
+ he trio moves between cinematic extremes. Her bandmates—jazz-trained and
+  steeped in NYC’s experimental and indie rock scenes—interpret her son
+ gs with a range that’s both crushing and soaring. It’s the sound of a 
+ woman at work: a bit maniacal\, but warm.</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -499,6 +477,20 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1648\n7:30 Doors\n8:00 Mu
  rom elements of folk\, pop\, soul and 90’s rock music. She will be joine
  d at The Owl by Gregg Belisle-Chi\, Sam Decker\, Chris Parker and Matt Aro
  noff.</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zoh Amba • TBA Sept 26
+DTSTART:20250926T233000Z
+DTEND:20250927T013000Z
+DTSTAMP:20250926T233000Z
+UID:https://theowl.nyc/calendar?event_id=1703-2025-09-26 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1703\n7:30 Doors\n8:00 Mu
+ sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
+ mage-2786" src="https://theowl.nyc/wp-content/uploads/zoh-amba-300x200.jpe
+ g" alt="" width="300" height="200" /></p>\n<p><strong>Zoh Amba</strong> sa
+ ys: This music is only a reflection of a soul that is ever changing and tr
+ ying to reach beyond the sun.</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
