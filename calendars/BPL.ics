@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20250815T170000Z
-DTEND:20250815T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 33
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual French Conversation Group Cancelled
-DTSTART:20250815T180000Z
-DTEND:20250815T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763524
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Doing Business with the Federal Government A-Z | SBA Government Co
  ntracting Series\, Part 1
 DTSTART:20250815T180000Z
@@ -372,5 +354,21 @@ DESCRIPTION:Please join us at our adult coloring session! No registratio
  a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
  /780965
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chess Workshop
+DTSTART:20250820T174500Z
+DTEND:20250820T190000Z
+DESCRIPTION:Play board\, card and tabletop games with us at The Pacific Li
+ brary. Designed for Adults.\n\nhttps://www.bklynlibrary.org/node/782025
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20250820T180000Z
+DTEND:20250820T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/779478
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
