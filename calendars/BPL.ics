@@ -29,24 +29,6 @@ DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20250818T153000Z
-DTEND:20250818T173000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/777222
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250818T170000Z
-DTEND:20250818T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/778115
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
 DTSTART:20250818T180000Z
 DTEND:20250818T200000Z
@@ -369,5 +351,24 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
  59
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comienza Tu Negocio: Curso de Emprendimiento (En Español)
+DTSTART:20250820T220000Z
+DTEND:20250820T000000Z
+DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
+ ” de 5 sesiones! (Join us for our 5-session “Start Your Business” Pr
+ ogram!)\n\nhttps://www.bklynlibrary.org/node/781947
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20250821T140000Z
+DTEND:20250821T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/767026
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
