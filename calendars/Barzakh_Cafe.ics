@@ -77,6 +77,28 @@ DESCRIPTION:https://www.viewcy.com/event/qawwali_evening_with_1\n<p><img a
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Baglama Classes with Ercan Alkan
+DTSTART:20250823T190000Z
+DTEND:20250823T210000Z
+DTSTAMP:20250823T190000Z
+UID:Baglama Classes with Ercan Alkan
+DESCRIPTION:https://www.viewcy.com/event/baglama_classes_with_3\n<p><img a
+ lt="Baglama Classes with Ercan Alkan thumbnail" class="styles_coverImg__Ps
+ R9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-e
+ lement="Image" data-sentry-source-file="index.tsx" decoding="async" height
+ ="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A
+ %2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_image
+ s%2F000%2F019%2F810%2Fcover%2FBaglama_classes_23rd.jpg%3F1755528191&amp\;w
+ =640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F810%2Fco
+ ver%2FBaglama_classes_23rd.jpg%3F1755528191&amp\;w=384&amp\;q=100 1x\, /_n
+ ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
+ urses%2Ffeatured_images%2F000%2F019%2F810%2Fcover%2FBaglama_classes_23rd.j
+ pg%3F1755528191&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wid
+ th="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Notes Between Us
 DTSTART:20250824T230000Z
 DTEND:20250825T010000Z

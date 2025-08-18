@@ -21,19 +21,19 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20250818T150000Z
-DTEND:20250818T170000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779090
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
 DTSTART:20250818T150000Z
 DTEND:20250818T190000Z
 DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
  library.org/node/777667
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20250818T150000Z
+DTEND:20250818T170000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779090
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free English Class (We Speak NYC)
