@@ -35,9 +35,9 @@ LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Farafina Blues
-DTSTART:20250822T210000Z
-DTEND:20250822T230000Z
-DTSTAMP:20250822T210000Z
+DTSTART:20250822T220000Z
+DTEND:20250823T000000Z
+DTSTAMP:20250822T220000Z
 UID:Farafina Blues
 DESCRIPTION:https://www.viewcy.com/event/farafina_blues_1\n<p><img alt="Fa
  rafina Blues thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
@@ -45,13 +45,13 @@ DESCRIPTION:https://www.viewcy.com/event/farafina_blues_1\n<p><img alt="Fa
  ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
  c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
  uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F598%2Fco
- ver%2FBarzakh__283_29.jpg%3F1755339192&amp\;w=640&amp\;q=100" srcset="/_ne
- xt/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcou
- rses%2Ffeatured_images%2F000%2F019%2F598%2Fcover%2FBarzakh__283_29.jpg%3F1
- 755339192&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy
- -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F01
- 9%2F598%2Fcover%2FBarzakh__283_29.jpg%3F1755339192&amp\;w=640&amp\;q=100 2
- x" style="color: transparent\;" width="308"/></p>
+ ver%2FFarafina_Blues.jpg%3F1755545270&amp\;w=640&amp\;q=100" srcset="/_nex
+ t/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcour
+ ses%2Ffeatured_images%2F000%2F019%2F598%2Fcover%2FFarafina_Blues.jpg%3F175
+ 5545270&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%
+ 2F598%2Fcover%2FFarafina_Blues.jpg%3F1755545270&amp\;w=640&amp\;q=100 2x" 
+ style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
