@@ -167,6 +167,29 @@ DESCRIPTION:https://www.viewcy.com/event/sham_e_qawwali_2\n<p><img alt="Sh
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NALEDI and friends: Songs of My Childhood
+DTSTART:20250831T230000Z
+DTEND:20250901T010000Z
+DTSTAMP:20250831T230000Z
+UID:NALEDI and friends: Songs of My Childhood
+DESCRIPTION:https://www.viewcy.com/event/naledi_and_friends_s\n<p><img alt
+ ="NALEDI and friends: Songs of My Childhood thumbnail" class="styles_cover
+ Img__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-s
+ entry-element="Image" data-sentry-source-file="index.tsx" decoding="async"
+  height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F019%2F841%2Fcover%2FPink___Purple_Dynamic_Jazz_Festival_P
+ oster_.jpg%3F1755635517&amp\;w=640&amp\;q=100" srcset="/_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F019%2F841%2Fcover%2FPink___Purple_Dynamic_Jazz_Festival_Po
+ ster_.jpg%3F1755635517&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3
+ A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
+ es%2F000%2F019%2F841%2Fcover%2FPink___Purple_Dynamic_Jazz_Festival_Poster_
+ .jpg%3F1755635517&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" w
+ idth="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Peter Manheim Band live at Barzakh
 DTSTART:20250921T230000Z
 DTEND:20250922T010000Z
