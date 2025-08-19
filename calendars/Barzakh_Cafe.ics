@@ -167,6 +167,27 @@ DESCRIPTION:https://www.viewcy.com/event/sham_e_qawwali_2\n<p><img alt="Sh
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Oud Classes with Zafer Tawil
+DTSTART:20250831T190000Z
+DTEND:20250831T210000Z
+DTSTAMP:20250831T190000Z
+UID:Oud Classes with Zafer Tawil
+DESCRIPTION:https://www.viewcy.com/event/oud_classes_with_zafe_1\n<p><img 
+ alt="Oud Classes with Zafer Tawil thumbnail" class="styles_coverImg__PsR9G
+ " data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elem
+ ent="Image" data-sentry-source-file="index.tsx" decoding="async" height="1
+ 86" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F
+ %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
+ F000%2F019%2F844%2Fcover%2FBarzakh_Classes.jpg%3F1755639792&amp\;w=640&amp
+ \;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
+ 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F019%2F844%2Fcover%2FBa
+ rzakh_Classes.jpg%3F1755639792&amp\;w=384&amp\;q=100 1x\, /_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F019%2F844%2Fcover%2FBarzakh_Classes.jpg%3F1755639792&am
+ p\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NALEDI and friends: Songs of My Childhood
 DTSTART:20250831T230000Z
 DTEND:20250901T010000Z
@@ -187,6 +208,29 @@ DESCRIPTION:https://www.viewcy.com/event/naledi_and_friends_s\n<p><img alt
  es%2F000%2F019%2F841%2Fcover%2FPink___Purple_Dynamic_Jazz_Festival_Poster_
  .jpg%3F1755635517&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" w
  idth="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cuban Night with Eudy Fernandez
+DTSTART:20250920T000000Z
+DTEND:20250920T020000Z
+DTSTAMP:20250920T000000Z
+UID:Cuban Night with Eudy Fernandez
+DESCRIPTION:https://www.viewcy.com/event/cuban_night_with_eudy\n<p><img al
+ t="Cuban Night with Eudy Fernandez thumbnail" class="styles_coverImg__PsR9
+ G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-ele
+ ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
+ 186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F019%2F842%2Fcover%2FGreen_Minimalist_Dynamic_Live_Music_Event_Inst
+ agram_Post.jpg%3F1755638754&amp\;w=640&amp\;q=100" srcset="/_next/image?ur
+ l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
+ ured_images%2F000%2F019%2F842%2Fcover%2FGreen_Minimalist_Dynamic_Live_Musi
+ c_Event_Instagram_Post.jpg%3F1755638754&amp\;w=384&amp\;q=100 1x\, /_next/
+ image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourse
+ s%2Ffeatured_images%2F000%2F019%2F842%2Fcover%2FGreen_Minimalist_Dynamic_L
+ ive_Music_Event_Instagram_Post.jpg%3F1755638754&amp\;w=640&amp\;q=100 2x" 
+ style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
