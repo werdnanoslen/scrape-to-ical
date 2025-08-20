@@ -21,23 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chess Workshop
-DTSTART:20250820T174500Z
-DTEND:20250820T190000Z
-DESCRIPTION:Play board\, card and tabletop games with us at The Pacific Li
- brary. Designed for Adults.\n\nhttps://www.bklynlibrary.org/node/782025
-LOCATION:Pacific Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Ask A Tech
-DTSTART:20250820T180000Z
-DTEND:20250820T190000Z
-DESCRIPTION:Class will involve explaining and assisting with any technolog
- ical questions or problems you may have with your devices.\n\nhttps://www.
- bklynlibrary.org/node/776739
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250820T180000Z
 DTEND:20250820T200000Z
@@ -380,5 +363,22 @@ DESCRIPTION:This Jigsaw Puzzle Contest is open to teams of all ages! Every
  inish wins. All will be allowed to finish.\n\nhttps://www.bklynlibrary.org
  /node/778642
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Advanced Guided Studio Session: Music Production at the Library
+DTSTART:20250823T170000Z
+DTEND:20250823T190000Z
+DESCRIPTION:Recording Studio Workshop at Brooklyn Public Library\n\nhttps:
+ //www.bklynlibrary.org/node/780188
+LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knitting Circle at Brooklyn Heights
+DTSTART:20250823T183000Z
+DTEND:20250823T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing.\
+ n\nhttps://www.bklynlibrary.org/node/780961
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
