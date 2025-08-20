@@ -11,52 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20250820T140000Z
-DTEND:20250820T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/772395
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hollywood Hunk Movies: Brokeback Mountain
-DTSTART:20250820T183000Z
-DTEND:20250820T203000Z
-DESCRIPTION:Join us for a month of Hollywood Hunks!\n\nhttps://www.bklynli
- brary.org/node/781304
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250820T190000Z
-DTEND:20250820T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774129
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music & Sound Therapy
-DTSTART:20250820T190000Z
-DTEND:20250820T210000Z
-DESCRIPTION:Escape from the stressors and microaggressions of daily livi
- ng\, on this aural journey to where the self and the celestial meet.\n\nht
- tps://www.bklynlibrary.org/node/782057
-LOCATION:Pacific Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250820T200000Z
-DTEND:20250820T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763460
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eat Healthy Be Active Workshop led by City Harvest
 DTSTART:20250820T210000Z
 DTEND:20250820T220000Z
@@ -382,5 +336,48 @@ DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
  ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
  ps://www.bklynlibrary.org/node/768578
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250825T140000Z
+DTEND:20250825T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772397
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20250825T150000Z
+DTEND:20250825T170000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779091
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20250825T150000Z
+DTEND:20250825T190000Z
+DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
+ library.org/node/777668
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20250825T153000Z
+DTEND:20250825T173000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/777223
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20250825T180000Z
+DTEND:20250825T200000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) get free one-on-one resume hel
+ p\, education and career advice\, interviewing prep\, and more with\n\nhtt
+ ps://www.bklynlibrary.org/node/758211
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
