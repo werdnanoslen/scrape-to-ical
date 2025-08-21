@@ -21,25 +21,6 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250821T213000Z
-DTEND:20250821T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763502
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20250821T213000Z
-DTEND:20250821T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/776164
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20250821T220000Z
 DTEND:20250821T000000Z
@@ -57,16 +38,6 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
  ynlibrary.org/node/780675
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Jewelry Making with Resin
-DTSTART:20250821T220000Z
-DTEND:20250821T230000Z
-DESCRIPTION:These beginner friendly hands -on- sessions will dive into the
-  creation of resin jewelry making. Essential resin techniques will be cove
- red to enable       participants to create their own resin penda\n\nhtt
- ps://www.bklynlibrary.org/node/782085
-LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:National External Diploma Program (NEDP) Info. Session
@@ -376,5 +347,33 @@ DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
  ecial session of our popular Joint Ventures educational series wh\n\nhttps
  ://www.bklynlibrary.org/node/772444
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20250826T190000Z
+DTEND:20250826T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
+ 3
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20250826T210000Z
+DTEND:20250826T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/757657
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POP CULTURE CLUB
+DTSTART:20250826T213000Z
+DTEND:20250826T223000Z
+DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
+  trending? Join our Pop Culture Club! We meet regularly to discuss the lat
+ est in entertainment\, share fan theories\, play trivia\, and dive into\n\
+ nhttps://www.bklynlibrary.org/node/778768
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
