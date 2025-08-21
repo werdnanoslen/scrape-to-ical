@@ -21,16 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Freelance Art Portfolios in Canva
-DTSTART:20250821T181500Z
-DTEND:20250821T194500Z
-DESCRIPTION:This drop-in lab is geared towards beginner computer users to 
- help you learn how to use Canva to create and design a freelance art portf
- olio. Computers will be provided and Canva provides cloud storag\n\nhttps:
- //www.bklynlibrary.org/node/779460
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20250821T213000Z
 DTEND:20250821T230000Z
@@ -376,5 +366,14 @@ DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
   Lobby to meet with you and discuss their food career training programs!\n
  \nhttps://www.bklynlibrary.org/node/781966
 LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20250826T170000Z
+DTEND:20250826T180000Z
+DESCRIPTION:Class will involve explaining and assisting with any technolog
+ ical questions or problems you may have with your devices.\n\nhttps://www.
+ bklynlibrary.org/node/776740
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
