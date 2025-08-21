@@ -30,36 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Audition Essentials
-DTSTART:20250821T143000Z
-DTEND:20250821T173000Z
-DESCRIPTION:Adobe Audition is an industry standard audio editing software 
- for Mac and PC. This course covers how to start an Audition project\, impo
- rting and layering audio files\, basic editing techniques and effe\n\nhttp
- s://www.bklynlibrary.org/node/765351
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Designing a Non Profit Brand Campaign with Vidi Global
-DTSTART:20250821T160000Z
-DTEND:20250821T180000Z
-DESCRIPTION:How do you transform your nonprofit’s vision into a movemen
- t? In this workshop\, Creative Director Christian Arriola walks you throug
- h the process of building a mission-driven brand campaign that inspi\n\nht
- tps://www.bklynlibrary.org/node/779762
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250821T170000Z
-DTEND:20250821T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/778116
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Career Computer Lab: Freelance Art Portfolios in Canva
 DTSTART:20250821T181500Z
 DTEND:20250821T194500Z
@@ -381,5 +351,30 @@ DTEND:20250825T214500Z
 DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
   class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780023
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20250825T214500Z
+DTEND:20250825T234500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778125
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life Drawing
+DTSTART:20250825T220000Z
+DTEND:20250825T233000Z
+DESCRIPTION:Build hand-eye coordination\, develop better observation skill
+ s\, and get into a relaxing zone through drawing. This class will help you
+  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
+ s://www.bklynlibrary.org/node/775188
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20250826T133000Z
+DTEND:20250826T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/774667
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
