@@ -40,15 +40,6 @@ DESCRIPTION:Adobe Audition is an industry standard audio editing software
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20250821T143000Z
-DTEND:20250821T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/777191
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Chair Yoga
 DTSTART:20250821T153000Z
 DTEND:20250821T163000Z
@@ -380,5 +371,15 @@ DESCRIPTION:Please note: This session is cancelled. Please join us for the
   next Creative Writing Workshop on Monday\, September 8 at 3:00 p.m.\n\nht
  tps://www.bklynlibrary.org/node/776038
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20250825T200000Z
+DTEND:20250825T213000Z
+DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/780954
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
