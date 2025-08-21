@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20250821T140000Z
-DTEND:20250821T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7820
- 92
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Career Computer Lab: Freelance Art Portfolios in Canva
 DTSTART:20250821T181500Z
 DTEND:20250821T194500Z
@@ -376,5 +367,14 @@ DTEND:20250826T163000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/774667
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Bread Kitchen
+DTSTART:20250826T150000Z
+DTEND:20250826T180000Z
+DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
+  Lobby to meet with you and discuss their food career training programs!\n
+ \nhttps://www.bklynlibrary.org/node/781966
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
