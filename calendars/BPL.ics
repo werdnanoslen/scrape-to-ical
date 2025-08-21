@@ -40,14 +40,6 @@ DESCRIPTION:Adobe Audition is an industry standard audio editing software
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Chair Yoga
-DTSTART:20250821T153000Z
-DTEND:20250821T163000Z
-DESCRIPTION:AUGUST 14TH WILL BE OUR LAST CHAIR YOGA CLASS FOR THE SUMMER!\
- n\nhttps://www.bklynlibrary.org/node/781047
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Designing a Non Profit Brand Campaign with Vidi Global
 DTSTART:20250821T160000Z
 DTEND:20250821T180000Z
@@ -381,5 +373,13 @@ DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/780954
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class
+DTSTART:20250825T210000Z
+DTEND:20250825T214500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780023
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
