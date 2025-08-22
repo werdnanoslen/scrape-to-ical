@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:Zafer Tawil • Scree Aug 21
-DTSTART:20250821T233000Z
-DTEND:20250822T013000Z
-DTSTAMP:20250821T233000Z
-UID:https://theowl.nyc/calendar?event_id=1668-2025-08-21 23:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1668\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone wp-image-2939" s
- rc="https://theowl.nyc/wp-content/uploads/zafer-tawil.jpeg" alt="" width="
- 367" height="252" /> <img class="alignnone size-medium wp-image-2527" src=
- "https://theowl.nyc/wp-content/uploads/Scree-1-300x296.jpg" alt="" width="
- 300" height="296" /></p>\n<p>Ryan El-Solh (guitar)\, Carmen Quill (bass)\,
-  and Jason Burger (drums)\, first joined forces as <strong>Scree</strong> 
- in 2017 at this very Music Parlor. Since then the band has developed a sou
- nd all their own\, driven by El-Solh’s lush instrumental compositions an
- d the trio’s preternatural improvisational instincts. For this evening t
- hey will be joined by Luke Bergman on pedal steel and Christian Li on keys
-  as they celebrate the release of their new record\, <i>August</i>\, out 8
- /22 via Ruination Records</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dorée Gordon and friends\, feat.  Raybody and Goodfight Aug 22
 DTSTART:20250822T233000Z
 DTEND:20250823T013000Z
@@ -83,6 +62,18 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1670\n7:30 Doors\n8:00 Mu
  eir new EP/and Zine- lush synth and piano sounds. Ambient Pasta puts on mu
  lti sensory events in celebration of creation. It will be a special and co
  zy night to be shared.</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Isaac's Birthday. Aug 24
+DTSTART:20250824T233000Z
+DTEND:20250825T013000Z
+DTSTAMP:20250824T233000Z
+UID:https://theowl.nyc/calendar?event_id=1705-2025-08-24 23:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1705\n7:30 Doors\n8:00 Mu
+ sic\n<p><img class="alignnone size-medium wp-image-2999" src="https://theo
+ wl.nyc/wp-content/uploads/IMG_3186-236x300.jpg" alt="" width="236" height=
+ "300" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -523,11 +514,11 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1674\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Doveman & friends Oct 4
-DTSTART:20251004T233000Z
-DTEND:20251005T013000Z
-DTSTAMP:20251004T233000Z
-UID:https://theowl.nyc/calendar?event_id=1675-2025-10-04 23:30:00+00:00
+SUMMARY:Doveman & friends Wednesday Oct 8
+DTSTART:20251008T233000Z
+DTEND:20251009T013000Z
+DTSTAMP:20251008T233000Z
+UID:https://theowl.nyc/calendar?event_id=1675-2025-10-08 23:30:00+00:00
 DESCRIPTION:https://theowl.nyc/calendar?event_id=1675\n7:30 Doors\n8:00 Mu
  sic\n<p><img class="alignnone size-medium wp-image-2954" src="https://theo
  wl.nyc/wp-content/uploads/thomas-bartlett-300x298.jpeg" alt="" width="300"
@@ -925,7 +916,15 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1652\n7:30 Doors\n8:00 Mu
  p-image-1779" src="https://theowl.nyc/wp-content/uploads/Dig-itty-300x194.
  png" alt="" width="300" height="194" /> <img class="alignnone size-medium 
  wp-image-2185" src="https://theowl.nyc/wp-content/uploads/Jackie-West-1-20
- 0x300.jpeg" alt="" width="200" height="300" /></p>
+ 0x300.jpeg" alt="" width="200" height="300" /></p>\n<p><strong>Nicomo</str
+ ong> is a shot in the dark parallel park\, a hole-in-one-in-a-million\, ne
+ edle in a full-stack flapjack of syrupy vocal lines and buttery fingerpick
+ y guitar. Songs on your shoulder\, impressionistic folk and strolling wave
+ s\, shadows and conversations misunderstood. Nicomo is the songwriting pro
+ ject of Nico Osborne\, Brooklyn-based musician and sound artist. Antiquate
+ d Future Records calls their first EP Views “An early-morning hangout al
+ bum meets complex after-dark mood music.” Nicomo is working on an LP now
+ \, exploring brighter colors and tighter turns\, coming end of 2025.</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -1032,18 +1031,6 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1697\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Good Intentions • TBA Nov 23
-DTSTART:20251124T003000Z
-DTEND:20251124T023000Z
-DTSTAMP:20251124T003000Z
-UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
- sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
- "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
- ="344" height="258" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Owl Presents: Elysian Fields at LPR!  Nov 23
 DTSTART:20251124T000000Z
 DTEND:20251124T020000Z
@@ -1057,6 +1044,18 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1659\n7:00 pm\n<p><strong
  loads/Screenshot-2025-07-15-at-12.38.35-AM-1024x655.png" alt="" width="669
  " height="428" /></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>
  &nbsp\;</p>\n<p>&nbsp\;</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Intentions • TBA Nov 23
+DTSTART:20251124T003000Z
+DTEND:20251124T023000Z
+DTSTAMP:20251124T003000Z
+UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
+ sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
+ "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
+ ="344" height="258" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
