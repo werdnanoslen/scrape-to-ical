@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:Ambient Pasta Presents: Weeze & SQORE record releases Aug 23
-DTSTART:20250823T233000Z
-DTEND:20250824T013000Z
-DTSTAMP:20250823T233000Z
-UID:https://theowl.nyc/calendar?event_id=1670-2025-08-23 23:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1670\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-1861" src="https://theowl.nyc/wp-content/uploads/Dan-Criblez-Weeze-30
- 0x200.jpg" alt="" width="300" height="200" /> </p>\n<p>&nbsp\;</p>\n<p><s
- trong>Ambient Pasta Presents</strong>: Ambient Piano sounds from <strong>W
- eeze &amp\; SQORE</strong> celebrating the releases of each artists’ wor
- k. From Weeze\, he will perform his newest work\, Life Themes - a nostalgi
- c cinematic string of vignettes on the piano. SQORE will be celebrating th
- eir new EP/and Zine- lush synth and piano sounds. Ambient Pasta puts on mu
- lti sensory events in celebration of creation. It will be a special and co
- zy night to be shared.</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Isaac's Birthday. Aug 24
 DTSTART:20250824T233000Z
 DTEND:20250825T013000Z
@@ -852,13 +833,17 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1654\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:WishWish • tba Nov 2
-DTSTART;VALUE=DATE:20251102
-DTEND;VALUE=DATE:20251103
-UID:https://theowl.nyc/calendar?event_id=1661-2025-11-02
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1661\n<p><img class="alig
- nnone wp-image-2344" src="https://theowl.nyc/wp-content/uploads/wish-wish-
- rachel-houslejpg-300x200.jpg" alt="" width="466" height="310" /></p>
+SUMMARY:WishWish •Jesse In Grey Nov 2
+DTSTART:20251103T003000Z
+DTEND:20251103T023000Z
+DTSTAMP:20251103T003000Z
+UID:https://theowl.nyc/calendar?event_id=1661-2025-11-03 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1661\n7:30 Doors\n8:00 Mu
+ sic \n$15 suggested donation\n<p><img class="alignnone wp-image-2344" src=
+ "https://theowl.nyc/wp-content/uploads/wish-wish-rachel-houslejpg-300x200.
+ jpg" alt="" width="406" height="270" /> <img class="alignnone size-medium 
+ wp-image-2830" src="https://theowl.nyc/wp-content/uploads/jesse-in-grey-19
+ 9x300.jpeg" alt="" width="199" height="300" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
