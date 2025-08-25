@@ -11,18 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:Isaac's Birthday. Aug 24
-DTSTART:20250824T233000Z
-DTEND:20250825T013000Z
-DTSTAMP:20250824T233000Z
-UID:https://theowl.nyc/calendar?event_id=1705-2025-08-24 23:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1705\n7:30 Doors\n8:00 Mu
- sic\n<p><img class="alignnone size-medium wp-image-2999" src="https://theo
- wl.nyc/wp-content/uploads/IMG_3186-236x300.jpg" alt="" width="236" height=
- "300" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gaza Relief Benefit Sept 4
 DTSTART:20250904T233000Z
 DTEND:20250905T013000Z
@@ -974,18 +962,6 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1697\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Good Intentions • TBA Nov 23
-DTSTART:20251124T003000Z
-DTEND:20251124T023000Z
-DTSTAMP:20251124T003000Z
-UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
- sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
- "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
- ="344" height="258" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Owl Presents: Elysian Fields at LPR!  Nov 23
 DTSTART:20251124T000000Z
 DTEND:20251124T020000Z
@@ -999,6 +975,18 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1659\n7:00 pm\n<p><strong
  loads/Screenshot-2025-07-15-at-12.38.35-AM-1024x655.png" alt="" width="669
  " height="428" /></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>
  &nbsp\;</p>\n<p>&nbsp\;</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Intentions • TBA Nov 23
+DTSTART:20251124T003000Z
+DTEND:20251124T023000Z
+DTSTAMP:20251124T003000Z
+UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
+ sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
+ "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
+ ="344" height="258" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
