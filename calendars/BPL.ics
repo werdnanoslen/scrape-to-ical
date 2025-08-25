@@ -21,19 +21,19 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20250825T150000Z
-DTEND:20250825T170000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779091
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
 DTSTART:20250825T150000Z
 DTEND:20250825T190000Z
 DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
  library.org/node/777668
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20250825T150000Z
+DTEND:20250825T170000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779091
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free English Class (We Speak NYC)
@@ -81,7 +81,7 @@ DESCRIPTION:Please note: This session is cancelled. Please join us for the
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20250825T200000Z
 DTEND:20250825T213000Z
 DESCRIPTION:Stop by the Pineapple Room at Brooklyn Heights Library for hel
@@ -188,184 +188,5 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
   Heights.\n\nhttps://www.bklynlibrary.org/node/770469
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20250827T140000Z
-DTEND:20250827T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/772398
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20250827T140000Z
-DTEND:20250827T153000Z
-DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew 
- Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
- 656
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Business Help for Immigrants (Central)
-DTSTART:20250827T140000Z
-DTEND:20250827T160000Z
-DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
- .bklynlibrary.org/node/773301
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20250827T140000Z
-DTEND:20250827T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 27
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finish Your Diploma Now!
-DTSTART:20250827T143000Z
-DTEND:20250827T153000Z
-DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
- \nhttps://www.bklynlibrary.org/node/781065
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask a tech
-DTSTART:20250827T153000Z
-DTEND:20250827T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/764129
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20250827T153000Z
-DTEND:20250827T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/781488
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Coloring
-DTSTART:20250827T170000Z
-DTEND:20250827T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /780966
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chess Workshop
-DTSTART:20250827T174500Z
-DTEND:20250827T190000Z
-DESCRIPTION:Play board\, card and tabletop games with us at The Pacific Li
- brary. Designed for Adults.\n\nhttps://www.bklynlibrary.org/node/782026
-LOCATION:Pacific Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20250827T180000Z
-DTEND:20250827T190000Z
-DESCRIPTION:Class will involve explaining and assisting with any technolog
- ical questions or problems you may have with your devices.\n\nhttps://www.
- bklynlibrary.org/node/776741
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250827T180000Z
-DTEND:20250827T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/779479
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philosophy Discussion Group: Plato's Republic\, Book 7
-DTSTART:20250827T183000Z
-DTEND:20250827T200000Z
-DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
- ://www.bklynlibrary.org/node/767651
-LOCATION:Central Library\, Reverend Elsie Smith Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hollywood Hunk Movies: Mask of Zorro
-DTSTART:20250827T183000Z
-DTEND:20250827T194500Z
-DESCRIPTION:Join us for a month of Hollywood Hunks!\n\nhttps://www.bklynli
- brary.org/node/781306
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250827T190000Z
-DTEND:20250827T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774130
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music & Sound Therapy
-DTSTART:20250827T190000Z
-DTEND:20250827T210000Z
-DESCRIPTION:Escape from the stressors and microaggressions of daily livi
- ng\, on this aural journey to where the self and the celestial meet.\n\nht
- tps://www.bklynlibrary.org/node/782058
-LOCATION:Pacific Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250827T200000Z
-DTEND:20250827T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763461
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250827T220000Z
-DTEND:20250827T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 60
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comienza Tu Negocio: Curso de Emprendimiento (En Español)
-DTSTART:20250827T220000Z
-DTEND:20250827T000000Z
-DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
- ” de 5 sesiones! (Join us for our 5-session “Start Your Business” Pr
- ogram!)\n\nhttps://www.bklynlibrary.org/node/781948
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20250828T140000Z
-DTEND:20250828T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/767027
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20250828T140000Z
-DTEND:20250828T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7820
- 93
-LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
