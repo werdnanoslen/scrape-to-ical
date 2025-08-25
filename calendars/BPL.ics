@@ -21,32 +21,13 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20250825T150000Z
-DTEND:20250825T190000Z
-DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
- library.org/node/777668
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250825T180000Z
-DTEND:20250825T200000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758211
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250825T180000Z
-DTEND:20250825T200000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774065
-LOCATION:Central Library\, Business & Career Center
+SUMMARY:CANCELLED: Creative Writing Workshop
+DTSTART:20250825T190000Z
+DTEND:20250825T210000Z
+DESCRIPTION:Please note: This session is cancelled. Please join us for the
+  next Creative Writing Workshop on Monday\, September 8 at 3:00 p.m.\n\nht
+ tps://www.bklynlibrary.org/node/776038
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
@@ -55,15 +36,6 @@ DTEND:20250825T210000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/779474
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Creative Writing Workshop
-DTSTART:20250825T190000Z
-DTEND:20250825T210000Z
-DESCRIPTION:Please note: This session is cancelled. Please join us for the
-  next Creative Writing Workshop on Monday\, September 8 at 3:00 p.m.\n\nht
- tps://www.bklynlibrary.org/node/776038
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
@@ -371,5 +343,33 @@ DESCRIPTION:Learn how to increase your online meeting/show production valu
   and meetings. This course covers the various platforms that you\n\nhttps:
  //www.bklynlibrary.org/node/765354
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Chair Yoga
+DTSTART:20250828T153000Z
+DTEND:20250828T163000Z
+DESCRIPTION:AUGUST 14TH WILL BE OUR LAST CHAIR YOGA CLASS FOR THE SUMMER!\
+ n\nhttps://www.bklynlibrary.org/node/781048
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternatives to Adobe
+DTSTART:20250828T180000Z
+DTEND:20250828T200000Z
+DESCRIPTION:We all know of Adobe’s huge array of products and services r
+ elated to graphic design\, animation\, video and audio editing (among many
+  others!). Did you know that there are many alternatives to Adobe ap\n\nht
+ tps://www.bklynlibrary.org/node/765353
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Connects Tabling
+DTSTART:20250828T180000Z
+DTEND:20250828T210000Z
+DESCRIPTION:Join New York Connects every month as they connect the communi
+ ty to a wide range of care services and support for people of all ages or 
+ with any type of disability. You'll get assistance accessing ser\n\nhttps:
+ //www.bklynlibrary.org/node/782958
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
