@@ -29,21 +29,6 @@ DESCRIPTION:Come play American or Chinese Mah Jongg!\n\nhttps://www.bklyn
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20250825T150000Z
-DTEND:20250825T170000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779091
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20250825T153000Z
-DTEND:20250825T173000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/777223
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
 DTSTART:20250825T180000Z
 DTEND:20250825T200000Z
@@ -367,5 +352,24 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7820
  93
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20250828T143000Z
+DTEND:20250828T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/777192
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produce Remotely
+DTSTART:20250828T150000Z
+DTEND:20250828T170000Z
+DESCRIPTION:Learn how to increase your online meeting/show production valu
+ e! Learn techniques for maximizing production value for your remote shows
+  and meetings. This course covers the various platforms that you\n\nhttps:
+ //www.bklynlibrary.org/node/765354
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
