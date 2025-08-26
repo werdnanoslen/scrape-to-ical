@@ -11,23 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20250825T214500Z
-DTEND:20250825T234500Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778125
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Life Drawing
-DTSTART:20250825T220000Z
-DTEND:20250825T233000Z
-DESCRIPTION:Build hand-eye coordination\, develop better observation skill
- s\, and get into a relaxing zone through drawing. This class will help you
-  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
- s://www.bklynlibrary.org/node/775188
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20250826T133000Z
 DTEND:20250826T163000Z
@@ -374,5 +357,24 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
  ynlibrary.org/node/780676
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Jewelry Making with Resin
+DTSTART:20250828T220000Z
+DTEND:20250828T230000Z
+DESCRIPTION:These beginner friendly hands -on- sessions will dive into the
+  creation of resin jewelry making. Essential resin techniques will be cove
+ red to enable       participants to create their own resin penda\n\nhtt
+ ps://www.bklynlibrary.org/node/782086
+LOCATION:Crown Heights\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250829T140000Z
+DTEND:20250829T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7635
+ 43
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
