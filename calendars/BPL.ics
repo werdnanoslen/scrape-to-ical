@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20250826T190000Z
-DTEND:20250826T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
- 3
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
 DTSTART:20250826T210000Z
 DTEND:20250826T223000Z
@@ -376,5 +368,15 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  p\, education and career advice\, interviewing prep\, and more with\n\nhtt
  ps://www.bklynlibrary.org/node/758237
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
+DTSTART:20250829T150000Z
+DTEND:20250829T170000Z
+DESCRIPTION:This session is cancelled -- consider attending the 8/29 Workf
+ orce1 Recruitment Event at Central Library instead. Stop by the Central Li
+ brary's Business & Career Center for help with your resume\, cove\n\nhttps
+ ://www.bklynlibrary.org/node/781653
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
