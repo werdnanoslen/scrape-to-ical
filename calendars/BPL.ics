@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Coloring
-DTSTART:20250827T170000Z
-DTEND:20250827T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /780966
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chess Workshop
 DTSTART:20250827T174500Z
 DTEND:20250827T190000Z
@@ -378,5 +368,15 @@ DTEND:20250902T210000Z
 DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
  4
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20250902T210000Z
+DTEND:20250902T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/757658
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
