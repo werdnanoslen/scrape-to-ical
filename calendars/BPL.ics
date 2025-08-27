@@ -11,6 +11,23 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Business Help for Immigrants (Central)
+DTSTART:20250827T140000Z
+DTEND:20250827T160000Z
+DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
+ .bklynlibrary.org/node/773301
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group
+DTSTART:20250827T140000Z
+DTEND:20250827T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
+ 27
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250827T140000Z
 DTEND:20250827T210000Z
@@ -28,23 +45,6 @@ DESCRIPTION:All beginners in Hebrew join us to learn the basics of Hebrew
  Conversation- all adults welcome!\n\nhttps://www.bklynlibrary.org/node/778
  656
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Business Help for Immigrants (Central)
-DTSTART:20250827T140000Z
-DTEND:20250827T160000Z
-DESCRIPTION:Start or grow your business - in your language!\n\nhttps://www
- .bklynlibrary.org/node/773301
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20250827T140000Z
-DTEND:20250827T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 27
-LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Finish Your Diploma Now!
