@@ -30,24 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Produce Remotely
-DTSTART:20250828T150000Z
-DTEND:20250828T170000Z
-DESCRIPTION:Learn how to increase your online meeting/show production valu
- e! Learn techniques for maximizing production value for your remote shows
-  and meetings. This course covers the various platforms that you\n\nhttps:
- //www.bklynlibrary.org/node/765354
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Chair Yoga
-DTSTART:20250828T153000Z
-DTEND:20250828T163000Z
-DESCRIPTION:AUGUST 14TH WILL BE OUR LAST CHAIR YOGA CLASS FOR THE SUMMER!\
- n\nhttps://www.bklynlibrary.org/node/781048
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alternatives to Adobe
 DTSTART:20250828T180000Z
 DTEND:20250828T200000Z
@@ -382,5 +364,24 @@ DESCRIPTION:Drive for desktop is Google's desktop sync client that lets y
  This application enables you to access your files and folders in\n\nhttps:
  //www.bklynlibrary.org/node/784812
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250903T190000Z
+DTEND:20250903T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774131
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250903T200000Z
+DTEND:20250903T210000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763462
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
