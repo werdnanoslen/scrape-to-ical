@@ -21,16 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alternatives to Adobe
-DTSTART:20250828T180000Z
-DTEND:20250828T200000Z
-DESCRIPTION:We all know of Adobe’s huge array of products and services r
- elated to graphic design\, animation\, video and audio editing (among many
-  others!). Did you know that there are many alternatives to Adobe ap\n\nht
- tps://www.bklynlibrary.org/node/765353
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New York Connects Tabling
 DTSTART:20250828T180000Z
 DTEND:20250828T210000Z
@@ -383,5 +373,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
  61
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comienza Tu Negocio: Curso de Emprendimiento (En Español)
+DTSTART:20250903T220000Z
+DTEND:20250903T000000Z
+DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
+ ” de 5 sesiones! (Join us for our 5-session “Start Your Business” Pr
+ ogram!)\n\nhttps://www.bklynlibrary.org/node/781949
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
