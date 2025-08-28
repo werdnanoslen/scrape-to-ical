@@ -30,15 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20250828T143000Z
-DTEND:20250828T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/777192
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Produce Remotely
 DTSTART:20250828T150000Z
 DTEND:20250828T170000Z
@@ -381,5 +372,15 @@ DTEND:20250903T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783525
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Google Drive
+DTSTART:20250903T180000Z
+DTEND:20250903T190000Z
+DESCRIPTION:Drive for desktop is Google's desktop sync client that lets y
+ ou easily manage and share content across all your devices and the cloud. 
+ This application enables you to access your files and folders in\n\nhttps:
+ //www.bklynlibrary.org/node/784812
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
