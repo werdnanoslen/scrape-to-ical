@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250829T170000Z
-DTEND:20250829T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 35
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual French Conversation Group
-DTSTART:20250829T180000Z
-DTEND:20250829T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763526
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Marketing to the Government Agencies  | SBA Government Contracting
   Series\, Part 3
 DTSTART:20250829T180000Z
@@ -381,5 +363,25 @@ DTEND:20250904T233000Z
 DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
  klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/783603
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Miriam Toews Discusses A Truce That is Not Peace\, with Rumaan Ala
+ m
+DTSTART:20250904T230000Z
+DTEND:20250904T003000Z
+DESCRIPTION:BPL Presents welcomes internationally bestselling author Miria
+ m Toews\, whose memoir of the will to write is a work of disobedient memor
+ y\, humor\, and exquisite craft set against a content-hungry\, prose\n\nht
+ tps://www.bklynlibrary.org/node/769985
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250905T140000Z
+DTEND:20250905T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7635
+ 44
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
