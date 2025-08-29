@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250829T140000Z
-DTEND:20250829T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7635
- 43
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250829T140000Z
 DTEND:20250829T210000Z
@@ -30,31 +21,12 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Workforce1 Recruitment Event at Central Library
-DTSTART:20250829T140000Z
-DTEND:20250829T160000Z
-DESCRIPTION:Recruiters from the Brooklyn Workforce1 Career Center will be 
- at the library to pre-screen candidates for available openings with local 
- employers.\n\nhttps://www.bklynlibrary.org/node/783915
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hollywood Hunk Movies: Butch Cassidy and the Sundance Kid
 DTSTART:20250829T143000Z
 DTEND:20250829T163000Z
 DESCRIPTION:Join us for a month of Hollywood Hunks!\n\nhttps://www.bklynli
  brary.org/node/781307
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20250829T150000Z
-DTEND:20250829T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) get free one-on-one resume hel
- p\, education and career advice\, interviewing prep\, and more with\n\nhtt
- ps://www.bklynlibrary.org/node/758237
-LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
@@ -65,6 +37,16 @@ DESCRIPTION:This session is cancelled -- consider attending the 8/29 Workf
  brary's Business & Career Center for help with your resume\, cove\n\nhttps
  ://www.bklynlibrary.org/node/781653
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20250829T150000Z
+DTEND:20250829T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) get free one-on-one resume hel
+ p\, education and career advice\, interviewing prep\, and more with\n\nhtt
+ ps://www.bklynlibrary.org/node/758237
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Tech Help for Your Job Search
@@ -379,5 +361,24 @@ DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
  d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
  /www.bklynlibrary.org/node/779458
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250904T213000Z
+DTEND:20250904T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763504
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20250904T213000Z
+DTEND:20250904T223000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/776166
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
