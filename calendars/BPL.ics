@@ -21,17 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marketing to the Government Agencies  | SBA Government Contracting
-  Series\, Part 3
-DTSTART:20250829T180000Z
-DTEND:20250829T200000Z
-DESCRIPTION:To successfully secure government contracts\, you can't rely o
- n standard commercial marketing techniques. You need to tailor your messag
- e and collateral specifically to government agencies by understan\n\nhttps
- ://www.bklynlibrary.org/node/779561
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Cinema Series
 DTSTART:20250829T190000Z
 DTEND:20250829T210000Z
@@ -383,5 +372,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7635
  44
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250905T140000Z
+DTEND:20250905T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772401
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
