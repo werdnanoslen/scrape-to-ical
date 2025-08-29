@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Tech Help for Your Job Search
-DTSTART:20250829T160000Z
-DTEND:20250829T180000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/779482
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250829T170000Z
 DTEND:20250829T190000Z
@@ -36,6 +28,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
  35
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual French Conversation Group
+DTSTART:20250829T180000Z
+DTEND:20250829T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/763526
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marketing to the Government Agencies  | SBA Government Contracting
@@ -47,15 +48,6 @@ DESCRIPTION:To successfully secure government contracts\, you can't rely o
  e and collateral specifically to government agencies by understan\n\nhttps
  ://www.bklynlibrary.org/node/779561
 LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual French Conversation Group
-DTSTART:20250829T180000Z
-DTEND:20250829T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763526
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:World Cinema Series
@@ -381,5 +373,13 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
  ynlibrary.org/node/780677
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Singing Event
+DTSTART:20250904T220000Z
+DTEND:20250904T233000Z
+DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
+ klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/783603
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
