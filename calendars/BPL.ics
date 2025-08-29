@@ -11,35 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20250828T213000Z
-DTEND:20250828T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/777346
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20250828T220000Z
-DTEND:20250828T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/778701
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20250828T220000Z
-DTEND:20250828T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/780676
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250829T140000Z
 DTEND:20250829T160000Z
@@ -381,5 +352,32 @@ DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
   Lobby to meet with you and discuss their food career training programs!\n
  \nhttps://www.bklynlibrary.org/node/781967
 LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Chair Yoga
+DTSTART:20250904T153000Z
+DTEND:20250904T163000Z
+DESCRIPTION:AUGUST 14TH WILL BE OUR LAST CHAIR YOGA CLASS FOR THE SUMMER!\
+ n\nhttps://www.bklynlibrary.org/node/781049
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Microsoft Word
+DTSTART:20250904T170000Z
+DTEND:20250904T180000Z
+DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
+  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/785
+ 231
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Computer Lab: Working with Word
+DTSTART:20250904T180000Z
+DTEND:20250904T193000Z
+DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
+  your own resume or cover letter on Microsoft Word and will have real worl
+ d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
+ /www.bklynlibrary.org/node/779458
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
