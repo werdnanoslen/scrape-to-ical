@@ -149,6 +149,16 @@ DESCRIPTION:Celebrate fall by folding an origami maple leaf. Made with
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Collaging with Vision Boards
+DTSTART:20250903T170000Z
+DTEND:20250903T190000Z
+DESCRIPTION:Join Chyna in using collage to spark your creativity and creat
+ e vision boards—a tool for visualizing and/or manifesting what you want 
+ to bring into your life using a physical board and images cut out\n\nhttps
+ ://www.bklynlibrary.org/node/785911
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250903T180000Z
 DTEND:20250903T200000Z
@@ -373,15 +383,5 @@ DESCRIPTION:This event is cancelled -- look for the Immigrant Job Fair at
   arrived to the United States or have been here for a while) get\n\nhttps:
  //www.bklynlibrary.org/node/758238
 LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250905T150000Z
-DTEND:20250905T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/785525
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
