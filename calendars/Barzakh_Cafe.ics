@@ -11,6 +11,71 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
+SUMMARY:Mouloudia
+DTSTART:20250906T000000Z
+DTEND:20250906T020000Z
+DTSTAMP:20250906T000000Z
+UID:Mouloudia
+DESCRIPTION:https://www.viewcy.com/event/mouloudia\n<p><img alt="Mouloudia
+  thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-compo
+ nent="ImageWithFallback" data-sentry-element="Image" data-sentry-source-fi
+ le="index.tsx" decoding="async" height="186" loading="lazy" src="https://w
+ ww.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
+ azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F110%2Fcover%2FBrown_
+ __Beige_Clean_Travel_Agency_Promo_Instagram_Story.jpg%3F1756756129&amp\;w=
+ 640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-produ
+ ction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F110%2Fcov
+ er%2FBrown___Beige_Clean_Travel_Agency_Promo_Instagram_Story.jpg%3F1756756
+ 129&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F11
+ 0%2Fcover%2FBrown___Beige_Clean_Travel_Agency_Promo_Instagram_Story.jpg%3F
+ 1756756129&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="3
+ 08"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gnawa Spirit Live
+DTSTART:20250907T000000Z
+DTEND:20250907T020000Z
+DTSTAMP:20250907T000000Z
+UID:Gnawa Spirit Live
+DESCRIPTION:https://www.viewcy.com/event/gnawa_spirit_live\n<p><img alt="G
+ nawa Spirit Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" d
+ ata-sentry-component="ImageWithFallback" data-sentry-element="Image" data-
+ sentry-source-file="index.tsx" decoding="async" height="186" loading="lazy
+ " src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-
+ production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F111%
+ 2Fcover%2FGnawa_spirit.jpg%3F1756756561&amp\;w=640&amp\;q=100" srcset="/_n
+ ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
+ urses%2Ffeatured_images%2F000%2F020%2F111%2Fcover%2FGnawa_spirit.jpg%3F175
+ 6756561&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%
+ 2F111%2Fcover%2FGnawa_spirit.jpg%3F1756756561&amp\;w=640&amp\;q=100 2x" st
+ yle="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afro Cuban Percussion Classes with Jorge
+DTSTART:20250907T200000Z
+DTEND:20250907T220000Z
+DTSTAMP:20250907T200000Z
+UID:Afro Cuban Percussion Classes with Jorge
+DESCRIPTION:https://www.viewcy.com/event/afro_cuban_percussion\n<p><img al
+ t="Afro Cuban Percussion Classes with Jorge thumbnail" class="styles_cover
+ Img__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-s
+ entry-element="Image" data-sentry-source-file="index.tsx" decoding="async"
+  height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F020%2F112%2Fcover%2Fjorge_class.jpg%3F1756757025&amp\;w=6
+ 40&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
+ tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F112%2Fcove
+ r%2Fjorge_class.jpg%3F1756757025&amp\;w=384&amp\;q=100 1x\, /_next/image?u
+ rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
+ tured_images%2F000%2F020%2F112%2Fcover%2Fjorge_class.jpg%3F1756757025&amp\
+ ;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Umm Kalthum Workshop
 DTSTART:20250907T223000Z
 DTEND:20250908T003000Z
