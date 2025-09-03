@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250903T180000Z
-DTEND:20250903T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783525
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250903T190000Z
 DTEND:20250903T210000Z
@@ -381,5 +373,15 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774066
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Constituent Services Walk-in Hours
+DTSTART:20250908T180000Z
+DTEND:20250908T213000Z
+DESCRIPTION:Join Assemblymember Simon's staff for constituent service walk
+ -in hours on Monday\, September 8th. Due to construction at the district o
+ ffice\, staff have been working and connecting with constituents r\n\nhttp
+ s://www.bklynlibrary.org/node/782693
+LOCATION:Brooklyn Heights Library\, Cranberry Meeting Room
 END:VEVENT
 END:VCALENDAR
