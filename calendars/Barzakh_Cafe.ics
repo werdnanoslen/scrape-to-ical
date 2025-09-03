@@ -119,6 +119,29 @@ DESCRIPTION:https://www.viewcy.com/event/fattah_ali_turab_ali\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Daniel Garbin Group
+DTSTART:20250913T000000Z
+DTEND:20250913T020000Z
+DTSTAMP:20250913T000000Z
+UID:Daniel Garbin Group
+DESCRIPTION:https://www.viewcy.com/event/daniel_garbin_group\n<p><img alt=
+ "Daniel Garbin Group thumbnail" class="styles_coverImg__PsR9G" data-nimg="
+ 1" data-sentry-component="ImageWithFallback" data-sentry-element="Image" d
+ ata-sentry-source-file="index.tsx" decoding="async" height="186" loading="
+ lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-her
+ oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F
+ 180%2Fcover%2FWhatsApp_Image_2025-08-28_at_03.48.48_cd5f0178.jpg%3F1756931
+ 530&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%
+ 2F180%2Fcover%2FWhatsApp_Image_2025-08-28_at_03.48.48_cd5f0178.jpg%3F17569
+ 31530&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-her
+ oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F
+ 180%2Fcover%2FWhatsApp_Image_2025-08-28_at_03.48.48_cd5f0178.jpg%3F1756931
+ 530&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></
+ p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cuban Night with Eudy Fernandez
 DTSTART:20250920T000000Z
 DTEND:20250920T020000Z
