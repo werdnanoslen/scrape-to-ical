@@ -21,41 +21,12 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plum Paper Craft:  Window Origami Maple Leaf
-DTSTART:20250903T170000Z
-DTEND:20250903T183000Z
-DESCRIPTION:Celebrate fall by folding an origami maple leaf. Made with 
- translucent kite paper in autumn hues\, the completed leaf makes a strik
- ing window decoration.\n\nhttps://www.bklynlibrary.org/node/778644
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Collaging with Vision Boards
-DTSTART:20250903T170000Z
-DTEND:20250903T190000Z
-DESCRIPTION:Join Chyna in using collage to spark your creativity and creat
- e vision boards—a tool for visualizing and/or manifesting what you want 
- to bring into your life using a physical board and images cut out\n\nhttps
- ://www.bklynlibrary.org/node/785911
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250903T180000Z
 DTEND:20250903T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783525
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Google Drive
-DTSTART:20250903T180000Z
-DTEND:20250903T190000Z
-DESCRIPTION:Drive for desktop is Google's desktop sync client that lets y
- ou easily manage and share content across all your devices and the cloud. 
- This application enables you to access your files and folders in\n\nhttps:
- //www.bklynlibrary.org/node/784812
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -384,5 +355,31 @@ DTEND:20250908T190000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/783557
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20250908T153000Z
+DTEND:20250908T173000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/777224
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book Discussion: Honey by Victor Lodato
+DTSTART:20250908T160000Z
+DTEND:20250908T170000Z
+DESCRIPTION:Please join Park Slope Library for a discussion of\n\nhttps://
+ www.bklynlibrary.org/node/781505
+LOCATION:Park Slope\, Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250908T180000Z
+DTEND:20250908T200000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774066
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
