@@ -35,9 +35,9 @@ LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gnawa Spirit Live
-DTSTART:20250907T000000Z
-DTEND:20250907T020000Z
-DTSTAMP:20250907T000000Z
+DTSTART:20250907T020000Z
+DTEND:20250907T040000Z
+DTSTAMP:20250907T020000Z
 UID:Gnawa Spirit Live
 DESCRIPTION:https://www.viewcy.com/event/gnawa_spirit_live\n<p><img alt="G
  nawa Spirit Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" d
@@ -45,12 +45,12 @@ DESCRIPTION:https://www.viewcy.com/event/gnawa_spirit_live\n<p><img alt="G
  sentry-source-file="index.tsx" decoding="async" height="186" loading="lazy
  " src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-
  production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F111%
- 2Fcover%2FGnawa_spirit.jpg%3F1756756561&amp\;w=640&amp\;q=100" srcset="/_n
+ 2Fcover%2FGnawa_spirit.jpg%3F1756992286&amp\;w=640&amp\;q=100" srcset="/_n
  ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
  urses%2Ffeatured_images%2F000%2F020%2F111%2Fcover%2FGnawa_spirit.jpg%3F175
- 6756561&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ 6992286&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
  eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%
- 2F111%2Fcover%2FGnawa_spirit.jpg%3F1756756561&amp\;w=640&amp\;q=100 2x" st
+ 2F111%2Fcover%2FGnawa_spirit.jpg%3F1756992286&amp\;w=640&amp\;q=100 2x" st
  yle="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
