@@ -30,15 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20250904T143000Z
-DTEND:20250904T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/777193
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hot Bread Kitchen
 DTSTART:20250904T150000Z
 DTEND:20250904T180000Z
@@ -265,14 +256,6 @@ DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chair Yoga
-DTSTART:20250908T043000Z
-DTEND:20250908T173000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/781050
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250908T140000Z
 DTEND:20250908T210000Z
@@ -305,6 +288,14 @@ DTEND:20250908T170000Z
 DESCRIPTION:Please join Park Slope Library for a discussion of\n\nhttps://
  www.bklynlibrary.org/node/781505
 LOCATION:Park Slope\, Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga
+DTSTART:20250908T163000Z
+DTEND:20250908T173000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/781050
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -374,6 +365,15 @@ DTEND:20250908T220000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7638
  23
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250908T203000Z
+DTEND:20250908T220000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7638
+ 27
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
