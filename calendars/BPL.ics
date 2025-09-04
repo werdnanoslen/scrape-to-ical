@@ -30,24 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hot Bread Kitchen
-DTSTART:20250904T150000Z
-DTEND:20250904T180000Z
-DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
-  Lobby to meet with you and discuss their food career training programs!\n
- \nhttps://www.bklynlibrary.org/node/781967
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intro to Microsoft Word
-DTSTART:20250904T170000Z
-DTEND:20250904T180000Z
-DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
-  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/785
- 231
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Career Computer Lab: Working with Word
 DTSTART:20250904T180000Z
 DTEND:20250904T193000Z
@@ -346,24 +328,6 @@ SUMMARY:English Conversation Group
 DTSTART:20250908T203000Z
 DTEND:20250908T220000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7612
- 62
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250908T203000Z
-DTEND:20250908T220000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7638
- 23
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250908T203000Z
-DTEND:20250908T220000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7638
  27
 LOCATION:Central Library\, Info Commons\, Room 7
@@ -376,5 +340,40 @@ DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
  ction program\, offering workshops and other instruction at Brooklyn Publi
  c Library.\n\nhttps://www.bklynlibrary.org/node/780230
 LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20250908T214500Z
+DTEND:20250908T234500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778126
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life Drawing
+DTSTART:20250908T220000Z
+DTEND:20250908T233000Z
+DESCRIPTION:Build hand-eye coordination\, develop better observation skill
+ s\, and get into a relaxing zone through drawing. This class will help you
+  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
+ s://www.bklynlibrary.org/node/775189
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Financia Mi Negocio (En Español)
+DTSTART:20250908T220000Z
+DTEND:20250908T000000Z
+DESCRIPTION:¡Únase a nosotros en nuestro Programa “Financia Mi Negocio
+ ” de 3 sesiones! (Join us for our 3-session “Finance My Business” P
+ rogram!)Este curso online gratuito tiene como propósito comprender cuales
+  s\n\nhttps://www.bklynlibrary.org/node/781955
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Republic\, Book 8
+DTSTART:20250908T221500Z
+DTEND:20250908T234500Z
+DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
+ ://www.bklynlibrary.org/node/767653
+LOCATION:Central Library\, Reverend Elsie Smith Room
 END:VEVENT
 END:VCALENDAR
