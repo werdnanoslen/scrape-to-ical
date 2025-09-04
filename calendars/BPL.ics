@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20250904T140000Z
-DTEND:20250904T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/767028
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20250904T213000Z
 DTEND:20250904T230000Z
@@ -372,5 +362,14 @@ DTEND:20250909T173000Z
 DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
  //www.bklynlibrary.org/node/771873
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Microsoft Word
+DTSTART:20250909T170000Z
+DTEND:20250909T180000Z
+DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
+  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/785
+ 522
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
