@@ -163,6 +163,29 @@ DESCRIPTION:https://www.viewcy.com/event/daniel_garbin_group\n<p><img alt=
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Qawwali Evening with The Saami Brothers
+DTSTART:20250913T230000Z
+DTEND:20250914T010000Z
+DTSTAMP:20250913T230000Z
+UID:Qawwali Evening with The Saami Brothers
+DESCRIPTION:https://www.viewcy.com/event/qawwali_evening_with_2\n<p><img a
+ lt="Qawwali Evening with The Saami Brothers thumbnail" class="styles_cover
+ Img__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-s
+ entry-element="Image" data-sentry-source-file="index.tsx" decoding="async"
+  height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F020%2F199%2Fcover%2FBrown_and_Beige_Simple_Minimalist_Liv
+ e_Music_Instagram_Post.jpg%3F1757009250&amp\;w=640&amp\;q=100" srcset="/_n
+ ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
+ urses%2Ffeatured_images%2F000%2F020%2F199%2Fcover%2FBrown_and_Beige_Simple
+ _Minimalist_Live_Music_Instagram_Post.jpg%3F1757009250&amp\;w=384&amp\;q=1
+ 00 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazona
+ ws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F199%2Fcover%2FBrown_and_B
+ eige_Simple_Minimalist_Live_Music_Instagram_Post.jpg%3F1757009250&amp\;w=6
+ 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cuban Night with Eudy Fernandez
 DTSTART:20250920T000000Z
 DTEND:20250920T020000Z
