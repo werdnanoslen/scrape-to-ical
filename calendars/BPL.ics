@@ -39,14 +39,6 @@ DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Chair Yoga
-DTSTART:20250904T153000Z
-DTEND:20250904T163000Z
-DESCRIPTION:AUGUST 14TH WILL BE OUR LAST CHAIR YOGA CLASS FOR THE SUMMER!\
- n\nhttps://www.bklynlibrary.org/node/781049
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Microsoft Word
 DTSTART:20250904T170000Z
 DTEND:20250904T180000Z
@@ -375,5 +367,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7638
  27
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Guided Music Production Session: Beginner
+DTSTART:20250908T213000Z
+DTEND:20250908T233000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/780230
+LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 END:VCALENDAR
