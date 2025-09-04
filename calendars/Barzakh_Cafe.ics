@@ -186,6 +186,27 @@ DESCRIPTION:https://www.viewcy.com/event/qawwali_evening_with_2\n<p><img a
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:"Mystical music of Bengal" presented by Royal Bengal Tea House
+DTSTART:20250914T230000Z
+DTEND:20250915T010000Z
+DTSTAMP:20250914T230000Z
+UID:"Mystical music of Bengal" presented by Royal Bengal Tea House
+DESCRIPTION:https://www.viewcy.com/event/mystical_music_of_be\n<p><img alt
+ ='"Mystical music of Bengal" presented by Royal Bengal Tea House thumbnail
+ ' class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="Imag
+ eWithFallback" data-sentry-element="Image" data-sentry-source-file="index.
+ tsx" decoding="async" height="186" loading="lazy" src="https://www.viewcy.
+ com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.co
+ m%2Fcourses%2Ffeatured_images%2F000%2F020%2F202%2Fcover%2FIFTI.jpg%3F17570
+ 14948&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy
+ -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
+ 0%2F202%2Fcover%2FIFTI.jpg%3F1757014948&amp\;w=384&amp\;q=100 1x\, /_next/
+ image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourse
+ s%2Ffeatured_images%2F000%2F020%2F202%2Fcover%2FIFTI.jpg%3F1757014948&amp\
+ ;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cuban Night with Eudy Fernandez
 DTSTART:20250920T000000Z
 DTEND:20250920T020000Z
@@ -227,6 +248,27 @@ DESCRIPTION:https://www.viewcy.com/event/peter_manheim_band\n<p><img alt="
  l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
  ured_images%2F000%2F019%2F703%2Fcover%2FBarzakh__282_29.jpg%3F1755274290&a
  mp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sham E Qawwali
+DTSTART:20250929T230000Z
+DTEND:20250930T010000Z
+DTSTAMP:20250929T230000Z
+UID:Sham E Qawwali
+DESCRIPTION:https://www.viewcy.com/event/sham_e_qawwali_3\n<p><img alt="Sh
+ am E Qawwali thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
+ sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
+ ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
+ c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F203%2Fco
+ ver%2FSham_e_qawwali.jpg%3F1757016236&amp\;w=640&amp\;q=100" srcset="/_nex
+ t/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcour
+ ses%2Ffeatured_images%2F000%2F020%2F203%2Fcover%2FSham_e_qawwali.jpg%3F175
+ 7016236&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%
+ 2F203%2Fcover%2FSham_e_qawwali.jpg%3F1757016236&amp\;w=640&amp\;q=100 2x" 
+ style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT

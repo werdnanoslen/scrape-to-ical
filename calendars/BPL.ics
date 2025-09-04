@@ -21,16 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Working with Word
-DTSTART:20250904T180000Z
-DTEND:20250904T193000Z
-DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
-  your own resume or cover letter on Microsoft Word and will have real worl
- d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
- /www.bklynlibrary.org/node/779458
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20250904T213000Z
 DTEND:20250904T230000Z
@@ -374,5 +364,13 @@ DTEND:20250909T163000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/774669
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
+DTSTART:20250909T150000Z
+DTEND:20250909T173000Z
+DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
+ //www.bklynlibrary.org/node/771873
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
