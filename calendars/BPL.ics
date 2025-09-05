@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250905T170000Z
-DTEND:20250905T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 37
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20250905T180000Z
-DTEND:20250905T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763527
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Game On! at Info Commons
 DTSTART:20250905T180000Z
 DTEND:20250905T200000Z
@@ -371,5 +353,24 @@ DTSTART:20250910T140000Z
 DTEND:20250910T160000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782588
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20250910T140000Z
+DTEND:20250910T153000Z
+DESCRIPTION:All beginners in Hebrew please join us to study\, speak and pr
+ actice in a friendly environment\n\nhttps://www.bklynlibrary.org/node/7836
+ 06
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask a tech
+DTSTART:20250910T153000Z
+DTEND:20250910T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/764131
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
