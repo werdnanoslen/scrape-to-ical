@@ -11,62 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250904T213000Z
-DTEND:20250904T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763504
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20250904T213000Z
-DTEND:20250904T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/776166
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20250904T213000Z
-DTEND:20250904T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/777347
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20250904T220000Z
-DTEND:20250904T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/778702
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20250904T220000Z
-DTEND:20250904T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/780677
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Singing Event
-DTSTART:20250904T220000Z
-DTEND:20250904T233000Z
-DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
- klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/783603
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Miriam Toews Discusses A Truce That is Not Peace\, with Rumaan Ala
  m
 DTSTART:20250904T230000Z
@@ -371,5 +315,62 @@ DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
   themselves with the application.\n\nhttps://www.bklynlibrary.org/node/785
  522
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20250909T190000Z
+DTEND:20250909T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
+ 5
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Crafting Circle
+DTSTART:20250909T200000Z
+DTEND:20250909T210000Z
+DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
+ Join our virtual crafting circle! Every 2nd and 4th Tuesday of the month\,
+  get together with fellow crafters to chat and discuss what you'r\n\nhttps
+ ://www.bklynlibrary.org/node/783592
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20250909T210000Z
+DTEND:20250909T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/757659
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POP CULTURE CLUB
+DTSTART:20250909T213000Z
+DTEND:20250909T223000Z
+DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
+  trending? Join our Pop Culture Club! We meet regularly to discuss the lat
+ est in entertainment\, share fan theories\, play trivia\, and dive into\n\
+ nhttps://www.bklynlibrary.org/node/778770
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group - Brooklyn Heights
+DTSTART:20250909T220000Z
+DTEND:20250909T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
+  Heights.\n\nhttps://www.bklynlibrary.org/node/781034
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQ+ Book Discussion: In Universes by Emet North
+DTSTART:20250909T223000Z
+DTEND:20250909T233000Z
+DESCRIPTION:Looking to meet other LGBTQ+ folks? Join us to discuss one of 
+ the three books from this year's BPL Book Prize fiction shortlist\, In Uni
+ verses by Emet North. For fans of Emily St. John Mandel and Kelly\n\nhttps
+ ://www.bklynlibrary.org/node/782854
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
