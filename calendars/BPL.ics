@@ -11,17 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Miriam Toews Discusses A Truce That is Not Peace\, with Rumaan Ala
- m
-DTSTART:20250904T230000Z
-DTEND:20250904T003000Z
-DESCRIPTION:BPL Presents welcomes internationally bestselling author Miria
- m Toews\, whose memoir of the will to write is a work of disobedient memor
- y\, humor\, and exquisite craft set against a content-hungry\, prose\n\nht
- tps://www.bklynlibrary.org/node/769985
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250905T140000Z
 DTEND:20250905T160000Z
@@ -372,5 +361,16 @@ DESCRIPTION:Looking to meet other LGBTQ+ folks? Join us to discuss one of
  verses by Emet North. For fans of Emily St. John Mandel and Kelly\n\nhttps
  ://www.bklynlibrary.org/node/782854
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Guralnick and Elvis Costello Discuss The Colonel and The Kin
+ g
+DTSTART:20250909T230000Z
+DTEND:20250909T003000Z
+DESCRIPTION:BPL Presents welcomes celebrated music historian Peter Guralni
+ ck\, returning with his new biography The Colonel and the King: Tom Parker
+ \, Elvis Presley\, and the Partnership that Rocked the World. He’ll\n\nh
+ ttps://www.bklynlibrary.org/node/778874
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
