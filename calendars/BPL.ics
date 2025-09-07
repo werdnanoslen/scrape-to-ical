@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:NYC Livecode Meetup
-DTSTART:20250907T173000Z
-DTEND:20250907T203000Z
-DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers 
- to discuss\, promote\, and explore real-time programming. Our meetups are 
- open to all. Come with works in progress to show\, with ideas to bo\n\nhtt
- ps://www.bklynlibrary.org/node/747701
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250908T140000Z
 DTEND:20250908T210000Z
@@ -369,6 +359,16 @@ DTSTART:20250910T180000Z
 DTEND:20250910T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783527
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250910T190000Z
+DTEND:20250910T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774132
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
