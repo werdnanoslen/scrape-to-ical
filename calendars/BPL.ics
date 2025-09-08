@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20250908T150000Z
-DTEND:20250908T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/783557
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250908T180000Z
 DTEND:20250908T200000Z
@@ -373,5 +365,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
  62
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comienza Tu Negocio: Curso de Emprendimiento (En Español)
+DTSTART:20250910T220000Z
+DTEND:20250910T000000Z
+DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
+ ” de 5 sesiones! (Join us for our 5-session “Start Your Business” Pr
+ ogram!)\n\nhttps://www.bklynlibrary.org/node/781950
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
