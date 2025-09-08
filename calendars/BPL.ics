@@ -37,14 +37,6 @@ DESCRIPTION:The library offers free English classes for beginners learning
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Book Discussion: Honey by Victor Lodato
-DTSTART:20250908T160000Z
-DTEND:20250908T170000Z
-DESCRIPTION:Please join Park Slope Library for a discussion of\n\nhttps://
- www.bklynlibrary.org/node/781505
-LOCATION:Park Slope\, Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Chair Yoga
 DTSTART:20250908T163000Z
 DTEND:20250908T173000Z
@@ -370,5 +362,14 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774132
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250910T200000Z
+DTEND:20250910T210000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763463
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
