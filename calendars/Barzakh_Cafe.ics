@@ -163,6 +163,52 @@ DESCRIPTION:https://www.viewcy.com/event/mystical_music_of_be\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drawn to Music
+DTSTART:20250916T223000Z
+DTEND:20250917T003000Z
+DTSTAMP:20250916T223000Z
+UID:Drawn to Music
+DESCRIPTION:https://www.viewcy.com/event/drawn_to_music_2\n<p><img alt="Dr
+ awn to Music thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
+ sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
+ ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
+ c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F287%2Fco
+ ver%2FWhatsApp_Image_2025-09-08_at_17.52.46_7da8867a.jpg%3F1757364620&amp\
+ ;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-pr
+ oduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F287%2F
+ cover%2FWhatsApp_Image_2025-09-08_at_17.52.46_7da8867a.jpg%3F1757364620&am
+ p\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F287%2Fco
+ ver%2FWhatsApp_Image_2025-09-08_at_17.52.46_7da8867a.jpg%3F1757364620&amp\
+ ;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blowgun feat. Miriam Hacksaw
+DTSTART:20250918T230000Z
+DTEND:20250919T010000Z
+DTSTAMP:20250918T230000Z
+UID:Blowgun feat. Miriam Hacksaw
+DESCRIPTION:https://www.viewcy.com/event/blowgun_feat_miriam\n<p><img alt=
+ "Blowgun feat. Miriam Hacksaw thumbnail" class="styles_coverImg__PsR9G" da
+ ta-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element=
+ "Image" data-sentry-source-file="index.tsx" decoding="async" height="186" 
+ loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F020%2F285%2Fcover%2FBlack_and_Orange_Modern_Photocentric_Rock_Music_Eve
+ nt_Instagram_Post.jpg%3F1757362318&amp\;w=640&amp\;q=100" srcset="/_next/i
+ mage?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses
+ %2Ffeatured_images%2F000%2F020%2F285%2Fcover%2FBlack_and_Orange_Modern_Pho
+ tocentric_Rock_Music_Event_Instagram_Post.jpg%3F1757362318&amp\;w=384&amp\
+ ;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.ama
+ zonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F285%2Fcover%2FBlack_a
+ nd_Orange_Modern_Photocentric_Rock_Music_Event_Instagram_Post.jpg%3F175736
+ 2318&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/><
+ /p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cuban Night with Eudy Fernandez
 DTSTART:20250920T000000Z
 DTEND:20250920T020000Z
@@ -204,6 +250,30 @@ DESCRIPTION:https://www.viewcy.com/event/peter_manheim_band\n<p><img alt="
  l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
  ured_images%2F000%2F019%2F703%2Fcover%2FBarzakh__282_29.jpg%3F1755274290&a
  mp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jewish Labor Bund and The Hidden History of JewishAnti-Zionism
+DTSTART:20250925T233000Z
+DTEND:20250926T013000Z
+DTSTAMP:20250925T233000Z
+UID:The Jewish Labor Bund and The Hidden History of JewishAnti-Zionism
+DESCRIPTION:https://www.viewcy.com/event/the_jewish_labor_bund\n<p><img al
+ t="The Jewish Labor Bund and The Hidden History of JewishAnti-Zionism thum
+ bnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component=
+ "ImageWithFallback" data-sentry-element="Image" data-sentry-source-file="i
+ ndex.tsx" decoding="async" height="186" loading="lazy" src="https://www.vi
+ ewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazona
+ ws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F286%2Fcover%2FDark_minima
+ list_music_event_singer_introduction_instagram_post__28portrait_29.jpg%3F1
+ 757364444&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fvi
+ ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
+ 2F020%2F286%2Fcover%2FDark_minimalist_music_event_singer_introduction_inst
+ agram_post__28portrait_29.jpg%3F1757364444&amp\;w=384&amp\;q=100 1x\, /_ne
+ xt/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcou
+ rses%2Ffeatured_images%2F000%2F020%2F286%2Fcover%2FDark_minimalist_music_e
+ vent_singer_introduction_instagram_post__28portrait_29.jpg%3F1757364444&am
+ p\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
