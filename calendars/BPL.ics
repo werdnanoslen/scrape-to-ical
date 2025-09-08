@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250908T180000Z
-DTEND:20250908T200000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774066
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Constituent Services Walk-in Hours
 DTSTART:20250908T180000Z
 DTEND:20250908T213000Z
@@ -374,5 +364,14 @@ DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
  ” de 5 sesiones! (Join us for our 5-session “Start Your Business” Pr
  ogram!)\n\nhttps://www.bklynlibrary.org/node/781950
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Art Spiegelman Discusses MetaMaus with Dan Nadel
+DTSTART:20250910T230000Z
+DTEND:20250910T003000Z
+DESCRIPTION:BPL Presents is delighted to welcome Pulitzer-Prize winner Art
+  Spiegelman to discuss the MetaMaus paperback with Dan Nadel.\n\nhttps://w
+ ww.bklynlibrary.org/node/769959
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
