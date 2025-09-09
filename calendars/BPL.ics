@@ -11,50 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:FOSSS Guided Music Production Session: Beginner
-DTSTART:20250908T213000Z
-DTEND:20250908T233000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/780230
-LOCATION:Central Library\, Info Commons\, Recording Studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20250908T214500Z
-DTEND:20250908T234500Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/778126
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Life Drawing
-DTSTART:20250908T220000Z
-DTEND:20250908T233000Z
-DESCRIPTION:Build hand-eye coordination\, develop better observation skill
- s\, and get into a relaxing zone through drawing. This class will help you
-  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
- s://www.bklynlibrary.org/node/775189
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Financia Mi Negocio (En Español)
-DTSTART:20250908T220000Z
-DTEND:20250908T000000Z
-DESCRIPTION:¡Únase a nosotros en nuestro Programa “Financia Mi Negocio
- ” de 3 sesiones! (Join us for our 3-session “Finance My Business” P
- rogram!)Este curso online gratuito tiene como propósito comprender cuales
-  s\n\nhttps://www.bklynlibrary.org/node/781955
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philosophy Discussion Group: Plato's Republic\, Book 8
-DTSTART:20250908T221500Z
-DTEND:20250908T234500Z
-DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
- ://www.bklynlibrary.org/node/767653
-LOCATION:Central Library\, Reverend Elsie Smith Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20250909T133000Z
 DTEND:20250909T163000Z
@@ -377,5 +333,53 @@ DESCRIPTION:This monthly drop-in lab is geared towards beginner computer u
  e computers available for guided help. Please come with a comple\n\nhttps:
  //www.bklynlibrary.org/node/783539
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250911T213000Z
+DTEND:20250911T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763505
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20250911T213000Z
+DTEND:20250911T223000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/776167
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20250911T213000Z
+DTEND:20250911T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/777348
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20250911T220000Z
+DTEND:20250911T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/778703
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20250911T220000Z
+DTEND:20250911T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/780678
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
