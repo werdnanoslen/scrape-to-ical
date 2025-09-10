@@ -22,15 +22,6 @@ LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
-DTSTART:20250910T203000Z
-DTEND:20250910T214500Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 48
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
 DTSTART:20250910T220000Z
 DTEND:20250910T000000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -374,5 +365,15 @@ DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
  ction program\, offering workshops and other instruction at Brooklyn Publi
  c Library.\n\nhttps://www.bklynlibrary.org/node/780410
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Financia Mi Negocio (En Español)
+DTSTART:20250915T220000Z
+DTEND:20250915T000000Z
+DESCRIPTION:¡Únase a nosotros en nuestro Programa “Financia Mi Negocio
+ ” de 3 sesiones! (Join us for our 3-session “Finance My Business” P
+ rogram!)Este curso online gratuito tiene como propósito comprender cuales
+  s\n\nhttps://www.bklynlibrary.org/node/781956
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
