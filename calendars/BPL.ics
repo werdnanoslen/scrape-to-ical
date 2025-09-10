@@ -21,23 +21,14 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask a tech
-DTSTART:20250910T153000Z
-DTEND:20250910T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/764131
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20250910T153000Z
-DTEND:20250910T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/781490
-LOCATION:Brooklyn Heights Library\, Gaming Room
+SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
+DTSTART:20250910T170000Z
+DTEND:20250910T180000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/781294
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Email Basics
@@ -48,16 +39,6 @@ DESCRIPTION:Emails basics will help assist beginners on understanding what
   email account and composing emails and sending them.\n\nhttps://www.bklyn
  library.org/node/785325
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
-DTSTART:20250910T170000Z
-DTEND:20250910T180000Z
-DESCRIPTION:Learn all about today's financial markets from two women who 
- watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
- s they host The Women and Money Roundtable. This series is a virt\n\nhttps
- ://www.bklynlibrary.org/node/781294
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
@@ -381,5 +362,25 @@ DTEND:20250915T173000Z
 DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
  bklynlibrary.org/node/781051
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20250915T170000Z
+DTEND:20250915T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/786969
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250915T180000Z
+DTEND:20250915T200000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774067
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
