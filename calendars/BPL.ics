@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250910T140000Z
-DTEND:20250910T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 29
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250910T140000Z
 DTEND:20250910T210000Z
@@ -28,22 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772403
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20250910T140000Z
-DTEND:20250910T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782588
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20250910T140000Z
-DTEND:20250910T153000Z
-DESCRIPTION:All beginners in Hebrew please join us to study\, speak and pr
- actice in a friendly environment\n\nhttps://www.bklynlibrary.org/node/7836
- 06
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask a tech
@@ -63,16 +38,6 @@ DESCRIPTION:Do you have a specific question about how to use computers or
  find your way around the Internet? No time to attend a formal class?\n\nht
  tps://www.bklynlibrary.org/node/781490
 LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound Bath and Meditation
-DTSTART:20250910T153000Z
-DTEND:20250910T160000Z
-DESCRIPTION:Immerse yourself in sound and meditation. Local musician Paul 
- Wellington will introduce you to the soothing and calming sounds of Indian
-  music therapy.Relax with others in the community as Paul plays\n\nhttps:/
- /www.bklynlibrary.org/node/768968
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Email Basics
@@ -380,5 +345,41 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
  94
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life's a Stitch: G-REBELS Peoples' Power Network Skillshare
+DTSTART:20250913T193000Z
+DTEND:20250913T213000Z
+DESCRIPTION:Join G-REBELS for a beginners sewing class facilitated by comr
+ ade Tricia. In this session we will learn how to set up a sewing machine\,
+  prep fabric\, and do basic mending such as patches and hemming. S\n\nhttp
+ s://www.bklynlibrary.org/node/785673
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250915T140000Z
+DTEND:20250915T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772405
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20250915T150000Z
+DTEND:20250915T190000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/783558
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga
+DTSTART:20250915T163000Z
+DTEND:20250915T173000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/781051
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
