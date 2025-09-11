@@ -254,6 +254,28 @@ DESCRIPTION:https://www.viewcy.com/event/velada_flamenca\n<p><img alt="Vel
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Afro Cuban Percussion Classes with Jorge
+DTSTART:20250921T200000Z
+DTEND:20250921T220000Z
+DTSTAMP:20250921T200000Z
+UID:Afro Cuban Percussion Classes with Jorge
+DESCRIPTION:https://www.viewcy.com/event/afro_cuban_percussion_1\n<p><img 
+ alt="Afro Cuban Percussion Classes with Jorge thumbnail" class="styles_cov
+ erImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data
+ -sentry-element="Image" data-sentry-source-file="index.tsx" decoding="asyn
+ c" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F020%2F353%2Fcover%2FBarzakh_Classes.jpg%3F1757617612&am
+ p\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-
+ production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F353%
+ 2Fcover%2FBarzakh_Classes.jpg%3F1757617612&amp\;w=384&amp\;q=100 1x\, /_ne
+ xt/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcou
+ rses%2Ffeatured_images%2F000%2F020%2F353%2Fcover%2FBarzakh_Classes.jpg%3F1
+ 757617612&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="30
+ 8"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Peter Manheim Band live at Barzakh
 DTSTART:20250921T230000Z
 DTEND:20250922T010000Z
@@ -296,6 +318,28 @@ DESCRIPTION:https://www.viewcy.com/event/the_jewish_labor_bund\n<p><img al
  rses%2Ffeatured_images%2F000%2F020%2F286%2Fcover%2FDark_minimalist_music_e
  vent_singer_introduction_instagram_post__28portrait_29.jpg%3F1757364444&am
  p\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psychedelic Cumbia Night with MILAGRO VERDE
+DTSTART:20250928T000000Z
+DTEND:20250928T020000Z
+DTSTAMP:20250928T000000Z
+UID:Psychedelic Cumbia Night with MILAGRO VERDE
+DESCRIPTION:https://www.viewcy.com/event/psychedelic_cumbia_ni_1\n<p><img 
+ alt="Psychedelic Cumbia Night with MILAGRO VERDE thumbnail" class="styles_
+ coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" d
+ ata-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="a
+ sync" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?
+ url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
+ atured_images%2F000%2F020%2F355%2Fcover%2FPsychedelic_Cumbia_Night.jpg%3F1
+ 757619156&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fvi
+ ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
+ 2F020%2F355%2Fcover%2FPsychedelic_Cumbia_Night.jpg%3F1757619156&amp\;w=384
+ &amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
+ 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F355%2Fcover%2FPs
+ ychedelic_Cumbia_Night.jpg%3F1757619156&amp\;w=640&amp\;q=100 2x" style="c
+ olor: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
