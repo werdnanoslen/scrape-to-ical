@@ -40,24 +40,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250911T143000Z
-DTEND:20250911T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763485
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20250911T143000Z
-DTEND:20250911T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/777194
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Photoshop Essentials
 DTSTART:20250911T173000Z
 DTEND:20250911T203000Z
@@ -348,6 +330,15 @@ DESCRIPTION:¡Únase a nosotros en nuestro Programa “Financia Mi Negocio
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Register to Vote at Central Library
+DTSTART:20250916T130000Z
+DTEND:20250916T200000Z
+DESCRIPTION:Brooklyn Public Library is partnering with the Brooklyn Alumna
+ e Chapter of Delta Sigma Theta Sorority\, Inc. to offer voter registration
+  at Central Library.\n\nhttps://www.bklynlibrary.org/node/787631
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20250916T133000Z
 DTEND:20250916T163000Z
@@ -373,6 +364,14 @@ DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
  e figure out something? The objective of this class is to tend to patrons'
   questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
  ww.bklynlibrary.org/node/785228
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
+ 6
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
