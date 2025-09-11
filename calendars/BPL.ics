@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250910T220000Z
-DTEND:20250910T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 62
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comienza Tu Negocio: Curso de Emprendimiento (En Español)
-DTSTART:20250910T220000Z
-DTEND:20250910T000000Z
-DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
- ” de 5 sesiones! (Join us for our 5-session “Start Your Business” Pr
- ogram!)\n\nhttps://www.bklynlibrary.org/node/781950
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Art Spiegelman Discusses MetaMaus with Dan Nadel
 DTSTART:20250910T230000Z
 DTEND:20250910T003000Z
@@ -373,5 +355,25 @@ DTEND:20250916T163000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/774670
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Vet Center Tabling
+DTSTART:20250916T140000Z
+DTEND:20250916T180000Z
+DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
+ dential and free help to Veterans\, service members\, and their families. 
+ Staff from the Vet Center will assist with information on health a\n\nhttp
+ s://www.bklynlibrary.org/node/782955
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:iPhone & Android Help
+DTSTART:20250916T170000Z
+DTEND:20250916T180000Z
+DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
+ e figure out something? The objective of this class is to tend to patrons'
+  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
+ ww.bklynlibrary.org/node/785228
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
