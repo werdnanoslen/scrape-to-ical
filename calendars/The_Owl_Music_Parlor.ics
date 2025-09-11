@@ -116,6 +116,23 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1672\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Matinee: Ann Gillespie's 'Flowers! Live! Onstage!' with bouquets b
+ y Big Feelings Sept 14
+DTSTART:20250914T190000Z
+DTEND:20250914T210000Z
+DTSTAMP:20250914T190000Z
+UID:https://theowl.nyc/calendar?event_id=1714-2025-09-14 19:00:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1714\n3:00\n<p><img class
+ ="alignnone size-medium wp-image-3015" src="https://theowl.nyc/wp-content/
+ uploads/Ann-Gillespie.jpg-300x300.avif" alt="" width="300" height="300" />
+ </p>\n<p>This lush\, multi-media one-woman show invites you to take a brea
+ th and refocus on the small. A series of flowers guide you in your looking
+  at their beauty and their changes. From the creator of “The Dictionary:
+  Live! Onstage!”\, this show lets the flowers do the talking. Bouquets w
+ ill be for sale at the event.</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alta Quartet • Michael Bates's Acrobat Sept 14
 DTSTART:20250914T233000Z
 DTEND:20250915T013000Z
@@ -1085,18 +1102,6 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1697\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Good Intentions • TBA Nov 23
-DTSTART:20251124T003000Z
-DTEND:20251124T023000Z
-DTSTAMP:20251124T003000Z
-UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
- sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
- "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
- ="344" height="258" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Owl Presents: Elysian Fields at LPR!  Nov 23
 DTSTART:20251124T000000Z
 DTEND:20251124T020000Z
@@ -1110,6 +1115,18 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1659\n7:00 pm\n<p><strong
  loads/Screenshot-2025-07-15-at-12.38.35-AM-1024x655.png" alt="" width="669
  " height="428" /></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>
  &nbsp\;</p>\n<p>&nbsp\;</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Intentions • TBA Nov 23
+DTSTART:20251124T003000Z
+DTEND:20251124T023000Z
+DTSTAMP:20251124T003000Z
+UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
+ sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
+ "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
+ ="344" height="258" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
