@@ -297,6 +297,28 @@ DESCRIPTION:https://www.viewcy.com/event/peter_manheim_band\n<p><img alt="
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BRM Concert and Jam Featuring Pranav Shikarpur and Kushal Sahabir
+DTSTART:20250924T230000Z
+DTEND:20250925T010000Z
+DTSTAMP:20250924T230000Z
+UID:BRM Concert and Jam Featuring Pranav Shikarpur and Kushal Sahabir
+DESCRIPTION:https://www.viewcy.com/event/brm_concert_and_jam_f_1\n<p><img 
+ alt="BRM Concert and Jam Featuring Pranav Shikarpur and Kushal Sahabir thu
+ mbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component
+ ="ImageWithFallback" data-sentry-element="Image" data-sentry-source-file="
+ index.tsx" decoding="async" height="186" loading="lazy" src="https://www.v
+ iewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazon
+ aws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F356%2Fcover%2FBRMxBarzak
+ hPoster.jpg%3F1757622438&amp\;w=640&amp\;q=100" srcset="/_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F020%2F356%2Fcover%2FBRMxBarzakhPoster.jpg%3F1757622438&am
+ p\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F356%2Fco
+ ver%2FBRMxBarzakhPoster.jpg%3F1757622438&amp\;w=640&amp\;q=100 2x" style="
+ color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Jewish Labor Bund and The Hidden History of JewishAnti-Zionism
 DTSTART:20250925T233000Z
 DTEND:20250926T013000Z
@@ -333,12 +355,12 @@ DESCRIPTION:https://www.viewcy.com/event/psychedelic_cumbia_ni_1\n<p><img
  sync" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?
  url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
  atured_images%2F000%2F020%2F355%2Fcover%2FPsychedelic_Cumbia_Night.jpg%3F1
- 757619156&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fvi
+ 757621994&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fvi
  ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
- 2F020%2F355%2Fcover%2FPsychedelic_Cumbia_Night.jpg%3F1757619156&amp\;w=384
+ 2F020%2F355%2Fcover%2FPsychedelic_Cumbia_Night.jpg%3F1757621994&amp\;w=384
  &amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
  3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F355%2Fcover%2FPs
- ychedelic_Cumbia_Night.jpg%3F1757619156&amp\;w=640&amp\;q=100 2x" style="c
+ ychedelic_Cumbia_Night.jpg%3F1757621994&amp\;w=640&amp\;q=100 2x" style="c
  olor: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT

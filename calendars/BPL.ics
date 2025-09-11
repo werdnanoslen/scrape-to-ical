@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20250911T140000Z
-DTEND:20250911T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/767029
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Photoshop Essentials
-DTSTART:20250911T173000Z
-DTEND:20250911T203000Z
-DESCRIPTION:Learn how to use Adobe Photoshop for photo enhancement\, typog
- raphy\, and graphic design.\n\nhttps://www.bklynlibrary.org/node/765358
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20250911T213000Z
 DTEND:20250911T230000Z
@@ -373,5 +355,24 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
   Heights.\n\nhttps://www.bklynlibrary.org/node/781035
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20250916T220000Z
+DTEND:20250916T230000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/786210
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tour of Tove Jansson & The Moomins and The Summer Book Screening
+DTSTART:20250916T220000Z
+DTEND:20250916T010000Z
+DESCRIPTION:Join us for a guided tour of our exhibition\, Tove Jansson and
+  the Moomins: The Door Is Always Open\, followed by a film screening of Th
+ e Summer Book.\n\nhttps://www.bklynlibrary.org/node/776664
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
