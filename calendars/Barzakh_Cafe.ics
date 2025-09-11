@@ -232,6 +232,28 @@ DESCRIPTION:https://www.viewcy.com/event/handpan_first_touch_w\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Velada Flamenca
+DTSTART:20250921T000000Z
+DTEND:20250921T020000Z
+DTSTAMP:20250921T000000Z
+UID:Velada Flamenca
+DESCRIPTION:https://www.viewcy.com/event/velada_flamenca\n<p><img alt="Vel
+ ada Flamenca thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
+ sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
+ ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
+ c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F349%2Fco
+ ver%2FDark_Moody_Live_Music_Promo_Facebook_Post.jpg%3F1757607045&amp\;w=64
+ 0&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-product
+ ion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F349%2Fcover
+ %2FDark_Moody_Live_Music_Promo_Facebook_Post.jpg%3F1757607045&amp\;w=384&a
+ mp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.
+ amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F349%2Fcover%2FDark
+ _Moody_Live_Music_Promo_Facebook_Post.jpg%3F1757607045&amp\;w=640&amp\;q=1
+ 00 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Peter Manheim Band live at Barzakh
 DTSTART:20250921T230000Z
 DTEND:20250922T010000Z

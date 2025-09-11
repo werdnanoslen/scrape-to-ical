@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Street Photography
-DTSTART:20250911T140000Z
-DTEND:20250911T170000Z
-DESCRIPTION:Dive into street photography in a class open to all skill leve
- ls and learn from a seasoned pro. Explore iconic photographers while maste
- ring both historical context and practical street shooting techn\n\nhttps:
- //www.bklynlibrary.org/node/765357
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20250911T140000Z
 DTEND:20250911T210000Z
@@ -373,5 +363,15 @@ DTEND:20250916T210000Z
 DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
  6
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20250916T210000Z
+DTEND:20250916T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/759210
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
