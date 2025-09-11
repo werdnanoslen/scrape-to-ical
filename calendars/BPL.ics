@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20250911T140000Z
-DTEND:20250911T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7820
- 95
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Photoshop Essentials
 DTSTART:20250911T173000Z
 DTEND:20250911T203000Z
@@ -373,5 +364,15 @@ DESCRIPTION:Looking to share your current knitting project with others? Co
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
  s://www.bklynlibrary.org/node/759210
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POP CULTURE CLUB
+DTSTART:20250916T213000Z
+DTEND:20250916T223000Z
+DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
+  trending? Join our Pop Culture Club! We meet regularly to discuss the lat
+ est in entertainment\, share fan theories\, play trivia\, and dive into\n\
+ nhttps://www.bklynlibrary.org/node/778771
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
