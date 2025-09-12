@@ -31,16 +31,6 @@ DESCRIPTION:Join Brooklyn Public Library\, Public Health Solutions\, and B
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250912T150000Z
-DTEND:20250912T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/785526
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250912T160000Z
 DTEND:20250912T180000Z
@@ -355,6 +345,15 @@ DESCRIPTION:All beginners in Hebrew please join us to study\, speak and pr
  actice in a friendly environment\n\nhttps://www.bklynlibrary.org/node/7836
  07
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One-On-One Computer Help
+DTSTART:20250917T150000Z
+DTEND:20250917T160000Z
+DESCRIPTION:Need help with understanding the basics of using a computer? O
+ r maybe it’s just been a while and you’re looking to brush up on your 
+ computer skills.\n\nhttps://www.bklynlibrary.org/node/787829
+LOCATION:Pacific Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask a tech
