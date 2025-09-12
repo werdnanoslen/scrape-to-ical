@@ -31,24 +31,6 @@ DESCRIPTION:Join Brooklyn Public Library\, Public Health Solutions\, and B
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250912T170000Z
-DTEND:20250912T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 38
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20250912T180000Z
-DTEND:20250912T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763528
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Collage Party
 DTSTART:20250912T180000Z
 DTEND:20250912T200000Z
@@ -374,5 +356,23 @@ DESCRIPTION:Class will involve explaining and assisting with any technolog
  ical questions or problems you may have with your devices.\n\nhttps://www.
  bklynlibrary.org/node/782329
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20250917T170000Z
+DTEND:20250917T180000Z
+DESCRIPTION:Ask a range of tech questions about various tech devices\n\nht
+ tps://www.bklynlibrary.org/node/785229
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiet Reading Party
+DTSTART:20250917T173000Z
+DTEND:20250917T190000Z
+DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
+ \, art\, and more! Bring your own book to quietly read for 45 minutes\, an
+ d then have the option to engage in conversation with other book love\n\nh
+ ttps://www.bklynlibrary.org/node/779153
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
