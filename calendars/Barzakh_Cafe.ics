@@ -355,13 +355,13 @@ DESCRIPTION:https://www.viewcy.com/event/north_african_music_n_1\n<p><img
  -sentry-element="Image" data-sentry-source-file="index.tsx" decoding="asyn
  c" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url
  =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
- red_images%2F000%2F020%2F359%2Fcover%2FNorth_African_.jpg%3F1757627368&amp
+ red_images%2F000%2F020%2F359%2Fcover%2FNorth_African_.jpg%3F1757714201&amp
  \;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-p
  roduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F359%2
- Fcover%2FNorth_African_.jpg%3F1757627368&amp\;w=384&amp\;q=100 1x\, /_next
+ Fcover%2FNorth_African_.jpg%3F1757714201&amp\;w=384&amp\;q=100 1x\, /_next
  /image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcours
  es%2Ffeatured_images%2F000%2F020%2F359%2Fcover%2FNorth_African_.jpg%3F1757
- 627368&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/
+ 714201&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/
  ></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
@@ -384,6 +384,28 @@ DESCRIPTION:https://www.viewcy.com/event/sham_e_qawwali_3\n<p><img alt="Sh
  eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%
  2F203%2Fcover%2FSham_e_qawwali.jpg%3F1757016236&amp\;w=640&amp\;q=100 2x" 
  style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Generational [Dis]connect
+DTSTART:20251012T000000Z
+DTEND:20251012T020000Z
+DTSTAMP:20251012T000000Z
+UID:Generational [Dis]connect
+DESCRIPTION:https://www.viewcy.com/event/generational_discon\n<p><img alt=
+ "Generational [Dis]connect thumbnail" class="styles_coverImg__PsR9G" data-
+ nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Im
+ age" data-sentry-source-file="index.tsx" decoding="async" height="186" loa
+ ding="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fview
+ cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
+ 020%2F379%2Fcover%2FGrunge_Live_Music_Poster.jpg%3F1757714283&amp\;w=640&a
+ mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F379%2Fcover%2F
+ Grunge_Live_Music_Poster.jpg%3F1757714283&amp\;w=384&amp\;q=100 1x\, /_nex
+ t/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcour
+ ses%2Ffeatured_images%2F000%2F020%2F379%2Fcover%2FGrunge_Live_Music_Poster
+ .jpg%3F1757714283&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" w
+ idth="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
