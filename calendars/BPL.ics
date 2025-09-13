@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Life's a Stitch: G-REBELS Peoples' Power Network Skillshare
-DTSTART:20250913T193000Z
-DTEND:20250913T213000Z
-DESCRIPTION:Join G-REBELS for a beginners sewing class facilitated by comr
- ade Tricia. In this session we will learn how to set up a sewing machine\,
-  prep fabric\, and do basic mending such as patches and hemming. S\n\nhttp
- s://www.bklynlibrary.org/node/785673
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250915T140000Z
 DTEND:20250915T210000Z
@@ -371,5 +361,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
  63
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National External Diploma Program (NEDP) Info. Session
+DTSTART:20250918T103000Z
+DTEND:20250918T113000Z
+DESCRIPTION:Looking for a different way to earn your high school equivalen
+ cy diploma? The National External Diploma Program could be right for you! 
+ Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
+ ://www.bklynlibrary.org/node/783854
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
