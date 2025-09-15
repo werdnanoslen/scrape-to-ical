@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20250915T140000Z
-DTEND:20250915T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/772405
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Tech Help for Your Job Search
-DTSTART:20250915T190000Z
-DTEND:20250915T210000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783529
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20250915T190000Z
-DTEND:20250915T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /776040
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20250915T190000Z
-DTEND:20250915T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779568
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250915T203000Z
 DTEND:20250915T220000Z
@@ -123,6 +90,16 @@ DTEND:20250916T210000Z
 DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
  6
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pop-Up Sale: BPL x Moomin Merch
+DTSTART:20250916T200000Z
+DTEND:20250916T220000Z
+DESCRIPTION:Celebrate the 80th anniversary of Tove Jansson's Moominvalley 
+ stories with BPL's special collection of t-shirts\, tote bags and magnets 
+ featuring the beloved characters.\n\nhttps://www.bklynlibrary.org/node/788
+ 190
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
@@ -372,5 +349,30 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
  ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
  rary.org/node/777195
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250918T143000Z
+DTEND:20250918T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
+ 70
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crafting a Non Profit MarComms Plan
+DTSTART:20250918T160000Z
+DTEND:20250918T180000Z
+DESCRIPTION:How do you build a marketing plan that’s actually built to l
+ ast?\n\nhttps://www.bklynlibrary.org/node/782422
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photoshop Essentials
+DTSTART:20250918T173000Z
+DTEND:20250918T203000Z
+DESCRIPTION:Learn how to use Adobe Photoshop for photo enhancement\, typog
+ raphy\, and graphic design.\n\nhttps://www.bklynlibrary.org/node/765359
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
