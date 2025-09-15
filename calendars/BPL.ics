@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20250915T150000Z
-DTEND:20250915T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/783558
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250915T180000Z
 DTEND:20250915T200000Z
@@ -36,6 +28,14 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  p with your resume\, cover letter\, interview\, and job search questions. 
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774067
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Tech Help for Your Job Search
+DTSTART:20250915T190000Z
+DTEND:20250915T210000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783529
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
@@ -52,14 +52,6 @@ DTSTART:20250915T190000Z
 DTEND:20250915T210000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/779568
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Tech Help for Your Job Search
-DTSTART:20250915T190000Z
-DTEND:20250915T210000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783529
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -372,5 +364,14 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7820
  96
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250918T143000Z
+DTEND:20250918T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763486
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
