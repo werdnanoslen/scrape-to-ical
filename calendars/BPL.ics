@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Pop-Up Sale: BPL x Moomin Merch
-DTSTART:20250916T200000Z
-DTEND:20250916T220000Z
-DESCRIPTION:Celebrate the 80th anniversary of Tove Jansson's Moominvalley 
- stories with BPL's special collection of t-shirts\, tote bags and magnets 
- featuring the beloved characters.\n\nhttps://www.bklynlibrary.org/node/788
- 190
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
 DTSTART:20250916T210000Z
 DTEND:20250916T223000Z
@@ -50,6 +40,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tour of Tove Jansson & The Moomins and The Summer Book Screening
+DTSTART:20250916T220000Z
+DTEND:20250916T010000Z
+DESCRIPTION:Join us for a guided tour of our exhibition\, Tove Jansson and
+  the Moomins: The Door Is Always Open\, followed by a film screening of Th
+ e Summer Book.\n\nhttps://www.bklynlibrary.org/node/776664
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Adult Creative Writing Group
 DTSTART:20250916T220000Z
 DTEND:20250916T230000Z
@@ -58,15 +57,6 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
  nlibrary.org/node/786210
 LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tour of Tove Jansson & The Moomins and The Summer Book Screening
-DTSTART:20250916T220000Z
-DTEND:20250916T010000Z
-DESCRIPTION:Join us for a guided tour of our exhibition\, Tove Jansson and
-  the Moomins: The Door Is Always Open\, followed by a film screening of Th
- e Summer Book.\n\nhttps://www.bklynlibrary.org/node/776664
-LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adult Book Club: The Volcano Daughters by Gina María Balibrera
@@ -379,5 +369,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7635
  46
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250919T140000Z
+DTEND:20250919T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772407
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
