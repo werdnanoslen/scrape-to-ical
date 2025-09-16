@@ -20,34 +20,6 @@ DESCRIPTION:Brooklyn Public Library is partnering with the Brooklyn Alumna
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20250916T133000Z
-DTEND:20250916T163000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/774670
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Vet Center Tabling
-DTSTART:20250916T140000Z
-DTEND:20250916T180000Z
-DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
- dential and free help to Veterans\, service members\, and their families. 
- Staff from the Vet Center will assist with information on health a\n\nhttp
- s://www.bklynlibrary.org/node/782955
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:iPhone & Android Help
-DTSTART:20250916T170000Z
-DTEND:20250916T180000Z
-DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
- e figure out something? The objective of this class is to tend to patrons'
-  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
- ww.bklynlibrary.org/node/785228
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
@@ -376,5 +348,35 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/763506
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20250918T213000Z
+DTEND:20250918T223000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/776168
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20250918T213000Z
+DTEND:20250918T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/777349
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20250918T220000Z
+DTEND:20250918T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/780679
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
