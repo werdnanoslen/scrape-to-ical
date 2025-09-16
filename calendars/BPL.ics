@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: FOSSS Music Production Open Workshop: Beatmaking
-DTSTART:20250915T213000Z
-DTEND:20250915T233000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/780410
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Financia Mi Negocio (En Español)
-DTSTART:20250915T220000Z
-DTEND:20250915T000000Z
-DESCRIPTION:¡Únase a nosotros en nuestro Programa “Financia Mi Negocio
- ” de 3 sesiones! (Join us for our 3-session “Finance My Business” P
- rogram!)Este curso online gratuito tiene como propósito comprender cuales
-  s\n\nhttps://www.bklynlibrary.org/node/781956
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Register to Vote at Central Library
 DTSTART:20250916T130000Z
 DTEND:20250916T200000Z
@@ -377,5 +358,23 @@ DESCRIPTION:This drop-in lab is geared towards beginner computer users. Le
  ns. Computers will be provided and Canva provides cloud storage.\n\nhttps:
  //www.bklynlibrary.org/node/784895
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Cookbook Club: Fika/Kahvitauko
+DTSTART:20250918T190000Z
+DTEND:20250918T203000Z
+DESCRIPTION:Need an afternoon pick-me-up?  Come join the Central Cookbook
+  Club for a coffee break\, Moomin-style!  We'll have our usual cookbooks 
+ to browse through\, too.\n\nhttps://www.bklynlibrary.org/node/779487
+LOCATION:Central Library\, Reverend Elsie Smith Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20250918T213000Z
+DTEND:20250918T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763506
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
