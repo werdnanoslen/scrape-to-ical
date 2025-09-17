@@ -11,28 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Drawn to Music
-DTSTART:20250916T223000Z
-DTEND:20250917T003000Z
-DTSTAMP:20250916T223000Z
-UID:Drawn to Music
-DESCRIPTION:https://www.viewcy.com/event/drawn_to_music_2\n<p><img alt="Dr
- awn to Music thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
- sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
- ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
- c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
- uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F287%2Fco
- ver%2FWhatsApp_Image_2025-09-08_at_17.52.46_7da8867a.jpg%3F1757364620&amp\
- ;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-pr
- oduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F287%2F
- cover%2FWhatsApp_Image_2025-09-08_at_17.52.46_7da8867a.jpg%3F1757364620&am
- p\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
- uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F287%2Fco
- ver%2FWhatsApp_Image_2025-09-08_at_17.52.46_7da8867a.jpg%3F1757364620&amp\
- ;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Blowgun feat. Miriam Hacksaw
 DTSTART:20250918T230000Z
 DTEND:20250919T010000Z
