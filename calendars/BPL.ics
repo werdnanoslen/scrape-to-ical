@@ -11,35 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20250917T140000Z
-DTEND:20250917T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/772406
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/785527
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250917T200000Z
-DTEND:20250917T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763464
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250917T203000Z
 DTEND:20250917T214500Z
@@ -382,5 +353,33 @@ DTEND:20250922T190000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/783559
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga
+DTSTART:20250922T163000Z
+DTEND:20250922T173000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/781052
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20250922T170000Z
+DTEND:20250922T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/786970
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250922T180000Z
+DTEND:20250922T200000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774068
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
