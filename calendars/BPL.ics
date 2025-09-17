@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
-DTSTART:20250916T220000Z
-DTEND:20250916T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/781035
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tour of Tove Jansson & The Moomins and The Summer Book Screening
 DTSTART:20250916T220000Z
 DTEND:20250916T010000Z
@@ -27,16 +18,6 @@ DESCRIPTION:Join us for a guided tour of our exhibition\, Tove Jansson and
   the Moomins: The Door Is Always Open\, followed by a film screening of Th
  e Summer Book.\n\nhttps://www.bklynlibrary.org/node/776664
 LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Book Club: The Volcano Daughters by Gina María Balibrera
-DTSTART:20250916T223000Z
-DTEND:20250916T233000Z
-DESCRIPTION:Join Claire from Brooklyn Heights in our Craft Room for this c
- hat. We are discussing one of the three books from this year's BPL Book Pr
- ize fiction shortlist\, Gina María Balibrera's novel The Volcano\n\nhttps
- ://www.bklynlibrary.org/node/783913
-LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -376,5 +357,23 @@ DTEND:20250919T163000Z
 DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
  n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/787609
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250919T150000Z
+DTEND:20250919T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/785528
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clase de Computación
+DTSTART:20250919T150000Z
+DTEND:20250919T160000Z
+DESCRIPTION:Viernes de 11am-12pm\n\nhttps://www.bklynlibrary.org/node/7878
+ 33
+LOCATION:Pacific\, Basement Meeting Room
 END:VEVENT
 END:VCALENDAR
