@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250917T140000Z
-DTEND:20250917T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 30
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250917T140000Z
 DTEND:20250917T210000Z
@@ -28,31 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772406
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20250917T140000Z
-DTEND:20250917T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782589
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20250917T140000Z
-DTEND:20250917T153000Z
-DESCRIPTION:All beginners in Hebrew please join us to study\, speak and pr
- actice in a friendly environment\n\nhttps://www.bklynlibrary.org/node/7836
- 07
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One-On-One Computer Help
-DTSTART:20250917T150000Z
-DTEND:20250917T160000Z
-DESCRIPTION:Need help with understanding the basics of using a computer? O
- r maybe it’s just been a while and you’re looking to brush up on your 
- computer skills.\n\nhttps://www.bklynlibrary.org/node/787829
-LOCATION:Pacific Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask a tech
@@ -374,5 +340,44 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
  39
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20250919T180000Z
+DTEND:20250919T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/763529
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEW DAY (Fridays): Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20250919T200000Z
+DTEND:20250919T213000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up at the in\n\nht
+ tps://www.bklynlibrary.org/node/787760
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Meet the 2025 BPL Book Prize Finalists\, Mosab Abu Toha\, Gina Mar
+ ía Balibrera\, Alice Driver\, Alexis Pauline Gumbs\, Emet North\, Helen P
+ hillips
+DTSTART:20250919T230000Z
+DTEND:20250919T003000Z
+DESCRIPTION:Join us for our annual BPL Book Prize Shortlist Reading & Pane
+ l\, featuring the shortlisted authors for 2025 BPL Book Prize.\n\nhttps://
+ www.bklynlibrary.org/node/781283
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250920T143000Z
+DTEND:20250920T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7611
+ 95
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
