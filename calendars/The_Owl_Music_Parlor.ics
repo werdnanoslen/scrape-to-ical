@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:Kitba “Hold the Edges” Listening Party
-DTSTART;VALUE=DATE:20250916
-DTEND;VALUE=DATE:20250917
-UID:https://theowl.nyc/calendar?event_id=1660-2025-09-16
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1660\n<p><img class="alig
- nnone wp-image-2781" src="https://theowl.nyc/wp-content/uploads/kitba-1024
- x683.jpeg" alt="" width="519" height="346" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Luke Bergman solo • Jamie Saft Trio Sept 17
 DTSTART:20250917T233000Z
 DTEND:20250918T013000Z
@@ -125,7 +115,7 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1665\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rivulet • Eric Gabriel Sept 20
+SUMMARY:Rivulet • Eric Gabriel • Maya Keren Sept 20
 DTSTART:20250920T233000Z
 DTEND:20250921T013000Z
 DTSTAMP:20250920T233000Z
@@ -135,15 +125,24 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1701\n7:30 Doors\n8:00 Mu
  rc="https://theowl.nyc/wp-content/uploads/Claire-300x200.jpg" alt="" width
  ="309" height="206" /> <img class="alignnone wp-image-3003" src="https://t
  heowl.nyc/wp-content/uploads/Eric-Gabriel-300x200.jpg" alt="" width="298" 
- height="199" /></p>\n<p><strong>Rivulet</strong> are Claire Dickson (pictu
- red)\, Maya Keren\, Henry Fraser and Henry Mermer.</p>\n<p><strong>Eric Ga
- briel</strong> is an NYC born and raised songwriter\, pianist\, and produc
- er.<span class="gmail-Apple-converted-space">  </span>Once generously de
- scribed as somewhere between Bootsy and Willie\, Eric’s music is occasio
- nally groovy\, at times introspective\, and always pulling from a wide arr
- ay of folk\, soul\, and 70s rock as well as his experience playing with hi
- s band Melt for the past seven years.<span class="gmail-Apple-converted-sp
- ace">  </span></p>\n<p>&nbsp\;</p>
+ height="199" /> <img class="alignnone size-medium wp-image-2015" src="http
+ s://theowl.nyc/wp-content/uploads/Maya-Keren-204x300.png" alt="" width="20
+ 4" height="300" /></p>\n<p><strong>Rivulet</strong> are Claire Dickson (pi
+ ctured)\, Maya Keren\, Henry Fraser and Henry Mermer.</p>\n<p><strong>Eric
+  Gabriel</strong> is an NYC born and raised songwriter\, pianist\, and pro
+ ducer.<span class="gmail-Apple-converted-space">  </span>Once generously
+  described as somewhere between Bootsy and Willie\, Eric’s music is occa
+ sionally groovy\, at times introspective\, and always pulling from a wide 
+ array of folk\, soul\, and 70s rock as well as his experience playing with
+  his band Melt for the past seven years.<span class="gmail-Apple-converted
+ -space">  </span></p>\n<p><strong>Maya Keren</strong> is a Brooklyn-based
+  pianist\, vocalist\, composer and songwriter from Philadelphia. They have
+  studied at the Creative Music Program and Settlement Music School in Phil
+ ly\, the Banff International Workshop in Jazz and Creative Music\, and Mut
+ ual Mentorship for Musicians. Maya also has a degree in Music from Princet
+ on University. Currently\, Maya is writing songs\, loops and words for the
+ ir band Careful In The Sun\, drawing inspiration from Gwendolyn Brooks\, C
+ larice Lispector\, Pinegrove\, and the Wissahickon. </p>\n<p>&nbsp\;</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -836,7 +835,7 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1661\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nicomo • Dig Nitty • Jackie West   Nov 6
+SUMMARY:Nicomo • Anywhere (formerly Dig Nitty) • Jackie West   Nov 6
 DTSTART:20251107T003000Z
 DTEND:20251107T023000Z
 DTSTAMP:20251107T003000Z
@@ -857,11 +856,14 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1652\n7:30 Doors\n8:00 Mu
  d Future Records calls their first EP Views “An early-morning hangout al
  bum meets complex after-dark mood music.” Nicomo is working on an LP now
  \, exploring brighter colors and tighter turns\, coming end of 2025.</p>\n
- <div data-subtree="aimfl" data-processed="true" data-complete="true"><stro
- ng>Jackie West</strong> is an indie folk singer/songwriter and musician ba
- sed in New York. Her musical style has been described as introspective and
-  focused on finding freedom and insight through exploring inner landscapes
- . Their album “Close to the Mystery” is out now.</div>
+ <p><strong>Anywhere</strong> (formerly Dig Nitty) is the musical project o
+ f Erin McGrath with Nardo Ochoa\, Adam Brisbin\, Mikey Buishas\, and Maddy
+  Baltor\, clear melodies over murky water.</p>\n<div data-subtree="aimfl" 
+ data-processed="true" data-complete="true"><strong>Jackie West</strong> is
+  an indie folk singer/songwriter and musician based in New York. Her music
+ al style has been described as introspective and focused on finding freedo
+ m and insight through exploring inner landscapes. Their album “Close to 
+ the Mystery” is out now.</div>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -917,11 +919,17 @@ DTEND:20251114T023000Z
 DTSTAMP:20251114T003000Z
 UID:https://theowl.nyc/calendar?event_id=1711-2025-11-14 00:30:00+00:00
 DESCRIPTION:https://theowl.nyc/calendar?event_id=1711\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone wp-image-2900" s
- rc="https://theowl.nyc/wp-content/uploads/CE-at-Public-Records-300x225.jpg
- " alt="" width="360" height="270" /> <img class="alignnone size-medium wp-
- image-2842" src="https://theowl.nyc/wp-content/uploads/lambskiss-Debut-225
- x300.jpg" alt="" width="225" height="300" /></p>
+ sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
+ mage-3022" src="https://theowl.nyc/wp-content/uploads/Chase-New-Headshot-1
+ 99x300.jpg" alt="" width="199" height="300" /> <img class="alignnone size
+ -medium wp-image-2842" src="https://theowl.nyc/wp-content/uploads/lambskis
+ s-Debut-225x300.jpg" alt="" width="225" height="300" /></p>\n<p>&nbsp\;</p
+ >\n<p><strong>Lambskiss Debut</strong> is a songwriting trio comprised of 
+ Léna Bartels\, Logan Chung\, and Shaughna "Trash Girl" Jones. They are in
+ terested in folk histories of music\, what makes a song a classic\, etymol
+ ogy\, and drinking wine. Lambskiss Debut's live show features an acoustic 
+ guitar\, bass\, mellotron\, flute\, and three-part harmony\, and the band 
+ is currently based in Ridgewood\, Queens.</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -1011,7 +1019,11 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1710\n7:30 Doors\n8:00 Mu
  ship-coleman-300x281.png" alt="" width="300" height="281" /> <img class="a
  lignnone wp-image-3009" src="https://theowl.nyc/wp-content/uploads/Shazad_
  Film_Portraits-1.jpg-294x300.webp" alt="" width="257" height="262" /></p>\
- n<p>&nbsp\;</p>
+ n<p><strong>Katy the Kyng</strong> has written five hundred songs and play
+ ed with one hundred people. She lives in Flatbush and teaches songwriting 
+ at The New School in Greenwich Village. She is working on a triple folk al
+ bum and will be playing banjo\, guitar\, and synthesizers\, as well as sin
+ ging about fruit flies\, fossil fuel\, and f**king.</p>\n<p>&nbsp\;</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
@@ -1038,18 +1050,6 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1697\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Good Intentions • TBA Nov 23
-DTSTART:20251124T003000Z
-DTEND:20251124T023000Z
-DTSTAMP:20251124T003000Z
-UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
- sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
- "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
- ="344" height="258" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Owl Presents: Elysian Fields at LPR!  Nov 23
 DTSTART:20251124T000000Z
 DTEND:20251124T020000Z
@@ -1063,6 +1063,18 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1659\n7:00 pm\n<p><strong
  loads/Screenshot-2025-07-15-at-12.38.35-AM-1024x655.png" alt="" width="669
  " height="428" /></p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>
  &nbsp\;</p>\n<p>&nbsp\;</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Intentions • TBA Nov 23
+DTSTART:20251124T003000Z
+DTEND:20251124T023000Z
+DTSTAMP:20251124T003000Z
+UID:https://theowl.nyc/calendar?event_id=1688-2025-11-24 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1688\n7:30 Doors\n8:00 Mu
+ sic \n$15 suggested donation\n<p><img class="alignnone wp-image-1531" src=
+ "https://theowl.nyc/wp-content/uploads/IMG_9868-300x225.jpeg" alt="" width
+ ="344" height="258" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
