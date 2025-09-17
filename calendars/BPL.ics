@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quiet Reading Party
-DTSTART:20250917T173000Z
-DTEND:20250917T190000Z
-DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
- \, art\, and more! Bring your own book to quietly read for 45 minutes\, an
- d then have the option to engage in conversation with other book love\n\nh
- ttps://www.bklynlibrary.org/node/779153
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20250917T180000Z
 DTEND:20250917T200000Z
@@ -382,5 +372,15 @@ DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
  ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
  ps://www.bklynlibrary.org/node/768580
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250922T140000Z
+DTEND:20250922T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772408
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
