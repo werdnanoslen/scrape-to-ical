@@ -39,16 +39,6 @@ DESCRIPTION:Join New York Connects every month as we connect the community
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Canva and Social Media
-DTSTART:20250918T180000Z
-DTEND:20250918T193000Z
-DESCRIPTION:This drop-in lab is geared towards beginner computer users. Le
- arn how to use Canva to create and design a social media posts and campaig
- ns. Computers will be provided and Canva provides cloud storage.\n\nhttps:
- //www.bklynlibrary.org/node/784895
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Central Cookbook Club: Fika/Kahvitauko
 DTSTART:20250918T190000Z
 DTEND:20250918T203000Z
@@ -380,5 +370,13 @@ DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
  ecial session of our popular Joint Ventures educational series wh\n\nhttps
  ://www.bklynlibrary.org/node/779387
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20250923T190000Z
+DTEND:20250923T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
+ 7
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
