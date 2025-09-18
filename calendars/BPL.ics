@@ -30,24 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20250918T143000Z
-DTEND:20250918T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/777195
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250918T143000Z
-DTEND:20250918T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
- 70
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Crafting a Non Profit MarComms Plan
 DTSTART:20250918T160000Z
 DTEND:20250918T180000Z
@@ -376,5 +358,23 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7638
  29
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class
+DTSTART:20250922T210000Z
+DTEND:20250922T214500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780017
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Financia Mi Negocio (En Español)
+DTSTART:20250922T220000Z
+DTEND:20250922T000000Z
+DESCRIPTION:¡Únase a nosotros en nuestro Programa “Financia Mi Negocio
+ ” de 3 sesiones! (Join us for our 3-session “Finance My Business” P
+ rogram!)Este curso online gratuito tiene como propósito comprender cuales
+  s\n\nhttps://www.bklynlibrary.org/node/781957
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
