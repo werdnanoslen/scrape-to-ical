@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20250918T140000Z
-DTEND:20250918T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7820
- 96
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Photoshop Essentials
 DTSTART:20250918T173000Z
 DTEND:20250918T203000Z
@@ -378,5 +369,16 @@ DESCRIPTION:Build hand-eye coordination\, develop better observation skill
   relax and recharge while improving your artistic skills. We'll fo\n\nhttp
  s://www.bklynlibrary.org/node/775182
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
+ siness Solutions Center
+DTSTART:20250923T170000Z
+DTEND:20250923T200000Z
+DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
+ ? Join the Brooklyn Business Solutions Center for "The Flower Hour\," a sp
+ ecial session of our popular Joint Ventures educational series wh\n\nhttps
+ ://www.bklynlibrary.org/node/779387
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
