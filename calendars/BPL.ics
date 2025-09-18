@@ -30,14 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crafting a Non Profit MarComms Plan
-DTSTART:20250918T160000Z
-DTEND:20250918T180000Z
-DESCRIPTION:How do you build a marketing plan that’s actually built to l
- ast?\n\nhttps://www.bklynlibrary.org/node/782422
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Photoshop Essentials
 DTSTART:20250918T173000Z
 DTEND:20250918T203000Z
@@ -376,5 +368,15 @@ DESCRIPTION:¡Únase a nosotros en nuestro Programa “Financia Mi Negocio
  rogram!)Este curso online gratuito tiene como propósito comprender cuales
   s\n\nhttps://www.bklynlibrary.org/node/781957
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life Drawing
+DTSTART:20250922T220000Z
+DTEND:20250922T233000Z
+DESCRIPTION:Build hand-eye coordination\, develop better observation skill
+ s\, and get into a relaxing zone through drawing. This class will help you
+  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
+ s://www.bklynlibrary.org/node/775182
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
