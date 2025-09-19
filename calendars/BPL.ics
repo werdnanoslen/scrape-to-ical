@@ -31,24 +31,6 @@ DESCRIPTION:Need help with food\, housing or getting around. ACCESS NYC of
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250919T170000Z
-DTEND:20250919T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
- 39
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20250919T180000Z
-DTEND:20250919T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763529
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NEW DAY (Fridays): Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20250919T200000Z
 DTEND:20250919T213000Z
@@ -378,5 +360,24 @@ DTEND:20250924T200000Z
 DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
  ://www.bklynlibrary.org/node/767654
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250924T190000Z
+DTEND:20250924T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774134
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group Cancelled
+DTSTART:20250924T200000Z
+DTEND:20250924T210000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763465
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
