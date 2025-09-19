@@ -31,14 +31,6 @@ DESCRIPTION:Need help with food\, housing or getting around. ACCESS NYC of
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250919T160000Z
-DTEND:20250919T180000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783531
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250919T170000Z
 DTEND:20250919T190000Z
@@ -378,5 +370,13 @@ DTEND:20250924T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783533
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Republic\, Book 8
+DTSTART:20250924T183000Z
+DTEND:20250924T200000Z
+DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
+ ://www.bklynlibrary.org/node/767654
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
