@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HRA Resources
-DTSTART:20250919T140000Z
-DTEND:20250919T200000Z
-DESCRIPTION:Need help with food\, housing or getting around. ACCESS NYC of
- fers a screening tool that recommends public benefits programs for you to 
- consider based upon information you provide about your household.\n\nhttps
- ://www.bklynlibrary.org/node/786963
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NEW DAY (Fridays): Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20250919T200000Z
 DTEND:20250919T213000Z
@@ -166,7 +156,7 @@ DTSTART:20250922T190000Z
 DTEND:20250922T210000Z
 DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
  /776041
-LOCATION:Central Library\, Business & Career Center\, Classroom
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -379,5 +369,14 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/763465
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group
+DTSTART:20250924T203000Z
+DTEND:20250924T214500Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 50
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
