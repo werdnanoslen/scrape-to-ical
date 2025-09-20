@@ -11,17 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Meet the 2025 BPL Book Prize Finalists\, Mosab Abu Toha\, Gina Mar
- ía Balibrera\, Alice Driver\, Alexis Pauline Gumbs\, Emet North\, Helen P
- hillips
-DTSTART:20250919T230000Z
-DTEND:20250919T003000Z
-DESCRIPTION:Join us for our annual BPL Book Prize Shortlist Reading & Pane
- l\, featuring the shortlisted authors for 2025 BPL Book Prize.\n\nhttps://
- www.bklynlibrary.org/node/781283
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250920T143000Z
 DTEND:20250920T160000Z
@@ -375,5 +364,15 @@ DTEND:20250924T000000Z
 DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
  library.org/node/787727
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20250925T140000Z
+DTEND:20250925T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/767031
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
