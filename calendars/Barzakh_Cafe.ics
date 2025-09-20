@@ -11,29 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Cuban Night with Eudy Fernandez
-DTSTART:20250920T000000Z
-DTEND:20250920T020000Z
-DTSTAMP:20250920T000000Z
-UID:Cuban Night with Eudy Fernandez
-DESCRIPTION:https://www.viewcy.com/event/cuban_night_with_eudy\n<p><img al
- t="Cuban Night with Eudy Fernandez thumbnail" class="styles_coverImg__PsR9
- G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-ele
- ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
- 186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
- F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
- 2F000%2F019%2F842%2Fcover%2FGreen_Minimalist_Dynamic_Live_Music_Event_Inst
- agram_Post.jpg%3F1755638754&amp\;w=640&amp\;q=100" srcset="/_next/image?ur
- l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
- ured_images%2F000%2F019%2F842%2Fcover%2FGreen_Minimalist_Dynamic_Live_Musi
- c_Event_Instagram_Post.jpg%3F1755638754&amp\;w=384&amp\;q=100 1x\, /_next/
- image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourse
- s%2Ffeatured_images%2F000%2F019%2F842%2Fcover%2FGreen_Minimalist_Dynamic_L
- ive_Music_Event_Instagram_Post.jpg%3F1755638754&amp\;w=640&amp\;q=100 2x" 
- style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Handpan First Touch Workshop
 DTSTART:20250920T200000Z
 DTEND:20250920T220000Z
