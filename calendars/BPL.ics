@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20250922T150000Z
-DTEND:20250922T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/783559
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250922T180000Z
 DTEND:20250922T200000Z
@@ -37,6 +29,14 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774068
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20250922T190000Z
+DTEND:20250922T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /776041
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free English Class
@@ -52,14 +52,6 @@ DTEND:20250922T210000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783532
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20250922T190000Z
-DTEND:20250922T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /776041
-LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -373,6 +365,16 @@ DESCRIPTION:Step into a world of green imagination in this playful\, AI-ge
  nerated workshop\, where participants explore identity through the lens of
   botany. What qualities\, shapes\, or environments would you embody\n\nhtt
  ps://www.bklynlibrary.org/node/787386
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air:  Feng Shui and the Natural World
+DTSTART:20250925T153000Z
+DTEND:20250925T163000Z
+DESCRIPTION:We all know that Feng Shui arrangement is important to our hom
+ es but did you know plants can be integrated into our Feng Shui? We will e
+ xplore the green world of the park and consider some important w\n\nhttps:
+ //www.bklynlibrary.org/node/784956
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
