@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250922T180000Z
-DTEND:20250922T200000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774068
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20250922T190000Z
 DTEND:20250922T210000Z
@@ -375,6 +365,17 @@ DESCRIPTION:We all know that Feng Shui arrangement is important to our hom
  es but did you know plants can be integrated into our Feng Shui? We will e
  xplore the green world of the park and consider some important w\n\nhttps:
  //www.bklynlibrary.org/node/784956
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air:  Tibetan Meditation Practice: Shamatha Medita
+ tion Practice for Beginners and Advanced Practitioners
+DTSTART:20250925T160000Z
+DTEND:20250925T180000Z
+DESCRIPTION:What is meditation/mindfulness? Why should we practice meditat
+ ion? How should we practice it in dour daily lives? In this session\, Dr. 
+ Chok will teach different types of meditation\, with a focus on sh\n\nhttp
+ s://www.bklynlibrary.org/node/786957
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
