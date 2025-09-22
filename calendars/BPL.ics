@@ -29,24 +29,6 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chair Yoga
-DTSTART:20250922T163000Z
-DTEND:20250922T173000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/781052
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250922T170000Z
-DTEND:20250922T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/786970
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250922T180000Z
 DTEND:20250922T200000Z
@@ -373,5 +355,24 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
  71
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Technical Drawing Exercises for Beginners
+DTSTART:20250925T150000Z
+DTEND:20250925T170000Z
+DESCRIPTION:In this course\, students will gain hands-on experience in tec
+ hnical drawing through learning the art of manual drawing and drafting te
+ chniques.\n\nhttps://www.bklynlibrary.org/node/786695
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air:  AI × Nature: Discover Your Inner Plant
+DTSTART:20250925T150000Z
+DTEND:20250925T163000Z
+DESCRIPTION:Step into a world of green imagination in this playful\, AI-ge
+ nerated workshop\, where participants explore identity through the lens of
+  botany. What qualities\, shapes\, or environments would you embody\n\nhtt
+ ps://www.bklynlibrary.org/node/787386
+LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
