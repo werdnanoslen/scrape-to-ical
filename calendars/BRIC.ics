@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20250922T180000Z
-DTEND:20250922T210000Z
-DTSTAMP:20250922T180000Z
-UID:Video Production in the Field-2025-09-22T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20250922T220000Z
-DTEND:20250923T010000Z
-DTSTAMP:20250922T220000Z
-UID:Video Production in the Field-2025-09-22T22:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intro to Radio Podcasting
-DTSTART:20250922T220000Z
-DTEND:20250923T010000Z
-DTSTAMP:20250922T220000Z
-UID:Intro to Radio Podcasting-2025-09-22T22:00:00+00:00
-DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
- asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:TV Studio Intensive
 DTSTART:20250923T220000Z
 DTEND:20250924T010000Z
@@ -1027,6 +997,36 @@ DTSTAMP:20251106T190000Z
 UID:Mini Studio Production-2025-11-06T19:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
  ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20251107T190000Z
+DTEND:20251107T220000Z
+DTSTAMP:20251107T190000Z
+UID:Mini Studio Production-2025-11-07T19:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D Modeling with Blender
+DTSTART:20251107T230000Z
+DTEND:20251108T020000Z
+DTSTAMP:20251107T230000Z
+UID:3D Modeling with Blender-2025-11-07T23:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/3d-modeling-with-bl
+ ender/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20251108T190000Z
+DTEND:20251108T220000Z
+DTSTAMP:20251108T190000Z
+UID:TV Studio Intensive-2025-11-08T19:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
