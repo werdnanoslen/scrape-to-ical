@@ -11,17 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
- siness Solutions Center
-DTSTART:20250923T170000Z
-DTEND:20250923T200000Z
-DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
- ? Join the Brooklyn Business Solutions Center for "The Flower Hour\," a sp
- ecial session of our popular Joint Ventures educational series wh\n\nhttps
- ://www.bklynlibrary.org/node/779387
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20250923T190000Z
 DTEND:20250923T210000Z
@@ -383,5 +372,15 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
  \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
  lynlibrary.org/node/776169
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20250925T213000Z
+DTEND:20250925T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/777350
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
