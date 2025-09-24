@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20250924T140000Z
-DTEND:20250924T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
- 31
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250924T140000Z
 DTEND:20250924T210000Z
@@ -28,22 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/772409
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20250924T140000Z
-DTEND:20250924T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782590
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One-On-One Computer Help
-DTSTART:20250924T150000Z
-DTEND:20250924T160000Z
-DESCRIPTION:Need help with understanding the basics of using a computer? O
- r maybe it’s just been a while and you’re looking to brush up on your 
- computer skills.\n\nhttps://www.bklynlibrary.org/node/787830
-LOCATION:Pacific Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech
@@ -379,5 +354,33 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7614
  40
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20250926T180000Z
+DTEND:20250926T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/763530
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20250926T180000Z
+DTEND:20250926T190000Z
+DESCRIPTION:Please join us for a discussion of "The Lady with the Dog" by 
+ Anton Chekhov\, on Friday\, September 26\, 2025\, at 2-3 p.m.\, in B&CC Ev
+ ent Room.\n\nhttps://www.bklynlibrary.org/node/788462
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NEW DAY (Fridays): Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20250926T200000Z
+DTEND:20250926T213000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up at the in\n\nht
+ tps://www.bklynlibrary.org/node/787761
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 END:VCALENDAR
