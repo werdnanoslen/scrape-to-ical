@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20250924T153000Z
-DTEND:20250924T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/781492
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Emergency Preparedness Training
 DTSTART:20250924T163000Z
 DTEND:20250924T173000Z
@@ -382,5 +373,16 @@ DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
  n-one on a first come\, first served basis. Please sign up at the in\n\nht
  tps://www.bklynlibrary.org/node/787761
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Save the season: about food preservation and 
+ terroir
+DTSTART:20250927T140000Z
+DTEND:20250927T160000Z
+DESCRIPTION:Uncover the potential of food preservation and the use of loca
+ l produce in reducing food waste. We will explore how combining seasonal a
+ nd local eating with preservation techniques can effectively min\n\nhttps:
+ //www.bklynlibrary.org/node/784917
+LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
