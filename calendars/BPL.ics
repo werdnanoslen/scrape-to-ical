@@ -11,35 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20250924T140000Z
-DTEND:20250924T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/772409
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20250924T190000Z
-DTEND:20250924T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774134
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group Cancelled
-DTSTART:20250924T200000Z
-DTEND:20250924T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763465
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20250924T203000Z
 DTEND:20250924T214500Z
@@ -390,5 +361,35 @@ DESCRIPTION:Before memory\, before words\, the birds were our first teache
   interpret the poetry of bird flight—the arc of a hawk\, the murmur\n\nh
  ttps://www.bklynlibrary.org/node/784921
 LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Seasonal Flower Pounding
+DTSTART:20250927T153000Z
+DTEND:20250927T180000Z
+DESCRIPTION:In this 2.5-hour workshop\, we will explore natural printmakin
+ g as a way of documenting time and place. Using fresh flowers and leaves g
+ athered from Prospect Park\, we will learn techniques for transfer\n\nhttp
+ s://www.bklynlibrary.org/node/784924
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air:  The Five Movement Yogas for Balancing the Fi
+ ve Elements
+DTSTART:20250927T160000Z
+DTEND:20250927T173000Z
+DESCRIPTION:The Five Movements are standing yogas which release blockages 
+ in our subtle channels\, creating openness. These movements are incredibly
+  beneficial for overall balance and wellbeing. Physical movement\,\n\nhttp
+ s://www.bklynlibrary.org/node/786961
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Guided Music Production Session: Advanced
+DTSTART:20250927T170000Z
+DTEND:20250927T190000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/782313
+LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 END:VCALENDAR
