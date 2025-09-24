@@ -21,22 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20250924T180000Z
-DTEND:20250924T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783533
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philosophy Discussion Group: Plato's Republic\, Book 8
-DTSTART:20250924T183000Z
-DTEND:20250924T200000Z
-DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
- ://www.bklynlibrary.org/node/767654
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
@@ -387,5 +371,24 @@ DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
   hear what other people are reading. It's like a book club\, excep\n\nhttp
  s://www.bklynlibrary.org/node/778707
 LOCATION:Brooklyn Heights Library\, Orange Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250927T143000Z
+DTEND:20250927T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 76
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Reading the Flight of Birds
+DTSTART:20250927T150000Z
+DTEND:20250927T161500Z
+DESCRIPTION:Before memory\, before words\, the birds were our first teache
+ rs\, their wings tracing lessons across the sky. This class invites you to
+  interpret the poetry of bird flight—the arc of a hawk\, the murmur\n\nh
+ ttps://www.bklynlibrary.org/node/784921
+LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
