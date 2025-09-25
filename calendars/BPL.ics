@@ -11,23 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250924T220000Z
-DTEND:20250924T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 04
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NYS MWBE Program & Certification Workshop
-DTSTART:20250924T220000Z
-DTEND:20250924T000000Z
-DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
- library.org/node/787727
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20250925T140000Z
 DTEND:20250925T210000Z
@@ -392,5 +375,26 @@ DESCRIPTION:This month\, we'll be taking a look at ways you can protect yo
  ess Foundation\, we'll be discussing topics such as how CBP decide\n\nhttp
  s://www.bklynlibrary.org/node/787962
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Jewels of Prose - A Celebration of the Work of Tove Jansson
+DTSTART:20250927T180000Z
+DTEND:20250927T191500Z
+DESCRIPTION:Join us to celebrate the final weekend of Tove Jansson & The M
+ oomins: The Door is Always Open with a panel discussion including prominen
+ t Tove Jansson experts and admirers. Panelists Dasha Tolstikova\,\n\nhttps
+ ://www.bklynlibrary.org/node/788167
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Cybersecurity: Identifying and Preventing Cyb
+ er Attacks
+DTSTART:20250928T140000Z
+DTEND:20250928T150000Z
+DESCRIPTION:If you ever came across a spammed website or email\, would you
+  recognize it? What common features exist in cybercrimes? What techniques 
+ do attackers use?  This lesson discusses the techniques used intr\n\nhttp
+ s://www.bklynlibrary.org/node/786714
+LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
