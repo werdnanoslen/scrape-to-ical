@@ -61,16 +61,6 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/television-studio-b
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lightroom Essentials
-DTSTART:20250927T180000Z
-DTEND:20250927T200000Z
-DTSTAMP:20250927T180000Z
-UID:Lightroom Essentials-2025-09-27T18:00:00+00:00
-DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
- s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
 DTSTART:20250927T150000Z
 DTEND:20250927T170000Z
@@ -82,6 +72,16 @@ DESCRIPTION:https://bricartsmedia.org/event/liberty-farms-and-bric-present
  ttps://bricartsmedia.org/wp-content/uploads/2025/06/CSA-FLYER-1-200x200.jp
  g" alt="" />
 LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightroom Essentials
+DTSTART:20250927T180000Z
+DTEND:20250927T200000Z
+DTSTAMP:20250927T180000Z
+UID:Lightroom Essentials-2025-09-27T18:00:00+00:00
+DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
+ s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to DaVinci Resolve
@@ -154,16 +154,6 @@ DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lightroom Essentials
-DTSTART:20251004T180000Z
-DTEND:20251004T200000Z
-DTSTAMP:20251004T180000Z
-UID:Lightroom Essentials-2025-10-04T18:00:00+00:00
-DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
- s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
 DTSTART:20251004T150000Z
 DTEND:20251004T170000Z
@@ -188,6 +178,16 @@ DESCRIPTION:Cost: $15 onwards\nhttps://bricartsmedia.org/event/bric-house-
  R8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org/wp-content/uploads/2025
  /08/IMG_1648-200x200.jpg" alt="" />
 LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightroom Essentials
+DTSTART:20251004T180000Z
+DTEND:20251004T200000Z
+DTSTAMP:20251004T180000Z
+UID:Lightroom Essentials-2025-10-04T18:00:00+00:00
+DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
+ s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Cramer Quartet and BRIC Present Haydn: Dialogues x Juri Seo
