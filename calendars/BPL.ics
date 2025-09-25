@@ -21,16 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brooklyn Workforce Innovations (BWI) Tabling
-DTSTART:20250925T170000Z
-DTEND:20250925T200000Z
-DESCRIPTION:Want to train for a new career? BWI offers eight free career t
- raining programs in exciting industries. Program graduates receive job pla
- cement support for up to two years after graduation. Stop by the\n\nhttps:
- //www.bklynlibrary.org/node/789221
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Photoshop Essentials
 DTSTART:20250925T173000Z
 DTEND:20250925T203000Z
@@ -395,5 +385,15 @@ DTEND:20250929T173000Z
 DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
  bklynlibrary.org/node/781053
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20250929T170000Z
+DTEND:20250929T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/786971
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
