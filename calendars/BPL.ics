@@ -30,37 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University Open Air:  Tibetan Meditation Practice: Shamatha Medita
- tion Practice for Beginners and Advanced Practitioners
-DTSTART:20250925T160000Z
-DTEND:20250925T180000Z
-DESCRIPTION:What is meditation/mindfulness? Why should we practice meditat
- ion? How should we practice it in dour daily lives? In this session\, Dr. 
- Chok will teach different types of meditation\, with a focus on sh\n\nhttp
- s://www.bklynlibrary.org/node/786957
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  Folk and Social Dances of the World
-DTSTART:20250925T160000Z
-DTEND:20250925T173000Z
-DESCRIPTION:Celebrate cultures\, connect with others\, and move your body 
- in this lively outdoor dance class with teaching artist Irene Koloseus. Pa
- rticipants will explore a variety of folk and social dances\, inclu\n\nhtt
- ps://www.bklynlibrary.org/node/787160
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  Flower Arrangement
-DTSTART:20250925T170000Z
-DTEND:20250925T180000Z
-DESCRIPTION:Flowers make us feel good and happy: they are not just beautif
- ul\, they also carry a natural power of Qi. Flower Arrangement is a good w
- ay to enhance positive Qi in our home. We will talk about the mea\n\nhttps
- ://www.bklynlibrary.org/node/784957
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brooklyn Workforce Innovations (BWI) Tabling
 DTSTART:20250925T170000Z
 DTEND:20250925T200000Z
@@ -402,5 +371,30 @@ DESCRIPTION:We live in a complicated world: work\, daily tasks\, family an
  ence\, keeping a stable center remains elusive. From my experience\n\nhttp
  s://www.bklynlibrary.org/node/785011
 LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20250929T140000Z
+DTEND:20250929T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/772411
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20250929T150000Z
+DTEND:20250929T190000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/783560
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20250929T150000Z
+DTEND:20250929T170000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/786415
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
