@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20250925T140000Z
-DTEND:20250925T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/767031
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Photoshop Essentials
-DTSTART:20250925T173000Z
-DTEND:20250925T203000Z
-DESCRIPTION:Learn how to use Adobe Photoshop for photo enhancement\, typog
- raphy\, and graphic design.\n\nhttps://www.bklynlibrary.org/node/765360
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20250925T200000Z
 DTEND:20250925T213000Z
@@ -36,16 +18,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7613
  94
 LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aging Well: Nutrition\, Movement & Connection
-DTSTART:20250925T200000Z
-DTEND:20250925T210000Z
-DESCRIPTION:Join NYU Langone Family Health Center for a community workshop
-  on healthy aging\, where we’ll explore key factors that support longevi
- ty and well-being—such as nutrition\, physical activity\, and social\n\n
- https://www.bklynlibrary.org/node/782904
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
@@ -395,5 +367,31 @@ DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
  e class will begin with stretch and breathing exercises. Workouts\n\nhttps
  ://www.bklynlibrary.org/node/786971
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20250929T180000Z
+DTEND:20250929T200000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774069
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20250929T190000Z
+DTEND:20250929T210000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783535
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20250929T190000Z
+DTEND:20250929T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /776042
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
