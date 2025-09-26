@@ -140,9 +140,9 @@ LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Generational [Dis]connect
-DTSTART:20251012T000000Z
-DTEND:20251012T020000Z
-DTSTAMP:20251012T000000Z
+DTSTART:20251011T230000Z
+DTEND:20251012T010000Z
+DTSTAMP:20251011T230000Z
 UID:Generational [Dis]connect
 DESCRIPTION:https://www.viewcy.com/event/generational_discon\n<p><img alt=
  "Generational [Dis]connect thumbnail" class="styles_coverImg__PsR9G" data-
@@ -150,14 +150,14 @@ DESCRIPTION:https://www.viewcy.com/event/generational_discon\n<p><img alt=
  age" data-sentry-source-file="index.tsx" decoding="async" height="186" loa
  ding="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fview
  cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
- 020%2F379%2Fcover%2FGrunge_Live_Music_Poster.jpg%3F1757714283&amp\;w=640&a
- mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
- .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F379%2Fcover%2F
- Grunge_Live_Music_Poster.jpg%3F1757714283&amp\;w=384&amp\;q=100 1x\, /_nex
- t/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcour
- ses%2Ffeatured_images%2F000%2F020%2F379%2Fcover%2FGrunge_Live_Music_Poster
- .jpg%3F1757714283&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" w
- idth="308"/></p>
+ 020%2F379%2Fcover%2FGenerational_disconnect.jpg%3F1758910592&amp\;w=640&am
+ p\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.
+ s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F379%2Fcover%2FG
+ enerational_disconnect.jpg%3F1758910592&amp\;w=384&amp\;q=100 1x\, /_next/
+ image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourse
+ s%2Ffeatured_images%2F000%2F020%2F379%2Fcover%2FGenerational_disconnect.jp
+ g%3F1758910592&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" widt
+ h="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
