@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250926T140000Z
-DTEND:20250926T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 37
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movie: The Alto Knights (2025)
 DTSTART:20250926T143000Z
 DTEND:20250926T163000Z
@@ -390,5 +381,13 @@ DESCRIPTION:In this class you'll learn how to navigate and use library res
  ources such as Libby to download E books & Audio-books to your tablet\, iP
  ad or phone.\n\nhttps://www.bklynlibrary.org/node/785323
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20250930T190000Z
+DTEND:20250930T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/77544
+ 8
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
