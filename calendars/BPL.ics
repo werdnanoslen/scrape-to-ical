@@ -11,47 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air: Save the season: about food preservation and 
- terroir
-DTSTART:20250927T140000Z
-DTEND:20250927T160000Z
-DESCRIPTION:Uncover the potential of food preservation and the use of loca
- l produce in reducing food waste. We will explore how combining seasonal a
- nd local eating with preservation techniques can effectively min\n\nhttps:
- //www.bklynlibrary.org/node/784917
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  Purifying Negative Energies: Boosting our Im
- mune System and Spiritual Healing
-DTSTART:20250927T140000Z
-DTEND:20250927T153000Z
-DESCRIPTION:Right breathing purifies the stale energy in the body\, cleans
-  all three energetic channels\, helps energy to flow without blockages\, r
- educes negative emotions\, tranquilizes your mind\, and boosts your i\n\nh
- ttps://www.bklynlibrary.org/node/786960
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Chat
-DTSTART:20250927T143000Z
-DTEND:20250927T160000Z
-DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
-  book you've read recently that you'd like to tell other folks about\, and
-  hear what other people are reading. It's like a book club\, excep\n\nhttp
- s://www.bklynlibrary.org/node/778707
-LOCATION:Brooklyn Heights Library\, Orange Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250927T143000Z
-DTEND:20250927T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 76
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: Reading the Flight of Birds
 DTSTART:20250927T150000Z
 DTEND:20250927T161500Z
@@ -386,5 +345,43 @@ DTEND:20251001T153000Z
 DESCRIPTION:All beginners in Hebrew join us to study and practice in an in
  formal atmosphere\n\nhttps://www.bklynlibrary.org/node/789933
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honor Your Body: Chair Yoga for Healing and Energy
+DTSTART:20251001T150000Z
+DTEND:20251001T160000Z
+DESCRIPTION:Join Rooted in Radiance and honor your body with this gentle\,
+  restorative Chair Yoga series designed to reconnect you with your breath 
+ and physical being. Through mindful\, seated movements\, we’ll expl\n\nh
+ ttps://www.bklynlibrary.org/node/782899
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One-On-One Computer Help
+DTSTART:20251001T150000Z
+DTEND:20251001T160000Z
+DESCRIPTION:Need help with understanding the basics of using a computer? O
+ r maybe it’s just been a while and you’re looking to brush up on your 
+ computer skills.\n\nhttps://www.bklynlibrary.org/node/787831
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251001T153000Z
+DTEND:20251001T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/781493
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Defense Basics with Gabriella
+DTSTART:20251001T160000Z
+DTEND:20251001T173000Z
+DESCRIPTION:Self-Defense Basics explores what we can do before\, during\, 
+ and after unsafe situations. In this program\, we will explore how we can 
+ communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
+ https://www.bklynlibrary.org/node/785674
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
