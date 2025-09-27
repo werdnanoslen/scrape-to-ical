@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air: Seasonal Flower Pounding
-DTSTART:20250927T153000Z
-DTEND:20250927T180000Z
-DESCRIPTION:In this 2.5-hour workshop\, we will explore natural printmakin
- g as a way of documenting time and place. Using fresh flowers and leaves g
- athered from Prospect Park\, we will learn techniques for transfer\n\nhttp
- s://www.bklynlibrary.org/node/784924
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  The Five Movement Yogas for Balancing the Fi
- ve Elements
-DTSTART:20250927T160000Z
-DTEND:20250927T173000Z
-DESCRIPTION:The Five Movements are standing yogas which release blockages 
- in our subtle channels\, creating openness. These movements are incredibly
-  beneficial for overall balance and wellbeing. Physical movement\,\n\nhttp
- s://www.bklynlibrary.org/node/786961
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOSSS Guided Music Production Session: Advanced
 DTSTART:20250927T170000Z
 DTEND:20250927T190000Z
@@ -383,5 +362,22 @@ DESCRIPTION:Fold squares of translucent colored kite paper to create an ei
  aper folds create a kaleidoscope effect when it is placed in a s\n\nhttps:
  //www.bklynlibrary.org/node/782181
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251001T180000Z
+DTEND:20251001T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783536
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senator Gounardes Office Hours
+DTSTART:20251001T180000Z
+DTEND:20251001T210000Z
+DESCRIPTION:Meet Senator Gournardes' office representatives to talk about 
+ the issues and receive in person assistance accessing state social service
+ s.\n\nhttps://www.bklynlibrary.org/node/787002
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 END:VCALENDAR
