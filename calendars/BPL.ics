@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air: Reading the Flight of Birds
-DTSTART:20250927T150000Z
-DTEND:20250927T161500Z
-DESCRIPTION:Before memory\, before words\, the birds were our first teache
- rs\, their wings tracing lessons across the sky. This class invites you to
-  interpret the poetry of bird flight—the arc of a hawk\, the murmur\n\nh
- ttps://www.bklynlibrary.org/node/784921
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: Seasonal Flower Pounding
 DTSTART:20250927T153000Z
 DTEND:20250927T180000Z
@@ -383,5 +373,15 @@ DESCRIPTION:Self-Defense Basics explores what we can do before\, during\,
  communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
  https://www.bklynlibrary.org/node/785674
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plum Papercraft: Hearts & Arrows Window Star
+DTSTART:20251001T170000Z
+DTEND:20251001T183000Z
+DESCRIPTION:Fold squares of translucent colored kite paper to create an ei
+ ght-pointed star in a repeating pattern of hearts and arrows. The star's p
+ aper folds create a kaleidoscope effect when it is placed in a s\n\nhttps:
+ //www.bklynlibrary.org/node/782181
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
