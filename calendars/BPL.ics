@@ -11,17 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air:  The Five Tibetans\, or the Foundation of You
- th
-DTSTART:20250928T140000Z
-DTEND:20250928T153000Z
-DESCRIPTION:The Five Tibetans\,  also known as the Five Rites of Rejuvena
- tion\, are a yogic system of simple yet highly energizing exercises that t
- ake a minimum of daily time and effort but can dramatically increas\n\nhtt
- ps://www.bklynlibrary.org/node/786962
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: From Fields to Cities: The Journey of Sayings
 DTSTART:20250928T150000Z
 DTEND:20250928T163000Z
@@ -29,16 +18,6 @@ DESCRIPTION:This lecture explores the fascinating evolution of popular say
  ings\, tracing their roots in rural communities and examining how they’v
  e been reshaped in urban environments. We’ll look at how these expr\n\nh
  ttps://www.bklynlibrary.org/node/785403
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: Protecting your Privacy Online
-DTSTART:20250928T150000Z
-DTEND:20250928T160000Z
-DESCRIPTION:Privacy includes personal and sensitive user information that 
- directly identifies an individual (e.g.\, name\, address\, social security
-  number or other identifying number or code\, telephone number\, mari\n\nh
- ttps://www.bklynlibrary.org/node/786716
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
@@ -375,5 +354,24 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
  51
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251001T220000Z
+DTEND:20251001T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 05
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Photography
+DTSTART:20251001T220000Z
+DTEND:20251001T233000Z
+DESCRIPTION:In collaboration with Leo Jimenez of LEOWUZHERE Studios\, we i
+ nvite you to dive into an exciting journey of Street Photography. In this 
+ immersive class\, you'll explore how to capture authentic moments\n\nhttps
+ ://www.bklynlibrary.org/node/789166
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
