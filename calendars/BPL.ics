@@ -11,38 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air: A Brief History of Photography (Techniques & 
- Genres)
-DTSTART:20250928T160000Z
-DTEND:20250928T180000Z
-DESCRIPTION:In this class\, first we will see a brief history of photograp
- hy focused on some of the important techniques and genres (with a bias on 
- French and Francophone photography). After discovering or redisco\n\nhttps
- ://www.bklynlibrary.org/node/785648
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  Ancient Tibetan Chöd Healing: Cleansing Neg
- ativities and Restoring Posivities
-DTSTART:20250928T160000Z
-DTEND:20250928T173000Z
-DESCRIPTION:Chöd means “to cut.” Suffering that we humans experience
-  arises mainly through grasping at self and self-cherishing attitude. Cutt
- ing through this self-grasping and self-cherishing attitude is the mai\n\n
- https://www.bklynlibrary.org/node/786964
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  Creating Constancy in our Changeable Lives
-DTSTART:20250928T170000Z
-DTEND:20250928T180000Z
-DESCRIPTION:We live in a complicated world: work\, daily tasks\, family an
- d environment are all constantly changing. While this may be common experi
- ence\, keeping a stable center remains elusive. From my experience\n\nhttp
- s://www.bklynlibrary.org/node/785011
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20250929T140000Z
 DTEND:20250929T210000Z
@@ -374,5 +342,31 @@ DESCRIPTION:These five tsa-loong yantrayogas will open our five main chakr
  will explain in detail the functions of the five main pranas and\n\nhttps:
  //www.bklynlibrary.org/node/786965
 LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Fair Readiness: Tips & Tactics for Success (In-Person)
+DTSTART:20251002T140000Z
+DTEND:20251002T150000Z
+DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
+ how to work the room?\n\nhttps://www.bklynlibrary.org/node/788513
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20251002T143000Z
+DTEND:20251002T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/763488
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20251002T143000Z
+DTEND:20251002T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/777197
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
