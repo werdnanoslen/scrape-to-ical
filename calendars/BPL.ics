@@ -11,17 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air: Cybersecurity: Identifying and Preventing Cyb
- er Attacks
-DTSTART:20250928T140000Z
-DTEND:20250928T150000Z
-DESCRIPTION:If you ever came across a spammed website or email\, would you
-  recognize it? What common features exist in cybercrimes? What techniques 
- do attackers use?  This lesson discusses the techniques used intr\n\nhttp
- s://www.bklynlibrary.org/node/786714
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air:  The Five Tibetans\, or the Foundation of You
  th
 DTSTART:20250928T140000Z
@@ -377,5 +366,14 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/763466
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251001T203000Z
+DTEND:20251001T214500Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 51
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
