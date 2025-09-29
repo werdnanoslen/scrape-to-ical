@@ -119,6 +119,28 @@ DESCRIPTION:https://www.viewcy.com/event/generational_discon\n<p><img alt=
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Terhal Band Live
+DTSTART:20251012T230000Z
+DTEND:20251013T010000Z
+DTSTAMP:20251012T230000Z
+UID:Terhal Band Live
+DESCRIPTION:https://www.viewcy.com/event/terhal_band_live\n<p><img alt="Te
+ rhal Band Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" dat
+ a-sentry-component="ImageWithFallback" data-sentry-element="Image" data-se
+ ntry-source-file="index.tsx" decoding="async" height="186" loading="lazy" 
+ src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-pr
+ oduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F862%2F
+ cover%2FRed_Modern_Tennis_Season_Flyer.jpg%3F1759182371&amp\;w=640&amp\;q=
+ 100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
+ azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F862%2Fcover%2FRed_Mo
+ dern_Tennis_Season_Flyer.jpg%3F1759182371&amp\;w=384&amp\;q=100 1x\, /_nex
+ t/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcour
+ ses%2Ffeatured_images%2F000%2F020%2F862%2Fcover%2FRed_Modern_Tennis_Season
+ _Flyer.jpg%3F1759182371&amp\;w=640&amp\;q=100 2x" style="color: transparen
+ t\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joel Veena: Ragas & Sagas with Mir Naqibul Islam
 DTSTART:20251107T000000Z
 DTEND:20251107T020000Z
