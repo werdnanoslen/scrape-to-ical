@@ -29,31 +29,6 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20250929T153000Z
-DTEND:20250929T173000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790337
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Yoga
-DTSTART:20250929T163000Z
-DTEND:20250929T173000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/781053
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20250929T170000Z
-DTEND:20250929T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/786971
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250929T180000Z
 DTEND:20250929T200000Z
@@ -368,5 +343,33 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
  ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
  rary.org/node/777197
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251002T143000Z
+DTEND:20251002T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
+ 72
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Technical Drawing Exercises for Beginners
+DTSTART:20251002T150000Z
+DTEND:20251002T170000Z
+DESCRIPTION:In this course\, students will gain hands-on experience in tec
+ hnical drawing through learning the art of manual drawing and drafting te
+ chniques.\n\nhttps://www.bklynlibrary.org/node/786701
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air:  Feng Shui Basics
+DTSTART:20251002T153000Z
+DTEND:20251002T163000Z
+DESCRIPTION:Feng Shui arrangement is important in life\, especially when w
+ e need to move or are moving to a new and unfamiliar location. We will lea
+ rn some basics in this class\, such as how to choose a good locati\n\nhttp
+ s://www.bklynlibrary.org/node/787441
+LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
