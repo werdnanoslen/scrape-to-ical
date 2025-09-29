@@ -87,6 +87,13 @@ DESCRIPTION:This is a self-service open lab with support tech in the room
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20250929T190000Z
+DTEND:20250929T210000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790796
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yoga
 DTSTART:20250929T200000Z
 DTEND:20250929T210000Z
@@ -359,14 +366,5 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/763488
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20251002T143000Z
-DTEND:20251002T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/777197
-LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
