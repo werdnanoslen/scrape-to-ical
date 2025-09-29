@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20250929T150000Z
-DTEND:20250929T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/783560
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20250929T180000Z
 DTEND:20250929T200000Z
@@ -39,20 +31,20 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20250929T190000Z
-DTEND:20250929T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /776042
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Tech Help for Your Job Search
 DTSTART:20250929T190000Z
 DTEND:20250929T210000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/783535
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20250929T190000Z
+DTEND:20250929T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /776042
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free English Class
@@ -370,6 +362,17 @@ DESCRIPTION:Feng Shui arrangement is important in life\, especially when w
  e need to move or are moving to a new and unfamiliar location. We will lea
  rn some basics in this class\, such as how to choose a good locati\n\nhttp
  s://www.bklynlibrary.org/node/787441
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Tibetan Meditation Practice: Vipasana or Anal
+ ytical Meditation Practice For Beginners and Advanced Practitioners
+DTSTART:20251002T160000Z
+DTEND:20251002T180000Z
+DESCRIPTION:In this session\, Dr. Chok will explain and teach various vipa
+ ssana (insightful seeing) mind training practices such as loving-kindness 
+ and compassion\, tong-len (give-take) practice\, impermanent nature\n\nhtt
+ ps://www.bklynlibrary.org/node/786966
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
