@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Colloquy: Emily Wilson & Luke Soucy on Translating the Epic
-DTSTART:20250929T230000Z
-DTEND:20250929T003000Z
-DESCRIPTION:BPL Presents welcomes World Poetry Books  for the latest inst
- allment of Colloquy: Translators in Conversation\, featuring a discussion 
- on "Translating the Epic\," with readings and discussion from Emily\n\nhtt
- ps://www.bklynlibrary.org/node/780247
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:eBook/AudioBook Basics
 DTSTART:20250930T180000Z
 DTEND:20250930T190000Z
@@ -381,5 +371,15 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
  \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
  lynlibrary.org/node/776170
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20251002T213000Z
+DTEND:20251002T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/777351
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
