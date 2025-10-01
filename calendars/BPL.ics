@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Self-Defense Basics with Gabriella
-DTSTART:20251001T160000Z
-DTEND:20251001T173000Z
-DESCRIPTION:Self-Defense Basics explores what we can do before\, during\, 
- and after unsafe situations. In this program\, we will explore how we can 
- communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
- https://www.bklynlibrary.org/node/785674
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Plum Papercraft: Hearts & Arrows Window Star
 DTSTART:20251001T170000Z
 DTEND:20251001T183000Z
@@ -380,5 +370,14 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
  ://www.bklynlibrary.org/node/763531
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Crafting: Felt Corner Bookmark
+DTSTART:20251003T180000Z
+DTEND:20251003T200000Z
+DESCRIPTION:Join us to create a felt corner bookmark! We will provide all 
+ the materials you need to make an embroidered felt bookmark for your use o
+ r as gifts!\n\nhttps://www.bklynlibrary.org/node/788237
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
