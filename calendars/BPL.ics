@@ -11,52 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20251001T140000Z
-DTEND:20251001T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/772412
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Senator Gounardes Office Hours
-DTSTART:20251001T180000Z
-DTEND:20251001T210000Z
-DESCRIPTION:Meet Senator Gournardes' office representatives to talk about 
- the issues and receive in person assistance accessing state social service
- s.\n\nhttps://www.bklynlibrary.org/node/787002
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251001T190000Z
-DTEND:20251001T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774135
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group
-DTSTART:20251001T200000Z
-DTEND:20251001T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763466
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Bingo Night
-DTSTART:20251001T200000Z
-DTEND:20251001T210000Z
-DESCRIPTION:Join us for Adult Bingo at the library every first Wednesday o
- f the month!\n\nhttps://www.bklynlibrary.org/node/776107
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251001T203000Z
 DTEND:20251001T214500Z
@@ -381,6 +335,56 @@ DESCRIPTION:Nejang yogas were introduced by Buton Rinchendrup (1290-1364)\
  , one of the greatest yogis of his time. Nejang has 24 simple and profound
   yogas that can be practiced by people of all ages. You can pract\n\nhttps
  ://www.bklynlibrary.org/node/786967
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251004T143000Z
+DTEND:20251004T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 77
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Drawing the Unseen
+DTSTART:20251004T150000Z
+DTEND:20251004T170000Z
+DESCRIPTION:In this collaborative workshop\, the environment is both inspi
+ ration and an active collaborator. Using sensory cues like shifts in ligh
+ t\, sound\, texture\, we will respond with bold\, intuitive marks\, bui\n\
+ nhttps://www.bklynlibrary.org/node/784954
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Save the season: about food preservation and 
+ terroir
+DTSTART:20251004T150000Z
+DTEND:20251004T170000Z
+DESCRIPTION:Uncover the potential of food preservation and the use of loca
+ l produce in reducing food waste. We will explore how combining seasonal a
+ nd local eating with preservation techniques can effectively min\n\nhttps:
+ //www.bklynlibrary.org/node/784919
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Reading the Flight of Birds
+DTSTART:20251004T150000Z
+DTEND:20251004T161500Z
+DESCRIPTION:Before memory\, before words\, the birds were our first teache
+ rs\, their wings tracing lessons across the sky. This class invites you to
+  interpret the poetry of bird flight—the arc of a hawk\, the murmur\n\nh
+ ttps://www.bklynlibrary.org/node/784922
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: The Effective Use of Artificial Intelligence
+DTSTART:20251004T150000Z
+DTEND:20251004T160000Z
+DESCRIPTION:The use of Artificial Intelligence (AI) in daily human activit
+ ies has increased exponentially in the last 5 years. Beginning 2023\, we s
+ ee the enhancement of AI solutions including generating textual c\n\nhttps
+ ://www.bklynlibrary.org/node/786720
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
