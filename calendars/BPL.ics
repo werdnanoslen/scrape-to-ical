@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251001T220000Z
-DTEND:20251001T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 05
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Street Photography
-DTSTART:20251001T220000Z
-DTEND:20251001T233000Z
-DESCRIPTION:In collaboration with Leo Jimenez of LEOWUZHERE Studios\, we i
- nvite you to dive into an exciting journey of Street Photography. In this 
- immersive class\, you'll explore how to capture authentic moments\n\nhttps
- ://www.bklynlibrary.org/node/789166
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20251002T140000Z
 DTEND:20251002T210000Z
@@ -387,6 +368,26 @@ DESCRIPTION:Have you been told or seen any traditional communicating symbo
  ls from your culture? Is it used solely by your culture or shared in other
   places? This lesson introduces the Adinkra symbols of the Ashan\n\nhttps:
  //www.bklynlibrary.org/node/786723
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: From Fields to Cities: The Journey of Sayings
+DTSTART:20251004T170000Z
+DTEND:20251004T183000Z
+DESCRIPTION:This lecture explores the fascinating evolution of popular say
+ ings\, tracing their roots in rural communities and examining how they’v
+ e been reshaped in urban environments. We’ll look at how these expr\n\nh
+ ttps://www.bklynlibrary.org/node/785404
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: How to Write a Winning Proposal I
+DTSTART:20251004T170000Z
+DTEND:20251004T180000Z
+DESCRIPTION:This course aims to introduce students to different types of p
+ roposals and how to write them step-by-step. You will learn how to persuad
+ e donors\, sponsors\, and potential collaborators by crafting a fe\n\nhttp
+ s://www.bklynlibrary.org/node/786747
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
