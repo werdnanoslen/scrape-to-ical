@@ -29,16 +29,6 @@ DESCRIPTION:Learn how to use Adobe Photoshop for photo enhancement\, typog
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Working with Word
-DTSTART:20251002T180000Z
-DTEND:20251002T193000Z
-DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
-  your own resume or cover letter on Microsoft Word and will have real worl
- d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
- /www.bklynlibrary.org/node/783538
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20251002T213000Z
 DTEND:20251002T230000Z
@@ -393,5 +383,15 @@ DESCRIPTION:The Chinese Mid-Autumn Festival 2025 is tomorrow\, October 6\;
  eeply rooted cultural meaning\, behind this festival.\n\nhttps://www.bklyn
  library.org/node/785015
 LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYC Livecode Meetup
+DTSTART:20251005T173000Z
+DTEND:20251005T203000Z
+DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers 
+ to discuss\, promote\, and explore real-time programming. Our meetups are 
+ open to all. Come with works in progress to show\, with ideas to bo\n\nhtt
+ ps://www.bklynlibrary.org/node/747703
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
