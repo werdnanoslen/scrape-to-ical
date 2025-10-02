@@ -21,25 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University Open Air: Technical Drawing Exercises for Beginners
-DTSTART:20251002T150000Z
-DTEND:20251002T170000Z
-DESCRIPTION:In this course\, students will gain hands-on experience in tec
- hnical drawing through learning the art of manual drawing and drafting te
- chniques.\n\nhttps://www.bklynlibrary.org/node/786701
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  Feng Shui Basics
-DTSTART:20251002T153000Z
-DTEND:20251002T163000Z
-DESCRIPTION:Feng Shui arrangement is important in life\, especially when w
- e need to move or are moving to a new and unfamiliar location. We will lea
- rn some basics in this class\, such as how to choose a good locati\n\nhttp
- s://www.bklynlibrary.org/node/787441
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: Tibetan Meditation Practice: Vipasana or Anal
  ytical Meditation Practice For Beginners and Advanced Practitioners
 DTSTART:20251002T160000Z
@@ -392,6 +373,25 @@ DESCRIPTION:Nejang yogas were introduced by Buton Rinchendrup (1290-1364)\
  , one of the greatest yogis of his time. Nejang has 24 simple and profound
   yogas. Nejang can be practiced by people of all ages. You can pr\n\nhttps
  ://www.bklynlibrary.org/node/786976
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Decoding Prospect Park’s Flora
+DTSTART:20251005T150000Z
+DTEND:20251005T163000Z
+DESCRIPTION:“In order to be able to come up with new forms we would have
+  to understand what has already been created.” — Hilma af Klint\n\nht
+ tps://www.bklynlibrary.org/node/787387
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: The Plastic Sea Workshop
+DTSTART:20251005T150000Z
+DTEND:20251005T170000Z
+DESCRIPTION:The Plastic Sea is a collaborative art project in which commu
+ nity members of all ages are invited to co-create a large-scale mural usin
+ g reclaimed construction mesh and strips of non-recyclable plasti\n\nhttps
+ ://www.bklynlibrary.org/node/785035
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
