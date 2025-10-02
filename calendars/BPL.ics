@@ -32,14 +32,6 @@ DESCRIPTION:These five tsa-loong yantrayogas will open our five main chakr
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Fair Readiness: Tips & Tactics for Success (In-Person)
-DTSTART:20251002T140000Z
-DTEND:20251002T150000Z
-DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
- how to work the room?\n\nhttps://www.bklynlibrary.org/node/788513
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20251002T143000Z
 DTEND:20251002T160000Z
@@ -388,6 +380,16 @@ DESCRIPTION:This course aims to introduce students to different types of p
  roposals and how to write them step-by-step. You will learn how to persuad
  e donors\, sponsors\, and potential collaborators by crafting a fe\n\nhttp
  s://www.bklynlibrary.org/node/786747
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: NaCl — Salt: Element\, Flavor\, Story
+DTSTART:20251004T173000Z
+DTEND:20251004T193000Z
+DESCRIPTION:Salt is more than a flavor—it’s a powerful element that ha
+ s shaped landscapes\, traditions\, economies\, and human movement across t
+ ime. In this class\, we’ll take a curious look at salt from multiple ang
+ \n\nhttps://www.bklynlibrary.org/node/784918
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR
