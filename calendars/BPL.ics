@@ -39,16 +39,6 @@ DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University Open Air: How to Write a Winning Proposal II
-DTSTART:20251002T180000Z
-DTEND:20251002T190000Z
-DESCRIPTION:This course aims to introduce students to different types of p
- roposals and how to write them step-by-step. You will learn how to persuad
- e donors\, sponsors\, and potential collaborators by crafting a fe\n\nhttp
- s://www.bklynlibrary.org/node/786749
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20251002T213000Z
 DTEND:20251002T230000Z
@@ -392,6 +382,16 @@ DESCRIPTION:In lyric works\, emotions are expressed through imagery\, musi
  cality\, rhythm. Hence\, reading and watching lyric works is a highly enjo
  yable experience. Yet\, as the mermaids’ song\, lyricism can draw us i\n
  \nhttps://www.bklynlibrary.org/node/785649
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air:  Mid-Autumn Festival Traditions & Customs
+DTSTART:20251005T170000Z
+DTEND:20251005T180000Z
+DESCRIPTION:The Chinese Mid-Autumn Festival 2025 is tomorrow\, October 6\;
+  in this class\, we will talk about the traditions and customs\, and the d
+ eeply rooted cultural meaning\, behind this festival.\n\nhttps://www.bklyn
+ library.org/node/785015
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 END:VCALENDAR

@@ -76,6 +76,29 @@ DESCRIPTION:https://www.viewcy.com/event/jess_salomon_jokes\n<p><img alt="
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Coming Out as Dalit: A book talk with Yashica Dutt
+DTSTART:20251009T230000Z
+DTEND:20251010T010000Z
+DTSTAMP:20251009T230000Z
+UID:Coming Out as Dalit: A book talk with Yashica Dutt
+DESCRIPTION:https://www.viewcy.com/event/coming_out_as_dalit\n<p><img alt=
+ "Coming Out as Dalit: A book talk with Yashica Dutt thumbnail" class="styl
+ es_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback
+ " data-sentry-element="Image" data-sentry-source-file="index.tsx" decoding
+ ="async" height="186" loading="lazy" src="https://www.viewcy.com/_next/ima
+ ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
+ Ffeatured_images%2F000%2F020%2F910%2Fcover%2FWhatsApp_Image_2025-10-02_at_
+ 12.48.06_AM.jpg%3F1759428446&amp\;w=640&amp\;q=100" srcset="/_next/image?u
+ rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
+ tured_images%2F000%2F020%2F910%2Fcover%2FWhatsApp_Image_2025-10-02_at_12.4
+ 8.06_AM.jpg%3F1759428446&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F020%2F910%2Fcover%2FWhatsApp_Image_2025-10-02_at_12.48.06_AM.
+ jpg%3F1759428446&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wi
+ dth="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Generational [Dis]connect
 DTSTART:20251011T230000Z
 DTEND:20251012T010000Z
