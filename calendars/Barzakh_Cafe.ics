@@ -143,6 +143,28 @@ DESCRIPTION:https://www.viewcy.com/event/terhal_band_live\n<p><img alt="Te
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Barzakh Homecoming: Where It Began
+DTSTART:20251027T230000Z
+DTEND:20251028T010000Z
+DTSTAMP:20251027T230000Z
+UID:A Barzakh Homecoming: Where It Began
+DESCRIPTION:https://www.viewcy.com/event/a_barzakh_homecoming\n<p><img alt
+ ="A Barzakh Homecoming: Where It Began thumbnail" class="styles_coverImg__
+ PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
+ -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
+ ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F020%2F940%2Fcover%2FWhatsApp_Image_2025-10-04_at_2.07.13_AM.jp
+ g%3F1759524761&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F
+ %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
+ F000%2F020%2F940%2Fcover%2FWhatsApp_Image_2025-10-04_at_2.07.13_AM.jpg%3F1
+ 759524761&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy
+ -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
+ 0%2F940%2Fcover%2FWhatsApp_Image_2025-10-04_at_2.07.13_AM.jpg%3F1759524761
+ &amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joel Veena: Ragas & Sagas with Mir Naqibul Islam
 DTSTART:20251107T000000Z
 DTEND:20251107T020000Z
