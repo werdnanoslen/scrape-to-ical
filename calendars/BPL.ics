@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20251003T200000Z
-DTEND:20251003T213000Z
-DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
- over letter\, interview\, and job search questions. All sessions are one-o
- n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
- tps://www.bklynlibrary.org/node/787762
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: Seasonal Flower Pounding
 DTSTART:20251004T140000Z
 DTEND:20251004T163000Z
@@ -41,7 +31,7 @@ DESCRIPTION:Nejang yogas were introduced by Buton Rinchendrup (1290-1364)\
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
+SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20251004T143000Z
 DTEND:20251004T160000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -386,5 +376,15 @@ DTSTART:20251006T214500Z
 DTEND:20251006T234500Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788575
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selling to the Global Market: Resources and Assistance | Small Bus
+ iness Administration (SBA)
+DTSTART:20251006T220000Z
+DTEND:20251006T233000Z
+DESCRIPTION:95% of the consumers are outside of US. In this interactive wo
+ rkshop from the SBA\, you will learn why\, how\, and where to sell to the 
+ global market.\n\nhttps://www.bklynlibrary.org/node/787592
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
