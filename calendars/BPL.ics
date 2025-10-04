@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air: NaCl — Salt: Element\, Flavor\, Story
-DTSTART:20251004T173000Z
-DTEND:20251004T193000Z
-DESCRIPTION:Salt is more than a flavor—it’s a powerful element that ha
- s shaped landscapes\, traditions\, economies\, and human movement across t
- ime. In this class\, we’ll take a curious look at salt from multiple ang
- \n\nhttps://www.bklynlibrary.org/node/784918
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: Tibetan Tantric Methods for Burnout Syndrome
-DTSTART:20251004T173000Z
-DTEND:20251004T193000Z
-DESCRIPTION:To deal with burnout syndrome\, we must understand how our phy
- sical body\, energy body and mental body work together. In this session\, 
- Dr. Chok will explain these in detail and teach the ancient Tibetan\n\nhtt
- ps://www.bklynlibrary.org/node/786972
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feng Shui and I Ching
 DTSTART:20251004T193000Z
 DTEND:20251004T210000Z
@@ -377,5 +357,24 @@ DESCRIPTION:Hectographs\, also known as gelatin duplicators or jellygraphs
  r writing and drawing. We'll learn a bit about the history of this\n\nhttp
  s://www.bklynlibrary.org/node/772579
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hetty Lui McKinnon on Linger\, with Emma Straub
+DTSTART:20251007T220000Z
+DTEND:20251007T233000Z
+DESCRIPTION:Join us at Brooklyn Heights Library to hear Hetty Lui McKinnon
+  discuss her new book Linger with Emma Straub\n\nhttps://www.bklynlibrary.
+ org/node/787012
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20251007T220000Z
+DTEND:20251007T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/791253
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
