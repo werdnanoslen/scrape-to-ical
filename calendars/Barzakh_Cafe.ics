@@ -11,28 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Mandingo Ambassadors Live
-DTSTART:20251004T000000Z
-DTEND:20251004T020000Z
-DTSTAMP:20251004T000000Z
-UID:Mandingo Ambassadors Live
-DESCRIPTION:https://www.viewcy.com/event/mandingo_ambassadors_1\n<p><img a
- lt="Mandingo Ambassadors Live thumbnail" class="styles_coverImg__PsR9G" da
- ta-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element=
- "Image" data-sentry-source-file="index.tsx" decoding="async" height="186" 
- loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fv
- iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
- %2F020%2F833%2Fcover%2FMandingo_Ambassadors_Live.jpg%3F1759161431&amp\;w=6
- 40&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
- tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F833%2Fcove
- r%2FMandingo_Ambassadors_Live.jpg%3F1759161431&amp\;w=384&amp\;q=100 1x\, 
- /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2
- Fcourses%2Ffeatured_images%2F000%2F020%2F833%2Fcover%2FMandingo_Ambassador
- s_Live.jpg%3F1759161431&amp\;w=640&amp\;q=100 2x" style="color: transparen
- t\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jess Salomon: Jokes?
 DTSTART:20251009T000000Z
 DTEND:20251009T020000Z
