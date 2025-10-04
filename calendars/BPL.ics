@@ -40,26 +40,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University Open Air: Drawing the Unseen
-DTSTART:20251004T150000Z
-DTEND:20251004T170000Z
-DESCRIPTION:In this collaborative workshop\, the environment is both inspi
- ration and an active collaborator. Using sensory cues like shifts in ligh
- t\, sound\, texture\, we will respond with bold\, intuitive marks\, bui\n\
- nhttps://www.bklynlibrary.org/node/784954
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: The Effective Use of Artificial Intelligence
-DTSTART:20251004T150000Z
-DTEND:20251004T160000Z
-DESCRIPTION:The use of Artificial Intelligence (AI) in daily human activit
- ies has increased exponentially in the last 5 years. Beginning 2023\, we s
- ee the enhancement of AI solutions including generating textual c\n\nhttps
- ://www.bklynlibrary.org/node/786720
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: Save the season: about food preservation and 
  terroir
 DTSTART:20251004T150000Z
@@ -78,6 +58,26 @@ DESCRIPTION:Before memory\, before words\, the birds were our first teache
  rs\, their wings tracing lessons across the sky. This class invites you to
   interpret the poetry of bird flight—the arc of a hawk\, the murmur\n\nh
  ttps://www.bklynlibrary.org/node/784922
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: Drawing the Unseen
+DTSTART:20251004T150000Z
+DTEND:20251004T170000Z
+DESCRIPTION:In this collaborative workshop\, the environment is both inspi
+ ration and an active collaborator. Using sensory cues like shifts in ligh
+ t\, sound\, texture\, we will respond with bold\, intuitive marks\, bui\n\
+ nhttps://www.bklynlibrary.org/node/784954
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air: The Effective Use of Artificial Intelligence
+DTSTART:20251004T150000Z
+DTEND:20251004T160000Z
+DESCRIPTION:The use of Artificial Intelligence (AI) in daily human activit
+ ies has increased exponentially in the last 5 years. Beginning 2023\, we s
+ ee the enhancement of AI solutions including generating textual c\n\nhttps
+ ://www.bklynlibrary.org/node/786720
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
