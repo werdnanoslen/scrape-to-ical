@@ -11,68 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air: Seasonal Flower Pounding
-DTSTART:20251004T140000Z
-DTEND:20251004T163000Z
-DESCRIPTION:In this 2.5-hour workshop\, we will explore natural printmakin
- g as a way of documenting time and place. Using fresh flowers and leaves g
- athered from Prospect Park\, we will learn techniques for transfer\n\nhttp
- s://www.bklynlibrary.org/node/784927
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: Nejang: Self-healing Yogas (Part 1)
-DTSTART:20251004T140000Z
-DTEND:20251004T163000Z
-DESCRIPTION:Nejang yogas were introduced by Buton Rinchendrup (1290-1364)\
- , one of the greatest yogis of his time. Nejang has 24 simple and profound
-  yogas that can be practiced by people of all ages. You can pract\n\nhttps
- ://www.bklynlibrary.org/node/786967
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: Save the season: about food preservation and 
- terroir
-DTSTART:20251004T150000Z
-DTEND:20251004T170000Z
-DESCRIPTION:Uncover the potential of food preservation and the use of loca
- l produce in reducing food waste. We will explore how combining seasonal a
- nd local eating with preservation techniques can effectively min\n\nhttps:
- //www.bklynlibrary.org/node/784919
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: Reading the Flight of Birds
-DTSTART:20251004T150000Z
-DTEND:20251004T161500Z
-DESCRIPTION:Before memory\, before words\, the birds were our first teache
- rs\, their wings tracing lessons across the sky. This class invites you to
-  interpret the poetry of bird flight—the arc of a hawk\, the murmur\n\nh
- ttps://www.bklynlibrary.org/node/784922
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: Drawing the Unseen
-DTSTART:20251004T150000Z
-DTEND:20251004T170000Z
-DESCRIPTION:In this collaborative workshop\, the environment is both inspi
- ration and an active collaborator. Using sensory cues like shifts in ligh
- t\, sound\, texture\, we will respond with bold\, intuitive marks\, bui\n\
- nhttps://www.bklynlibrary.org/node/784954
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: Adinkra – Traditional Communicating Symbols
-  by the Akas in Ghana
-DTSTART:20251004T160000Z
-DTEND:20251004T170000Z
-DESCRIPTION:Have you been told or seen any traditional communicating symbo
- ls from your culture? Is it used solely by your culture or shared in other
-  places? This lesson introduces the Adinkra symbols of the Ashan\n\nhttps:
- //www.bklynlibrary.org/node/786723
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: From Fields to Cities: The Journey of Sayings
 DTSTART:20251004T170000Z
 DTEND:20251004T183000Z
@@ -385,5 +323,60 @@ DESCRIPTION:Brooklyn Public Library welcomes George Takei to Central Libra
  s and the dangerous trend of censorship. The event is free and o\n\nhttps:
  //www.bklynlibrary.org/node/789873
 LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Fair Readiness: Tips & Tactics for Success (In-Person)
+DTSTART:20251007T150000Z
+DTEND:20251007T160000Z
+DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
+ how to work the room?\n\nhttps://www.bklynlibrary.org/node/788514
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Microsoft Word
+DTSTART:20251007T170000Z
+DTEND:20251007T180000Z
+DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
+  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/790
+ 394
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20251007T190000Z
+DTEND:20251007T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/79069
+ 2
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NELP: Business Entity Formation
+DTSTART:20251007T200000Z
+DTEND:20251007T213000Z
+DESCRIPTION:This presentation will walk micro-entrepreneurs through the di
+ fferent structures (e.g.\, Sole Proprietorship\, LLC\, S-Corp\, etc.) and 
+ dive into the benefits and limitations of these entities.\n\nhttps://www.b
+ klynlibrary.org/node/786666
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20251007T210000Z
+DTEND:20251007T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/764264
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banned Books Week Read-in
+DTSTART:20251007T210000Z
+DTEND:20251007T000000Z
+DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
+ icting access to books\, ideas\, and information nationwide. Brooklyn Publ
+ ic Library stands for the right to read today\, this week\, and alwa\n\nht
+ tps://www.bklynlibrary.org/node/790332
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
