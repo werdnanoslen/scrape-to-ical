@@ -21,13 +21,13 @@ DESCRIPTION:This lecture explores the fascinating evolution of popular say
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University Open Air: How to Write a Winning Proposal I
-DTSTART:20251004T170000Z
-DTEND:20251004T180000Z
-DESCRIPTION:This course aims to introduce students to different types of p
- roposals and how to write them step-by-step. You will learn how to persuad
- e donors\, sponsors\, and potential collaborators by crafting a fe\n\nhttp
- s://www.bklynlibrary.org/node/786747
+SUMMARY:University Open Air: NaCl — Salt: Element\, Flavor\, Story
+DTSTART:20251004T173000Z
+DTEND:20251004T193000Z
+DESCRIPTION:Salt is more than a flavor—it’s a powerful element that ha
+ s shaped landscapes\, traditions\, economies\, and human movement across t
+ ime. In this class\, we’ll take a curious look at salt from multiple ang
+ \n\nhttps://www.bklynlibrary.org/node/784918
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
@@ -38,16 +38,6 @@ DESCRIPTION:To deal with burnout syndrome\, we must understand how our phy
  sical body\, energy body and mental body work together. In this session\, 
  Dr. Chok will explain these in detail and teach the ancient Tibetan\n\nhtt
  ps://www.bklynlibrary.org/node/786972
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: NaCl — Salt: Element\, Flavor\, Story
-DTSTART:20251004T173000Z
-DTEND:20251004T193000Z
-DESCRIPTION:Salt is more than a flavor—it’s a powerful element that ha
- s shaped landscapes\, traditions\, economies\, and human movement across t
- ime. In this class\, we’ll take a curious look at salt from multiple ang
- \n\nhttps://www.bklynlibrary.org/node/784918
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
@@ -378,5 +368,15 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
  ic Library stands for the right to read today\, this week\, and alwa\n\nht
  tps://www.bklynlibrary.org/node/790332
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POP CULTURE CLUB
+DTSTART:20251007T213000Z
+DTEND:20251007T223000Z
+DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
+  trending? Join our Pop Culture Club! We meet regularly to discuss the lat
+ est in entertainment\, share fan theories\, play trivia\, and dive into\n\
+ nhttps://www.bklynlibrary.org/node/778774
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
