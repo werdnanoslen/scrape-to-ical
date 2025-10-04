@@ -31,15 +31,6 @@ DESCRIPTION:Nejang yogas were introduced by Buton Rinchendrup (1290-1364)\
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20251004T143000Z
-DTEND:20251004T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 77
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: Save the season: about food preservation and 
  terroir
 DTSTART:20251004T150000Z
@@ -68,16 +59,6 @@ DESCRIPTION:In this collaborative workshop\, the environment is both inspi
  ration and an active collaborator. Using sensory cues like shifts in ligh
  t\, sound\, texture\, we will respond with bold\, intuitive marks\, bui\n\
  nhttps://www.bklynlibrary.org/node/784954
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: The Effective Use of Artificial Intelligence
-DTSTART:20251004T150000Z
-DTEND:20251004T160000Z
-DESCRIPTION:The use of Artificial Intelligence (AI) in daily human activit
- ies has increased exponentially in the last 5 years. Beginning 2023\, we s
- ee the enhancement of AI solutions including generating textual c\n\nhttps
- ://www.bklynlibrary.org/node/786720
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
@@ -386,5 +367,23 @@ DESCRIPTION:95% of the consumers are outside of US. In this interactive wo
  rkshop from the SBA\, you will learn why\, how\, and where to sell to the 
  global market.\n\nhttps://www.bklynlibrary.org/node/787592
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Republic\, Book 9
+DTSTART:20251006T221500Z
+DTEND:20251006T234500Z
+DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
+ ://www.bklynlibrary.org/node/767655
+LOCATION:Central Library\, Reverend Elsie Smith Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Unscripted: A Night Against Censorship\, Featuring George Takei
+DTSTART:20251006T223000Z
+DTEND:20251006T233000Z
+DESCRIPTION:Brooklyn Public Library welcomes George Takei to Central Libra
+ ry's Grand Lobby for a conversation about the transformative power of book
+ s and the dangerous trend of censorship. The event is free and o\n\nhttps:
+ //www.bklynlibrary.org/node/789873
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
