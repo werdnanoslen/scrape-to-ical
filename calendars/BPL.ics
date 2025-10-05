@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air: In Search of Lyricism
-DTSTART:20251005T160000Z
-DTEND:20251005T180000Z
-DESCRIPTION:In lyric works\, emotions are expressed through imagery\, musi
- cality\, rhythm. Hence\, reading and watching lyric works is a highly enjo
- yable experience. Yet\, as the mermaids’ song\, lyricism can draw us i\n
- \nhttps://www.bklynlibrary.org/node/785649
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  Folk and Social Dances of the World
-DTSTART:20251005T160000Z
-DTEND:20251005T173000Z
-DESCRIPTION:Celebrate cultures\, connect with others\, and move your body 
- in this lively outdoor dance class with teaching artist Irene Koloseus. Pa
- rticipants will explore a variety of folk and social dances\, inclu\n\nhtt
- ps://www.bklynlibrary.org/node/787161
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  Mid-Autumn Festival Traditions & Customs
-DTSTART:20251005T170000Z
-DTEND:20251005T180000Z
-DESCRIPTION:The Chinese Mid-Autumn Festival 2025 is tomorrow\, October 6\;
-  in this class\, we will talk about the traditions and customs\, and the d
- eeply rooted cultural meaning\, behind this festival.\n\nhttps://www.bklyn
- library.org/node/785015
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYC Livecode Meetup
 DTSTART:20251005T173000Z
 DTEND:20251005T203000Z
@@ -370,5 +340,35 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
  85
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Speak We LEAD (Virtual) Information Session with New Women New 
+ Yorkers
+DTSTART:20251008T140000Z
+DTEND:20251008T160000Z
+DESCRIPTION:Attend this information session to learn more about We Speak W
+ e LEAD\, a multi-week\, hybrid online/in-person series of classes for immi
+ grant women to prepare for their job search in the US.\n\nhttps://www.bkly
+ nlibrary.org/node/786705
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251008T153000Z
+DTEND:20251008T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/781494
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Defense Basics with Gabriella
+DTSTART:20251008T160000Z
+DTEND:20251008T173000Z
+DESCRIPTION:Self-Defense Basics explores what we can do before\, during\, 
+ and after unsafe situations. In this program\, we will explore how we can 
+ communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
+ https://www.bklynlibrary.org/node/785675
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
