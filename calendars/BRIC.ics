@@ -11,52 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20251004T180000Z
-DTEND:20251004T210000Z
-DTSTAMP:20251004T180000Z
-UID:TV Studio Intensive-2025-10-04T18:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Liberty Farms and BRIC present Farm Fresh Saturdays
-DTSTART:20251004T150000Z
-DTEND:20251004T170000Z
-DTSTAMP:20251004T150000Z
-UID:Liberty Farms and BRIC present Farm Fresh Saturdays-2025-10-04T15:00:0
- 0+00:00
-DESCRIPTION:https://bricartsmedia.org/event/liberty-farms-and-bric-present
- -farm-fresh-saturdays/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="h
- ttps://bricartsmedia.org/wp-content/uploads/2025/06/CSA-FLYER-1-200x200.jp
- g" alt="" />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRIC House Party presents Brooklyn Brujeria: Noche De Salsa
-DTSTART:20251004T230000Z
-DTEND:20251004T040000Z
-DTSTAMP:20251004T230000Z
-UID:BRIC House Party presents Brooklyn Brujeria: Noche De Salsa-2025-10-04
- T23:00:00+00:00
-DESCRIPTION:Cost: $15 onwards\nhttps://bricartsmedia.org/event/bric-house-
- party-presents-brooklyn-brujeria-noche-de-salsa/\nhttps://goo.gl/maps/vX4Y
- R8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org/wp-content/uploads/2025
- /08/IMG_1648-200x200.jpg" alt="" />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lightroom Essentials
-DTSTART:20251004T180000Z
-DTEND:20251004T200000Z
-DTSTAMP:20251004T180000Z
-UID:Lightroom Essentials-2025-10-04T18:00:00+00:00
-DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
- s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Cramer Quartet and BRIC Present Haydn: Dialogues x Juri Seo
 DTSTART:20251005T183000Z
 DTEND:20251005T203000Z
@@ -1027,6 +981,47 @@ DTSTAMP:20251120T230000Z
 UID:Intro to Radio Podcasting-2025-11-20T23:00:00+00:00
 DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
  asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Session 4: Stretch that Buck - Film Budgeting 101
+DTSTART:20251120T230000Z
+DTEND:20251121T000000Z
+DTSTAMP:20251120T230000Z
+UID:Session 4: Stretch that Buck - Film Budgeting 101-2025-11-20T23:00:00+
+ 00:00
+DESCRIPTION:Cost: Cost - (suggested donation $10 per session)\nhttps://bri
+ cartsmedia.org/class/bric-pitch-series-with-seed-spark-jul-dec-2025/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D Modeling with Blender
+DTSTART:20251121T230000Z
+DTEND:20251122T020000Z
+DTSTAMP:20251121T230000Z
+UID:3D Modeling with Blender-2025-11-21T23:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/3d-modeling-with-bl
+ ender/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20251122T190000Z
+DTEND:20251122T220000Z
+DTSTAMP:20251122T190000Z
+UID:TV Studio Intensive-2025-11-22T19:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20251124T230000Z
+DTEND:20251125T020000Z
+DTSTAMP:20251124T230000Z
+UID:Mini Studio Production-2025-11-24T23:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
