@@ -51,16 +51,6 @@ DESCRIPTION:The five elements are the pillars in Feng Shui practice. Thes
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University Open Air:  Folk and Social Dances of the World
-DTSTART:20251005T160000Z
-DTEND:20251005T173000Z
-DESCRIPTION:Celebrate cultures\, connect with others\, and move your body 
- in this lively outdoor dance class with teaching artist Irene Koloseus. Pa
- rticipants will explore a variety of folk and social dances\, inclu\n\nhtt
- ps://www.bklynlibrary.org/node/787161
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: In Search of Lyricism
 DTSTART:20251005T160000Z
 DTEND:20251005T180000Z
@@ -68,6 +58,16 @@ DESCRIPTION:In lyric works\, emotions are expressed through imagery\, musi
  cality\, rhythm. Hence\, reading and watching lyric works is a highly enjo
  yable experience. Yet\, as the mermaids’ song\, lyricism can draw us i\n
  \nhttps://www.bklynlibrary.org/node/785649
+LOCATION:Prospect Park Boathouse
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:University Open Air:  Folk and Social Dances of the World
+DTSTART:20251005T160000Z
+DTEND:20251005T173000Z
+DESCRIPTION:Celebrate cultures\, connect with others\, and move your body 
+ in this lively outdoor dance class with teaching artist Irene Koloseus. Pa
+ rticipants will explore a variety of folk and social dances\, inclu\n\nhtt
+ ps://www.bklynlibrary.org/node/787161
 LOCATION:Prospect Park Boathouse
 END:VEVENT
 BEGIN:VEVENT
