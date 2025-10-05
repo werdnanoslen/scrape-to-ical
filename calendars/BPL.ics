@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Classical Interludes: PhiloSonia
-DTSTART:20251005T200000Z
-DTEND:20251005T213000Z
-DESCRIPTION:Inspired by the french expression "From the sublime to the rid
- iculous\, there is but one step\,” this concert explores two extremes of
-  the emotional spectrum - from the entertaining light and comical to\n\nht
- tps://www.bklynlibrary.org/node/786643
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
 DTSTART:20251006T150000Z
 DTEND:20251006T190000Z
@@ -367,5 +357,15 @@ DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
   questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
  ww.bklynlibrary.org/node/790588
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251008T190000Z
+DTEND:20251008T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774136
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
