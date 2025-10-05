@@ -21,17 +21,6 @@ DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:University Open Air:  Ancient Tibetan Chöd Healing: Cleansing Neg
- ativities and Restoring Posivities
-DTSTART:20251005T173000Z
-DTEND:20251005T190000Z
-DESCRIPTION:Chöd means “to cut.” Suffering that we humans experience
-  arises mainly through grasping at self and self-cherishing attitude. Cutt
- ing through this self-grasping and self-cherishing attitude is the mai\n\n
- https://www.bklynlibrary.org/node/786981
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Classical Interludes: PhiloSonia
 DTSTART:20251005T200000Z
 DTEND:20251005T213000Z
@@ -370,5 +359,13 @@ DESCRIPTION:Self-Defense Basics explores what we can do before\, during\,
  communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
  https://www.bklynlibrary.org/node/785675
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251008T180000Z
+DTEND:20251008T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/787638
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
