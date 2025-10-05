@@ -265,6 +265,14 @@ DESCRIPTION:Brooklyn Public Library welcomes George Takei to Central Libra
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251007T133000Z
+DTEND:20251007T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791984
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Job Fair Readiness: Tips & Tactics for Success (In-Person)
 DTSTART:20251007T150000Z
 DTEND:20251007T160000Z
@@ -366,15 +374,5 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
  nlibrary.org/node/791253
 LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQ+ Book Discussion: The Color Purple by Alice Walker
-DTSTART:20251007T223000Z
-DTEND:20251007T233000Z
-DESCRIPTION:Looking to meet other LGBTQ+ folks? We meet the first Tuesday 
- of every month to discuss an LGBTQ+ work. Join us this month to discuss Th
- e Color Purple by Alice Walker.\n\nhttps://www.bklynlibrary.org/node/78799
- 9
-LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
