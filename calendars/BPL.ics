@@ -11,46 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:University Open Air: Nejang: Self-healing Yogas (Part 2)
-DTSTART:20251005T140000Z
-DTEND:20251005T163000Z
-DESCRIPTION:Nejang yogas were introduced by Buton Rinchendrup (1290-1364)\
- , one of the greatest yogis of his time. Nejang has 24 simple and profound
-  yogas. Nejang can be practiced by people of all ages. You can pr\n\nhttps
- ://www.bklynlibrary.org/node/786976
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: The Plastic Sea Workshop
-DTSTART:20251005T150000Z
-DTEND:20251005T170000Z
-DESCRIPTION:The Plastic Sea is a collaborative art project in which commu
- nity members of all ages are invited to co-create a large-scale mural usin
- g reclaimed construction mesh and strips of non-recyclable plasti\n\nhttps
- ://www.bklynlibrary.org/node/785035
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air: Decoding Prospect Park’s Flora
-DTSTART:20251005T150000Z
-DTEND:20251005T163000Z
-DESCRIPTION:“In order to be able to come up with new forms we would have
-  to understand what has already been created.” — Hilma af Klint\n\nht
- tps://www.bklynlibrary.org/node/787387
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:University Open Air:  Feng Shui's Five Elements and Five Organs in
-  the Human Body
-DTSTART:20251005T153000Z
-DTEND:20251005T163000Z
-DESCRIPTION:The five elements are the pillars in Feng Shui practice. Thes
- e elements are related to our organs too. How can we make those organs hea
- lthier based on these five elements? We will dive into the detail\n\nhttp
- s://www.bklynlibrary.org/node/785013
-LOCATION:Prospect Park Boathouse
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:University Open Air: In Search of Lyricism
 DTSTART:20251005T160000Z
 DTEND:20251005T180000Z
@@ -374,5 +334,41 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
  nlibrary.org/node/791253
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQ+ Book Discussion: The Color Purple by Alice Walker
+DTSTART:20251007T223000Z
+DTEND:20251007T233000Z
+DESCRIPTION:Looking to meet other LGBTQ+ folks? We meet the first Tuesday 
+ of every month to discuss an LGBTQ+ work. Join us this month to discuss Th
+ e Color Purple by Alice Walker.\n\nhttps://www.bklynlibrary.org/node/78799
+ 9
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banned Books Week Read-in
+DTSTART:20251008T130000Z
+DTEND:20251008T000000Z
+DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
+ icting access to books\, ideas\, and information nationwide. Brooklyn Publ
+ ic Library stands for the right to read today\, this week\, and alwa\n\nht
+ tps://www.bklynlibrary.org/node/790987
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20251008T140000Z
+DTEND:20251008T160000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782592
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251008T140000Z
+DTEND:20251008T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 85
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
