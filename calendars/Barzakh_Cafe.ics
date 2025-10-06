@@ -77,6 +77,27 @@ DESCRIPTION:https://www.viewcy.com/event/lour_an_arab_pop_jam\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Farafina Blues
+DTSTART:20251011T010000Z
+DTEND:20251011T030000Z
+DTSTAMP:20251011T010000Z
+UID:Farafina Blues
+DESCRIPTION:https://www.viewcy.com/event/farafina_blues_3\n<p><img alt="Fa
+ rafina Blues thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
+ sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
+ ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
+ c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F966%2Fco
+ ver%2FFarafina_Blues__281_29.jpg%3F1759757941&amp\;w=640&amp\;q=100" srcse
+ t="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.co
+ m%2Fcourses%2Ffeatured_images%2F000%2F020%2F966%2Fcover%2FFarafina_Blues__
+ 281_29.jpg%3F1759757941&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F020%2F966%2Fcover%2FFarafina_Blues__281_29.jpg%3F1759757941&am
+ p\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Generational [Dis]connect
 DTSTART:20251011T230000Z
 DTEND:20251012T010000Z
