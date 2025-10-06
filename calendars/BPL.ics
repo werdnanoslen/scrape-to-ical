@@ -136,8 +136,8 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788575
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Selling to the Global Market: Resources and Assistance | Small Bus
- iness Administration (SBA)
+SUMMARY:CANCELLED: Selling to the Global Market: Resources and Assistance 
+ | Small Business Administration (SBA)
 DTSTART:20251006T220000Z
 DTEND:20251006T233000Z
 DESCRIPTION:95% of the consumers are outside of US. In this interactive wo
@@ -322,6 +322,14 @@ DESCRIPTION:Attend this information session to learn more about We Speak W
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20251008T140000Z
+DTEND:20251008T153000Z
+DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
+ r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792030
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ask A Tech
 DTSTART:20251008T153000Z
 DTEND:20251008T163000Z
@@ -357,15 +365,5 @@ DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
   questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
  ww.bklynlibrary.org/node/790588
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251008T190000Z
-DTEND:20251008T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774136
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
