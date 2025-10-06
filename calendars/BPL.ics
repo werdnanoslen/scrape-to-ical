@@ -20,13 +20,6 @@ LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20251006T150000Z
-DTEND:20251006T170000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/786416
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
 DTSTART:20251006T153000Z
 DTEND:20251006T173000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790405
@@ -365,5 +358,15 @@ DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
   questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
  ww.bklynlibrary.org/node/790588
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251008T190000Z
+DTEND:20251008T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774136
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
