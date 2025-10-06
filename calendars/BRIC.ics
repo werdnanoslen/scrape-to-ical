@@ -11,19 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:The Cramer Quartet and BRIC Present Haydn: Dialogues x Juri Seo
-DTSTART:20251005T183000Z
-DTEND:20251005T203000Z
-DTSTAMP:20251005T183000Z
-UID:The Cramer Quartet and BRIC Present Haydn: Dialogues x Juri Seo-2025-1
- 0-05T18:30:00+00:00
-DESCRIPTION:Cost: $28.37 - $33.64\nhttps://bricartsmedia.org/event/the-cra
- mer-quartet-presents-haydn-dialogues-x-juri-seo/\nhttps://goo.gl/maps/vX4Y
- R8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org/wp-content/uploads/2025
- /09/TheCramerQuartet_credit_JuliaComita-200x200.jpg" alt="" />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Editing Basics: Learn the Premiere Interface
 DTSTART:20251006T220000Z
 DTEND:20251007T000000Z
@@ -1022,6 +1009,16 @@ DTSTAMP:20251124T230000Z
 UID:Mini Studio Production-2025-11-24T23:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
  ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20251124T190000Z
+DTEND:20251124T220000Z
+DTSTAMP:20251124T190000Z
+UID:Video Editing with Premiere -2025-11-24T19:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
