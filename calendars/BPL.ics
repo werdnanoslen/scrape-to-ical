@@ -11,23 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251006T203000Z
-DTEND:20251006T213000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 68
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Meditation Class
-DTSTART:20251006T210000Z
-DTEND:20251006T214500Z
-DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
-  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780018
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOSSS Music Production Open Workshop: Beatmaking
 DTSTART:20251006T213000Z
 DTEND:20251006T234500Z
@@ -378,5 +361,25 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7820
  99
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We Speak We LEAD (In-Person) Information Session with New Women Ne
+ w Yorkers
+DTSTART:20251009T140000Z
+DTEND:20251009T160000Z
+DESCRIPTION:Attend this information session to learn more about We Speak W
+ e LEAD\, a multi-week\, hybrid online/in-person series of classes for immi
+ grant women to prepare for their job search in the US.\n\nhttps://www.bkly
+ nlibrary.org/node/786707
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251009T143000Z
+DTEND:20251009T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
+ 73
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
