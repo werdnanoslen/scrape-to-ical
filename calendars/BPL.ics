@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20251006T190000Z
-DTEND:20251006T210000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/787637
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20251006T190000Z
-DTEND:20251006T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /790373
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20251006T190000Z
-DTEND:20251006T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790797
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20251006T200000Z
-DTEND:20251006T210000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/789150
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251006T203000Z
 DTEND:20251006T213000Z
@@ -371,5 +338,45 @@ DESCRIPTION:Join us for a celebration of Brooklyn… through podcasts! In
  ll discuss Brooklyn’s history\, present\, and future through podcasts.\n
  \nhttps://www.bklynlibrary.org/node/789867
 LOCATION:Hybrid: Virtual / Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brian Jones Discusses Black History Is for Everyone with Jamaal Bo
+ wman
+DTSTART:20251008T230000Z
+DTEND:20251008T003000Z
+DESCRIPTION:BPL Presents welcomes Brian Jones\, a longtime educator whose 
+ Black History Is For Everyone explores how the study of Black history chal
+ lenges our understanding of race\, nation\, and the stories we tell\n\nhtt
+ ps://www.bklynlibrary.org/node/780769
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banned Books Week Read-in
+DTSTART:20251009T130000Z
+DTEND:20251009T000000Z
+DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
+ icting access to books\, ideas\, and information nationwide. Brooklyn Publ
+ ic Library stands for the right to read today\, this week\, and alwa\n\nht
+ tps://www.bklynlibrary.org/node/790988
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20251009T140000Z
+DTEND:20251009T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/767033
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20251009T140000Z
+DTEND:20251009T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7820
+ 99
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
