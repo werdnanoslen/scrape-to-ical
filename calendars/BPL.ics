@@ -11,50 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:FOSSS Music Production Open Workshop: Beatmaking
-DTSTART:20251006T213000Z
-DTEND:20251006T234500Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/788253
-LOCATION:Central Library\, Youth Wing
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20251006T214500Z
-DTEND:20251006T234500Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788575
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Selling to the Global Market: Resources and Assistance 
- | Small Business Administration (SBA)
-DTSTART:20251006T220000Z
-DTEND:20251006T233000Z
-DESCRIPTION:95% of the consumers are outside of US. In this interactive wo
- rkshop from the SBA\, you will learn why\, how\, and where to sell to the 
- global market.\n\nhttps://www.bklynlibrary.org/node/787592
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Philosophy Discussion Group: Plato's Republic\, Book 9
-DTSTART:20251006T221500Z
-DTEND:20251006T234500Z
-DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
- ://www.bklynlibrary.org/node/767655
-LOCATION:Central Library\, Reverend Elsie Smith Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Unscripted: A Night Against Censorship\, Featuring George Takei
-DTSTART:20251006T223000Z
-DTEND:20251006T233000Z
-DESCRIPTION:Brooklyn Public Library welcomes George Takei to Central Libra
- ry's Grand Lobby for a conversation about the transformative power of book
- s and the dangerous trend of censorship. The event is free and o\n\nhttps:
- //www.bklynlibrary.org/node/789873
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20251007T133000Z
 DTEND:20251007T163000Z
@@ -381,5 +337,54 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
  73
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Total Body Fitness
+DTSTART:20251009T143000Z
+DTEND:20251009T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/777198
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Digital Story
+DTSTART:20251009T150000Z
+DTEND:20251009T170000Z
+DESCRIPTION:Learn simple steps to turn your still images and sound clips i
+ nto a compelling digital video story. You will learn about various types o
+ f digital story types\, storytelling techniques\, narrative tips\,\n\nhttp
+ s://www.bklynlibrary.org/node/765363
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Movie On Your Phone
+DTSTART:20251009T180000Z
+DTEND:20251009T200000Z
+DESCRIPTION:Learn to use your mobile device to make compelling short-form 
+ videos. We’ll start you off with scriptwriting and storyboarding discuss
+  frame composition\, and then cover how to get the best audio and l\n\nhtt
+ ps://www.bklynlibrary.org/node/765364
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Computer Lab: Online Job Applications
+DTSTART:20251009T180000Z
+DTEND:20251009T193000Z
+DESCRIPTION:This monthly drop-in lab is geared towards beginner computer u
+ sers to help you apply to jobs you have already found online. There will b
+ e computers available for guided help. Please come with a comple\n\nhttps:
+ //www.bklynlibrary.org/node/787636
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arts & Crafts Circle
+DTSTART:20251009T183000Z
+DTEND:20251009T203000Z
+DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
+ us to work on projects\, trade skills\, and socialize with other makers! B
+ ring your own materials and enjoy the practice of making with other\n\nhtt
+ ps://www.bklynlibrary.org/node/788393
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
