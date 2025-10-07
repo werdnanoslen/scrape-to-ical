@@ -56,27 +56,6 @@ DESCRIPTION:https://www.viewcy.com/event/coming_out_as_dalit\n<p><img alt=
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LOUR: An Arab Pop Jam
-DTSTART:20251010T230000Z
-DTEND:20251011T010000Z
-DTSTAMP:20251010T230000Z
-UID:LOUR: An Arab Pop Jam
-DESCRIPTION:https://www.viewcy.com/event/lour_an_arab_pop_jam\n<p><img alt
- ="LOUR: An Arab Pop Jam thumbnail" class="styles_coverImg__PsR9G" data-nim
- g="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image
- " data-sentry-source-file="index.tsx" decoding="async" height="186" loadin
- g="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-
- heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020
- %2F922%2Fcover%2FLOUR.jpg%3F1759438101&amp\;w=640&amp\;q=100" srcset="/_ne
- xt/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcou
- rses%2Ffeatured_images%2F000%2F020%2F922%2Fcover%2FLOUR.jpg%3F1759438101&a
- mp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-pro
- duction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F922%2Fc
- over%2FLOUR.jpg%3F1759438101&amp\;w=640&amp\;q=100 2x" style="color: trans
- parent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Farafina Blues
 DTSTART:20251011T010000Z
 DTEND:20251011T030000Z
