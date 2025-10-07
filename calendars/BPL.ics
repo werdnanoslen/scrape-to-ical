@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Intro to Microsoft Word
-DTSTART:20251007T170000Z
-DTEND:20251007T180000Z
-DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
-  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/790
- 394
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20251007T190000Z
 DTEND:20251007T210000Z
@@ -178,6 +169,16 @@ DESCRIPTION:Self-Defense Basics explores what we can do before\, during\,
  communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
  https://www.bklynlibrary.org/node/785675
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Coloring
+DTSTART:20251008T170000Z
+DTEND:20251008T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /792187
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
