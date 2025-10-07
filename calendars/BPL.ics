@@ -19,14 +19,6 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Fair Readiness: Tips & Tactics for Success (In-Person)
-DTSTART:20251007T150000Z
-DTEND:20251007T160000Z
-DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
- how to work the room?\n\nhttps://www.bklynlibrary.org/node/788514
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Microsoft Word
 DTSTART:20251007T170000Z
 DTEND:20251007T180000Z
@@ -386,5 +378,15 @@ DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join
  ring your own materials and enjoy the practice of making with other\n\nhtt
  ps://www.bklynlibrary.org/node/788393
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
+DTSTART:20251009T203000Z
+DTEND:20251009T221500Z
+DESCRIPTION:The Business & Career Center is partnering with the City Bar J
+ ustice Center’s Neighborhood Entrepreneur Law Project (NELP) and Pace SB
+ DC to offer a virtual small business legal clinic. This clinic\, co\n\nhtt
+ ps://www.bklynlibrary.org/node/784389
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR

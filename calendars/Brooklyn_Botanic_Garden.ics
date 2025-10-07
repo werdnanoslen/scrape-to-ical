@@ -230,6 +230,20 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Members’ Fall Mornings
+DTSTART;VALUE=DATE:20251011T040000Z
+DTEND;VALUE=DATE:20251011T060000Z
+UID:Members’ Fall Mornings-2025-10-11 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, September 13–October 26\, 2025 (except
+  October 25) | 9–10 a.m.\n\nOn weekend mornings from September 13 to Oc
+ tober 26\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
+ rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
+ g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
+ humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Walking Meditation: Embodied Awareness in the Garden
 DTSTART;VALUE=DATE:20251011T040000Z
 DTEND;VALUE=DATE:20251011T060000Z
@@ -244,20 +258,6 @@ DESCRIPTION:Saturday\, October 11\, 2025 | 9–10:15 a.m.\n					\n\n\n
  /classes/walking_meditation_embodied_awareness_in_the_garden\n\n<img src="
  /img/uploads/hero/_list_thumbnail_regular/meditation_LL_54439232579.jpeg" 
  alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members’ Fall Mornings
-DTSTART;VALUE=DATE:20251011T040000Z
-DTEND;VALUE=DATE:20251011T060000Z
-UID:Members’ Fall Mornings-2025-10-11 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, September 13–October 26\, 2025 (except
-  October 25) | 9–10 a.m.\n\nOn weekend mornings from September 13 to Oc
- tober 26\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
- rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
- g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
- humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -409,6 +409,26 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cutting Garden 101: Planning a Seasonal Cut Flower Garden
+DTSTART;VALUE=DATE:20251015T040000Z
+DTEND;VALUE=DATE:20251015T060000Z
+UID:Cutting Garden 101: Planning a Seasonal Cut Flower Garden-2025-10-15 0
+ 4:00:00+00:00
+DESCRIPTION:Single session on Wednesday\, October 1\, 2025 or Wednesday\, 
+ October 15\, 2025 | 5:30–8:30 p.m. \n					\n\n\n					\n						\n							| 
+ Preregistration Required\n\nSpoil yourself\, your neighbors\, and pollinat
+ ors with a cutting garden full of home-grown blooms. This class will explo
+ re planning a seasonal cutting garden\, with a focus on timely\, actionabl
+ e prep\, basic principles of garden design\, and cut-flower best practices
+ .Learn More›about Cutting Garden 101: Planning a Seasonal Cut Flower Gar
+ den\n\nMore info:\nhttps://www.bbg.org/classes/cutting_garden_planning_a_s
+ easonal_cut_flower_garden\n\n<img src="/img/uploads/hero/_list_thumbnail_r
+ egular/f-48-167-22407085_xM3WLtTU_Caroline_Cutting_Garden_101_Planning_a_S
+ easonal_Cut_Flower_Garden.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall Plant Sale
 DTSTART;VALUE=DATE:20251016T040000Z
 DTEND;VALUE=DATE:20251016T060000Z
@@ -487,13 +507,13 @@ DTSTART;VALUE=DATE:20251016T040000Z
 DTEND;VALUE=DATE:20251016T060000Z
 UID:Soil Management (blended)-2025-10-16 04:00:00+00:00
 DESCRIPTION:7 sessions beginning Thursday\, September 4 or Thursday\, Octo
- ber 23\, 2025\n					\n\n\n					\n						| Waitlist Only\n\nHealthy soil is 
- the foundation for a healthy garden ecosystem and abundant crops. Learn ab
- out soil’s contents and physical and chemical properties\, soil fertilit
- y management\, and soil cultivation techniques.Learn More›about Soil Man
- agement (blended)\n\nMore info:\nhttps://www.bbg.org/classes/soil_manageme
- nt_new\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/soil_CG_5512
- .jpg" alt="" />
+ ber 23\, 2025\n					\n\n\n					\n						\n							| Preregistration Required
+ \n\nHealthy soil is the foundation for a healthy garden ecosystem and abun
+ dant crops. Learn about soil’s contents and physical and chemical proper
+ ties\, soil fertility management\, and soil cultivation techniques.Learn M
+ ore›about Soil Management (blended)\n\nMore info:\nhttps://www.bbg.org/c
+ lasses/soil_management_new\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/soil_CG_5512.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -586,19 +606,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GAP Information Session
-DTSTART;VALUE=DATE:20251018T040000Z
-DTEND;VALUE=DATE:20251018T060000Z
-UID:GAP Information Session-2025-10-18 04:00:00+00:00
-DESCRIPTION:Saturday\, October 18\, 2025\n					\n\n					\n					| 11 a.m.
- –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
- ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
- ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
- egular/gap2015.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bonsai Mini Drop-In Tours
 DTSTART;VALUE=DATE:20251018T040000Z
 DTEND;VALUE=DATE:20251018T060000Z
@@ -610,6 +617,19 @@ DESCRIPTION:Saturday\, September 20\; October 18 | 11 a.m.–1 p.m.\n
  Drop-In Tours\n\nMore info:\nhttps://www.bbg.org/visit/event/bonsai_mini_t
  ours\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/BBG_CamillaFfr
  ench_BonsaiMuseum-11.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAP Information Session
+DTSTART;VALUE=DATE:20251018T040000Z
+DTEND;VALUE=DATE:20251018T060000Z
+UID:GAP Information Session-2025-10-18 04:00:00+00:00
+DESCRIPTION:Saturday\, October 18\, 2025\n					\n\n					\n					| 11 a.m.
+ –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
+ ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
+ ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
+ egular/gap2015.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -731,21 +751,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Botany for Horticulturists
-DTSTART;VALUE=DATE:20251022T040000Z
-DTEND;VALUE=DATE:20251022T060000Z
-UID:Botany for Horticulturists-2025-10-22 04:00:00+00:00
-DESCRIPTION:8 sessions beginning Wednesday\, October 8\; or Wednesday\, Oc
- tober 22 (10-session blended or 8-session at BBG)\n					\n\n\n					\n					
- 	| Waitlist Only\n\nThis course requires no previous knowledge of botany a
- nd is recommended as a first course in the Certificate in Horticulture pro
- gram.Learn More›about Botany for Horticulturists\n\nMore info:\nhttps://
- www.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uploads/h
- ero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Putting Your Garden to Bed for Winter
 DTSTART;VALUE=DATE:20251022T040000Z
 DTEND;VALUE=DATE:20251022T060000Z
@@ -757,6 +762,21 @@ DESCRIPTION:Single session on Sunday\, October 19 or Wednesday\, October 2
  nMore info:\nhttps://www.bbg.org/classes/putting_your_garden_to_bed_for_wi
  nter\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/put-garden-to-
  bed_LL_54453691037_35a7c80049_o.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Botany for Horticulturists
+DTSTART;VALUE=DATE:20251022T040000Z
+DTEND;VALUE=DATE:20251022T060000Z
+UID:Botany for Horticulturists-2025-10-22 04:00:00+00:00
+DESCRIPTION:8 sessions beginning Wednesday\, October 8\; or Wednesday\, Oc
+ tober 22 (10-session blended or 8-session at BBG)\n					\n\n\n					\n					
+ 	| Waitlist Only\n\nThis course requires no previous knowledge of botany a
+ nd is recommended as a first course in the Certificate in Horticulture pro
+ gram.Learn More›about Botany for Horticulturists\n\nMore info:\nhttps://
+ www.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uploads/h
+ ero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
