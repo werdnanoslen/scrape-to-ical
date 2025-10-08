@@ -21,25 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251008T190000Z
-DTEND:20251008T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774136
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group
-DTSTART:20251008T200000Z
-DTEND:20251008T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/786552
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20251008T203000Z
 DTEND:20251008T214500Z
@@ -243,15 +224,6 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20251009T213000Z
-DTEND:20251009T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/792397
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cory Doctorow Discusses Ensh*ttification with Lina M. Khan
 DTSTART:20251009T230000Z
 DTEND:20251009T003000Z
@@ -289,6 +261,14 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/785531
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clase de Computación
+DTSTART:20251010T150000Z
+DTEND:20251010T160000Z
+DESCRIPTION:Viernes de 11am-12pm\n\nhttps://www.bklynlibrary.org/node/7925
+ 15
+LOCATION:Pacific\, Basement Meeting Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
@@ -390,5 +370,23 @@ DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
  Staff from the Vet Center will assist with information on health a\n\nhttp
  s://www.bklynlibrary.org/node/782665
 LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
+DTSTART:20251014T150000Z
+DTEND:20251014T173000Z
+DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
+ //www.bklynlibrary.org/node/771875
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Email Basics
+DTSTART:20251014T170000Z
+DTEND:20251014T180000Z
+DESCRIPTION:Emails basics will help assist beginners on understanding what
+  email is\, various different email providers\, how to create and setup an
+  email account and composing emails and sending them.\n\nhttps://www.bklyn
+ library.org/node/791260
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
