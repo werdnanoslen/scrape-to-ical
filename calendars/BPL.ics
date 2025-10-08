@@ -21,15 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20251008T203000Z
-DTEND:20251008T214500Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 52
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Banned Books Week Read-in
 DTSTART:20251008T210000Z
 DTEND:20251008T000000Z
@@ -388,5 +379,14 @@ DESCRIPTION:Emails basics will help assist beginners on understanding what
   email account and composing emails and sending them.\n\nhttps://www.bklyn
  library.org/node/791260
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251014T170000Z
+DTEND:20251014T173000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/792524
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
