@@ -21,41 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20251008T140000Z
-DTEND:20251008T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782592
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251008T140000Z
-DTEND:20251008T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 85
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:We Speak We LEAD (Virtual) Information Session with New Women New 
- Yorkers
-DTSTART:20251008T140000Z
-DTEND:20251008T160000Z
-DESCRIPTION:Attend this information session to learn more about We Speak W
- e LEAD\, a multi-week\, hybrid online/in-person series of classes for immi
- grant women to prepare for their job search in the US.\n\nhttps://www.bkly
- nlibrary.org/node/786705
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20251008T140000Z
-DTEND:20251008T153000Z
-DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
- r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792030
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ask A Tech
 DTSTART:20251008T153000Z
 DTEND:20251008T163000Z
@@ -389,5 +354,42 @@ DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
  ects. You're welcome to bring your own additional materials to cut\n\nhttp
  s://www.bklynlibrary.org/node/772570
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banned Books Week: Malcolm X Movie Screening
+DTSTART:20251010T180000Z
+DTEND:20251010T213000Z
+DESCRIPTION:Banned Books Week is October 5-11! Brooklyn Public Library is 
+ celebrating the freedom to read with our Books Unbanned initiative\, and j
+ oining with libraries nationwide to host programs highlighting fr\n\nhttps
+ ://www.bklynlibrary.org/node/787265
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banned Books Week Read-in
+DTSTART:20251010T210000Z
+DTEND:20251010T000000Z
+DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
+ icting access to books\, ideas\, and information nationwide. Brooklyn Publ
+ ic Library stands for the right to read today\, this week\, and alwa\n\nht
+ tps://www.bklynlibrary.org/node/790335
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251011T133000Z
+DTEND:20251011T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791995
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251011T143000Z
+DTEND:20251011T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 78
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
