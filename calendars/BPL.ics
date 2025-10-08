@@ -29,16 +29,6 @@ DESCRIPTION:This is a self-service open lab with support tech in the room
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:iPhone & Android Help
-DTSTART:20251008T180000Z
-DTEND:20251008T190000Z
-DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
- e figure out something? The objective of this class is to tend to patrons'
-  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
- ww.bklynlibrary.org/node/790588
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20251008T190000Z
 DTEND:20251008T210000Z
@@ -390,5 +380,13 @@ DESCRIPTION:Build hand-eye coordination\, develop better observation skill
   relax and recharge while improving your artistic skills. We'll fo\n\nhttp
  s://www.bklynlibrary.org/node/789165
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251014T133000Z
+DTEND:20251014T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791985
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
