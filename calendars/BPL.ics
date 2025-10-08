@@ -21,15 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20251008T153000Z
-DTEND:20251008T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/781494
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Self-Defense Basics with Gabriella
 DTSTART:20251008T160000Z
 DTEND:20251008T173000Z
@@ -200,6 +191,15 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
  ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
  rary.org/node/777198
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20251009T143000Z
+DTEND:20251009T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792340
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Make a Digital Story
