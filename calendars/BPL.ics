@@ -12,64 +12,6 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
 SUMMARY:Banned Books Week Read-in
-DTSTART:20251007T210000Z
-DTEND:20251007T000000Z
-DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
- icting access to books\, ideas\, and information nationwide. Brooklyn Publ
- ic Library stands for the right to read today\, this week\, and alwa\n\nht
- tps://www.bklynlibrary.org/node/790332
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DIY Printing: Hectographs!
-DTSTART:20251007T220000Z
-DTEND:20251007T233000Z
-DESCRIPTION:Hectographs\, also known as gelatin duplicators or jellygraphs
- \, use inexpensive ingredients to produce distinctive purple copies of you
- r writing and drawing. We'll learn a bit about the history of this\n\nhttp
- s://www.bklynlibrary.org/node/772579
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group - Brooklyn Heights
-DTSTART:20251007T220000Z
-DTEND:20251007T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/781038
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hetty Lui McKinnon on Linger\, with Emma Straub
-DTSTART:20251007T220000Z
-DTEND:20251007T233000Z
-DESCRIPTION:Join us at Brooklyn Heights Library to hear Hetty Lui McKinnon
-  discuss her new book Linger with Emma Straub\n\nhttps://www.bklynlibrary.
- org/node/787012
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
-DTSTART:20251007T220000Z
-DTEND:20251007T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/791253
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQ+ Book Discussion: The Color Purple by Alice Walker
-DTSTART:20251007T223000Z
-DTEND:20251007T233000Z
-DESCRIPTION:Looking to meet other LGBTQ+ folks? We meet the first Tuesday 
- of every month to discuss an LGBTQ+ work. Join us this month to discuss Th
- e Color Purple by Alice Walker.\n\nhttps://www.bklynlibrary.org/node/78799
- 9
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Banned Books Week Read-in
 DTSTART:20251008T130000Z
 DTEND:20251008T000000Z
 DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
@@ -391,5 +333,61 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  39
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banned Books Week Read-in
+DTSTART:20251010T140000Z
+DTEND:20251010T220000Z
+DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
+ icting access to books\, ideas\, and information nationwide. Brooklyn Publ
+ ic Library stands for the right to read today\, this week\, and alwa\n\nht
+ tps://www.bklynlibrary.org/node/790989
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251010T150000Z
+DTEND:20251010T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/785531
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251010T160000Z
+DTEND:20251010T180000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/787639
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251010T170000Z
+DTEND:20251010T190000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 58
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20251010T180000Z
+DTEND:20251010T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/763532
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Collage Party
+DTSTART:20251010T180000Z
+DTEND:20251010T200000Z
+DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
+ es and other supplies available to make cards\, postcards\, and other proj
+ ects. You're welcome to bring your own additional materials to cut\n\nhttp
+ s://www.bklynlibrary.org/node/772570
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
