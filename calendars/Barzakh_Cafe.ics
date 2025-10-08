@@ -185,6 +185,28 @@ DESCRIPTION:https://www.viewcy.com/event/terhal_band_live\n<p><img alt="Te
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ameer Armaly and Friends: Classical Arabic Music
+DTSTART:20251016T223000Z
+DTEND:20251017T003000Z
+DTSTAMP:20251016T223000Z
+UID:Ameer Armaly and Friends: Classical Arabic Music
+DESCRIPTION:https://www.viewcy.com/event/ameer_armaly_and_frie\n<p><img al
+ t="Ameer Armaly and Friends: Classical Arabic Music thumbnail" class="styl
+ es_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback
+ " data-sentry-element="Image" data-sentry-source-file="index.tsx" decoding
+ ="async" height="186" loading="lazy" src="https://www.viewcy.com/_next/ima
+ ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
+ Ffeatured_images%2F000%2F021%2F054%2Fcover%2FAmeer_Armaly__281_29.jpg%3F17
+ 59951990&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fvie
+ wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
+ F021%2F054%2Fcover%2FAmeer_Armaly__281_29.jpg%3F1759951990&amp\;w=384&amp\
+ ;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.ama
+ zonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F054%2Fcover%2FAmeer_A
+ rmaly__281_29.jpg%3F1759951990&amp\;w=640&amp\;q=100 2x" style="color: tra
+ nsparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los Nuyores: An Evening of Flamenco
 DTSTART:20251025T000000Z
 DTEND:20251025T020000Z
