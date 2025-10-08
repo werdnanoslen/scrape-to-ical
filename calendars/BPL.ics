@@ -21,26 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Self-Defense Basics with Gabriella
-DTSTART:20251008T160000Z
-DTEND:20251008T173000Z
-DESCRIPTION:Self-Defense Basics explores what we can do before\, during\, 
- and after unsafe situations. In this program\, we will explore how we can 
- communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
- https://www.bklynlibrary.org/node/785675
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Coloring
-DTSTART:20251008T170000Z
-DTEND:20251008T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /792187
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20251008T180000Z
 DTEND:20251008T200000Z
@@ -281,6 +261,15 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20251009T213000Z
+DTEND:20251009T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792397
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cory Doctorow Discusses Ensh*ttification with Lina M. Khan
 DTSTART:20251009T230000Z
 DTEND:20251009T003000Z
@@ -391,5 +380,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  78
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life Drawing
+DTSTART:20251011T163000Z
+DTEND:20251011T180000Z
+DESCRIPTION:Build hand-eye coordination\, develop better observation skill
+ s\, and get into a relaxing zone through drawing. This class will help you
+  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
+ s://www.bklynlibrary.org/node/789165
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
