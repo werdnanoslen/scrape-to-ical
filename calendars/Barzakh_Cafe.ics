@@ -227,6 +227,29 @@ DESCRIPTION:https://www.viewcy.com/event/a_barzakh_homecoming\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jemina Brechoire Quartet presents “Imer Devolsi”
+DTSTART:20251029T000000Z
+DTEND:20251029T020000Z
+DTSTAMP:20251029T000000Z
+UID:Jemina Brechoire Quartet presents “Imer Devolsi”
+DESCRIPTION:https://www.viewcy.com/event/jemina_brechoire_quar\n<p><img al
+ t="Jemina Brechoire Quartet presents “Imer Devolsi” thumbnail" class="
+ styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFall
+ back" data-sentry-element="Image" data-sentry-source-file="index.tsx" deco
+ ding="async" height="186" loading="lazy" src="https://www.viewcy.com/_next
+ /image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcours
+ es%2Ffeatured_images%2F000%2F021%2F056%2Fcover%2FJemina_Brechoire_Quartet_
+ presents__281_29.jpg%3F1759977027&amp\;w=640&amp\;q=100" srcset="/_next/im
+ age?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%
+ 2Ffeatured_images%2F000%2F021%2F056%2Fcover%2FJemina_Brechoire_Quartet_pre
+ sents__281_29.jpg%3F1759977027&amp\;w=384&amp\;q=100 1x\, /_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F021%2F056%2Fcover%2FJemina_Brechoire_Quartet_presents__
+ 281_29.jpg%3F1759977027&amp\;w=640&amp\;q=100 2x" style="color: transparen
+ t\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joel Veena: Ragas & Sagas with Mir Naqibul Islam
 DTSTART:20251107T000000Z
 DTEND:20251107T020000Z
@@ -268,28 +291,6 @@ DESCRIPTION:https://www.viewcy.com/event/ameer_armaly_and_frie\n<p><img al
  zonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F054%2Fcover%2FAmeer_A
  rmaly__282_29.jpg%3F1759955959&amp\;w=640&amp\;q=100 2x" style="color: tra
  nsparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jemina Brechoire Quartet presents “Imer Devolsi”
-DTSTART:20251129T010000Z
-DTEND:20251129T030000Z
-DTSTAMP:20251129T010000Z
-UID:Jemina Brechoire Quartet presents “Imer Devolsi”
-DESCRIPTION:https://www.viewcy.com/event/jemina_brechoire_quar\n<p><img al
- t="Jemina Brechoire Quartet presents “Imer Devolsi” thumbnail" class="
- styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFall
- back" data-sentry-element="Image" data-sentry-source-file="index.tsx" deco
- ding="async" height="186" loading="lazy" src="https://www.viewcy.com/_next
- /image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcours
- es%2Ffeatured_images%2F000%2F021%2F056%2Fcover%2FJemina_Brechoire_Quartet_
- presents.jpg%3F1759954928&amp\;w=640&amp\;q=100" srcset="/_next/image?url=
- https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
- ed_images%2F000%2F021%2F056%2Fcover%2FJemina_Brechoire_Quartet_presents.jp
- g%3F1759954928&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fv
- iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
- %2F021%2F056%2Fcover%2FJemina_Brechoire_Quartet_presents.jpg%3F1759954928&
- amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
