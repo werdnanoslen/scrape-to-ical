@@ -40,35 +40,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:We Speak We LEAD (In-Person) Information Session with New Women Ne
- w Yorkers
-DTSTART:20251009T140000Z
-DTEND:20251009T160000Z
-DESCRIPTION:Attend this information session to learn more about We Speak W
- e LEAD\, a multi-week\, hybrid online/in-person series of classes for immi
- grant women to prepare for their job search in the US.\n\nhttps://www.bkly
- nlibrary.org/node/786707
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251009T143000Z
-DTEND:20251009T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
- 73
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20251009T143000Z
-DTEND:20251009T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/792340
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Make a Digital Story
 DTSTART:20251009T150000Z
 DTEND:20251009T170000Z
@@ -386,5 +357,33 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
   Heights.\n\nhttps://www.bklynlibrary.org/node/781039
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20251014T220000Z
+DTEND:20251014T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/791254
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Fair Readiness: Tips & Tactics for Success (Virtual)
+DTSTART:20251014T223000Z
+DTEND:20251014T233000Z
+DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
+ how to work the room?\n\nhttps://www.bklynlibrary.org/node/788788
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Book Club: The Color Purple by Alice Walker
+DTSTART:20251014T223000Z
+DTEND:20251014T233000Z
+DESCRIPTION:Join us this month to discuss Alice Walker's classic The Color
+  Purple\, her 1982 epistolary novel that won the 1983 Pulitzer Prize for 
+ Fiction and the National Book Award for Fiction.\n\nhttps://www.bklynlibra
+ ry.org/node/790462
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
