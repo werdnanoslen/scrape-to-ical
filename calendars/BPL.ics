@@ -21,16 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
-DTSTART:20251009T203000Z
-DTEND:20251009T221500Z
-DESCRIPTION:The Business & Career Center is partnering with the City Bar J
- ustice Center’s Neighborhood Entrepreneur Law Project (NELP) and Pace SB
- DC to offer a virtual small business legal clinic. This clinic\, co\n\nhtt
- ps://www.bklynlibrary.org/node/784389
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Banned Books Week Read-in
 DTSTART:20251009T210000Z
 DTEND:20251009T000000Z
@@ -39,25 +29,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
  ic Library stands for the right to read today\, this week\, and alwa\n\nht
  tps://www.bklynlibrary.org/node/790334
 LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20251009T213000Z
-DTEND:20251009T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/763509
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20251009T213000Z
-DTEND:20251009T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/776171
-LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cory Doctorow Discusses Ensh*ttification with Lina M. Khan
@@ -378,5 +349,35 @@ DESCRIPTION:Self-Defense Basics explores what we can do before\, during\,
  communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
  https://www.bklynlibrary.org/node/785676
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
+DTSTART:20251015T170000Z
+DTEND:20251015T180000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/781295
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Access Your Federal Tax Records and Create Your IRS Online 
+ Account
+DTSTART:20251015T170000Z
+DTEND:20251015T190000Z
+DESCRIPTION:Are you looking to stay up-to-date on your federal tax status?
+  Or maybe you need to quickly access your federal tax records for housing 
+ or other purposes?\n\nhttps://www.bklynlibrary.org/node/785760
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Coloring
+DTSTART:20251015T170000Z
+DTEND:20251015T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /792188
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
