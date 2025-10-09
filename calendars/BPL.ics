@@ -40,16 +40,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Make a Digital Story
-DTSTART:20251009T150000Z
-DTEND:20251009T170000Z
-DESCRIPTION:Learn simple steps to turn your still images and sound clips i
- nto a compelling digital video story. You will learn about various types o
- f digital story types\, storytelling techniques\, narrative tips\,\n\nhttp
- s://www.bklynlibrary.org/node/765363
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Make a Movie On Your Phone
 DTSTART:20251009T180000Z
 DTEND:20251009T200000Z
@@ -385,5 +375,12 @@ DESCRIPTION:Join us this month to discuss Alice Walker's classic The Color
  Fiction and the National Book Award for Fiction.\n\nhttps://www.bklynlibra
  ry.org/node/790462
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20251015T140000Z
+DTEND:20251015T160000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782593
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
