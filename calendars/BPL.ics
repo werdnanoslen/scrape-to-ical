@@ -60,15 +60,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Total Body Fitness
-DTSTART:20251009T143000Z
-DTEND:20251009T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/777198
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20251009T143000Z
 DTEND:20251009T160000Z
@@ -386,5 +377,14 @@ DTEND:20251014T233000Z
 DESCRIPTION:Tuesday\, October 14th\n\nhttps://www.bklynlibrary.org/node/78
  7613
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group - Brooklyn Heights
+DTSTART:20251014T220000Z
+DTEND:20251014T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
+  Heights.\n\nhttps://www.bklynlibrary.org/node/781039
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 END:VCALENDAR
