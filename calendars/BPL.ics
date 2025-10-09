@@ -21,26 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20251009T140000Z
-DTEND:20251009T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/767033
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts & Crafts Circle
-DTSTART:20251009T183000Z
-DTEND:20251009T203000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers! B
- ring your own materials and enjoy the practice of making with other\n\nhtt
- ps://www.bklynlibrary.org/node/788393
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
 DTSTART:20251009T203000Z
 DTEND:20251009T221500Z
@@ -379,5 +359,24 @@ DESCRIPTION:Need help with understanding the basics of using a computer? O
  r maybe it’s just been a while and you’re looking to brush up on your 
  computer skills.\n\nhttps://www.bklynlibrary.org/node/792517
 LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251015T153000Z
+DTEND:20251015T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/781495
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Defense Basics with Gabriella
+DTSTART:20251015T160000Z
+DTEND:20251015T173000Z
+DESCRIPTION:Self-Defense Basics explores what we can do before\, during\, 
+ and after unsafe situations. In this program\, we will explore how we can 
+ communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
+ https://www.bklynlibrary.org/node/785676
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
