@@ -141,20 +141,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Fall Mornings
-DTSTART;VALUE=DATE:20251011T040000Z
-DTEND;VALUE=DATE:20251011T060000Z
-UID:Members’ Fall Mornings-2025-10-11 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, September 13–October 26\, 2025 (except
-  October 25) | 9–10 a.m.\n\nOn weekend mornings from September 13 to Oc
- tober 26\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
- rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
- g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
- humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Walking Meditation: Embodied Awareness in the Garden
 DTSTART;VALUE=DATE:20251011T040000Z
 DTEND;VALUE=DATE:20251011T060000Z
@@ -169,6 +155,20 @@ DESCRIPTION:Saturday\, October 11\, 2025 | 9–10:15 a.m.\n					\n\n\n
  /classes/walking_meditation_embodied_awareness_in_the_garden\n\n<img src="
  /img/uploads/hero/_list_thumbnail_regular/meditation_LL_54439232579.jpeg" 
  alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Fall Mornings
+DTSTART;VALUE=DATE:20251011T040000Z
+DTEND;VALUE=DATE:20251011T060000Z
+UID:Members’ Fall Mornings-2025-10-11 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, September 13–October 26\, 2025 (except
+  October 25) | 9–10 a.m.\n\nOn weekend mornings from September 13 to Oc
+ tober 26\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
+ rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
+ g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
+ humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -211,20 +211,6 @@ DESCRIPTION:Saturdays & Sundays\, September 13–October 26\, 2025 (except
  rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
  g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
  humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20251012T040000Z
-DTEND;VALUE=DATE:20251012T060000Z
-UID:Seasonal Highlights Tour-2025-10-12 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, September 9–October 31\, 2025 | 1–2 p.m
- .\n\nDiscover plants in bloom and other highlights of the season in this f
- ree walk led by trained Garden Guides.Learn More›about Seasonal Highligh
- ts Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights
- _tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Summer-Guided
- -Tour_SC_19.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -517,6 +503,19 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GAP Information Session
+DTSTART;VALUE=DATE:20251018T040000Z
+DTEND;VALUE=DATE:20251018T060000Z
+UID:GAP Information Session-2025-10-18 04:00:00+00:00
+DESCRIPTION:Saturday\, October 18\, 2025\n					\n\n					\n					| 11 a.m.
+ –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
+ ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
+ ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
+ egular/gap2015.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bonsai Mini Drop-In Tours
 DTSTART;VALUE=DATE:20251018T040000Z
 DTEND;VALUE=DATE:20251018T060000Z
@@ -528,19 +527,6 @@ DESCRIPTION:Saturday\, September 20\; October 18 | 11 a.m.–1 p.m.\n
  Drop-In Tours\n\nMore info:\nhttps://www.bbg.org/visit/event/bonsai_mini_t
  ours\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/BBG_CamillaFfr
  ench_BonsaiMuseum-11.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GAP Information Session
-DTSTART;VALUE=DATE:20251018T040000Z
-DTEND;VALUE=DATE:20251018T060000Z
-UID:GAP Information Session-2025-10-18 04:00:00+00:00
-DESCRIPTION:Saturday\, October 18\, 2025\n					\n\n					\n					| 11 a.m.
- –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
- ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
- ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
- egular/gap2015.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
