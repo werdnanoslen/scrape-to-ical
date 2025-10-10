@@ -21,14 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20251010T160000Z
-DTEND:20251010T180000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/787639
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251010T170000Z
 DTEND:20251010T190000Z
@@ -36,15 +28,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  58
 LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20251010T180000Z
-DTEND:20251010T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763532
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Collage Party
@@ -55,6 +38,15 @@ DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
  ects. You're welcome to bring your own additional materials to cut\n\nhttp
  s://www.bklynlibrary.org/node/772570
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20251010T180000Z
+DTEND:20251010T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/763532
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Banned Books Week: Malcolm X Movie Screening
@@ -378,6 +370,15 @@ DTEND:20251015T214500Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
  53
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251015T220000Z
+DTEND:20251015T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 07
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
