@@ -616,6 +616,19 @@ DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/motion-graphics-wit
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:In Conversation: Karine Jean-Pierre with Vladimir Duthiers
+DTSTART:20251103T233000Z
+DTEND:20251104T013000Z
+DTSTAMP:20251103T233000Z
+UID:In Conversation: Karine Jean-Pierre with Vladimir Duthiers-2025-11-03T
+ 23:30:00+00:00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/in-conversation-ka
+ rine-jean-pierre-with-vladimir-duthiers/\nhttps://goo.gl/maps/vX4YR8kcVXHm
+ bBZJ6\n<img src="https://bricartsmedia.org/wp-content/uploads/2025/10/KJP-
+ and-Vlad-comp-3-1-200x200.jpg" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TV Studio Intensive
 DTSTART:20251104T230000Z
 DTEND:20251105T020000Z
@@ -1005,15 +1018,5 @@ UID:Intro to DaVinci Resolve-2025-12-03T23:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/intro-to-davinci-re
  solve/
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20251204T230000Z
-DTEND:20251205T020000Z
-DTSTAMP:20251204T230000Z
-UID:Video Editing with Premiere -2025-12-04T23:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
