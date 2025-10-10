@@ -21,15 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251010T170000Z
-DTEND:20251010T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 58
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Collage Party
 DTSTART:20251010T180000Z
 DTEND:20251010T200000Z
@@ -38,15 +29,6 @@ DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
  ects. You're welcome to bring your own additional materials to cut\n\nhttp
  s://www.bklynlibrary.org/node/772570
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20251010T180000Z
-DTEND:20251010T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/763532
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Banned Books Week: Malcolm X Movie Screening
@@ -380,5 +362,24 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  07
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251015T220000Z
+DTEND:20251015T000000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/792007
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lance Richardson Discusses True Nature: The Pilgrimage of Peter Ma
+ tthiessen with Benjamin Moser
+DTSTART:20251015T230000Z
+DTEND:20251015T003000Z
+DESCRIPTION:BPL Presents welcomes Lance Richardson and this first biograph
+ y of Peter Matthiessen\, the novelist\, naturalist\, and Zen roshi\, whose
+  trailblazing work championed Native American rights and helped ushe\n\nht
+ tps://www.bklynlibrary.org/node/770066
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
