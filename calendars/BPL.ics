@@ -21,16 +21,6 @@ DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Collage Party
-DTSTART:20251010T180000Z
-DTEND:20251010T200000Z
-DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
- es and other supplies available to make cards\, postcards\, and other proj
- ects. You're welcome to bring your own additional materials to cut\n\nhttp
- s://www.bklynlibrary.org/node/772570
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Banned Books Week: Malcolm X Movie Screening
 DTSTART:20251010T180000Z
 DTEND:20251010T213000Z
@@ -381,5 +371,15 @@ DESCRIPTION:BPL Presents welcomes Lance Richardson and this first biograph
   trailblazing work championed Native American rights and helped ushe\n\nht
  tps://www.bklynlibrary.org/node/770066
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20251016T140000Z
+DTEND:20251016T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/767034
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
