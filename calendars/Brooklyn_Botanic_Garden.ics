@@ -67,35 +67,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fall First Discoveries
-DTSTART;VALUE=DATE:20251010T040000Z
-DTEND;VALUE=DATE:20251010T060000Z
-UID:Fall First Discoveries-2025-10-10 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\,  10:30 a.m.–12:30 p.m. | September 10
- –November 7\, 2025\n					\n\n\n					\n						\n							| Drop-in\n\nPot up
-  a plant\, create a craft\, read a story\, and use your senses to explore 
- nature at activity stations designed for early learners up to 4 years old.
- Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bbg.o
- rg/visit/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thum
- bnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20251010T040000Z
-DTEND;VALUE=DATE:20251010T060000Z
-UID:Seasonal Highlights Tour-2025-10-10 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, September 9–October 31\, 2025 | 1–2 p.m
- .\n\nDiscover plants in bloom and other highlights of the season in this f
- ree walk led by trained Garden Guides.Learn More›about Seasonal Highligh
- ts Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights
- _tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Summer-Guided
- -Tour_SC_19.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bonsai Scale Tour
 DTSTART;VALUE=DATE:20251011T040000Z
 DTEND;VALUE=DATE:20251011T060000Z
@@ -107,6 +78,20 @@ DESCRIPTION:Friday\, August 1\; Saturday\, September 27 & October 11\, 202
  e info:\nhttps://www.bbg.org/visit/event/bonsai_scale_tour_fall\n\n<img sr
  c="/img/uploads/hero/_list_thumbnail_regular/handbook-growing-bonsai-indoo
  rs_RB.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Fall Mornings
+DTSTART;VALUE=DATE:20251011T040000Z
+DTEND;VALUE=DATE:20251011T060000Z
+UID:Members’ Fall Mornings-2025-10-11 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, September 13–October 26\, 2025 (except
+  October 25) | 9–10 a.m.\n\nOn weekend mornings from September 13 to Oc
+ tober 26\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
+ rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
+ g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
+ humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -125,20 +110,6 @@ DESCRIPTION:Saturday\, October 11\, 2025 | 9–10:15 a.m.\n					\n\n\n
  /classes/walking_meditation_embodied_awareness_in_the_garden\n\n<img src="
  /img/uploads/hero/_list_thumbnail_regular/meditation_LL_54439232579.jpeg" 
  alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members’ Fall Mornings
-DTSTART;VALUE=DATE:20251011T040000Z
-DTEND;VALUE=DATE:20251011T060000Z
-UID:Members’ Fall Mornings-2025-10-11 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, September 13–October 26\, 2025 (except
-  October 25) | 9–10 a.m.\n\nOn weekend mornings from September 13 to Oc
- tober 26\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
- rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
- g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
- humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -369,20 +340,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Harvest Wreath Making
-DTSTART;VALUE=DATE:20251016T040000Z
-DTEND;VALUE=DATE:20251016T060000Z
-UID:Harvest Wreath Making-2025-10-16 04:00:00+00:00
-DESCRIPTION:Thursday\, October 16\, 2025 | 6–9 p.m.\n					\n\n\n					\n	
- 					\n							| Preregistration Required\n\nCreate a unique harvest wreath
-  with seasonal foliage\, dried flowers\, and natural elements.Learn More
- ›about Harvest Wreath Making\n\nMore info:\nhttps://www.bbg.org/classes/
- harvest_wreath_making\n\n<img src="/img/uploads/hero/_list_thumbnail_regul
- ar/Nsombi-Harvest-Wreath-Making.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Soil Management (blended)
 DTSTART;VALUE=DATE:20251016T040000Z
 DTEND;VALUE=DATE:20251016T060000Z
@@ -395,6 +352,20 @@ DESCRIPTION:7 sessions beginning Thursday\, September 4 or Thursday\, Octo
  ore›about Soil Management (blended)\n\nMore info:\nhttps://www.bbg.org/c
  lasses/soil_management_new\n\n<img src="/img/uploads/hero/_list_thumbnail_
  regular/soil_CG_5512.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Harvest Wreath Making
+DTSTART;VALUE=DATE:20251016T040000Z
+DTEND;VALUE=DATE:20251016T060000Z
+UID:Harvest Wreath Making-2025-10-16 04:00:00+00:00
+DESCRIPTION:Thursday\, October 16\, 2025 | 6–9 p.m.\n					\n\n\n					\n	
+ 					\n							| Preregistration Required\n\nCreate a unique harvest wreath
+  with seasonal foliage\, dried flowers\, and natural elements.Learn More
+ ›about Harvest Wreath Making\n\nMore info:\nhttps://www.bbg.org/classes/
+ harvest_wreath_making\n\n<img src="/img/uploads/hero/_list_thumbnail_regul
+ ar/Nsombi-Harvest-Wreath-Making.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -473,19 +444,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GAP Information Session
-DTSTART;VALUE=DATE:20251018T040000Z
-DTEND;VALUE=DATE:20251018T060000Z
-UID:GAP Information Session-2025-10-18 04:00:00+00:00
-DESCRIPTION:Saturday\, October 18\, 2025\n					\n\n					\n					| 11 a.m.
- –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
- ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
- ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
- egular/gap2015.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bonsai Mini Drop-In Tours
 DTSTART;VALUE=DATE:20251018T040000Z
 DTEND;VALUE=DATE:20251018T060000Z
@@ -497,6 +455,19 @@ DESCRIPTION:Saturday\, September 20\; October 18 | 11 a.m.–1 p.m.\n
  Drop-In Tours\n\nMore info:\nhttps://www.bbg.org/visit/event/bonsai_mini_t
  ours\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/BBG_CamillaFfr
  ench_BonsaiMuseum-11.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAP Information Session
+DTSTART;VALUE=DATE:20251018T040000Z
+DTEND;VALUE=DATE:20251018T060000Z
+UID:GAP Information Session-2025-10-18 04:00:00+00:00
+DESCRIPTION:Saturday\, October 18\, 2025\n					\n\n					\n					| 11 a.m.
+ –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
+ ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
+ ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
+ egular/gap2015.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -618,21 +589,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Putting Your Garden to Bed for Winter
-DTSTART;VALUE=DATE:20251022T040000Z
-DTEND;VALUE=DATE:20251022T060000Z
-UID:Putting Your Garden to Bed for Winter-2025-10-22 04:00:00+00:00
-DESCRIPTION:Single session on Sunday\, October 19 or Wednesday\, October 2
- 2\, 2025\n					\n\n\n					\n						\n							| Preregistration Required\n\nL
- earn the basics of getting your garden in shape as we near the end of the 
- growing season.Learn More›about Putting Your Garden to Bed for Winter\n\
- nMore info:\nhttps://www.bbg.org/classes/putting_your_garden_to_bed_for_wi
- nter\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/put-garden-to-
- bed_LL_54453691037_35a7c80049_o.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Botany for Horticulturists
 DTSTART;VALUE=DATE:20251022T040000Z
 DTEND;VALUE=DATE:20251022T060000Z
@@ -644,6 +600,21 @@ DESCRIPTION:8 sessions beginning Wednesday\, October 8\; or Wednesday\, Oc
  gram.Learn More›about Botany for Horticulturists\n\nMore info:\nhttps://
  www.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uploads/h
  ero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Putting Your Garden to Bed for Winter
+DTSTART;VALUE=DATE:20251022T040000Z
+DTEND;VALUE=DATE:20251022T060000Z
+UID:Putting Your Garden to Bed for Winter-2025-10-22 04:00:00+00:00
+DESCRIPTION:Single session on Sunday\, October 19 or Wednesday\, October 2
+ 2\, 2025\n					\n\n\n					\n						\n							| Preregistration Required\n\nL
+ earn the basics of getting your garden in shape as we near the end of the 
+ growing season.Learn More›about Putting Your Garden to Bed for Winter\n\
+ nMore info:\nhttps://www.bbg.org/classes/putting_your_garden_to_bed_for_wi
+ nter\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/put-garden-to-
+ bed_LL_54453691037_35a7c80049_o.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -786,6 +757,50 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20251025T040000Z
 DTEND;VALUE=DATE:20251025T060000Z
 UID:Seasonal Highlights Tour-2025-10-25 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, September 9–October 31\, 2025 | 1–2 p.m
+ .\n\nDiscover plants in bloom and other highlights of the season in this f
+ ree walk led by trained Garden Guides.Learn More›about Seasonal Highligh
+ ts Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights
+ _tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Summer-Guided
+ -Tour_SC_19.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Fall Mornings
+DTSTART;VALUE=DATE:20251026T040000Z
+DTEND;VALUE=DATE:20251026T060000Z
+UID:Members’ Fall Mornings-2025-10-26 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, September 13–October 26\, 2025 (except
+  October 25) | 9–10 a.m.\n\nOn weekend mornings from September 13 to Oc
+ tober 26\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
+ rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
+ g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
+ humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Family Discovery Weekends
+DTSTART;VALUE=DATE:20251026T040000Z
+DTEND;VALUE=DATE:20251026T060000Z
+UID:Fall Family Discovery Weekends-2025-10-26 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | September 14
+ –November 2\, 2025 (except October 11–12\, 25)\n					\n\n\n					\n				
+ 		\n							| Drop-in\n\nHands-on stations throughout the garden’s meadow
+ \, woodland\, and marsh habitats and in the vegetable garden encourage fam
+ ilies to explore nature together.Learn More›about Fall Family Discovery 
+ Weekends\n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_w
+ eekends\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-g
+ arden_LL_54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20251026T040000Z
+DTEND;VALUE=DATE:20251026T060000Z
+UID:Seasonal Highlights Tour-2025-10-26 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday\, September 9–October 31\, 2025 | 1–2 p.m
  .\n\nDiscover plants in bloom and other highlights of the season in this f
  ree walk led by trained Garden Guides.Learn More›about Seasonal Highligh
