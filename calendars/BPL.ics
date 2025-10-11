@@ -12,24 +12,6 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
 SUMMARY:Citizenship Class
-DTSTART:20251011T133000Z
-DTEND:20251011T163000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/791995
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Life Drawing
-DTSTART:20251011T163000Z
-DTEND:20251011T180000Z
-DESCRIPTION:Build hand-eye coordination\, develop better observation skill
- s\, and get into a relaxing zone through drawing. This class will help you
-  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
- s://www.bklynlibrary.org/node/789165
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Citizenship Class
 DTSTART:20251014T133000Z
 DTEND:20251014T163000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
@@ -378,5 +360,24 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/792365
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Podcast on Your Phone
+DTSTART:20251016T150000Z
+DTEND:20251016T170000Z
+DESCRIPTION:Hello\, Future Podcaster! In this course\, you will learn how 
+ to record\, edit\, and publish your own podcast right from your phone. We
+ 'll start with simple interview and recording techniques. You'll also\n\nh
+ ttps://www.bklynlibrary.org/node/765366
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251016T170000Z
+DTEND:20251016T173000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/792529
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
