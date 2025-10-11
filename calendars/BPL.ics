@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Banned Books Week Read-in
-DTSTART:20251010T210000Z
-DTEND:20251010T000000Z
-DESCRIPTION:Censorship is a threat to democracy. A vocal minority is restr
- icting access to books\, ideas\, and information nationwide. Brooklyn Publ
- ic Library stands for the right to read today\, this week\, and alwa\n\nht
- tps://www.bklynlibrary.org/node/790335
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20251011T133000Z
 DTEND:20251011T163000Z
@@ -379,5 +369,14 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
  ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
  rary.org/node/777199
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251016T143000Z
+DTEND:20251016T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
+ 74
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
