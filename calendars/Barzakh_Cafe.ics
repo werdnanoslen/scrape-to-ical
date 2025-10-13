@@ -54,6 +54,28 @@ DESCRIPTION:https://www.viewcy.com/event/cuban_night_with_eudy_1\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Afro Cuban Percussion Classes with Jorge
+DTSTART:20251018T210000Z
+DTEND:20251018T230000Z
+DTSTAMP:20251018T210000Z
+UID:Afro Cuban Percussion Classes with Jorge
+DESCRIPTION:https://www.viewcy.com/event/afro_cuban_percussion_1\n<p><img 
+ alt="Afro Cuban Percussion Classes with Jorge thumbnail" class="styles_cov
+ erImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data
+ -sentry-element="Image" data-sentry-source-file="index.tsx" decoding="asyn
+ c" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F020%2F353%2Fcover%2FAfro_Cuban_Percussion.jpg%3F1760369
+ 324&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F020%
+ 2F353%2Fcover%2FAfro_Cuban_Percussion.jpg%3F1760369324&amp\;w=384&amp\;q=1
+ 00 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazona
+ ws.com%2Fcourses%2Ffeatured_images%2F000%2F020%2F353%2Fcover%2FAfro_Cuban_
+ Percussion.jpg%3F1760369324&amp\;w=640&amp\;q=100 2x" style="color: transp
+ arent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Forbidden Lovers
 DTSTART:20251019T000000Z
 DTEND:20251019T020000Z
@@ -94,6 +116,29 @@ DESCRIPTION:https://www.viewcy.com/event/music_workshop_with_u\n<p><img al
  om%2Fcourses%2Ffeatured_images%2F000%2F021%2F096%2Fcover%2FUstad_Ali_Akbar
  _Razi.jpg%3F1760126689&amp\;w=640&amp\;q=100 2x" style="color: transparent
  \;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Oud Classes with Zafer Tawil
+DTSTART:20251019T210000Z
+DTEND:20251019T230000Z
+DTSTAMP:20251019T210000Z
+UID:Oud Classes with Zafer Tawil
+DESCRIPTION:https://www.viewcy.com/event/oud_classes_with_zafe_4\n<p><img 
+ alt="Oud Classes with Zafer Tawil thumbnail" class="styles_coverImg__PsR9G
+ " data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elem
+ ent="Image" data-sentry-source-file="index.tsx" decoding="async" height="1
+ 86" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F
+ %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
+ F000%2F020%2F971%2Fcover%2FBarzakh_Classes__28Instagram_Post__2845_29_29.j
+ pg%3F1760369607&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F020%2F971%2Fcover%2FBarzakh_Classes__28Instagram_Post__2845_29_29.
+ jpg%3F1760369607&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F020%2F971%2Fcover%2FBarzakh_Classes__28Instagram_Post__2845_29_29.jpg
+ %3F1760369607&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width
+ ="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
