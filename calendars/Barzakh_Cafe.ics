@@ -164,6 +164,28 @@ DESCRIPTION:https://www.viewcy.com/event/sham_e_qawwali_4\n<p><img alt="Sh
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drawn To Music: Rituals
+DTSTART:20251021T230000Z
+DTEND:20251022T010000Z
+DTSTAMP:20251021T230000Z
+UID:Drawn To Music: Rituals
+DESCRIPTION:https://www.viewcy.com/event/drawn_to_music_ritua\n<p><img alt
+ ="Drawn To Music: Rituals thumbnail" class="styles_coverImg__PsR9G" data-n
+ img="1" data-sentry-component="ImageWithFallback" data-sentry-element="Ima
+ ge" data-sentry-source-file="index.tsx" decoding="async" height="186" load
+ ing="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewc
+ y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
+ 21%2F149%2Fcover%2FWhatsApp_Image_2025-10-14_at_7.19.47_PM.jpg%3F176045034
+ 8&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-her
+ oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F
+ 149%2Fcover%2FWhatsApp_Image_2025-10-14_at_7.19.47_PM.jpg%3F1760450348&amp
+ \;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-produ
+ ction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F149%2Fcov
+ er%2FWhatsApp_Image_2025-10-14_at_7.19.47_PM.jpg%3F1760450348&amp\;w=640&a
+ mp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Los Nuyores: An Evening of Flamenco
 DTSTART:20251025T000000Z
 DTEND:20251025T020000Z
