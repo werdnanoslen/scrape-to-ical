@@ -318,4 +318,25 @@ DESCRIPTION:https://www.viewcy.com/event/ameer_armaly_and_frie\n<p><img al
  nsparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ampelos Trio | Weavers
+DTSTART:20251121T003000Z
+DTEND:20251121T023000Z
+DTSTAMP:20251121T003000Z
+UID:Ampelos Trio | Weavers
+DESCRIPTION:https://www.viewcy.com/event/ampelos_trio__weaver\n<p><img alt
+ ="Ampelos Trio | Weavers thumbnail" class="styles_coverImg__PsR9G" data-ni
+ mg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Imag
+ e" data-sentry-source-file="index.tsx" decoding="async" height="186" loadi
+ ng="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy
+ -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
+ 1%2F160%2Fcover%2FAmpelos_Trio.jpg%3F1760470155&amp\;w=640&amp\;q=100" src
+ set="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.
+ com%2Fcourses%2Ffeatured_images%2F000%2F021%2F160%2Fcover%2FAmpelos_Trio.j
+ pg%3F1760470155&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2F
+ viewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F00
+ 0%2F021%2F160%2Fcover%2FAmpelos_Trio.jpg%3F1760470155&amp\;w=640&amp\;q=10
+ 0 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
