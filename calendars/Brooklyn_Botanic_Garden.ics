@@ -54,24 +54,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Memory Program for Individuals with Memory Loss and Their Caregive
- rs
-DTSTART;VALUE=DATE:20251014T040000Z
-DTEND;VALUE=DATE:20251014T060000Z
-UID:Memory Program for Individuals with Memory Loss and Their Caregivers-2
- 025-10-14 04:00:00+00:00
-DESCRIPTION:Tuesday\, October 14\, 2025 | 11:30 a.m.–1:30 p.m.\n					\
- n\n\n					\n						\n							| Preregistration Required\n\nJoin us for a spe
- cial activity designed for individuals with memory loss and their caregive
- rs.Learn More›about Memory Program for Individuals with Memory Loss and 
- Their Caregivers\n\nMore info:\nhttps://www.bbg.org/visit/event/memory_pro
- gram_for_individuals_with_memory_loss_and_their_caregivers\n\n<img src="/i
- mg/uploads/hero/_list_thumbnail_regular/discover_gardens_bluebell-wood.jpg
- " alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:School Group Visits: Discovery Trail
 DTSTART;VALUE=DATE:20251014T040000Z
 DTEND;VALUE=DATE:20251014T060000Z
@@ -102,6 +84,20 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fall Plant Sale
+DTSTART;VALUE=DATE:20251015T040000Z
+DTEND;VALUE=DATE:20251015T060000Z
+UID:Fall Plant Sale-2025-10-15 04:00:00+00:00
+DESCRIPTION:Wednesday\, October 15\, 2025\, 4–7 p.m. (Garden closes at 6
+  p.m.) & Thursday\, October 16\, 2025\, 10 a.m.–2 p.m. (or while supplie
+ s last)\n\nShop a curated and dazzling selection of plants for your home a
+ nd garden!Learn More›about Fall Plant Sale\n\nMore info:\nhttps://www.bb
+ g.org/visit/event/fall_plant_sale\n\n<img src="/img/uploads/hero/_list_thu
+ mbnail_regular/plant-sale_MS_53252747132.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall First Discoveries
 DTSTART;VALUE=DATE:20251015T040000Z
 DTEND;VALUE=DATE:20251015T060000Z
@@ -113,20 +109,6 @@ DESCRIPTION:Wednesdays & Fridays\,  10:30 a.m.–12:30 p.m. | September 10
  Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bbg.o
  rg/visit/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thum
  bnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Plant Sale
-DTSTART;VALUE=DATE:20251015T040000Z
-DTEND;VALUE=DATE:20251015T060000Z
-UID:Fall Plant Sale-2025-10-15 04:00:00+00:00
-DESCRIPTION:Wednesday\, October 15\, 2025\, 4–7 p.m. (Garden closes at 6
-  p.m.) & Thursday\, October 16\, 2025\, 10 a.m.–2 p.m. (or while supplie
- s last)\n\nShop a curated and dazzling selection of plants for your home a
- nd garden!Learn More›about Fall Plant Sale\n\nMore info:\nhttps://www.bb
- g.org/visit/event/fall_plant_sale\n\n<img src="/img/uploads/hero/_list_thu
- mbnail_regular/plant-sale_MS_53252747132.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -238,6 +220,20 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Harvest Wreath Making
+DTSTART;VALUE=DATE:20251016T040000Z
+DTEND;VALUE=DATE:20251016T060000Z
+UID:Harvest Wreath Making-2025-10-16 04:00:00+00:00
+DESCRIPTION:Thursday\, October 16\, 2025 | 6–9 p.m.\n					\n\n\n					\n	
+ 					\n							| Preregistration Required\n\nCreate a unique harvest wreath
+  with seasonal foliage\, dried flowers\, and natural elements.Learn More
+ ›about Harvest Wreath Making\n\nMore info:\nhttps://www.bbg.org/classes/
+ harvest_wreath_making\n\n<img src="/img/uploads/hero/_list_thumbnail_regul
+ ar/Nsombi-Harvest-Wreath-Making.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Soil Management (blended)
 DTSTART;VALUE=DATE:20251016T040000Z
 DTEND;VALUE=DATE:20251016T060000Z
@@ -250,20 +246,6 @@ DESCRIPTION:7 sessions beginning Thursday\, September 4 or Thursday\, Octo
  ore›about Soil Management (blended)\n\nMore info:\nhttps://www.bbg.org/c
  lasses/soil_management_new\n\n<img src="/img/uploads/hero/_list_thumbnail_
  regular/soil_CG_5512.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harvest Wreath Making
-DTSTART;VALUE=DATE:20251016T040000Z
-DTEND;VALUE=DATE:20251016T060000Z
-UID:Harvest Wreath Making-2025-10-16 04:00:00+00:00
-DESCRIPTION:Thursday\, October 16\, 2025 | 6–9 p.m.\n					\n\n\n					\n	
- 					\n							| Preregistration Required\n\nCreate a unique harvest wreath
-  with seasonal foliage\, dried flowers\, and natural elements.Learn More
- ›about Harvest Wreath Making\n\nMore info:\nhttps://www.bbg.org/classes/
- harvest_wreath_making\n\n<img src="/img/uploads/hero/_list_thumbnail_regul
- ar/Nsombi-Harvest-Wreath-Making.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
