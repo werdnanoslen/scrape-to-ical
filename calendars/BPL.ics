@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20251015T140000Z
-DTEND:20251015T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782593
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251015T140000Z
-DTEND:20251015T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 86
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20251015T140000Z
-DTEND:20251015T153000Z
-DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
- r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792031
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One-On-One Computer Help
-DTSTART:20251015T150000Z
-DTEND:20251015T160000Z
-DESCRIPTION:Need help with understanding the basics of using a computer? O
- r maybe it’s just been a while and you’re looking to brush up on your 
- computer skills.\n\nhttps://www.bklynlibrary.org/node/792517
-LOCATION:Pacific Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ask A Tech
 DTSTART:20251015T153000Z
 DTEND:20251015T163000Z
@@ -378,5 +345,42 @@ DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
  ects. You're welcome to bring your own additional materials to cut\n\nhttp
  s://www.bklynlibrary.org/node/782708
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20251017T200000Z
+DTEND:20251017T213000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/792193
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251018T133000Z
+DTEND:20251018T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791996
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251018T143000Z
+DTEND:20251018T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 79
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book Chat
+DTSTART:20251018T143000Z
+DTEND:20251018T160000Z
+DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
+  book you've read recently that you'd like to tell other folks about\, and
+  hear what other people are reading. It's like a book club\, excep\n\nhttp
+ s://www.bklynlibrary.org/node/790338
+LOCATION:Brooklyn Heights Library\, Orange Meeting Room
 END:VEVENT
 END:VCALENDAR
