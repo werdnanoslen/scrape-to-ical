@@ -207,6 +207,28 @@ DESCRIPTION:https://www.viewcy.com/event/los_nuyores_an_eveni\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Qawwali Night With Saami Brothers
+DTSTART:20251025T013000Z
+DTEND:20251025T033000Z
+DTSTAMP:20251025T013000Z
+UID:Qawwali Night With Saami Brothers
+DESCRIPTION:https://www.viewcy.com/event/qawwali_night_with_sa\n<p><img al
+ t="Qawwali Night With Saami Brothers thumbnail" class="styles_coverImg__Ps
+ R9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-e
+ lement="Image" data-sentry-source-file="index.tsx" decoding="async" height
+ ="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A
+ %2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_image
+ s%2F000%2F021%2F174%2Fcover%2FWhatsApp_Image_2025-10-15_at_1.13.13_AM.jpg%
+ 3F1760533390&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F021%2F174%2Fcover%2FWhatsApp_Image_2025-10-15_at_1.13.13_AM.jpg%3F176
+ 0533390&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%
+ 2F174%2Fcover%2FWhatsApp_Image_2025-10-15_at_1.13.13_AM.jpg%3F1760533390&a
+ mp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Barzakh Homecoming: Where It Began
 DTSTART:20251027T230000Z
 DTEND:20251028T010000Z
