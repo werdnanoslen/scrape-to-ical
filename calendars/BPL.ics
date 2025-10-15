@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20251015T153000Z
-DTEND:20251015T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/781495
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Self-Defense Basics with Gabriella
 DTSTART:20251015T160000Z
 DTEND:20251015T173000Z
@@ -382,5 +373,13 @@ DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
   hear what other people are reading. It's like a book club\, excep\n\nhttp
  s://www.bklynlibrary.org/node/790338
 LOCATION:Brooklyn Heights Library\, Orange Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finish Your Diploma Now!
+DTSTART:20251018T143000Z
+DTEND:20251018T153000Z
+DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
+ \nhttps://www.bklynlibrary.org/node/790686
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
