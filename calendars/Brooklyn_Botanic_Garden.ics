@@ -54,32 +54,17 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:School Group Visits: Discovery Trail
-DTSTART;VALUE=DATE:20251014T040000Z
-DTEND;VALUE=DATE:20251014T060000Z
-UID:School Group Visits: Discovery Trail-2025-10-14 04:00:00+00:00
-DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | October 7–N
- ovember 6\, 2025 (except November 4) \n					\n\n\n					\n						\n							| 
- Preregistration Required\n\nUse real science tools as you explore plants a
- longside Discovery Docents at our hands-on activity stations throughout th
- e Discovery Garden.Learn More›about School Group Visits: Discovery Trail
- \n\nMore info:\nhttps://www.bbg.org/visit/event/school_group_visits_discov
- ery_trail\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/di
- scovery-cart_BB_42604393462-1120.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20251014T040000Z
-DTEND;VALUE=DATE:20251014T060000Z
-UID:Seasonal Highlights Tour-2025-10-14 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, September 9–October 31\, 2025 | 1–2 p.m
- .\n\nDiscover plants in bloom and other highlights of the season in this f
- ree walk led by trained Garden Guides.Learn More›about Seasonal Highligh
- ts Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights
- _tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Summer-Guided
- -Tour_SC_19.jpg" alt="" />
+SUMMARY:Fall First Discoveries
+DTSTART;VALUE=DATE:20251015T040000Z
+DTEND;VALUE=DATE:20251015T060000Z
+UID:Fall First Discoveries-2025-10-15 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\,  10:30 a.m.–12:30 p.m. | September 10
+ –November 7\, 2025\n					\n\n\n					\n						\n							| Drop-in\n\nPot up
+  a plant\, create a craft\, read a story\, and use your senses to explore 
+ nature at activity stations designed for early learners up to 4 years old.
+ Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bbg.o
+ rg/visit/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -94,21 +79,6 @@ DESCRIPTION:Wednesday\, October 15\, 2025\, 4–7 p.m. (Garden closes at 6
  nd garden!Learn More›about Fall Plant Sale\n\nMore info:\nhttps://www.bb
  g.org/visit/event/fall_plant_sale\n\n<img src="/img/uploads/hero/_list_thu
  mbnail_regular/plant-sale_MS_53252747132.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall First Discoveries
-DTSTART;VALUE=DATE:20251015T040000Z
-DTEND;VALUE=DATE:20251015T060000Z
-UID:Fall First Discoveries-2025-10-15 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\,  10:30 a.m.–12:30 p.m. | September 10
- –November 7\, 2025\n					\n\n\n					\n						\n							| Drop-in\n\nPot up
-  a plant\, create a craft\, read a story\, and use your senses to explore 
- nature at activity stations designed for early learners up to 4 years old.
- Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bbg.o
- rg/visit/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thum
- bnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -324,19 +294,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GAP Information Session
-DTSTART;VALUE=DATE:20251018T040000Z
-DTEND;VALUE=DATE:20251018T060000Z
-UID:GAP Information Session-2025-10-18 04:00:00+00:00
-DESCRIPTION:Saturday\, October 18\, 2025\n					\n\n					\n					| 11 a.m.
- –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
- ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
- ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
- egular/gap2015.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bonsai Mini Drop-In Tours
 DTSTART;VALUE=DATE:20251018T040000Z
 DTEND;VALUE=DATE:20251018T060000Z
@@ -348,6 +305,19 @@ DESCRIPTION:Saturday\, September 20\; October 18 | 11 a.m.–1 p.m.\n
  Drop-In Tours\n\nMore info:\nhttps://www.bbg.org/visit/event/bonsai_mini_t
  ours\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/BBG_CamillaFfr
  ench_BonsaiMuseum-11.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAP Information Session
+DTSTART;VALUE=DATE:20251018T040000Z
+DTEND;VALUE=DATE:20251018T060000Z
+UID:GAP Information Session-2025-10-18 04:00:00+00:00
+DESCRIPTION:Saturday\, October 18\, 2025\n					\n\n					\n					| 11 a.m.
+ –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
+ ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
+ ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
+ egular/gap2015.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -746,6 +716,66 @@ DESCRIPTION:Tuesday–Sunday\, September 9–October 31\, 2025 | 1–2 p.m
  ts Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights
  _tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Summer-Guided
  -Tour_SC_19.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Goodnight\, Garden!
+DTSTART;VALUE=DATE:20251030T040000Z
+DTEND;VALUE=DATE:20251030T060000Z
+UID:Goodnight\, Garden!-2025-10-30 04:00:00+00:00
+DESCRIPTION:Thursday\, October 30\, 2025 | 4–5:30 p.m. \n					\n\n\n				
+ 	\n						\n							| Preregistration Required\n\nCelebrate the end of the f
+ all season and say goodnight to the Children’s Garden! This is a one-tim
+ e program for kids of all ages and their families.Learn More›about Goodn
+ ight\, Garden!\n\nMore info:\nhttps://www.bbg.org/classes/goodnight_garden
+ \n\n<img src="/img/uploads/hero/_list_thumbnail_regular/2024.10.12_Brookly
+ n_Botanic_Garden_Fall_Frolic_@seanchee-45_.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20251030T040000Z
+DTEND;VALUE=DATE:20251030T060000Z
+UID:School Group Visits: Discovery Trail-2025-10-30 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | October 7–N
+ ovember 6\, 2025 (except November 4) \n					\n\n\n					\n						\n							| 
+ Preregistration Required\n\nUse real science tools as you explore plants a
+ longside Discovery Docents at our hands-on activity stations throughout th
+ e Discovery Garden.Learn More›about School Group Visits: Discovery Trail
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/school_group_visits_discov
+ ery_trail\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/di
+ scovery-cart_BB_42604393462-1120.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20251030T040000Z
+DTEND;VALUE=DATE:20251030T060000Z
+UID:Seasonal Highlights Tour-2025-10-30 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, September 9–October 31\, 2025 | 1–2 p.m
+ .\n\nDiscover plants in bloom and other highlights of the season in this f
+ ree walk led by trained Garden Guides.Learn More›about Seasonal Highligh
+ ts Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights
+ _tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Summer-Guided
+ -Tour_SC_19.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ecological Gardening
+DTSTART;VALUE=DATE:20251030T040000Z
+DTEND;VALUE=DATE:20251030T060000Z
+UID:Ecological Gardening-2025-10-30 04:00:00+00:00
+DESCRIPTION:Thursday\, October 30\, 2025 | 5:30–8:30 p.m. \n					\n\n\n	
+ 				\n						\n							| Preregistration Required\n\nExplore beginner-friend
+ ly ecological gardening practices to boost soil health\, support pollinato
+ rs\, and reimagine your outdoor space.Learn More›about Ecological Garden
+ ing\n\nMore info:\nhttps://www.bbg.org/classes/ecological_gardening\n\n<im
+ g src="/img/uploads/hero/_list_thumbnail_regular/wild-bergamot-native-flor
+ a_MS_52238792873_hero.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
