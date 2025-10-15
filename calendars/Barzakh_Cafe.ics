@@ -183,27 +183,6 @@ DESCRIPTION:https://www.viewcy.com/event/drawn_to_music_ritua\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lo-Fi Tambo Night
-DTSTART:20251023T230000Z
-DTEND:20251024T010000Z
-DTSTAMP:20251023T230000Z
-UID:Lo-Fi Tambo Night
-DESCRIPTION:https://www.viewcy.com/event/lofi_tambo_night\n<p><img alt="Lo
- -Fi Tambo Night thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" da
- ta-sentry-component="ImageWithFallback" data-sentry-element="Image" data-s
- entry-source-file="index.tsx" decoding="async" height="186" loading="lazy"
-  src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-p
- roduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F188%2
- Fcover%2FAKUPERCU__283_29.jpg%3F1760557334&amp\;w=640&amp\;q=100" srcset="
- /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2
- Fcourses%2Ffeatured_images%2F000%2F021%2F188%2Fcover%2FAKUPERCU__283_29.jp
- g%3F1760557334&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fv
- iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
- %2F021%2F188%2Fcover%2FAKUPERCU__283_29.jpg%3F1760557334&amp\;w=640&amp\;q
- =100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Los Nuyores: An Evening of Flamenco
 DTSTART:20251025T000000Z
 DTEND:20251025T020000Z
