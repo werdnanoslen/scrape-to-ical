@@ -30,24 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251016T170000Z
-DTEND:20251016T173000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/792529
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251016T173000Z
-DTEND:20251016T180000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/792535
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:How to Edit Your Podcast
 DTSTART:20251016T180000Z
 DTEND:20251016T200000Z
@@ -120,6 +102,16 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/793239
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20251016T220000Z
+DTEND:20251016T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/793517
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:National External Diploma Program (NEDP) Info. Session
@@ -368,5 +360,15 @@ DTEND:20251020T214500Z
 DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
   class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780025
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bard Microcollege at Brooklyn Public Library - Information Session
+DTSTART:20251020T213000Z
+DTEND:20251020T223000Z
+DESCRIPTION:Bard Microcollege's admission team invites you to attend an in
+ formation session on Monday\, October 20\, 2025 at 5:30 pm. Learn more abo
+ ut Bard at BPL and ask questions about applying to this full-tuiti\n\nhttp
+ s://www.bklynlibrary.org/node/793133
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
