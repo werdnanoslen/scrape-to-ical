@@ -21,16 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:How to Edit Your Podcast
-DTSTART:20251016T180000Z
-DTEND:20251016T200000Z
-DESCRIPTION:Interested in making a podcast but don’t know how to edit? L
- earn simple editing tools to make your podcast sound better\, as well as f
- ree and inexpensive software options for editing at home or on the\n\nhttp
- s://www.bklynlibrary.org/node/765368
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Job Fair Readiness: Tips & Tactics for Success (Virtual)
 DTSTART:20251016T200000Z
 DTEND:20251016T210000Z
@@ -367,6 +357,14 @@ SUMMARY:Free English Class (We Speak NYC)
 DTSTART:20251020T214500Z
 DTEND:20251020T234500Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788576
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251021T133000Z
+DTEND:20251021T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791986
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
