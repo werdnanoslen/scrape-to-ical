@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20251016T140000Z
-DTEND:20251016T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7821
- 00
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:How to Edit Your Podcast
 DTSTART:20251016T180000Z
 DTEND:20251016T200000Z
@@ -370,5 +361,12 @@ DESCRIPTION:Bard Microcollege's admission team invites you to attend an in
  ut Bard at BPL and ask questions about applying to this full-tuiti\n\nhttp
  s://www.bklynlibrary.org/node/793133
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20251020T214500Z
+DTEND:20251020T234500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788576
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
