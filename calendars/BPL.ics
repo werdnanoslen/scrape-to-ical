@@ -30,16 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Make a Podcast on Your Phone
-DTSTART:20251016T150000Z
-DTEND:20251016T170000Z
-DESCRIPTION:Hello\, Future Podcaster! In this course\, you will learn how 
- to record\, edit\, and publish your own podcast right from your phone. We
- 'll start with simple interview and recording techniques. You'll also\n\nh
- ttps://www.bklynlibrary.org/node/765366
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
 DTSTART:20251016T170000Z
 DTEND:20251016T173000Z
@@ -370,5 +360,13 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
  69
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class
+DTSTART:20251020T210000Z
+DTEND:20251020T214500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780025
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
