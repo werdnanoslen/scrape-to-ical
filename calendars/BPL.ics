@@ -11,45 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Resume Coaching
-DTSTART:20251016T213000Z
-DTEND:20251016T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/792763
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20251016T220000Z
-DTEND:20251016T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/793239
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20251016T220000Z
-DTEND:20251016T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/793517
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National External Diploma Program (NEDP) Info. Session
-DTSTART:20251016T223000Z
-DTEND:20251016T233000Z
-DESCRIPTION:Looking for a different way to earn your high school equivalen
- cy diploma? The National External Diploma Program could be right for you! 
- Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
- ://www.bklynlibrary.org/node/788599
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251017T140000Z
 DTEND:20251017T160000Z
@@ -190,5 +151,217 @@ DTSTART:20251020T150000Z
 DTEND:20251020T170000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790346
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20251020T153000Z
+DTEND:20251020T173000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790410
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga
+DTSTART:20251020T163000Z
+DTEND:20251020T173000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/781056
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20251020T170000Z
+DTEND:20251020T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/790342
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251020T180000Z
+DTEND:20251020T200000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774071
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Business Website Workday (at Brooklyn Public Library)
+DTSTART:20251020T180000Z
+DTEND:20251020T200000Z
+DESCRIPTION:Join the Pace University SBDC and Brooklyn Public Library's B
+ usiness & Career Center for a no-cost\, two-hour\, IN-PERSON website ed
+ iting workshop at BPL's Business & Career Center\, 10 Grand Army Plaza\,\
+ n\nhttps://www.bklynlibrary.org/node/790888
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jigsaw Puzzle Hour
+DTSTART:20251020T190000Z
+DTEND:20251020T210000Z
+DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
+ variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
+ ://www.bklynlibrary.org/node/788254
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20251020T190000Z
+DTEND:20251020T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /790374
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20251020T190000Z
+DTEND:20251020T210000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790798
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20251020T200000Z
+DTEND:20251020T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/789151
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251020T203000Z
+DTEND:20251020T220000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 69
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class
+DTSTART:20251020T210000Z
+DTEND:20251020T214500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780025
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bard Microcollege at Brooklyn Public Library - Information Session
+DTSTART:20251020T213000Z
+DTEND:20251020T223000Z
+DESCRIPTION:Bard Microcollege's admission team invites you to attend an in
+ formation session on Monday\, October 20\, 2025 at 5:30 pm. Learn more abo
+ ut Bard at BPL and ask questions about applying to this full-tuiti\n\nhttp
+ s://www.bklynlibrary.org/node/793133
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20251020T214500Z
+DTEND:20251020T234500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788576
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251021T133000Z
+DTEND:20251021T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791986
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Brooklyn Job & Career Fair
+DTSTART:20251021T140000Z
+DTEND:20251021T180000Z
+DESCRIPTION:In collaboration with the offices of several Central Brooklyn 
+ elected officials\, NYC Workforce1 and the Brooklyn Public Library\, the N
+ ew York State Department of Labor is proud to present the Central\n\nhttps
+ ://www.bklynlibrary.org/node/791511
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251021T170000Z
+DTEND:20251021T173000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/792525
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251021T173000Z
+DTEND:20251021T180000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/792531
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20251021T190000Z
+DTEND:20251021T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/79069
+ 4
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20251021T210000Z
+DTEND:20251021T223000Z
+DESCRIPTION:Looking to share your current knitting/crocheting project with
+  others? Come join like-minded folks on their yarn journey in the Info Co
+ mmons. Bring your own yarn and tools and meet with other fiber ar\n\nhttp
+ s://www.bklynlibrary.org/node/766775
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POP CULTURE CLUB
+DTSTART:20251021T213000Z
+DTEND:20251021T223000Z
+DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
+  trending? Join our Pop Culture Club! We meet regularly to discuss the lat
+ est in entertainment\, share fan theories\, play trivia\, and dive into\n\
+ nhttps://www.bklynlibrary.org/node/778776
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group - Brooklyn Heights
+DTSTART:20251021T220000Z
+DTEND:20251021T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
+  Heights.\n\nhttps://www.bklynlibrary.org/node/781040
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diane Ravitch on An Education\, with Leonie Haimson
+DTSTART:20251021T220000Z
+DTEND:20251021T233000Z
+DESCRIPTION:Join us to hear Diane Ravitch discuss her new book\, An Educat
+ ion\, with Leonie Haimson.\n\nhttps://www.bklynlibrary.org/node/787023
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20251021T220000Z
+DTEND:20251021T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/791255
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finish Your Diploma Now!
+DTSTART:20251021T223000Z
+DTEND:20251021T233000Z
+DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
+ \nhttps://www.bklynlibrary.org/node/790687
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
