@@ -54,6 +54,19 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bonsai Collection Centennial
+DTSTART;VALUE=DATE:20250614T040000Z
+DTEND;VALUE=DATE:20251020T040000Z
+UID:Bonsai Collection Centennial-2025-06-14 04:00:00+00:00
+DESCRIPTION:June 14–October 19\, 2025\n\nThis year\, Brooklyn Botanic Ga
+ rden celebrates 100 years of its incredible Bonsai Collection.Learn More
+ ›about Bonsai Collection Centennial\n\nMore info:\nhttps://www.bbg.org/b
+ onsai100\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/BBG
+ _Bonsai_100_Condensed_light.gif" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall First Discoveries
 DTSTART;VALUE=DATE:20251017T040000Z
 DTEND;VALUE=DATE:20251017T060000Z

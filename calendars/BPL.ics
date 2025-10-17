@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Movie: All the President's Men
-DTSTART:20251017T143000Z
-DTEND:20251017T164500Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
- n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/792911
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251017T150000Z
-DTEND:20251017T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/785532
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251017T170000Z
 DTEND:20251017T190000Z
@@ -46,6 +28,15 @@ DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
  ects. You're welcome to bring your own additional materials to cut\n\nhttp
  s://www.bklynlibrary.org/node/782708
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20251017T180000Z
+DTEND:20251017T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/793688
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
@@ -363,5 +354,14 @@ DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782594
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251022T140000Z
+DTEND:20251022T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 87
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
