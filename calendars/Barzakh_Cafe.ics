@@ -315,6 +315,27 @@ DESCRIPTION:https://www.viewcy.com/event/the_brm_concert_and_j\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halloween Night
+DTSTART:20251101T000000Z
+DTEND:20251101T020000Z
+DTSTAMP:20251101T000000Z
+UID:Halloween Night
+DESCRIPTION:https://www.viewcy.com/event/halloween_night\n<p><img alt="Hal
+ loween Night thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
+ sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
+ ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
+ c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F260%2Fco
+ ver%2Fhalloween__287_29.jpg%3F1760729397&amp\;w=640&amp\;q=100" srcset="/_
+ next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fc
+ ourses%2Ffeatured_images%2F000%2F021%2F260%2Fcover%2Fhalloween__287_29.jpg
+ %3F1760729397&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fvi
+ ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
+ 2F021%2F260%2Fcover%2Fhalloween__287_29.jpg%3F1760729397&amp\;w=640&amp\;q
+ =100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joel Veena: Ragas & Sagas with Mir Naqibul Islam
 DTSTART:20251107T000000Z
 DTEND:20251107T020000Z
