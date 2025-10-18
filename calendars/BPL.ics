@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Feng Shui and I Ching
-DTSTART:20251018T193000Z
-DTEND:20251018T210000Z
-DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
- arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
- ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
- ps://www.bklynlibrary.org/node/788526
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Classical Interludes: FourOneOne presents Dave Burrell: In the Tra
  dition
 DTSTART:20251019T200000Z
@@ -365,5 +355,15 @@ DTEND:20251022T200000Z
 DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
  ://www.bklynlibrary.org/node/767656
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/785533
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
