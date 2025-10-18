@@ -19,33 +19,6 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251018T143000Z
-DTEND:20251018T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 79
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Chat
-DTSTART:20251018T143000Z
-DTEND:20251018T160000Z
-DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
-  book you've read recently that you'd like to tell other folks about\, and
-  hear what other people are reading. It's like a book club\, excep\n\nhttp
- s://www.bklynlibrary.org/node/790338
-LOCATION:Brooklyn Heights Library\, Orange Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finish Your Diploma Now!
-DTSTART:20251018T143000Z
-DTEND:20251018T153000Z
-DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
- \nhttps://www.bklynlibrary.org/node/790686
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feng Shui and I Ching
 DTSTART:20251018T193000Z
 DTEND:20251018T210000Z
@@ -363,5 +336,34 @@ DESCRIPTION:Do you have a specific question about how to use computers or
  find your way around the Internet? No time to attend a formal class?\n\nht
  tps://www.bklynlibrary.org/node/781496
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Self-Defense Basics with Gabriella
+DTSTART:20251022T160000Z
+DTEND:20251022T173000Z
+DESCRIPTION:Self-Defense Basics explores what we can do before\, during\, 
+ and after unsafe situations. In this program\, we will explore how we can 
+ communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
+ https://www.bklynlibrary.org/node/785677
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Business and Career Center’s: Community Connection Resource Fair
+DTSTART:20251022T160000Z
+DTEND:20251022T180000Z
+DESCRIPTION:Come and meet the community partners of BPL's Business & Caree
+ r Center and Adult Learning Department!\n\nhttps://www.bklynlibrary.org/no
+ de/788329
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Coloring
+DTSTART:20251022T170000Z
+DTEND:20251022T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /792189
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
