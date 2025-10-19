@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:The Forbidden Lovers
-DTSTART:20251019T000000Z
-DTEND:20251019T020000Z
-DTSTAMP:20251019T000000Z
-UID:The Forbidden Lovers
-DESCRIPTION:https://www.viewcy.com/event/the_forbidden_lovers\n<p><img alt
- ="The Forbidden Lovers thumbnail" class="styles_coverImg__PsR9G" data-nimg
- ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
-  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
- ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-h
- eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%
- 2F089%2Fcover%2FThe_Forbidden_Lovers.jpg%3F1760105936&amp\;w=640&amp\;q=10
- 0" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
- onaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F089%2Fcover%2FThe_Forb
- idden_Lovers.jpg%3F1760105936&amp\;w=384&amp\;q=100 1x\, /_next/image?url=
- https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
- ed_images%2F000%2F021%2F089%2Fcover%2FThe_Forbidden_Lovers.jpg%3F176010593
- 6&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Music Workshop With Ustad Ali Akbar Razi
 DTSTART:20251019T200000Z
 DTEND:20251019T220000Z
