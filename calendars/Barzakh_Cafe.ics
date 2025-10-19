@@ -11,28 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Music Workshop With Ustad Ali Akbar Razi
-DTSTART:20251019T200000Z
-DTEND:20251019T220000Z
-DTSTAMP:20251019T200000Z
-UID:Music Workshop With Ustad Ali Akbar Razi
-DESCRIPTION:https://www.viewcy.com/event/music_workshop_with_u\n<p><img al
- t="Music Workshop With Ustad Ali Akbar Razi thumbnail" class="styles_cover
- Img__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-s
- entry-element="Image" data-sentry-source-file="index.tsx" decoding="async"
-  height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=h
- ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
- d_images%2F000%2F021%2F096%2Fcover%2FUstad_Ali_Akbar_Razi.jpg%3F1760126689
- &amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-hero
- ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F0
- 96%2Fcover%2FUstad_Ali_Akbar_Razi.jpg%3F1760126689&amp\;w=384&amp\;q=100 1
- x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.c
- om%2Fcourses%2Ffeatured_images%2F000%2F021%2F096%2Fcover%2FUstad_Ali_Akbar
- _Razi.jpg%3F1760126689&amp\;w=640&amp\;q=100 2x" style="color: transparent
- \;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Oud Classes with Zafer Tawil
 DTSTART:20251019T210000Z
 DTEND:20251019T230000Z
@@ -73,6 +51,28 @@ DESCRIPTION:https://www.viewcy.com/event/sham_e_qawwali_4\n<p><img alt="Sh
  aws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F072%2Fcover%2FUntitled__
  28Instagram_Post__2845_29_29.jpg%3F1760022187&amp\;w=640&amp\;q=100 2x" st
  yle="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drawn To Music
+DTSTART:20251021T230000Z
+DTEND:20251022T010000Z
+DTSTAMP:20251021T230000Z
+UID:Drawn To Music
+DESCRIPTION:https://www.viewcy.com/event/drawn_to_music_3\n<p><img alt="Dr
+ awn To Music thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
+ sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
+ ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
+ c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F278%2Fco
+ ver%2FWhatsApp_Image_2025-10-14_at_7.19.47_PM.jpg%3F1760907937&amp\;w=640&
+ amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-productio
+ n.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F278%2Fcover%2
+ FWhatsApp_Image_2025-10-14_at_7.19.47_PM.jpg%3F1760907937&amp\;w=384&amp\;
+ q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
+ onaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F278%2Fcover%2FWhatsApp
+ _Image_2025-10-14_at_7.19.47_PM.jpg%3F1760907937&amp\;w=640&amp\;q=100 2x"
+  style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
