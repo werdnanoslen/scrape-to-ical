@@ -11,50 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20251020T140000Z
-DTEND:20251020T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/793753
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Jigsaw Puzzle Hour
-DTSTART:20251020T190000Z
-DTEND:20251020T210000Z
-DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
- variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
- ://www.bklynlibrary.org/node/788254
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20251020T190000Z
-DTEND:20251020T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /790374
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20251020T190000Z
-DTEND:20251020T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790798
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20251020T200000Z
-DTEND:20251020T210000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/789151
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20251020T203000Z
 DTEND:20251020T220000Z
@@ -369,5 +325,51 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7821
  01
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20251023T143000Z
+DTEND:20251023T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/777200
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251023T143000Z
+DTEND:20251023T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
+ 75
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20251023T143000Z
+DTEND:20251023T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792366
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternatives to Adobe
+DTSTART:20251023T150000Z
+DTEND:20251023T170000Z
+DESCRIPTION:We all know of Adobe’s huge array of products and services r
+ elated to graphic design\, animation\, video and audio editing (among many
+  others!). Did you know that there are many alternatives to Adobe ap\n\nht
+ tps://www.bklynlibrary.org/node/765401
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nonprofit Brand Storytelling and Fundraising w/ Vidi Global
+DTSTART:20251023T160000Z
+DTEND:20251023T180000Z
+DESCRIPTION:How do you tell your organization’s story in a way that move
+ s people—and opens new doors for funding?\n\nhttps://www.bklynlibrary.or
+ g/node/787026
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
