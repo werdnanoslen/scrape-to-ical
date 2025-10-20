@@ -88,15 +88,6 @@ DESCRIPTION:Join the Pace University SBDC and Brooklyn Public Library's B
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jigsaw Puzzle Hour
-DTSTART:20251020T190000Z
-DTEND:20251020T210000Z
-DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
- variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
- ://www.bklynlibrary.org/node/788254
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20251020T190000Z
 DTEND:20251020T210000Z
@@ -112,6 +103,15 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790798
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Jigsaw Puzzle Hour
+DTSTART:20251020T190000Z
+DTEND:20251020T210000Z
+DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
+ variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
+ ://www.bklynlibrary.org/node/788254
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Yoga
 DTSTART:20251020T200000Z
 DTEND:20251020T210000Z
@@ -122,7 +122,7 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
+SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20251020T203000Z
 DTEND:20251020T220000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -149,7 +149,7 @@ DESCRIPTION:Bard Microcollege's admission team invites you to attend an in
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
+SUMMARY:CANCELLED: Free English Class (We Speak NYC)
 DTSTART:20251020T214500Z
 DTEND:20251020T234500Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788576
