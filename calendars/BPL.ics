@@ -21,39 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20251020T150000Z
-DTEND:20251020T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/783562
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20251020T153000Z
-DTEND:20251020T173000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790410
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Yoga
-DTSTART:20251020T163000Z
-DTEND:20251020T173000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/781056
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20251020T170000Z
-DTEND:20251020T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/790342
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20251020T180000Z
 DTEND:20251020T200000Z
@@ -74,6 +41,15 @@ DESCRIPTION:Join the Pace University SBDC and Brooklyn Public Library's B
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Jigsaw Puzzle Hour
+DTSTART:20251020T190000Z
+DTEND:20251020T210000Z
+DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
+ variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
+ ://www.bklynlibrary.org/node/788254
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20251020T190000Z
 DTEND:20251020T210000Z
@@ -87,15 +63,6 @@ DTSTART:20251020T190000Z
 DTEND:20251020T210000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790798
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Jigsaw Puzzle Hour
-DTSTART:20251020T190000Z
-DTEND:20251020T210000Z
-DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
- variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
- ://www.bklynlibrary.org/node/788254
-LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga
@@ -367,5 +334,41 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  08
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYS MWBE Program & Certification Workshop
+DTSTART:20251022T220000Z
+DTEND:20251022T000000Z
+DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
+ library.org/node/787730
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251022T220000Z
+DTEND:20251022T000000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/792008
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Molly Jong-Fast Discusses How to Lose Your Mother\, with Meghan O'
+ Rourke
+DTSTART:20251022T230000Z
+DTEND:20251022T003000Z
+DESCRIPTION:BPL Presents welcomes Molly Jong-Fast\, the political writer a
+ nd podcaster\, to discuss How to Lose Your Mother\, a ferociously honest a
+ nd disarmingly funny memoir about her elusive mother’s encroaching\n\nht
+ tps://www.bklynlibrary.org/node/782022
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friends of Brooklyn Heights Fall Gala
+DTSTART:20251022T230000Z
+DTEND:20251022T013000Z
+DESCRIPTION:Come and join the Friends of Brooklyn Heights Library for a fu
+ ndraising gala featuring the fabulous Phoebe Robinson!\n\nhttps://www.bkly
+ nlibrary.org/node/788067
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
