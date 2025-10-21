@@ -792,6 +792,17 @@ DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/davinci-resolve-for
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BRIC&#8217\;s Winter Wonderland 2025
+DTSTART:20251206T170000Z
+DTEND:20251206T210000Z
+DTSTAMP:20251206T170000Z
+UID:BRIC&#8217\;s Winter Wonderland 2025-2025-12-06T17:00:00+00:00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brics-winter-wonde
+ rland-2025/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bric
+ artsmedia.org/wp-content/uploads/2024/10/TOB_1465-200x200.jpg" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Television Studio Basics
 DTSTART:20251208T230000Z
 DTEND:20251209T020000Z
@@ -999,16 +1010,6 @@ DTSTAMP:20251215T190000Z
 UID:Motion Graphics with After Effects-2025-12-15T19:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/motion-graphics-wit
  h-after-effects/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20251216T190000Z
-DTEND:20251216T220000Z
-DTSTAMP:20251216T190000Z
-UID:Video Production in the Field-2025-12-16T19:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
