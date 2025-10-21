@@ -119,15 +119,6 @@ DESCRIPTION:First impressions starts with you! Are you interested in earni
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20251022T153000Z
-DTEND:20251022T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/781496
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Self-Defense Basics with Gabriella
 DTSTART:20251022T160000Z
 DTEND:20251022T173000Z
@@ -375,5 +366,13 @@ DESCRIPTION:Need help with your smartphone\, computer\, email\, or other t
  a knowledgeable tech specialist. Whether you're trying to set up a\n\nhttp
  s://www.bklynlibrary.org/node/792895
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eat Healthy Be Active Workshop led by City Harvest
+DTSTART:20251023T210000Z
+DTEND:20251023T220000Z
+DESCRIPTION:Do you spend too much time worrying about what's for dinner? W
+ e can help!\n\nhttps://www.bklynlibrary.org/node/790661
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR

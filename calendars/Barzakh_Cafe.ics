@@ -292,26 +292,4 @@ DESCRIPTION:https://www.viewcy.com/event/ampelos_trio__weaver\n<p><img alt
  0 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bridges of Sound
-DTSTART:20251205T010000Z
-DTEND:20251205T030000Z
-DTSTAMP:20251205T010000Z
-UID:Bridges of Sound
-DESCRIPTION:https://www.viewcy.com/event/bridges_of_sound\n<p><img alt="Br
- idges of Sound thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" dat
- a-sentry-component="ImageWithFallback" data-sentry-element="Image" data-se
- ntry-source-file="index.tsx" decoding="async" height="186" loading="lazy" 
- src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-pr
- oduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F310%2F
- cover%2FBridges_of_Sound__281_29.jpg%3F1761062782&amp\;w=640&amp\;q=100" s
- rcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaw
- s.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F310%2Fcover%2FBridges_of_S
- ound__281_29.jpg%3F1761062782&amp\;w=384&amp\;q=100 1x\, /_next/image?url=
- https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
- ed_images%2F000%2F021%2F310%2Fcover%2FBridges_of_Sound__281_29.jpg%3F17610
- 62782&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/>
- </p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
 END:VCALENDAR
