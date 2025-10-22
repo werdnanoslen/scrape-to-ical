@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251022T190000Z
-DTEND:20251022T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/785533
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20251022T200000Z
-DTEND:20251022T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/786554
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20251022T203000Z
 DTEND:20251022T214500Z
@@ -376,5 +357,24 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  80
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Virtual Saturdays Clinic!
+DTSTART:20251025T170000Z
+DTEND:20251025T190000Z
+DESCRIPTION:The City spends up to $20 billion per year on goods and servic
+ es. Getting certified as a Minority and Women-Owned Business Enterprise\, 
+ or MWBE\, will help you compete for these opportunities and access\n\nhttp
+ s://www.bklynlibrary.org/node/771868
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Guided Music Production Session: Beginner
+DTSTART:20251025T170000Z
+DTEND:20251025T190000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/780231
+LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 END:VCALENDAR
