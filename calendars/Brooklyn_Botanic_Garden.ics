@@ -25,32 +25,17 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:School Group Visits: Discovery Trail
-DTSTART;VALUE=DATE:20251021T040000Z
-DTEND;VALUE=DATE:20251021T060000Z
-UID:School Group Visits: Discovery Trail-2025-10-21 04:00:00+00:00
-DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | October 7–N
- ovember 6\, 2025 (except November 4) \n					\n\n\n					\n						\n							| 
- Preregistration Required\n\nUse real science tools as you explore plants a
- longside Discovery Docents at our hands-on activity stations throughout th
- e Discovery Garden.Learn More›about School Group Visits: Discovery Trail
- \n\nMore info:\nhttps://www.bbg.org/visit/event/school_group_visits_discov
- ery_trail\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/di
- scovery-cart_BB_42604393462-1120.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20251021T040000Z
-DTEND;VALUE=DATE:20251021T060000Z
-UID:Seasonal Highlights Tour-2025-10-21 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, September 9–October 31\, 2025 | 1–2 p.m
- .\n\nDiscover plants in bloom and other highlights of the season in this f
- ree walk led by trained Garden Guides.Learn More›about Seasonal Highligh
- ts Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights
- _tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Summer-Guided
- -Tour_SC_19.jpg" alt="" />
+SUMMARY:Fall First Discoveries
+DTSTART;VALUE=DATE:20251022T040000Z
+DTEND;VALUE=DATE:20251022T060000Z
+UID:Fall First Discoveries-2025-10-22 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\,  10:30 a.m.–12:30 p.m. | September 10
+ –November 7\, 2025\n					\n\n\n					\n						\n							| Drop-in\n\nPot up
+  a plant\, create a craft\, read a story\, and use your senses to explore 
+ nature at activity stations designed for early learners up to 4 years old.
+ Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bbg.o
+ rg/visit/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -66,21 +51,6 @@ DESCRIPTION:8 sessions beginning Wednesday\, October 8\; or Wednesday\, Oc
  gram.Learn More›about Botany for Horticulturists\n\nMore info:\nhttps://
  www.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uploads/h
  ero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall First Discoveries
-DTSTART;VALUE=DATE:20251022T040000Z
-DTEND;VALUE=DATE:20251022T060000Z
-UID:Fall First Discoveries-2025-10-22 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\,  10:30 a.m.–12:30 p.m. | September 10
- –November 7\, 2025\n					\n\n\n					\n						\n							| Drop-in\n\nPot up
-  a plant\, create a craft\, read a story\, and use your senses to explore 
- nature at activity stations designed for early learners up to 4 years old.
- Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bbg.o
- rg/visit/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thum
- bnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -524,6 +494,52 @@ DESCRIPTION:Wednesdays & Fridays\,  10:30 a.m.–12:30 p.m. | September 10
  Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bbg.o
  rg/visit/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thum
  bnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kitchen Botany
+DTSTART;VALUE=DATE:20251106T050000Z
+DTEND;VALUE=DATE:20251106T070000Z
+UID:Kitchen Botany-2025-11-06 05:00:00+00:00
+DESCRIPTION:Single session on Thursday\, November 6 or Sunday\, November 9
+ \, 2025  \n					\n\n\n					\n						\n							| Preregistration Required\n\n
+ Do you ever stop to consider the botany on your plate? We’ll examine var
+ ious culinary plants up close and learn how the botanical function of diff
+ erent plant parts relates to their gastronomic appeal.Learn More›about K
+ itchen Botany\n\nMore info:\nhttps://www.bbg.org/classes/kitchen_botany\n\
+ n<img src="/img/uploads/hero/_list_thumbnail_regular/chard-AL-29676993493.
+ jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20251106T050000Z
+DTEND;VALUE=DATE:20251106T070000Z
+UID:School Group Visits: Discovery Trail-2025-11-06 05:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | October 7–N
+ ovember 6\, 2025 (except November 4) \n					\n\n\n					\n						\n							| 
+ Preregistration Required\n\nUse real science tools as you explore plants a
+ longside Discovery Docents at our hands-on activity stations throughout th
+ e Discovery Garden.Learn More›about School Group Visits: Discovery Trail
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/school_group_visits_discov
+ ery_trail\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/di
+ scovery-cart_BB_42604393462-1120.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tablescapes
+DTSTART;VALUE=DATE:20251106T050000Z
+DTEND;VALUE=DATE:20251106T070000Z
+UID:Tablescapes-2025-11-06 05:00:00+00:00
+DESCRIPTION:2 Thursdays: November 6 and November 13\, 2025 | 6–7:30 p.m.
+ \n					\n\n\n					\n						\n							| Preregistration Required\n\nLearn flo
+ ral design basics and craft unique holiday table arrangements.Learn More
+ ›about Tablescapes\n\nMore info:\nhttps://www.bbg.org/classes/tablescape
+ s\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Tablescapes_IMG_3
+ 334.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
