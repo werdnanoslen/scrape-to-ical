@@ -11,41 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20251022T140000Z
-DTEND:20251022T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782594
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251022T140000Z
-DTEND:20251022T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 87
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20251022T140000Z
-DTEND:20251022T153000Z
-DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
- r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792032
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hospitality Front Desk Representative or Guestroom Attendant Certi
- fication Training
-DTSTART:20251022T143000Z
-DTEND:20251022T153000Z
-DESCRIPTION:First impressions starts with you! Are you interested in earni
- ng a nationally recognized hospitality front desk representative certifica
- tion? Join our session to learn how you can learn the necessary\n\nhttps:/
- /www.bklynlibrary.org/node/790689
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Self-Defense Basics with Gabriella
 DTSTART:20251022T160000Z
 DTEND:20251022T173000Z
@@ -376,5 +341,41 @@ DESCRIPTION:Need help with food\, housing or getting around. ACCESS NYC of
  consider based upon information you provide about your household.\n\nhttps
  ://www.bklynlibrary.org/node/792318
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: All Is Lost (2013)
+DTSTART:20251024T143000Z
+DTEND:20251024T163000Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
+ n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/792912
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251024T150000Z
+DTEND:20251024T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/785534
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251024T170000Z
+DTEND:20251024T190000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 60
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20251024T180000Z
+DTEND:20251024T190000Z
+DESCRIPTION:Please join us for a discussion of "Drinking Coffee Elsewhere"
+  by ZZ Packer\, on Friday\, October 24\, 2-3 pm\, in the Business & Career
+  Center Event Room.\n\nhttps://www.bklynlibrary.org/node/788498
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
