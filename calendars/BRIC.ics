@@ -428,6 +428,20 @@ DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Center for Communication Presents How to Succeed Solo: Freelance M
+ edia Careers
+DTSTART:20251113T233000Z
+DTEND:20251114T010000Z
+DTSTAMP:20251113T233000Z
+UID:Center for Communication Presents How to Succeed Solo: Freelance Media
+  Careers-2025-11-13T23:30:00+00:00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/center-for-communi
+ cation-presents-how-to-succeed-solo-freelance-media-careers/\nhttps://goo.
+ gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org/wp-content/
+ uploads/2025/10/Screenshot-2025-10-23-154102-200x200.jpg" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:3D Modeling with Blender
 DTSTART:20251114T230000Z
 DTEND:20251115T020000Z
@@ -998,16 +1012,6 @@ DTSTAMP:20251217T230000Z
 UID:Intro to Radio Podcasting-2025-12-17T23:00:00+00:00
 DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
  asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Motion Graphics with After Effects
-DTSTART:20251217T190000Z
-DTEND:20251217T220000Z
-DTSTAMP:20251217T190000Z
-UID:Motion Graphics with After Effects-2025-12-17T19:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/motion-graphics-wit
- h-after-effects/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR

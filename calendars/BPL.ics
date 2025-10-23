@@ -11,55 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20251023T140000Z
-DTEND:20251023T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/767035
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New York Connects Tabling
-DTSTART:20251023T180000Z
-DTEND:20251023T210000Z
-DESCRIPTION:Join New York Connects every month as we connect the community
-  to a wide range of care services and support for people of all ages or wi
- th any type of disability. Get assistance accessing services suc\n\nhttps:
- //www.bklynlibrary.org/node/783487
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts & Crafts Circle
-DTSTART:20251023T183000Z
-DTEND:20251023T203000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers! B
- ring your own materials and enjoy the practice of making with other\n\nhtt
- ps://www.bklynlibrary.org/node/788394
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Central Cookbook Club: It's Apple & Pear Season
-DTSTART:20251023T190000Z
-DTEND:20251023T203000Z
-DESCRIPTION:Join the Central Cookbook Club as we slice and dice all thing 
- apples and pears.  We'll have our usual cookbooks to browse through too.\
- n\nhttps://www.bklynlibrary.org/node/779476
-LOCATION:Central Library\, Reverend Elsie Smith Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20251023T200000Z
-DTEND:20251023T210000Z
-DESCRIPTION:Need help with your smartphone\, computer\, email\, or other t
- ech troubles? Join our Ask a Tech program and get one-on-one support from 
- a knowledgeable tech specialist. Whether you're trying to set up a\n\nhttp
- s://www.bklynlibrary.org/node/792895
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eat Healthy Be Active Workshop led by City Harvest
 DTSTART:20251023T210000Z
 DTEND:20251023T220000Z
@@ -368,5 +319,49 @@ DTEND:20251027T214500Z
 DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
   class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780026
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20251027T214500Z
+DTEND:20251027T234500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788577
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQ+ Film Discussion Group
+DTSTART:20251027T223000Z
+DTEND:20251027T233000Z
+DESCRIPTION:Join us every last Monday for a monthly LGBTQ+ film discussion
+  group where we explore classic and contemporary queer cinema!\n\nhttps://
+ www.bklynlibrary.org/node/783495
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251028T133000Z
+DTEND:20251028T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791987
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
+ siness Solutions Center
+DTSTART:20251028T170000Z
+DTEND:20251028T200000Z
+DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
+ ? Join the NYC Business Solutions Brooklyn Center for "The Flower Hour\," 
+ a special session of our popular Joint Ventures educational serie\n\nhttps
+ ://www.bklynlibrary.org/node/787570
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laptop/Tablet Help
+DTSTART:20251028T170000Z
+DTEND:20251028T180000Z
+DESCRIPTION:Having trouble navigating your new laptop or tablet? Come on o
+ ver to laptop & tablet help* and we’ll show you how to use it.\n\nhttps:
+ //www.bklynlibrary.org/node/790396
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
