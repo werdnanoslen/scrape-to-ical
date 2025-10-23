@@ -21,16 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stop-Motion Animation Techniques
-DTSTART:20251023T180000Z
-DTEND:20251023T200000Z
-DESCRIPTION:Stop-motion animation is a fun and easy way to create titles\,
-  short animations\, title sequences\, and more! In this class we review so
- me popular stop-motion animation techniques\, and show you how to cr\n\nht
- tps://www.bklynlibrary.org/node/765402
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New York Connects Tabling
 DTSTART:20251023T180000Z
 DTEND:20251023T210000Z
@@ -58,13 +48,6 @@ DESCRIPTION:Join the Central Cookbook Club as we slice and dice all thing
  apples and pears.  We'll have our usual cookbooks to browse through too.\
  n\nhttps://www.bklynlibrary.org/node/779476
 LOCATION:Central Library\, Reverend Elsie Smith Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music You Can Create
-DTSTART:20251023T190000Z
-DTEND:20251023T200000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/793476
-LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech
@@ -368,5 +351,22 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
  s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
  ps://www.bklynlibrary.org/node/789152
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251027T203000Z
+DTEND:20251027T220000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 70
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class
+DTSTART:20251027T210000Z
+DTEND:20251027T214500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/780026
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
