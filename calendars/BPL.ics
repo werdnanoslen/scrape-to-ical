@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Zumba
-DTSTART:20251023T213000Z
-DTEND:20251023T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/776173
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20251023T213000Z
-DTEND:20251023T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/792399
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resume Coaching
 DTSTART:20251023T213000Z
 DTEND:20251023T233000Z
@@ -364,5 +345,24 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/792527
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251028T173000Z
+DTEND:20251028T180000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/792533
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Connects Tabling
+DTSTART:20251028T180000Z
+DTEND:20251028T210000Z
+DESCRIPTION:Join New York Connects every month as we connect the community
+  to a wide range of care services and support for people of all ages or wi
+ th any type of disability. Get assistance accessing services suc\n\nhttps:
+ //www.bklynlibrary.org/node/783485
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
