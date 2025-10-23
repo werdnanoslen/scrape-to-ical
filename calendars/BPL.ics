@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20251023T140000Z
-DTEND:20251023T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7821
- 01
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stop-Motion Animation Techniques
 DTSTART:20251023T180000Z
 DTEND:20251023T200000Z
@@ -367,5 +358,15 @@ DESCRIPTION:Join us for an afternoon of information\, resources\, and conv
  ersation as we explore what it means to be a queer worker in 2025.\n\nhttp
  s://www.bklynlibrary.org/node/787773
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20251027T200000Z
+DTEND:20251027T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/789152
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
