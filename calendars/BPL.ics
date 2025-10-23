@@ -11,31 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251022T220000Z
-DTEND:20251022T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 08
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NYS MWBE Program & Certification Workshop
-DTSTART:20251022T220000Z
-DTEND:20251022T000000Z
-DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
- library.org/node/787730
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20251022T220000Z
-DTEND:20251022T000000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/792008
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Molly Jong-Fast Discusses How to Lose Your Mother\, with Meghan O'
  Rourke
 DTSTART:20251022T230000Z
@@ -377,5 +352,30 @@ DESCRIPTION:Are you trying to find some uninterrupted time to focus on you
  s? Silent Book Club NYC hosts reading meetups across New York. J\n\nhttps:
  //www.bklynlibrary.org/node/793683
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20251027T140000Z
+DTEND:20251027T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/793754
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20251027T150000Z
+DTEND:20251027T190000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/783563
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20251027T150000Z
+DTEND:20251027T170000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/786418
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
