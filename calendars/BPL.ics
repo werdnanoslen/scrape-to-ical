@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Molly Jong-Fast Discusses How to Lose Your Mother\, with Meghan O'
- Rourke
-DTSTART:20251022T230000Z
-DTEND:20251022T003000Z
-DESCRIPTION:BPL Presents welcomes Molly Jong-Fast\, the political writer a
- nd podcaster\, to discuss How to Lose Your Mother\, a ferociously honest a
- nd disarmingly funny memoir about her elusive mother’s encroaching\n\nht
- tps://www.bklynlibrary.org/node/782022
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friends of Brooklyn Heights Fall Gala
-DTSTART:20251022T230000Z
-DTEND:20251022T013000Z
-DESCRIPTION:Come and join the Friends of Brooklyn Heights Library for a fu
- ndraising gala featuring the fabulous Phoebe Robinson!\n\nhttps://www.bkly
- nlibrary.org/node/788067
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20251023T140000Z
 DTEND:20251023T210000Z
@@ -377,5 +357,19 @@ DTSTART:20251027T150000Z
 DTEND:20251027T170000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/786418
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20251027T150000Z
+DTEND:20251027T170000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790347
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20251027T153000Z
+DTEND:20251027T173000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790411
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
