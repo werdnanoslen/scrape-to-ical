@@ -186,29 +186,6 @@ DESCRIPTION:https://www.viewcy.com/event/halloween_night\n<p><img alt="Hal
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Meşk Night with Abdullah Kaymak
-DTSTART:20251106T230000Z
-DTEND:20251107T010000Z
-DTSTAMP:20251106T230000Z
-UID:Meşk Night with Abdullah Kaymak
-DESCRIPTION:https://www.viewcy.com/event/mek_night_with_abdul\n<p><img alt
- ="Meşk Night with Abdullah Kaymak thumbnail" class="styles_coverImg__PsR9
- G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-ele
- ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
- 186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
- F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
- 2F000%2F021%2F384%2Fcover%2FMe_C5_9Fk_Night_with_Abdullah_Kaymak__286_29.j
- pg%3F1761252229&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2
- F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
- 2F000%2F021%2F384%2Fcover%2FMe_C5_9Fk_Night_with_Abdullah_Kaymak__286_29.j
- pg%3F1761252229&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2F
- viewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F00
- 0%2F021%2F384%2Fcover%2FMe_C5_9Fk_Night_with_Abdullah_Kaymak__286_29.jpg%3
- F1761252229&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="
- 308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ameer Armaly and Friends: Classical Arabic Music
 DTSTART:20251108T233000Z
 DTEND:20251109T013000Z
