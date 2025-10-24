@@ -235,6 +235,17 @@ DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/motion-graphics-wit
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diane Severin Nguyen War Songs: Presented with BRIC
+DTSTART:20251103T000000Z
+DTEND:20251103T011500Z
+DTSTAMP:20251103T000000Z
+UID:Diane Severin Nguyen War Songs: Presented with BRIC-2025-11-03T00:00:0
+ 0+00:00
+DESCRIPTION:Cost: $50.00 - $230.00\nhttps://bricartsmedia.org/event/diane-
+ severin-nguyen-war-songs/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:In Conversation: Karine Jean-Pierre with Vladimir Duthiers
 DTSTART:20251103T233000Z
 DTEND:20251104T013000Z
@@ -248,6 +259,17 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/in-conversation-ka
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Diane Severin Nguyen War Songs: Presented with BRIC
+DTSTART:20251104T000000Z
+DTEND:20251104T011500Z
+DTSTAMP:20251104T000000Z
+UID:Diane Severin Nguyen War Songs: Presented with BRIC-2025-11-04T00:00:0
+ 0+00:00
+DESCRIPTION:Cost: $50.00 - $230.00\nhttps://bricartsmedia.org/event/diane-
+ severin-nguyen-war-songs/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Ballroom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TV Studio Intensive
 DTSTART:20251104T230000Z
 DTEND:20251105T020000Z
@@ -256,6 +278,17 @@ UID:TV Studio Intensive-2025-11-04T23:00:00+00:00
 DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
  on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diane Severin Nguyen War Songs: Presented with BRIC
+DTSTART:20251105T000000Z
+DTEND:20251105T011500Z
+DTSTAMP:20251105T000000Z
+UID:Diane Severin Nguyen War Songs: Presented with BRIC-2025-11-05T00:00:0
+ 0+00:00
+DESCRIPTION:Cost: $50.00 - $230.00\nhttps://bricartsmedia.org/event/diane-
+ severin-nguyen-war-songs/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Ballroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Photoshop Essentials
@@ -982,36 +1015,6 @@ DTSTAMP:20251217T230000Z
 UID:Intro to Radio Podcasting-2025-12-17T23:00:00+00:00
 DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
  asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Motion Graphics with After Effects
-DTSTART:20251217T190000Z
-DTEND:20251217T220000Z
-DTSTAMP:20251217T190000Z
-UID:Motion Graphics with After Effects-2025-12-17T19:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/motion-graphics-wit
- h-after-effects/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20251218T190000Z
-DTEND:20251218T220000Z
-DTSTAMP:20251218T190000Z
-UID:Video Production in the Field-2025-12-18T19:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20251218T230000Z
-DTEND:20251219T020000Z
-DTSTAMP:20251218T230000Z
-UID:Video Production in the Field-2025-12-18T23:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
