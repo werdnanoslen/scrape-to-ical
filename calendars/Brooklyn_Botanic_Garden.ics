@@ -26,9 +26,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251024T080644Z
-DTEND;VALUE=DATE:20251024T100644Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-10-24 08:06:44.500152+00:
+DTSTART;VALUE=DATE:20251024T090723Z
+DTEND;VALUE=DATE:20251024T110723Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-10-24 09:07:23.316529+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -37,36 +37,6 @@ DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:School Group Visits: Discovery Trail
-DTSTART;VALUE=DATE:20251023T040000Z
-DTEND;VALUE=DATE:20251023T060000Z
-UID:School Group Visits: Discovery Trail-2025-10-23 04:00:00+00:00
-DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | October 7–N
- ovember 6\, 2025 (except November 4) \n					\n\n\n					\n						\n							| 
- Preregistration Required\n\nUse real science tools as you explore plants a
- longside Discovery Docents at our hands-on activity stations throughout th
- e Discovery Garden.Learn More›about School Group Visits: Discovery Trail
- \n\nMore info:\nhttps://www.bbg.org/visit/event/school_group_visits_discov
- ery_trail\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/di
- scovery-cart_BB_42604393462-1120.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20251023T040000Z
-DTEND;VALUE=DATE:20251023T060000Z
-UID:Seasonal Highlights Tour-2025-10-23 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, September 9–October 31\, 2025 | 1–2 p.m
- .\n\nDiscover plants in bloom and other highlights of the season in this f
- ree walk led by trained Garden Guides.Learn More›about Seasonal Highligh
- ts Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights
- _tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Summer-Guided
- -Tour_SC_19.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -481,6 +451,34 @@ DESCRIPTION:Wednesdays & Fridays\,  10:30 a.m.–12:30 p.m. | September 10
  Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bbg.o
  rg/visit/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thum
  bnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natural Dyeing
+DTSTART;VALUE=DATE:20251108T050000Z
+DTEND;VALUE=DATE:20251108T070000Z
+UID:Natural Dyeing-2025-11-08 05:00:00+00:00
+DESCRIPTION:Single session on Saturday\, November 1 or Saturday\, November
+  8\, 2025 | 10 a.m.–1 p.m. \n					\n\n\n					\n						\n							| Preregis
+ tration Required\n\nUse seasonal plants to create bundle-dyed socks and su
+ stainable surface designs.Learn More›about Natural Dyeing\n\nMore info:\
+ nhttps://www.bbg.org/classes/natural_dyeing\n\n<img src="/img/uploads/hero
+ /_list_thumbnail_regular/Van_Leeuwen_Sofia_Natural_Dye.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Science Comics
+DTSTART;VALUE=DATE:20251108T050000Z
+DTEND;VALUE=DATE:20251108T070000Z
+UID:Science Comics-2025-11-08 05:00:00+00:00
+DESCRIPTION:Saturday\, November 8\, 2025 | 10 a.m.–3 p.m.\n					\n\n\n		
+ 			\n						\n							| Preregistration Required\n\nTell stories inspired by
+  the Garden through fun\, beginner-friendly comics exercises.Learn More›
+ about Science Comics\n\nMore info:\nhttps://www.bbg.org/classes/science_co
+ mics\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/science
+ -comics.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
