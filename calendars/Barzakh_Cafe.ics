@@ -165,6 +165,28 @@ DESCRIPTION:https://www.viewcy.com/event/halloween_night\n<p><img alt="Hal
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Night of Qawwali With Ali Zaman Taji
+DTSTART:20251105T000000Z
+DTEND:20251105T020000Z
+DTSTAMP:20251105T000000Z
+UID:Night of Qawwali With Ali Zaman Taji
+DESCRIPTION:https://www.viewcy.com/event/night_of_qawwali_with\n<p><img al
+ t="Night of Qawwali With Ali Zaman Taji thumbnail" class="styles_coverImg_
+ _PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentr
+ y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
+ ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F021%2F392%2Fcover%2FWith_Ali_Zaman_Taji__2812_29.jpg%3F176132
+ 5745&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-
+ heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021
+ %2F392%2Fcover%2FWith_Ali_Zaman_Taji__2812_29.jpg%3F1761325745&amp\;w=384&
+ amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3
+ .amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F392%2Fcover%2FWit
+ h_Ali_Zaman_Taji__2812_29.jpg%3F1761325745&amp\;w=640&amp\;q=100 2x" style
+ ="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Meşk Night with Abdullah Kaymak
 DTSTART:20251106T230000Z
 DTEND:20251107T010000Z
