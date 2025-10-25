@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20251025T133000Z
-DTEND:20251025T163000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/791997
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Want to Become MWBE Certified? Join Our Virtual Saturdays Clinic!
 DTSTART:20251025T170000Z
 DTEND:20251025T190000Z
@@ -363,5 +355,15 @@ DESCRIPTION:Self-Defense Basics explores what we can do before\, during\,
  communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
  https://www.bklynlibrary.org/node/785678
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Coloring
+DTSTART:20251029T170000Z
+DTEND:20251029T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /792190
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
