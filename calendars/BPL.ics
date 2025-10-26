@@ -275,6 +275,16 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The People's Money Idea Generation
+DTSTART:20251028T220000Z
+DTEND:20251028T233000Z
+DESCRIPTION:Join us at Central Library for a hands-on idea generation sess
+ ion to help shape The People’s Money—New York City’s citywide partic
+ ipatory budgeting process. This annual program gives all New Yorkers\,\n\n
+ https://www.bklynlibrary.org/node/794719
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Multilingual Business Help
 DTSTART:20251029T140000Z
 DTEND:20251029T160000Z
@@ -354,14 +364,5 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774139
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20251029T200000Z
-DTEND:20251029T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/786555
-LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
