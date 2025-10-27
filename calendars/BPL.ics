@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20251027T150000Z
-DTEND:20251027T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/783563
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20251027T180000Z
 DTEND:20251027T200000Z
@@ -47,6 +39,15 @@ DESCRIPTION:This is a self-service open lab with support tech in the room
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LGBTQ Workers Open House
+DTSTART:20251027T190000Z
+DTEND:20251027T213000Z
+DESCRIPTION:Join us for an afternoon of information\, resources\, and conv
+ ersation as we explore what it means to be a queer worker in 2025.\n\nhttp
+ s://www.bklynlibrary.org/node/787773
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20251027T190000Z
 DTEND:20251027T210000Z
@@ -60,15 +61,6 @@ DTSTART:20251027T190000Z
 DTEND:20251027T210000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790799
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQ Workers Open House
-DTSTART:20251027T190000Z
-DTEND:20251027T213000Z
-DESCRIPTION:Join us for an afternoon of information\, resources\, and conv
- ersation as we explore what it means to be a queer worker in 2025.\n\nhttp
- s://www.bklynlibrary.org/node/787773
-LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga
@@ -370,5 +362,14 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
  e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
  lynlibrary.org/node/767036
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20251030T140000Z
+DTEND:20251030T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7821
+ 02
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
