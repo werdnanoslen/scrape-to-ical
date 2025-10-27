@@ -123,29 +123,6 @@ DESCRIPTION:https://www.viewcy.com/event/halloween_night\n<p><img alt="Hal
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:An Evening of Hindustani Music & Poetry
-DTSTART:20251103T000000Z
-DTEND:20251103T020000Z
-DTSTAMP:20251103T000000Z
-UID:An Evening of Hindustani Music & Poetry
-DESCRIPTION:https://www.viewcy.com/event/an_evening_of_hindust\n<p><img al
- t="An Evening of Hindustani Music &amp\; Poetry thumbnail" class="styles_c
- overImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" da
- ta-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="as
- ync" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?u
- rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
- tured_images%2F000%2F021%2F343%2Fcover%2FAn_evening_of_Hindustani_music_an
- d_poetry.jpg%3F1761590863&amp\;w=640&amp\;q=100" srcset="/_next/image?url=
- https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
- ed_images%2F000%2F021%2F343%2Fcover%2FAn_evening_of_Hindustani_music_and_p
- oetry.jpg%3F1761590863&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3
- A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
- es%2F000%2F021%2F343%2Fcover%2FAn_evening_of_Hindustani_music_and_poetry.j
- pg%3F1761590863&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wid
- th="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Night of Qawwali With Ali Zaman Taji
 DTSTART:20251105T000000Z
 DTEND:20251105T020000Z
@@ -210,6 +187,52 @@ DESCRIPTION:https://www.viewcy.com/event/ameer_armaly_and_frie\n<p><img al
  zonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F054%2Fcover%2FAmeer_A
  rmaly__282_29.jpg%3F1759955959&amp\;w=640&amp\;q=100 2x" style="color: tra
  nsparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qawwali Night With Saami Brothers
+DTSTART:20251110T000000Z
+DTEND:20251110T020000Z
+DTSTAMP:20251110T000000Z
+UID:Qawwali Night With Saami Brothers
+DESCRIPTION:https://www.viewcy.com/event/qawwali_night_with_sa_1\n<p><img 
+ alt="Qawwali Night With Saami Brothers thumbnail" class="styles_coverImg__
+ PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
+ -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
+ ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F021%2F443%2Fcover%2FSaami_Brothers_Live_at_Barzakh_Cafe__281_2
+ 9.jpg%3F1761598574&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3
+ A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
+ es%2F000%2F021%2F443%2Fcover%2FSaami_Brothers_Live_at_Barzakh_Cafe__281_29
+ .jpg%3F1761598574&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F021%2F443%2Fcover%2FSaami_Brothers_Live_at_Barzakh_Cafe__281_29.jpg%
+ 3F1761598574&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width=
+ "308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qawwali Night With Saami Brothers
+DTSTART:20251110T020000Z
+DTEND:20251110T040000Z
+DTSTAMP:20251110T020000Z
+UID:Qawwali Night With Saami Brothers
+DESCRIPTION:https://www.viewcy.com/event/qawwali_night_with_sa_2\n<p><img 
+ alt="Qawwali Night With Saami Brothers thumbnail" class="styles_coverImg__
+ PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
+ -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
+ ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F021%2F444%2Fcover%2FSaami_Brothers_Live_at_Barzakh_Cafe__282_2
+ 9.jpg%3F1761598653&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3
+ A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
+ es%2F000%2F021%2F444%2Fcover%2FSaami_Brothers_Live_at_Barzakh_Cafe__282_29
+ .jpg%3F1761598653&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F021%2F444%2Fcover%2FSaami_Brothers_Live_at_Barzakh_Cafe__282_29.jpg%
+ 3F1761598653&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width=
+ "308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
