@@ -145,6 +145,27 @@ DESCRIPTION:https://www.viewcy.com/event/mek_night_with_abdul\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Letters to Fairouz
+DTSTART:20251108T010000Z
+DTEND:20251108T030000Z
+DTSTAMP:20251108T010000Z
+UID:Letters to Fairouz
+DESCRIPTION:https://www.viewcy.com/event/letters_to_fairouz\n<p><img alt="
+ Letters to Fairouz thumbnail" class="styles_coverImg__PsR9G" data-nimg="1"
+  data-sentry-component="ImageWithFallback" data-sentry-element="Image" dat
+ a-sentry-source-file="index.tsx" decoding="async" height="186" loading="la
+ zy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F45
+ 5%2Fcover%2FLetters_to_Fairouz.jpg%3F1761662963&amp\;w=640&amp\;q=100" src
+ set="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.
+ com%2Fcourses%2Ffeatured_images%2F000%2F021%2F455%2Fcover%2FLetters_to_Fai
+ rouz.jpg%3F1761662963&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A
+ %2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_image
+ s%2F000%2F021%2F455%2Fcover%2FLetters_to_Fairouz.jpg%3F1761662963&amp\;w=6
+ 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ameer Armaly and Friends: Classical Arabic Music
 DTSTART:20251108T233000Z
 DTEND:20251109T013000Z
