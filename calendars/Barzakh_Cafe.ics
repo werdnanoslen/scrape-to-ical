@@ -213,6 +213,28 @@ DESCRIPTION:https://www.viewcy.com/event/qawwali_night_with_sa_2\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hakawati (The Storyteller Of Syria)
+DTSTART:20251117T000000Z
+DTEND:20251117T020000Z
+DTSTAMP:20251117T000000Z
+UID:Hakawati (The Storyteller Of Syria)
+DESCRIPTION:https://www.viewcy.com/event/hakawati_the_storyte\n<p><img alt
+ ="Hakawati (The Storyteller Of Syria) thumbnail" class="styles_coverImg__P
+ sR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-
+ element="Image" data-sentry-source-file="index.tsx" decoding="async" heigh
+ t="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3
+ A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
+ es%2F000%2F021%2F454%2Fcover%2FWhatsApp_Image_2025-10-27_at_4.28.45_AM.jpg
+ %3F1761658976&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F021%2F454%2Fcover%2FWhatsApp_Image_2025-10-27_at_4.28.45_AM.jpg%3F17
+ 61658976&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-
+ heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021
+ %2F454%2Fcover%2FWhatsApp_Image_2025-10-27_at_4.28.45_AM.jpg%3F1761658976&
+ amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ampelos Trio | Weavers
 DTSTART:20251121T003000Z
 DTEND:20251121T023000Z
