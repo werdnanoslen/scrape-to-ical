@@ -22,33 +22,6 @@ DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laptop/Tablet Help
-DTSTART:20251028T170000Z
-DTEND:20251028T180000Z
-DESCRIPTION:Having trouble navigating your new laptop or tablet? Come on o
- ver to laptop & tablet help* and we’ll show you how to use it.\n\nhttps:
- //www.bklynlibrary.org/node/790396
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251028T170000Z
-DTEND:20251028T173000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/792527
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251028T173000Z
-DTEND:20251028T180000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/792533
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New York Connects Tabling
 DTSTART:20251028T180000Z
 DTEND:20251028T210000Z
@@ -375,6 +348,35 @@ DTEND:20251030T230000Z
 DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/792400
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20251030T213000Z
+DTEND:20251030T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/792765
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Catherine Newman on Wreck\, with Julia Phillips
+DTSTART:20251030T220000Z
+DTEND:20251030T233000Z
+DESCRIPTION:The acclaimed bestselling author of Sandwich is back with a wo
+ nderful novel\, full of laughter and heart\, about marriage\, family\, and
+  what happens when life doesn’t go as planned.\n\nhttps://www.bklynlibra
+ ry.org/node/788381
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20251030T220000Z
+DTEND:20251030T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/793241
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
