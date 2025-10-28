@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251028T080706Z
-DTEND;VALUE=DATE:20251028T100706Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-10-28 08:07:06.164560+00:
+DTSTART;VALUE=DATE:20251028T090534Z
+DTEND;VALUE=DATE:20251028T110534Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-10-28 09:05:34.001900+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -407,6 +407,23 @@ DESCRIPTION:Single session on Thursday\, November 6 or Sunday\, November 9
  itchen Botany\n\nMore info:\nhttps://www.bbg.org/classes/kitchen_botany\n\
  n<img src="/img/uploads/hero/_list_thumbnail_regular/chard-AL-29676993493.
  jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Companion Planting in the Food Garden—with Mushrooms!
+DTSTART;VALUE=DATE:20251112T050000Z
+DTEND;VALUE=DATE:20251112T070000Z
+UID:Companion Planting in the Food Garden—with Mushrooms!-2025-11-12 05:
+ 00:00+00:00
+DESCRIPTION:Wednesday\, November 12\, 2025 | 6–8 p.m.\n					\n\n\n					\
+ n						\n							| Preregistration Required\n\nBoost your garden’s bounty
+  with companion planting and mushrooms—learn how to intercrop for health
+ ier soil\, better yields\, and take home a native plant to grow.Learn More
+ ›about Companion Planting in the Food Garden—with Mushrooms!\n\nMore i
+ nfo:\nhttps://www.bbg.org/classes/companion_planting_in_the_food_garden_wi
+ th_mushrooms\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/21WAEG
+ ARGMG.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
