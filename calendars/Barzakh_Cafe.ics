@@ -188,6 +188,29 @@ DESCRIPTION:https://www.viewcy.com/event/ameer_armaly_and_frie\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BRM Concert and Jam
+DTSTART:20251109T000000Z
+DTEND:20251109T020000Z
+DTSTAMP:20251109T000000Z
+UID:BRM Concert and Jam
+DESCRIPTION:https://www.viewcy.com/event/brm_concert_and_jam\n<p><img alt=
+ "BRM Concert and Jam thumbnail" class="styles_coverImg__PsR9G" data-nimg="
+ 1" data-sentry-component="ImageWithFallback" data-sentry-element="Image" d
+ ata-sentry-source-file="index.tsx" decoding="async" height="186" loading="
+ lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-her
+ oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F
+ 458%2Fcover%2FEblast_Thumbnails__28Instagram_Post__2845_29_29.jpg%3F176166
+ 6867&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-
+ heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021
+ %2F458%2Fcover%2FEblast_Thumbnails__28Instagram_Post__2845_29_29.jpg%3F176
+ 1666867&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%
+ 2F458%2Fcover%2FEblast_Thumbnails__28Instagram_Post__2845_29_29.jpg%3F1761
+ 666867&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/
+ ></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qawwali Night With Saami Brothers
 DTSTART:20251110T000000Z
 DTEND:20251110T020000Z
