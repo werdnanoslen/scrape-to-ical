@@ -21,26 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Self-Defense Basics with Gabriella
-DTSTART:20251029T160000Z
-DTEND:20251029T173000Z
-DESCRIPTION:Self-Defense Basics explores what we can do before\, during\, 
- and after unsafe situations. In this program\, we will explore how we can 
- communicate clearly\, effectively using our eyes\, voice\, and body la\n\n
- https://www.bklynlibrary.org/node/785678
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20251029T170000Z
-DTEND:20251029T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /792190
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20251029T180000Z
 DTEND:20251029T200000Z
@@ -378,5 +358,26 @@ DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
  ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
  ps://www.bklynlibrary.org/node/788527
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYC Livecode Meetup
+DTSTART:20251102T183000Z
+DTEND:20251102T213000Z
+DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers 
+ to discuss\, promote\, and explore real-time programming. Our meetups are 
+ open to all. Come with works in progress to show\, with ideas to bo\n\nhtt
+ ps://www.bklynlibrary.org/node/747704
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classical Interludes: A Golden Wire presents Northern Stars - An E
+ vening in a German Court
+DTSTART:20251102T210000Z
+DTEND:20251102T223000Z
+DESCRIPTION:Experience the timeless beauty of 17th-century German music in
+  an unforgettable evening showcasing the grandeur of Baroque chamber reper
+ toire. Featuring masterful works for violin\, viola da gamba\, and\n\nhttp
+ s://www.bklynlibrary.org/node/786635
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
