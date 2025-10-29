@@ -27,6 +27,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20251029T140000Z
+DTEND:20251029T153000Z
+DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
+ r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792033
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251029T140000Z
 DTEND:20251029T210000Z
@@ -35,14 +43,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/793755
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20251029T140000Z
-DTEND:20251029T153000Z
-DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
- r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792033
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech
