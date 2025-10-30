@@ -21,24 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Working With Zoom
-DTSTART:20251030T180000Z
-DTEND:20251030T193000Z
-DESCRIPTION:This drop-in lab is geared towards beginner computer users. Le
- arn how to use Zoom for meetings and interviews. Computers with Zoom will 
- be available\, but feel free to bring your own device.\n\nhttps://www.bkly
- nlibrary.org/node/787634
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music You Can Create
-DTSTART:20251030T190000Z
-DTEND:20251030T200000Z
-DESCRIPTION:Music You Can Creat\n\nhttps://www.bklynlibrary.org/node/79347
- 7
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Eat Healthy Be Active Workshop led by City Harvest
 DTSTART:20251030T210000Z
 DTEND:20251030T220000Z
@@ -366,5 +348,23 @@ DTSTART:20251103T224500Z
 DTEND:20251103T004500Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788578
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Exhibition Opening: Letters for the Future
+DTSTART:20251103T230000Z
+DTEND:20251103T014500Z
+DESCRIPTION:BPL Presents welcomes you to the opening of Department of Tra
+ nsformation: Letters for the Future\, a sprawling exhibition with over 30 
+ artists held in the Grand Lobby and second floor of Central Librar\n\nhttp
+ s://www.bklynlibrary.org/node/793131
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Republic\, Book 10
+DTSTART:20251103T231500Z
+DTEND:20251103T004500Z
+DESCRIPTION:You are invited to join us for Philosophy Discussion!\n\nhttps
+ ://www.bklynlibrary.org/node/770914
+LOCATION:Central Library\, Reverend Elsie Smith Room
 END:VEVENT
 END:VCALENDAR
