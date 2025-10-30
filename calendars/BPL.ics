@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20251030T140000Z
-DTEND:20251030T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7821
- 02
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Career Computer Lab: Working With Zoom
 DTSTART:20251030T180000Z
 DTEND:20251030T193000Z
@@ -38,14 +29,6 @@ DESCRIPTION:This drop-in lab is geared towards beginner computer users. Le
  be available\, but feel free to bring your own device.\n\nhttps://www.bkly
  nlibrary.org/node/787634
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20251030T180000Z
-DTEND:20251030T190000Z
-DESCRIPTION:Ask a range of tech questions about various tech devices\n\nht
- tps://www.bklynlibrary.org/node/790388
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music You Can Create
@@ -368,5 +351,20 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
  71
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class
+DTSTART:20251103T220000Z
+DTEND:20251103T224500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/792183
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20251103T224500Z
+DTEND:20251103T004500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788578
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
