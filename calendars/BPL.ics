@@ -30,6 +30,15 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group
+DTSTART:20251030T143000Z
+DTEND:20251030T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792342
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Total Body Fitness
 DTSTART:20251030T143000Z
 DTEND:20251030T153000Z
@@ -46,15 +55,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
  76
 LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group
-DTSTART:20251030T143000Z
-DTEND:20251030T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/792342
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Demystifying Tax Filing and Tax Credits
