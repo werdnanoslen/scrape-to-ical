@@ -30,33 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group
-DTSTART:20251030T143000Z
-DTEND:20251030T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/792342
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20251030T143000Z
-DTEND:20251030T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/777201
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251030T143000Z
-DTEND:20251030T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
- 76
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Demystifying Tax Filing and Tax Credits
 DTSTART:20251030T170000Z
 DTEND:20251030T180000Z
@@ -370,6 +343,31 @@ DTSTART:20251103T173000Z
 DTEND:20251103T183000Z
 DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
  bklynlibrary.org/node/792914
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251103T190000Z
+DTEND:20251103T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774073
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20251103T200000Z
+DTEND:20251103T220000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /790376
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20251103T200000Z
+DTEND:20251103T220000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790800
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
