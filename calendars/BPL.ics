@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251031T170000Z
-DTEND:20251031T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 61
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20251031T180000Z
-DTEND:20251031T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/793690
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20251031T200000Z
 DTEND:20251031T213000Z
@@ -337,14 +319,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20251105T150000Z
-DTEND:20251105T163000Z
-DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
- r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792034
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251105T150000Z
 DTEND:20251105T220000Z
@@ -355,6 +329,14 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20251105T150000Z
+DTEND:20251105T163000Z
+DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
+ r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792034
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Honor Your Body: Chair Yoga for Healing and Energy
 DTSTART:20251105T160000Z
 DTEND:20251105T170000Z
@@ -363,5 +345,24 @@ DESCRIPTION:Join Rooted in Radiance and honor your body with this gentle\,
  and physical being. Through mindful\, seated movements\, we’ll expl\n\nh
  ttps://www.bklynlibrary.org/node/782900
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251105T163000Z
+DTEND:20251105T173000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/781498
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plum Paper Craft:  Five-Point Star
+DTSTART:20251105T180000Z
+DTEND:20251105T193000Z
+DESCRIPTION:Start preparing for the holidays by learning to fold a five-po
+ int paper star. These paper stars make charming card enclosures\, gift at
+ tachments\, or strung together with ribbon ~ a festive garland!\n\nhttps:/
+ /www.bklynlibrary.org/node/792110
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
