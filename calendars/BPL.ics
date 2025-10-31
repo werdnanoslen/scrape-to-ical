@@ -21,34 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Movie: The Natural (1984)
-DTSTART:20251031T143000Z
-DTEND:20251031T163000Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
- n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/792913
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251031T150000Z
-DTEND:20251031T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/785535
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20251031T150000Z
-DTEND:20251031T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by Central Library for he
- lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
- ps://www.bklynlibrary.org/node/795471
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20251031T160000Z
 DTEND:20251031T180000Z
@@ -362,5 +334,32 @@ DTSTART:20251105T150000Z
 DTEND:20251105T170000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782596
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251105T150000Z
+DTEND:20251105T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 89
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20251105T150000Z
+DTEND:20251105T163000Z
+DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
+ r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792034
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20251105T150000Z
+DTEND:20251105T220000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/793758
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
