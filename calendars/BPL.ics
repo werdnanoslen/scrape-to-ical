@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20251031T160000Z
-DTEND:20251031T180000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/787645
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251031T170000Z
 DTEND:20251031T190000Z
@@ -361,5 +353,15 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/793758
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honor Your Body: Chair Yoga for Healing and Energy
+DTSTART:20251105T160000Z
+DTEND:20251105T170000Z
+DESCRIPTION:Join Rooted in Radiance and honor your body with this gentle\,
+  restorative Chair Yoga series designed to reconnect you with your breath 
+ and physical being. Through mindful\, seated movements\, we’ll expl\n\nh
+ ttps://www.bklynlibrary.org/node/782900
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
