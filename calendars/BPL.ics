@@ -48,6 +48,16 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20251031T150000Z
+DTEND:20251031T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by Central Library for he
+ lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
+ ps://www.bklynlibrary.org/node/795471
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20251031T160000Z
 DTEND:20251031T180000Z
@@ -354,12 +364,5 @@ DESCRIPTION:Looking to meet other LGBTQ+ folks? We meet the first Tuesday
  of every month to discuss an LGBTQ+ work.\n\nhttps://www.bklynlibrary.org/
  node/791806
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20251105T150000Z
-DTEND:20251105T170000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782596
-LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
