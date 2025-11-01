@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20251101T133000Z
-DTEND:20251101T163000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/791998
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Watercolor Class\, Pt 1
-DTSTART:20251101T143000Z
-DTEND:20251101T163000Z
-DESCRIPTION:This is a two-part watercolor painting class led by artist Die
- ter Feurich.All skill levels are welcome. Supplies are provided.There is N
- O registration for these classes. Patrons will be admitted on a\n\nhttps:/
- /www.bklynlibrary.org/node/792130
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop in Filmmaking Lab
 DTSTART:20251101T190000Z
 DTEND:20251101T203000Z
@@ -362,5 +344,23 @@ DTEND:20251105T210000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792557
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251105T200000Z
+DTEND:20251105T220000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774140
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Bingo Night
+DTSTART:20251105T210000Z
+DTEND:20251105T220000Z
+DESCRIPTION:Join us for Adult Bingo at the library every first Wednesday o
+ f the month!\n\nhttps://www.bklynlibrary.org/node/776108
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
