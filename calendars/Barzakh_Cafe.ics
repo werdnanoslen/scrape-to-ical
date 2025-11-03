@@ -230,6 +230,29 @@ DESCRIPTION:https://www.viewcy.com/event/of_time_by_undergroun\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zabaan Ab Tak Teri Hai
+DTSTART:20251116T010000Z
+DTEND:20251116T030000Z
+DTSTAMP:20251116T010000Z
+UID:Zabaan Ab Tak Teri Hai
+DESCRIPTION:https://www.viewcy.com/event/zabaan_ab_tak_teri_ha_1\n<p><img 
+ alt="Zabaan Ab Tak Teri Hai thumbnail" class="styles_coverImg__PsR9G" data
+ -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
+ mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
+ ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvie
+ wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
+ F021%2F553%2Fcover%2FWhatsApp_Image_2025-11-02_at_1.52.34_AM__281_29.jpg%3
+ F1762191797&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2F
+ viewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F00
+ 0%2F021%2F553%2Fcover%2FWhatsApp_Image_2025-11-02_at_1.52.34_AM__281_29.jp
+ g%3F1762191797&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F021%2F553%2Fcover%2FWhatsApp_Image_2025-11-02_at_1.52.34_AM__281_29.jpg
+ %3F1762191797&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width
+ ="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hakawati (The Storyteller Of Syria)
 DTSTART:20251116T210000Z
 DTEND:20251116T230000Z
