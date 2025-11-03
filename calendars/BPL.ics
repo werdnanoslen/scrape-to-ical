@@ -11,49 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20251103T150000Z
-DTEND:20251103T220000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/793757
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20251103T200000Z
-DTEND:20251103T220000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /790376
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20251103T200000Z
-DTEND:20251103T220000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790800
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20251103T200000Z
-DTEND:20251103T220000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792556
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20251103T210000Z
-DTEND:20251103T220000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/789153
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251103T213000Z
 DTEND:20251103T230000Z
@@ -367,5 +324,53 @@ DESCRIPTION:This class covers preparing for an interview\, subject researc
  f using guiding questions to get the best answers during an intervie\n\nht
  tps://www.bklynlibrary.org/node/765467
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produce Remotely
+DTSTART:20251106T190000Z
+DTEND:20251106T210000Z
+DESCRIPTION:Learn how to increase your online meeting/show production valu
+ e! Learn techniques for maximizing production value for your remote shows
+  and meetings. This course covers the various platforms that you\n\nhttps:
+ //www.bklynlibrary.org/node/765468
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Connects Tabling
+DTSTART:20251106T190000Z
+DTEND:20251106T220000Z
+DESCRIPTION:Join New York Connects every month as we connect the community
+  to a wide range of care services and support for people of all ages or wi
+ th any type of disability. Get assistance accessing services suc\n\nhttps:
+ //www.bklynlibrary.org/node/783488
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Computer Lab: Working with Word
+DTSTART:20251106T190000Z
+DTEND:20251106T203000Z
+DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
+  your own resume or cover letter on Microsoft Word and will have real worl
+ d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
+ /www.bklynlibrary.org/node/792570
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music You Can Create
+DTSTART:20251106T200000Z
+DTEND:20251106T210000Z
+DESCRIPTION:Music You Can Creat\n\nhttps://www.bklynlibrary.org/node/79347
+ 8
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arts and Crafts Circle
+DTSTART:20251106T203000Z
+DTEND:20251106T213000Z
+DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
+ us to work on projects\, trade skills\, and socialize with other makers! B
+ ring your own materials and enjoy the practice of making with other\n\nhtt
+ ps://www.bklynlibrary.org/node/788395
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
