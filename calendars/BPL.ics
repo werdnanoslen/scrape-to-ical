@@ -11,23 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251103T213000Z
-DTEND:20251103T230000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 71
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Meditation Class
-DTSTART:20251103T220000Z
-DTEND:20251103T224500Z
-DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
-  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/792183
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class (We Speak NYC)
 DTSTART:20251103T224500Z
 DTEND:20251103T004500Z
@@ -372,5 +355,25 @@ DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join
  ring your own materials and enjoy the practice of making with other\n\nhtt
  ps://www.bklynlibrary.org/node/788395
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251106T210000Z
+DTEND:20251106T220000Z
+DESCRIPTION:Need help with your smartphone\, computer\, email\, or other t
+ ech troubles? Join our Ask a Tech program and get one-on-one support from 
+ a knowledgeable tech specialist. Whether you're trying to set up a\n\nhttp
+ s://www.bklynlibrary.org/node/792896
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
+DTSTART:20251106T213000Z
+DTEND:20251106T231500Z
+DESCRIPTION:The Business & Career Center is partnering with the City Bar J
+ ustice Center’s Neighborhood Entrepreneur Law Project (NELP) and Pace SB
+ DC to offer a virtual small business legal clinic. This clinic\, co\n\nhtt
+ ps://www.bklynlibrary.org/node/784391
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
