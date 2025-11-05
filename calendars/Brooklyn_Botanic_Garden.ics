@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251105T210619Z
-DTEND;VALUE=DATE:20251105T230619Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-11-05 21:06:19.867823+00:
+DTSTART;VALUE=DATE:20251105T220540Z
+DTEND;VALUE=DATE:20251106T000540Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-11-05 22:05:40.479659+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -128,20 +128,6 @@ DESCRIPTION:Single session on Saturday\, November 1 or Saturday\, November
  stainable surface designs.Learn More›about Natural Dyeing\n\nMore info:\
  nhttps://www.bbg.org/classes/natural_dyeing\n\n<img src="/img/uploads/hero
  /_list_thumbnail_regular/Van_Leeuwen_Sofia_Natural_Dye.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Science Comics
-DTSTART;VALUE=DATE:20251108T050000Z
-DTEND;VALUE=DATE:20251108T070000Z
-UID:Science Comics-2025-11-08 05:00:00+00:00
-DESCRIPTION:Saturday\, November 8\, 2025 | 10 a.m.–3 p.m.\n					\n\n\n		
- 			\n						\n							| Preregistration Required\n\nTell stories inspired by
-  the Garden through fun\, beginner-friendly comics exercises.Learn More›
- about Science Comics\n\nMore info:\nhttps://www.bbg.org/classes/science_co
- mics\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/science
- -comics.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

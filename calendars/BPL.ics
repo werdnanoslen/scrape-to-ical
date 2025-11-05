@@ -11,21 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20251105T150000Z
-DTEND:20251105T170000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782596
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20251105T150000Z
-DTEND:20251105T163000Z
-DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
- r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792034
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251105T150000Z
 DTEND:20251105T220000Z
@@ -34,25 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/793758
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251105T150000Z
-DTEND:20251105T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 89
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honor Your Body: Chair Yoga for Healing and Energy
-DTSTART:20251105T160000Z
-DTEND:20251105T170000Z
-DESCRIPTION:Join Rooted in Radiance and honor your body with this gentle\,
-  restorative Chair Yoga series designed to reconnect you with your breath 
- and physical being. Through mindful\, seated movements\, we’ll expl\n\nh
- ttps://www.bklynlibrary.org/node/782900
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech
@@ -382,5 +348,42 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/793759
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251107T160000Z
+DTEND:20251107T180000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/791383
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251107T170000Z
+DTEND:20251107T190000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792558
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life Drawing
+DTSTART:20251107T170000Z
+DTEND:20251107T183000Z
+DESCRIPTION:Build hand-eye coordination\, develop better observation skill
+ s\, and get into a relaxing zone through drawing. This class will help you
+  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
+ s://www.bklynlibrary.org/node/794722
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251107T180000Z
+DTEND:20251107T200000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 62
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
