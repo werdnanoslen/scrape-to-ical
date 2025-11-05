@@ -274,6 +274,27 @@ DESCRIPTION:https://www.viewcy.com/event/ampelos_trio__weaver\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rabab aw Taal
+DTSTART:20251122T010000Z
+DTEND:20251122T030000Z
+DTSTAMP:20251122T010000Z
+UID:Rabab aw Taal
+DESCRIPTION:https://www.viewcy.com/event/rabab_aw_taal\n<p><img alt="Rabab
+  aw Taal thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sent
+ ry-component="ImageWithFallback" data-sentry-element="Image" data-sentry-s
+ ource-file="index.tsx" decoding="async" height="186" loading="lazy" src="h
+ ttps://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
+ on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F577%2Fcover%
+ 2FRabab_aw_Taal.jpg%3F1762348252&amp\;w=640&amp\;q=100" srcset="/_next/ima
+ ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
+ Ffeatured_images%2F000%2F021%2F577%2Fcover%2FRabab_aw_Taal.jpg%3F176234825
+ 2&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-
+ production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F577%
+ 2Fcover%2FRabab_aw_Taal.jpg%3F1762348252&amp\;w=640&amp\;q=100 2x" style="
+ color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bridges of Sound
 DTSTART:20251205T010000Z
 DTEND:20251205T030000Z
