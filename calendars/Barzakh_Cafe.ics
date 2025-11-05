@@ -253,6 +253,29 @@ DESCRIPTION:https://www.viewcy.com/event/hakawati_the_storyte\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ocean in a Bubble: Pearls of Sufi Wisdom
+DTSTART:20251120T010000Z
+DTEND:20251120T030000Z
+DTSTAMP:20251120T010000Z
+UID:Ocean in a Bubble: Pearls of Sufi Wisdom
+DESCRIPTION:https://www.viewcy.com/event/ocean_in_a_bubble_pe\n<p><img alt
+ ="Ocean in a Bubble: Pearls of Sufi Wisdom thumbnail" class="styles_coverI
+ mg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-se
+ ntry-element="Image" data-sentry-source-file="index.tsx" decoding="async" 
+ height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F021%2F586%2Fcover%2FOcean_in_a_Bubble_Pearls_of_Sufi_Wisdo
+ m__285_29.jpg%3F1762369327&amp\;w=640&amp\;q=100" srcset="/_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F021%2F586%2Fcover%2FOcean_in_a_Bubble_Pearls_of_Sufi_Wi
+ sdom__285_29.jpg%3F1762369327&amp\;w=384&amp\;q=100 1x\, /_next/image?url=
+ https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
+ ed_images%2F000%2F021%2F586%2Fcover%2FOcean_in_a_Bubble_Pearls_of_Sufi_Wis
+ dom__285_29.jpg%3F1762369327&amp\;w=640&amp\;q=100 2x" style="color: trans
+ parent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ampelos Trio | Weavers
 DTSTART:20251121T003000Z
 DTEND:20251121T023000Z
