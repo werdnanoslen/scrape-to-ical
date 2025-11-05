@@ -18,15 +18,6 @@ DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782596
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251105T150000Z
-DTEND:20251105T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 89
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beginning Hebrew Conversation for Adults
 DTSTART:20251105T150000Z
 DTEND:20251105T163000Z
@@ -43,6 +34,15 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/793758
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251105T150000Z
+DTEND:20251105T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 89
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Honor Your Body: Chair Yoga for Healing and Energy
