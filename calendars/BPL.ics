@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20251105T163000Z
-DTEND:20251105T173000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/781498
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Plum Paper Craft:  Five-Point Star
 DTSTART:20251105T180000Z
 DTEND:20251105T193000Z
@@ -385,5 +376,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  62
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Film Club: Poetic Justice (1993)
+DTSTART:20251107T190000Z
+DTEND:20251107T213000Z
+DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
+ e first Friday of each month. We're kicking things back off with Poetic Ju
+ stice (1993)\, starring Janet Jackson and Tupac Shakur.\n\nhttps://www.bkl
+ ynlibrary.org/node/792192
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
