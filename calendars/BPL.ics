@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:NELP: Intellectual Property
-DTSTART:20251105T210000Z
-DTEND:20251105T223000Z
-DESCRIPTION:This presentation will provide small business owners with an o
- verview of intellectual property rights through a discussion of Trademarks
- \, Copyrights\, Trade Secrets\, and Patents. The webinar will delve\n\nhtt
- ps://www.bklynlibrary.org/node/786669
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251105T213000Z
-DTEND:20251105T224500Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 56
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251105T230000Z
 DTEND:20251105T010000Z
@@ -387,5 +368,23 @@ DESCRIPTION:Join Brooklyn Public Library and the Greg Jackson Center for B
  s to mental health services\, guidance and community support for jus\n\nht
  tps://www.bklynlibrary.org/node/791551
 LOCATION:The Greg Jackson Center for Brownsville
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Guided Music Production Session: Beginner
+DTSTART:20251108T180000Z
+DTEND:20251108T200000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/780238
+LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Knitting Circle at Brooklyn Heights
+DTSTART:20251108T193000Z
+DTEND:20251108T213000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing.\
+ n\nhttps://www.bklynlibrary.org/node/796128
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
