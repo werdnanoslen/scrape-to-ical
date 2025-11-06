@@ -31,34 +31,6 @@ DESCRIPTION:Join New York Connects every month as we connect the community
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Working with Word
-DTSTART:20251106T190000Z
-DTEND:20251106T203000Z
-DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
-  your own resume or cover letter on Microsoft Word and will have real worl
- d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
- /www.bklynlibrary.org/node/792570
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Produce Remotely
-DTSTART:20251106T190000Z
-DTEND:20251106T210000Z
-DESCRIPTION:Learn how to increase your online meeting/show production valu
- e! Learn techniques for maximizing production value for your remote shows
-  and meetings. This course covers the various platforms that you\n\nhttps:
- //www.bklynlibrary.org/node/765468
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music You Can Create
-DTSTART:20251106T200000Z
-DTEND:20251106T210000Z
-DESCRIPTION:Music You Can Creat\n\nhttps://www.bklynlibrary.org/node/79347
- 8
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arts and Crafts Circle
 DTSTART:20251106T203000Z
 DTEND:20251106T213000Z
@@ -379,5 +351,30 @@ DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
  e class will begin with stretch and breathing exercises. Workouts\n\nhttps
  ://www.bklynlibrary.org/node/796340
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251110T190000Z
+DTEND:20251110T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774074
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20251110T200000Z
+DTEND:20251110T220000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /790377
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20251110T200000Z
+DTEND:20251110T220000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790801
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
