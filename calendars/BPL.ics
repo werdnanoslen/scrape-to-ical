@@ -30,16 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Interviewing for Film & TV
-DTSTART:20251106T160000Z
-DTEND:20251106T180000Z
-DESCRIPTION:This class covers preparing for an interview\, subject researc
- h\, choosing engaging questions\, avoiding common pitfalls\, and the art o
- f using guiding questions to get the best answers during an intervie\n\nht
- tps://www.bklynlibrary.org/node/765467
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Produce Remotely
 DTSTART:20251106T190000Z
 DTEND:20251106T210000Z
@@ -385,5 +375,12 @@ DTSTART:20251110T160000Z
 DTEND:20251110T180000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790349
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20251110T163000Z
+DTEND:20251110T183000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790413
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
