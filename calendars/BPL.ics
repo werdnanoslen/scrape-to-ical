@@ -184,16 +184,6 @@ DESCRIPTION:Join BPL Presents as we celebrate the legendary Boston Review\
 LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20251107T150000Z
-DTEND:20251107T220000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/793759
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20251107T160000Z
 DTEND:20251107T180000Z
@@ -345,16 +335,6 @@ DESCRIPTION:Come join G-REBELS for a community conversation about your rig
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20251110T150000Z
-DTEND:20251110T220000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/793760
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
 DTSTART:20251110T160000Z
 DTEND:20251110T200000Z
@@ -382,5 +362,21 @@ DTSTART:20251110T163000Z
 DTEND:20251110T183000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790413
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:One-On-One Technology Help
+DTSTART:20251110T163000Z
+DTEND:20251110T173000Z
+DESCRIPTION:General Basic Technology Help:\n\nhttps://www.bklynlibrary.org
+ /node/788776
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Chair Yoga
+DTSTART:20251110T173000Z
+DTEND:20251110T183000Z
+DESCRIPTION:This event has been cancelled due to a scheduling conflict.\n\
+ nhttps://www.bklynlibrary.org/node/794918
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
