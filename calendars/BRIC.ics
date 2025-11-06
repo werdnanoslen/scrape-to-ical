@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Photoshop Essentials
-DTSTART:20251105T230000Z
-DTEND:20251106T020000Z
-DTSTAMP:20251105T230000Z
-UID:Photoshop Essentials-2025-11-05T23:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/photoshop-essential
- s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mini Studio Production
 DTSTART:20251106T190000Z
 DTEND:20251106T220000Z
@@ -1060,5 +1050,20 @@ UID:BRIC Podcast  Intensive-2026-03-19T22:30:00+00:00
 DESCRIPTION:Cost: $150 \nhttps://bricartsmedia.org/class/bric-podcast-inte
  nsive-2026-cohort/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capture Your World: Teen Photography Bootcamp - Cycle 2
+DTSTART:20260323T200000Z
+DTEND:20260323T220000Z
+DTSTAMP:20260323T200000Z
+UID:Capture Your World: Teen Photography Bootcamp - Cycle 2-2026-03-23T20:
+ 00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/capture-your-world
+ -teen-photography-bootcamp-cycle-2/\nhttps://www.google.com/maps/place/Bro
+ oklyn+Public+Library+-+Clarendon+Branch/@40.635683\,-73.9503699\,16z/data=
+ !3m1!4b1!4m6!3m5!1s0x89c25b4dfe5f495f:0x5ed347c8edfe69a9!8m2!3d40.635683!4
+ d-73.9477896!16s%2Fg%2F1tqtysw9?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAF
+ QAw%3D%3D
+LOCATION:Clarendon Library
 END:VEVENT
 END:VCALENDAR
