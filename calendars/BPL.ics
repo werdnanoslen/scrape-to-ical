@@ -11,56 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20251106T223000Z
-DTEND:20251106T003000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/792766
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20251106T230000Z
-DTEND:20251106T010000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/793242
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20251106T230000Z
-DTEND:20251106T003000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/793520
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:"be" : a dance performance
-DTSTART:20251106T230000Z
-DTEND:20251106T003000Z
-DESCRIPTION:Alisha Khatwani will present a dance performance entitled “b
- e”. This collection of choreography explores the dichotomy between findi
- ng connection to ourselves\, the people around us\, and the natural w\n\nh
- ttps://www.bklynlibrary.org/node/793599
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vivian Gornick\, Robin D.G. Kelley & David Waldstreicher on Boston
-  Review at 50\, with Gianpaolo Baiocchi
-DTSTART:20251107T000000Z
-DTEND:20251107T013000Z
-DESCRIPTION:Join BPL Presents as we celebrate the legendary Boston Review\
- , as it turns fifty—with appearances by Vivian Gornick\, Robin D.G. Kell
- ey\, David Waldstreicher and moderator Gianpaolo Baiocchi.\n\nhttps://www.
- bklynlibrary.org/node/781031
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20251107T160000Z
 DTEND:20251107T180000Z
@@ -366,5 +316,51 @@ DTEND:20251112T163000Z
 DESCRIPTION:Beginners of Hebrew join us for an informal lesson with gramma
  r and conversation and stories\n\nhttps://www.bklynlibrary.org/node/792035
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251112T163000Z
+DTEND:20251112T173000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/781499
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
+DTSTART:20251112T180000Z
+DTEND:20251112T190000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/781296
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20251112T180000Z
+DTEND:20251112T190000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /796346
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Microsoft Word
+DTSTART:20251112T190000Z
+DTEND:20251112T200000Z
+DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
+  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/790
+ 401
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251112T190000Z
+DTEND:20251112T210000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792560
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
