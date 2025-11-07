@@ -21,6 +21,16 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20251107T160000Z
+DTEND:20251107T180000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by Central Library for he
+ lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
+ ps://www.bklynlibrary.org/node/795472
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20251107T170000Z
 DTEND:20251107T190000Z
@@ -354,13 +364,5 @@ DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
   themselves with the application.\n\nhttps://www.bklynlibrary.org/node/790
  401
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20251112T190000Z
-DTEND:20251112T210000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792560
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
