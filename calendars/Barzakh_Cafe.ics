@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Night of Flamenco: Noche de Cante
-DTSTART:20251108T030000Z
-DTEND:20251108T050000Z
-DTSTAMP:20251108T030000Z
-UID:Night of Flamenco: Noche de Cante
-DESCRIPTION:https://www.viewcy.com/event/night_of_flamenco_no\n<p><img alt
- ="Night of Flamenco: Noche de Cante thumbnail" class="styles_coverImg__PsR
- 9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-el
- ement="Image" data-sentry-source-file="index.tsx" decoding="async" height=
- "186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%
- 2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images
- %2F000%2F021%2F551%2Fcover%2FNoche_de_Cante_.jpg%3F1762187390&amp\;w=640&a
- mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
- .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F551%2Fcover%2F
- Noche_de_Cante_.jpg%3F1762187390&amp\;w=384&amp\;q=100 1x\, /_next/image?u
- rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
- tured_images%2F000%2F021%2F551%2Fcover%2FNoche_de_Cante_.jpg%3F1762187390&
- amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ameer Armaly and Friends: Classical Arabic Music
 DTSTART:20251108T233000Z
 DTEND:20251109T013000Z
