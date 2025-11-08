@@ -21,15 +21,6 @@ DESCRIPTION:Join Brooklyn Public Library and the Greg Jackson Center for B
 LOCATION:The Greg Jackson Center for Brownsville
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:FOSSS Guided Music Production Session: Beginner
-DTSTART:20251108T180000Z
-DTEND:20251108T200000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/780238
-LOCATION:Central Library\, Info Commons\, Recording Studio
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Knitting Circle at Brooklyn Heights
 DTSTART:20251108T193000Z
 DTEND:20251108T213000Z
@@ -358,5 +349,15 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
  ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
  rary.org/node/792474
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Computer Lab: Online Job Applications
+DTSTART:20251113T190000Z
+DTEND:20251113T203000Z
+DESCRIPTION:This monthly drop-in lab is geared towards beginner computer u
+ sers to help you apply to jobs you have already found online. There will b
+ e computers available for guided help. Please come with a comple\n\nhttps:
+ //www.bklynlibrary.org/node/792569
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
