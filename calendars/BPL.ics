@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Men's Health Summit
-DTSTART:20251108T170000Z
-DTEND:20251108T210000Z
-DESCRIPTION:Join Brooklyn Public Library and the Greg Jackson Center for B
- rownsville for a day dedicated to men’s health and wellness\, with acces
- s to mental health services\, guidance and community support for jus\n\nht
- tps://www.bklynlibrary.org/node/791551
-LOCATION:The Greg Jackson Center for Brownsville
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Knitting Circle at Brooklyn Heights
 DTSTART:20251108T193000Z
 DTEND:20251108T213000Z
@@ -359,5 +349,13 @@ DESCRIPTION:This monthly drop-in lab is geared towards beginner computer u
  e computers available for guided help. Please come with a comple\n\nhttps:
  //www.bklynlibrary.org/node/792569
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251113T190000Z
+DTEND:20251113T200000Z
+DESCRIPTION:Ask a range of tech questions about various tech devices\n\nht
+ tps://www.bklynlibrary.org/node/790400
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
