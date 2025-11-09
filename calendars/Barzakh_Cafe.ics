@@ -11,28 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Ameer Armaly and Friends: Classical Arabic Music
-DTSTART:20251108T233000Z
-DTEND:20251109T013000Z
-DTSTAMP:20251108T233000Z
-UID:Ameer Armaly and Friends: Classical Arabic Music
-DESCRIPTION:https://www.viewcy.com/event/ameer_armaly_and_frie\n<p><img al
- t="Ameer Armaly and Friends: Classical Arabic Music thumbnail" class="styl
- es_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback
- " data-sentry-element="Image" data-sentry-source-file="index.tsx" decoding
- ="async" height="186" loading="lazy" src="https://www.viewcy.com/_next/ima
- ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
- Ffeatured_images%2F000%2F021%2F054%2Fcover%2FAmeer_Armaly__282_29.jpg%3F17
- 59955959&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fvie
- wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
- F021%2F054%2Fcover%2FAmeer_Armaly__282_29.jpg%3F1759955959&amp\;w=384&amp\
- ;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.ama
- zonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F054%2Fcover%2FAmeer_A
- rmaly__282_29.jpg%3F1759955959&amp\;w=640&amp\;q=100 2x" style="color: tra
- nsparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BRM Concert and Jam
 DTSTART:20251109T020000Z
 DTEND:20251109T040000Z
