@@ -11,29 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:BRM Concert and Jam
-DTSTART:20251109T020000Z
-DTEND:20251109T040000Z
-DTSTAMP:20251109T020000Z
-UID:BRM Concert and Jam
-DESCRIPTION:https://www.viewcy.com/event/brm_concert_and_jam\n<p><img alt=
- "BRM Concert and Jam thumbnail" class="styles_coverImg__PsR9G" data-nimg="
- 1" data-sentry-component="ImageWithFallback" data-sentry-element="Image" d
- ata-sentry-source-file="index.tsx" decoding="async" height="186" loading="
- lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-her
- oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F
- 458%2Fcover%2FEblast_Thumbnails__28Instagram_Post__2845_29_29__282_29.jpg%
- 3F1761942125&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2
- Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
- 00%2F021%2F458%2Fcover%2FEblast_Thumbnails__28Instagram_Post__2845_29_29__
- 282_29.jpg%3F1761942125&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
- 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
- ges%2F000%2F021%2F458%2Fcover%2FEblast_Thumbnails__28Instagram_Post__2845_
- 29_29__282_29.jpg%3F1761942125&amp\;w=640&amp\;q=100 2x" style="color: tra
- nsparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Afro Cuban Percussion Classes with Jorge
 DTSTART:20251109T180000Z
 DTEND:20251109T200000Z
