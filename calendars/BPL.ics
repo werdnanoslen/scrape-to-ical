@@ -33,19 +33,19 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790349
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20251110T163000Z
-DTEND:20251110T183000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790413
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:One-On-One Technology Help
 DTSTART:20251110T163000Z
 DTEND:20251110T173000Z
 DESCRIPTION:General Basic Technology Help:\n\nhttps://www.bklynlibrary.org
  /node/788776
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20251110T163000Z
+DTEND:20251110T183000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790413
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Chair Yoga
