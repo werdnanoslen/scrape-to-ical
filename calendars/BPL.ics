@@ -19,31 +19,6 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20251110T163000Z
-DTEND:20251110T183000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790413
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Chair Yoga
-DTSTART:20251110T173000Z
-DTEND:20251110T183000Z
-DESCRIPTION:This event has been cancelled due to a scheduling conflict.\n\
- nhttps://www.bklynlibrary.org/node/794918
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20251110T180000Z
-DTEND:20251110T190000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/796340
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20251110T190000Z
 DTEND:20251110T210000Z
@@ -52,6 +27,26 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774074
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20251110T190000Z
+DTEND:20251110T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library fo
+ r help with your resume\, cover letter\, interview\, and job search\n\nhtt
+ ps://www.bklynlibrary.org/node/794848
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20251110T190000Z
+DTEND:20251110T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by Central Library for he
+ lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
+ ps://www.bklynlibrary.org/node/795575
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
@@ -361,5 +356,14 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/792767
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20251113T230000Z
+DTEND:20251113T010000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/793243
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
