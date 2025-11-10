@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20251110T200000Z
-DTEND:20251110T220000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /790377
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20251110T200000Z
-DTEND:20251110T220000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790801
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20251110T200000Z
-DTEND:20251110T220000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792559
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20251110T210000Z
-DTEND:20251110T220000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/789154
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251110T213000Z
 DTEND:20251110T230000Z
@@ -366,5 +333,41 @@ DESCRIPTION:Please join us for The Art of Classics program\, on Thursday\,
  in the Info Commons Computer Lab.  We'll read selected works of Greek T\n
  \nhttps://www.bklynlibrary.org/node/794183
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LitFilm 2025: The Blue Road: The Edna O’Brien Story
+DTSTART:20251114T000000Z
+DTEND:20251114T020000Z
+DESCRIPTION:Documentary\, dir. by Sinead O'Shea Ireland\, U.K.\, 2024\, 9
+ 7 min\n\nhttps://www.bklynlibrary.org/node/793422
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251114T160000Z
+DTEND:20251114T180000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/791384
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Getting Started with Premiere Pro
+DTSTART:20251114T163000Z
+DTEND:20251114T183000Z
+DESCRIPTION:New to Premiere Pro? This introductory course is the perfect p
+ lace to start! We’ll guide you through the basics\, teaching you how to 
+ set up your projects\, manage your files\, work with audio\, and maste\n\n
+ https://www.bklynlibrary.org/node/794743
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251114T170000Z
+DTEND:20251114T190000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792561
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
