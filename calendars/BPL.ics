@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251110T190000Z
-DTEND:20251110T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
- p with your resume\, cover letter\, interview\, and job search questions. 
- All sessions are one-on-one on a first come\, first served basis.\n\nhttps
- ://www.bklynlibrary.org/node/774074
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20251110T190000Z
-DTEND:20251110T210000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library fo
- r help with your resume\, cover letter\, interview\, and job search\n\nhtt
- ps://www.bklynlibrary.org/node/794848
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20251110T190000Z
-DTEND:20251110T210000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by Central Library for he
- lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
- ps://www.bklynlibrary.org/node/795575
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20251110T200000Z
 DTEND:20251110T220000Z
@@ -367,5 +337,34 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
  ynlibrary.org/node/793521
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:George Packer Discusses The Emergency with Jennifer Senior
+DTSTART:20251113T233000Z
+DTEND:20251113T010000Z
+DESCRIPTION:BPL Presents welcomes George Packer\, whose gripping fable of 
+ imperial collapse—The Emergency—illuminates the crises of our times.\n
+ \nhttps://www.bklynlibrary.org/node/782916
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🌿 Curious about careers in cannabis? 🌿
+DTSTART:20251113T233000Z
+DTEND:20251113T003000Z
+DESCRIPTION:Join CWI & Brooklyn Public Library Literacy Zones for a FREE 
+ Cannabis Information Session!Discover exciting job opportunities in the ca
+ nnabis industry and learn how our free training programs can help\n\nhttps
+ ://www.bklynlibrary.org/node/793978
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art of Classics
+DTSTART:20251113T233000Z
+DTEND:20251113T003000Z
+DESCRIPTION:Please join us for The Art of Classics program\, on Thursday\,
+  November 13\, and Thursday\, December 18\, 2025\, at 6:30 PM - 7:30 PM\, 
+ in the Info Commons Computer Lab.  We'll read selected works of Greek T\n
+ \nhttps://www.bklynlibrary.org/node/794183
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
