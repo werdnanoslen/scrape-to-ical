@@ -231,6 +231,28 @@ DESCRIPTION:https://www.viewcy.com/event/gnawa_meets_henna\n<p><img alt="G
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bahloul & Friends followed by 6arab-jam طربجام
+DTSTART:20251123T020000Z
+DTEND:20251123T040000Z
+DTSTAMP:20251123T020000Z
+UID:Bahloul & Friends followed by 6arab-jam طربجام
+DESCRIPTION:https://www.viewcy.com/event/bahloul__friends_fol\n<p><img alt
+ ="Bahloul &amp\; Friends followed by 6arab-jam طربجام thumbnail" cla
+ ss="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWith
+ Fallback" data-sentry-element="Image" data-sentry-source-file="index.tsx" 
+ decoding="async" height="186" loading="lazy" src="https://www.viewcy.com/_
+ next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fc
+ ourses%2Ffeatured_images%2F000%2F021%2F771%2Fcover%2FBahloul___Friends__28
+ 3_29.jpg%3F1762888200&amp\;w=640&amp\;q=100" srcset="/_next/image?url=http
+ s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
+ mages%2F000%2F021%2F771%2Fcover%2FBahloul___Friends__283_29.jpg%3F17628882
+ 00&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku
+ -production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F771
+ %2Fcover%2FBahloul___Friends__283_29.jpg%3F1762888200&amp\;w=640&amp\;q=10
+ 0 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bridges of Sound
 DTSTART:20251205T010000Z
 DTEND:20251205T030000Z
