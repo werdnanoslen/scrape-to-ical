@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Television Studio Basics
-DTSTART:20251110T190000Z
-DTEND:20251110T220000Z
-DTSTAMP:20251110T190000Z
-UID:Television Studio Basics-2025-11-10T19:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/television-studio-b
- asics/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20251110T230000Z
-DTEND:20251111T020000Z
-DTSTAMP:20251110T230000Z
-UID:Video Production in the Field-2025-11-10T23:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20251110T190000Z
-DTEND:20251110T220000Z
-DTSTAMP:20251110T190000Z
-UID:Video Editing with Premiere -2025-11-10T19:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Radio Podcasting
 DTSTART:20251111T230000Z
 DTEND:20251112T020000Z
@@ -1072,5 +1042,40 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/capture-your-world
  d-73.9477896!16s%2Fg%2F1tqtysw9?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAF
  QAw%3D%3D
 LOCATION:Clarendon Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIC Podcast  Intensive
+DTSTART:20260319T223000Z
+DTEND:20260320T003000Z
+DTSTAMP:20260319T223000Z
+UID:BRIC Podcast  Intensive-2026-03-19T22:30:00+00:00
+DESCRIPTION:Cost: $150 \nhttps://bricartsmedia.org/class/bric-podcast-inte
+ nsive-2026-cohort/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Capture Your World: Teen Photography Bootcamp - Cycle 2
+DTSTART:20260323T200000Z
+DTEND:20260323T220000Z
+DTSTAMP:20260323T200000Z
+UID:Capture Your World: Teen Photography Bootcamp - Cycle 2-2026-03-23T20:
+ 00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/capture-your-world
+ -teen-photography-bootcamp-cycle-2/\nhttps://www.google.com/maps/place/Bro
+ oklyn+Public+Library+-+Clarendon+Branch/@40.635683\,-73.9503699\,16z/data=
+ !3m1!4b1!4m6!3m5!1s0x89c25b4dfe5f495f:0x5ed347c8edfe69a9!8m2!3d40.635683!4
+ d-73.9477896!16s%2Fg%2F1tqtysw9?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAF
+ QAw%3D%3D
+LOCATION:Clarendon Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIC Podcast  Intensive
+DTSTART:20260326T223000Z
+DTEND:20260327T003000Z
+DTSTAMP:20260326T223000Z
+UID:BRIC Podcast  Intensive-2026-03-26T22:30:00+00:00
+DESCRIPTION:Cost: $150 \nhttps://bricartsmedia.org/class/bric-podcast-inte
+ nsive-2026-cohort/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
