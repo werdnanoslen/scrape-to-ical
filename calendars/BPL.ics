@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Intro to Microsoft Word
-DTSTART:20251112T190000Z
-DTEND:20251112T200000Z
-DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
-  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/790
- 401
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20251112T190000Z
 DTEND:20251112T210000Z
@@ -374,6 +365,15 @@ DTSTART:20251115T210000Z
 DTEND:20251115T223000Z
 DESCRIPTION:Documentary\, dir. by Katarzyna Kolenda-Zaleska Poland\, 2009
  \, 73 min\n\nhttps://www.bklynlibrary.org/node/793440
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LitFilm 2025: W.S. Merwin: Even Though the Whole World is Burning 
+ Screening & Talkback
+DTSTART:20251115T230000Z
+DTEND:20251115T010000Z
+DESCRIPTION:Documentary\, dir. by Stefan Schaefer U.S.\, 2014\, 84 min\n\
+ nhttps://www.bklynlibrary.org/node/793441
 LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
