@@ -20,14 +20,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Eat Healthy Be Active Workshop led by City Harvest
-DTSTART:20251113T220000Z
-DTEND:20251113T230000Z
-DESCRIPTION:Do you spend too much time worrying about what's for dinner? W
- e can help!\n\nhttps://www.bklynlibrary.org/node/796431
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba
 DTSTART:20251113T223000Z
 DTEND:20251113T233000Z
@@ -365,5 +357,16 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
  73
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Breaking into T.E.C.H: Training\, Education\, and Careers in High-
+ Demand
+DTSTART:20251117T220000Z
+DTEND:20251117T010000Z
+DESCRIPTION:BPL’s LevelUP Program\, in partnership with Per Scholas\, pr
+ esents an overview of education\, training\, and resources in the tech job
+  market. In this in-person session\, participants will explore key sect\n\
+ nhttps://www.bklynlibrary.org/node/791627
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
