@@ -30,6 +30,14 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251113T190000Z
+DTEND:20251113T200000Z
+DESCRIPTION:Ask a range of tech questions about various tech devices\n\nht
+ tps://www.bklynlibrary.org/node/790400
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Career Computer Lab: Online Job Applications
 DTSTART:20251113T190000Z
 DTEND:20251113T203000Z
@@ -38,14 +46,6 @@ DESCRIPTION:This monthly drop-in lab is geared towards beginner computer u
  e computers available for guided help. Please come with a comple\n\nhttps:
  //www.bklynlibrary.org/node/792569
 LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20251113T190000Z
-DTEND:20251113T200000Z
-DESCRIPTION:Ask a range of tech questions about various tech devices\n\nht
- tps://www.bklynlibrary.org/node/790400
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
