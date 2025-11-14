@@ -21,6 +21,16 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20251114T160000Z
+DTEND:20251114T180000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by Central Library for he
+ lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
+ ps://www.bklynlibrary.org/node/795473
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Getting Started with Premiere Pro
 DTSTART:20251114T163000Z
 DTEND:20251114T183000Z
@@ -351,15 +361,5 @@ DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
   questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
  ww.bklynlibrary.org/node/790591
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20251118T190000Z
-DTEND:20251118T210000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/796760
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
