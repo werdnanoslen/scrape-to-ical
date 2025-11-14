@@ -11,64 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20251113T223000Z
-DTEND:20251113T003000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/792767
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20251113T230000Z
-DTEND:20251113T010000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/793243
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20251113T230000Z
-DTEND:20251113T003000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/793521
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:George Packer Discusses The Emergency with Jennifer Senior
-DTSTART:20251113T233000Z
-DTEND:20251113T010000Z
-DESCRIPTION:BPL Presents welcomes George Packer\, whose gripping fable of 
- imperial collapse—The Emergency—illuminates the crises of our times.\n
- \nhttps://www.bklynlibrary.org/node/782916
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🌿 Curious about careers in cannabis? 🌿
-DTSTART:20251113T233000Z
-DTEND:20251113T003000Z
-DESCRIPTION:Join CWI & Brooklyn Public Library Literacy Zones for a FREE 
- Cannabis Information Session!Discover exciting job opportunities in the ca
- nnabis industry and learn how our free training programs can help\n\nhttps
- ://www.bklynlibrary.org/node/793978
-LOCATION:Pacific Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Art of Classics
-DTSTART:20251113T233000Z
-DTEND:20251113T003000Z
-DESCRIPTION:Please join us for The Art of Classics program\, on Thursday\,
-  November 13\, and Thursday\, December 18\, 2025\, at 6:30 PM - 7:30 PM\, 
- in the Info Commons Computer Lab.  We'll read selected works of Greek T\n
- \nhttps://www.bklynlibrary.org/node/794183
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LitFilm 2025: The Blue Road: The Edna O’Brien Story
 DTSTART:20251114T000000Z
 DTEND:20251114T020000Z
@@ -363,5 +305,59 @@ DTEND:20251117T010000Z
 DESCRIPTION:From Jamaica to Brooklyn to the world. Dancehall in the Diaspo
  ra.\n\nhttps://www.bklynlibrary.org/node/796551
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251118T143000Z
+DTEND:20251118T173000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791989
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Vet Center Tabling
+DTSTART:20251118T150000Z
+DTEND:20251118T190000Z
+DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
+ dential and free help to Veterans\, service members\, and their families. 
+ Staff from the Vet Center will assist with information on health a\n\nhttp
+ s://www.bklynlibrary.org/node/782956
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
+DTSTART:20251118T160000Z
+DTEND:20251118T183000Z
+DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
+ //www.bklynlibrary.org/node/771876
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251118T180000Z
+DTEND:20251118T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/796745
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251118T183000Z
+DTEND:20251118T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/796746
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:iPhone & Android Help
+DTSTART:20251118T190000Z
+DTEND:20251118T200000Z
+DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
+ e figure out something? The objective of this class is to tend to patrons'
+  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
+ ww.bklynlibrary.org/node/790591
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
