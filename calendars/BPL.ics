@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:LitFilm 2025: Mario Vargas Llosa: The Story of the Novelist Who Wo
- uld Be President
-DTSTART:20251115T000000Z
-DTEND:20251115T020000Z
-DESCRIPTION:Documentary\, dir. by Paul Yule U.K. & Peru\, 1990\, 60 min\n
- \nhttps://www.bklynlibrary.org/node/793439
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20251115T143000Z
 DTEND:20251115T173000Z
@@ -358,5 +349,15 @@ DTEND:20251118T003000Z
 DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
  klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/783608
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Book Club: This Kind of Trouble by Tochi Eze
+DTSTART:20251118T233000Z
+DTEND:20251118T003000Z
+DESCRIPTION:Join us this month to discuss Nigerian writer Tochi Eze's debu
+ t novel This Kind of Trouble. This multigenerational saga spanning a centu
+ ry follows an estranged couple\, Margaret and Benjamin\, who reuni\n\nhttp
+ s://www.bklynlibrary.org/node/793236
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
