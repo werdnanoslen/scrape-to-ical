@@ -19,15 +19,6 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251115T153000Z
-DTEND:20251115T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 83
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Events for Youth & Families: Pushing Hope: An Afternoon with Raymo
  nd Santana and Keith Henry Brown
 DTSTART:20251115T180000Z
@@ -359,5 +350,12 @@ DESCRIPTION:Join us this month to discuss Nigerian writer Tochi Eze's debu
  ry follows an estranged couple\, Margaret and Benjamin\, who reuni\n\nhttp
  s://www.bklynlibrary.org/node/793236
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20251119T150000Z
+DTEND:20251119T170000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782598
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
