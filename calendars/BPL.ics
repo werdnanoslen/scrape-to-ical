@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:LitFilm 2025: BaddDDD Sonia Sanchez
-DTSTART:20251116T203000Z
-DTEND:20251116T220000Z
-DESCRIPTION:Documentary\, dir. by Barbara Attie\, Janet Goldwater & Sabrin
- a Schmidt Gordon U.S.\, 2015\, 91 min\n\nhttps://www.bklynlibrary.org/nod
- e/793443
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LitFilm 2025: Paddy Chayefsky: Collector of Words
 DTSTART:20251116T230000Z
 DTEND:20251116T011500Z
@@ -355,5 +346,14 @@ DTEND:20251119T210000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792564
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Laptop/Tablet Help
+DTSTART:20251119T190000Z
+DTEND:20251119T200000Z
+DESCRIPTION:Having trouble navigating your new laptop or tablet? Come on o
+ ver to laptop & tablet help* and we’ll show you how to use it.\n\nhttps:
+ //www.bklynlibrary.org/node/790398
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
