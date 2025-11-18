@@ -11,42 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Brooklyn Vet Center Tabling
-DTSTART:20251118T150000Z
-DTEND:20251118T190000Z
-DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
- dential and free help to Veterans\, service members\, and their families. 
- Staff from the Vet Center will assist with information on health a\n\nhttp
- s://www.bklynlibrary.org/node/782956
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
-DTSTART:20251118T160000Z
-DTEND:20251118T183000Z
-DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
- //www.bklynlibrary.org/node/771876
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251118T180000Z
-DTEND:20251118T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/796745
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251118T183000Z
-DTEND:20251118T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/796746
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:iPhone & Android Help
 DTSTART:20251118T190000Z
 DTEND:20251118T200000Z
@@ -372,5 +336,39 @@ DESCRIPTION:This drop-in lab is geared towards freelance artists of all me
  ut computers will be provided and Canva provides cloud storage.\n\nhttps:/
  /www.bklynlibrary.org/node/792573
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arts and Crafts Circle
+DTSTART:20251120T193000Z
+DTEND:20251120T210000Z
+DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
+ us to work on projects\, trade skills\, and socialize with other makers! B
+ ring your own materials and enjoy the practice of making with other\n\nhtt
+ ps://www.bklynlibrary.org/node/788396
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Cookbook Club: Curries Around the World
+DTSTART:20251120T200000Z
+DTEND:20251120T213000Z
+DESCRIPTION:Join the Central Cookbook Club as we slice and dice curries fr
+ om around the world.  We'll have our usual cookbooks to browse through to
+ o.\n\nhttps://www.bklynlibrary.org/node/779429
+LOCATION:Central Library\, Reverend Elsie Smith Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music You Can Create
+DTSTART:20251120T200000Z
+DTEND:20251120T210000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/793481
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ADA Accessible Transportation Forum
+DTSTART:20251120T220000Z
+DTEND:20251120T000000Z
+DESCRIPTION:This is a hybrid program on Zoom and at the Brooklyn Heights L
+ ibrary.\n\nhttps://www.bklynlibrary.org/node/794747
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
