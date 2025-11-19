@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20251118T220000Z
-DTEND:20251118T233000Z
-DESCRIPTION:Looking to share your current knitting/crocheting project with
-  others? Come join like-minded folks on their yarn journey in the Info Co
- mmons. Bring your own yarn and tools and meet with other fiber ar\n\nhttp
- s://www.bklynlibrary.org/node/771591
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POP CULTURE CLUB
-DTSTART:20251118T223000Z
-DTEND:20251118T233000Z
-DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
-  trending? Join our Pop Culture Club! We meet regularly to discuss the lat
- est in entertainment\, share fan theories\, play trivia\, and dive into\n\
- nhttps://www.bklynlibrary.org/node/778779
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ken Siegelman’s Brooklyn Poetry Outreach Featuring Dennis Nurkse
 DTSTART:20251118T223000Z
 DTEND:20251118T003000Z
@@ -369,5 +349,24 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
  \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
  lynlibrary.org/node/776177
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20251120T223000Z
+DTEND:20251120T000000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792403
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20251120T223000Z
+DTEND:20251120T003000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/792768
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
