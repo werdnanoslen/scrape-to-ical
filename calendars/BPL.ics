@@ -11,41 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Ken Siegelman’s Brooklyn Poetry Outreach Featuring Dennis Nurkse
-DTSTART:20251118T223000Z
-DTEND:20251118T003000Z
-DESCRIPTION:Tuesday\, October 14th\n\nhttps://www.bklynlibrary.org/node/79
- 4791
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group - Brooklyn Heights
-DTSTART:20251118T230000Z
-DTEND:20251118T003000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/781043
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Singing Event
-DTSTART:20251118T230000Z
-DTEND:20251118T003000Z
-DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
- klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/783608
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Book Club: This Kind of Trouble by Tochi Eze
-DTSTART:20251118T233000Z
-DTEND:20251118T003000Z
-DESCRIPTION:Join us this month to discuss Nigerian writer Tochi Eze's debu
- t novel This Kind of Trouble. This multigenerational saga spanning a centu
- ry follows an estranged couple\, Margaret and Benjamin\, who reuni\n\nhttp
- s://www.bklynlibrary.org/node/793236
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Multilingual Business Help
 DTSTART:20251119T150000Z
 DTEND:20251119T170000Z
@@ -368,5 +333,44 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/792768
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20251120T230000Z
+DTEND:20251120T010000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/793244
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20251120T230000Z
+DTEND:20251120T003000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/793522
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2025 PowerUP Awards Ceremony
+DTSTART:20251120T230000Z
+DTEND:20251120T010000Z
+DESCRIPTION:Please join us for the 22nd annual PowerUP Business Plan Compe
+ tition Awards Ceremony. More than $40\,000 in cash and prizes will be awar
+ ded to the competition’s top entrepreneurs to start their busines\n\nhtt
+ ps://www.bklynlibrary.org/node/793929
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National External Diploma Program (NEDP) Info. Session
+DTSTART:20251120T233000Z
+DTEND:20251120T003000Z
+DESCRIPTION:Looking for a different way to earn your high school equivalen
+ cy diploma? The National External Diploma Program could be right for you! 
+ Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
+ ://www.bklynlibrary.org/node/793282
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
