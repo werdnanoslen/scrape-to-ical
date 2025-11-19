@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251119T100546Z
-DTEND;VALUE=DATE:20251119T120546Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-11-19 10:05:46.508396+00:
+DTSTART;VALUE=DATE:20251119T110649Z
+DTEND;VALUE=DATE:20251119T130649Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-11-19 11:06:49.174187+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -28,9 +28,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20251119T100546Z
-DTEND;VALUE=DATE:20251119T120546Z
-UID:Lightscape-2025-11-19 10:05:46.508807+00:00
+DTSTART;VALUE=DATE:20251119T110649Z
+DTEND;VALUE=DATE:20251119T130649Z
+UID:Lightscape-2025-11-19 11:06:49.174625+00:00
 DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
  	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
   most dazzling light show! Celebrate the beauty of nature in winter on thi
@@ -38,21 +38,6 @@ DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n
  t Lightscape\n\nMore info:\nhttps://www.bbg.org/lightscape\n\n<img src="/i
  mg/uploads/manual/hero/_list_thumbnail_regular/Lightscape-Visitors_LL_2024
  -0133.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Introduction to Botanical Illustration
-DTSTART;VALUE=DATE:20251118T050000Z
-DTEND;VALUE=DATE:20251118T070000Z
-UID:Introduction to Botanical Illustration-2025-11-18 05:00:00+00:00
-DESCRIPTION:4 Tuesdays: November 18–December 9\, 2025 | 10 a.m.–12 p.m
- .\n					\n\n\n					\n						| Waitlist Only\n\nCapture the beauty of plants
-  and flowers in this beginner-friendly botanical art class.Learn More›ab
- out Introduction to Botanical Illustration\n\nMore info:\nhttps://www.bbg.
- org/classes/introduction_to_botanical_illustration_2025\n\n<img src="/img/
- uploads/hero/_list_thumbnail_regular/tulip_tree-White-Pultz.jpeg" alt="" /
- >
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -125,6 +110,49 @@ DESCRIPTION:Tuesday\, November 25\, 2025 | 6–9 p.m.\n					\n\n\n					\n
  e›about Holiday Centerpiece\n\nMore info:\nhttps://www.bbg.org/classes/h
  oliday_centerpiece\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/
  Baroque-Holiday-Centerpiece.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightscape 21+ Nights
+DTSTART;VALUE=DATE:20251204T050000Z
+DTEND;VALUE=DATE:20251204T070000Z
+UID:Lightscape 21+ Nights-2025-12-04 05:00:00+00:00
+DESCRIPTION:Thursday\, December 4\, 11 & 18\, 2025\n					\n\n\n					\n				
+ 		\n							| Ticketed Event\n\nExperience the magic of Lightscape in a new
+  way with these special 21 and over evening hours.Learn More›about Light
+ scape 21+ Nights\n\nMore info:\nhttps://www.bbg.org/visit/event/lightscape
+ _21_plus\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/MMP
+ _RAxBBC_0488.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Mocktails
+DTSTART;VALUE=DATE:20251204T050000Z
+DTEND;VALUE=DATE:20251204T070000Z
+UID:Holiday Mocktails-2025-12-04 05:00:00+00:00
+DESCRIPTION:Single session on Thursday\, December 4 or December 11\, 2025\
+ n					\n\n\n					\n						\n							| Preregistration Required\n\nThis class
+  will introduce you to the wonders of using leaves\, flowers\, barks\, see
+ ds\, and berries in a range of alcohol-free beverages.Learn More›about H
+ oliday Mocktails\n\nMore info:\nhttps://www.bbg.org/classes/holiday_mockta
+ ils\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/23WAEFOOHCM_coc
+ ktails_MM_9193848123.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Floral Design: Basics and Beyond
+DTSTART;VALUE=DATE:20251204T050000Z
+DTEND;VALUE=DATE:20251204T070000Z
+UID:Floral Design: Basics and Beyond-2025-12-04 05:00:00+00:00
+DESCRIPTION:3 Thursdays: December 4\, 11\, 18\, 2025 | 6–7:30 p.m.\n				
+ 	\n\n\n					\n						\n							| Preregistration Required\n\nLearn how to ma
+ ke beautiful arrangements for home and special events.Learn More›about F
+ loral Design: Basics and Beyond\n\nMore info:\nhttps://www.bbg.org/classes
+ /floral_design_basics_and_beyond\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/floral-design_CVN_13605160955.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
