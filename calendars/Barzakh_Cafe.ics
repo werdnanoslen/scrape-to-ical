@@ -208,6 +208,27 @@ DESCRIPTION:https://www.viewcy.com/event/generational_discon_1\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Night of Kora
+DTSTART:20251130T030000Z
+DTEND:20251130T050000Z
+DTSTAMP:20251130T030000Z
+UID:Night of Kora
+DESCRIPTION:https://www.viewcy.com/event/night_of_kora_2\n<p><img alt="Nig
+ ht of Kora thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-se
+ ntry-component="ImageWithFallback" data-sentry-element="Image" data-sentry
+ -source-file="index.tsx" decoding="async" height="186" loading="lazy" src=
+ "https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
+ tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F936%2Fcove
+ r%2FNIGHT_OF_KORA.jpg%3F1763566619&amp\;w=640&amp\;q=100" srcset="/_next/i
+ mage?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses
+ %2Ffeatured_images%2F000%2F021%2F936%2Fcover%2FNIGHT_OF_KORA.jpg%3F1763566
+ 619&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F93
+ 6%2Fcover%2FNIGHT_OF_KORA.jpg%3F1763566619&amp\;w=640&amp\;q=100 2x" style
+ ="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bridges of Sound
 DTSTART:20251205T010000Z
 DTEND:20251205T030000Z
