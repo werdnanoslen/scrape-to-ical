@@ -30,6 +30,15 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Total Body Fitness
+DTSTART:20251120T153000Z
+DTEND:20251120T163000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/792475
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251120T153000Z
 DTEND:20251120T170000Z
@@ -46,15 +55,6 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/792345
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Total Body Fitness
-DTSTART:20251120T153000Z
-DTEND:20251120T163000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/792475
-LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mobile Phone Photography
