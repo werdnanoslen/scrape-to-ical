@@ -206,6 +206,29 @@ DESCRIPTION:https://www.viewcy.com/event/night_of_kora_2\n<p><img alt="Nig
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Afro Cuban Percussion Classes with Jorge
+DTSTART:20251130T210000Z
+DTEND:20251130T230000Z
+DTSTAMP:20251130T210000Z
+UID:Afro Cuban Percussion Classes with Jorge
+DESCRIPTION:https://www.viewcy.com/event/afro_cuban_percussion_7\n<p><img 
+ alt="Afro Cuban Percussion Classes with Jorge thumbnail" class="styles_cov
+ erImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data
+ -sentry-element="Image" data-sentry-source-file="index.tsx" decoding="asyn
+ c" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F021%2F968%2Fcover%2FBarzakh_Classes__28Instagram_Post__
+ 2845_29_29.jpg%3F1763657795&amp\;w=640&amp\;q=100" srcset="/_next/image?ur
+ l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
+ ured_images%2F000%2F021%2F968%2Fcover%2FBarzakh_Classes__28Instagram_Post_
+ _2845_29_29.jpg%3F1763657795&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F021%2F968%2Fcover%2FBarzakh_Classes__28Instagram_Post__28
+ 45_29_29.jpg%3F1763657795&amp\;w=640&amp\;q=100 2x" style="color: transpar
+ ent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Latin Boleros & Classics
 DTSTART:20251130T220000Z
 DTEND:20251201T000000Z
@@ -281,14 +304,14 @@ DESCRIPTION:https://www.viewcy.com/event/rooted_in_presence_s\n<p><img alt
  entry-element="Image" data-sentry-source-file="index.tsx" decoding="async"
   height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=h
  ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
- d_images%2F000%2F021%2F961%2Fcover%2Frooted_in_presence.jpg%3F1763644231&a
- mp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku
- -production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F961
- %2Fcover%2Frooted_in_presence.jpg%3F1763644231&amp\;w=384&amp\;q=100 1x\, 
- /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2
- Fcourses%2Ffeatured_images%2F000%2F021%2F961%2Fcover%2Frooted_in_presence.
- jpg%3F1763644231&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wi
- dth="308"/></p>
+ d_images%2F000%2F021%2F961%2Fcover%2Frooted_in_presence__281_29.jpg%3F1763
+ 658075&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewc
+ y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
+ 21%2F961%2Fcover%2Frooted_in_presence__281_29.jpg%3F1763658075&amp\;w=384&
+ amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3
+ .amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F961%2Fcover%2Froo
+ ted_in_presence__281_29.jpg%3F1763658075&amp\;w=640&amp\;q=100 2x" style="
+ color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
