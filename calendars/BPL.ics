@@ -30,15 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Leading Nonprofit Culture Transformation with Vidi Global
-DTSTART:20251120T170000Z
-DTEND:20251120T190000Z
-DESCRIPTION:How do you lead your organization through culture change in a 
- way that inspires people and positions you for lasting growth?\n\nhttps://
- www.bklynlibrary.org/node/792038
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Marketing Your Podcast
 DTSTART:20251120T190000Z
 DTEND:20251120T210000Z
@@ -374,5 +365,13 @@ DTSTART:20251124T163000Z
 DTEND:20251124T183000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790415
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga
+DTSTART:20251124T173000Z
+DTEND:20251124T183000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/796004
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
