@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251120T100544Z
-DTEND;VALUE=DATE:20251120T120544Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-11-20 10:05:44.213871+00:
+DTSTART;VALUE=DATE:20251120T110656Z
+DTEND;VALUE=DATE:20251120T130656Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-11-20 11:06:56.506530+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -28,9 +28,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20251120T100544Z
-DTEND;VALUE=DATE:20251120T120544Z
-UID:Lightscape-2025-11-20 10:05:44.214299+00:00
+DTSTART;VALUE=DATE:20251120T110656Z
+DTEND;VALUE=DATE:20251120T130656Z
+UID:Lightscape-2025-11-20 11:06:56.506939+00:00
 DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
  	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
   most dazzling light show! Celebrate the beauty of nature in winter on thi
@@ -153,6 +153,33 @@ DESCRIPTION:3 Thursdays: December 4\, 11\, 18\, 2025 | 6–7:30 p.m.\n
  loral Design: Basics and Beyond\n\nMore info:\nhttps://www.bbg.org/classes
  /floral_design_basics_and_beyond\n\n<img src="/img/uploads/hero/_list_thum
  bnail_regular/floral-design_CVN_13605160955.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garden Apprentice Program Application Deadline
+DTSTART;VALUE=DATE:20251205T050000Z
+DTEND;VALUE=DATE:20251205T070000Z
+UID:Garden Apprentice Program Application Deadline-2025-12-05 05:00:00+00:
+ 00
+DESCRIPTION:Wednesday\, December 5\, 2025\n\n\n\nMore info:\nhttps://www.b
+ bg.org/learn/gap\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_reg
+ ular/gap-2018-list_DSC_1108.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightscape Sensory-Friendly Early Entry
+DTSTART;VALUE=DATE:20251205T050000Z
+DTEND;VALUE=DATE:20251205T070000Z
+UID:Lightscape Sensory-Friendly Early Entry-2025-12-05 05:00:00+00:00
+DESCRIPTION:December 5 & 30\, 2025 | 4 p.m.\n					\n\n\n					\n						\n			
+ 				| Ticketed Event\n\nThese special early entry times are designed for a
+ dults and children with disabilities or sensory sensitivity who would like
+  to experience Lightscape without the usual high volume of people.Learn Mo
+ re›about Lightscape Sensory-Friendly Early Entry\n\nMore info:\nhttps://
+ www.bbg.org/visit/event/lightscape_sensory_friendly\n\n<img src="/img/uplo
+ ads/hero/_list_thumbnail_regular/fountain-hero.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
