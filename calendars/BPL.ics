@@ -30,16 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mobile Phone Photography
-DTSTART:20251120T160000Z
-DTEND:20251120T180000Z
-DESCRIPTION:Learn how to use your phone to take compelling and beautiful i
- mages. We'll cover free and wallet-friendly photo apps\, and share tips a
- nd strategies that will make your photographs look amazing. Upon c\n\nhttp
- s://www.bklynlibrary.org/node/765469
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Leading Nonprofit Culture Transformation with Vidi Global
 DTSTART:20251120T170000Z
 DTEND:20251120T190000Z
@@ -377,5 +367,12 @@ DTSTART:20251124T160000Z
 DTEND:20251124T180000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790351
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20251124T163000Z
+DTEND:20251124T183000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790415
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
