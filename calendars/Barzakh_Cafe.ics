@@ -248,4 +248,26 @@ DESCRIPTION:https://www.viewcy.com/event/bridges_of_sound\n<p><img alt="Br
  100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rooted in Presence: Sufi Night with Falsa
+DTSTART:20251207T010000Z
+DTEND:20251207T030000Z
+DTSTAMP:20251207T010000Z
+UID:Rooted in Presence: Sufi Night with Falsa
+DESCRIPTION:https://www.viewcy.com/event/rooted_in_presence_s\n<p><img alt
+ ="Rooted in Presence: Sufi Night with Falsa thumbnail" class="styles_cover
+ Img__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-s
+ entry-element="Image" data-sentry-source-file="index.tsx" decoding="async"
+  height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F021%2F961%2Fcover%2Frooted_in_presence.jpg%3F1763644231&a
+ mp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku
+ -production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F961
+ %2Fcover%2Frooted_in_presence.jpg%3F1763644231&amp\;w=384&amp\;q=100 1x\, 
+ /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2
+ Fcourses%2Ffeatured_images%2F000%2F021%2F961%2Fcover%2Frooted_in_presence.
+ jpg%3F1763644231&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wi
+ dth="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
