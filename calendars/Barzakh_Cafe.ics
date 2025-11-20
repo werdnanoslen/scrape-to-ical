@@ -228,6 +228,27 @@ DESCRIPTION:https://www.viewcy.com/event/latin_boleros__class\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Cool Out Vol. 2
+DTSTART:20251201T000000Z
+DTEND:20251201T020000Z
+DTSTAMP:20251201T000000Z
+UID:The Cool Out Vol. 2
+DESCRIPTION:https://www.viewcy.com/event/the_cool_out_vol_2_1\n<p><img alt
+ ="The Cool Out Vol. 2 thumbnail" class="styles_coverImg__PsR9G" data-nimg=
+ "1" data-sentry-component="ImageWithFallback" data-sentry-element="Image" 
+ data-sentry-source-file="index.tsx" decoding="async" height="186" loading=
+ "lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-he
+ roku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2
+ F606%2Fcover%2FCOOLOUTflyer.jpg%3F1762395913&amp\;w=640&amp\;q=100" srcset
+ ="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com
+ %2Fcourses%2Ffeatured_images%2F000%2F021%2F606%2Fcover%2FCOOLOUTflyer.jpg%
+ 3F1762395913&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fvie
+ wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
+ F021%2F606%2Fcover%2FCOOLOUTflyer.jpg%3F1762395913&amp\;w=640&amp\;q=100 2
+ x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bridges of Sound
 DTSTART:20251205T010000Z
 DTEND:20251205T030000Z
