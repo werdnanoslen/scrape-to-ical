@@ -31,36 +31,6 @@ DESCRIPTION:Join New York Connects every month as we connect the community
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Canva Freelance Art Portfolios**
-DTSTART:20251120T190000Z
-DTEND:20251120T203000Z
-DESCRIPTION:This drop-in lab is geared towards freelance artists of all me
- diums looking to create a portfolio. Feel free to bring your own devices b
- ut computers will be provided and Canva provides cloud storage.\n\nhttps:/
- /www.bklynlibrary.org/node/792573
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketing Your Podcast
-DTSTART:20251120T190000Z
-DTEND:20251120T210000Z
-DESCRIPTION:Dive into the dynamic world of podcast promotion with our “M
- arketing Your Podcast” course. Whether you’re a seasoned podcaster or 
- just getting started\, this course will equip you with the strategies a\n\
- nhttps://www.bklynlibrary.org/node/765470
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20251120T193000Z
-DTEND:20251120T210000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers! B
- ring your own materials and enjoy the practice of making with other\n\nhtt
- ps://www.bklynlibrary.org/node/788396
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Central Cookbook Club: Curries Around the World
 DTSTART:20251120T200000Z
 DTEND:20251120T213000Z
@@ -68,13 +38,6 @@ DESCRIPTION:Join the Central Cookbook Club as we slice and dice curries fr
  om around the world.  We'll have our usual cookbooks to browse through to
  o.\n\nhttps://www.bklynlibrary.org/node/779429
 LOCATION:Central Library\, Reverend Elsie Smith Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music You Can Create
-DTSTART:20251120T200000Z
-DTEND:20251120T210000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/793481
-LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ADA Accessible Transportation Forum
@@ -374,5 +337,38 @@ DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
  e class will begin with stretch and breathing exercises. Workouts\n\nhttps
  ://www.bklynlibrary.org/node/796342
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251124T190000Z
+DTEND:20251124T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774076
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20251124T200000Z
+DTEND:20251124T220000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /790379
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20251124T200000Z
+DTEND:20251124T220000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790803
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251124T200000Z
+DTEND:20251124T220000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792566
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
