@@ -41,14 +41,6 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clase de Computación
-DTSTART:20251121T160000Z
-DTEND:20251121T170000Z
-DESCRIPTION:Viernes de 11am-12pm\n\nhttps://www.bklynlibrary.org/node/7965
- 49
-LOCATION:Pacific\, Basement Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20251121T170000Z
 DTEND:20251121T190000Z
@@ -368,5 +360,15 @@ DTEND:20251125T220000Z
 DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/79069
  8
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Crafting Circle
+DTSTART:20251125T210000Z
+DTEND:20251125T220000Z
+DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
+ Join our virtual crafting circle! Twice a month\, get together with fellow
+  crafters to chat and discuss what you're working on! Bring your\n\nhttps:
+ //www.bklynlibrary.org/node/783597
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR

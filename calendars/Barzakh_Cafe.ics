@@ -271,4 +271,25 @@ DESCRIPTION:https://www.viewcy.com/event/rooted_in_presence_s\n<p><img alt
  color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRM Concert & Jam
+DTSTART:20251212T013000Z
+DTEND:20251212T033000Z
+DTSTAMP:20251212T013000Z
+UID:BRM Concert & Jam
+DESCRIPTION:https://www.viewcy.com/event/brm_concert__jam_1\n<p><img alt="
+ BRM Concert &amp\; Jam thumbnail" class="styles_coverImg__PsR9G" data-nimg
+ ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
+  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
+ ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%
+ 2F995%2Fcover%2Funnamed.jpg%3F1763741939&amp\;w=640&amp\;q=100" srcset="/_
+ next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fc
+ ourses%2Ffeatured_images%2F000%2F021%2F995%2Fcover%2Funnamed.jpg%3F1763741
+ 939&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F021%2F99
+ 5%2Fcover%2Funnamed.jpg%3F1763741939&amp\;w=640&amp\;q=100 2x" style="colo
+ r: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
