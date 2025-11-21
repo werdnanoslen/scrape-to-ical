@@ -11,55 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20251120T223000Z
-DTEND:20251120T003000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/792768
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20251120T230000Z
-DTEND:20251120T010000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/793244
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20251120T230000Z
-DTEND:20251120T003000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/793522
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2025 PowerUP Awards Ceremony
-DTSTART:20251120T230000Z
-DTEND:20251120T010000Z
-DESCRIPTION:Please join us for the 22nd annual PowerUP Business Plan Compe
- tition Awards Ceremony. More than $40\,000 in cash and prizes will be awar
- ded to the competition’s top entrepreneurs to start their busines\n\nhtt
- ps://www.bklynlibrary.org/node/793929
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National External Diploma Program (NEDP) Info. Session
-DTSTART:20251120T233000Z
-DTEND:20251120T003000Z
-DESCRIPTION:Looking for a different way to earn your high school equivalen
- cy diploma? The National External Diploma Program could be right for you! 
- Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
- ://www.bklynlibrary.org/node/793282
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251121T150000Z
 DTEND:20251121T220000Z
@@ -371,5 +322,51 @@ DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
  a special session of our popular Joint Ventures educational serie\n\nhttps
  ://www.bklynlibrary.org/node/787571
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251125T180000Z
+DTEND:20251125T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/796748
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251125T183000Z
+DTEND:20251125T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/796747
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20251125T190000Z
+DTEND:20251125T210000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/796761
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/79069
+ 8
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Crafting Circle
+DTSTART:20251125T210000Z
+DTEND:20251125T220000Z
+DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
+ Join our virtual crafting circle! Twice a month\, get together with fellow
+  crafters to chat and discuss what you're working on! Bring your\n\nhttps:
+ //www.bklynlibrary.org/node/783597
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
