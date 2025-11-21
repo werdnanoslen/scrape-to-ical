@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Crafting: Felt Corner Bookmark
-DTSTART:20251121T193000Z
-DTEND:20251121T210000Z
-DESCRIPTION:Join us to create a felt corner bookmark! We will provide all 
- the materials you need to make an embroidered felt bookmark for your use o
- r as gifts!\n\nhttps://www.bklynlibrary.org/node/793415
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20251121T210000Z
 DTEND:20251121T223000Z
@@ -369,5 +360,15 @@ DESCRIPTION:Please join our class adults to learn basic Hebrew grammar and
   conversation in a friendly atmosphere\n\nhttps://www.bklynlibrary.org/nod
  e/797524
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20251126T150000Z
+DTEND:20251126T220000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/797818
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
