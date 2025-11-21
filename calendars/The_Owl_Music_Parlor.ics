@@ -472,6 +472,46 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1723\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Annual Howliday Spectacular Dec 19
+DTSTART:20251220T003000Z
+DTEND:20251220T023000Z
+DTSTAMP:20251220T003000Z
+UID:https://theowl.nyc/calendar?event_id=1727-2025-12-20 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1727\n7:30 Doors\n8:00 Mu
+ sic \n$15.00\n<p><img class="alignnone size-full wp-image-2719" src="https
+ ://theowl.nyc/wp-content/uploads/Unknown-13.jpeg" alt="" width="225" heigh
+ t="155" /> <img class="alignnone size-medium wp-image-587" src="https://t
+ heowl.nyc/wp-content/uploads/akie-300x300.jpg" alt="" width="300" height="
+ 300" /> <img class="alignnone size-full wp-image-1007" src="https://theowl
+ .nyc/wp-content/uploads/Elizabeth-Ziman.jpeg" alt="" width="176" height="2
+ 86" /></p>\n<p><img class="alignnone size-medium wp-image-798" src="https:
+ //theowl.nyc/wp-content/uploads/charlie-burnham-1-225x300.jpeg" alt="" wid
+ th="225" height="300" /> <img class="alignnone size-medium wp-image-2597" 
+ src="https://theowl.nyc/wp-content/uploads/AlecCorrugatedMetal-225x300.jpg
+ " alt="" width="225" height="300" /> <img class="alignnone wp-image-3055" 
+ src="https://theowl.nyc/wp-content/uploads/Photo-on-11-18-25-at-17.46-7-1-
+ 300x200.jpg" alt="" width="354" height="236" /></p>\n<p>Featuring the Owl 
+ Stars:  Adam Minkoff\, Akie Bermiss\, Alec Spiegelman\, Charlie Burnham\,
+  Elizabeth Ziman and host Oren Bloedow.  Join us for some seasonal sounds
+  and a cold glass of Rachel's Howliday Cremas!</p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dangle • Ben Goldberg  (& tba) Dec 20
+DTSTART:20251221T003000Z
+DTEND:20251221T023000Z
+DTSTAMP:20251221T003000Z
+UID:https://theowl.nyc/calendar?event_id=1728-2025-12-21 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1728\n7:30 Doors\n8:00 Mu
+ sic \n$15.00 suggested donation\n<p><img class="alignnone wp-image-2935" s
+ rc="https://theowl.nyc/wp-content/uploads/dangle-150x150.png" alt="" width
+ ="285" height="300" /> <img class="alignnone size-medium wp-image-573" src
+ ="https://theowl.nyc/wp-content/uploads/Ben_Goldberg_with_contra_alto_clar
+ inet_-_2_-_photo_by_Ken_Weiss-201x300.jpg" alt="" width="201" height="300"
+  /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Julia Easterlin • Taylor Ashton Dec 21
 DTSTART:20251222T003000Z
 DTEND:20251222T023000Z
