@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20251122T143000Z
-DTEND:20251122T173000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/792001
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOSSS Guided Music Production Session: Advanced
 DTSTART:20251122T180000Z
 DTEND:20251122T200000Z
@@ -367,6 +359,16 @@ DTSTART:20251126T190000Z
 DTEND:20251126T210000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792567
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774143
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
