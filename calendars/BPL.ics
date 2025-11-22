@@ -19,25 +19,6 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251122T153000Z
-DTEND:20251122T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 84
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Chat
-DTSTART:20251122T153000Z
-DTEND:20251122T170000Z
-DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
-  book you've read recently that you'd like to tell other folks about\, and
-  hear what other people are reading. It's like a book club\, excep\n\nhttp
- s://www.bklynlibrary.org/node/790339
-LOCATION:Brooklyn Heights Library\, Orange Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOSSS Guided Music Production Session: Advanced
 DTSTART:20251122T180000Z
 DTEND:20251122T200000Z
@@ -369,5 +350,23 @@ DESCRIPTION:Are you looking for an opportunity in the food industry? Join
   Bread Kitchen to learn about their FREE culinary training progr\n\nhttps:
  //www.bklynlibrary.org/node/796544
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20251126T180000Z
+DTEND:20251126T190000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /792202
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251126T190000Z
+DTEND:20251126T210000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792567
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
