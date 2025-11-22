@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:FOSSS Guided Music Production Session: Advanced
-DTSTART:20251122T180000Z
-DTEND:20251122T200000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/785092
-LOCATION:Central Library\, Info Commons\, Recording Studio
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
 DTSTART:20251122T193000Z
 DTEND:20251122T213000Z
@@ -28,16 +19,6 @@ DESCRIPTION:Join a social circle where we can learn new skills from each
  Instructor Margot will be at this session. Please refer to her wit\n\nhttp
  s://www.bklynlibrary.org/node/796127
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CyPurr Session: Protest and Privacy
-DTSTART:20251122T200000Z
-DTEND:20251122T220000Z
-DESCRIPTION:This month\, we’ll be talking about ways to secure your data
-  when attending protests: what to be aware of\, tips and tricks to help yo
- u feel more at ease\, and overall how to reduce the impact of your di\n\nh
- ttps://www.bklynlibrary.org/node/794553
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freedom and Its Futures: Conversations on the Meaning of Freedom T
@@ -49,6 +30,16 @@ DESCRIPTION:New Yorkers live amid a tangle of crises that test both imagin
   scattered\, and loneliness runs deep. Freedom and Its Futures begi\n\nhtt
  ps://www.bklynlibrary.org/node/794304
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CyPurr Session: Protest and Privacy
+DTSTART:20251122T200000Z
+DTEND:20251122T220000Z
+DESCRIPTION:This month\, we’ll be talking about ways to secure your data
+  when attending protests: what to be aware of\, tips and tricks to help yo
+ u feel more at ease\, and overall how to reduce the impact of your di\n\nh
+ ttps://www.bklynlibrary.org/node/794553
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
@@ -370,5 +361,14 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
  All sessions are one-on-one on a first come\, first served basis.\n\nhttps
  ://www.bklynlibrary.org/node/774143
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20251126T210000Z
+DTEND:20251126T220000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/786559
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
