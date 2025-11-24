@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20251124T160000Z
-DTEND:20251124T200000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/783567
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20251124T190000Z
 DTEND:20251124T210000Z
@@ -237,15 +229,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20251126T150000Z
-DTEND:20251126T163000Z
-DESCRIPTION:Please join our class adults to learn basic Hebrew grammar and
-  conversation in a friendly atmosphere\n\nhttps://www.bklynlibrary.org/nod
- e/797524
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251126T150000Z
 DTEND:20251126T220000Z
@@ -254,6 +237,15 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/797818
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20251126T150000Z
+DTEND:20251126T163000Z
+DESCRIPTION:Please join our class adults to learn basic Hebrew grammar and
+  conversation in a friendly atmosphere\n\nhttps://www.bklynlibrary.org/nod
+ e/797524
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech
@@ -371,5 +363,12 @@ DTEND:20251201T200000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/783568
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20251201T160000Z
+DTEND:20251201T180000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/786423
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
