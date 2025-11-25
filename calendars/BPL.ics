@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
- siness Solutions Center
-DTSTART:20251125T180000Z
-DTEND:20251125T210000Z
-DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
- ? Join the NYC Business Solutions Brooklyn Center for "The Flower Hour\," 
- a special session of our popular Joint Ventures educational serie\n\nhttps
- ://www.bklynlibrary.org/node/787571
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20251125T190000Z
-DTEND:20251125T210000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/796761
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
@@ -357,5 +336,25 @@ DTEND:20251202T173000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/791991
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Connects Tabling
+DTSTART:20251202T190000Z
+DTEND:20251202T220000Z
+DESCRIPTION:Join New York Connects every month as we connect the community
+  to a wide range of care services and support for people of all ages or wi
+ th any type of disability. Get assistance accessing services suc\n\nhttps:
+ //www.bklynlibrary.org/node/783490
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20251202T190000Z
+DTEND:20251202T210000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/796762
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
