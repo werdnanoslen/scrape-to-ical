@@ -11,33 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20251124T224500Z
-DTEND:20251124T004500Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/788581
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Musical Showcase with Free & Open StudioSonic Sciences (F.O.S.S.S.
- )
-DTSTART:20251124T230000Z
-DTEND:20251124T010000Z
-DESCRIPTION:Come enjoy live music by the participants of the FREE & OPEN S
- TUDIOSONIC SCIENCES (FOSSS) Music Production Intensive of Fall 2025\, led 
- by instructor Carlos Hernandez. Course participants will perform\n\nhttps:
- //www.bklynlibrary.org/node/787591
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQ+ Film  Discussion Group
-DTSTART:20251124T233000Z
-DTEND:20251124T003000Z
-DESCRIPTION:Join us every last Monday for a monthly LGBTQ+ film discussion
-  group where we explore classic and contemporary queer cinema!\n\nhttps://
- www.bklynlibrary.org/node/794936
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20251125T143000Z
 DTEND:20251125T173000Z
@@ -360,5 +333,32 @@ DTSTART:20251201T200000Z
 DTEND:20251201T220000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790804
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251201T200000Z
+DTEND:20251201T220000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/792568
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20251201T210000Z
+DTEND:20251201T220000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/796902
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251201T213000Z
+DTEND:20251201T230000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 75
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
