@@ -200,6 +200,24 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251202T180000Z
+DTEND:20251202T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/799100
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251202T183000Z
+DTEND:20251202T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/799106
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New York Connects Tabling
 DTSTART:20251202T190000Z
 DTEND:20251202T220000Z
@@ -338,22 +356,5 @@ DESCRIPTION:Meet Senator Gournardes' office representatives to talk about
  the issues and receive in person assistance accessing state social service
  s.\n\nhttps://www.bklynlibrary.org/node/787004
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Computer Basics
-DTSTART:20251203T190000Z
-DTEND:20251203T200000Z
-DESCRIPTION:Computer Basics is an introductory class to computers\, showin
- g patrons how to navigate the basics of the computer's hardware.\n\nhttps:
- //www.bklynlibrary.org/node/794534
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20251203T190000Z
-DTEND:20251203T210000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/797898
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
