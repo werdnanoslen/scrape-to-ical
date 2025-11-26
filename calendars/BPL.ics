@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20251126T180000Z
-DTEND:20251126T190000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /792202
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20251126T190000Z
 DTEND:20251126T210000Z
@@ -357,5 +347,14 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/797820
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251203T163000Z
+DTEND:20251203T173000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/781502
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
