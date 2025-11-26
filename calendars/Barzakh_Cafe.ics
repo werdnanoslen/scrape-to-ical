@@ -248,4 +248,26 @@ DESCRIPTION:https://www.viewcy.com/event/brm_concert__jam_1\n<p><img alt="
  r: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Los Nuyores: An Evening of Flamenco
+DTSTART:20251213T010000Z
+DTEND:20251213T030000Z
+DTSTAMP:20251213T010000Z
+UID:Los Nuyores: An Evening of Flamenco
+DESCRIPTION:https://www.viewcy.com/event/los_nuyores_an_eveni_1\n<p><img a
+ lt="Los Nuyores: An Evening of Flamenco thumbnail" class="styles_coverImg_
+ _PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentr
+ y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
+ ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F022%2F084%2Fcover%2FNew_Designs__287_29.jpg%3F1764165515&amp\
+ ;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-pr
+ oduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F084%2F
+ cover%2FNew_Designs__287_29.jpg%3F1764165515&amp\;w=384&amp\;q=100 1x\, /_
+ next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fc
+ ourses%2Ffeatured_images%2F000%2F022%2F084%2Fcover%2FNew_Designs__287_29.j
+ pg%3F1764165515&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wid
+ th="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
