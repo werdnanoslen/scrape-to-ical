@@ -11,28 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Barzakh Annual Friendsgiving Gathering
-DTSTART:20251126T000000Z
-DTEND:20251126T020000Z
-DTSTAMP:20251126T000000Z
-UID:Barzakh Annual Friendsgiving Gathering
-DESCRIPTION:https://www.viewcy.com/event/barzakh_annual_friend\n<p><img al
- t="Barzakh Annual Friendsgiving Gathering thumbnail" class="styles_coverIm
- g__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sen
- try-element="Image" data-sentry-source-file="index.tsx" decoding="async" h
- eight="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=htt
- ps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_
- images%2F000%2F021%2F588%2Fcover%2FBarzakh_Annual_Friendsgiving_Gathering.
- jpg%3F1763143331&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%
- 2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images
- %2F000%2F021%2F588%2Fcover%2FBarzakh_Annual_Friendsgiving_Gathering.jpg%3F
- 1763143331&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewc
- y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
- 21%2F588%2Fcover%2FBarzakh_Annual_Friendsgiving_Gathering.jpg%3F1763143331
- &amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Generational [Dis]connect
 DTSTART:20251130T010000Z
 DTEND:20251130T030000Z
