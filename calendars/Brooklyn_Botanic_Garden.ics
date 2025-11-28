@@ -11,10 +11,25 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
+SUMMARY:Lightscape
+DTSTART;VALUE=DATE:20251128T110723Z
+DTEND;VALUE=DATE:20251128T130723Z
+UID:Lightscape-2025-11-28 11:07:23.504828+00:00
+DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
+ 	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
+  most dazzling light show! Celebrate the beauty of nature in winter on thi
+ s enchanting trail animated by light\, color\, and sound.Learn More›abou
+ t Lightscape\n\nMore info:\nhttps://www.bbg.org/lightscape\n\n<img src="/i
+ mg/uploads/manual/hero/_list_thumbnail_regular/Lightscape-Visitors_LL_2024
+ -0133.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251128T100519Z
-DTEND;VALUE=DATE:20251128T120519Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-11-28 10:05:19.261365+00:
+DTSTART;VALUE=DATE:20251128T110723Z
+DTEND;VALUE=DATE:20251128T130723Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-11-28 11:07:23.505255+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -23,21 +38,6 @@ DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20251128T100519Z
-DTEND;VALUE=DATE:20251128T120519Z
-UID:Lightscape-2025-11-28 10:05:19.261793+00:00
-DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
- 	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
-  most dazzling light show! Celebrate the beauty of nature in winter on thi
- s enchanting trail animated by light\, color\, and sound.Learn More›abou
- t Lightscape\n\nMore info:\nhttps://www.bbg.org/lightscape\n\n<img src="/i
- mg/uploads/manual/hero/_list_thumbnail_regular/Lightscape-Visitors_LL_2024
- -0133.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -244,6 +244,35 @@ DESCRIPTION:Single session on Thursday\, December 4 or December 11\, 2025\
  oliday Mocktails\n\nMore info:\nhttps://www.bbg.org/classes/holiday_mockta
  ils\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/23WAEFOOHCM_coc
  ktails_MM_9193848123.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIY Herbal Teas
+DTSTART;VALUE=DATE:20251213T050000Z
+DTEND;VALUE=DATE:20251213T070000Z
+UID:DIY Herbal Teas-2025-12-13 05:00:00+00:00
+DESCRIPTION:Single session on Saturday\, December 6 or December 13\, 2025 
+ | 11 a.m.–1 p.m. \n					\n\n\n					\n						\n							| Preregistration Re
+ quired\n\nLearn the art of making teas and the best herbs to use for diffe
+ rent purposes. Make your own tea blend to take home!Learn More›about DIY
+  Herbal Teas\n\nMore info:\nhttps://www.bbg.org/classes/diy_herbal_teas\n\
+ n<img src="/img/uploads/hero/_list_thumbnail_regular/23WAEFOODHT_teas_AH.j
+ peg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ceramic Planter Making
+DTSTART;VALUE=DATE:20251213T050000Z
+DTEND;VALUE=DATE:20251213T070000Z
+UID:Ceramic Planter Making-2025-12-13 05:00:00+00:00
+DESCRIPTION:Single session on Saturday\, November 22 or Saturday\, Decembe
+ r 13\, 2025  \n					\n\n\n					\n						\n							| Preregistration Required
+ \n\nLearn hand-building pottery techniques while creating your own planter
+ .Learn More›about Ceramic Planter Making\n\nMore info:\nhttps://www.bbg.
+ org/classes/ceramic_planter_making\n\n<img src="/img/uploads/hero/_list_th
+ umbnail_regular/23SAEARTMCP_ceramic-planter_SA.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
