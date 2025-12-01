@@ -21,13 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20251201T160000Z
-DTEND:20251201T180000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790352
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
 DTSTART:20251201T160000Z
 DTEND:20251201T200000Z
@@ -37,32 +30,10 @@ LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20251201T160000Z
-DTEND:20251201T180000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/786423
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20251201T160000Z
-DTEND:20251201T180000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/798151
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
 DTSTART:20251201T163000Z
 DTEND:20251201T183000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790416
 LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Discussion: Pure Colour
-DTSTART:20251201T170000Z
-DTEND:20251201T180000Z
-DESCRIPTION:Please join Park Slope Library for a discussion of Pure Colo
- ur by Sheila Heti.\n\nhttps://www.bklynlibrary.org/node/795933
-LOCATION:Park Slope\, Meeting Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chair Yoga
@@ -357,5 +328,39 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/786560
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251203T230000Z
+DTEND:20251203T010000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 14
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYS MWBE Program & Certification Workshop
+DTSTART:20251203T230000Z
+DTEND:20251203T010000Z
+DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
+ library.org/node/787729
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251203T230000Z
+DTEND:20251203T010000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/792014
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20251204T150000Z
+DTEND:20251204T200000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7821
+ 06
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
