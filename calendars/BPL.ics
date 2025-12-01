@@ -11,23 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251201T213000Z
-DTEND:20251201T230000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 75
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Meditation Class
-DTSTART:20251201T220000Z
-DTEND:20251201T224500Z
-DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
-  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/792185
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOSSS Guided Music Production Session: Beginner
 DTSTART:20251201T223000Z
 DTEND:20251201T003000Z
@@ -370,5 +353,25 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/799113
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shoot Amazing B-Roll
+DTSTART:20251204T190000Z
+DTEND:20251204T210000Z
+DESCRIPTION:Expand your filmmaking toolkit by learning easy and effective 
+ tips on capturing beautiful B-ROLL footage for your documentary project or
+  narrative film. More information at https://bricartsmedia.org/c\n\nhttps
+ ://www.bklynlibrary.org/node/765473
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Computer Lab: Working with Word
+DTSTART:20251204T190000Z
+DTEND:20251204T203000Z
+DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
+  your own resume or cover letter on Microsoft Word and will have real worl
+ d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
+ /www.bklynlibrary.org/node/797383
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
