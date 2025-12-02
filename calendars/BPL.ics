@@ -21,16 +21,6 @@ DESCRIPTION:Join New York Connects every month as we connect the community
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20251202T190000Z
-DTEND:20251202T210000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/796762
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20251202T200000Z
 DTEND:20251202T220000Z
@@ -379,5 +369,15 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
  ynlibrary.org/node/793523
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Angriest Bird: a reading
+DTSTART:20251204T230000Z
+DTEND:20251204T003000Z
+DESCRIPTION:THE ANGRIEST BIRD begins with the memory of a past trauma\, a
+  memory that 22 year old Violet Cooper struggles to reconcile. It starts w
+ ith a flash memory from her past. It’s 1952\, Wakefield\, Louisiana\n\nh
+ ttps://www.bklynlibrary.org/node/798207
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
