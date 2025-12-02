@@ -120,16 +120,6 @@ DESCRIPTION:Looking to share your current knitting/crocheting project with
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20251202T220000Z
-DTEND:20251202T233000Z
-DESCRIPTION:Looking to share your current knitting/crocheting project with
-  others? Come join like-minded folks on their yarn journey in the Info Co
- mmons. Bring your own yarn and tools and meet with other fiber ar\n\nhttp
- s://www.bklynlibrary.org/node/775713
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adult Creative Writing Group
 DTSTART:20251202T230000Z
 DTEND:20251202T003000Z
@@ -373,5 +363,15 @@ DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
  d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
  /www.bklynlibrary.org/node/797383
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arts and Crafts Circle
+DTSTART:20251204T193000Z
+DTEND:20251204T210000Z
+DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
+ us to work on projects\, trade skills\, and socialize with other makers! B
+ ring your own materials and enjoy the practice of making with other\n\nhtt
+ ps://www.bklynlibrary.org/node/788397
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
