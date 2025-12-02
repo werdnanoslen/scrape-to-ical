@@ -11,34 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:New York Connects Tabling
-DTSTART:20251202T190000Z
-DTEND:20251202T220000Z
-DESCRIPTION:Join New York Connects every month as we connect the community
-  to a wide range of care services and support for people of all ages or wi
- th any type of disability. Get assistance accessing services suc\n\nhttps:
- //www.bklynlibrary.org/node/783490
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20251202T200000Z
-DTEND:20251202T220000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/79069
- 9
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winter & Holiday Safety Workshop
-DTSTART:20251202T210000Z
-DTEND:20251202T220000Z
-DESCRIPTION:Each year\, hundreds of thousands of children and adults are s
- een in emergency departments during the holiday season from non-electric h
- oliday decorating injuries\, burn injuries\, toy-related injuries\,\n\nhtt
- ps://www.bklynlibrary.org/node/788259
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
 DTSTART:20251202T213000Z
 DTEND:20251202T231500Z
@@ -379,5 +351,33 @@ DESCRIPTION:THE ANGRIEST BIRD begins with the memory of a past trauma\, a
  ith a flash memory from her past. It’s 1952\, Wakefield\, Louisiana\n\nh
  ttps://www.bklynlibrary.org/node/798207
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20251205T150000Z
+DTEND:20251205T220000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/797821
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251205T160000Z
+DTEND:20251205T180000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/791386
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251205T170000Z
+DTEND:20251205T190000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/797899
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
