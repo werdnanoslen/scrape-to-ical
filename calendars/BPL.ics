@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
-DTSTART:20251202T213000Z
-DTEND:20251202T231500Z
-DESCRIPTION:The Business & Career Center is partnering with the City Bar J
- ustice Center’s Neighborhood Entrepreneur Law Project (NELP) and Pace SB
- DC to offer a virtual small business legal clinic. This clinic\, co\n\nhtt
- ps://www.bklynlibrary.org/node/784392
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20251202T220000Z
-DTEND:20251202T233000Z
-DESCRIPTION:Looking to share your current knitting/crocheting project with
-  others? Come join like-minded folks on their yarn journey in the Info Co
- mmons. Bring your own yarn and tools and meet with other fiber ar\n\nhttp
- s://www.bklynlibrary.org/node/771594
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adult Creative Writing Group
 DTSTART:20251202T230000Z
 DTEND:20251202T003000Z
@@ -379,5 +359,24 @@ DTEND:20251205T190000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/797899
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251205T180000Z
+DTEND:20251205T200000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 65
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Selling to the Global Market: Resources and Assistance | Small Bus
+ iness Administration (SBA)
+DTSTART:20251205T180000Z
+DTEND:20251205T200000Z
+DESCRIPTION:95% of the consumers are outside of US. In this interactive wo
+ rkshop from the SBA\, you will learn why\, how\, and where to sell to the 
+ global market.\n\nhttps://www.bklynlibrary.org/node/791169
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
