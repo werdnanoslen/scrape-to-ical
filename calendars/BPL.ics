@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plum Papercraft: Froebel Star
-DTSTART:20251203T180000Z
-DTEND:20251203T193000Z
-DESCRIPTION:A Froebel or German Star is an intricate\, multidimensional or
- nament made by folding and weaving four paper strips together. With attent
- ion and patience\, anyone can successfully learn to make this holi\n\nhttp
- s://www.bklynlibrary.org/node/792212
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Senator Gounardes Office Hours
 DTSTART:20251203T190000Z
 DTEND:20251203T220000Z
@@ -38,15 +28,6 @@ DESCRIPTION:Meet Senator Gournardes' office representatives to talk about
  the issues and receive in person assistance accessing state social service
  s.\n\nhttps://www.bklynlibrary.org/node/787004
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Computer Basics
-DTSTART:20251203T190000Z
-DTEND:20251203T200000Z
-DESCRIPTION:Computer Basics is an introductory class to computers\, showin
- g patrons how to navigate the basics of the computer's hardware.\n\nhttps:
- //www.bklynlibrary.org/node/794534
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
@@ -381,5 +362,22 @@ DESCRIPTION:Looking for a different way to earn your high school equivalen
  Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
  ://www.bklynlibrary.org/node/797742
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jump In Enrichment Youth Summit
+DTSTART:20251206T170000Z
+DTEND:20251206T220000Z
+DESCRIPTION:Join us at the 2025 Youth Mental Health & Empowerment Summit t
+ o address the struggles our children are facing and empower them to thrive
+ .\n\nhttps://www.bklynlibrary.org/node/799335
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Neighbors of Park Slope: Game On
+DTSTART:20251206T180000Z
+DTEND:20251206T203000Z
+DESCRIPTION:Play board\, card and tabletop games with us at Park Slope Lib
+ rary!\n\nhttps://www.bklynlibrary.org/node/797386
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
