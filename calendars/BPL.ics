@@ -30,6 +30,16 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fundamentals of Screenwriting
+DTSTART:20251204T153000Z
+DTEND:20251204T183000Z
+DESCRIPTION:Our crash course in screenwriting gives you tips on going from
+  your brain to paper. Included are the basic elements of a screenplay\, pr
+ oper structure and format\, and techniques for how to explain your\n\nhttp
+ s://www.bklynlibrary.org/node/765472
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251204T153000Z
 DTEND:20251204T170000Z
@@ -55,16 +65,6 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
  ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
  rary.org/node/792476
 LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fundamentals of Screenwriting
-DTSTART:20251204T153000Z
-DTEND:20251204T183000Z
-DESCRIPTION:Our crash course in screenwriting gives you tips on going from
-  your brain to paper. Included are the basic elements of a screenplay\, pr
- oper structure and format\, and techniques for how to explain your\n\nhttp
- s://www.bklynlibrary.org/node/765472
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
