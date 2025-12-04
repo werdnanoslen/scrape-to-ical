@@ -21,36 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Working with Word
-DTSTART:20251204T190000Z
-DTEND:20251204T203000Z
-DESCRIPTION:This monthly drop-in lab is geared to help you create and edit
-  your own resume or cover letter on Microsoft Word and will have real worl
- d practice exercises. Staff offer guidance on resumes and cover\n\nhttps:/
- /www.bklynlibrary.org/node/797383
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shoot Amazing B-Roll
-DTSTART:20251204T190000Z
-DTEND:20251204T210000Z
-DESCRIPTION:Expand your filmmaking toolkit by learning easy and effective 
- tips on capturing beautiful B-ROLL footage for your documentary project or
-  narrative film. More information at https://bricartsmedia.org/c\n\nhttps
- ://www.bklynlibrary.org/node/765473
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20251204T193000Z
-DTEND:20251204T210000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers! B
- ring your own materials and enjoy the practice of making with other\n\nhtt
- ps://www.bklynlibrary.org/node/788397
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251204T220000Z
 DTEND:20251204T233000Z
@@ -378,5 +348,31 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
  s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
  ps://www.bklynlibrary.org/node/796903
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251208T213000Z
+DTEND:20251208T230000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 76
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Guided Music Production Session: Advanced
+DTSTART:20251208T223000Z
+DTEND:20251208T003000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/785095
+LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251209T143000Z
+DTEND:20251209T173000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791992
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
