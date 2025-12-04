@@ -11,45 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:My Trio • Burger\, Nevin\, Bergman Dec 2
-DTSTART:20251203T003000Z
-DTEND:20251203T023000Z
-DTSTAMP:20251203T003000Z
-UID:https://theowl.nyc/calendar?event_id=1726-2025-12-03 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1726\n7:30 Doors\n8:00 Mu
- sic \n$20.00 at the door\n<p><img class="alignnone size-medium wp-image-30
- 43" src="https://theowl.nyc/wp-content/uploads/my-trio-photo-press-300x225
- .jpg" alt="" width="300" height="225" /> <img class="alignnone size-thumbn
- ail wp-image-2321" src="https://theowl.nyc/wp-content/uploads/jason-burger
- -150x150.jpeg" alt="" width="150" height="150" /><img class="alignnone siz
- e-thumbnail wp-image-3016" src="https://theowl.nyc/wp-content/uploads/Mart
- in-Nevin-ha-150x150.jpeg" alt="" width="150" height="150" /><img class="al
- ignnone size-thumbnail wp-image-3057" src="https://theowl.nyc/wp-content/u
- ploads/images-10-150x150.jpeg" alt="" width="150" height="150" /></p>\n<p>
- Tim Watson\, Yvonne Rogers\, and Jon Starks are MY TRIO. Using<span style=
- "text-decoration: line-through\;"> guitar\, ipads\, drums\, synthesizers\,
-  a milk frother\, and an Tascam Portastudio </span>only acoustic instrumen
- ts MY TRIO deftly ricochets between hyperbolic polyrhythmic oscillations a
- nd cryptographic harmonic modalities. What happens next will shock you! <
- /p>\n<p>Needing no introduction\, master musicians Jason Burger\, Martin N
- evin and Luke Bergman will be introducing their new trio.</p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Miles Hewitt • Trail Papa Dec 3
-DTSTART:20251203T050000Z
-DTEND:20251203T070000Z
-DTSTAMP:20251203T050000Z
-UID:https://theowl.nyc/calendar?event_id=1725-2025-12-03 05:00:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1725\n<p><img class="alig
- nnone size-medium wp-image-1565" src="https://theowl.nyc/wp-content/upload
- s/Rita-Iovine-Miles-Hewitt-14-240x300.jpg" alt="" width="240" height="300"
-  /> <img class="alignnone size-medium wp-image-2855" src="https://theowl.n
- yc/wp-content/uploads/trail-papa-1-244x300.jpg" alt="" width="244" height=
- "300" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Youbet • 0 Stars • The Cradle Dec 4
 DTSTART:20251205T003000Z
 DTEND:20251205T023000Z
@@ -66,7 +27,7 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1690\n7:30 Doors\n8:00 Mu
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lily Talmers • Ali Dineen • Katy Pinke
+SUMMARY:Lily Talmers • Ali Dineen
 DTSTART:20251206T003000Z
 DTEND:20251206T023000Z
 DTSTAMP:20251206T003000Z
@@ -76,9 +37,7 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1691\n7:30 Doors\n8:00 Mu
  mage-2159" src="https://theowl.nyc/wp-content/uploads/Lily-Talmers-200x300
  .jpeg" alt="" width="200" height="300" /> <img class="alignnone wp-image-2
  366" src="https://theowl.nyc/wp-content/uploads/ali-at-piano-brian-geltner
- -300x200.jpg" alt="" width="367" height="245" /> <img class="alignnone siz
- e-medium wp-image-2089" src="https://theowl.nyc/wp-content/uploads/IMG_734
- 8-300x232.jpeg" alt="" width="300" height="232" /></p>\n<p>&nbsp\;</p>
+ -300x200.jpg" alt="" width="367" height="245" /> </p>\n<p>&nbsp\;</p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 BEGIN:VEVENT
