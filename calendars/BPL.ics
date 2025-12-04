@@ -30,34 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fundamentals of Screenwriting
-DTSTART:20251204T153000Z
-DTEND:20251204T183000Z
-DESCRIPTION:Our crash course in screenwriting gives you tips on going from
-  your brain to paper. Included are the basic elements of a screenplay\, pr
- oper structure and format\, and techniques for how to explain your\n\nhttp
- s://www.bklynlibrary.org/node/765472
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251204T180000Z
-DTEND:20251204T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/799112
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251204T183000Z
-DTEND:20251204T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/799113
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Shoot Amazing B-Roll
 DTSTART:20251204T190000Z
 DTEND:20251204T210000Z
@@ -379,5 +351,31 @@ DTEND:20251208T003000Z
 DESCRIPTION:Have you considered becoming a tax preparer for NYC's VITA pro
  gram?\n\nhttps://www.bklynlibrary.org/node/794595
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251208T190000Z
+DTEND:20251208T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774078
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20251208T200000Z
+DTEND:20251208T220000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /790381
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251208T200000Z
+DTEND:20251208T220000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/797900
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
