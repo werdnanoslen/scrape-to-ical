@@ -40,33 +40,6 @@ DESCRIPTION:Our crash course in screenwriting gives you tips on going from
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251204T153000Z
-DTEND:20251204T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
- 80
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20251204T153000Z
-DTEND:20251204T170000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/792346
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20251204T153000Z
-DTEND:20251204T163000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/792476
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
 DTSTART:20251204T180000Z
 DTEND:20251204T183000Z
@@ -375,10 +348,36 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790353
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20251208T160000Z
+DTEND:20251208T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/799928
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free English Classes (We Speak NYC)
 DTSTART:20251208T163000Z
 DTEND:20251208T183000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/790417
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga
+DTSTART:20251208T173000Z
+DTEND:20251208T183000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/796006
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tax Preparer Training Class - Day 1
+DTSTART:20251208T173000Z
+DTEND:20251208T003000Z
+DESCRIPTION:Have you considered becoming a tax preparer for NYC's VITA pro
+ gram?\n\nhttps://www.bklynlibrary.org/node/794595
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
