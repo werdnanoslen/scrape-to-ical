@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Friday Film Club: The Family Man (2000)
-DTSTART:20251205T183000Z
-DTEND:20251205T210000Z
-DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
- e first Friday of each month. To celebrate the holidays\, join us for The 
- Family Man (2000)\, starring Nicolas Cage.\n\nhttps://www.bklynlibrary.org
- /node/792196
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20251205T210000Z
 DTEND:20251205T223000Z
@@ -371,5 +361,14 @@ DTSTART:20251210T150000Z
 DTEND:20251210T170000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782601
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251210T150000Z
+DTEND:20251210T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 94
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
