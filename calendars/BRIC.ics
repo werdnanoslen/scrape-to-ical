@@ -11,30 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Center for Communication & BRIC present the 9th Annual Women + Med
- ia Career Summit
-DTSTART:20251204T133000Z
-DTEND:20251204T220000Z
-DTSTAMP:20251204T133000Z
-UID:Center for Communication & BRIC present the 9th Annual Women + Media C
- areer Summit-2025-12-04T13:30:00+00:00
-DESCRIPTION:Cost: $20-$35\nhttps://bricartsmedia.org/event/center-for-comm
- unication-bric-present-the-9th-annual-women-media-career-summit/\nhttps://
- goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org/wp-cont
- ent/uploads/2025/11/IMG_7024-200x200.jpg" alt="" />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20251204T230000Z
-DTEND:20251205T020000Z
-DTSTAMP:20251204T230000Z
-UID:Video Editing with Premiere -2025-12-04T23:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Color Grading in DaVinci Resolve
 DTSTART:20251205T230000Z
 DTEND:20251206T020000Z
@@ -126,16 +102,6 @@ DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/photoshop-essential
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20251209T230000Z
-DTEND:20251210T020000Z
-DTSTAMP:20251209T230000Z
-UID:Video Production in the Field-2025-12-09T23:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere 
 DTSTART:20251209T230000Z
 DTEND:20251210T020000Z
@@ -143,6 +109,16 @@ DTSTAMP:20251209T230000Z
 UID:Video Editing with Premiere -2025-12-09T23:00:00+00:00
 DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
  premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20251209T230000Z
+DTEND:20251210T020000Z
+DTSTAMP:20251209T230000Z
+UID:Video Production in the Field-2025-12-09T23:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -196,16 +172,6 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20251211T190000Z
-DTEND:20251211T220000Z
-DTSTAMP:20251211T190000Z
-UID:Video Production in the Field-2025-12-11T19:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Photoshop Essentials
 DTSTART:20251211T190000Z
 DTEND:20251211T220000Z
@@ -213,6 +179,16 @@ DTSTAMP:20251211T190000Z
 UID:Photoshop Essentials-2025-12-11T19:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/photoshop-essential
  s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20251211T190000Z
+DTEND:20251211T220000Z
+DTSTAMP:20251211T190000Z
+UID:Video Production in the Field-2025-12-11T19:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -287,36 +263,6 @@ LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
-DTSTART:20251216T190000Z
-DTEND:20251216T220000Z
-DTSTAMP:20251216T190000Z
-UID:Video Production in the Field-2025-12-16T19:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Photoshop Essentials
-DTSTART:20251216T190000Z
-DTEND:20251216T220000Z
-DTSTAMP:20251216T190000Z
-UID:Photoshop Essentials-2025-12-16T19:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/photoshop-essential
- s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20251216T230000Z
-DTEND:20251217T020000Z
-DTSTAMP:20251216T230000Z
-UID:Video Editing with Premiere -2025-12-16T23:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
 DTSTART:20251216T230000Z
 DTEND:20251217T020000Z
 DTSTAMP:20251216T230000Z
@@ -335,6 +281,46 @@ UID:Session 5: Crowdfunding to Build Independence-2025-12-16T23:00:00+00:0
 DESCRIPTION:Cost: Cost - (suggested donation $10 per session)\nhttps://bri
  cartsmedia.org/class/bric-pitch-series-with-seed-spark-jul-dec-2025/
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photoshop Essentials
+DTSTART:20251216T190000Z
+DTEND:20251216T220000Z
+DTSTAMP:20251216T190000Z
+UID:Photoshop Essentials-2025-12-16T19:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/photoshop-essential
+ s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20251216T190000Z
+DTEND:20251216T220000Z
+DTSTAMP:20251216T190000Z
+UID:Video Production in the Field-2025-12-16T19:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20251216T230000Z
+DTEND:20251217T020000Z
+DTSTAMP:20251216T230000Z
+UID:Video Editing with Premiere -2025-12-16T23:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Radio Podcasting
+DTSTART:20251217T230000Z
+DTEND:20251218T020000Z
+DTSTAMP:20251217T230000Z
+UID:Intro to Radio Podcasting-2025-12-17T23:00:00+00:00
+DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
+ asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Motion Graphics with After Effects
@@ -357,13 +343,13 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/television-studio-b
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Radio Podcasting
-DTSTART:20251217T230000Z
-DTEND:20251218T020000Z
-DTSTAMP:20251217T230000Z
-UID:Intro to Radio Podcasting-2025-12-17T23:00:00+00:00
-DESCRIPTION:Cost: $60\nhttps://bricartsmedia.org/class/intro-to-radio-podc
- asting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Video Production in the Field
+DTSTART:20251218T230000Z
+DTEND:20251219T020000Z
+DTSTAMP:20251218T230000Z
+UID:Video Production in the Field-2025-12-18T23:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -372,16 +358,6 @@ DTSTART:20251218T190000Z
 DTEND:20251218T220000Z
 DTSTAMP:20251218T190000Z
 UID:Video Production in the Field-2025-12-18T19:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20251218T230000Z
-DTEND:20251219T020000Z
-DTSTAMP:20251218T230000Z
-UID:Video Production in the Field-2025-12-18T23:00:00+00:00
 DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
  -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
