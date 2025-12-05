@@ -247,6 +247,27 @@ DESCRIPTION:https://www.viewcy.com/event/the_brooklyn_nomads\n<p><img alt=
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Just Myyuh
+DTSTART:20251220T030000Z
+DTEND:20251220T050000Z
+DTSTAMP:20251220T030000Z
+UID:Just Myyuh
+DESCRIPTION:https://www.viewcy.com/event/just_myyuh\n<p><img alt="Just Myy
+ uh thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-com
+ ponent="ImageWithFallback" data-sentry-element="Image" data-sentry-source-
+ file="index.tsx" decoding="async" height="186" loading="lazy" src="https:/
+ /www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.
+ amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F243%2Fcover%2FNew_
+ Designs__285_29.jpg%3F1764961339&amp\;w=640&amp\;q=100" srcset="/_next/ima
+ ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
+ Ffeatured_images%2F000%2F022%2F243%2Fcover%2FNew_Designs__285_29.jpg%3F176
+ 4961339&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%
+ 2F243%2Fcover%2FNew_Designs__285_29.jpg%3F1764961339&amp\;w=640&amp\;q=100
+  2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barzakh 2025 Farewell: Spotlight Series
 DTSTART:20251227T000000Z
 DTEND:20251227T020000Z
@@ -265,6 +286,28 @@ DESCRIPTION:https://www.viewcy.com/event/bazakh_2025_farewell\n<p><img alt
  y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
  22%2F224%2Fcover%2F1.jpg%3F1764879314&amp\;w=640&amp\;q=100 2x" style="col
  or: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Musical Night in Algeria
+DTSTART:20251228T000000Z
+DTEND:20251228T020000Z
+DTSTAMP:20251228T000000Z
+UID:A Musical Night in Algeria
+DESCRIPTION:https://www.viewcy.com/event/a_musical_night_in_al\n<p><img al
+ t="A Musical Night in Algeria thumbnail" class="styles_coverImg__PsR9G" da
+ ta-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element=
+ "Image" data-sentry-source-file="index.tsx" decoding="async" height="186" 
+ loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F022%2F242%2Fcover%2FNew_Designs__283_29.jpg%3F1764960140&amp\;w=640&amp
+ \;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
+ 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F242%2Fcover%2FNe
+ w_Designs__283_29.jpg%3F1764960140&amp\;w=384&amp\;q=100 1x\, /_next/image
+ ?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ff
+ eatured_images%2F000%2F022%2F242%2Fcover%2FNew_Designs__283_29.jpg%3F17649
+ 60140&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/>
+ </p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
