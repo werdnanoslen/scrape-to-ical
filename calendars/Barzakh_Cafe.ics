@@ -227,9 +227,9 @@ LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bahloul & Araki
-DTSTART:20251219T020000Z
-DTEND:20251219T040000Z
-DTSTAMP:20251219T020000Z
+DTSTART:20251219T010000Z
+DTEND:20251219T030000Z
+DTSTAMP:20251219T010000Z
 UID:Bahloul & Araki
 DESCRIPTION:https://www.viewcy.com/event/bahloul__araki\n<p><img alt="Bahl
  oul &amp\; Araki thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" d
@@ -237,13 +237,13 @@ DESCRIPTION:https://www.viewcy.com/event/bahloul__araki\n<p><img alt="Bahl
  sentry-source-file="index.tsx" decoding="async" height="186" loading="lazy
  " src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-
  production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F245%
- 2Fcover%2FNew_Designs__287_29.jpg%3F1764963645&amp\;w=640&amp\;q=100" srcs
- et="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.c
- om%2Fcourses%2Ffeatured_images%2F000%2F022%2F245%2Fcover%2FNew_Designs__28
- 7_29.jpg%3F1764963645&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A
- %2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_image
- s%2F000%2F022%2F245%2Fcover%2FNew_Designs__287_29.jpg%3F1764963645&amp\;w=
- 640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+ 2Fcover%2FNew_Designs__2810_29.jpg%3F1764969782&amp\;w=640&amp\;q=100" src
+ set="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.
+ com%2Fcourses%2Ffeatured_images%2F000%2F022%2F245%2Fcover%2FNew_Designs__2
+ 810_29.jpg%3F1764969782&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F022%2F245%2Fcover%2FNew_Designs__2810_29.jpg%3F1764969782&amp\
+ ;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
