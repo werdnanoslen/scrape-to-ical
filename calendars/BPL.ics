@@ -11,45 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20251204T223000Z
-DTEND:20251204T003000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/792769
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20251204T230000Z
-DTEND:20251204T010000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/793245
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20251204T230000Z
-DTEND:20251204T003000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/793523
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Angriest Bird: a reading
-DTSTART:20251204T230000Z
-DTEND:20251204T003000Z
-DESCRIPTION:THE ANGRIEST BIRD begins with the memory of a past trauma\, a
-  memory that 22 year old Violet Cooper struggles to reconcile. It starts w
- ith a flash memory from her past. It’s 1952\, Wakefield\, Louisiana\n\nh
- ttps://www.bklynlibrary.org/node/798207
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251205T150000Z
 DTEND:20251205T220000Z
@@ -372,5 +333,43 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/796763
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/79070
+ 0
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Crafting Circle
+DTSTART:20251209T210000Z
+DTEND:20251209T220000Z
+DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
+ Join our virtual crafting circle! Twice a month\, get together with fellow
+  crafters to chat and discuss what you're working on! Bring your\n\nhttps:
+ //www.bklynlibrary.org/node/783598
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20251209T220000Z
+DTEND:20251209T233000Z
+DESCRIPTION:Looking to share your current knitting/crocheting project with
+  others? Come join like-minded folks on their yarn journey in the Info Co
+ mmons. Bring your own yarn and tools and meet with other fiber ar\n\nhttp
+ s://www.bklynlibrary.org/node/775714
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POP CULTURE CLUB
+DTSTART:20251209T223000Z
+DTEND:20251209T233000Z
+DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
+  trending? Join our Pop Culture Club! We meet regularly to discuss the lat
+ est in entertainment\, share fan theories\, play trivia\, and dive into\n\
+ nhttps://www.bklynlibrary.org/node/778782
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
