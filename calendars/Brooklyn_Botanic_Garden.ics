@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20251206T100508Z
-DTEND;VALUE=DATE:20251206T120508Z
-UID:Lightscape-2025-12-06 10:05:08.573618+00:00
+DTSTART;VALUE=DATE:20251206T110622Z
+DTEND;VALUE=DATE:20251206T130622Z
+UID:Lightscape-2025-12-06 11:06:22.769161+00:00
 DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
  	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
   most dazzling light show! Celebrate the beauty of nature in winter on thi
@@ -27,9 +27,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251206T100508Z
-DTEND;VALUE=DATE:20251206T120508Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-06 10:05:08.574035+00:
+DTSTART;VALUE=DATE:20251206T110622Z
+DTEND;VALUE=DATE:20251206T130622Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-06 11:06:22.769593+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -38,48 +38,6 @@ DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garden Apprentice Program Application Deadline
-DTSTART;VALUE=DATE:20251205T050000Z
-DTEND;VALUE=DATE:20251205T070000Z
-UID:Garden Apprentice Program Application Deadline-2025-12-05 05:00:00+00:
- 00
-DESCRIPTION:Wednesday\, December 5\, 2025\n\n\n\nMore info:\nhttps://www.b
- bg.org/learn/gap\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_reg
- ular/gap-2018-list_DSC_1108.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pop-Up Winter Tree Market at Terrain
-DTSTART;VALUE=DATE:20251205T050000Z
-DTEND;VALUE=DATE:20251205T070000Z
-UID:Pop-Up Winter Tree Market at Terrain-2025-12-05 05:00:00+00:00
-DESCRIPTION:Thursday\, December 4—Sunday\, December 7\, 2025 | 10 a.m.
- –8 p.m.\n\nDon’t miss the limited-time Winter Tree Market at Terrain a
- t Brooklyn Botanic Garden featuring highly sought-after Silvertip firs.Lea
- rn More›about Pop-Up Winter Tree Market at Terrain\n\nMore info:\nhttps:
- //www.bbg.org/visit/event/pop_up_winter_tree_market_at_terrain\n\n<img src
- ="/img/uploads/manual/hero/_list_thumbnail_regular/terrain-tree-market_110
- 124_giftguide_Desktop_Section2B.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lightscape Sensory-Friendly Early Entry
-DTSTART;VALUE=DATE:20251205T050000Z
-DTEND;VALUE=DATE:20251205T070000Z
-UID:Lightscape Sensory-Friendly Early Entry-2025-12-05 05:00:00+00:00
-DESCRIPTION:December 5 & 30\, 2025 | 4 p.m.\n					\n\n\n					\n						\n			
- 				| Ticketed Event\n\nThese special early entry times are designed for a
- dults and children with disabilities or sensory sensitivity who would like
-  to experience Lightscape without the usual high volume of people.Learn Mo
- re›about Lightscape Sensory-Friendly Early Entry\n\nMore info:\nhttps://
- www.bbg.org/visit/event/lightscape_sensory_friendly\n\n<img src="/img/uplo
- ads/hero/_list_thumbnail_regular/fountain-hero.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
