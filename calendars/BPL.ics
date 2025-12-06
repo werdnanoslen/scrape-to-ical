@@ -20,14 +20,6 @@ DESCRIPTION:Join us at the 2025 Youth Mental Health & Empowerment Summit t
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Good Neighbors of Park Slope: Game On
-DTSTART:20251206T180000Z
-DTEND:20251206T203000Z
-DESCRIPTION:Play board\, card and tabletop games with us at Park Slope Lib
- rary!\n\nhttps://www.bklynlibrary.org/node/797386
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
 DTSTART:20251206T193000Z
 DTEND:20251206T213000Z
@@ -371,5 +363,16 @@ DESCRIPTION:Please join us at our adult coloring session! No registratio
  a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
  /792213
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
+  Markets
+DTSTART:20251210T180000Z
+DTEND:20251210T190000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/781297
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
