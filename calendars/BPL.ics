@@ -19,25 +19,6 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20251206T153000Z
-DTEND:20251206T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 86
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National External Diploma Program (NEDP) Info. Session
-DTSTART:20251206T153000Z
-DTEND:20251206T163000Z
-DESCRIPTION:Looking for a different way to earn your high school equivalen
- cy diploma? The National External Diploma Program could be right for you! 
- Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
- ://www.bklynlibrary.org/node/797742
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jump In Enrichment Youth Summit
 DTSTART:20251206T170000Z
 DTEND:20251206T220000Z
@@ -369,5 +350,24 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/799921
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Honor Your Body: Chair Yoga for Healing and Energy
+DTSTART:20251210T160000Z
+DTEND:20251210T170000Z
+DESCRIPTION:Join Rooted in Radiance and honor your body with this gentle\,
+  restorative Chair Yoga series designed to reconnect you with your breath 
+ and physical being. Through mindful\, seated movements\, we’ll expl\n\nh
+ ttps://www.bklynlibrary.org/node/782901
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20251210T163000Z
+DTEND:20251210T173000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/781503
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
