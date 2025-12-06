@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20251206T143000Z
-DTEND:20251206T173000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/792003
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jump In Enrichment Youth Summit
 DTSTART:20251206T170000Z
 DTEND:20251206T220000Z
@@ -369,5 +361,15 @@ DESCRIPTION:Do you have a specific question about how to use computers or
  find your way around the Internet? No time to attend a formal class?\n\nht
  tps://www.bklynlibrary.org/node/781503
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20251210T180000Z
+DTEND:20251210T190000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /792213
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
