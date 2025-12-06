@@ -11,45 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Jump In Enrichment Youth Summit
-DTSTART:20251206T170000Z
-DTEND:20251206T220000Z
-DESCRIPTION:Join us at the 2025 Youth Mental Health & Empowerment Summit t
- o address the struggles our children are facing and empower them to thrive
- .\n\nhttps://www.bklynlibrary.org/node/799335
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
-DTSTART:20251206T193000Z
-DTEND:20251206T213000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing. 
- Instructor Margot will be at this session. Please refer to her wit\n\nhttp
- s://www.bklynlibrary.org/node/798606
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop in Filmmaking Lab
-DTSTART:20251206T200000Z
-DTEND:20251206T213000Z
-DESCRIPTION:It is harder than ever to get a film into the world. From conc
- ept to screenings\, come get advice on your film and meet other filmmakers
- . Bring your project in for community and guidance. All skill lev\n\nhttps
- ://www.bklynlibrary.org/node/796137
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feng Shui and I Ching
-DTSTART:20251206T203000Z
-DTEND:20251206T220000Z
-DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
- arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
- ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
- ps://www.bklynlibrary.org/node/788530
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYC Livecode Meetup
 DTSTART:20251207T183000Z
 DTEND:20251207T213000Z
@@ -373,6 +334,43 @@ DESCRIPTION:Learn all about today's financial markets from two women who
  watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
  s they host The Women and Money Roundtable. This series is a virt\n\nhttps
  ://www.bklynlibrary.org/node/781297
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:iPhone & Android Help
+DTSTART:20251210T190000Z
+DTEND:20251210T200000Z
+DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
+ e figure out something? The objective of this class is to tend to patrons'
+  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
+ ww.bklynlibrary.org/node/794531
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20251210T190000Z
+DTEND:20251210T210000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/797901
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
+DTSTART:20251210T200000Z
+DTEND:20251210T220000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for hel
+ p with your resume\, cover letter\, interview\, and job search questions. 
+ All sessions are one-on-one on a first come\, first served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/774145
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20251210T210000Z
+DTEND:20251210T220000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/786561
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
