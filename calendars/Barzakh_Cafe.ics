@@ -11,29 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:1st Anniversary Celebration: Syria's Liberation
-DTSTART:20251207T190000Z
-DTEND:20251207T210000Z
-DTSTAMP:20251207T190000Z
-UID:1st Anniversary Celebration: Syria's Liberation
-DESCRIPTION:https://www.viewcy.com/event/1st_anniversary_celeb\n<p><img al
- t="1st Anniversary Celebration: Syria's Liberation thumbnail" class="style
- s_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback"
-  data-sentry-element="Image" data-sentry-source-file="index.tsx" decoding=
- "async" height="186" loading="lazy" src="https://www.viewcy.com/_next/imag
- e?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2F
- featured_images%2F000%2F022%2F073%2Fcover%2FWhatsApp_Image_2025-11-25_at_1
- 1.33.15_PM.jpg%3F1764094663&amp\;w=640&amp\;q=100" srcset="/_next/image?ur
- l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
- ured_images%2F000%2F022%2F073%2Fcover%2FWhatsApp_Image_2025-11-25_at_11.33
- .15_PM.jpg%3F1764094663&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
- 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
- ges%2F000%2F022%2F073%2Fcover%2FWhatsApp_Image_2025-11-25_at_11.33.15_PM.j
- pg%3F1764094663&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wid
- th="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Umm Kulthum Workshop
 DTSTART:20251207T233000Z
 DTEND:20251208T013000Z
