@@ -139,6 +139,27 @@ DESCRIPTION:https://www.viewcy.com/event/bahloul__araki\n<p><img alt="Bahl
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rededicating the Flame
+DTSTART:20251219T224500Z
+DTEND:20251220T004500Z
+DTSTAMP:20251219T224500Z
+UID:Rededicating the Flame
+DESCRIPTION:https://www.viewcy.com/event/rededicating_the_flam\n<p><img al
+ t="Rededicating the Flame thumbnail" class="styles_coverImg__PsR9G" data-n
+ img="1" data-sentry-component="ImageWithFallback" data-sentry-element="Ima
+ ge" data-sentry-source-file="index.tsx" decoding="async" height="186" load
+ ing="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewc
+ y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
+ 22%2F277%2Fcover%2FNew_Designs__284_29.jpg%3F1765219447&amp\;w=640&amp\;q=
+ 100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
+ azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F277%2Fcover%2FNew_De
+ signs__284_29.jpg%3F1765219447&amp\;w=384&amp\;q=100 1x\, /_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F022%2F277%2Fcover%2FNew_Designs__284_29.jpg%3F176521944
+ 7&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Brooklyn Nomads
 DTSTART:20251220T010000Z
 DTEND:20251220T030000Z
