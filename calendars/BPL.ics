@@ -11,32 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
-DTSTART:20251209T160000Z
-DTEND:20251209T183000Z
-DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
- //www.bklynlibrary.org/node/771877
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251209T180000Z
-DTEND:20251209T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/799101
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251209T183000Z
-DTEND:20251209T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/799107
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Resume Coaching
 DTSTART:20251209T190000Z
 DTEND:20251209T210000Z
@@ -384,5 +358,32 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
  \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
  lynlibrary.org/node/776179
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20251211T223000Z
+DTEND:20251211T000000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792405
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20251211T223000Z
+DTEND:20251211T003000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/792770
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Singing Event
+DTSTART:20251211T230000Z
+DTEND:20251211T003000Z
+DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
+ klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/791802
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
