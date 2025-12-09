@@ -42,6 +42,15 @@ DESCRIPTION:Gordon Gilbert is a writer living in the west village\, NYC. B
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Christmas Carol: Live Radio Play\, presented by MAD Company
+DTSTART:20251209T230000Z
+DTEND:20251209T003000Z
+DESCRIPTION:This December\, ring in the holiday season with Christmas Caro
+ l: A Live Radio Play\, presented by MAD Company!\n\nhttps://www.bklynlibra
+ ry.org/node/796778
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Conversation Group - Brooklyn Heights
 DTSTART:20251209T230000Z
 DTEND:20251209T003000Z
@@ -59,15 +68,6 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
  nlibrary.org/node/799458
 LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Christmas Carol: Live Radio Play\, presented by MAD Company
-DTSTART:20251209T230000Z
-DTEND:20251209T003000Z
-DESCRIPTION:This December\, ring in the holiday season with Christmas Caro
- l: A Live Radio Play\, presented by MAD Company!\n\nhttps://www.bklynlibra
- ry.org/node/796778
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Multilingual Business Help
