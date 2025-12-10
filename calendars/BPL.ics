@@ -21,13 +21,15 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20251210T163000Z
-DTEND:20251210T173000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/781503
-LOCATION:Brooklyn Heights Library\, Gaming Room
+SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
+  Markets
+DTSTART:20251210T180000Z
+DTEND:20251210T190000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/781297
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mindful Coloring for Adults and Teens
@@ -38,17 +40,6 @@ DESCRIPTION:Please join us at our adult coloring session! No registratio
  a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
  /792213
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
-  Markets
-DTSTART:20251210T180000Z
-DTEND:20251210T190000Z
-DESCRIPTION:Learn all about today's financial markets from two women who 
- watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
- s they host The Women and Money Roundtable. This series is a virt\n\nhttps
- ://www.bklynlibrary.org/node/781297
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:iPhone & Android Help
@@ -379,5 +370,14 @@ DTEND:20251213T173000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/792004
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251213T153000Z
+DTEND:20251213T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 87
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
