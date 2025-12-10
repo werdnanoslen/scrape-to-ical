@@ -11,26 +11,10 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
-SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251210T100637Z
-DTEND;VALUE=DATE:20251210T120637Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-10 10:06:37.708657+00:
- 00
-DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
- hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
- nside the artist’s life and inside wood to reflect on our living relatio
- nships with trees and the Earth.Learn More›about Notice/Know/Kin: A Huma
- n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
- w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
- l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20251210T100637Z
-DTEND;VALUE=DATE:20251210T120637Z
-UID:Lightscape-2025-12-10 10:06:37.709090+00:00
+DTSTART;VALUE=DATE:20251210T110750Z
+DTEND;VALUE=DATE:20251210T130750Z
+UID:Lightscape-2025-12-10 11:07:50.397111+00:00
 DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
  	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
   most dazzling light show! Celebrate the beauty of nature in winter on thi
@@ -42,17 +26,18 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lightscape Family Benefit
-DTSTART;VALUE=DATE:20251209T050000Z
-DTEND;VALUE=DATE:20251209T070000Z
-UID:Lightscape Family Benefit-2025-12-09 05:00:00+00:00
-DESCRIPTION:Tuesday\, December 9\, 2025 | 4:30 p.m.–7:30 p.m.*\n\nBrookl
- yn Botanic Garden invites you to an exclusive Lightscape experience at BBG
- ’s Family Benefit\, the annual fundraiser that’s fun for kids and thei
- r families.Learn More›about Lightscape Family Benefit\n\nMore info:\nhtt
- ps://www.bbg.org/visit/event/lightscape_family_benefit\n\n<img src="/img/u
- ploads/hero/_list_thumbnail_regular/lightscape_family_benefit-LL-533371393
- 77.jpg" alt="" />
+SUMMARY:Notice/Know/Kin: A Human/Tree Biography
+DTSTART;VALUE=DATE:20251210T110750Z
+DTEND;VALUE=DATE:20251210T130750Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-10 11:07:50.397530+00:
+ 00
+DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
+ hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
+ nside the artist’s life and inside wood to reflect on our living relatio
+ nships with trees and the Earth.Learn More›about Notice/Know/Kin: A Huma
+ n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
+ w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
+ l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
