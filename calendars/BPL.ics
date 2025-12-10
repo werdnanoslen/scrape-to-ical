@@ -21,27 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
-  Markets
-DTSTART:20251210T180000Z
-DTEND:20251210T190000Z
-DESCRIPTION:Learn all about today's financial markets from two women who 
- watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
- s they host The Women and Money Roundtable. This series is a virt\n\nhttps
- ://www.bklynlibrary.org/node/781297
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20251210T180000Z
-DTEND:20251210T190000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /792213
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:iPhone & Android Help
 DTSTART:20251210T190000Z
 DTEND:20251210T200000Z
@@ -379,5 +358,23 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  87
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finish Your Diploma Now!
+DTSTART:20251213T153000Z
+DTEND:20251213T163000Z
+DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
+ \nhttps://www.bklynlibrary.org/node/800424
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
+DTSTART:20251213T193000Z
+DTEND:20251213T213000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing. 
+ Instructor Margot will be at this session. Please refer to her wit\n\nhttp
+ s://www.bklynlibrary.org/node/798607
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
