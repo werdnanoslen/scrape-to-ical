@@ -11,31 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20251210T150000Z
-DTEND:20251210T170000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782601
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251210T150000Z
-DTEND:20251210T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 94
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20251210T150000Z
-DTEND:20251210T163000Z
-DESCRIPTION:Please join our class adults to learn basic Hebrew grammar and
-  conversation in a friendly atmosphere\n\nhttps://www.bklynlibrary.org/nod
- e/797526
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251210T150000Z
 DTEND:20251210T220000Z
@@ -44,25 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/799921
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Honor Your Body: Chair Yoga for Healing and Energy
-DTSTART:20251210T160000Z
-DTEND:20251210T170000Z
-DESCRIPTION:Join Rooted in Radiance and honor your body with this gentle\,
-  restorative Chair Yoga series designed to reconnect you with your breath 
- and physical being. Through mindful\, seated movements\, we’ll expl\n\nh
- ttps://www.bklynlibrary.org/node/782901
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:One-On-One Computer Help
-DTSTART:20251210T160000Z
-DTEND:20251210T170000Z
-DESCRIPTION:Need help with understanding the basics of using a computer? O
- r maybe it’s just been a while and you’re looking to brush up on your 
- computer skills.\n\nhttps://www.bklynlibrary.org/node/800647
-LOCATION:Pacific Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech
@@ -378,5 +334,50 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  66
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collage Party
+DTSTART:20251212T190000Z
+DTEND:20251212T203000Z
+DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
+ es and other supplies available to make cards\, postcards\, and other proj
+ ects. You're welcome to bring your own additional materials to cut\n\nhttp
+ s://www.bklynlibrary.org/node/787722
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20251212T190000Z
+DTEND:20251212T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/793695
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Inclusiv Business Forward - Information Session
+DTSTART:20251212T190000Z
+DTEND:20251212T200000Z
+DESCRIPTION:Capital opportunities for small business owners in NYC\n\nhttp
+ s://www.bklynlibrary.org/node/796167
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20251212T210000Z
+DTEND:20251212T223000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/792214
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251213T143000Z
+DTEND:20251213T173000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/792004
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
