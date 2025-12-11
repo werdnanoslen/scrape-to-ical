@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20251211T150000Z
-DTEND:20251211T220000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/791529
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New York Connects Tabling
-DTSTART:20251211T190000Z
-DTEND:20251211T220000Z
-DESCRIPTION:Join New York Connects every month as we connect the community
-  to a wide range of care services and support for people of all ages or wi
- th any type of disability. Get assistance accessing services suc\n\nhttps:
- //www.bklynlibrary.org/node/783492
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Influenza Awareness: How to Stay Healthy During Flu Season!
-DTSTART:20251211T210000Z
-DTEND:20251211T220000Z
-DESCRIPTION:Everyone gets the sniffles! Here’s how you and your loved on
- es can stay healthy during the flu season. At this virtual workshop with N
- YU Langone\, we will discuss recommendations for flu prevention\, id\n\nht
- tps://www.bklynlibrary.org/node/796399
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251211T220000Z
 DTEND:20251211T233000Z
@@ -372,5 +342,35 @@ DTEND:20251216T173000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/791993
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Vet Center Tabling
+DTSTART:20251216T150000Z
+DTEND:20251216T190000Z
+DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
+ dential and free help to Veterans\, service members\, and their families. 
+ Staff from the Vet Center will assist with information on health a\n\nhttp
+ s://www.bklynlibrary.org/node/782962
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
+ siness Solutions Center
+DTSTART:20251216T180000Z
+DTEND:20251216T210000Z
+DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
+ ? Join the NYC Business Solutions Brooklyn Center for "The Flower Hour\," 
+ a special session of our popular Joint Ventures educational serie\n\nhttps
+ ://www.bklynlibrary.org/node/787573
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251216T180000Z
+DTEND:20251216T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/799103
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
