@@ -31,16 +31,6 @@ DESCRIPTION:Join New York Connects every month as we connect the community
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Online Job Applications
-DTSTART:20251211T190000Z
-DTEND:20251211T203000Z
-DESCRIPTION:This monthly drop-in lab is geared towards beginner computer u
- sers to help you apply to jobs you have already found online. There will b
- e computers available for guided help. Please come with a comple\n\nhttps:
- //www.bklynlibrary.org/node/797381
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Influenza Awareness: How to Stay Healthy During Flu Season!
 DTSTART:20251211T210000Z
 DTEND:20251211T220000Z
@@ -374,5 +364,13 @@ DESCRIPTION:Build hand-eye coordination\, develop better observation skill
   relax and recharge while improving your artistic skills. We'll fo\n\nhttp
  s://www.bklynlibrary.org/node/797743
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251216T143000Z
+DTEND:20251216T173000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/791993
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
