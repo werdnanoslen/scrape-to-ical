@@ -224,6 +224,27 @@ DESCRIPTION:https://www.viewcy.com/event/la_manga_cumbia_from\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Yalda
+DTSTART:20251222T000000Z
+DTEND:20251222T020000Z
+DTSTAMP:20251222T000000Z
+UID:Yalda
+DESCRIPTION:https://www.viewcy.com/event/yalda\n<p><img alt="Yalda thumbna
+ il" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="Im
+ ageWithFallback" data-sentry-element="Image" data-sentry-source-file="inde
+ x.tsx" decoding="async" height="186" loading="lazy" src="https://www.viewc
+ y.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.
+ com%2Fcourses%2Ffeatured_images%2F000%2F022%2F331%2Fcover%2FNew_Designs__2
+ 81_29.jpg%3F1765459152&amp\;w=640&amp\;q=100" srcset="/_next/image?url=htt
+ ps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_
+ images%2F000%2F022%2F331%2Fcover%2FNew_Designs__281_29.jpg%3F1765459152&am
+ p\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F331%2Fco
+ ver%2FNew_Designs__281_29.jpg%3F1765459152&amp\;w=640&amp\;q=100 2x" style
+ ="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Barzakh 2025 Farewell: Spotlight Series
 DTSTART:20251227T000000Z
 DTEND:20251227T020000Z
