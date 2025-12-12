@@ -21,23 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251212T180000Z
-DTEND:20251212T200000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 66
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Inclusiv Business Forward - Information Session
-DTSTART:20251212T190000Z
-DTEND:20251212T200000Z
-DESCRIPTION:Capital opportunities for small business owners in NYC\n\nhttp
- s://www.bklynlibrary.org/node/796167
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Collage Party
 DTSTART:20251212T190000Z
 DTEND:20251212T203000Z
@@ -46,15 +29,6 @@ DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
  ects. You're welcome to bring your own additional materials to cut\n\nhttp
  s://www.bklynlibrary.org/node/787722
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20251212T190000Z
-DTEND:20251212T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/793695
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
@@ -377,5 +351,33 @@ DTSTART:20251217T150000Z
 DTEND:20251217T170000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782602
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251217T150000Z
+DTEND:20251217T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 95
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20251217T150000Z
+DTEND:20251217T220000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/799922
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20251217T150000Z
+DTEND:20251217T163000Z
+DESCRIPTION:Please join our class adults to learn basic Hebrew grammar and
+  conversation in a friendly atmosphere\n\nhttps://www.bklynlibrary.org/nod
+ e/797527
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
