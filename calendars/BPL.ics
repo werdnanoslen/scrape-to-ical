@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20251212T170000Z
-DTEND:20251212T190000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/797902
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251212T180000Z
 DTEND:20251212T200000Z
@@ -36,6 +28,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  66
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Inclusiv Business Forward - Information Session
+DTSTART:20251212T190000Z
+DTEND:20251212T200000Z
+DESCRIPTION:Capital opportunities for small business owners in NYC\n\nhttp
+ s://www.bklynlibrary.org/node/796167
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Collage Party
@@ -55,14 +55,6 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
  ://www.bklynlibrary.org/node/793695
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Inclusiv Business Forward - Information Session
-DTSTART:20251212T190000Z
-DTEND:20251212T200000Z
-DESCRIPTION:Capital opportunities for small business owners in NYC\n\nhttp
- s://www.bklynlibrary.org/node/796167
-LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
@@ -378,5 +370,12 @@ DESCRIPTION:First impressions starts with you! Are you interested in earni
  tion? Join our session to learn how you can learn the necessary\n\nhttps:/
  /www.bklynlibrary.org/node/800571
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20251217T150000Z
+DTEND:20251217T170000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782602
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
