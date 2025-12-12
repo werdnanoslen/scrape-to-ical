@@ -29,6 +29,16 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20251212T160000Z
+DTEND:20251212T180000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by Central Library for he
+ lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
+ ps://www.bklynlibrary.org/node/795476
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251212T160000Z
 DTEND:20251212T210000Z
@@ -364,15 +374,5 @@ DESCRIPTION:Looking to share your current knitting/crocheting project with
  mmons. Bring your own yarn and tools and meet with other fiber ar\n\nhttp
  s://www.bklynlibrary.org/node/775759
 LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POP CULTURE CLUB
-DTSTART:20251216T223000Z
-DTEND:20251216T233000Z
-DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
-  trending? Join our Pop Culture Club! We meet regularly to discuss the lat
- est in entertainment\, share fan theories\, play trivia\, and dive into\n\
- nhttps://www.bklynlibrary.org/node/778783
-LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
