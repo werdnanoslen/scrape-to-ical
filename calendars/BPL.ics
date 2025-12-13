@@ -19,23 +19,6 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251213T153000Z
-DTEND:20251213T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 87
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finish Your Diploma Now!
-DTSTART:20251213T153000Z
-DTEND:20251213T163000Z
-DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
- \nhttps://www.bklynlibrary.org/node/800424
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
 DTSTART:20251213T193000Z
 DTEND:20251213T213000Z
@@ -378,5 +361,25 @@ DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
  d then have the option to engage in conversation with other book love\n\nh
  ttps://www.bklynlibrary.org/node/787335
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Republic Review
+DTSTART:20251217T193000Z
+DTEND:20251217T210000Z
+DESCRIPTION:Join us for Philosophy discussion as we wrap up our study of P
+ lato’s Republic! Having read all ten books over 2025\, we will meet to 
+ review and discuss the work overall.\n\nhttps://www.bklynlibrary.org/node/
+ 799501
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251217T200000Z
+DTEND:20251217T220000Z
+DESCRIPTION:Stop by for a one-on-one review of your resume or cover letter
+ \, and receive help with your questions about job interviews and the job s
+ earch. Sessions are offered on a first-come\, first-served basis.\n\nhttps
+ ://www.bklynlibrary.org/node/791393
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
