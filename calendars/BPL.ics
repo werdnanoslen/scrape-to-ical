@@ -244,14 +244,6 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Book Club: I Know Why The Caged Bird Sings by Maya Angelou
-DTSTART:20251216T233000Z
-DTEND:20251216T003000Z
-DESCRIPTION:Join us this month to Maya Angelou's memoir I Know Why The Cag
- ed Bird Sings.\n\nhttps://www.bklynlibrary.org/node/798531
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hospitality Front Desk Representative or Guestroom Attendant Certi
  fication Training
 DTSTART:20251216T233000Z
@@ -261,6 +253,14 @@ DESCRIPTION:First impressions starts with you! Are you interested in earni
  tion? Join our session to learn how you can learn the necessary\n\nhttps:/
  /www.bklynlibrary.org/node/800571
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Book Club: I Know Why The Caged Bird Sings by Maya Angelou
+DTSTART:20251216T233000Z
+DTEND:20251216T003000Z
+DESCRIPTION:Join us this month to discuss Maya Angelou's memoir I Know Why
+  The Caged Bird Sings.\n\nhttps://www.bklynlibrary.org/node/798531
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Multilingual Business Help
