@@ -19,33 +19,6 @@ DESCRIPTION:Have you considered becoming a tax preparer for NYC's VITA pro
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20251215T200000Z
-DTEND:20251215T220000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /790382
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jigsaw Puzzle Hour
-DTSTART:20251215T200000Z
-DTEND:20251215T220000Z
-DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
- variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
- ://www.bklynlibrary.org/node/797558
-LOCATION:Brooklyn Heights Library\, Cranberry Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20251215T210000Z
-DTEND:20251215T220000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/796900
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251215T213000Z
 DTEND:20251215T230000Z
@@ -380,5 +353,32 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
  82
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20251218T153000Z
+DTEND:20251218T163000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/792478
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group
+DTSTART:20251218T153000Z
+DTEND:20251218T170000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792373
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251218T180000Z
+DTEND:20251218T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/799104
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
