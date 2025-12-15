@@ -19,25 +19,6 @@ DESCRIPTION:Have you considered becoming a tax preparer for NYC's VITA pro
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251215T213000Z
-DTEND:20251215T230000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 77
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LevelUP Information Session
-DTSTART:20251215T220000Z
-DTEND:20251215T230000Z
-DESCRIPTION:Join Brooklyn Public Library's LevelUP Program for an Informat
- ion Session on our upcoming cohort launching Spring 2026. During this virt
- ual session\, participants will have the opportunity to learn mor\n\nhttps
- ://www.bklynlibrary.org/node/799086
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Life Drawing
 DTSTART:20251215T230000Z
 DTEND:20251215T003000Z
@@ -380,5 +361,23 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/799104
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251218T183000Z
+DTEND:20251218T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/799110
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Microsoft Word
+DTSTART:20251218T190000Z
+DTEND:20251218T200000Z
+DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
+  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/794
+ 529
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
