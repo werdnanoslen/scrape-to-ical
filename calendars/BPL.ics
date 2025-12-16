@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20251216T200000Z
-DTEND:20251216T220000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/79070
- 1
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Crafting Circle
-DTSTART:20251216T210000Z
-DTEND:20251216T220000Z
-DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
- Join our virtual crafting circle! Twice a month\, get together with fellow
-  crafters to chat and discuss what you're working on! Bring your\n\nhttps:
- //www.bklynlibrary.org/node/783599
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
 DTSTART:20251216T220000Z
 DTEND:20251216T233000Z
@@ -197,5 +179,209 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  16
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20251217T230000Z
+DTEND:20251217T010000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/792016
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Together\, We Teach" (NYC Teaching Fellows 2025 Info Session)
+DTSTART:20251217T230000Z
+DTEND:20251217T003000Z
+DESCRIPTION:Interested in becoming a teacher? Join us!\n\nhttps://www.bkly
+ nlibrary.org/node/797402
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Podcast Club at BPL: Winter Solstice
+DTSTART:20251217T233000Z
+DTEND:20251217T003000Z
+DESCRIPTION:Join us for the third meeting of the new Brooklyn Public Libra
+ ry Podcast Club. All are welcome!\n\nhttps://www.bklynlibrary.org/node/791
+ 558
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20251218T150000Z
+DTEND:20251218T200000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7821
+ 08
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20251218T150000Z
+DTEND:20251218T220000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/791530
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251218T153000Z
+DTEND:20251218T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
+ 82
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20251218T153000Z
+DTEND:20251218T163000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/792478
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group
+DTSTART:20251218T153000Z
+DTEND:20251218T170000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792373
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251218T180000Z
+DTEND:20251218T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/799104
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251218T183000Z
+DTEND:20251218T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/799110
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Microsoft Word
+DTSTART:20251218T190000Z
+DTEND:20251218T200000Z
+DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
+  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/794
+ 529
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Computer Lab: Websites for Freelance Artists
+DTSTART:20251218T190000Z
+DTEND:20251218T203000Z
+DESCRIPTION:This drop-in discourse is for freelance artists of all mediums
+  looking to learn about available websites to advance their careers\, look
+  for work\, create portfolios/professional websites\, and more. Fee\n\nhtt
+ ps://www.bklynlibrary.org/node/797393
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arts and Crafts Circle
+DTSTART:20251218T193000Z
+DTEND:20251218T210000Z
+DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
+ us to work on projects\, trade skills\, and socialize with other makers! B
+ ring your own materials and enjoy the practice of making with other\n\nhtt
+ ps://www.bklynlibrary.org/node/788398
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Cookbook Club: Holiday Treats
+DTSTART:20251218T200000Z
+DTEND:20251218T213000Z
+DESCRIPTION:Join the Central Cookbook Club for our essential discussion on
+  holiday treats as we browse through a variety of holiday cookbooks.\n\nht
+ tps://www.bklynlibrary.org/node/779430
+LOCATION:Central Library\, Reverend Elsie Smith Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251218T220000Z
+DTEND:20251218T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7962
+ 14
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20251218T223000Z
+DTEND:20251218T233000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/776180
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20251218T223000Z
+DTEND:20251218T003000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/792771
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group
+DTSTART:20251218T223000Z
+DTEND:20251218T000000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792406
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20251218T230000Z
+DTEND:20251218T003000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/793525
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National External Diploma Program (NEDP) Info. Session
+DTSTART:20251218T233000Z
+DTEND:20251218T003000Z
+DESCRIPTION:Looking for a different way to earn your high school equivalen
+ cy diploma? The National External Diploma Program could be right for you! 
+ Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
+ ://www.bklynlibrary.org/node/793278
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National External Diploma Program (NEDP) Info. Session
+DTSTART:20251218T233000Z
+DTEND:20251218T003000Z
+DESCRIPTION:Looking for a different way to earn your high school equivalen
+ cy diploma? The National External Diploma Program could be right for you! 
+ Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
+ ://www.bklynlibrary.org/node/800194
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20251219T070000Z
+DTEND:20251219T200000Z
+DESCRIPTION:Please join us for a short story discussion on Friday\, Decemb
+ er 19\, 2025\, at 2-3 p.m.\, in the Info Commons Computer Lab.\n\nhttps://
+ www.bklynlibrary.org/node/793204
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
