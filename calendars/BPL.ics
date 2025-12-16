@@ -22,15 +22,6 @@ DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Laptop/Tablet Help
-DTSTART:20251216T190000Z
-DTEND:20251216T200000Z
-DESCRIPTION:Having trouble navigating your new laptop or tablet? Come on o
- ver to laptop & tablet help* and we’ll show you how to use it.\n\nhttps:
- //www.bklynlibrary.org/node/794537
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resume Coaching
 DTSTART:20251216T190000Z
 DTEND:20251216T210000Z
@@ -383,5 +374,14 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/792771
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group
+DTSTART:20251218T223000Z
+DTEND:20251218T000000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792406
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
