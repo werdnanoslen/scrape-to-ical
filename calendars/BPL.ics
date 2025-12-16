@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20251216T143000Z
-DTEND:20251216T173000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/791993
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brooklyn Vet Center Tabling
 DTSTART:20251216T150000Z
 DTEND:20251216T190000Z
@@ -381,5 +373,14 @@ DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join
  ring your own materials and enjoy the practice of making with other\n\nhtt
  ps://www.bklynlibrary.org/node/788398
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Cookbook Club: Holiday Treats
+DTSTART:20251218T200000Z
+DTEND:20251218T213000Z
+DESCRIPTION:Join the Central Cookbook Club for our essential discussion on
+  holiday treats as we browse through a variety of holiday cookbooks.\n\nht
+ tps://www.bklynlibrary.org/node/779430
+LOCATION:Central Library\, Reverend Elsie Smith Room
 END:VEVENT
 END:VCALENDAR
