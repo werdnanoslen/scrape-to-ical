@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Brooklyn Vet Center Tabling
-DTSTART:20251216T150000Z
-DTEND:20251216T190000Z
-DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
- dential and free help to Veterans\, service members\, and their families. 
- Staff from the Vet Center will assist with information on health a\n\nhttp
- s://www.bklynlibrary.org/node/782962
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
  siness Solutions Center
 DTSTART:20251216T180000Z
@@ -30,24 +20,6 @@ DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
  a special session of our popular Joint Ventures educational serie\n\nhttps
  ://www.bklynlibrary.org/node/787573
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251216T180000Z
-DTEND:20251216T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/799103
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251216T183000Z
-DTEND:20251216T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/799109
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Laptop/Tablet Help
@@ -209,7 +181,7 @@ DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philosophy Discussion Group: Plato's Republic Review
+SUMMARY:CANCELLED: Philosophy Discussion Group: Plato's Republic Review
 DTSTART:20251217T193000Z
 DTEND:20251217T210000Z
 DESCRIPTION:Join us for Philosophy discussion as we wrap up our study of P
@@ -382,5 +354,34 @@ DESCRIPTION:Join the Central Cookbook Club for our essential discussion on
   holiday treats as we browse through a variety of holiday cookbooks.\n\nht
  tps://www.bklynlibrary.org/node/779430
 LOCATION:Central Library\, Reverend Elsie Smith Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251218T220000Z
+DTEND:20251218T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7962
+ 14
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20251218T223000Z
+DTEND:20251218T233000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/776180
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20251218T223000Z
+DTEND:20251218T003000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/792771
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
