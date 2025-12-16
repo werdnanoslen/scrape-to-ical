@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Tax Preparer Training Class - Day 2
-DTSTART:20251215T173000Z
-DTEND:20251215T003000Z
-DESCRIPTION:Have you considered becoming a tax preparer for NYC's VITA pro
- gram?\n\nhttps://www.bklynlibrary.org/node/794596
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Life Drawing
-DTSTART:20251215T230000Z
-DTEND:20251215T003000Z
-DESCRIPTION:Build hand-eye coordination\, develop better observation skill
- s\, and get into a relaxing zone through drawing. This class will help you
-  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
- s://www.bklynlibrary.org/node/797743
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20251216T143000Z
 DTEND:20251216T173000Z
@@ -379,5 +361,25 @@ DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
   themselves with the application.\n\nhttps://www.bklynlibrary.org/node/794
  529
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Career Computer Lab: Websites for Freelance Artists
+DTSTART:20251218T190000Z
+DTEND:20251218T203000Z
+DESCRIPTION:This drop-in discourse is for freelance artists of all mediums
+  looking to learn about available websites to advance their careers\, look
+  for work\, create portfolios/professional websites\, and more. Fee\n\nhtt
+ ps://www.bklynlibrary.org/node/797393
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arts and Crafts Circle
+DTSTART:20251218T193000Z
+DTEND:20251218T210000Z
+DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
+ us to work on projects\, trade skills\, and socialize with other makers! B
+ ring your own materials and enjoy the practice of making with other\n\nhtt
+ ps://www.bklynlibrary.org/node/788398
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
