@@ -11,10 +11,25 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
+SUMMARY:Lightscape
+DTSTART;VALUE=DATE:20251217T110734Z
+DTEND;VALUE=DATE:20251217T130734Z
+UID:Lightscape-2025-12-17 11:07:34.596553+00:00
+DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
+ 	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
+  most dazzling light show! Celebrate the beauty of nature in winter on thi
+ s enchanting trail animated by light\, color\, and sound.Learn More›abou
+ t Lightscape\n\nMore info:\nhttps://www.bbg.org/lightscape\n\n<img src="/i
+ mg/uploads/manual/hero/_list_thumbnail_regular/Lightscape-Visitors_LL_2024
+ -0133.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251217T100648Z
-DTEND;VALUE=DATE:20251217T120648Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-17 10:06:48.825442+00:
+DTSTART;VALUE=DATE:20251217T110734Z
+DTEND;VALUE=DATE:20251217T130734Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-17 11:07:34.596978+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -23,21 +38,6 @@ DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20251217T100648Z
-DTEND;VALUE=DATE:20251217T120648Z
-UID:Lightscape-2025-12-17 10:06:48.825888+00:00
-DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
- 	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
-  most dazzling light show! Celebrate the beauty of nature in winter on thi
- s enchanting trail animated by light\, color\, and sound.Learn More›abou
- t Lightscape\n\nMore info:\nhttps://www.bbg.org/lightscape\n\n<img src="/i
- mg/uploads/manual/hero/_list_thumbnail_regular/Lightscape-Visitors_LL_2024
- -0133.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
