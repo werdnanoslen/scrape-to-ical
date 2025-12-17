@@ -11,45 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20251217T150000Z
-DTEND:20251217T220000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/799922
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251217T200000Z
-DTEND:20251217T220000Z
-DESCRIPTION:Stop by for a one-on-one review of your resume or cover letter
- \, and receive help with your questions about job interviews and the job s
- earch. Sessions are offered on a first-come\, first-served basis.\n\nhttps
- ://www.bklynlibrary.org/node/791393
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20251217T210000Z
-DTEND:20251217T220000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/786562
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winter Wellness: Your Guide to Staying Safe This Winter Season
-DTSTART:20251217T210000Z
-DTEND:20251217T220000Z
-DESCRIPTION:Join the staff from NewYork-Presbyterian's Burn Center to lear
- n simple tricks for staying safe as the temperatures drop! We'll cover top
- ics such as housefire prevention\, radiator and space heater safe\n\nhttps
- ://www.bklynlibrary.org/node/792550
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20251217T230000Z
 DTEND:20251217T010000Z
@@ -384,5 +345,43 @@ DESCRIPTION:This Jigsaw Puzzle Contest is open to teams of all ages! Every
  inish wins. All will be allowed to finish.\n\nhttps://www.bklynlibrary.org
  /node/797568
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
+DTSTART:20251220T193000Z
+DTEND:20251220T213000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing. 
+ Instructor Margot will be at this session. Please refer to her wit\n\nhttp
+ s://www.bklynlibrary.org/node/798608
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20251220T203000Z
+DTEND:20251220T220000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/788531
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20251222T160000Z
+DTEND:20251222T200000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/783571
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20251222T160000Z
+DTEND:20251222T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/799930
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
