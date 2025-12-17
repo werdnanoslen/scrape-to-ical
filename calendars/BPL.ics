@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20251217T180000Z
-DTEND:20251217T190000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /792215
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Quiet Reading Party
 DTSTART:20251217T183000Z
 DTEND:20251217T200000Z
@@ -187,7 +177,7 @@ DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Career Computer Lab: Websites for Freelance Artists
+SUMMARY:CANCELLED: Career Computer Lab: Websites for Freelance Artists
 DTSTART:20251218T190000Z
 DTEND:20251218T203000Z
 DESCRIPTION:This drop-in discourse is for freelance artists of all mediums
@@ -384,5 +374,15 @@ DTEND:20251220T173000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/792005
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book Chat
+DTSTART:20251220T153000Z
+DTEND:20251220T173000Z
+DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
+  book you've read recently that you'd like to tell other folks about\, and
+  hear what other people are reading. It's like a book club\, excep\n\nhttp
+ s://www.bklynlibrary.org/node/799607
+LOCATION:Brooklyn Heights Library\, Orange Meeting Room
 END:VEVENT
 END:VCALENDAR
