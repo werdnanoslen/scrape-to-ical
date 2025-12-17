@@ -11,44 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group - Brooklyn Heights
-DTSTART:20251216T230000Z
-DTEND:20251216T003000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/798028
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
-DTSTART:20251216T230000Z
-DTEND:20251216T003000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/799459
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Book Club: I Know Why The Caged Bird Sings by Maya Angelou
-DTSTART:20251216T233000Z
-DTEND:20251216T003000Z
-DESCRIPTION:Join us this month to discuss Maya Angelou's memoir I Know Why
-  The Caged Bird Sings.\n\nhttps://www.bklynlibrary.org/node/798531
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hospitality Front Desk Representative or Guestroom Attendant Certi
- fication Training
-DTSTART:20251216T233000Z
-DTEND:20251216T003000Z
-DESCRIPTION:First impressions starts with you! Are you interested in earni
- ng a nationally recognized hospitality front desk representative certifica
- tion? Join our session to learn how you can learn the necessary\n\nhttps:/
- /www.bklynlibrary.org/node/800571
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Multilingual Business Help
 DTSTART:20251217T150000Z
 DTEND:20251217T170000Z
@@ -381,5 +343,43 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
  out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
  org/node/791388
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20251219T160000Z
+DTEND:20251219T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/799936
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251219T180000Z
+DTEND:20251219T200000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 67
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20251219T190000Z
+DTEND:20251219T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/793696
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20251219T190000Z
+DTEND:20251219T200000Z
+DESCRIPTION:Please join us for a discussion of "The Ones Who Walk Away fro
+ m Omelas" by Ursula K. Le Guin\, and "The Ones Who Stay and Fight\," by N.
+  K. Jemisin\, on Friday\, December 19\, 2-3 pm\, in the Info Commons C\n\n
+ https://www.bklynlibrary.org/node/797860
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
