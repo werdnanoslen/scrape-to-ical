@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quiet Reading Party
-DTSTART:20251217T183000Z
-DTEND:20251217T200000Z
-DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
- \, art\, and more! Bring your own book to quietly read for 45 minutes\, an
- d then have the option to engage in conversation with other book love\n\nh
- ttps://www.bklynlibrary.org/node/787335
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Philosophy Discussion Group: Plato's Republic Review
 DTSTART:20251217T193000Z
 DTEND:20251217T210000Z
@@ -200,9 +190,10 @@ BEGIN:VEVENT
 SUMMARY:Central Cookbook Club: Holiday Treats
 DTSTART:20251218T200000Z
 DTEND:20251218T213000Z
-DESCRIPTION:Join the Central Cookbook Club for our essential discussion on
-  holiday treats as we browse through a variety of holiday cookbooks.\n\nht
- tps://www.bklynlibrary.org/node/779430
+DESCRIPTION:What do we talk about when we talk about treats? Join the Cent
+ ral Cookbook Club for our essential discussion on holiday treats as we bro
+ wse through a variety of holiday cookbooks.\n\nhttps://www.bklynlibrary.or
+ g/node/779430
 LOCATION:Central Library\, Reverend Elsie Smith Room
 END:VEVENT
 BEGIN:VEVENT
@@ -384,5 +375,14 @@ DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
   hear what other people are reading. It's like a book club\, excep\n\nhttp
  s://www.bklynlibrary.org/node/799607
 LOCATION:Brooklyn Heights Library\, Orange Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Guided Music Production Session: Beginner
+DTSTART:20251220T180000Z
+DTEND:20251220T200000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/785094
+LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 END:VCALENDAR
