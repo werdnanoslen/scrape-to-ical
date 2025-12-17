@@ -11,31 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20251217T150000Z
-DTEND:20251217T170000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782602
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251217T150000Z
-DTEND:20251217T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 95
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20251217T150000Z
-DTEND:20251217T163000Z
-DESCRIPTION:Please join our class adults to learn basic Hebrew grammar and
-  conversation in a friendly atmosphere\n\nhttps://www.bklynlibrary.org/nod
- e/797527
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251217T150000Z
 DTEND:20251217T220000Z
@@ -381,5 +356,34 @@ DESCRIPTION:Please join us for a discussion of "The Ones Who Walk Away fro
   K. Jemisin\, on Friday\, December 19\, 2-3 pm\, in the Info Commons C\n\n
  https://www.bklynlibrary.org/node/797860
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYC Mayor’s Public Engagement Unit at Central Library
+DTSTART:20251219T190000Z
+DTEND:20251219T220000Z
+DESCRIPTION:The Mayor’s Public Engagement Unit (PEU) is holding tabling 
+ hours at branches across Brooklyn to provide direct\, in-person assistance
+  with essential city services. These sessions are designed for anyo\n\nhtt
+ ps://www.bklynlibrary.org/node/800445
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Crafting: Holiday Card
+DTSTART:20251219T193000Z
+DTEND:20251219T210000Z
+DESCRIPTION:Join us to create a holiday card! We will provide all the mate
+ rials you need. Perfect for creatives of all levels! No registration is re
+ quired.\n\nhttps://www.bklynlibrary.org/node/797539
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20251219T210000Z
+DTEND:20251219T223000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/792216
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 END:VCALENDAR
