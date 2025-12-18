@@ -21,26 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Career Computer Lab: Websites for Freelance Artists
-DTSTART:20251218T190000Z
-DTEND:20251218T203000Z
-DESCRIPTION:This drop-in discourse is for freelance artists of all mediums
-  looking to learn about available websites to advance their careers\, look
-  for work\, create portfolios/professional websites\, and more. Fee\n\nhtt
- ps://www.bklynlibrary.org/node/797393
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20251218T193000Z
-DTEND:20251218T210000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers! B
- ring your own materials and enjoy the practice of making with other\n\nhtt
- ps://www.bklynlibrary.org/node/788398
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Central Cookbook Club: Holiday Treats
 DTSTART:20251218T200000Z
 DTEND:20251218T213000Z
@@ -385,5 +365,25 @@ DTEND:20251223T220000Z
 DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/79070
  2
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20251223T220000Z
+DTEND:20251223T233000Z
+DESCRIPTION:Looking to share your current knitting/crocheting project with
+  others? Come join like-minded folks on their yarn journey in the Info Co
+ mmons. Bring your own yarn and tools and meet with other fiber ar\n\nhttp
+ s://www.bklynlibrary.org/node/775760
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POP CULTURE CLUB
+DTSTART:20251223T223000Z
+DTEND:20251223T233000Z
+DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
+  trending? Join our Pop Culture Club! We meet regularly to discuss the lat
+ est in entertainment\, share fan theories\, play trivia\, and dive into\n\
+ nhttps://www.bklynlibrary.org/node/778784
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
