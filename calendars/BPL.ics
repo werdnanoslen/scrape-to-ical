@@ -20,6 +20,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group
+DTSTART:20251218T223000Z
+DTEND:20251218T000000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792406
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zumba
 DTSTART:20251218T223000Z
 DTEND:20251218T233000Z
@@ -38,15 +47,6 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/792771
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group
-DTSTART:20251218T223000Z
-DTEND:20251218T000000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/792406
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
