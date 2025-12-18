@@ -30,22 +30,14 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251218T180000Z
-DTEND:20251218T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/799104
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
-DTSTART:20251218T183000Z
-DTEND:20251218T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/799110
-LOCATION:Park Slope Library
+SUMMARY:CANCELLED: Career Computer Lab: Websites for Freelance Artists
+DTSTART:20251218T190000Z
+DTEND:20251218T203000Z
+DESCRIPTION:This drop-in discourse is for freelance artists of all mediums
+  looking to learn about available websites to advance their careers\, look
+  for work\, create portfolios/professional websites\, and more. Fee\n\nhtt
+ ps://www.bklynlibrary.org/node/797393
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Microsoft Word
@@ -55,16 +47,6 @@ DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
   themselves with the application.\n\nhttps://www.bklynlibrary.org/node/794
  529
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Career Computer Lab: Websites for Freelance Artists
-DTSTART:20251218T190000Z
-DTEND:20251218T203000Z
-DESCRIPTION:This drop-in discourse is for freelance artists of all mediums
-  looking to learn about available websites to advance their careers\, look
-  for work\, create portfolios/professional websites\, and more. Fee\n\nhtt
- ps://www.bklynlibrary.org/node/797393
-LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts and Crafts Circle
@@ -385,5 +367,23 @@ DTEND:20251223T173000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/791994
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251223T180000Z
+DTEND:20251223T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/799105
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
+DTSTART:20251223T183000Z
+DTEND:20251223T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/799111
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
