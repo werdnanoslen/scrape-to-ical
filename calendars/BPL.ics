@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20251218T150000Z
-DTEND:20251218T200000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7821
- 08
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20251218T150000Z
 DTEND:20251218T220000Z
@@ -38,15 +29,6 @@ DESCRIPTION:This drop-in discourse is for freelance artists of all mediums
   for work\, create portfolios/professional websites\, and more. Fee\n\nhtt
  ps://www.bklynlibrary.org/node/797393
 LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intro to Microsoft Word
-DTSTART:20251218T190000Z
-DTEND:20251218T200000Z
-DESCRIPTION:An introduction to Microsoft Word for beginners to familiarize
-  themselves with the application.\n\nhttps://www.bklynlibrary.org/node/794
- 529
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts and Crafts Circle
@@ -385,5 +367,23 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/799111
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20251223T190000Z
+DTEND:20251223T210000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/796765
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20251223T200000Z
+DTEND:20251223T220000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/79070
+ 2
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
