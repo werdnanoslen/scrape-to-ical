@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Short Story Discussion Group
-DTSTART:20251219T070000Z
-DTEND:20251219T200000Z
-DESCRIPTION:Please join us for a short story discussion on Friday\, Decemb
- er 19\, 2025\, at 2-3 p.m.\, in the Info Commons Computer Lab.\n\nhttps://
- www.bklynlibrary.org/node/793204
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251219T160000Z
 DTEND:20251219T210000Z
@@ -28,34 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/799936
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251219T180000Z
-DTEND:20251219T200000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 67
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20251219T190000Z
-DTEND:20251219T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/793696
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Short Story Discussion Group
-DTSTART:20251219T190000Z
-DTEND:20251219T200000Z
-DESCRIPTION:Please join us for a discussion of "The Ones Who Walk Away fro
- m Omelas" by Ursula K. Le Guin\, and "The Ones Who Stay and Fight\," by N.
-  K. Jemisin\, on Friday\, December 19\, 2-3 pm\, in the Info Commons C\n\n
- https://www.bklynlibrary.org/node/797860
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NYC Mayor’s Public Engagement Unit at Central Library
@@ -170,6 +133,16 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
  about job interviews and your job search.\n\nhttps://www.bklynlibrary.org/
  node/791378
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20251222T190000Z
+DTEND:20251222T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library fo
+ r help with your resume\, cover letter\, interview\, and job search\n\nhtt
+ ps://www.bklynlibrary.org/node/794854
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
@@ -380,5 +353,35 @@ DTEND:20251229T200000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/783572
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20251229T160000Z
+DTEND:20251229T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/799931
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251229T190000Z
+DTEND:20251229T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter and receive help with your questions 
+ about job interviews and your job search.\n\nhttps://www.bklynlibrary.org/
+ node/791379
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20251229T190000Z
+DTEND:20251229T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library fo
+ r help with your resume\, cover letter\, interview\, and job search\n\nhtt
+ ps://www.bklynlibrary.org/node/794855
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
