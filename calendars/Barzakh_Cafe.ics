@@ -288,6 +288,27 @@ DESCRIPTION:https://www.viewcy.com/event/deep_listening\n<p><img alt="Deep
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rabab Nava (رباب نوا)
+DTSTART:20260103T030000Z
+DTEND:20260103T050000Z
+DTSTAMP:20260103T030000Z
+UID:Rabab Nava (رباب نوا)
+DESCRIPTION:https://www.viewcy.com/event/rabab_nava__\n<p><img alt="Rabab 
+ Nava (رباب نوا) thumbnail" class="styles_coverImg__PsR9G" data-nimg
+ ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
+  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
+ ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%
+ 2F505%2Fcover%2FNew_Designs__283_29.jpg%3F1766160998&amp\;w=640&amp\;q=100
+ " srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazo
+ naws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F505%2Fcover%2FNew_Desig
+ ns__283_29.jpg%3F1766160998&amp\;w=384&amp\;q=100 1x\, /_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F022%2F505%2Fcover%2FNew_Designs__283_29.jpg%3F1766160998&a
+ mp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Al-Bait Baitkom Open Mic
 DTSTART:20260103T230000Z
 DTEND:20260104T010000Z
