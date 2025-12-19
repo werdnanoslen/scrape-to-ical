@@ -20,26 +20,6 @@ DESCRIPTION:Please join us for a short story discussion on Friday\, Decemb
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251219T160000Z
-DTEND:20251219T180000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter\, and get help with your questions ab
- out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
- org/node/791388
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20251219T160000Z
-DTEND:20251219T180000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by Central Library for he
- lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
- ps://www.bklynlibrary.org/node/795477
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251219T160000Z
 DTEND:20251219T210000Z
@@ -383,5 +363,22 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  89
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
+DTSTART:20251227T193000Z
+DTEND:20251227T213000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing.\
+ n\nhttps://www.bklynlibrary.org/node/798609
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20251229T160000Z
+DTEND:20251229T200000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/783572
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
