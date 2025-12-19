@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20251219T160000Z
-DTEND:20251219T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/799936
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYC Mayor’s Public Engagement Unit at Central Library
 DTSTART:20251219T190000Z
 DTEND:20251219T220000Z
@@ -29,15 +19,6 @@ DESCRIPTION:The Mayor’s Public Engagement Unit (PEU) is holding tabling
   with essential city services. These sessions are designed for anyo\n\nhtt
  ps://www.bklynlibrary.org/node/800445
 LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Crafting: Holiday Card
-DTSTART:20251219T193000Z
-DTEND:20251219T210000Z
-DESCRIPTION:Join us to create a holiday card! We will provide all the mate
- rials you need. Perfect for creatives of all levels! No registration is re
- quired.\n\nhttps://www.bklynlibrary.org/node/797539
-LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
@@ -383,5 +364,22 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  r help with your resume\, cover letter\, interview\, and job search\n\nhtt
  ps://www.bklynlibrary.org/node/794855
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20251229T200000Z
+DTEND:20251229T220000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /790384
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251229T213000Z
+DTEND:20251229T230000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 79
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
