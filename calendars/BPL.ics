@@ -11,46 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20251218T223000Z
-DTEND:20251218T003000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/792771
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20251218T230000Z
-DTEND:20251218T003000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/793525
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National External Diploma Program (NEDP) Info. Session
-DTSTART:20251218T233000Z
-DTEND:20251218T003000Z
-DESCRIPTION:Looking for a different way to earn your high school equivalen
- cy diploma? The National External Diploma Program could be right for you! 
- Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
- ://www.bklynlibrary.org/node/793278
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National External Diploma Program (NEDP) Info. Session
-DTSTART:20251218T233000Z
-DTEND:20251218T003000Z
-DESCRIPTION:Looking for a different way to earn your high school equivalen
- cy diploma? The National External Diploma Program could be right for you! 
- Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
- ://www.bklynlibrary.org/node/800194
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Short Story Discussion Group
 DTSTART:20251219T070000Z
 DTEND:20251219T200000Z
@@ -384,5 +344,42 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/799937
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20251226T160000Z
+DTEND:20251226T180000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by Central Library for he
+ lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
+ ps://www.bklynlibrary.org/node/795478
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20251226T180000Z
+DTEND:20251226T200000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 68
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20251226T190000Z
+DTEND:20251226T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/793697
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group
+DTSTART:20251227T153000Z
+DTEND:20251227T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 89
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
