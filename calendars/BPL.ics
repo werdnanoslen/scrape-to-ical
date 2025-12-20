@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Jigsaw Puzzle Contest
-DTSTART:20251220T180000Z
-DTEND:20251220T210000Z
-DESCRIPTION:This Jigsaw Puzzle Contest is open to teams of all ages! Every
-  team will be provided with the same 500-piece puzzle\, and the first to f
- inish wins. All will be allowed to finish.\n\nhttps://www.bklynlibrary.org
- /node/797568
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
 DTSTART:20251220T193000Z
 DTEND:20251220T213000Z
@@ -381,5 +371,13 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
   Heights.\n\nhttps://www.bklynlibrary.org/node/798030
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: Sound of Metal (2019)
+DTSTART:20250102T153000Z
+DTEND:20250102T173000Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
+ n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/800409
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
