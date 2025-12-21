@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20251221T100550Z
-DTEND;VALUE=DATE:20251221T120550Z
-UID:Lightscape-2025-12-21 10:05:50.615768+00:00
+DTSTART;VALUE=DATE:20251221T110619Z
+DTEND;VALUE=DATE:20251221T130619Z
+UID:Lightscape-2025-12-21 11:06:19.720679+00:00
 DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
  	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
   most dazzling light show! Celebrate the beauty of nature in winter on thi
@@ -27,9 +27,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251221T100550Z
-DTEND;VALUE=DATE:20251221T120550Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-21 10:05:50.616208+00:
+DTSTART;VALUE=DATE:20251221T110619Z
+DTEND;VALUE=DATE:20251221T130619Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-21 11:06:19.721111+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -38,35 +38,6 @@ DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kokedama
-DTSTART;VALUE=DATE:20251220T050000Z
-DTEND;VALUE=DATE:20251220T070000Z
-UID:Kokedama-2025-12-20 05:00:00+00:00
-DESCRIPTION:Saturday\, December 20\, 2025 | 10 a.m.–12 p.m. or 1–3 p.m
- .\n					\n\n\n					\n						\n							| Preregistration Required\n\nKokedama
-  is the Japanese practice of creating living planters out of moss. Make tw
- o new easy-care kokedama to take home.Learn More›about Kokedama\n\nMore 
- info:\nhttps://www.bbg.org/classes/kokedama\n\n<img src="/img/uploads/hero
- /_list_thumbnail_regular/kokedama_LP_151201-18_adj.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Art of Bonsai
-DTSTART;VALUE=DATE:20251220T050000Z
-DTEND;VALUE=DATE:20251220T070000Z
-UID:Art of Bonsai-2025-12-20 05:00:00+00:00
-DESCRIPTION:Single session on Saturday\, November 22\, 2025 | 12–3 p.m. 
- or Saturday\, December 20\, 2025 | 10:30 a.m.–1:30 p.m.\n					\n\n\n				
- 	\n						| Waitlist Only\n\nDive into bonsai design with this interactive 
- class. You’ll explore the creative process of designing and shaping your
-  own bonsai.Learn More›about Art of Bonsai\n\nMore info:\nhttps://www.bb
- g.org/classes/art_of_bonsai_fall_2025\n\n<img src="/img/uploads/hero/_list
- _thumbnail_regular/three-bonsai.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
