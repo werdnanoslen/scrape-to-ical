@@ -29,16 +29,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251222T190000Z
-DTEND:20251222T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter and receive help with your questions 
- about job interviews and your job search.\n\nhttps://www.bklynlibrary.org/
- node/791378
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
 DTSTART:20251222T190000Z
 DTEND:20251222T210000Z
@@ -47,6 +37,16 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  r help with your resume\, cover letter\, interview\, and job search\n\nhtt
  ps://www.bklynlibrary.org/node/794854
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20251222T190000Z
+DTEND:20251222T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter and receive help with your questions 
+ about job interviews and your job search.\n\nhttps://www.bklynlibrary.org/
+ node/791378
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
