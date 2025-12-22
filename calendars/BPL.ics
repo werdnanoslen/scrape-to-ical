@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20251222T160000Z
-DTEND:20251222T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/799930
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20251222T190000Z
-DTEND:20251222T210000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library fo
- r help with your resume\, cover letter\, interview\, and job search\n\nhtt
- ps://www.bklynlibrary.org/node/794854
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251222T190000Z
-DTEND:20251222T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter and receive help with your questions 
- about job interviews and your job search.\n\nhttps://www.bklynlibrary.org/
- node/791378
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20251222T200000Z
 DTEND:20251222T220000Z
@@ -364,11 +334,11 @@ LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
-DTSTART:20250102T220000Z
-DTEND:20250102T233000Z
+DTSTART:20250102T180000Z
+DTEND:20250102T200000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7962
- 15
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
+ 09
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
@@ -379,5 +349,33 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  50
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National External Diploma Program (NEDP) Info. Session
+DTSTART:20250103T153000Z
+DTEND:20250103T163000Z
+DESCRIPTION:Looking for a different way to earn your high school equivalen
+ cy diploma? The National External Diploma Program could be right for you! 
+ Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
+ ://www.bklynlibrary.org/node/802273
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250103T180000Z
+DTEND:20250103T200000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 69
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20250103T190000Z
+DTEND:20250103T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/793698
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
