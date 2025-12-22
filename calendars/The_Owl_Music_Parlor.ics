@@ -11,42 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
 BEGIN:VEVENT
-SUMMARY:Dangle • Invisible Guy  Dec 20
-DTSTART:20251221T003000Z
-DTEND:20251221T023000Z
-DTSTAMP:20251221T003000Z
-UID:https://theowl.nyc/calendar?event_id=1728-2025-12-21 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1728\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone wp-image-2935" s
- rc="https://theowl.nyc/wp-content/uploads/dangle-150x150.png" alt="" width
- ="285" height="300" /> <img class="alignnone size-medium wp-image-573" src
- ="https://theowl.nyc/wp-content/uploads/Ben_Goldberg_with_contra_alto_clar
- inet_-_2_-_photo_by_Ken_Weiss-201x300.jpg" alt="" width="201" height="300"
-  /></p>\n<div dir="auto"><b>Dangle </b>is the music project of New York-ba
- sed singer and songwriter Daniel Barbrack which blends alternative\, elect
- ronic\, and folk with a strong choral influence to create their sound. The
-  live lineup is composed of Daniel (voice/bass)\, Adrian Dillulio (voice/g
- uitar)\, Dorée Gordon (voice/guitar)\, and Izzy Da Fonseca (voice/drums)<
- /div>\n<div dir="auto"> </div>\n<div dir="auto"><strong>Invisible Guy </s
- trong>is Michael Coleman • Hamir Atwal  • Joshua Crumbly • Ben Gold
- berg </div>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Julia Easterlin • Taylor Ashton Dec 21
-DTSTART:20251222T003000Z
-DTEND:20251222T023000Z
-DTSTAMP:20251222T003000Z
-UID:https://theowl.nyc/calendar?event_id=1724-2025-12-22 00:30:00+00:00
-DESCRIPTION:https://theowl.nyc/calendar?event_id=1724\n7:30 Doors\n8:00 Mu
- sic \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-i
- mage-2011" src="https://theowl.nyc/wp-content/uploads/Julia-Easterlin-200x
- 300.jpeg" alt="" width="200" height="300" />  <img class="alignnone size-
- medium wp-image-3041" src="https://theowl.nyc/wp-content/uploads/taylor-as
- hton.jpeg-300x287.webp" alt="" width="300" height="287" /></p>
-LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Owl Variations with Innov Gnawa and more!  Dec 27
 DTSTART:20251228T003000Z
 DTEND:20251228T023000Z
@@ -95,6 +59,21 @@ DESCRIPTION:https://theowl.nyc/calendar?event_id=1722\n7:30 Door\n8:00 Mus
  ic \n$35 adv/ $40 door\n<p><img class="alignnone wp-image-3061" src="https
  ://theowl.nyc/wp-content/uploads/back-flyer-bw-300x300.jpg" alt="" width="
  396" height="396" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sayonara!  Early Show with Oren 0'Blivion\, Alex Toth and tba Dec 
+ 31
+DTSTART:20251231T213000Z
+DTEND:20251231T233000Z
+DTSTAMP:20251231T213000Z
+UID:https://theowl.nyc/calendar?event_id=1730-2025-12-31 21:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1730\n4:30 \, show 5pm\n<
+ p><img class="alignnone wp-image-3055 size-medium" src="https://theowl.nyc
+ /wp-content/uploads/Photo-on-11-18-25-at-17.46-7-1-300x200.jpg" alt="" wid
+ th="300" height="200" /> <img class="alignnone size-medium wp-image-2700" 
+ src="https://theowl.nyc/wp-content/uploads/toth-243x300.jpg" alt="" width=
+ "243" height="300" /></p>
 LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
 END:VEVENT
 END:VCALENDAR
