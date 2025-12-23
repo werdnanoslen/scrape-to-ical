@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20251223T143000Z
-DTEND:20251223T173000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/791994
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
 DTSTART:20251223T180000Z
 DTEND:20251223T183000Z
@@ -377,6 +369,16 @@ SUMMARY:Free English Classes (We Speak NYC)
 DTSTART:20250105T163000Z
 DTEND:20250105T183000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/802147
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20250105T210000Z
+DTEND:20250105T220000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/801466
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
