@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20251224T100731Z
-DTEND;VALUE=DATE:20251224T120731Z
-UID:Lightscape-2025-12-24 10:07:31.948547+00:00
+DTSTART;VALUE=DATE:20251224T110758Z
+DTEND;VALUE=DATE:20251224T130758Z
+UID:Lightscape-2025-12-24 11:07:58.378967+00:00
 DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
  	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
   most dazzling light show! Celebrate the beauty of nature in winter on thi
@@ -27,9 +27,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251224T100731Z
-DTEND;VALUE=DATE:20251224T120731Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-24 10:07:31.948988+00:
+DTSTART;VALUE=DATE:20251224T110758Z
+DTEND;VALUE=DATE:20251224T130758Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-24 11:07:58.379392+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -53,6 +53,35 @@ DESCRIPTION:December 5 & 30\, 2025 | 4 p.m.\n					\n\n\n					\n						\n
  re›about Lightscape Sensory-Friendly Early Entry\n\nMore info:\nhttps://
  www.bbg.org/visit/event/lightscape_sensory_friendly\n\n<img src="/img/uplo
  ads/hero/_list_thumbnail_regular/fountain-hero.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Botany for Horticulturists
+DTSTART;VALUE=DATE:20260108T050000Z
+DTEND;VALUE=DATE:20260108T070000Z
+UID:Botany for Horticulturists-2026-01-08 05:00:00+00:00
+DESCRIPTION:8 sessions beginning Thursday\, January 8 or 10 sessions begin
+ ning Wednesday\, January 21\, 2026 \n					\n\n\n					\n						| Waitlist On
+ ly\n\nThis course requires no previous knowledge of botany and is recommen
+ ded as a first course in the Certificate in Horticulture program.Learn Mor
+ e›about Botany for Horticulturists\n\nMore info:\nhttps://www.bbg.org/cl
+ asses/botany_for_horticulturists\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/20WAEGARBB.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter White Centerpiece
+DTSTART;VALUE=DATE:20260108T050000Z
+DTEND;VALUE=DATE:20260108T070000Z
+UID:Winter White Centerpiece-2026-01-08 05:00:00+00:00
+DESCRIPTION:Thursday\, January 8\, 2026 | 5:30–8:30 p.m.\n					\n\n\n			
+ 		\n						\n							| Preregistration Required\n\nExplore the ivory\, cream
+ \, parchment and oyster shades of winter white with a seasonal floral disp
+ lay.Learn More›about Winter White Centerpiece\n\nMore info:\nhttps://www
+ .bbg.org/classes/winter_white_centerpiece\n\n<img src="/img/uploads/hero/_
+ list_thumbnail_regular/white-winter-centerpiece.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
