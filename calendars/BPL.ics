@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20251226T180000Z
-DTEND:20251226T200000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 68
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20251226T190000Z
-DTEND:20251226T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/793697
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20251227T153000Z
 DTEND:20251227T170000Z
@@ -378,5 +360,22 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/799932
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plum Papercraft: Snowflake Star
+DTSTART:20250107T180000Z
+DTEND:20250107T193000Z
+DESCRIPTION:Using squares of white translucent paper ~ fold\, cut\, and as
+ semble ~ to create a three dimensional snowflake window star.\n\nhttps://w
+ ww.bklynlibrary.org/node/796675
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bingo For All Ages
+DTSTART:20250107T210000Z
+DTEND:20250107T220000Z
+DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
+ esday of the month!\n\nhttps://www.bklynlibrary.org/node/801593
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
