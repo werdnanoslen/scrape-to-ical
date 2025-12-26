@@ -182,6 +182,29 @@ DESCRIPTION:https://www.viewcy.com/event/albait_baitkom_open\n<p><img alt=
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mandingo Ambassadors Live
+DTSTART:20260104T010000Z
+DTEND:20260104T030000Z
+DTSTAMP:20260104T010000Z
+UID:Mandingo Ambassadors Live
+DESCRIPTION:https://www.viewcy.com/event/mandingo_ambassadors_2\n<p><img a
+ lt="Mandingo Ambassadors Live thumbnail" class="styles_coverImg__PsR9G" da
+ ta-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element=
+ "Image" data-sentry-source-file="index.tsx" decoding="async" height="186" 
+ loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F022%2F651%2Fcover%2FMandingo_Ambassadors_Live__28Instagram_Post__2845_2
+ 9_29.jpg%3F1766771022&amp\;w=640&amp\;q=100" srcset="/_next/image?url=http
+ s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
+ mages%2F000%2F022%2F651%2Fcover%2FMandingo_Ambassadors_Live__28Instagram_P
+ ost__2845_29_29.jpg%3F1766771022&amp\;w=384&amp\;q=100 1x\, /_next/image?u
+ rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
+ tured_images%2F000%2F022%2F651%2Fcover%2FMandingo_Ambassadors_Live__28Inst
+ agram_Post__2845_29_29.jpg%3F1766771022&amp\;w=640&amp\;q=100 2x" style="c
+ olor: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Umm Kulthum Workshop
 DTSTART:20260105T000000Z
 DTEND:20260105T020000Z
