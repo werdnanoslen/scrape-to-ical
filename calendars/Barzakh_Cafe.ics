@@ -160,4 +160,26 @@ DESCRIPTION:https://www.viewcy.com/event/dawns_aurora\n<p><img alt="Dawn
  mp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Afro-Indigenous Caribbean Sounds
+DTSTART:20260110T010000Z
+DTEND:20260110T030000Z
+DTSTAMP:20260110T010000Z
+UID:Afro-Indigenous Caribbean Sounds
+DESCRIPTION:https://www.viewcy.com/event/afroindigenous_carib\n<p><img alt
+ ="Afro-Indigenous Caribbean Sounds thumbnail" class="styles_coverImg__PsR9
+ G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-ele
+ ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
+ 186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F022%2F707%2Fcover%2FNew_Designs__288_29.jpg%3F1767014583&amp\;w=64
+ 0&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-product
+ ion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F707%2Fcover
+ %2FNew_Designs__288_29.jpg%3F1767014583&amp\;w=384&amp\;q=100 1x\, /_next/
+ image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourse
+ s%2Ffeatured_images%2F000%2F022%2F707%2Fcover%2FNew_Designs__288_29.jpg%3F
+ 1767014583&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="3
+ 08"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
