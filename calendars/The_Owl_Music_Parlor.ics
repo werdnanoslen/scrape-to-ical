@@ -10,4 +10,84 @@ URL:https://raw.githubusercontent.com/werdnanoslen/scrape-to-ical/refs/hea
 X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:The Owl Music Parlor
+BEGIN:VEVENT
+SUMMARY:Owl Variations with Innov Gnawa\, Will Graefe\, Ed Pastorini\, Nus
+ sy Andrews and Elysian Fields duo!  Dec 27
+DTSTART:20251228T003000Z
+DTEND:20251228T023000Z
+DTSTAMP:20251228T003000Z
+UID:https://theowl.nyc/calendar?event_id=1696-2025-12-28 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1696\n7:30 Doors\n8:00 Sh
+ ow \n$15.00 suggested donation\n<p><img class="alignnone size-medium wp-im
+ age-497" src="https://theowl.nyc/wp-content/uploads/Innov-300x207.jpg" alt
+ ="" width="300" height="207" /> <img class="alignnone size-medium wp-image
+ -2124" src="https://theowl.nyc/wp-content/uploads/will-graefe-230x300.jpg"
+  alt="" width="230" height="300" /></p>\n<p><img class="alignnone size-med
+ ium wp-image-1267" src="https://theowl.nyc/wp-content/uploads/Pastorini-30
+ 0x166.png" alt="" width="300" height="166" /> <img class="alignnone size-m
+ edium wp-image-1029" src="https://theowl.nyc/wp-content/uploads/Elysian-Fi
+ elds-0240-by-Michael-Lavine-216x300.jpg" alt="" width="216" height="300" /
+ ></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evil Hour reading series w host Lance Scott Walker Dec 28
+DTSTART:20251229T000000Z
+DTEND:20251229T020000Z
+DTSTAMP:20251229T000000Z
+UID:https://theowl.nyc/calendar?event_id=1729-2025-12-29 00:00:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1729\n7:00 Dooors\n7:30 E
+ vent \n$15.00 suggested donation\n<p><img class="alignnone size-thumbnail 
+ wp-image-3060" src="https://theowl.nyc/wp-content/uploads/images-11-150x15
+ 0.jpeg" alt="" width="150" height="150" /></p>\n<p><strong>Evil Hour Eveni
+ ng Reading</strong> is a series started by writer Lance Scott Walker (<i>D
+ J Screw: A Life In Slow Revolution</i>\, <i>Houston Rap Tapes</i>) in 2017
+  to mark the societal shifts brought on by the new administration. The tit
+ le comes from Gabriel Garcia Marquez's 1962 novel <i>In Evil Hour</i>\, in
+  which political corruption pits the denizens of a small town against one 
+ another (not unlike what is going on in the United States). The series fea
+ tures creatives of all disciplines reading work of their own that touches 
+ on a central theme. With this event being the second to last ever at The O
+ wl Music Parlor\, the theme has been left open to interpretation\, but as 
+ usual Walker will host\, and guests for this evening will be actor/musicia
+ n Kevin Corrigan (<i>Goodfellas</i>\, NY Grim) and former reporter/Democra
+ tic politician Laura Curran\, along with a surprise guest or two. In 2025\
+ , we are still "in evil hour\," and it's more important than ever for us t
+ o come together and share our thoughts\, feelings\, and observations. Join
+  us for the second to last show in this most special venue. </p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SOLD OUT: Kenny Wollesen's Music Of Rose Thorne Dec 29
+DTSTART:20251230T003000Z
+DTEND:20251230T023000Z
+DTSTAMP:20251230T003000Z
+UID:https://theowl.nyc/calendar?event_id=1722-2025-12-30 00:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1722\n7:30 Door\n8:00 Mus
+ ic \n$35 adv/ $40 door\n<p><img class="alignnone wp-image-3061" src="https
+ ://theowl.nyc/wp-content/uploads/back-flyer-bw-300x300.jpg" alt="" width="
+ 396" height="396" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Happy New Year Happy Hour with Oren 0'Blivion\, Tōth\, Freedy Joh
+ nston\, Sophia Wolfson\, Nuria Graham and tba Dec 31
+DTSTART:20251231T213000Z
+DTEND:20251231T233000Z
+DTSTAMP:20251231T213000Z
+UID:https://theowl.nyc/calendar?event_id=1730-2025-12-31 21:30:00+00:00
+DESCRIPTION:https://theowl.nyc/calendar?event_id=1730\n4:30 \, show 5pm\n<
+ p><img class="alignnone wp-image-3055 size-medium" src="https://theowl.nyc
+ /wp-content/uploads/Photo-on-11-18-25-at-17.46-7-1-300x200.jpg" alt="" wid
+ th="300" height="200" /> <img class="alignnone size-medium wp-image-2700" 
+ src="https://theowl.nyc/wp-content/uploads/toth-243x300.jpg" alt="" width=
+ "243" height="300" /> <img class="alignnone size-medium wp-image-2759" src
+ ="https://theowl.nyc/wp-content/uploads/Nuria-Graham-300x300.jpg" alt="" w
+ idth="300" height="300" /> <img class="alignnone size-medium wp-image-2689
+ " src="https://theowl.nyc/wp-content/uploads/Freedy-Johnston-300x214.jpeg"
+  alt="" width="300" height="214" /> <img class="alignnone size-medium wp-i
+ mage-2800" src="https://theowl.nyc/wp-content/uploads/Sofia-Wolfson-212x30
+ 0.jpg" alt="" width="212" height="300" /></p>
+LOCATION:The Owl Music Parlor\, 497 Rogers Ave.\, Brooklyn\, NY 11225
+END:VEVENT
 END:VCALENDAR
