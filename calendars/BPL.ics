@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20251229T160000Z
-DTEND:20251229T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/799931
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20251229T190000Z
-DTEND:20251229T210000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library fo
- r help with your resume\, cover letter\, interview\, and job search\n\nhtt
- ps://www.bklynlibrary.org/node/794855
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20251229T190000Z
-DTEND:20251229T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter and receive help with your questions 
- about job interviews and your job search.\n\nhttps://www.bklynlibrary.org/
- node/791379
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20251229T200000Z
 DTEND:20251229T220000Z
@@ -326,6 +296,16 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20250107T150000Z
+DTEND:20250107T163000Z
+DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
+ 're new to Hebrew\; learn vocabulary\,study grammar\, read stories and tal
+ k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
+ /803916
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Plum Papercraft: Snowflake Star
 DTSTART:20250107T180000Z
 DTEND:20250107T193000Z
@@ -376,5 +356,25 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
  96
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20250108T150000Z
+DTEND:20250108T220000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/791532
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20250108T150000Z
+DTEND:20250108T220000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/791531
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
