@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20251229T101146Z
-DTEND;VALUE=DATE:20251229T121146Z
-UID:Lightscape-2025-12-29 10:11:46.652026+00:00
+DTSTART;VALUE=DATE:20251229T110834Z
+DTEND;VALUE=DATE:20251229T130834Z
+UID:Lightscape-2025-12-29 11:08:34.715031+00:00
 DESCRIPTION:November 21\, 2025–January 4\, 2026\n					\n\n\n					\n					
  	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
   most dazzling light show! Celebrate the beauty of nature in winter on thi
@@ -27,9 +27,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20251229T101146Z
-DTEND;VALUE=DATE:20251229T121146Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-29 10:11:46.652465+00:
+DTSTART;VALUE=DATE:20251229T110834Z
+DTEND;VALUE=DATE:20251229T130834Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2025-12-29 11:08:34.715449+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -96,6 +96,20 @@ DESCRIPTION:6 Sundays: January 11–February 15\, 2026 | 8:30–11 a.m. \n
  klyn\n\nMore info:\nhttps://www.bbg.org/classes/winter_birding_in_brooklyn
  \n\n<img src="/img/uploads/hero/_list_thumbnail_regular/baltimore-oriole_S
  NS_49887144353.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Introduction to Medicinal Plants
+DTSTART;VALUE=DATE:20260113T050000Z
+DTEND;VALUE=DATE:20260113T070000Z
+UID:An Introduction to Medicinal Plants-2026-01-13 05:00:00+00:00
+DESCRIPTION:Tuesday\, January 13\, 2026 | 5:30–7 p.m.\n					\n\n\n			
+ 		\n						| Waitlist Only\n\nLearn about medicinal plants and plant-based 
+ treatments.Learn More›about An Introduction to Medicinal Plants\n\nMore 
+ info:\nhttps://www.bbg.org/classes/an_introduction_to_medicinal_plants\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/An-Introduction-to-Med
+ icinal-Plants_Matthew-Morrison.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
