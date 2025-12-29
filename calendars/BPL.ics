@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20251229T160000Z
-DTEND:20251229T200000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/783572
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20251229T160000Z
 DTEND:20251229T210000Z
@@ -375,5 +367,14 @@ DTSTART:20250108T150000Z
 DTEND:20250108T170000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782603
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250108T150000Z
+DTEND:20250108T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 96
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
