@@ -289,6 +289,15 @@ DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250107T150000Z
+DTEND:20250107T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 28
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Plum Papercraft: Snowflake Star
 DTSTART:20250107T180000Z
 DTEND:20250107T193000Z
@@ -306,6 +315,15 @@ DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
 LOCATION:Brooklyn Heights Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250107T213000Z
+DTEND:20250107T224500Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 57
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:POP CULTURE CLUB
 DTSTART:20250107T223000Z
 DTEND:20250107T233000Z
@@ -314,6 +332,15 @@ DESCRIPTION:Love movies\, TV shows\, comics\, video games\, and all things
  est in entertainment\, share fan theories\, play trivia\, and dive into\n\
  nhttps://www.bklynlibrary.org/node/778786
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20250107T230000Z
+DTEND:20250107T010000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 82
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
@@ -350,33 +377,5 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
  e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
  lynlibrary.org/node/791531
 LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Neighborhood Tech Help
-DTSTART:20250108T150000Z
-DTEND:20250108T220000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/799923
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20250108T153000Z
-DTEND:20250108T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
- 84
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20250108T153000Z
-DTEND:20250108T170000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/792350
-LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
