@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260102T180000Z
-DTEND:20260102T200000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
- 09
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:National External Diploma Program (NEDP) Info. Session
 DTSTART:20260103T153000Z
 DTEND:20260103T163000Z
@@ -47,15 +38,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  50
 LOCATION:Central Library\, Info Commons\, Room 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260103T190000Z
-DTEND:20260103T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/793698
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
@@ -375,5 +357,21 @@ DESCRIPTION:In this program\, Noel D'Allacco-Ammirati discusses the necess
  ary steps and the state and federal requirements needed to form a not-for-
  profit organization.\n\nhttps://www.bklynlibrary.org/node/797403
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260108T190000Z
+DTEND:20260108T200000Z
+DESCRIPTION:Ask a range of tech questions about various tech devices.\n\nh
+ ttps://www.bklynlibrary.org/node/802051
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hayes Greenfield's Sound Play\, Sound Sculpture Workshops
+DTSTART:20260108T200000Z
+DTEND:20260108T210000Z
+DESCRIPTION:January-February 2026\n\nhttps://www.bklynlibrary.org/node/802
+ 904
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
