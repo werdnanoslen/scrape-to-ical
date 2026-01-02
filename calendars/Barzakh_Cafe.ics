@@ -97,6 +97,28 @@ DESCRIPTION:https://www.viewcy.com/event/mandingo_ambassadors_2\n<p><img a
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Terhal Band's Last Night in NYC!
+DTSTART:20260104T030000Z
+DTEND:20260104T050000Z
+DTSTAMP:20260104T030000Z
+UID:Terhal Band's Last Night in NYC!
+DESCRIPTION:https://www.viewcy.com/event/terhal_bands_farewel\n<p><img alt
+ ="Terhal Band's Last Night in NYC! thumbnail" class="styles_coverImg__PsR9
+ G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-ele
+ ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
+ 186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F022%2F769%2Fcover%2F656D4D99-1A5F-487F-B96F-059A13613560.jpg%3F176
+ 7386140&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fview
+ cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
+ 022%2F769%2Fcover%2F656D4D99-1A5F-487F-B96F-059A13613560.jpg%3F1767386140&
+ amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-pr
+ oduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F769%2F
+ cover%2F656D4D99-1A5F-487F-B96F-059A13613560.jpg%3F1767386140&amp\;w=640&a
+ mp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Umm Kulthum Workshop
 DTSTART:20260105T000000Z
 DTEND:20260105T020000Z
