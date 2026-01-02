@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Movie: Sound of Metal (2019)
-DTSTART:20260102T153000Z
-DTEND:20260102T173000Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
- n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/800409
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260102T160000Z
-DTEND:20260102T180000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter\, and get help with your questions ab
- out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
- org/node/791390
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260102T170000Z
 DTEND:20260102T210000Z
@@ -165,6 +147,14 @@ DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
  ction program\, offering workshops and other instruction at Brooklyn Publi
  c Library.\n\nhttps://www.bklynlibrary.org/node/785096
 LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260106T143000Z
+DTEND:20260106T173000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/804442
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resume Coaching
@@ -376,5 +366,13 @@ DESCRIPTION:In this program\, Noel D'Allacco-Ammirati discusses the necess
  ary steps and the state and federal requirements needed to form a not-for-
  profit organization.\n\nhttps://www.bklynlibrary.org/node/797403
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260108T190000Z
+DTEND:20260108T200000Z
+DESCRIPTION:Ask a range of tech questions about various tech devices.\n\nh
+ ttps://www.bklynlibrary.org/node/802051
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
