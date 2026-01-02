@@ -29,21 +29,22 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260102T170000Z
+DTEND:20260102T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/804415
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260102T180000Z
 DTEND:20260102T200000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
  09
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260103T150000Z
-DTEND:20260103T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 50
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
@@ -58,12 +59,12 @@ LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
-DTSTART:20260103T180000Z
-DTEND:20260103T200000Z
+DTSTART:20260103T153000Z
+DTEND:20260103T170000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 69
-LOCATION:Central Library\, Info Commons\, Room 7
+ 50
+LOCATION:Central Library\, Info Commons\, Room 5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual French Conversation Group
@@ -191,15 +192,6 @@ DTEND:20260106T220000Z
 DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/80335
  8
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260106T213000Z
-DTEND:20260106T230000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 80
-LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
@@ -375,5 +367,14 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
  ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
  rary.org/node/792479
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Year\, New You! Starting a Nonprofit
+DTSTART:20260108T180000Z
+DTEND:20260108T190000Z
+DESCRIPTION:In this program\, Noel D'Allacco-Ammirati discusses the necess
+ ary steps and the state and federal requirements needed to form a not-for-
+ profit organization.\n\nhttps://www.bklynlibrary.org/node/797403
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
