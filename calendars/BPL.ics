@@ -258,6 +258,15 @@ DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
 LOCATION:Brooklyn Heights Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260107T210000Z
+DTEND:20260107T220000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804507
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260107T213000Z
 DTEND:20260107T224500Z
@@ -366,13 +375,5 @@ DESCRIPTION:In this program\, Noel D'Allacco-Ammirati discusses the necess
  ary steps and the state and federal requirements needed to form a not-for-
  profit organization.\n\nhttps://www.bklynlibrary.org/node/797403
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260108T190000Z
-DTEND:20260108T200000Z
-DESCRIPTION:Ask a range of tech questions about various tech devices.\n\nh
- ttps://www.bklynlibrary.org/node/802051
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
