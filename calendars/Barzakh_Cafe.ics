@@ -141,4 +141,26 @@ DESCRIPTION:https://www.viewcy.com/event/afroindigenous_carib\n<p><img alt
  08"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cool Out Vol. 4
+DTSTART:20260119T010000Z
+DTEND:20260119T030000Z
+DTSTAMP:20260119T010000Z
+UID:The Cool Out Vol. 4
+DESCRIPTION:https://www.viewcy.com/event/the_cool_out_vol_4\n<p><img alt="
+ The Cool Out Vol. 4 thumbnail" class="styles_coverImg__PsR9G" data-nimg="1
+ " data-sentry-component="ImageWithFallback" data-sentry-element="Image" da
+ ta-sentry-source-file="index.tsx" decoding="async" height="186" loading="l
+ azy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-hero
+ ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F7
+ 86%2Fcover%2FScreenshot_2026-01-03_at_3.00.03_E2_80_AFPM.jpg%3F1767470572&
+ amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F78
+ 6%2Fcover%2FScreenshot_2026-01-03_at_3.00.03_E2_80_AFPM.jpg%3F1767470572&a
+ mp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-pro
+ duction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F786%2Fc
+ over%2FScreenshot_2026-01-03_at_3.00.03_E2_80_AFPM.jpg%3F1767470572&amp\;w
+ =640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
