@@ -84,6 +84,16 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/802147
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260105T190000Z
+DTEND:20260105T210000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/804698
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20260105T200000Z
 DTEND:20260105T220000Z
@@ -363,14 +373,5 @@ DTEND:20260108T210000Z
 DESCRIPTION:January-February 2026\n\nhttps://www.bklynlibrary.org/node/802
  904
 LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260108T220000Z
-DTEND:20260108T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7962
- 16
-LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
