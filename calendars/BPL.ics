@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
-DTSTART:20260103T193000Z
-DTEND:20260103T213000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing.\
- n\nhttps://www.bklynlibrary.org/node/798610
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feng Shui and I Ching
-DTSTART:20260103T203000Z
-DTEND:20260103T220000Z
-DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
- arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
- ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
- ps://www.bklynlibrary.org/node/798638
-LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYC Livecode Meetup
 DTSTART:20260104T183000Z
 DTEND:20260104T213000Z
@@ -373,5 +354,24 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7962
  16
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260108T223000Z
+DTEND:20260108T000000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792408
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260108T223000Z
+DTEND:20260108T003000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/792772
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
