@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:NYC Livecode Meetup
-DTSTART:20260104T183000Z
-DTEND:20260104T213000Z
-DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers 
- to discuss\, promote\, and explore real-time programming. Our meetups are 
- open to all. Come with works in progress to show\, with ideas to bo\n\nhtt
- ps://www.bklynlibrary.org/node/800623
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260105T160000Z
 DTEND:20260105T210000Z
@@ -373,5 +363,15 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/792772
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20260108T223000Z
+DTEND:20260108T233000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/796963
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
