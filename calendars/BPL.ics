@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:LevelUP Information Session
-DTSTART:20260105T220000Z
-DTEND:20260105T230000Z
-DESCRIPTION:Join Brooklyn Public Library's LevelUP Program for an Informat
- ion Session on our upcoming cohort launching Spring 2026. During this virt
- ual session\, participants will have the opportunity to learn mor\n\nhttps
- ://www.bklynlibrary.org/node/799088
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOSSS Guided Music Production Session: Beginner
 DTSTART:20260105T223000Z
 DTEND:20260105T003000Z
@@ -374,5 +364,15 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/799939
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260109T160000Z
+DTEND:20260109T180000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/804752
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
