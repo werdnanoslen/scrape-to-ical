@@ -137,6 +137,16 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20260106T230000Z
+DTEND:20260106T003000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/804917
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LGBTQ+ Book Discussion: Sister Outsider by Audre Lorde
 DTSTART:20260106T233000Z
 DTEND:20260106T003000Z
@@ -363,15 +373,5 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/792772
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260108T223000Z
-DTEND:20260108T233000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/796963
-LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
