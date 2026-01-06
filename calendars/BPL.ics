@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260106T190000Z
-DTEND:20260106T210000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library fo
- r help with your resume\, cover letter\, interview\, and job search\n\nhtt
- ps://www.bklynlibrary.org/node/794856
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260106T190000Z
-DTEND:20260106T210000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/801734
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20260106T200000Z
 DTEND:20260106T220000Z
@@ -378,5 +358,22 @@ DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
  e first Friday of each month. Join us for Denis Villeneuve's 2016 movie Ar
  rival\, starring Amy Adams.\n\nhttps://www.bklynlibrary.org/node/799627
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Molière in the Park presents Don Juan
+DTSTART:20260110T000000Z
+DTEND:20260110T013000Z
+DESCRIPTION:Brooklyn's Free Theater\, Molière in the Park returns to BPL
+  this January with a staged reading of Molière's classic Don Juan!\n\n
+ https://www.bklynlibrary.org/node/797709
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260110T143000Z
+DTEND:20260110T173000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/804454
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
