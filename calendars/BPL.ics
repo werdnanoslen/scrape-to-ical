@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20260106T143000Z
-DTEND:20260106T173000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/804442
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resume Coaching
 DTSTART:20260106T190000Z
 DTEND:20260106T210000Z
@@ -376,5 +368,14 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
  ://www.bklynlibrary.org/node/793699
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Film Club: Arrival (2016)
+DTSTART:20260109T190000Z
+DTEND:20260109T210000Z
+DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
+ e first Friday of each month. Join us for Denis Villeneuve's 2016 movie Ar
+ rival\, starring Amy Adams.\n\nhttps://www.bklynlibrary.org/node/799627
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
