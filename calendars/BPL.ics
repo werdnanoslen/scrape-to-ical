@@ -11,43 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260107T150000Z
-DTEND:20260107T220000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/799932
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260107T200000Z
-DTEND:20260107T220000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
- ne-on-one review of your resume or cover letter and get help with your que
- stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
- .org/node/804727
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group
-DTSTART:20260107T210000Z
-DTEND:20260107T220000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804507
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bingo For All Ages
-DTSTART:20260107T210000Z
-DTEND:20260107T220000Z
-DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
- esday of the month!\n\nhttps://www.bklynlibrary.org/node/801593
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260107T213000Z
 DTEND:20260107T224500Z
@@ -312,6 +275,16 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Open Mic Poetry with Artful Dodger Poetry
+DTSTART:20260110T190000Z
+DTEND:20260110T210000Z
+DESCRIPTION:Come and join Artful Dodger Poetry to hear poets read aloud th
+ eir work and discuss poetry! Bring something you are working on to join th
+ e open mic or just enjoy listening to others. Come experience or\n\nhttps:
+ //www.bklynlibrary.org/node/805630
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
 DTSTART:20260110T193000Z
 DTEND:20260110T213000Z
@@ -372,5 +345,31 @@ DTSTART:20260112T163000Z
 DTEND:20260112T183000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/802148
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20260112T163000Z
+DTEND:20260112T200000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/804243
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book Discussion: Absolution
+DTSTART:20260112T170000Z
+DTEND:20260112T180000Z
+DESCRIPTION:Please join Park Slope Library for a discussion of Absolution 
+ by Alice McDermott.\n\nhttps://www.bklynlibrary.org/node/797843
+LOCATION:Park Slope\, Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20260112T180000Z
+DTEND:20260112T190000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/805238
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
