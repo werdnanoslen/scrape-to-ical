@@ -31,14 +31,6 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bingo For All Ages
-DTSTART:20260107T210000Z
-DTEND:20260107T220000Z
-DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
- esday of the month!\n\nhttps://www.bklynlibrary.org/node/801593
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Virtual English Conversation Group
 DTSTART:20260107T210000Z
 DTEND:20260107T220000Z
@@ -46,6 +38,14 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/804507
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bingo For All Ages
+DTSTART:20260107T210000Z
+DTEND:20260107T220000Z
+DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
+ esday of the month!\n\nhttps://www.bklynlibrary.org/node/801593
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
