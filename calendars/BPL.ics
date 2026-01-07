@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plum Papercraft: Snowflake Star
-DTSTART:20260107T180000Z
-DTEND:20260107T193000Z
-DESCRIPTION:Using squares of white translucent paper ~ fold\, cut\, and as
- semble ~ to create a three dimensional snowflake window star.\n\nhttps://w
- ww.bklynlibrary.org/node/796675
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260107T200000Z
 DTEND:20260107T220000Z
@@ -374,5 +365,12 @@ DTEND:20260112T180000Z
 DESCRIPTION:The library offers free English classes for beginners learning
   English.\n\nhttps://www.bklynlibrary.org/node/805253
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Free English Classes (We Speak NYC)
+DTSTART:20260112T163000Z
+DTEND:20260112T183000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/802148
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
