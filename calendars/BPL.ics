@@ -230,15 +230,6 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260108T230000Z
-DTEND:20260108T010000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 17
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260108T230000Z
 DTEND:20260108T010000Z
@@ -374,5 +365,15 @@ DTEND:20260112T163000Z
 DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
  \nhttps://www.bklynlibrary.org/node/801957
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260112T160000Z
+DTEND:20260112T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/799933
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
