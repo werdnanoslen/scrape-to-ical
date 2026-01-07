@@ -98,6 +98,28 @@ DESCRIPTION:https://www.viewcy.com/event/brooklynchaabiproject\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Habibi Gün vs. Ayman Asfour
+DTSTART:20260117T030000Z
+DTEND:20260117T050000Z
+DTSTAMP:20260117T030000Z
+UID:Habibi Gün vs. Ayman Asfour
+DESCRIPTION:https://www.viewcy.com/event/habibi_gn_vs_ayman\n<p><img alt="
+ Habibi Gün vs. Ayman Asfour thumbnail" class="styles_coverImg__PsR9G" dat
+ a-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="
+ Image" data-sentry-source-file="index.tsx" decoding="async" height="186" l
+ oading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvi
+ ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
+ 2F022%2F923%2Fcover%2FNew_Designs__281_29.jpg%3F1767810176&amp\;w=640&amp\
+ ;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3
+ .amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F923%2Fcover%2FNew
+ _Designs__281_29.jpg%3F1767810176&amp\;w=384&amp\;q=100 1x\, /_next/image?
+ url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
+ atured_images%2F000%2F022%2F923%2Fcover%2FNew_Designs__281_29.jpg%3F176781
+ 0176&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/><
+ /p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zambra
 DTSTART:20260118T010000Z
 DTEND:20260118T030000Z
