@@ -40,15 +40,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New Year\, New You! Starting a Nonprofit
-DTSTART:20260108T180000Z
-DTEND:20260108T190000Z
-DESCRIPTION:In this program\, Noel D'Allacco-Ammirati discusses the necess
- ary steps and the state and federal requirements needed to form a not-for-
- profit organization.\n\nhttps://www.bklynlibrary.org/node/797403
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ask A Tech
 DTSTART:20260108T190000Z
 DTEND:20260108T200000Z
@@ -373,5 +364,14 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
  s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
  ps://www.bklynlibrary.org/node/801467
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260112T213000Z
+DTEND:20260112T230000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 81
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
