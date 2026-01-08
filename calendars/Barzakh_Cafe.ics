@@ -163,9 +163,9 @@ LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ahmet Erdoğdular Ensemble
-DTSTART:20260119T000000Z
-DTEND:20260119T020000Z
-DTSTAMP:20260119T000000Z
+DTSTART:20260118T230000Z
+DTEND:20260119T010000Z
+DTSTAMP:20260118T230000Z
 UID:Ahmet Erdoğdular Ensemble
 DESCRIPTION:https://www.viewcy.com/event/ahmet_erdodular_ense\n<p><img alt
  ="Ahmet Erdoğdular Ensemble thumbnail" class="styles_coverImg__PsR9G" dat
@@ -173,13 +173,13 @@ DESCRIPTION:https://www.viewcy.com/event/ahmet_erdodular_ense\n<p><img alt
  Image" data-sentry-source-file="index.tsx" decoding="async" height="186" l
  oading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvi
  ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
- 2F022%2F928%2Fcover%2FNew_Designs__284_29.jpg%3F1767820184&amp\;w=640&amp\
+ 2F022%2F928%2Fcover%2FNew_Designs__281_29.jpg%3F1767891167&amp\;w=640&amp\
  ;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3
  .amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F928%2Fcover%2FNew
- _Designs__284_29.jpg%3F1767820184&amp\;w=384&amp\;q=100 1x\, /_next/image?
+ _Designs__281_29.jpg%3F1767891167&amp\;w=384&amp\;q=100 1x\, /_next/image?
  url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
- atured_images%2F000%2F022%2F928%2Fcover%2FNew_Designs__284_29.jpg%3F176782
- 0184&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/><
+ atured_images%2F000%2F022%2F928%2Fcover%2FNew_Designs__281_29.jpg%3F176789
+ 1167&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/><
  /p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
@@ -217,14 +217,15 @@ DESCRIPTION:https://www.viewcy.com/event/eden_zane__nagat__l\n<p><img alt=
  y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
  ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
  %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
- ages%2F000%2F022%2F935%2Fcover%2FNew_Designs__281_29.jpg%3F1767880139&amp\
- ;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-pr
- oduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F935%2F
- cover%2FNew_Designs__281_29.jpg%3F1767880139&amp\;w=384&amp\;q=100 1x\, /_
- next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fc
- ourses%2Ffeatured_images%2F000%2F022%2F935%2Fcover%2FNew_Designs__281_29.j
- pg%3F1767880139&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wid
- th="308"/></p>
+ ages%2F000%2F022%2F935%2Fcover%2FWhatsApp_Image_2026-01-08_at_10.32.21_PM.
+ jpg%3F1767891847&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%
+ 2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images
+ %2F000%2F022%2F935%2Fcover%2FWhatsApp_Image_2026-01-08_at_10.32.21_PM.jpg%
+ 3F1767891847&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fvie
+ wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
+ F022%2F935%2Fcover%2FWhatsApp_Image_2026-01-08_at_10.32.21_PM.jpg%3F176789
+ 1847&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/><
+ /p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
