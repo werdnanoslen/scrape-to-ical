@@ -30,13 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260108T150000Z
-DTEND:20260108T170000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782603
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20260108T150000Z
 DTEND:20260108T220000Z
@@ -45,6 +38,13 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
  e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
  lynlibrary.org/node/791531
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20260108T150000Z
+DTEND:20260108T170000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782603
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
