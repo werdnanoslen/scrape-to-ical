@@ -31,14 +31,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hayes Greenfield's Sound Play\, Sound Sculpture Workshops
-DTSTART:20260108T200000Z
-DTEND:20260108T210000Z
-DESCRIPTION:January-February 2026\n\nhttps://www.bklynlibrary.org/node/802
- 904
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260108T220000Z
 DTEND:20260108T233000Z
@@ -373,5 +365,12 @@ DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
  ction program\, offering workshops and other instruction at Brooklyn Publi
  c Library.\n\nhttps://www.bklynlibrary.org/node/780412
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20260112T224500Z
+DTEND:20260112T004500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/804937
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
