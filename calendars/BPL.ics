@@ -31,6 +31,16 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260109T160000Z
+DTEND:20260109T180000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library fo
+ r help with your resume\, cover letter\, interview\, and job search\n\nhtt
+ ps://www.bklynlibrary.org/node/805870
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260109T180000Z
 DTEND:20260109T200000Z
@@ -358,16 +368,6 @@ DESCRIPTION:This presentation will cover the fundamentals of contracts for
   small business owners\, including how to create a contract\, key provisio
  ns to include\, how to handle breaches\, and important tips and remi\n\nht
  tps://www.bklynlibrary.org/node/786699
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Crafting Circle
-DTSTART:20260113T210000Z
-DTEND:20260113T220000Z
-DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
- Join our virtual crafting circle! Every 2nd and 4th Tuesday of the month\,
-  get together with fellow crafters to chat and discuss what you'r\n\nhttps
- ://www.bklynlibrary.org/node/801582
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
