@@ -270,4 +270,26 @@ DESCRIPTION:https://www.viewcy.com/event/wild_woman\n<p><img alt="Wild Wom
  parent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Retreat: The Clearing to the Sublime
+DTSTART:20260206T180000Z
+DTEND:20260206T200000Z
+DTSTAMP:20260206T180000Z
+UID:Winter Retreat: The Clearing to the Sublime
+DESCRIPTION:https://www.viewcy.com/event/winter_retreat_the_c\n<p><img alt
+ ="Winter Retreat: The Clearing to the Sublime thumbnail" class="styles_cov
+ erImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data
+ -sentry-element="Image" data-sentry-source-file="index.tsx" decoding="asyn
+ c" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F022%2F957%2Fcover%2FB0D68392-0659-4C2B-BF18-650A2BA4E20
+ 7.jpg%3F1767993253&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3
+ A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
+ es%2F000%2F022%2F957%2Fcover%2FB0D68392-0659-4C2B-BF18-650A2BA4E207.jpg%3F
+ 1767993253&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewc
+ y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
+ 22%2F957%2Fcover%2FB0D68392-0659-4C2B-BF18-650A2BA4E207.jpg%3F1767993253&a
+ mp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
