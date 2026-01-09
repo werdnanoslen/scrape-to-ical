@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260109T180000Z
-DTEND:20260109T200000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
- 10
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260109T190000Z
-DTEND:20260109T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/793699
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Friday Film Club: Arrival (2016)
 DTSTART:20260109T190000Z
 DTEND:20260109T210000Z
@@ -369,5 +351,25 @@ DESCRIPTION:Looking to share your current knitting project with others? Co
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
  s://www.bklynlibrary.org/node/786068
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accompany Capital Small Business Hub - Orientation Session
+DTSTART:20260113T220000Z
+DTEND:20260113T233000Z
+DESCRIPTION:Interested in starting or growing a small business in New York
+  City? Join this orientation session to learn about Accompany Capital’s 
+ affordable business loans and hands-on business support for NYC-ba\n\nhttp
+ s://www.bklynlibrary.org/node/801559
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ken Siegelman’s Brooklyn Poetry Outreach Featuring Mike Figliola
+DTSTART:20260113T223000Z
+DTEND:20260113T003000Z
+DESCRIPTION:Mike Figliola is an author and television producer who has wri
+ tten hundreds of poems and has read them live at such venues as the famed 
+ Cornelia Street Café in NYC with actor John Ventimiglia and poet\n\nhttp
+ s://www.bklynlibrary.org/node/804368
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
