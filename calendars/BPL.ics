@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Molière in the Park presents Don Juan
-DTSTART:20260110T000000Z
-DTEND:20260110T013000Z
-DESCRIPTION:Brooklyn's Free Theater\, Molière in the Park returns to BPL
-  this January with a staged reading of Molière's classic Don Juan!\n\n
- https://www.bklynlibrary.org/node/797709
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260110T143000Z
 DTEND:20260110T173000Z
@@ -371,5 +362,14 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
  nlibrary.org/node/804918
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260113T230000Z
+DTEND:20260113T010000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/804959
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
