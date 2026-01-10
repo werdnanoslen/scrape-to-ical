@@ -11,45 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Audition Essentials
-DTSTART:20260109T230000Z
-DTEND:20260110T020000Z
-DTSTAMP:20260109T230000Z
-UID:Audition Essentials-2026-01-09T23:00:00+00:00
-DESCRIPTION:Cost: 25\nhttps://bricartsmedia.org/class/audition-essentials/
- \nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Produce Remotely
-DTSTART:20260109T160000Z
-DTEND:20260109T180000Z
-DTSTAMP:20260109T160000Z
-UID:Produce Remotely-2026-01-09T16:00:00+00:00
-DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/produce-remotely/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Make a Digital Story 
-DTSTART:20260109T190000Z
-DTEND:20260109T210000Z
-DTSTAMP:20260109T190000Z
-UID:Make a Digital Story -2026-01-09T19:00:00+00:00
-DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/make-a-digital-sto
- ry/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Studio Podcasting
-DTSTART:20260109T180000Z
-DTEND:20260109T220000Z
-DTSTAMP:20260109T180000Z
-UID:Studio Podcasting-2026-01-09T18:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/studio-podcasting/\
- nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Accelerated TV Studio
 DTSTART:20260110T190000Z
 DTEND:20260110T220000Z
@@ -361,16 +322,6 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:3D Modeling with Blender
-DTSTART:20260121T190000Z
-DTEND:20260121T220000Z
-DTSTAMP:20260121T190000Z
-UID:3D Modeling with Blender-2026-01-21T19:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/3d-modeling-with-bl
- ender/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Video Production in the Field
 DTSTART:20260121T190000Z
 DTEND:20260121T220000Z
@@ -378,6 +329,16 @@ DTSTAMP:20260121T190000Z
 UID:Video Production in the Field-2026-01-21T19:00:00+00:00
 DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
  -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D Modeling with Blender
+DTSTART:20260121T190000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260121T190000Z
+UID:3D Modeling with Blender-2026-01-21T19:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/3d-modeling-with-bl
+ ender/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -721,16 +682,6 @@ DESCRIPTION:Cost: 60\nhttps://bricartsmedia.org/class/photoshop-essentials
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Radio Podcasting
-DTSTART:20260202T230000Z
-DTEND:20260203T020000Z
-DTSTAMP:20260202T230000Z
-UID:Intro to Radio Podcasting-2026-02-02T23:00:00+00:00
-DESCRIPTION:Cost: 75\nhttps://bricartsmedia.org/class/intro-to-radio-podca
- sting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Capture Your World: Teen Photography Bootcamp - Cycle 2
 DTSTART:20260202T210000Z
 DTEND:20260202T230000Z
@@ -744,6 +695,16 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/capture-your-world
  d-73.9477896!16s%2Fg%2F1tqtysw9?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAF
  QAw%3D%3D
 LOCATION:Clarendon Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Radio Podcasting
+DTSTART:20260202T230000Z
+DTEND:20260203T020000Z
+DTSTAMP:20260202T230000Z
+UID:Intro to Radio Podcasting-2026-02-02T23:00:00+00:00
+DESCRIPTION:Cost: 75\nhttps://bricartsmedia.org/class/intro-to-radio-podca
+ sting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Capture Your World: Teen Photography Bootcamp - Cycle 2
@@ -800,16 +761,6 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Radio Podcasting
-DTSTART:20260204T230000Z
-DTEND:20260205T020000Z
-DTSTAMP:20260204T230000Z
-UID:Intro to Radio Podcasting-2026-02-04T23:00:00+00:00
-DESCRIPTION:Cost: 75\nhttps://bricartsmedia.org/class/intro-to-radio-podca
- sting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Color Grading in DaVinci Resolve
 DTSTART:20260204T190000Z
 DTEND:20260204T220000Z
@@ -817,6 +768,16 @@ DTSTAMP:20260204T190000Z
 UID:Intro to Color Grading in DaVinci Resolve-2026-02-04T19:00:00+00:00
 DESCRIPTION:Cost: 20\nhttps://bricartsmedia.org/class/intro-to-color-gradi
  ng-in-davinci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Radio Podcasting
+DTSTART:20260204T230000Z
+DTEND:20260205T020000Z
+DTSTAMP:20260204T230000Z
+UID:Intro to Radio Podcasting-2026-02-04T23:00:00+00:00
+DESCRIPTION:Cost: 75\nhttps://bricartsmedia.org/class/intro-to-radio-podca
+ sting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -970,26 +931,6 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/capture-your-world
 LOCATION:Clarendon Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
-DTSTART:20260210T230000Z
-DTEND:20260211T020000Z
-DTSTAMP:20260210T230000Z
-UID:Video Editing with Premiere -2026-02-10T23:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20260210T230000Z
-DTEND:20260211T020000Z
-DTSTAMP:20260210T230000Z
-UID:TV Studio Intensive-2026-02-10T23:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Teen Filmmaking Bootcamp (Winter 2026)
 DTSTART:20260210T210000Z
 DTEND:20260210T230000Z
@@ -1012,6 +953,26 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brooklyn-poetry-sl
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20260210T230000Z
+DTEND:20260211T020000Z
+DTSTAMP:20260210T230000Z
+UID:Video Editing with Premiere -2026-02-10T23:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20260210T230000Z
+DTEND:20260211T020000Z
+DTSTAMP:20260210T230000Z
+UID:TV Studio Intensive-2026-02-10T23:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to Radio Podcasting
 DTSTART:20260211T230000Z
 DTEND:20260212T020000Z
@@ -1032,6 +993,16 @@ DESCRIPTION:Cost: $150 \nhttps://bricartsmedia.org/class/bric-podcast-inte
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stop-Motion Animation Techniques 
+DTSTART:20260212T160000Z
+DTEND:20260212T180000Z
+DTSTAMP:20260212T160000Z
+UID:Stop-Motion Animation Techniques -2026-02-12T16:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/stop-motion-animat
+ ion-techniques/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Video Production in the Field
 DTSTART:20260212T190000Z
 DTEND:20260212T220000Z
@@ -1039,6 +1010,36 @@ DTSTAMP:20260212T190000Z
 UID:Video Production in the Field-2026-02-12T19:00:00+00:00
 DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
  -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produce Remotely
+DTSTART:20260212T190000Z
+DTEND:20260212T210000Z
+DTSTAMP:20260212T190000Z
+UID:Produce Remotely-2026-02-12T19:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/produce-remotely/\
+ nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260212T230000Z
+DTEND:20260213T020000Z
+DTSTAMP:20260212T230000Z
+UID:Video Production in the Field-2026-02-12T23:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20260213T190000Z
+DTEND:20260213T220000Z
+DTSTAMP:20260213T190000Z
+UID:Mini Studio Production-2026-02-13T19:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
