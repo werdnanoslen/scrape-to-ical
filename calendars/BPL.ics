@@ -19,26 +19,6 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260110T153000Z
-DTEND:20260110T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 91
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hospitality Front Desk Representative or Guestroom Attendant Certi
- fication Training
-DTSTART:20260110T153000Z
-DTEND:20260110T163000Z
-DESCRIPTION:First impressions starts with you! Are you interested in earni
- ng a nationally recognized hospitality front desk representative certifica
- tion? Join our session to learn how you can learn the necessary\n\nhttps:/
- /www.bklynlibrary.org/node/800569
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Good Neighbors of Park Slope: Game On
 DTSTART:20260110T180000Z
 DTEND:20260110T203000Z
@@ -371,5 +351,23 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/804959
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finish Your Diploma Now!
+DTSTART:20260113T233000Z
+DTEND:20260113T003000Z
+DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
+ \nhttps://www.bklynlibrary.org/node/801958
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sewing Class Workshops: Basics of the Machine
+DTSTART:20260113T233000Z
+DTEND:20260113T003000Z
+DESCRIPTION:Come learn basics of the sewing machine with us! We provide th
+ e machines\, and you are welcome to bring your own. This event will introd
+ uce the basics of a sewing machine and you may create a small sew\n\nhttps
+ ://www.bklynlibrary.org/node/805265
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
