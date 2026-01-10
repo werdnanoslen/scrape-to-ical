@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
-DTSTART:20260110T193000Z
-DTEND:20260110T213000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing.\
- n\nhttps://www.bklynlibrary.org/node/798612
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop in Filmmaking Lab
-DTSTART:20260110T200000Z
-DTEND:20260110T213000Z
-DESCRIPTION:It is harder than ever to get a film into the world. From conc
- ept to screenings\, come get advice on your film and meet other filmmakers
- . Bring your project in for community and guidance. All skill lev\n\nhttps
- ://www.bklynlibrary.org/node/796138
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Finish Your Diploma Now!
 DTSTART:20260112T153000Z
 DTEND:20260112T163000Z
@@ -371,5 +352,24 @@ DESCRIPTION:Become a certified Parent Member! The Parent Member supports a
  pproved by the NYS Education Department\, you will get an overvie\n\nhttps
  ://www.bklynlibrary.org/node/802270
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20260114T150000Z
+DTEND:20260114T163000Z
+DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
+ 're new to Hebrew\; learn vocabulary\,study grammar\, read stories and tal
+ k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
+ /803917
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260114T150000Z
+DTEND:20260114T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 29
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
