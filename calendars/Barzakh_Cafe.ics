@@ -185,6 +185,28 @@ DESCRIPTION:https://www.viewcy.com/event/peter_manheim_band_1\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DJ Rekha in the Blue Room — a groovy DJ set!
+DTSTART:20260125T030000Z
+DTEND:20260125T050000Z
+DTSTAMP:20260125T030000Z
+UID:DJ Rekha in the Blue Room — a groovy DJ set!
+DESCRIPTION:https://www.viewcy.com/event/dj_rekha_in_the_blue\n<p><img alt
+ ="DJ Rekha in the Blue Room — a groovy DJ set! thumbnail" class="styles_
+ coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" d
+ ata-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="a
+ sync" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?
+ url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
+ atured_images%2F000%2F022%2F981%2Fcover%2FCopy_of_New_Designs.jpg%3F176815
+ 7781&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-
+ heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022
+ %2F981%2Fcover%2FCopy_of_New_Designs.jpg%3F1768157781&amp\;w=384&amp\;q=10
+ 0 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaw
+ s.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F981%2Fcover%2FCopy_of_New_
+ Designs.jpg%3F1768157781&amp\;w=640&amp\;q=100 2x" style="color: transpare
+ nt\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wild Woman
 DTSTART:20260201T010000Z
 DTEND:20260201T030000Z
