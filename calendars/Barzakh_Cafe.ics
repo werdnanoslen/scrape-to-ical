@@ -11,28 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Night of Kora
-DTSTART:20260111T010000Z
-DTEND:20260111T030000Z
-DTSTAMP:20260111T010000Z
-UID:Night of Kora
-DESCRIPTION:https://www.viewcy.com/event/night_of_kora_3\n<p><img alt="Nig
- ht of Kora thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-se
- ntry-component="ImageWithFallback" data-sentry-element="Image" data-sentry
- -source-file="index.tsx" decoding="async" height="186" loading="lazy" src=
- "https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
- tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F823%2Fcove
- r%2FWhatsApp_Image_2026-01-05_at_11.51.53_PM.jpg%3F1767637698&amp\;w=640&a
- mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
- .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F823%2Fcover%2F
- WhatsApp_Image_2026-01-05_at_11.51.53_PM.jpg%3F1767637698&amp\;w=384&amp\;
- q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
- onaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F823%2Fcover%2FWhatsApp
- _Image_2026-01-05_at_11.51.53_PM.jpg%3F1767637698&amp\;w=640&amp\;q=100 2x
- " style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brooklyn Chaabi Project
 DTSTART:20260111T230000Z
 DTEND:20260112T010000Z
