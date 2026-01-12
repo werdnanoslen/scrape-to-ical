@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260112T101221Z
-DTEND;VALUE=DATE:20260112T121221Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-01-12 10:12:21.657385+00:
+DTSTART;VALUE=DATE:20260112T110839Z
+DTEND;VALUE=DATE:20260112T130839Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-01-12 11:08:39.695892+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -23,20 +23,6 @@ DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winter Birding in Brooklyn
-DTSTART;VALUE=DATE:20260111T050000Z
-DTEND;VALUE=DATE:20260111T070000Z
-UID:Winter Birding in Brooklyn-2026-01-11 05:00:00+00:00
-DESCRIPTION:6 Sundays: January 11–February 15\, 2026 | 8:30–11 a.m. \n
- 					\n\n\n					\n						| Waitlist Only\n\nSpot winter birds across Brookl
- yn’s parks.Learn More›about Winter Birding in Brooklyn\n\nMore info:\n
- https://www.bbg.org/classes/winter_birding_in_brooklyn\n\n<img src="/img/u
- ploads/hero/_list_thumbnail_regular/baltimore-oriole_SNS_49887144353.jpg" 
- alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -152,6 +138,22 @@ DESCRIPTION:7 sessions beginning Monday\, January 26 or Tuesday\, March 17
  e›about Urban Garden Design (blended)\n\nMore info:\nhttps://www.bbg.org
  /classes/urban_garden_design\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/19WAEGARDSU_urban_garden_design.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plant-O-Rama 2026
+DTSTART;VALUE=DATE:20260127T050000Z
+DTEND;VALUE=DATE:20260127T070000Z
+UID:Plant-O-Rama 2026-2026-01-27 05:00:00+00:00
+DESCRIPTION:Tuesday\, January 27\, 2026 | 9 a.m.–4 p.m. \n					\n\n\n			
+ 		\n						\n							| Ticketed Event\n\nThe annual Plant-O-Rama trade show 
+ brings together gardeners\, designers\, growers\, arborists\, and educator
+ s working in public parks\, botanical gardens\, and private gardens in the
+  tri-state region.Learn More›about Plant-O-Rama 2026\n\nMore info:\nhttp
+ s://www.bbg.org/visit/event/plant_o_rama\n\n<img src="/img/uploads/manual/
+ hero/_list_thumbnail_regular/plant-o-rama_MS_49456566776_small.jpg" alt=""
+  />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
