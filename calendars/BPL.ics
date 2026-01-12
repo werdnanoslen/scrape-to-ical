@@ -31,14 +31,6 @@ DESCRIPTION:Come join the Key to the City resource fair at the Park Slope
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260112T160000Z
-DTEND:20260112T180000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/805253
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Free English Classes (We Speak NYC)
 DTSTART:20260112T163000Z
 DTEND:20260112T183000Z
@@ -52,14 +44,6 @@ DTEND:20260112T200000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/804243
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Discussion: Absolution
-DTSTART:20260112T170000Z
-DTEND:20260112T180000Z
-DESCRIPTION:Please join Park Slope Library for a discussion of Absolution 
- by Alice McDermott.\n\nhttps://www.bklynlibrary.org/node/797843
-LOCATION:Park Slope\, Meeting Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chair Aerobics for Adults
@@ -372,5 +356,26 @@ DESCRIPTION:Join us for a relaxing Sound Bath Meditation\, led by Flutist
  Paul Wellington. Give yourself the space to breath\, relax\, and reconnect
  .\n\nhttps://www.bklynlibrary.org/node/802263
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
+  Markets
+DTSTART:20260114T180000Z
+DTEND:20260114T190000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/797671
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DIY Printing: Hectographs!
+DTSTART:20260114T183000Z
+DTEND:20260114T200000Z
+DESCRIPTION:Hectographs\, also known as gelatin duplicators or jellygraphs
+ \, use inexpensive ingredients to produce distinctive purple copies of you
+ r drawing and writing. We'll learn a bit about the history of this\n\nhttp
+ s://www.bklynlibrary.org/node/799810
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
