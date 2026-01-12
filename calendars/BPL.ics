@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20260112T163000Z
-DTEND:20260112T200000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/804243
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260112T190000Z
 DTEND:20260112T210000Z
@@ -377,5 +369,15 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/806519
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260114T200000Z
+DTEND:20260114T220000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
+ ne-on-one review of your resume or cover letter and get help with your que
+ stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
+ .org/node/804728
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
