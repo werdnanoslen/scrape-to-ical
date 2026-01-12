@@ -21,39 +21,12 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Key to the City Resource Fair
-DTSTART:20260112T160000Z
-DTEND:20260112T190000Z
-DESCRIPTION:Come join the Key to the City resource fair at the Park Slope 
- Library\, co-hosted by the New York Immigration Coalition. Community organ
- izations will share information about education\, healthcare\, food\n\nhtt
- ps://www.bklynlibrary.org/node/800440
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Free English Classes (We Speak NYC)
-DTSTART:20260112T163000Z
-DTEND:20260112T183000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/802148
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
 DTSTART:20260112T163000Z
 DTEND:20260112T200000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/804243
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20260112T180000Z
-DTEND:20260112T190000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/805238
-LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
@@ -377,5 +350,32 @@ DESCRIPTION:Hectographs\, also known as gelatin duplicators or jellygraphs
  r drawing and writing. We'll learn a bit about the history of this\n\nhttp
  s://www.bklynlibrary.org/node/799810
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Senator Gounardes Office Hours
+DTSTART:20260114T190000Z
+DTEND:20260114T220000Z
+DESCRIPTION:Meet Senator Gournardes' office representatives to talk about 
+ the issues and receive in person assistance accessing state social service
+ s.\n\nhttps://www.bklynlibrary.org/node/801973
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260114T190000Z
+DTEND:20260114T193000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/806514
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260114T193000Z
+DTEND:20260114T200000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/806519
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
