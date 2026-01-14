@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20260113T220000Z
-DTEND:20260113T233000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/786068
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Accompany Capital Small Business Hub - Orientation Session
-DTSTART:20260113T220000Z
-DTEND:20260113T233000Z
-DESCRIPTION:Interested in starting or growing a small business in New York
-  City? Join this orientation session to learn about Accompany Capital’s 
- affordable business loans and hands-on business support for NYC-ba\n\nhttp
- s://www.bklynlibrary.org/node/801559
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ken Siegelman’s Brooklyn Poetry Outreach Featuring Mike Figliola
 DTSTART:20260113T223000Z
 DTEND:20260113T003000Z
@@ -385,5 +365,25 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/799940
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260116T160000Z
+DTEND:20260116T180000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/804753
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260116T160000Z
+DTEND:20260116T180000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library fo
+ r help with your resume\, cover letter\, interview\, and job search\n\nhtt
+ ps://www.bklynlibrary.org/node/805871
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
