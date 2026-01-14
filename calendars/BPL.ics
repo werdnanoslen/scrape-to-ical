@@ -11,62 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Ken Siegelman’s Brooklyn Poetry Outreach Featuring Mike Figliola
-DTSTART:20260113T223000Z
-DTEND:20260113T003000Z
-DESCRIPTION:Mike Figliola is an author and television producer who has wri
- tten hundreds of poems and has read them live at such venues as the famed 
- Cornelia Street Café in NYC with actor John Ventimiglia and poet\n\nhttp
- s://www.bklynlibrary.org/node/804368
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group - Brooklyn Heights
-DTSTART:20260113T230000Z
-DTEND:20260113T003000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/798032
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
-DTSTART:20260113T230000Z
-DTEND:20260113T003000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/804918
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260113T230000Z
-DTEND:20260113T010000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/804959
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finish Your Diploma Now!
-DTSTART:20260113T233000Z
-DTEND:20260113T003000Z
-DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
- \nhttps://www.bklynlibrary.org/node/801958
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sewing Class Workshops: Basics of the Machine
-DTSTART:20260113T233000Z
-DTEND:20260113T003000Z
-DESCRIPTION:Come learn basics of the sewing machine with us! We provide th
- e machines\, and you are welcome to bring your own. This event will introd
- uce the basics of a sewing machine and you may create a small sew\n\nhttps
- ://www.bklynlibrary.org/node/805265
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adult Mental Health First Aid Training
 DTSTART:20260114T140000Z
 DTEND:20260114T220000Z
@@ -385,5 +329,57 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  r help with your resume\, cover letter\, interview\, and job search\n\nhtt
  ps://www.bklynlibrary.org/node/805871
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260116T180000Z
+DTEND:20260116T200000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 71
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260116T190000Z
+DTEND:20260116T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/793700
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI and Fiction Writing Workshop
+DTSTART:20260116T190000Z
+DTEND:20260116T200000Z
+DESCRIPTION:Let's talk about the art of utilizing AI\, specifically Chat G
+ PT\, as a first reader of your work and what it can and cannot do.\n\nhttp
+ s://www.bklynlibrary.org/node/803127
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260117T143000Z
+DTEND:20260117T173000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/804455
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Finish Your Diploma Now!
+DTSTART:20260117T153000Z
+DTEND:20260117T163000Z
+DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
+ \nhttps://www.bklynlibrary.org/node/801959
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260117T153000Z
+DTEND:20260117T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 92
+LOCATION:Central Library\, Info Commons\, Room 5
 END:VEVENT
 END:VCALENDAR
