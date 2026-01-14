@@ -31,16 +31,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DIY Printing: Hectographs!
-DTSTART:20260114T183000Z
-DTEND:20260114T200000Z
-DESCRIPTION:Hectographs\, also known as gelatin duplicators or jellygraphs
- \, use inexpensive ingredients to produce distinctive purple copies of you
- r drawing and writing. We'll learn a bit about the history of this\n\nhttp
- s://www.bklynlibrary.org/node/799810
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Senator Gounardes Office Hours
 DTSTART:20260114T190000Z
 DTEND:20260114T220000Z
@@ -48,24 +38,6 @@ DESCRIPTION:Meet Senator Gournardes' office representatives to talk about
  the issues and receive in person assistance accessing state social service
  s.\n\nhttps://www.bklynlibrary.org/node/801973
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260114T190000Z
-DTEND:20260114T193000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/806514
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260114T193000Z
-DTEND:20260114T200000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/806519
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -383,5 +355,33 @@ DTEND:20260120T173000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/804444
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260120T190000Z
+DTEND:20260120T210000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/801736
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260120T190000Z
+DTEND:20260120T200000Z
+DESCRIPTION:Ask a range of tech questions about various tech devices.\n\nh
+ ttps://www.bklynlibrary.org/node/802052
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taller de Presentación de Impuestos y Mantenimiento de Registros 
+ para Declarantes Autónomos
+DTSTART:20260120T190000Z
+DTEND:20260120T210000Z
+DESCRIPTION:Este taller se impartirá en español. For English\, please at
+ tend the workshop on 1/12/2026.\n\nhttps://www.bklynlibrary.org/node/80003
+ 4
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
