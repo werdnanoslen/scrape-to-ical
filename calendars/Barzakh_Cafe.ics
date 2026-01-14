@@ -247,6 +247,27 @@ DESCRIPTION:https://www.viewcy.com/event/dj_rekha_in_the_blue\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Persian Night with Divan
+DTSTART:20260125T230000Z
+DTEND:20260126T010000Z
+DTSTAMP:20260125T230000Z
+UID:Persian Night with Divan
+DESCRIPTION:https://www.viewcy.com/event/persian_night_with_di\n<p><img al
+ t="Persian Night with Divan thumbnail" class="styles_coverImg__PsR9G" data
+ -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
+ mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
+ ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvie
+ wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
+ F023%2F082%2Fcover%2FNew_Designs.jpg%3F1768425871&amp\;w=640&amp\;q=100" s
+ rcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaw
+ s.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F082%2Fcover%2FNew_Designs.
+ jpg%3F1768425871&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F023%2F082%2Fcover%2FNew_Designs.jpg%3F1768425871&amp\;w=640&amp\;q=10
+ 0 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Amazigh New Year Celebration
 DTSTART:20260125T230000Z
 DTEND:20260126T010000Z
