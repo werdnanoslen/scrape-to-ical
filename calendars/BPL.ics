@@ -48,15 +48,6 @@ DESCRIPTION:Become a certified Parent Member! The Parent Member supports a
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260114T150000Z
-DTEND:20260114T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
- 29
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beginning Hebrew Conversation for Adults
 DTSTART:20260114T150000Z
 DTEND:20260114T163000Z
@@ -65,6 +56,15 @@ DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
  k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
  /803917
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260114T150000Z
+DTEND:20260114T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 29
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sound Bath Meditation
