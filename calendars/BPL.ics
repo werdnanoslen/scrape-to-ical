@@ -21,13 +21,6 @@ DESCRIPTION:Mental Health First Aid (MHFA) is a skills-based training prog
 LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260114T150000Z
-DTEND:20260114T170000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782604
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260114T150000Z
 DTEND:20260114T220000Z
@@ -46,34 +39,6 @@ DESCRIPTION:Become a certified Parent Member! The Parent Member supports a
  pproved by the NYS Education Department\, you will get an overvie\n\nhttps
  ://www.bklynlibrary.org/node/802270
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20260114T150000Z
-DTEND:20260114T163000Z
-DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
- 're new to Hebrew\; learn vocabulary\,study grammar\, read stories and tal
- k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
- /803917
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260114T150000Z
-DTEND:20260114T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
- 29
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound Bath Meditation
-DTSTART:20260114T163000Z
-DTEND:20260114T170000Z
-DESCRIPTION:Join us for a relaxing Sound Bath Meditation\, led by Flutist 
- Paul Wellington. Give yourself the space to breath\, relax\, and reconnect
- .\n\nhttps://www.bklynlibrary.org/node/802263
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
@@ -381,5 +346,45 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  92
 LOCATION:Central Library\, Info Commons\, Room 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gathered in Reflection: A Community Reading Celebrating Dr. King's
+  Legacy
+DTSTART:20260117T160000Z
+DTEND:20260117T180000Z
+DESCRIPTION:Join Senator Zellnor Y. Myrie and Brooklyn Public Library for 
+ a collective experience to reflect\, learn\, and gather with community whi
+ le engaging with the work of Dr. Martin Luther King Jr.\n\nhttps://www.bkl
+ ynlibrary.org/node/806307
+LOCATION:Central Library\, Civic Commons Waiting Area
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260117T183000Z
+DTEND:20260117T203000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/804969
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
+DTSTART:20260117T193000Z
+DTEND:20260117T213000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing. 
+ Instructor Margot will be at this session. Please refer to her wit\n\nhttp
+ s://www.bklynlibrary.org/node/801124
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CyPurr Session: A Real Kick in the KOSA
+DTSTART:20260117T200000Z
+DTEND:20260117T220000Z
+DESCRIPTION:For this session\, we'll take a dive into the rash of online s
+ afety bills that have been the talk of the internet lately (i.e. the Kids 
+ Online Safety Act [KOSA] and the like)\, and discuss how they affe\n\nhttp
+ s://www.bklynlibrary.org/node/799655
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR

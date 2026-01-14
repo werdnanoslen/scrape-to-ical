@@ -139,6 +139,27 @@ DESCRIPTION:https://www.viewcy.com/event/the_cool_out_vol_4\n<p><img alt="
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bengal to Brooklyn
+DTSTART:20260123T010000Z
+DTEND:20260123T030000Z
+DTSTAMP:20260123T010000Z
+UID:Bengal to Brooklyn
+DESCRIPTION:https://www.viewcy.com/event/bengal_to_brooklyn\n<p><img alt="
+ Bengal to Brooklyn thumbnail" class="styles_coverImg__PsR9G" data-nimg="1"
+  data-sentry-component="ImageWithFallback" data-sentry-element="Image" dat
+ a-sentry-source-file="index.tsx" decoding="async" height="186" loading="la
+ zy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F06
+ 5%2Fcover%2FNew_Designs.jpg%3F1768408691&amp\;w=640&amp\;q=100" srcset="/_
+ next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fc
+ ourses%2Ffeatured_images%2F000%2F023%2F065%2Fcover%2FNew_Designs.jpg%3F176
+ 8408691&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%
+ 2F065%2Fcover%2FNew_Designs.jpg%3F1768408691&amp\;w=640&amp\;q=100 2x" sty
+ le="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eden Zane & Nagat - Live Ensemble
 DTSTART:20260124T010000Z
 DTEND:20260124T030000Z
@@ -223,6 +244,29 @@ DESCRIPTION:https://www.viewcy.com/event/wild_woman\n<p><img alt="Wild Wom
  .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F922%2Fcover%2F
  New_Designs.jpg%3F1767808115&amp\;w=640&amp\;q=100 2x" style="color: trans
  parent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Umm Kalthum Workshop
+DTSTART:20260201T233000Z
+DTEND:20260202T013000Z
+DTSTAMP:20260201T233000Z
+UID:The Umm Kalthum Workshop
+DESCRIPTION:https://www.viewcy.com/event/the_umm_kalthum_works_9\n<p><img 
+ alt="The Umm Kalthum Workshop thumbnail" class="styles_coverImg__PsR9G" da
+ ta-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element=
+ "Image" data-sentry-source-file="index.tsx" decoding="async" height="186" 
+ loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F023%2F066%2Fcover%2FThe_Umm_Kalthum_Workshop__28Instagram_Post__2845_29
+ _29.jpg%3F1768409652&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F023%2F066%2Fcover%2FThe_Umm_Kalthum_Workshop__28Instagram_Pos
+ t__2845_29_29.jpg%3F1768409652&amp\;w=384&amp\;q=100 1x\, /_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F023%2F066%2Fcover%2FThe_Umm_Kalthum_Workshop__28Instagr
+ am_Post__2845_29_29.jpg%3F1768409652&amp\;w=640&amp\;q=100 2x" style="colo
+ r: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
