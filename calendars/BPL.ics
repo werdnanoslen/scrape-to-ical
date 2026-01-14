@@ -207,6 +207,16 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20260115T230000Z
+DTEND:20260115T003000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/807045
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Art of Classics
 DTSTART:20260115T233000Z
 DTEND:20260115T003000Z
@@ -373,15 +383,5 @@ DTEND:20260120T200000Z
 DESCRIPTION:Ask a range of tech questions about various tech devices.\n\nh
  ttps://www.bklynlibrary.org/node/802052
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Taller de Presentación de Impuestos y Mantenimiento de Registros 
- para Declarantes Autónomos
-DTSTART:20260120T190000Z
-DTEND:20260120T210000Z
-DESCRIPTION:Este taller se impartirá en español. For English\, please at
- tend the workshop on 1/12/2026.\n\nhttps://www.bklynlibrary.org/node/80003
- 4
-LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR

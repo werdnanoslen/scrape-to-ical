@@ -204,6 +204,27 @@ DESCRIPTION:https://www.viewcy.com/event/peter_manheim_band_1\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Qawwali Evening with The Saami Brothers
+DTSTART:20260125T000000Z
+DTEND:20260125T020000Z
+DTSTAMP:20260125T000000Z
+UID:Qawwali Evening with The Saami Brothers
+DESCRIPTION:https://www.viewcy.com/event/qawwali_evening_with_3\n<p><img a
+ lt="Qawwali Evening with The Saami Brothers thumbnail" class="styles_cover
+ Img__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-s
+ entry-element="Image" data-sentry-source-file="index.tsx" decoding="async"
+  height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F023%2F078%2Fcover%2FNew_Designs.jpg%3F1768421753&amp\;w=6
+ 40&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
+ tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F078%2Fcove
+ r%2FNew_Designs.jpg%3F1768421753&amp\;w=384&amp\;q=100 1x\, /_next/image?u
+ rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
+ tured_images%2F000%2F023%2F078%2Fcover%2FNew_Designs.jpg%3F1768421753&amp\
+ ;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DJ Rekha in the Blue Room — a groovy DJ set!
 DTSTART:20260125T030000Z
 DTEND:20260125T050000Z
@@ -244,6 +265,27 @@ DESCRIPTION:https://www.viewcy.com/event/amazigh_new_year_cele\n<p><img al
  %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
  ages%2F000%2F023%2F077%2Fcover%2FNew_Designs_2.jpg%3F1768420059&amp\;w=640
  &amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Psychedelic Cumbia Night with MILAGRO VERDE
+DTSTART:20260126T010000Z
+DTEND:20260126T030000Z
+DTSTAMP:20260126T010000Z
+UID:Psychedelic Cumbia Night with MILAGRO VERDE
+DESCRIPTION:https://www.viewcy.com/event/psychedelic_cumbia_ni_4\n<p><img 
+ alt="Psychedelic Cumbia Night with MILAGRO VERDE thumbnail" class="styles_
+ coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" d
+ ata-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="a
+ sync" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?
+ url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
+ atured_images%2F000%2F023%2F081%2Fcover%2FNew_Designs.jpg%3F1768422467&amp
+ \;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-p
+ roduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F081%2
+ Fcover%2FNew_Designs.jpg%3F1768422467&amp\;w=384&amp\;q=100 1x\, /_next/im
+ age?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%
+ 2Ffeatured_images%2F000%2F023%2F081%2Fcover%2FNew_Designs.jpg%3F1768422467
+ &amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
