@@ -21,13 +21,14 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Social Work Walk-In Hours
-DTSTART:20260115T150000Z
-DTEND:20260115T200000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
- 81
-LOCATION:Central Library\, Civic Commons Partner Office
+SUMMARY:Arts and Crafts Circle
+DTSTART:20260115T200000Z
+DTEND:20260115T210000Z
+DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
+ us to work on projects\, trade skills\, and socialize with other makers! A
+ ll skill levels and all crafts welcome.\n\nhttps://www.bklynlibrary.org/no
+ de/803028
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Human Cost of Online Age Verification
@@ -38,16 +39,6 @@ DESCRIPTION:Learn about the risks of age verification laws from the Electr
  f this latest in the EFFecting Change series\, and participate in\n\nhttps
  ://www.bklynlibrary.org/node/803958
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20260115T200000Z
-DTEND:20260115T210000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers! A
- ll skill levels and all crafts welcome.\n\nhttps://www.bklynlibrary.org/no
- de/803028
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Job Fair Readiness: Tips & Tactics for Success (Virtual)
@@ -379,5 +370,15 @@ DTSTART:20260121T150000Z
 DTEND:20260121T170000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782605
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260121T150000Z
+DTEND:20260121T220000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/799925
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
