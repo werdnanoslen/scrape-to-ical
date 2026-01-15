@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Pace SBDC Business Counseling @ BPL
-DTSTART:20260115T150000Z
-DTEND:20260115T220000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/791533
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Job Fair Readiness: Tips & Tactics for Success (Virtual)
-DTSTART:20260115T210000Z
-DTEND:20260115T220000Z
-DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
- how to work the room?\n\nhttps://www.bklynlibrary.org/node/800160
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20260115T220000Z
 DTEND:20260115T233000Z
@@ -379,5 +361,25 @@ DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
  k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
  /803918
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20260121T180000Z
+DTEND:20260121T190000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /807145
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Quiet Reading Party
+DTSTART:20260121T183000Z
+DTEND:20260121T200000Z
+DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
+ \, art\, and more! Bring your own book to quietly read for 45 minutes\, an
+ d then have the option to engage in conversation with other book love\n\nh
+ ttps://www.bklynlibrary.org/node/794517
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
