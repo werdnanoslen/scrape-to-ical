@@ -30,16 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Motion Graphics with After Effects
-DTSTART:20260115T153000Z
-DTEND:20260115T183000Z
-DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
- mic motion graphics and video effects compositing. This 4-part course cove
- rs the basics of the After Effects interface\, text and layer ani\n\nhttps
- ://www.bklynlibrary.org/node/795925
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Human Cost of Online Age Verification
 DTSTART:20260115T200000Z
 DTEND:20260115T210000Z
@@ -382,5 +372,12 @@ DTEND:20260120T003000Z
 DESCRIPTION:Join us this month to discuss Percival Everett's novel James.\
  n\nhttps://www.bklynlibrary.org/node/802417
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20260121T150000Z
+DTEND:20260121T170000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782605
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
