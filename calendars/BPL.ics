@@ -21,33 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260116T180000Z
-DTEND:20260116T200000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 71
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260116T190000Z
-DTEND:20260116T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/793700
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:AI and Fiction Writing Workshop
-DTSTART:20260116T190000Z
-DTEND:20260116T200000Z
-DESCRIPTION:Let's talk about the art of utilizing AI\, specifically Chat G
- PT\, as a first reader of your work and what it can and cannot do.\n\nhttp
- s://www.bklynlibrary.org/node/803127
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260117T143000Z
 DTEND:20260117T173000Z
@@ -381,5 +354,33 @@ DESCRIPTION:Discover employment and job training opportunities and meet wi
  th businesses at Brooklyn Heights Library's Immigrant Job Fair!\n\nhttps:/
  /www.bklynlibrary.org/node/799593
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260122T153000Z
+DTEND:20260122T170000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792352
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20260122T153000Z
+DTEND:20260122T163000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/792481
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motion Graphics with After Effects
+DTSTART:20260122T153000Z
+DTEND:20260122T183000Z
+DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
+ mic motion graphics and video effects compositing. This 4-part course cove
+ rs the basics of the After Effects interface\, text and layer ani\n\nhttps
+ ://www.bklynlibrary.org/node/795926
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
