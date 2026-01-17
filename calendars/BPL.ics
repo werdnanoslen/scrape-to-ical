@@ -19,23 +19,6 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260117T153000Z
-DTEND:20260117T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 92
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Finish Your Diploma Now!
-DTSTART:20260117T153000Z
-DTEND:20260117T163000Z
-DESCRIPTION:It’s Time You Finish Your High School Equivalency Diploma!\n
- \nhttps://www.bklynlibrary.org/node/801959
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Gathered in Reflection: A Community Reading Celebrating Dr. King's
   Legacy
 DTSTART:20260117T160000Z
@@ -381,5 +364,25 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
  86
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:iPhone & Android Help
+DTSTART:20260122T190000Z
+DTEND:20260122T200000Z
+DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
+ e figure out something? The objective of this class is to tend to patrons'
+  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
+ ww.bklynlibrary.org/node/802050
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Year\, New Portfolio! (Using Canva)
+DTSTART:20260122T190000Z
+DTEND:20260122T203000Z
+DESCRIPTION:Get your year started with a new portfolio! This drop-in lab i
+ s geared towards freelance artists of all mediums looking to create a new 
+ portfolio. Feel free to bring your own devices but computers wil\n\nhttps:
+ //www.bklynlibrary.org/node/803818
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
