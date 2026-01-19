@@ -269,4 +269,25 @@ DESCRIPTION:https://www.viewcy.com/event/winter_retreat_the_c\n<p><img alt
  mp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kedmah & Ahavat Hadassah
+DTSTART:20260209T010000Z
+DTEND:20260209T030000Z
+DTSTAMP:20260209T010000Z
+UID:Kedmah & Ahavat Hadassah
+DESCRIPTION:https://www.viewcy.com/event/kedmah__ahavat_hadas\n<p><img alt
+ ="Kedmah &amp\; Ahavat Hadassah thumbnail" class="styles_coverImg__PsR9G" 
+ data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
+ t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
+ " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F023%2F257%2Fcover%2FNew_Designs.jpg%3F1768842961&amp\;w=640&amp\;q=10
+ 0" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
+ onaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F257%2Fcover%2FNew_Desi
+ gns.jpg%3F1768842961&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%
+ 2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images
+ %2F000%2F023%2F257%2Fcover%2FNew_Designs.jpg%3F1768842961&amp\;w=640&amp\;
+ q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
