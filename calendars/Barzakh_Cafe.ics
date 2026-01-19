@@ -11,28 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:The Cool Out Vol. 4
-DTSTART:20260119T010000Z
-DTEND:20260119T030000Z
-DTSTAMP:20260119T010000Z
-UID:The Cool Out Vol. 4
-DESCRIPTION:https://www.viewcy.com/event/the_cool_out_vol_4\n<p><img alt="
- The Cool Out Vol. 4 thumbnail" class="styles_coverImg__PsR9G" data-nimg="1
- " data-sentry-component="ImageWithFallback" data-sentry-element="Image" da
- ta-sentry-source-file="index.tsx" decoding="async" height="186" loading="l
- azy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-hero
- ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F7
- 86%2Fcover%2FScreenshot_2026-01-03_at_3.00.03_E2_80_AFPM.jpg%3F1767470572&
- amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-herok
- u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F78
- 6%2Fcover%2FScreenshot_2026-01-03_at_3.00.03_E2_80_AFPM.jpg%3F1767470572&a
- mp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-pro
- duction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F786%2Fc
- over%2FScreenshot_2026-01-03_at_3.00.03_E2_80_AFPM.jpg%3F1767470572&amp\;w
- =640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bengal to Brooklyn
 DTSTART:20260123T010000Z
 DTEND:20260123T030000Z
@@ -163,27 +141,6 @@ DESCRIPTION:https://www.viewcy.com/event/dj_rekha_in_the_blue\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Amazigh New Year Celebration
-DTSTART:20260125T230000Z
-DTEND:20260126T010000Z
-DTSTAMP:20260125T230000Z
-UID:Amazigh New Year Celebration
-DESCRIPTION:https://www.viewcy.com/event/amazigh_new_year_cele\n<p><img al
- t="Amazigh New Year Celebration thumbnail" class="styles_coverImg__PsR9G" 
- data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
- t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
- " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
- Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
- 00%2F023%2F077%2Fcover%2FNew_Designs_2.jpg%3F1768420059&amp\;w=640&amp\;q=
- 100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
- azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F077%2Fcover%2FNew_De
- signs_2.jpg%3F1768420059&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https
- %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
- ages%2F000%2F023%2F077%2Fcover%2FNew_Designs_2.jpg%3F1768420059&amp\;w=640
- &amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Persian Night with Divan
 DTSTART:20260125T230000Z
 DTEND:20260126T010000Z
@@ -202,6 +159,27 @@ DESCRIPTION:https://www.viewcy.com/event/persian_night_with_di\n<p><img al
  Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
  00%2F023%2F082%2Fcover%2FNew_Designs.jpg%3F1768493049&amp\;w=640&amp\;q=10
  0 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amazigh New Year Celebration
+DTSTART:20260125T230000Z
+DTEND:20260126T010000Z
+DTSTAMP:20260125T230000Z
+UID:Amazigh New Year Celebration
+DESCRIPTION:https://www.viewcy.com/event/amazigh_new_year_cele\n<p><img al
+ t="Amazigh New Year Celebration thumbnail" class="styles_coverImg__PsR9G" 
+ data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
+ t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
+ " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F023%2F077%2Fcover%2FNew_Designs_2.jpg%3F1768420059&amp\;w=640&amp\;q=
+ 100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
+ azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F077%2Fcover%2FNew_De
+ signs_2.jpg%3F1768420059&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F023%2F077%2Fcover%2FNew_Designs_2.jpg%3F1768420059&amp\;w=640
+ &amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
