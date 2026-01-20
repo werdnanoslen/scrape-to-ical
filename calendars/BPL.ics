@@ -21,16 +21,6 @@ DESCRIPTION:Looking to share your current knitting project with others? Co
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LevelUP Information Session
-DTSTART:20260120T220000Z
-DTEND:20260120T230000Z
-DESCRIPTION:Join Brooklyn Public Library's LevelUP Program for an Informat
- ion Session on our upcoming cohort launching Spring 2026. During this virt
- ual session\, participants will have the opportunity to learn mor\n\nhttps
- ://www.bklynlibrary.org/node/799089
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group - Brooklyn Heights
 DTSTART:20260120T230000Z
 DTEND:20260120T003000Z
@@ -38,6 +28,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
   Heights.\n\nhttps://www.bklynlibrary.org/node/798033
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jane Ziegelman on Once There Was A Town
+DTSTART:20260120T230000Z
+DTEND:20260120T003000Z
+DESCRIPTION:Join us at Brooklyn Heights Library as Jane Ziegelman discusse
+ s her new book\, Once There Was A Town: The Memory Books of a Lost Jewish 
+ World.\n\nhttps://www.bklynlibrary.org/node/799660
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adult Creative Writing Group
@@ -57,15 +56,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/804960
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jane Ziegelman on Once There Was A Town
-DTSTART:20260120T230000Z
-DTEND:20260120T003000Z
-DESCRIPTION:Join us at Brooklyn Heights Library as Jane Ziegelman discusse
- s her new book\, Once There Was A Town: The Memory Books of a Lost Jewish 
- World.\n\nhttps://www.bklynlibrary.org/node/799660
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Adult Book Club: James by Percival Everett
@@ -383,5 +373,14 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
  ynlibrary.org/node/807046
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baltic Street Wellness Insights meeting
+DTSTART:20260123T153000Z
+DTEND:20260123T163000Z
+DESCRIPTION:Join Baltic Street Wellness Insights as they discuss Chapter 2
+  of Atomic Habits by James Clear. Click to borrow your copy today.\n\nhttp
+ s://www.bklynlibrary.org/node/807483
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
