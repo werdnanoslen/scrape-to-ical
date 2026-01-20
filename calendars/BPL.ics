@@ -29,14 +29,6 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260120T190000Z
-DTEND:20260120T200000Z
-DESCRIPTION:Ask a range of tech questions about various tech devices.\n\nh
- ttps://www.bklynlibrary.org/node/802052
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Taller de Presentación de Impuestos y Mantenimiento de Registros 
  para Declarantes Autónomos
 DTSTART:20260120T190000Z
@@ -45,6 +37,14 @@ DESCRIPTION:Este taller se impartirá en español. For English\, please at
  tend the workshop on 1/12/2026.\n\nhttps://www.bklynlibrary.org/node/80003
  4
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Ask A Tech
+DTSTART:20260120T190000Z
+DTEND:20260120T200000Z
+DESCRIPTION:Ask a range of tech questions about various tech devices.\n\nh
+ ttps://www.bklynlibrary.org/node/802052
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater Workshop
