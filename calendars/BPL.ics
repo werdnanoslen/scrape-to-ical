@@ -28,15 +28,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260121T150000Z
-DTEND:20260121T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 70
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Beginning Hebrew Conversation for Adults
 DTSTART:20260121T150000Z
 DTEND:20260121T163000Z
@@ -45,6 +36,15 @@ DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
  k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
  /803918
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260121T150000Z
+DTEND:20260121T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 70
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mindful Coloring for Adults and Teens
