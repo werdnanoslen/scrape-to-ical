@@ -141,27 +141,6 @@ DESCRIPTION:https://www.viewcy.com/event/dj_rekha_in_the_blue\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Persian Night with Divan
-DTSTART:20260125T230000Z
-DTEND:20260126T010000Z
-DTSTAMP:20260125T230000Z
-UID:Persian Night with Divan
-DESCRIPTION:https://www.viewcy.com/event/persian_night_with_di\n<p><img al
- t="Persian Night with Divan thumbnail" class="styles_coverImg__PsR9G" data
- -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
- mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
- ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvie
- wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
- F023%2F082%2Fcover%2FNew_Designs.jpg%3F1768493049&amp\;w=640&amp\;q=100" s
- rcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaw
- s.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F082%2Fcover%2FNew_Designs.
- jpg%3F1768493049&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2
- Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
- 00%2F023%2F082%2Fcover%2FNew_Designs.jpg%3F1768493049&amp\;w=640&amp\;q=10
- 0 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Amazigh New Year Celebration
 DTSTART:20260125T230000Z
 DTEND:20260126T010000Z
@@ -375,6 +354,27 @@ DESCRIPTION:https://www.viewcy.com/event/mandingo_ambassadors_3\n<p><img a
  Fcourses%2Ffeatured_images%2F000%2F023%2F289%2Fcover%2FMandingo_Ambassador
  s_Live.jpg%3F1768939127&amp\;w=640&amp\;q=100 2x" style="color: transparen
  t\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CAFE AMAN: GREEK NIGHT
+DTSTART:20260208T010000Z
+DTEND:20260208T030000Z
+DTSTAMP:20260208T010000Z
+UID:CAFE AMAN: GREEK NIGHT
+DESCRIPTION:https://www.viewcy.com/event/cafe_aman_greek_nigh\n<p><img alt
+ ="CAFE AMAN: GREEK NIGHT thumbnail" class="styles_coverImg__PsR9G" data-ni
+ mg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Imag
+ e" data-sentry-source-file="index.tsx" decoding="async" height="186" loadi
+ ng="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy
+ -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
+ 3%2F313%2Fcover%2FNew_Designs.jpg%3F1769027635&amp\;w=640&amp\;q=100" srcs
+ et="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.c
+ om%2Fcourses%2Ffeatured_images%2F000%2F023%2F313%2Fcover%2FNew_Designs.jpg
+ %3F1769027635&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fvi
+ ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
+ 2F023%2F313%2Fcover%2FNew_Designs.jpg%3F1769027635&amp\;w=640&amp\;q=100 2
+ x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
