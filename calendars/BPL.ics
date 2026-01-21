@@ -21,34 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Quiet Reading Party
-DTSTART:20260121T183000Z
-DTEND:20260121T200000Z
-DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
- \, art\, and more! Bring your own book to quietly read for 45 minutes\, an
- d then have the option to engage in conversation with other book love\n\nh
- ttps://www.bklynlibrary.org/node/794517
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260121T190000Z
-DTEND:20260121T193000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/806515
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260121T193000Z
-DTEND:20260121T200000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/806520
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
@@ -384,5 +356,32 @@ DTEND:20260124T173000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/804456
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group
+DTSTART:20260124T153000Z
+DTEND:20260124T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 93
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Guided Music Production Session: Advanced
+DTSTART:20260124T180000Z
+DTEND:20260124T200000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/785097
+LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260124T183000Z
+DTEND:20260124T203000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/804970
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
