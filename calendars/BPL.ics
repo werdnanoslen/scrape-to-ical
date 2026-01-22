@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Fair / Feria de Empleo Para Inmigrantes
-DTSTART:20260122T150000Z
-DTEND:20260122T180000Z
-DESCRIPTION:Discover employment and job training opportunities and meet wi
- th businesses at Brooklyn Heights Library's Immigrant Job Fair!\n\nhttps:/
- /www.bklynlibrary.org/node/799593
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20260122T150000Z
 DTEND:20260122T200000Z
@@ -377,5 +368,15 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  r help with your resume\, cover letter\, interview\, and job search\n\nhtt
  ps://www.bklynlibrary.org/node/794858
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260126T190000Z
+DTEND:20260126T210000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/804700
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
