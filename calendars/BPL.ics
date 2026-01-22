@@ -21,14 +21,6 @@ DESCRIPTION:The Business & Career Center is partnering with the City Bar J
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Using ChatGPT for Effective Resumes and Cover Letters
-DTSTART:20260122T213000Z
-DTEND:20260122T224500Z
-DESCRIPTION:Join us as we explore using ChatGPT to create impressive resum
- es and cover letters.\n\nhttps://www.bklynlibrary.org/node/800441
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260122T220000Z
 DTEND:20260122T233000Z
@@ -36,6 +28,16 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7962
  18
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20260122T223000Z
+DTEND:20260122T003000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/792774
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
@@ -55,16 +57,6 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
  \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
  lynlibrary.org/node/796966
 LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Resume Coaching
-DTSTART:20260122T223000Z
-DTEND:20260122T003000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/792774
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
@@ -370,5 +362,14 @@ DTSTART:20260126T224500Z
 DTEND:20260126T004500Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/804938
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQ+ Film Discussion Group
+DTSTART:20260126T233000Z
+DTEND:20260126T003000Z
+DESCRIPTION:Join us every last Monday for a monthly LGBTQ+ film discussion
+  group where we explore classic and contemporary queer cinema!\n\nhttps://
+ www.bklynlibrary.org/node/802936
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
