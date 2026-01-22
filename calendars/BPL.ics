@@ -21,25 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260122T150000Z
-DTEND:20260122T200000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
- 82
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:iPhone & Android Help
-DTSTART:20260122T190000Z
-DTEND:20260122T200000Z
-DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
- e figure out something? The objective of this class is to tend to patrons'
-  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
- ww.bklynlibrary.org/node/802050
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New Year\, New Portfolio! (Using Canva)
 DTSTART:20260122T190000Z
 DTEND:20260122T203000Z
@@ -48,24 +29,6 @@ DESCRIPTION:Get your year started with a new portfolio! This drop-in lab i
  portfolio. Feel free to bring your own devices but computers wil\n\nhttps:
  //www.bklynlibrary.org/node/803818
 LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260122T190000Z
-DTEND:20260122T193000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/806516
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260122T193000Z
-DTEND:20260122T200000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/806521
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hayes Greenfield's Sound Play\, Sound Sculpture Workshops
@@ -377,5 +340,39 @@ DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a
  variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
  ://www.bklynlibrary.org/node/802016
 LOCATION:Brooklyn Heights Library\, Cranberry Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260126T200000Z
+DTEND:20260126T220000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /803342
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260126T200000Z
+DTEND:20260126T220000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/805621
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20260126T210000Z
+DTEND:20260126T220000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/801468
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260126T213000Z
+DTEND:20260126T230000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
+ 82
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
