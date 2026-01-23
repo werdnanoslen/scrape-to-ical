@@ -30,15 +30,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Short Story Discussion Group
-DTSTART:20260123T180000Z
-DTEND:20260123T190000Z
-DESCRIPTION:Please join us for a discussion of short story\, STET by Sarah
-  Gailey\, on Friday\, Jan 23\, 2026\, from 1-2 p.m.\, in the B&CC Events R
- oom.\n\nhttps://www.bklynlibrary.org/node/806538
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual French Conversation Group
 DTSTART:20260123T190000Z
 DTEND:20260123T200000Z
@@ -368,5 +359,16 @@ DESCRIPTION:Amanda Holden spent years working in investment management\, w
   money can bring—and it wasn’t people like her friends. She also sa\n\
  nhttps://www.bklynlibrary.org/node/794216
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robert Polito Discusses After the Flood: Inside Bob Dylan’s Memo
+ ry Palace with Amanda Petrusich
+DTSTART:20260128T000000Z
+DTEND:20260128T013000Z
+DESCRIPTION:BPL Presents welcomes Robert Polito whose After the Flood asks
+  of Bob Dylan\, “If your dreams are fulfilled at twenty\, what do you do
+  with the rest of your life?”\n\nhttps://www.bklynlibrary.org/node/79321
+ 3
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
