@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260123T100942Z
-DTEND;VALUE=DATE:20260123T120942Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-01-23 10:09:42.834006+00:
+DTSTART;VALUE=DATE:20260123T110731Z
+DTEND;VALUE=DATE:20260123T130731Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-01-23 11:07:31.418868+00:
  00
 DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -23,21 +23,6 @@ DESCRIPTION:November 7\, 2025–March 15\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Soil Management (blended)
-DTSTART;VALUE=DATE:20260122T050000Z
-DTEND;VALUE=DATE:20260122T070000Z
-UID:Soil Management (blended)-2026-01-22 05:00:00+00:00
-DESCRIPTION:7 sessions beginning Thursday\, January 22 or March 19\, 2026\
- n					\n\n\n					\n						| Waitlist Only\n\nHealthy soil is the foundation
-  for a healthy garden ecosystem and abundant crops. Learn about soil’s c
- ontents and physical and chemical properties\, soil fertility management\,
-  and soil cultivation techniques.Learn More›about Soil Management (blend
- ed)\n\nMore info:\nhttps://www.bbg.org/classes/soil_management\n\n<img src
- ="/img/uploads/hero/_list_thumbnail_regular/soil_CG_5512.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -217,6 +202,50 @@ DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
  lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
  asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
  lar/desert-house_4454699678.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tree Health and Structure
+DTSTART;VALUE=DATE:20260207T050000Z
+DTEND;VALUE=DATE:20260207T070000Z
+UID:Tree Health and Structure-2026-02-07 05:00:00+00:00
+DESCRIPTION:Saturday\, February 7\, 2026 | 9 a.m.–3:30 p.m.\n					\n\n\n
+ 					\n						\n							| Preregistration Required\n\nLearn the fundamental 
+ principles of disease\, types of disease\, and the impacts of injury and a
+ biotic factors on tree health and structure.Learn More›about Tree Health
+  and Structure\n\nMore info:\nhttps://www.bbg.org/classes/tree_health_and_
+ structure\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/tree-heal
+ th_MS_51023260281.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conservatory Highlights Tour
+DTSTART;VALUE=DATE:20260207T050000Z
+DTEND;VALUE=DATE:20260207T070000Z
+UID:Conservatory Highlights Tour-2026-02-07 05:00:00+00:00
+DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
+  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
+  plants from faraway places and different climates around the world on thi
+ s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
+ lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
+ asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
+ lar/desert-house_4454699678.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chinese Brush Painting
+DTSTART;VALUE=DATE:20260207T050000Z
+DTEND;VALUE=DATE:20260207T070000Z
+UID:Chinese Brush Painting-2026-02-07 05:00:00+00:00
+DESCRIPTION:5 Saturdays: February 7–March 7\, 2026 | 1:30–3:30 p.m.\n	
+ 				\n\n\n					\n						| Waitlist Only\n\nLearn to paint in the Chinese st
+ yle using a bamboo brush\, ink\, and rice paper.Learn More›about Chinese
+  Brush Painting\n\nMore info:\nhttps://www.bbg.org/classes/chinese_brush_p
+ ainting\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/19SAEARTCBP
+ .jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
