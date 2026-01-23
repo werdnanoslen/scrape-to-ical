@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260123T180000Z
-DTEND:20260123T200000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 72
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260123T190000Z
-DTEND:20260123T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/793701
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adult Crafting: Heart Gift Box
 DTSTART:20260123T190000Z
 DTEND:20260123T203000Z
@@ -370,5 +352,22 @@ DESCRIPTION:BPL Presents welcomes Robert Polito whose After the Flood asks
   with the rest of your life?”\n\nhttps://www.bklynlibrary.org/node/79321
  3
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20260128T150000Z
+DTEND:20260128T170000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782606
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260128T150000Z
+DTEND:20260128T220000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/799926
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
