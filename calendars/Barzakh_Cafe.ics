@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Peter Manheim Band
-DTSTART:20260124T030000Z
-DTEND:20260124T050000Z
-DTSTAMP:20260124T030000Z
-UID:Peter Manheim Band
-DESCRIPTION:https://www.viewcy.com/event/peter_manheim_band_1\n<p><img alt
- ="Peter Manheim Band thumbnail" class="styles_coverImg__PsR9G" data-nimg="
- 1" data-sentry-component="ImageWithFallback" data-sentry-element="Image" d
- ata-sentry-source-file="index.tsx" decoding="async" height="186" loading="
- lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-her
- oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F022%2F
- 934%2Fcover%2FNew_Designs.jpg%3F1767878282&amp\;w=640&amp\;q=100" srcset="
- /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2
- Fcourses%2Ffeatured_images%2F000%2F022%2F934%2Fcover%2FNew_Designs.jpg%3F1
- 767878282&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy
- -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
- 2%2F934%2Fcover%2FNew_Designs.jpg%3F1767878282&amp\;w=640&amp\;q=100 2x" s
- tyle="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Qawwali Evening with The Saami Brothers
 DTSTART:20260125T000000Z
 DTEND:20260125T020000Z
