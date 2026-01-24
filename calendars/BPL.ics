@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:FOSSS Guided Music Production Session: Advanced
-DTSTART:20260124T180000Z
-DTEND:20260124T200000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/785097
-LOCATION:Central Library\, Info Commons\, Recording Studio
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260124T183000Z
 DTEND:20260124T203000Z
@@ -370,5 +361,15 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
  stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
  .org/node/804730
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Affective Disorder: Beating the Winter Blues
+DTSTART:20260128T210000Z
+DTEND:20260128T220000Z
+DESCRIPTION:Join NYU Langone Family Health Centers for a virtual workshop 
+ discussing topics such as what Seasonal Affective Disorder (SAD) is\, how 
+ to recognize symptoms\, different options doctors can use to treat\n\nhttp
+ s://www.bklynlibrary.org/node/802681
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
