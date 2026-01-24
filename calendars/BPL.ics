@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
-DTSTART:20260124T193000Z
-DTEND:20260124T213000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing.\
- n\nhttps://www.bklynlibrary.org/node/807748
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:POSTPONED: Classical Interludes: American Mavericks Project Vl. 1:
   Quest
 DTSTART:20260125T210000Z
@@ -371,5 +362,14 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/804510
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260128T230000Z
+DTEND:20260128T010000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 20
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
