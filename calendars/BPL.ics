@@ -22,7 +22,8 @@ DESCRIPTION:DUE TO THE WINTER STORM FORECAST FOR THIS WEEKEND\, KEY PEOPLE
 LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+SUMMARY:CANCELLED: Free In-Person Tax Help (By Appointment) with Single St
+ op
 DTSTART:20260126T150000Z
 DTEND:20260126T220000Z
 DESCRIPTION:Register to make an appointment to receive free tax assistance
@@ -31,7 +32,7 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class
+SUMMARY:CANCELLED: Free English Class
 DTSTART:20260126T160000Z
 DTEND:20260126T180000Z
 DESCRIPTION:The library offers free English classes for beginners learning
@@ -54,7 +55,15 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
+SUMMARY:CANCELLED: Chair Yoga
+DTSTART:20260126T180000Z
+DTEND:20260126T190000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/807907
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Chair Aerobics for Adults
 DTSTART:20260126T180000Z
 DTEND:20260126T190000Z
 DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
@@ -62,14 +71,6 @@ DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
  e class will begin with stretch and breathing exercises. Workouts\n\nhttps
  ://www.bklynlibrary.org/node/805239
 LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Chair Yoga
-DTSTART:20260126T180000Z
-DTEND:20260126T190000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/807907
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
@@ -126,7 +127,7 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
+SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20260126T213000Z
 DTEND:20260126T230000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -135,7 +136,7 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
+SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20260126T213000Z
 DTEND:20260126T230000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -152,7 +153,7 @@ DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
+SUMMARY:CANCELLED: Free English Class (We Speak NYC)
 DTSTART:20260126T224500Z
 DTEND:20260126T004500Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/804938
