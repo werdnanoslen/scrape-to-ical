@@ -11,17 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:POSTPONED: Classical Interludes: American Mavericks Project Vl. 1:
-  Quest
-DTSTART:20260125T210000Z
-DTEND:20260125T223000Z
-DESCRIPTION:DUE TO THE WINTER STORM FORECAST FOR THIS WEEKEND\, KEY PEOPLE
-  ON THIS PROJECT CANNOT GET TO NEW YORK. WE WILL LOOK FOR A DATE LATER THI
- S YEAR TO RESCHEDULE THE CONCERT.\n\nhttps://www.bklynlibrary.org/node/800
- 454
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Free In-Person Tax Help (By Appointment) with Single St
  op
 DTSTART:20260126T150000Z
@@ -372,5 +361,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  20
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Podcast Club at BPL
+DTSTART:20260128T233000Z
+DTEND:20260128T003000Z
+DESCRIPTION:Join us at BPL’s Podcast Club for a thematic discussion base
+ d on the podcast medium. All are welcome!\n\nhttps://www.bklynlibrary.org/
+ node/803139
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
