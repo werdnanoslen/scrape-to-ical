@@ -92,14 +92,6 @@ DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20260126T200000Z
-DTEND:20260126T220000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /803342
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Jigsaw Puzzle Hour
 DTSTART:20260126T200000Z
 DTEND:20260126T220000Z
@@ -114,6 +106,14 @@ DTSTART:20260126T200000Z
 DTEND:20260126T220000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/805621
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Creative Writing Workshop
+DTSTART:20260126T200000Z
+DTEND:20260126T220000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /803342
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yoga
@@ -159,7 +159,7 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/804938
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:LGBTQ+ Film Discussion Group
+SUMMARY:CANCELLED: LGBTQ+ Film Discussion Group
 DTSTART:20260126T233000Z
 DTEND:20260126T003000Z
 DESCRIPTION:Join us every last Monday for a monthly LGBTQ+ film discussion
