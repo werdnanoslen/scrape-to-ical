@@ -40,19 +40,19 @@ DESCRIPTION:The library offers free English classes for beginners learning
 LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260126T163000Z
-DTEND:20260126T183000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/802149
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: American and Chinese Mahjong
 DTSTART:20260126T163000Z
 DTEND:20260126T200000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/804244
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Free English Classes (We Speak NYC)
+DTSTART:20260126T163000Z
+DTEND:20260126T183000Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/802149
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Chair Yoga
@@ -117,7 +117,7 @@ DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Yoga
+SUMMARY:CANCELLED: Yoga
 DTSTART:20260126T210000Z
 DTEND:20260126T220000Z
 DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
