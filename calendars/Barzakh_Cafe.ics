@@ -163,6 +163,27 @@ DESCRIPTION:https://www.viewcy.com/event/the_umm_kalthum_works_9\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Qais Essar and The Living Rabab
+DTSTART:20260206T020000Z
+DTEND:20260206T040000Z
+DTSTAMP:20260206T020000Z
+UID:Qais Essar and The Living Rabab
+DESCRIPTION:https://www.viewcy.com/event/qais_essar_and_the_li\n<p><img al
+ t="Qais Essar and The Living Rabab thumbnail" class="styles_coverImg__PsR9
+ G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-ele
+ ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
+ 186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F023%2F426%2Fcover%2FNew_Designs.jpg%3F1769447112&amp\;w=640&amp\;q
+ =100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.a
+ mazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F426%2Fcover%2FNew_D
+ esigns.jpg%3F1769447112&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F023%2F426%2Fcover%2FNew_Designs.jpg%3F1769447112&amp\;w=640&am
+ p\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winter Retreat: The Clearing to the Sublime
 DTSTART:20260206T220000Z
 DTEND:20260207T000000Z
