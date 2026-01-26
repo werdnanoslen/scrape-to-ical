@@ -313,6 +313,27 @@ DESCRIPTION:https://www.viewcy.com/event/inside_voice_with_eli\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DHAMĀL
+DTSTART:20260214T000000Z
+DTEND:20260214T020000Z
+DTSTAMP:20260214T000000Z
+UID:DHAMĀL
+DESCRIPTION:https://www.viewcy.com/event/dhaml\n<p><img alt="DHAMĀL thumb
+ nail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="
+ ImageWithFallback" data-sentry-element="Image" data-sentry-source-file="in
+ dex.tsx" decoding="async" height="186" loading="lazy" src="https://www.vie
+ wcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaw
+ s.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F436%2Fcover%2FNew_Designs.
+ jpg%3F1769459842&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%
+ 2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images
+ %2F000%2F023%2F436%2Fcover%2FNew_Designs.jpg%3F1769459842&amp\;w=384&amp\;
+ q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
+ onaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F436%2Fcover%2FNew_Desi
+ gns.jpg%3F1769459842&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
+ " width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Heartbeats & Hot Rhythms: Valentine’s Day with Linda E.P.O. and 
  her Ensemble New Yorkino
 DTSTART:20260215T010000Z

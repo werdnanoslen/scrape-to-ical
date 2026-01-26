@@ -21,26 +21,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260126T190000Z
-DTEND:20260126T210000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library fo
- r help with your resume\, cover letter\, interview\, and job search\n\nhtt
- ps://www.bklynlibrary.org/node/794858
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
-DTSTART:20260126T190000Z
-DTEND:20260126T210000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/804700
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Jigsaw Puzzle Hour
 DTSTART:20260126T200000Z
 DTEND:20260126T220000Z
@@ -373,6 +353,25 @@ DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
  mic motion graphics and video effects compositing. This 4-part course cove
  rs the basics of the After Effects interface\, text and layer ani\n\nhttps
  ://www.bklynlibrary.org/node/795927
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260129T190000Z
+DTEND:20260129T193000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/806518
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Email Basics
+DTSTART:20260129T190000Z
+DTEND:20260129T200000Z
+DESCRIPTION:Emails basics will help assist beginners on understanding what
+  email is\, various different email providers\, how to create and setup an
+  email account and composing emails and sending them.\n\nhttps://www.bklyn
+ library.org/node/808046
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
