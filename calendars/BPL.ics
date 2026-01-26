@@ -29,31 +29,6 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Free English Classes (We Speak NYC)
-DTSTART:20260126T163000Z
-DTEND:20260126T183000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/802149
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Chair Yoga
-DTSTART:20260126T180000Z
-DTEND:20260126T190000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/807907
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Chair Aerobics for Adults
-DTSTART:20260126T180000Z
-DTEND:20260126T190000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/805239
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260126T190000Z
 DTEND:20260126T210000Z
@@ -243,17 +218,6 @@ DESCRIPTION:Amanda Holden spent years working in investment management\, w
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Robert Polito Discusses After the Flood: Inside Bob Dylan’s Memo
- ry Palace with Amanda Petrusich
-DTSTART:20260128T000000Z
-DTEND:20260128T013000Z
-DESCRIPTION:BPL Presents welcomes Robert Polito whose After the Flood asks
-  of Bob Dylan\, “If your dreams are fulfilled at twenty\, what do you do
-  with the rest of your life?”\n\nhttps://www.bklynlibrary.org/node/79321
- 3
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Multilingual Business Help
 DTSTART:20260128T150000Z
 DTEND:20260128T170000Z
@@ -372,5 +336,41 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
  e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
  lynlibrary.org/node/791535
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20260129T150000Z
+DTEND:20260129T200000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
+ 83
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260129T153000Z
+DTEND:20260129T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
+ 87
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260129T153000Z
+DTEND:20260129T170000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792353
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20260129T153000Z
+DTEND:20260129T163000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/792482
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
