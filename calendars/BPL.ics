@@ -21,14 +21,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Free English Class
-DTSTART:20260126T160000Z
-DTEND:20260126T180000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/805254
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: American and Chinese Mahjong
 DTSTART:20260126T163000Z
 DTEND:20260126T200000Z
@@ -370,5 +362,15 @@ DESCRIPTION:Join us at BPL’s Podcast Club for a thematic discussion base
  d on the podcast medium. All are welcome!\n\nhttps://www.bklynlibrary.org/
  node/803139
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20260129T150000Z
+DTEND:20260129T220000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/791535
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
