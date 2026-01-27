@@ -307,15 +307,6 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260129T220000Z
-DTEND:20260129T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7962
- 19
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20260129T223000Z
 DTEND:20260129T000000Z
@@ -381,6 +372,16 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
  eview of your resume or cover letter\, and get help with your questions ab
  out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
  org/node/804755
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260130T160000Z
+DTEND:20260130T180000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library fo
+ r help with your resume\, cover letter\, interview\, and job search\n\nhtt
+ ps://www.bklynlibrary.org/node/805873
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
