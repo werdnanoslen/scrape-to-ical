@@ -249,6 +249,48 @@ DESCRIPTION:https://www.viewcy.com/event/cafe_aman_greek_nigh\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Super Yamba Live
+DTSTART:20260208T030000Z
+DTEND:20260208T050000Z
+DTSTAMP:20260208T030000Z
+UID:Super Yamba Live
+DESCRIPTION:https://www.viewcy.com/event/super_yamba_live\n<p><img alt="Su
+ per Yamba Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" dat
+ a-sentry-component="ImageWithFallback" data-sentry-element="Image" data-se
+ ntry-source-file="index.tsx" decoding="async" height="186" loading="lazy" 
+ src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-pr
+ oduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F532%2F
+ cover%2FNew_Designs.jpg%3F1769701939&amp\;w=640&amp\;q=100" srcset="/_next
+ /image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcours
+ es%2Ffeatured_images%2F000%2F023%2F532%2Fcover%2FNew_Designs.jpg%3F1769701
+ 939&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F53
+ 2%2Fcover%2FNew_Designs.jpg%3F1769701939&amp\;w=640&amp\;q=100 2x" style="
+ color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sound of Ancient India
+DTSTART:20260208T230000Z
+DTEND:20260209T010000Z
+DTSTAMP:20260208T230000Z
+UID:Sound of Ancient India
+DESCRIPTION:https://www.viewcy.com/event/sound_of_ancient_indi\n<p><img al
+ t="Sound of Ancient India thumbnail" class="styles_coverImg__PsR9G" data-n
+ img="1" data-sentry-component="ImageWithFallback" data-sentry-element="Ima
+ ge" data-sentry-source-file="index.tsx" decoding="async" height="186" load
+ ing="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewc
+ y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
+ 23%2F531%2Fcover%2FNew_Designs.jpg%3F1769701191&amp\;w=640&amp\;q=100" src
+ set="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.
+ com%2Fcourses%2Ffeatured_images%2F000%2F023%2F531%2Fcover%2FNew_Designs.jp
+ g%3F1769701191&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F023%2F531%2Fcover%2FNew_Designs.jpg%3F1769701191&amp\;w=640&amp\;q=100 
+ 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kedmah & Ahavat Hadassah
 DTSTART:20260209T010000Z
 DTEND:20260209T030000Z
