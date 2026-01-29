@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20260129T193000Z
-DTEND:20260129T210000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers!\n
- \nhttps://www.bklynlibrary.org/node/803029
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20260129T220000Z
 DTEND:20260129T233000Z
@@ -380,5 +371,12 @@ DTEND:20260202T224500Z
 DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
   class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/799160
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20260202T224500Z
+DTEND:20260202T004500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/804939
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
