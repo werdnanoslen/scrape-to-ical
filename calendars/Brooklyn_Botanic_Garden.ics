@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260128T001053Z
-DTEND;VALUE=DATE:20260128T021053Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-01-28 00:10:53.328111+00:
+DTSTART;VALUE=DATE:20260129T161246Z
+DTEND;VALUE=DATE:20260129T181246Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-01-29 16:12:46.272935+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -139,12 +139,12 @@ DTSTART;VALUE=DATE:20260207T050000Z
 DTEND;VALUE=DATE:20260207T070000Z
 UID:Tree Health and Structure-2026-02-07 05:00:00+00:00
 DESCRIPTION:Saturday\, February 7\, 2026 | 9 a.m.–3:30 p.m.\n					\n\n\n
- 					\n						\n							| Preregistration Required\n\nLearn the fundamental 
- principles of disease\, types of disease\, and the impacts of injury and a
- biotic factors on tree health and structure.Learn More›about Tree Health
-  and Structure\n\nMore info:\nhttps://www.bbg.org/classes/tree_health_and_
- structure\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/tree-heal
- th_MS_51023260281.jpeg" alt="" />
+ 					\n						| Waitlist Only\n\nLearn the fundamental principles of diseas
+ e\, types of disease\, and the impacts of injury and abiotic factors on tr
+ ee health and structure.Learn More›about Tree Health and Structure\n\nMo
+ re info:\nhttps://www.bbg.org/classes/tree_health_and_structure\n\n<img sr
+ c="/img/uploads/hero/_list_thumbnail_regular/tree-health_MS_51023260281.jp
+ eg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -234,6 +234,35 @@ DESCRIPTION:Wednesday\, February 11\, 2026 | 6–8 p.m.Free\; Preregistrat
  re info:\nhttps://www.bbg.org/classes/crafting_community_care_DIY_herbal_o
  ils\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Herbal-Salves_D
  awn.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conservatory Highlights Tour
+DTSTART;VALUE=DATE:20260212T050000Z
+DTEND;VALUE=DATE:20260212T070000Z
+UID:Conservatory Highlights Tour-2026-02-12 05:00:00+00:00
+DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
+  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
+  plants from faraway places and different climates around the world on thi
+ s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
+ lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
+ asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
+ lar/desert-house_4454699678.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunar New Year Plants Talk & Walk
+DTSTART;VALUE=DATE:20260213T050000Z
+DTEND;VALUE=DATE:20260213T070000Z
+UID:Lunar New Year Plants Talk & Walk-2026-02-13 05:00:00+00:00
+DESCRIPTION:Friday\, February 13 & Saturday\, February 14\, 2026 | 12–1:
+ 15 p.m.\n\nCelebrate the Year of the Horse with a journey through the Stei
+ nhardt Conservatory.Learn More›about Lunar New Year Plants Talk & Walk\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/lunar_new_year_plants\n\n<im
+ g src="/img/uploads/hero/_list_thumbnail_regular/clementines-MS-5260578930
+ 8.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

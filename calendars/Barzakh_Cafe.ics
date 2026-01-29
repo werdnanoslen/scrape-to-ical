@@ -164,9 +164,9 @@ LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Qais Essar and The Living Rabab
-DTSTART:20260206T020000Z
-DTEND:20260206T040000Z
-DTSTAMP:20260206T020000Z
+DTSTART:20260206T023000Z
+DTEND:20260206T043000Z
+DTSTAMP:20260206T023000Z
 UID:Qais Essar and The Living Rabab
 DESCRIPTION:https://www.viewcy.com/event/qais_essar_and_the_li\n<p><img al
  t="Qais Essar and The Living Rabab thumbnail" class="styles_coverImg__PsR9
@@ -174,12 +174,12 @@ DESCRIPTION:https://www.viewcy.com/event/qais_essar_and_the_li\n<p><img al
  ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
  186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
  F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
- 2F000%2F023%2F426%2Fcover%2FNew_Designs.jpg%3F1769450645&amp\;w=640&amp\;q
+ 2F000%2F023%2F426%2Fcover%2FNew_Designs.jpg%3F1769613516&amp\;w=640&amp\;q
  =100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.a
  mazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F426%2Fcover%2FNew_D
- esigns.jpg%3F1769450645&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
+ esigns.jpg%3F1769613516&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
  3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
- ges%2F000%2F023%2F426%2Fcover%2FNew_Designs.jpg%3F1769450645&amp\;w=640&am
+ ges%2F000%2F023%2F426%2Fcover%2FNew_Designs.jpg%3F1769613516&amp\;w=640&am
  p\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
@@ -267,6 +267,29 @@ DESCRIPTION:https://www.viewcy.com/event/kedmah__ahavat_hadas\n<p><img alt
  2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images
  %2F000%2F023%2F257%2Fcover%2FNew_Designs.jpg%3F1768842961&amp\;w=640&amp\;
  q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Saami Family Apprenticeship: Student Showcase
+DTSTART:20260210T010000Z
+DTEND:20260210T030000Z
+DTSTAMP:20260210T010000Z
+UID:The Saami Family Apprenticeship: Student Showcase
+DESCRIPTION:https://www.viewcy.com/event/the_saami_family_appr\n<p><img al
+ t="The Saami Family Apprenticeship: Student Showcase thumbnail" class="sty
+ les_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallbac
+ k" data-sentry-element="Image" data-sentry-source-file="index.tsx" decodin
+ g="async" height="186" loading="lazy" src="https://www.viewcy.com/_next/im
+ age?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%
+ 2Ffeatured_images%2F000%2F023%2F500%2Fcover%2FWhatsApp_Image_2026-01-28_at
+ _6.58.55_PM.jpg%3F1769625846&amp\;w=640&amp\;q=100" srcset="/_next/image?u
+ rl=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffea
+ tured_images%2F000%2F023%2F500%2Fcover%2FWhatsApp_Image_2026-01-28_at_6.58
+ .55_PM.jpg%3F1769625846&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F023%2F500%2Fcover%2FWhatsApp_Image_2026-01-28_at_6.58.55_PM.jp
+ g%3F1769625846&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" widt
+ h="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
