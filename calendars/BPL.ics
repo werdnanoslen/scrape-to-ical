@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20260129T220000Z
-DTEND:20260129T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8085
- 79
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Resume Coaching
 DTSTART:20260129T223000Z
 DTEND:20260129T003000Z
@@ -28,25 +19,6 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/792775
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260129T223000Z
-DTEND:20260129T000000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/792411
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260129T223000Z
-DTEND:20260129T233000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/796967
-LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
@@ -376,5 +348,34 @@ DTEND:20260203T173000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/804446
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with AARP
+DTSTART:20260203T153000Z
+DTEND:20260203T193000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with AARP for you and your family.\n\nhttps://www.bklynlibrary.org/node/8
+ 07934
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260203T190000Z
+DTEND:20260203T210000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/801738
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Email Basics
+DTSTART:20260203T190000Z
+DTEND:20260203T200000Z
+DESCRIPTION:Emails basics will help assist beginners on understanding what
+  email is\, various different email providers\, how to create and setup an
+  email account and composing emails and sending them.\n\nhttps://www.bklyn
+ library.org/node/807243
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
