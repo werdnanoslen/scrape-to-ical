@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Movie: Cut Throat City (2020)
-DTSTART:20260130T153000Z
-DTEND:20260130T173000Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
- n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/808782
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260130T160000Z
-DTEND:20260130T180000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by Central Library for he
- lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
- ps://www.bklynlibrary.org/node/795483
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260130T160000Z
 DTEND:20260130T210000Z
@@ -37,26 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/799942
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260130T160000Z
-DTEND:20260130T180000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter\, and get help with your questions ab
- out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
- org/node/804755
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260130T160000Z
-DTEND:20260130T180000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library fo
- r help with your resume\, cover letter\, interview\, and job search\n\nhtt
- ps://www.bklynlibrary.org/node/805873
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -376,5 +338,44 @@ DESCRIPTION:Looking to share your current knitting project with others? Co
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
  s://www.bklynlibrary.org/node/786071
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20260203T230000Z
+DTEND:20260203T003000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/804921
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260203T230000Z
+DTEND:20260203T010000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/804962
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading Rainbow Host Mychal Threets Spreads "Library Joy" in His D
+ ebut Picture Book
+DTSTART:20260203T230000Z
+DTEND:20260203T010000Z
+DESCRIPTION:Join us for an evening to celebrate library joy with Reading R
+ ainbow host\, social media sensation\, and debut author Mychal Threets and
+  illustrator Lorraine Nam as they discuss their picture book I’M S\n\nht
+ tps://www.bklynlibrary.org/node/801580
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group - Brooklyn Heights
+DTSTART:20260203T230000Z
+DTEND:20260203T003000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
+  Heights.\n\nhttps://www.bklynlibrary.org/node/808210
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 END:VCALENDAR
