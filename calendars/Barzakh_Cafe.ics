@@ -205,6 +205,27 @@ DESCRIPTION:https://www.viewcy.com/event/mandingo_ambassadors_3\n<p><img a
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:An Evening with Mai Elgizouli
+DTSTART:20260207T230000Z
+DTEND:20260208T010000Z
+DTSTAMP:20260207T230000Z
+UID:An Evening with Mai Elgizouli
+DESCRIPTION:https://www.viewcy.com/event/an_evening_with_mai_e\n<p><img al
+ t="An Evening with Mai Elgizouli thumbnail" class="styles_coverImg__PsR9G"
+  data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-eleme
+ nt="Image" data-sentry-source-file="index.tsx" decoding="async" height="18
+ 6" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F023%2F573%2Fcover%2FNew_Designs.jpg%3F1769789840&amp\;w=640&amp\;q=1
+ 00" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.ama
+ zonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F573%2Fcover%2FNew_Des
+ igns.jpg%3F1769789840&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A
+ %2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_image
+ s%2F000%2F023%2F573%2Fcover%2FNew_Designs.jpg%3F1769789840&amp\;w=640&amp\
+ ;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:CAFE AMAN: GREEK NIGHT
 DTSTART:20260208T010000Z
 DTEND:20260208T030000Z
