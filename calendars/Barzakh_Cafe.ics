@@ -443,6 +443,27 @@ DESCRIPTION:https://www.viewcy.com/event/sufi_and_bollywood_ni\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Los Nuyores
+DTSTART:20260221T010000Z
+DTEND:20260221T030000Z
+DTSTAMP:20260221T010000Z
+UID:Los Nuyores
+DESCRIPTION:https://www.viewcy.com/event/los_nuyores\n<p><img alt="Los Nuy
+ ores thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-c
+ omponent="ImageWithFallback" data-sentry-element="Image" data-sentry-sourc
+ e-file="index.tsx" decoding="async" height="186" loading="lazy" src="https
+ ://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
+ 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F576%2Fcover%2FNe
+ w_Designs.jpg%3F1769798722&amp\;w=640&amp\;q=100" srcset="/_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F023%2F576%2Fcover%2FNew_Designs.jpg%3F1769798722&amp\;w
+ =384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
+ on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F576%2Fcover%
+ 2FNew_Designs.jpg%3F1769798722&amp\;w=640&amp\;q=100 2x" style="color: tra
+ nsparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Reel in Raga
 DTSTART:20260307T230000Z
 DTEND:20260308T010000Z
