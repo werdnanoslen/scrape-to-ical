@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:DJ set ft Nour Jamil
-DTSTART:20260131T030000Z
-DTEND:20260131T050000Z
-DTSTAMP:20260131T030000Z
-UID:DJ set ft Nour Jamil
-DESCRIPTION:https://www.viewcy.com/event/dj_set_ft_nour_jamil\n<p><img alt
- ="DJ set ft Nour Jamil thumbnail" class="styles_coverImg__PsR9G" data-nimg
- ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
-  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
- ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-h
- eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%
- 2F287%2Fcover%2FNew_Designs.jpg%3F1768938268&amp\;w=640&amp\;q=100" srcset
- ="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com
- %2Fcourses%2Ffeatured_images%2F000%2F023%2F287%2Fcover%2FNew_Designs.jpg%3
- F1768938268&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fview
- cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
- 023%2F287%2Fcover%2FNew_Designs.jpg%3F1768938268&amp\;w=640&amp\;q=100 2x"
-  style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pisando el Cesped
 DTSTART:20260131T230000Z
 DTEND:20260201T010000Z
