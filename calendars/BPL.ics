@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
-DTSTART:20260131T193000Z
-DTEND:20260131T213000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing. 
- Instructor Margot will be at this session. Please refer to her wit\n\nhttp
- s://www.bklynlibrary.org/node/807749
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feng Shui and I Ching
-DTSTART:20260131T203000Z
-DTEND:20260131T220000Z
-DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
- arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
- ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
- ps://www.bklynlibrary.org/node/798641
-LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYC Livecode Meetup
 DTSTART:20260201T183000Z
 DTEND:20260201T213000Z
@@ -372,5 +352,23 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
  stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
  .org/node/804731
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Stop the Bleed
+DTSTART:20260204T210000Z
+DTEND:20260204T220000Z
+DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
+ nd to emergencies where life-threatening bleeding is present. By learning 
+ just a few simple steps\, you can become trained to save a life in\n\nhttp
+ s://www.bklynlibrary.org/node/791625
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bingo For All Ages
+DTSTART:20260204T210000Z
+DTEND:20260204T220000Z
+DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
+ esday of the month!\n\nhttps://www.bklynlibrary.org/node/801594
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
