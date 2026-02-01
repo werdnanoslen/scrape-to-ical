@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260201T094551Z
-DTEND;VALUE=DATE:20260201T114551Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-01 09:45:51.518180+00:
+DTSTART;VALUE=DATE:20260201T103034Z
+DTEND;VALUE=DATE:20260201T123034Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-01 10:30:34.881928+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -23,36 +23,6 @@ DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Winter Tree ID
-DTSTART;VALUE=DATE:20260131T050000Z
-DTEND;VALUE=DATE:20260131T070000Z
-UID:Winter Tree ID-2026-01-31 05:00:00+00:00
-DESCRIPTION:Saturday\, January 31\, 2026 | 10 a.m.–2:30 p.m.\n					\n\
- n\n					\n						| Waitlist Only\n\nMore than just winter identification al
- one\, this course will train you to look beyond eye-catching leaves in ord
- er to learn more about using less-appreciated aspects of the entire tree f
- or identification—a skill that will serve you year-round.Learn More›ab
- out Winter Tree ID\n\nMore info:\nhttps://www.bbg.org/classes/winter_tree_
- id\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/oak_snow-rige.jp
- g" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indoor Tropical Houseplants
-DTSTART;VALUE=DATE:20260131T050000Z
-DTEND;VALUE=DATE:20260131T070000Z
-UID:Indoor Tropical Houseplants-2026-01-31 05:00:00+00:00
-DESCRIPTION:Saturday\, January 31\, 2026 | 10:30 a.m.–12:30 p.m. \n					
- \n\n\n					\n						\n							| Preregistration Required\n\nDiscover which t
- ropical plants thrive indoors and how to keep them healthy.Learn More›ab
- out Indoor Tropical Houseplants\n\nMore info:\nhttps://www.bbg.org/classes
- /indoor_tropical_houseplants\n\n<img src="/img/uploads/hero/_list_thumbnai
- l_regular/indoor-tropical-plants_JW_54856827697.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -275,6 +245,21 @@ DESCRIPTION:Friday\, February 13 & Saturday\, February 14\, 2026 | 12–1:
  \nMore info:\nhttps://www.bbg.org/visit/event/lunar_new_year_plants\n\n<im
  g src="/img/uploads/hero/_list_thumbnail_regular/clementines-MS-5260578930
  8.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:February Break Discovery Days
+DTSTART;VALUE=DATE:20260216T050000Z
+DTEND;VALUE=DATE:20260216T070000Z
+UID:February Break Discovery Days-2026-02-16 05:00:00+00:00
+DESCRIPTION:February 16\, 18 & 20\, 2026 | 10:30 a.m.–12:30 p.m. \n					
+ \n\n\n					\n						\n							| Drop-in\n\nExplore habitats from around the 
+ world and have some hands-on science fun during the midwinter school break
+ .Learn More›about February Break Discovery Days\n\nMore info:\nhttps://w
+ ww.bbg.org/visit/event/february_break_discovery_days\n\n<img src="/img/upl
+ oads/hero/_list_thumbnail_regular/desert-pavilion-MS-52683093579.jpeg" alt
+ ="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
