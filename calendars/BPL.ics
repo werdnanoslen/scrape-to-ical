@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Classical Interludes: Harlem Chamber Players
-DTSTART:20260201T210000Z
-DTEND:20260201T223000Z
-DESCRIPTION:Members of The Harlem Chamber Player will perform a concert of
-  string quartets by past and living Black composers.\n\nhttps://www.bklynl
- ibrary.org/node/804848
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260202T150000Z
 DTEND:20260202T220000Z
@@ -370,5 +361,13 @@ DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
  just a few simple steps\, you can become trained to save a life in\n\nhttp
  s://www.bklynlibrary.org/node/791625
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bingo For All Ages
+DTSTART:20260204T210000Z
+DTEND:20260204T220000Z
+DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
+ esday of the month!\n\nhttps://www.bklynlibrary.org/node/801594
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
