@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:NYC Livecode Meetup
-DTSTART:20260201T183000Z
-DTEND:20260201T213000Z
-DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers 
- to discuss\, promote\, and explore real-time programming. Our meetups are 
- open to all. Come with works in progress to show\, with ideas to bo\n\nhtt
- ps://www.bklynlibrary.org/node/800624
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Classical Interludes: Harlem Chamber Players
 DTSTART:20260201T210000Z
 DTEND:20260201T223000Z
@@ -370,5 +360,15 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
  stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
  .org/node/804731
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Stop the Bleed
+DTSTART:20260204T210000Z
+DTEND:20260204T220000Z
+DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
+ nd to emergencies where life-threatening bleeding is present. By learning 
+ just a few simple steps\, you can become trained to save a life in\n\nhttp
+ s://www.bklynlibrary.org/node/791625
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
