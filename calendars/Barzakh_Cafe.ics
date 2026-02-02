@@ -292,6 +292,27 @@ DESCRIPTION:https://www.viewcy.com/event/heartbeats-hot-rhymes\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DJ Set by AMYNE
+DTSTART:20260215T040000Z
+DTEND:20260215T060000Z
+DTSTAMP:20260215T040000Z
+UID:DJ Set by AMYNE
+DESCRIPTION:https://www.viewcy.com/event/dj_set_by_amyne\n<p><img alt="DJ 
+ Set by AMYNE thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
+ sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
+ ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
+ c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F671%2Fco
+ ver%2FNew_Designs.jpg%3F1770049959&amp\;w=640&amp\;q=100" srcset="/_next/i
+ mage?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses
+ %2Ffeatured_images%2F000%2F023%2F671%2Fcover%2FNew_Designs.jpg%3F177004995
+ 9&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-
+ production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F671%
+ 2Fcover%2FNew_Designs.jpg%3F1770049959&amp\;w=640&amp\;q=100 2x" style="co
+ lor: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sufi and Bollywood night at Barzakh
 DTSTART:20260220T010000Z
 DTEND:20260220T030000Z
