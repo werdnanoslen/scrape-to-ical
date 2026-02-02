@@ -11,137 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
-DTSTART:20260202T150000Z
-DTEND:20260202T220000Z
-DESCRIPTION:Register to make an appointment to receive free tax assistance
-  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
- /node/807883
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Free English Class
-DTSTART:20260202T160000Z
-DTEND:20260202T180000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/805255
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260202T160000Z
-DTEND:20260202T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/808664
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260202T163000Z
-DTEND:20260202T183000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/802150
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20260202T163000Z
-DTEND:20260202T200000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/804245
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Yoga
-DTSTART:20260202T180000Z
-DTEND:20260202T190000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/807908
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260202T190000Z
-DTEND:20260202T210000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library fo
- r help with your resume\, cover letter\, interview\, and job search\n\nhtt
- ps://www.bklynlibrary.org/node/794859
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small Business Website Workday
-DTSTART:20260202T190000Z
-DTEND:20260202T210000Z
-DESCRIPTION:Join the Pace University SBDC and Brooklyn Public Library's B
- usiness & Career Center for a no-cost\, two-hour\, IN-PERSON website ed
- iting workshop at BPL's Business & Career Center\, 10 Grand Army Plaza\,\
- n\nhttps://www.bklynlibrary.org/node/803424
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260202T190000Z
-DTEND:20260202T210000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/804701
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20260202T200000Z
-DTEND:20260202T220000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /803343
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260202T200000Z
-DTEND:20260202T220000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/805622
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20260202T210000Z
-DTEND:20260202T220000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/807768
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260202T213000Z
-DTEND:20260202T230000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7836
- 83
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260202T213000Z
-DTEND:20260202T230000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8069
- 66
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Meditation Class with Chance
-DTSTART:20260202T220000Z
-DTEND:20260202T224500Z
-DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
-  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/799160
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class (We Speak NYC)
 DTSTART:20260202T224500Z
 DTEND:20260202T004500Z
@@ -369,5 +238,140 @@ DTEND:20260204T220000Z
 DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
  esday of the month!\n\nhttps://www.bklynlibrary.org/node/801594
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260204T210000Z
+DTEND:20260204T220000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804511
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260204T230000Z
+DTEND:20260204T010000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 11
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260204T230000Z
+DTEND:20260204T010000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/809154
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nicholas Thompson Discusses The Running Ground with Rich Benjamin
+DTSTART:20260205T000000Z
+DTEND:20260205T013000Z
+DESCRIPTION:A profound meditation on what running can teach us about our l
+ imits and our lives by a record-setting distance runner who is now the CEO
+  of The Atlantic.\n\nhttps://www.bklynlibrary.org/node/802240
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20260205T150000Z
+DTEND:20260205T220000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/791536
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20260205T150000Z
+DTEND:20260205T200000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
+ 84
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with AARP
+DTSTART:20260205T150000Z
+DTEND:20260205T190000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with AARP for you and your family.\n\nhttps://www.bklynlibrary.org/node/8
+ 08719
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260205T153000Z
+DTEND:20260205T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7866
+ 88
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260205T153000Z
+DTEND:20260205T170000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/792379
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motion Graphics with After Effects
+DTSTART:20260205T153000Z
+DTEND:20260205T183000Z
+DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
+ mic motion graphics and video effects compositing. This 4-part course cove
+ rs the basics of the After Effects interface\, text and layer ani\n\nhttps
+ ://www.bklynlibrary.org/node/795928
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20260205T153000Z
+DTEND:20260205T163000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/801461
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Microsoft PowerPoint
+DTSTART:20260205T190000Z
+DTEND:20260205T200000Z
+DESCRIPTION:An introduction to Microsoft PowerPoint for beginners to famil
+ iarize themselves with the application.\n\nhttps://www.bklynlibrary.org/no
+ de/807245
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260205T190000Z
+DTEND:20260205T193000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/809679
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260205T193000Z
+DTEND:20260205T200000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/809687
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hayes Greenfield's Sound Play\, Sound Sculpture Workshops
+DTSTART:20260205T200000Z
+DTEND:20260205T210000Z
+DESCRIPTION:January-February 2026\n\nhttps://www.bklynlibrary.org/node/802
+ 906
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
