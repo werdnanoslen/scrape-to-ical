@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260203T093610Z
-DTEND;VALUE=DATE:20260203T113610Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-03 09:36:10.665738+00:
+DTSTART;VALUE=DATE:20260203T102533Z
+DTEND;VALUE=DATE:20260203T122533Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-03 10:25:33.140612+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -260,6 +260,35 @@ DESCRIPTION:February 16\, 18 & 20\, 2026 | 10:30 a.m.–12:30 p.m. \n
  ww.bbg.org/visit/event/february_break_discovery_days\n\n<img src="/img/upl
  oads/hero/_list_thumbnail_regular/desert-pavilion-MS-52683093579.jpeg" alt
  ="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:February Break Discovery Days
+DTSTART;VALUE=DATE:20260218T050000Z
+DTEND;VALUE=DATE:20260218T070000Z
+UID:February Break Discovery Days-2026-02-18 05:00:00+00:00
+DESCRIPTION:February 16\, 18 & 20\, 2026 | 10:30 a.m.–12:30 p.m. \n					
+ \n\n\n					\n						\n							| Drop-in\n\nExplore habitats from around the 
+ world and have some hands-on science fun during the midwinter school break
+ .Learn More›about February Break Discovery Days\n\nMore info:\nhttps://w
+ ww.bbg.org/visit/event/february_break_discovery_days\n\n<img src="/img/upl
+ oads/hero/_list_thumbnail_regular/desert-pavilion-MS-52683093579.jpeg" alt
+ ="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Family Story Time
+DTSTART;VALUE=DATE:20260218T050000Z
+DTEND;VALUE=DATE:20260218T070000Z
+UID:Winter Family Story Time-2026-02-18 05:00:00+00:00
+DESCRIPTION:Wednesday\, February 18\, 2026 | 11 a.m.–12 p.m. \n					\n\n
+ \n					\n						\n							| Drop-in\n\nRead garden-inspired stories alongsid
+ e BBG volunteers. Drop in anytime during program hours to join in.Learn Mo
+ re›about Winter Family Story Time\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/winter_family_story_time\n\n<img src="/img/uploads/hero/_list_thu
+ mbnail_regular/storytime-BB-38714671480.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
