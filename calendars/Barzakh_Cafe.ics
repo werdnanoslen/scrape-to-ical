@@ -442,6 +442,27 @@ DESCRIPTION:https://www.viewcy.com/event/moonlit_strings__rhy\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A.B.E.L.A
+DTSTART:20260222T030000Z
+DTEND:20260222T050000Z
+DTSTAMP:20260222T030000Z
+UID:A.B.E.L.A
+DESCRIPTION:https://www.viewcy.com/event/abela_1\n<p><img alt="A.B.E.L.A t
+ humbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-compone
+ nt="ImageWithFallback" data-sentry-element="Image" data-sentry-source-file
+ ="index.tsx" decoding="async" height="186" loading="lazy" src="https://www
+ .viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
+ onaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F721%2Fcover%2FNew_Desi
+ gns.jpg%3F1770148500&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F023%2F721%2Fcover%2FNew_Designs.jpg%3F1770148500&amp\;w=384&a
+ mp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.
+ amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F721%2Fcover%2FNew_
+ Designs.jpg%3F1770148500&amp\;w=640&amp\;q=100 2x" style="color: transpare
+ nt\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Music\, History and Art of the Nueva Canción Movement
 DTSTART:20260301T010000Z
 DTEND:20260301T030000Z
