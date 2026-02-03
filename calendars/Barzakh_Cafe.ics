@@ -421,6 +421,28 @@ DESCRIPTION:https://www.viewcy.com/event/moonlit_strings__rhy\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Music\, History and Art of the Nueva Canción Movement
+DTSTART:20260301T010000Z
+DTEND:20260301T030000Z
+DTSTAMP:20260301T010000Z
+UID:Music\, History and Art of the Nueva Canción Movement
+DESCRIPTION:https://www.viewcy.com/event/music_history_and_ar\n<p><img alt
+ ="Music\, History and Art of the Nueva Canción Movement thumbnail" class=
+ "styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFal
+ lback" data-sentry-element="Image" data-sentry-source-file="index.tsx" dec
+ oding="async" height="186" loading="lazy" src="https://www.viewcy.com/_nex
+ t/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcour
+ ses%2Ffeatured_images%2F000%2F023%2F706%2Fcover%2FNew_Designs.jpg%3F177013
+ 3952&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-
+ heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023
+ %2F706%2Fcover%2FNew_Designs.jpg%3F1770133952&amp\;w=384&amp\;q=100 1x\, /
+ _next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2F
+ courses%2Ffeatured_images%2F000%2F023%2F706%2Fcover%2FNew_Designs.jpg%3F17
+ 70133952&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308
+ "/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qawwali with The Saami Brothers
 DTSTART:20260302T010000Z
 DTEND:20260302T030000Z
@@ -504,6 +526,23 @@ DESCRIPTION:https://www.viewcy.com/event/cafe_aman_greek_nigh_1\n<p><img a
  viewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F00
  0%2F023%2F538%2Fcover%2FNew_Designs.jpg%3F1769708371&amp\;w=640&amp\;q=100
   2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ramadan Iftar: Together in Surrender
+DTSTART:20260315T223000Z
+DTEND:20260316T003000Z
+DTSTAMP:20260315T223000Z
+UID:Ramadan Iftar: Together in Surrender
+DESCRIPTION:https://www.viewcy.com/event/ramadan_iftar_togeth\n<p><img alt
+ ="Ramadan Iftar: Together in Surrender thumbnail" class="styles_coverImg__
+ PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
+ -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
+ ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=%2Ffea
+ tured_images%2Fcover%2Fmissing.png&amp\;w=640&amp\;q=100" srcset="/_next/i
+ mage?url=%2Ffeatured_images%2Fcover%2Fmissing.png&amp\;w=384&amp\;q=100 1x
+ \, /_next/image?url=%2Ffeatured_images%2Fcover%2Fmissing.png&amp\;w=640&am
+ p\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
