@@ -30,15 +30,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plum Papercraft: Origami Heart
-DTSTART:20260204T180000Z
-DTEND:20260204T193000Z
-DESCRIPTION:A craft for Valentine's Day! Learn to fold a charming origam
- i heart from a rectangle of paper.\n\nhttps://www.bklynlibrary.org/node
- /804916
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Senator Gounardes Office Hours
 DTSTART:20260204T190000Z
 DTEND:20260204T220000Z
@@ -46,24 +37,6 @@ DESCRIPTION:Meet Senator Gournardes' office representatives to talk about
  the issues and receive in person assistance accessing state social service
  s.\n\nhttps://www.bklynlibrary.org/node/801975
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260204T190000Z
-DTEND:20260204T193000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/809678
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260204T193000Z
-DTEND:20260204T200000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/809686
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -375,5 +348,34 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
  95
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book Chat
+DTSTART:20260207T153000Z
+DTEND:20260207T170000Z
+DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
+  book you've read recently that you'd like to tell other folks about\, and
+  hear what other people are reading. It's like a book club\, excep\n\nhttp
+ s://www.bklynlibrary.org/node/808260
+LOCATION:Brooklyn Heights Library\, Orange Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reboot + Rebrand: Expanding Your Professional Package
+DTSTART:20260207T180000Z
+DTEND:20260207T210000Z
+DESCRIPTION:Ready to kick-off the new year? Join BPL's LevelUP Program for
+  Reboot + Rebrand: Expanding Your Professional Package - a community-cente
+ red panel designed to support job-seekers and professionals to b\n\nhttps:
+ //www.bklynlibrary.org/node/802575
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260207T183000Z
+DTEND:20260207T203000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/804972
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
