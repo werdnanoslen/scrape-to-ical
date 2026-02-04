@@ -102,15 +102,6 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Microsoft PowerPoint
-DTSTART:20260205T190000Z
-DTEND:20260205T200000Z
-DESCRIPTION:An introduction to Microsoft PowerPoint for beginners to famil
- iarize themselves with the application.\n\nhttps://www.bklynlibrary.org/no
- de/807245
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
 DTSTART:20260205T190000Z
 DTEND:20260205T193000Z
@@ -118,6 +109,15 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/809679
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Intro to Microsoft PowerPoint
+DTSTART:20260205T190000Z
+DTEND:20260205T200000Z
+DESCRIPTION:An introduction to Microsoft PowerPoint for beginners to famil
+ iarize themselves with the application.\n\nhttps://www.bklynlibrary.org/no
+ de/807245
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
