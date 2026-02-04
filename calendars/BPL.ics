@@ -18,13 +18,14 @@ DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782607
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
+SUMMARY:Beginning Hebrew Conversation for Adults
 DTSTART:20260204T150000Z
-DTEND:20260204T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
- 32
-LOCATION:Central Library\, Info Commons\, Room 4
+DTEND:20260204T163000Z
+DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
+ 're new to Hebrew\; learn vocabulary\,study grammar\, read stories and tal
+ k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
+ /803920
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
@@ -36,14 +37,13 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
+SUMMARY:English Conversation Group
 DTSTART:20260204T150000Z
-DTEND:20260204T163000Z
-DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
- 're new to Hebrew\; learn vocabulary\,study grammar\, read stories and tal
- k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
- /803920
-LOCATION:Virtual
+DTEND:20260204T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 32
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
