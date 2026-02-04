@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260204T093418Z
-DTEND;VALUE=DATE:20260204T113418Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-04 09:34:18.100956+00:
+DTSTART;VALUE=DATE:20260204T102218Z
+DTEND;VALUE=DATE:20260204T122218Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-04 10:22:18.862730+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -162,20 +162,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crafting Community Care: DIY Herbal Oils
-DTSTART;VALUE=DATE:20260211T050000Z
-DTEND;VALUE=DATE:20260211T070000Z
-UID:Crafting Community Care: DIY Herbal Oils-2026-02-11 05:00:00+00:00
-DESCRIPTION:Wednesday\, February 11\, 2026 | 6–8 p.m.Free\; Preregistrat
- ion Required\n\nFormulate your very own infused oil for your kitchen and c
- ommunity.Learn More›about Crafting Community Care: DIY Herbal Oils\n\nMo
- re info:\nhttps://www.bbg.org/classes/crafting_community_care_DIY_herbal_o
- ils\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Herbal-Salves_D
- awn.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:No Red Roses for Valentine’s Day
 DTSTART;VALUE=DATE:20260211T050000Z
 DTEND;VALUE=DATE:20260211T070000Z
@@ -188,6 +174,20 @@ DESCRIPTION:Wednesday\, February 11\, 2026 | 6–7:30 p.m.\n					\n\n\n
  ne’s Day\n\nMore info:\nhttps://www.bbg.org/classes/no_red_roses_for_val
  entines_day\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Valenti
  nes_Day_Elise.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crafting Community Care: DIY Herbal Oils
+DTSTART;VALUE=DATE:20260211T050000Z
+DTEND;VALUE=DATE:20260211T070000Z
+UID:Crafting Community Care: DIY Herbal Oils-2026-02-11 05:00:00+00:00
+DESCRIPTION:Wednesday\, February 11\, 2026 | 6–8 p.m.Free\; Preregistrat
+ ion Required\n\nFormulate your very own infused oil for your kitchen and c
+ ommunity.Learn More›about Crafting Community Care: DIY Herbal Oils\n\nMo
+ re info:\nhttps://www.bbg.org/classes/crafting_community_care_DIY_herbal_o
+ ils\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Herbal-Salves_D
+ awn.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -317,6 +317,36 @@ DESCRIPTION:Wednesday\, February 18\, 2026 | 11 a.m.–12 p.m. \n					\n\n
  re›about Winter Family Story Time\n\nMore info:\nhttps://www.bbg.org/vis
  it/event/winter_family_story_time\n\n<img src="/img/uploads/hero/_list_thu
  mbnail_regular/storytime-BB-38714671480.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Watercolor Technique for Expressive Orchids
+DTSTART;VALUE=DATE:20260219T050000Z
+DTEND;VALUE=DATE:20260219T070000Z
+UID:Watercolor Technique for Expressive Orchids-2026-02-19 05:00:00+00:00
+DESCRIPTION:Thursday\, February 19\, 2026 | 10 a.m.–1:30 p.m.\n					\n\n
+ \n					\n						\n							| Preregistration Required\n\nLearn key watercolor
+  techniques as you paint vibrant orchids.Learn More›about Watercolor Tec
+ hnique for Expressive Orchids\n\nMore info:\nhttps://www.bbg.org/classes/w
+ atercolor_technique_for_expressive_orchids\n\n<img src="/img/uploads/hero/
+ _list_thumbnail_regular/Bonnie-Steinsnyder-Swing-Your-Partner_Watercolor-T
+ echnique-for-Expressive-Orchids-Class.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conservatory Highlights Tour
+DTSTART;VALUE=DATE:20260219T050000Z
+DTEND;VALUE=DATE:20260219T070000Z
+UID:Conservatory Highlights Tour-2026-02-19 05:00:00+00:00
+DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
+  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
+  plants from faraway places and different climates around the world on thi
+ s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
+ lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
+ asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
+ lar/desert-house_4454699678.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
