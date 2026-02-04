@@ -30,16 +30,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual Stop the Bleed
-DTSTART:20260204T170000Z
-DTEND:20260204T180000Z
-DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
- nd to emergencies where life-threatening bleeding is present. By learning 
- just a few simple steps\, you can become trained to save a life in\n\nhttp
- s://www.bklynlibrary.org/node/791574
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Plum Papercraft: Origami Heart
 DTSTART:20260204T180000Z
 DTEND:20260204T193000Z
@@ -376,5 +366,14 @@ DTSTART:20260206T233000Z
 DTEND:20260206T023000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/808164
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260207T153000Z
+DTEND:20260207T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
+ 95
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
