@@ -11,23 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260204T150000Z
-DTEND:20260204T170000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/782607
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20260204T150000Z
-DTEND:20260204T163000Z
-DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
- 're new to Hebrew\; learn vocabulary\,study grammar\, read stories and tal
- k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
- /803920
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260204T150000Z
 DTEND:20260204T220000Z
@@ -35,15 +18,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/807884
 LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260204T150000Z
-DTEND:20260204T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
- 32
-LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
@@ -375,5 +349,32 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
  ://www.bklynlibrary.org/node/793703
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Film Club: A Beautiful Mind (2001)
+DTSTART:20260206T190000Z
+DTEND:20260206T213000Z
+DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
+ e first Friday of each month. Join us for the Oscar-winning film A Beautif
+ ul Mind\, starring Russell Crowe.\n\nhttps://www.bklynlibrary.org/node/806
+ 638
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260206T210000Z
+DTEND:20260206T223000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/807778
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bars & Books: J. Cole’s The Fall Off Listening Session
+DTSTART:20260206T233000Z
+DTEND:20260206T023000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/808164
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
