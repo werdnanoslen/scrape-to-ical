@@ -586,4 +586,25 @@ DESCRIPTION:https://www.viewcy.com/event/ramadan_iftar_togeth\n<p><img alt
  p\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Habibi Gun Live at Barzakh
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+DTSTAMP:20260321T000000Z
+UID:Habibi Gun Live at Barzakh
+DESCRIPTION:https://www.viewcy.com/event/habibi_gun_live_at_ba\n<p><img al
+ t="Habibi Gun Live at Barzakh thumbnail" class="styles_coverImg__PsR9G" da
+ ta-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element=
+ "Image" data-sentry-source-file="index.tsx" decoding="async" height="186" 
+ loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F023%2F770%2Fcover%2FNew_Designs.jpg%3F1770238666&amp\;w=640&amp\;q=100"
+  srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazon
+ aws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F770%2Fcover%2FNew_Design
+ s.jpg%3F1770238666&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F
+ %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
+ F000%2F023%2F770%2Fcover%2FNew_Designs.jpg%3F1770238666&amp\;w=640&amp\;q=
+ 100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
