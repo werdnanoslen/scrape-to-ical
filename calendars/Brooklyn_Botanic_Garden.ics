@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260206T010949Z
-DTEND;VALUE=DATE:20260206T030949Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-06 01:09:49.245034+00:
+DTSTART;VALUE=DATE:20260206T020955Z
+DTEND;VALUE=DATE:20260206T040955Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-06 02:09:55.256322+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -210,12 +210,12 @@ SUMMARY:Valentine's Weekend Pop-Up
 DTSTART;VALUE=DATE:20260214T050000Z
 DTEND;VALUE=DATE:20260214T070000Z
 UID:Valentine's Weekend Pop-Up-2026-02-14 05:00:00+00:00
-DESCRIPTION:Saturday\, February 14\, 11 a.m.–3:30 p.m. | Sunday\, Feb
- ruary 15\, 11 a.m.–2:30 p.m.\n\nCelebrate Valentine’s Day weekend w
- ith a special pairing for sharing in the Coffeehouse at Yellow Magnolia Ca
- fé!Learn More›about Valentine's Weekend Pop-Up\n\nMore info:\nhttps://w
- ww.bbg.org/visit/event/valentines_weekend_popup\n\n<img src="/img/uploads/
- manual/hero/_list_thumbnail_regular/Wine_pour_vday.jpg" alt="" />
+DESCRIPTION:Saturday\, February 14 & Sunday\, February 15 | 11 a.m.–3
+  p.m.\n\nCelebrate Valentine’s Day weekend with a special pairing for s
+ haring in the Coffeehouse at Yellow Magnolia Café!Learn More›about Vale
+ ntine's Weekend Pop-Up\n\nMore info:\nhttps://www.bbg.org/visit/event/vale
+ ntines_weekend_popup\n\n<img src="/img/uploads/manual/hero/_list_thumbnail
+ _regular/Wine_pour_vday.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -252,12 +252,12 @@ SUMMARY:Valentine's Weekend Pop-Up
 DTSTART;VALUE=DATE:20260215T050000Z
 DTEND;VALUE=DATE:20260215T070000Z
 UID:Valentine's Weekend Pop-Up-2026-02-15 05:00:00+00:00
-DESCRIPTION:Saturday\, February 14\, 11 a.m.–3:30 p.m. | Sunday\, Feb
- ruary 15\, 11 a.m.–2:30 p.m.\n\nCelebrate Valentine’s Day weekend w
- ith a special pairing for sharing in the Coffeehouse at Yellow Magnolia Ca
- fé!Learn More›about Valentine's Weekend Pop-Up\n\nMore info:\nhttps://w
- ww.bbg.org/visit/event/valentines_weekend_popup\n\n<img src="/img/uploads/
- manual/hero/_list_thumbnail_regular/Wine_pour_vday.jpg" alt="" />
+DESCRIPTION:Saturday\, February 14 & Sunday\, February 15 | 11 a.m.–3
+  p.m.\n\nCelebrate Valentine’s Day weekend with a special pairing for s
+ haring in the Coffeehouse at Yellow Magnolia Café!Learn More›about Vale
+ ntine's Weekend Pop-Up\n\nMore info:\nhttps://www.bbg.org/visit/event/vale
+ ntines_weekend_popup\n\n<img src="/img/uploads/manual/hero/_list_thumbnail
+ _regular/Wine_pour_vday.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

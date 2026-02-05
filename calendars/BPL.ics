@@ -21,14 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hayes Greenfield's Sound Play\, Sound Sculpture Workshops
-DTSTART:20260205T200000Z
-DTEND:20260205T210000Z
-DESCRIPTION:January-February 2026\n\nhttps://www.bklynlibrary.org/node/802
- 906
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260205T220000Z
 DTEND:20260205T233000Z
@@ -369,5 +361,14 @@ DTSTART:20260209T224500Z
 DTEND:20260209T004500Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/804940
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Timaeus
+DTSTART:20260209T231500Z
+DTEND:20260209T004500Z
+DESCRIPTION:Join us this Spring as we continue our journey through the his
+ tory of ancient philosophy by reading the Timaeus\, Plato's cosmological 
+ creation story.\n\nhttps://www.bklynlibrary.org/node/799872
+LOCATION:Central Library\, Reverend Elsie Smith Room
 END:VEVENT
 END:VCALENDAR
