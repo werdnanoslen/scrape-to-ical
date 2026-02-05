@@ -420,9 +420,9 @@ LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moonlit Strings & Rhythms
-DTSTART:20260222T010000Z
-DTEND:20260222T030000Z
-DTSTAMP:20260222T010000Z
+DTSTART:20260222T003000Z
+DTEND:20260222T023000Z
+DTSTAMP:20260222T003000Z
 UID:Moonlit Strings & Rhythms
 DESCRIPTION:https://www.viewcy.com/event/moonlit_strings__rhy\n<p><img alt
  ="Moonlit Strings &amp\; Rhythms thumbnail" class="styles_coverImg__PsR9G"
@@ -430,35 +430,34 @@ DESCRIPTION:https://www.viewcy.com/event/moonlit_strings__rhy\n<p><img alt
  nt="Image" data-sentry-source-file="index.tsx" decoding="async" height="18
  6" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%
  2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
- 000%2F023%2F581%2Fcover%2FRamadan_Programming.jpg%3F1769802751&amp\;w=640&
- amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-productio
- n.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F581%2Fcover%2
- FRamadan_Programming.jpg%3F1769802751&amp\;w=384&amp\;q=100 1x\, /_next/im
- age?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%
- 2Ffeatured_images%2F000%2F023%2F581%2Fcover%2FRamadan_Programming.jpg%3F17
- 69802751&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308
- "/></p>
+ 000%2F023%2F581%2Fcover%2F1000070282.jpg%3F1770328197&amp\;w=640&amp\;q=10
+ 0" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
+ onaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F581%2Fcover%2F10000702
+ 82.jpg%3F1770328197&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F023%2F581%2Fcover%2F1000070282.jpg%3F1770328197&amp\;w=640&amp\;q=
+ 100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A.B.E.L.A
-DTSTART:20260222T030000Z
-DTEND:20260222T050000Z
-DTSTAMP:20260222T030000Z
+DTSTART:20260222T023000Z
+DTEND:20260222T043000Z
+DTSTAMP:20260222T023000Z
 UID:A.B.E.L.A
 DESCRIPTION:https://www.viewcy.com/event/abela_1\n<p><img alt="A.B.E.L.A t
  humbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-compone
  nt="ImageWithFallback" data-sentry-element="Image" data-sentry-source-file
  ="index.tsx" decoding="async" height="186" loading="lazy" src="https://www
  .viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
- onaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F721%2Fcover%2FNew_Desi
- gns.jpg%3F1770148500&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https
- %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
- ages%2F000%2F023%2F721%2Fcover%2FNew_Designs.jpg%3F1770148500&amp\;w=384&a
- mp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.
- amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F721%2Fcover%2FNew_
- Designs.jpg%3F1770148500&amp\;w=640&amp\;q=100 2x" style="color: transpare
- nt\;" width="308"/></p>
+ onaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F721%2Fcover%2F10000702
+ 79.jpg%3F1770328275&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F023%2F721%2Fcover%2F1000070279.jpg%3F1770328275&amp\;w=384&amp
+ \;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
+ azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F721%2Fcover%2F100007
+ 0279.jpg%3F1770328275&amp\;w=640&amp\;q=100 2x" style="color: transparent\
+ ;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
