@@ -21,42 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260205T150000Z
-DTEND:20260205T200000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
- 84
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Intro to Microsoft PowerPoint
-DTSTART:20260205T190000Z
-DTEND:20260205T200000Z
-DESCRIPTION:An introduction to Microsoft PowerPoint for beginners to famil
- iarize themselves with the application.\n\nhttps://www.bklynlibrary.org/no
- de/807245
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260205T190000Z
-DTEND:20260205T193000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/809679
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260205T193000Z
-DTEND:20260205T200000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/809687
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hayes Greenfield's Sound Play\, Sound Sculpture Workshops
 DTSTART:20260205T200000Z
 DTEND:20260205T210000Z
@@ -372,5 +336,38 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8039
  82
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260209T213000Z
+DTEND:20260209T230000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8069
+ 67
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class with Chance
+DTSTART:20260209T220000Z
+DTEND:20260209T224500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/799161
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Guided Music Production Session: Beginner
+DTSTART:20260209T223000Z
+DTEND:20260209T003000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/785098
+LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20260209T224500Z
+DTEND:20260209T004500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/804940
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
