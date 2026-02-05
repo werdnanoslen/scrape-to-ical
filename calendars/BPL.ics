@@ -30,22 +30,12 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free In-Person Tax Help (By Appointment) with AARP
-DTSTART:20260205T150000Z
-DTEND:20260205T190000Z
-DESCRIPTION:Register to make an appointment to receive free tax assistance
-  with AARP for you and your family.\n\nhttps://www.bklynlibrary.org/node/8
- 08719
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Motion Graphics with After Effects
-DTSTART:20260205T153000Z
-DTEND:20260205T183000Z
-DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
- mic motion graphics and video effects compositing. This 4-part course cove
- rs the basics of the After Effects interface\, text and layer ani\n\nhttps
- ://www.bklynlibrary.org/node/795928
+SUMMARY:CANCELLED: Intro to Microsoft PowerPoint
+DTSTART:20260205T190000Z
+DTEND:20260205T200000Z
+DESCRIPTION:An introduction to Microsoft PowerPoint for beginners to famil
+ iarize themselves with the application.\n\nhttps://www.bklynlibrary.org/no
+ de/807245
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
@@ -56,15 +46,6 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/809679
 LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Intro to Microsoft PowerPoint
-DTSTART:20260205T190000Z
-DTEND:20260205T200000Z
-DESCRIPTION:An introduction to Microsoft PowerPoint for beginners to famil
- iarize themselves with the application.\n\nhttps://www.bklynlibrary.org/no
- de/807245
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
@@ -372,5 +353,24 @@ DTSTART:20260209T200000Z
 DTEND:20260209T220000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/805623
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20260209T210000Z
+DTEND:20260209T220000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/807769
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260209T213000Z
+DTEND:20260209T230000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8039
+ 82
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
