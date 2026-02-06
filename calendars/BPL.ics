@@ -11,44 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260205T223000Z
-DTEND:20260205T003000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/792776
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260205T230000Z
-DTEND:20260205T010000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/804952
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Christopher Mathias on To Catch A Fascist
-DTSTART:20260205T230000Z
-DTEND:20260205T003000Z
-DESCRIPTION:Join us at Brooklyn Heights Library to hear Christopher Mathia
- s and Marisa Kabas discuss To Catch A Fascist.\n\nhttps://www.bklynlibrary
- .org/node/805826
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260205T230000Z
-DTEND:20260205T003000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/807048
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movie: A Man Alone (1955)
 DTSTART:20260206T153000Z
 DTEND:20260206T170500Z
@@ -367,5 +329,41 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/801739
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260210T190000Z
+DTEND:20260210T200000Z
+DESCRIPTION:Ask a range of tech questions about various tech devices.\n\nh
+ ttps://www.bklynlibrary.org/node/807247
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260210T200000Z
+DTEND:20260210T220000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/80336
+ 3
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NELP: Employment Law
+DTSTART:20260210T210000Z
+DTEND:20260210T223000Z
+DESCRIPTION:This presentation will engage microentrepreneurs in a discussi
+ on about worker classification and employer obligations. The webinar will 
+ clarify the differences between Independent Contractors and Empl\n\nhttps:
+ //www.bklynlibrary.org/node/786702
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Crafting Circle
+DTSTART:20260210T210000Z
+DTEND:20260210T220000Z
+DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
+ Join our virtual crafting circle! Every 2nd and 4th Tuesday of the month\,
+  get together with fellow crafters to chat and discuss what you'r\n\nhttps
+ ://www.bklynlibrary.org/node/801584
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
