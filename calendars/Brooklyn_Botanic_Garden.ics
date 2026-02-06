@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260207T030511Z
-DTEND;VALUE=DATE:20260207T050511Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-07 03:05:11.219069+00:
+DTSTART;VALUE=DATE:20260207T040725Z
+DTEND;VALUE=DATE:20260207T060725Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-07 04:07:25.373735+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -53,21 +53,6 @@ DESCRIPTION:Saturday\, February 7\, 2026 | 9 a.m.–3:30 p.m.\n					\n\n\n
  re info:\nhttps://www.bbg.org/classes/tree_health_and_structure\n\n<img sr
  c="/img/uploads/hero/_list_thumbnail_regular/tree-health_MS_51023260281.jp
  eg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conservatory Highlights Tour
-DTSTART;VALUE=DATE:20260207T050000Z
-DTEND;VALUE=DATE:20260207T070000Z
-UID:Conservatory Highlights Tour-2026-02-07 05:00:00+00:00
-DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
-  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
-  plants from faraway places and different climates around the world on thi
- s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
- lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
- asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
- lar/desert-house_4454699678.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
