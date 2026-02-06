@@ -462,6 +462,28 @@ DESCRIPTION:https://www.viewcy.com/event/music_history_and_ar\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Night of Umm Kulthum Tarab
+DTSTART:20260301T230000Z
+DTEND:20260302T010000Z
+DTSTAMP:20260301T230000Z
+UID:A Night of Umm Kulthum Tarab
+DESCRIPTION:https://www.viewcy.com/event/a_night_of_umm_kulthu\n<p><img al
+ t="A Night of Umm Kulthum Tarab thumbnail" class="styles_coverImg__PsR9G" 
+ data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
+ t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
+ " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F023%2F808%2Fcover%2FRamadan_Programming.jpg%3F1770394954&amp\;w=640&a
+ mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F808%2Fcover%2F
+ Ramadan_Programming.jpg%3F1770394954&amp\;w=384&amp\;q=100 1x\, /_next/ima
+ ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
+ Ffeatured_images%2F000%2F023%2F808%2Fcover%2FRamadan_Programming.jpg%3F177
+ 0394954&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"
+ /></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Qawwali with The Saami Brothers
 DTSTART:20260302T010000Z
 DTEND:20260302T030000Z
@@ -481,6 +503,28 @@ DESCRIPTION:https://www.viewcy.com/event/qawwali_with_the_saam_3\n<p><img
  ses%2Ffeatured_images%2F000%2F023%2F580%2Fcover%2FRamadan_Programming.jpg%
  3F1769801470&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width=
  "308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gnawa Night with Samir Langus
+DTSTART:20260306T010000Z
+DTEND:20260306T030000Z
+DTSTAMP:20260306T010000Z
+UID:Gnawa Night with Samir Langus
+DESCRIPTION:https://www.viewcy.com/event/gnawa_night_with_sami\n<p><img al
+ t="Gnawa Night with Samir Langus thumbnail" class="styles_coverImg__PsR9G"
+  data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-eleme
+ nt="Image" data-sentry-source-file="index.tsx" decoding="async" height="18
+ 6" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F023%2F810%2Fcover%2FRamadan_Programming.jpg%3F1770395990&amp\;w=640&
+ amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-productio
+ n.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F810%2Fcover%2
+ FRamadan_Programming.jpg%3F1770395990&amp\;w=384&amp\;q=100 1x\, /_next/im
+ age?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%
+ 2Ffeatured_images%2F000%2F023%2F810%2Fcover%2FRamadan_Programming.jpg%3F17
+ 70395990&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308
+ "/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
