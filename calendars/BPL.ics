@@ -19,6 +19,16 @@ DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260206T160000Z
+DTEND:20260206T180000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by Central Library for he
+ lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
+ ps://www.bklynlibrary.org/node/795484
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260206T160000Z
 DTEND:20260206T180000Z
@@ -354,16 +364,6 @@ DESCRIPTION:This presentation will engage microentrepreneurs in a discussi
  on about worker classification and employer obligations. The webinar will 
  clarify the differences between Independent Contractors and Empl\n\nhttps:
  //www.bklynlibrary.org/node/786702
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Crafting Circle
-DTSTART:20260210T210000Z
-DTEND:20260210T220000Z
-DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
- Join our virtual crafting circle! Every 2nd and 4th Tuesday of the month\,
-  get together with fellow crafters to chat and discuss what you'r\n\nhttps
- ://www.bklynlibrary.org/node/801584
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
