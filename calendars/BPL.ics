@@ -30,6 +30,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260206T190000Z
+DTEND:20260206T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/793703
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Friday Film Club: A Beautiful Mind (2001)
 DTSTART:20260206T190000Z
 DTEND:20260206T213000Z
@@ -38,15 +47,6 @@ DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
  ul Mind\, starring Russell Crowe.\n\nhttps://www.bklynlibrary.org/node/806
  638
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260206T190000Z
-DTEND:20260206T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/793703
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
