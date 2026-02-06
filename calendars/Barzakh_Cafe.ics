@@ -462,6 +462,27 @@ DESCRIPTION:https://www.viewcy.com/event/music_history_and_ar\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Naji Soul
+DTSTART:20260301T030000Z
+DTEND:20260301T050000Z
+DTSTAMP:20260301T030000Z
+UID:Naji Soul
+DESCRIPTION:https://www.viewcy.com/event/naji_soul\n<p><img alt="Naji Soul
+  thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-compo
+ nent="ImageWithFallback" data-sentry-element="Image" data-sentry-source-fi
+ le="index.tsx" decoding="async" height="186" loading="lazy" src="https://w
+ ww.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
+ azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F813%2Fcover%2FRamada
+ n_Programming.jpg%3F1770406021&amp\;w=640&amp\;q=100" srcset="/_next/image
+ ?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ff
+ eatured_images%2F000%2F023%2F813%2Fcover%2FRamadan_Programming.jpg%3F17704
+ 06021&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-her
+ oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F
+ 813%2Fcover%2FRamadan_Programming.jpg%3F1770406021&amp\;w=640&amp\;q=100 2
+ x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Night of Umm Kulthum Tarab
 DTSTART:20260301T230000Z
 DTEND:20260302T010000Z
