@@ -11,64 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260207T153000Z
-DTEND:20260207T170000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/7837
- 95
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Chat
-DTSTART:20260207T153000Z
-DTEND:20260207T170000Z
-DESCRIPTION:Join us at Brooklyn Heights for our monthly Book Chat! Bring a
-  book you've read recently that you'd like to tell other folks about\, and
-  hear what other people are reading. It's like a book club\, excep\n\nhttp
- s://www.bklynlibrary.org/node/808260
-LOCATION:Brooklyn Heights Library\, Orange Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reboot + Rebrand: Expanding Your Professional Package
-DTSTART:20260207T180000Z
-DTEND:20260207T210000Z
-DESCRIPTION:Ready to kick-off the new year? Join BPL's LevelUP Program for
-  Reboot + Rebrand: Expanding Your Professional Package - a community-cente
- red panel designed to support job-seekers and professionals to b\n\nhttps:
- //www.bklynlibrary.org/node/802575
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260207T183000Z
-DTEND:20260207T203000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/804972
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
-DTSTART:20260207T193000Z
-DTEND:20260207T213000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing. 
- Instructor Margot will be at this session. Please refer to her wit\n\nhttp
- s://www.bklynlibrary.org/node/807750
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Carnegie Hall Citywide: Jody Redhage Ferber Trio
-DTSTART:20260208T210000Z
-DTEND:20260208T223000Z
-DESCRIPTION:Identical twin brothers Grammy-nominated trombonist/composer A
- lan Ferber and acclaimed jazz drummer Mark Ferber began collaborating as p
- reteens in their California basement. Cellist Jody Redhage Ferbe\n\nhttps:
- //www.bklynlibrary.org/node/805074
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brooklyn Family Support Services Advisory Council Meeting
 DTSTART:20260209T150000Z
 DTEND:20260209T170000Z
@@ -370,5 +312,64 @@ DESCRIPTION:Come learn basics of the sewing machine with us! We provide th
  uce the basics of a sewing machine and you may create a small sew\n\nhttps
  ://www.bklynlibrary.org/node/808343
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sewing Class Workshops: Basics of the Machine
+DTSTART:20260210T233000Z
+DTEND:20260210T003000Z
+DESCRIPTION:Come learn basics of the sewing machine with us! We provide th
+ e machines\, and you are welcome to bring your own. This event will introd
+ uce the basics of a sewing machine and you may create a small sew\n\nhttps
+ ://www.bklynlibrary.org/node/810446
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260211T150000Z
+DTEND:20260211T170000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 73
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260211T150000Z
+DTEND:20260211T220000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/807886
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20260211T150000Z
+DTEND:20260211T163000Z
+DESCRIPTION:Come join us our longstanding circle of Hebrew students if you
+ 're new to Hebrew\; learn vocabulary\,study grammar\, read stories and tal
+ k in an informal and friendly setting\n\nhttps://www.bklynlibrary.org/node
+ /803921
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hospitality Front Desk Representative or Guestroom Attendant Certi
+ fication Training
+DTSTART:20260211T153000Z
+DTEND:20260211T163000Z
+DESCRIPTION:First impressions starts with you! Are you interested in earni
+ ng a nationally recognized hospitality front desk representative certifica
+ tion? Join our session to learn how you can learn the necessary\n\nhttps:/
+ /www.bklynlibrary.org/node/809995
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260211T160000Z
+DTEND:20260211T220000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/808661
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
