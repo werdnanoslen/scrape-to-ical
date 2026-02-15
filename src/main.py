@@ -5,6 +5,7 @@ from scrapers.bric import BRICScraper
 from scrapers.barzakh import BarzakhScraper
 from scrapers.bpl import BPLScraper
 from scrapers.bfc import BFCScraper
+from scrapers.red import RedScraper
 
 
 def main() -> None:
@@ -14,6 +15,7 @@ def main() -> None:
     MyCalendar(BarzakhScraper()).write()
     MyCalendar(BPLScraper()).write()
     MyCalendar(BFCScraper()).write()
+    MyCalendar(RedScraper()).write()
 
 
 if __name__ == '__main__':
