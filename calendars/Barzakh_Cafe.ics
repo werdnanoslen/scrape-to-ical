@@ -11,587 +11,642 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:DHAMĀL
-DTSTART:20260214T000000Z
-DTEND:20260214T020000Z
-DTSTAMP:20260214T000000Z
-UID:DHAMĀL
-DESCRIPTION:https://www.viewcy.com/event/dhaml\n<p><img alt="DHAMĀL thumb
+SUMMARY:Khyal: BRM Concert and Jam
+DTSTART:20260410T000000Z
+DTEND:20260410T020000Z
+DTSTAMP:20260410T000000Z
+UID:Khyal: BRM Concert and Jam
+DESCRIPTION:https://www.viewcy.com/event/khyal_brm_concert_an\n<p><img alt
+ ="Khyal: BRM Concert and Jam thumbnail" class="styles_coverImg__PsR9G" dat
+ a-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="
+ Image" data-sentry-source-file="index.tsx" decoding="async" height="186" l
+ oading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvi
+ ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
+ 2F024%2F935%2Fcover%2FEblast_Thumbnails__28Instagram_Post__2845_29_29__286
+ _29.jpg%3F1774880052&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F024%2F935%2Fcover%2FEblast_Thumbnails__28Instagram_Post__2845
+ _29_29__286_29.jpg%3F1774880052&amp\;w=384&amp\;q=100 1x\, /_next/image?ur
+ l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
+ ured_images%2F000%2F024%2F935%2Fcover%2FEblast_Thumbnails__28Instagram_Pos
+ t__2845_29_29__286_29.jpg%3F1774880052&amp\;w=640&amp\;q=100 2x" style="co
+ lor: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ricardo Sanchez Solo: Flamenco Guitar
+DTSTART:20260410T220000Z
+DTEND:20260411T000000Z
+DTSTAMP:20260410T220000Z
+UID:Ricardo Sanchez Solo: Flamenco Guitar
+DESCRIPTION:https://www.viewcy.com/event/ricardo_sanchez_solo\n<p><img alt
+ ="Ricardo Sanchez Solo: Flamenco Guitar thumbnail" class="styles_coverImg_
+ _PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentr
+ y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
+ ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F024%2F940%2Fcover%2FNew_Designs.jpg%3F1774891528&amp\;w=640&a
+ mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F024%2F940%2Fcover%2F
+ New_Designs.jpg%3F1774891528&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F024%2F940%2Fcover%2FNew_Designs.jpg%3F1774891528&amp\;w=6
+ 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dhamal
+DTSTART:20260410T230000Z
+DTEND:20260411T010000Z
+DTSTAMP:20260410T230000Z
+UID:Dhamal
+DESCRIPTION:https://www.viewcy.com/event/dhamal\n<p><img alt="Dhamal thumb
  nail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="
  ImageWithFallback" data-sentry-element="Image" data-sentry-source-file="in
  dex.tsx" decoding="async" height="186" loading="lazy" src="https://www.vie
  wcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaw
- s.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F436%2Fcover%2FNew_Designs.
- jpg%3F1769459842&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%
+ s.com%2Fcourses%2Ffeatured_images%2F000%2F024%2F488%2Fcover%2FNew_Designs.
+ jpg%3F1773350582&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%
  2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images
- %2F000%2F023%2F436%2Fcover%2FNew_Designs.jpg%3F1769459842&amp\;w=384&amp\;
+ %2F000%2F024%2F488%2Fcover%2FNew_Designs.jpg%3F1773350582&amp\;w=384&amp\;
  q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
- onaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F436%2Fcover%2FNew_Desi
- gns.jpg%3F1769459842&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
+ onaws.com%2Fcourses%2Ffeatured_images%2F000%2F024%2F488%2Fcover%2FNew_Desi
+ gns.jpg%3F1773350582&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
  " width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Heartbeats & Hot Rhythms: Valentine’s Day with Linda E.P.O. and 
- her Ensemble New Yorkino
-DTSTART:20260215T010000Z
-DTEND:20260215T030000Z
-DTSTAMP:20260215T010000Z
-UID:Heartbeats & Hot Rhythms: Valentine’s Day with Linda E.P.O. and her 
- Ensemble New Yorkino
-DESCRIPTION:https://www.viewcy.com/event/heartbeats-hot-rhymes\n<p><img al
- t="Heartbeats &amp\; Hot Rhythms: Valentine’s Day with Linda E.P.O. and 
- her Ensemble New Yorkino thumbnail" class="styles_coverImg__PsR9G" data-ni
- mg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Imag
- e" data-sentry-source-file="index.tsx" decoding="async" height="186" loadi
- ng="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy
- -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
- 3%2F277%2Fcover%2FNew_Designs.jpg%3F1768928440&amp\;w=640&amp\;q=100" srcs
- et="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.c
- om%2Fcourses%2Ffeatured_images%2F000%2F023%2F277%2Fcover%2FNew_Designs.jpg
- %3F1768928440&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fvi
- ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
- 2F023%2F277%2Fcover%2FNew_Designs.jpg%3F1768928440&amp\;w=640&amp\;q=100 2
- x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DJ Set by AMYNE
-DTSTART:20260215T040000Z
-DTEND:20260215T060000Z
-DTSTAMP:20260215T040000Z
-UID:DJ Set by AMYNE
-DESCRIPTION:https://www.viewcy.com/event/dj_set_by_amyne\n<p><img alt="DJ 
- Set by AMYNE thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
- sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
- ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
- c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
- uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F671%2Fco
- ver%2FNew_Designs.jpg%3F1770049959&amp\;w=640&amp\;q=100" srcset="/_next/i
- mage?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses
- %2Ffeatured_images%2F000%2F023%2F671%2Fcover%2FNew_Designs.jpg%3F177004995
- 9&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-
- production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F671%
- 2Fcover%2FNew_Designs.jpg%3F1770049959&amp\;w=640&amp\;q=100 2x" style="co
- lor: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Whispers of Fairuz
-DTSTART:20260215T233000Z
-DTEND:20260216T013000Z
-DTSTAMP:20260215T233000Z
-UID:Whispers of Fairuz
-DESCRIPTION:https://www.viewcy.com/event/whispers_of_fairuz\n<p><img alt="
- Whispers of Fairuz thumbnail" class="styles_coverImg__PsR9G" data-nimg="1"
-  data-sentry-component="ImageWithFallback" data-sentry-element="Image" dat
- a-sentry-source-file="index.tsx" decoding="async" height="186" loading="la
- zy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-herok
- u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F71
- 9%2Fcover%2FNew_Designs.jpg%3F1770144754&amp\;w=640&amp\;q=100" srcset="/_
- next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fc
- ourses%2Ffeatured_images%2F000%2F023%2F719%2Fcover%2FNew_Designs.jpg%3F177
- 0144754&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
- eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%
- 2F719%2Fcover%2FNew_Designs.jpg%3F1770144754&amp\;w=640&amp\;q=100 2x" sty
- le="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Al Bait Baitkom
-DTSTART:20260216T003000Z
-DTEND:20260216T023000Z
-DTSTAMP:20260216T003000Z
-UID:Al Bait Baitkom
-DESCRIPTION:https://www.viewcy.com/event/al_bait_baitkom\n<p><img alt="Al 
- Bait Baitkom thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
- sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
- ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
- c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
- uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F685%2Fco
- ver%2FNew_Designs.jpg%3F1770069051&amp\;w=640&amp\;q=100" srcset="/_next/i
- mage?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses
- %2Ffeatured_images%2F000%2F023%2F685%2Fcover%2FNew_Designs.jpg%3F177006905
- 1&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-
- production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F685%
- 2Fcover%2FNew_Designs.jpg%3F1770069051&amp\;w=640&amp\;q=100 2x" style="co
- lor: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sufi and Bollywood night at Barzakh
-DTSTART:20260220T010000Z
-DTEND:20260220T030000Z
-DTSTAMP:20260220T010000Z
-UID:Sufi and Bollywood night at Barzakh
-DESCRIPTION:https://www.viewcy.com/event/sufi_and_bollywood_ni\n<p><img al
- t="Sufi and Bollywood night at Barzakh thumbnail" class="styles_coverImg__
- PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
- -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
- ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
- 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
- ges%2F000%2F023%2F290%2Fcover%2FWhatsApp_Image_2026-01-22_at_8.24.26_PM.jp
- g%3F1769112515&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F
- %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
- F000%2F023%2F290%2Fcover%2FWhatsApp_Image_2026-01-22_at_8.24.26_PM.jpg%3F1
- 769112515&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy
- -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
- 3%2F290%2Fcover%2FWhatsApp_Image_2026-01-22_at_8.24.26_PM.jpg%3F1769112515
- &amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Los Nuyores
-DTSTART:20260221T010000Z
-DTEND:20260221T030000Z
-DTSTAMP:20260221T010000Z
-UID:Los Nuyores
-DESCRIPTION:https://www.viewcy.com/event/los_nuyores\n<p><img alt="Los Nuy
- ores thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-c
- omponent="ImageWithFallback" data-sentry-element="Image" data-sentry-sourc
- e-file="index.tsx" decoding="async" height="186" loading="lazy" src="https
- ://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
- 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F576%2Fcover%2FWh
- atsApp_Image_2026-01-30_at_8.06.48_PM.jpg%3F1770923444&amp\;w=640&amp\;q=1
- 00" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.ama
- zonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F576%2Fcover%2FWhatsAp
- p_Image_2026-01-30_at_8.06.48_PM.jpg%3F1770923444&amp\;w=384&amp\;q=100 1x
- \, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.co
- m%2Fcourses%2Ffeatured_images%2F000%2F023%2F576%2Fcover%2FWhatsApp_Image_2
- 026-01-30_at_8.06.48_PM.jpg%3F1770923444&amp\;w=640&amp\;q=100 2x" style="
- color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramadan Qawwali with The Saami Brothers
-DTSTART:20260221T030000Z
-DTEND:20260221T050000Z
-DTSTAMP:20260221T030000Z
-UID:Ramadan Qawwali with The Saami Brothers
-DESCRIPTION:https://www.viewcy.com/event/qawwali_with_the_saam_2\n<p><img 
- alt="Ramadan Qawwali with The Saami Brothers thumbnail" class="styles_cove
- rImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-
- sentry-element="Image" data-sentry-source-file="index.tsx" decoding="async
- " height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=
- https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
- ed_images%2F000%2F023%2F579%2Fcover%2FRamadan_Programming.jpg%3F1770837804
- &amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-hero
- ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F5
- 79%2Fcover%2FRamadan_Programming.jpg%3F1770837804&amp\;w=384&amp\;q=100 1x
- \, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.co
- m%2Fcourses%2Ffeatured_images%2F000%2F023%2F579%2Fcover%2FRamadan_Programm
- ing.jpg%3F1770837804&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
- " width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moonlit Strings & Rhythms
-DTSTART:20260222T003000Z
-DTEND:20260222T023000Z
-DTSTAMP:20260222T003000Z
-UID:Moonlit Strings & Rhythms
-DESCRIPTION:https://www.viewcy.com/event/moonlit_strings__rhy\n<p><img alt
- ="Moonlit Strings &amp\; Rhythms thumbnail" class="styles_coverImg__PsR9G"
-  data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-eleme
- nt="Image" data-sentry-source-file="index.tsx" decoding="async" height="18
- 6" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%
- 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
- 000%2F023%2F581%2Fcover%2F1000070282.jpg%3F1770328197&amp\;w=640&amp\;q=10
- 0" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
- onaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F581%2Fcover%2F10000702
- 82.jpg%3F1770328197&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2
- F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
- 2F000%2F023%2F581%2Fcover%2F1000070282.jpg%3F1770328197&amp\;w=640&amp\;q=
- 100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A.B.E.L.A
-DTSTART:20260222T023000Z
-DTEND:20260222T043000Z
-DTSTAMP:20260222T023000Z
-UID:A.B.E.L.A
-DESCRIPTION:https://www.viewcy.com/event/abela_1\n<p><img alt="A.B.E.L.A t
- humbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-compone
- nt="ImageWithFallback" data-sentry-element="Image" data-sentry-source-file
- ="index.tsx" decoding="async" height="186" loading="lazy" src="https://www
- .viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
- onaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F721%2Fcover%2F10000702
- 79.jpg%3F1770328275&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%
- 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
- ges%2F000%2F023%2F721%2Fcover%2F1000070279.jpg%3F1770328275&amp\;w=384&amp
- \;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
- azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F721%2Fcover%2F100007
- 0279.jpg%3F1770328275&amp\;w=640&amp\;q=100 2x" style="color: transparent\
- ;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cool Out Vol. 5
-DTSTART:20260223T013000Z
-DTEND:20260223T033000Z
-DTSTAMP:20260223T013000Z
-UID:The Cool Out Vol. 5
-DESCRIPTION:https://www.viewcy.com/event/the_cool_out_vol_5\n<p><img alt="
- The Cool Out Vol. 5 thumbnail" class="styles_coverImg__PsR9G" data-nimg="1
- " data-sentry-component="ImageWithFallback" data-sentry-element="Image" da
- ta-sentry-source-file="index.tsx" decoding="async" height="186" loading="l
- azy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-hero
- ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F8
- 29%2Fcover%2FCOOLOUT5.jpg%3F1770485021&amp\;w=640&amp\;q=100" srcset="/_ne
- xt/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcou
- rses%2Ffeatured_images%2F000%2F023%2F829%2Fcover%2FCOOLOUT5.jpg%3F17704850
- 21&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku
- -production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F829
- %2Fcover%2FCOOLOUT5.jpg%3F1770485021&amp\;w=640&amp\;q=100 2x" style="colo
- r: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music\, History and Art of the Nueva Canción Movement
-DTSTART:20260301T010000Z
-DTEND:20260301T030000Z
-DTSTAMP:20260301T010000Z
-UID:Music\, History and Art of the Nueva Canción Movement
-DESCRIPTION:https://www.viewcy.com/event/music_history_and_ar\n<p><img alt
- ="Music\, History and Art of the Nueva Canción Movement thumbnail" class=
- "styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFal
- lback" data-sentry-element="Image" data-sentry-source-file="index.tsx" dec
- oding="async" height="186" loading="lazy" src="https://www.viewcy.com/_nex
- t/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcour
- ses%2Ffeatured_images%2F000%2F023%2F706%2Fcover%2FNew_Designs.jpg%3F177013
- 3952&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-
- heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023
- %2F706%2Fcover%2FNew_Designs.jpg%3F1770133952&amp\;w=384&amp\;q=100 1x\, /
- _next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2F
- courses%2Ffeatured_images%2F000%2F023%2F706%2Fcover%2FNew_Designs.jpg%3F17
- 70133952&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308
- "/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Naji Soul
-DTSTART:20260301T030000Z
-DTEND:20260301T050000Z
-DTSTAMP:20260301T030000Z
-UID:Naji Soul
-DESCRIPTION:https://www.viewcy.com/event/naji_soul\n<p><img alt="Naji Soul
-  thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-compo
- nent="ImageWithFallback" data-sentry-element="Image" data-sentry-source-fi
- le="index.tsx" decoding="async" height="186" loading="lazy" src="https://w
- ww.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.am
- azonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F813%2Fcover%2FRamada
- n_Programming.jpg%3F1770908530&amp\;w=640&amp\;q=100" srcset="/_next/image
- ?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ff
- eatured_images%2F000%2F023%2F813%2Fcover%2FRamadan_Programming.jpg%3F17709
- 08530&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-her
- oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F
- 813%2Fcover%2FRamadan_Programming.jpg%3F1770908530&amp\;w=640&amp\;q=100 2
- x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Night of Umm Kulthum Tarab
-DTSTART:20260301T230000Z
-DTEND:20260302T010000Z
-DTSTAMP:20260301T230000Z
-UID:A Night of Umm Kulthum Tarab
-DESCRIPTION:https://www.viewcy.com/event/a_night_of_umm_kulthu\n<p><img al
- t="A Night of Umm Kulthum Tarab thumbnail" class="styles_coverImg__PsR9G" 
- data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
- t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
- " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
- Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
- 00%2F023%2F808%2Fcover%2FRamadan_Programming.jpg%3F1770394954&amp\;w=640&a
- mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
- .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F808%2Fcover%2F
- Ramadan_Programming.jpg%3F1770394954&amp\;w=384&amp\;q=100 1x\, /_next/ima
- ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
- Ffeatured_images%2F000%2F023%2F808%2Fcover%2FRamadan_Programming.jpg%3F177
- 0394954&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"
- /></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramadan Qawwali with The Saami Brothers
-DTSTART:20260302T013000Z
-DTEND:20260302T033000Z
-DTSTAMP:20260302T013000Z
-UID:Ramadan Qawwali with The Saami Brothers
-DESCRIPTION:https://www.viewcy.com/event/qawwali_with_the_saam_3\n<p><img 
- alt="Ramadan Qawwali with The Saami Brothers thumbnail" class="styles_cove
- rImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-
- sentry-element="Image" data-sentry-source-file="index.tsx" decoding="async
- " height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=
- https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
- ed_images%2F000%2F023%2F580%2Fcover%2FRamadan_Programming.jpg%3F1770837885
- &amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-hero
- ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F5
- 80%2Fcover%2FRamadan_Programming.jpg%3F1770837885&amp\;w=384&amp\;q=100 1x
- \, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.co
- m%2Fcourses%2Ffeatured_images%2F000%2F023%2F580%2Fcover%2FRamadan_Programm
- ing.jpg%3F1770837885&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
- " width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Jazz Ghazal Project
-DTSTART:20260306T000000Z
-DTEND:20260306T020000Z
-DTSTAMP:20260306T000000Z
-UID:The Jazz Ghazal Project
-DESCRIPTION:https://www.viewcy.com/event/the_jazz_ghazal_proje\n<p><img al
- t="The Jazz Ghazal Project thumbnail" class="styles_coverImg__PsR9G" data-
- nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Im
- age" data-sentry-source-file="index.tsx" decoding="async" height="186" loa
- ding="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fview
- cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
- 023%2F921%2Fcover%2FRamadan_Programming.jpg%3F1770838969&amp\;w=640&amp\;q
- =100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.a
- mazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F921%2Fcover%2FRamad
- an_Programming.jpg%3F1770838969&amp\;w=384&amp\;q=100 1x\, /_next/image?ur
- l=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeat
- ured_images%2F000%2F023%2F921%2Fcover%2FRamadan_Programming.jpg%3F17708389
- 69&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p
- >
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gnawa Night with Samir Langus
-DTSTART:20260306T010000Z
-DTEND:20260306T030000Z
-DTSTAMP:20260306T010000Z
-UID:Gnawa Night with Samir Langus
-DESCRIPTION:https://www.viewcy.com/event/gnawa_night_with_sami\n<p><img al
- t="Gnawa Night with Samir Langus thumbnail" class="styles_coverImg__PsR9G"
-  data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-eleme
- nt="Image" data-sentry-source-file="index.tsx" decoding="async" height="18
- 6" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%
- 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
- 000%2F023%2F810%2Fcover%2FRamadan_Programming.jpg%3F1770909235&amp\;w=640&
- amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-productio
- n.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F810%2Fcover%2
- FRamadan_Programming.jpg%3F1770909235&amp\;w=384&amp\;q=100 1x\, /_next/im
- age?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%
- 2Ffeatured_images%2F000%2F023%2F810%2Fcover%2FRamadan_Programming.jpg%3F17
- 70909235&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308
- "/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramadan Qawwali with The Saami Brothers
-DTSTART:20260307T010000Z
-DTEND:20260307T030000Z
-DTSTAMP:20260307T010000Z
-UID:Ramadan Qawwali with The Saami Brothers
-DESCRIPTION:https://www.viewcy.com/event/qawwali_with_the_saam_4\n<p><img 
- alt="Ramadan Qawwali with The Saami Brothers thumbnail" class="styles_cove
- rImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-
- sentry-element="Image" data-sentry-source-file="index.tsx" decoding="async
- " height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=
- https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatur
- ed_images%2F000%2F023%2F684%2Fcover%2FRamadan_Programming.jpg%3F1770838115
- &amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-hero
- ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F6
- 84%2Fcover%2FRamadan_Programming.jpg%3F1770838115&amp\;w=384&amp\;q=100 1x
- \, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.co
- m%2Fcourses%2Ffeatured_images%2F000%2F023%2F684%2Fcover%2FRamadan_Programm
- ing.jpg%3F1770838115&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
- " width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reel in Raga
-DTSTART:20260307T230000Z
-DTEND:20260308T010000Z
-DTSTAMP:20260307T230000Z
-UID:Reel in Raga
-DESCRIPTION:https://www.viewcy.com/event/reel_in_raga\n<p><img alt="Reel i
- n Raga thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry
- -component="ImageWithFallback" data-sentry-element="Image" data-sentry-sou
- rce-file="index.tsx" decoding="async" height="186" loading="lazy" src="htt
- ps://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
- .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F381%2Fcover%2F
- Ramadan_Programming.jpg%3F1770932681&amp\;w=640&amp\;q=100" srcset="/_next
- /image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcours
- es%2Ffeatured_images%2F000%2F023%2F381%2Fcover%2FRamadan_Programming.jpg%3
- F1770932681&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fview
- cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
- 023%2F381%2Fcover%2FRamadan_Programming.jpg%3F1770932681&amp\;w=640&amp\;q
- =100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CAFE AMAN: GREEK NIGHT
-DTSTART:20260308T010000Z
-DTEND:20260308T030000Z
-DTSTAMP:20260308T010000Z
-UID:CAFE AMAN: GREEK NIGHT
-DESCRIPTION:https://www.viewcy.com/event/cafe_aman_greek_nigh_1\n<p><img a
- lt="CAFE AMAN: GREEK NIGHT thumbnail" class="styles_coverImg__PsR9G" data-
- nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Im
- age" data-sentry-source-file="index.tsx" decoding="async" height="186" loa
- ding="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fview
- cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
- 023%2F538%2Fcover%2FNew_Designs.jpg%3F1770653325&amp\;w=640&amp\;q=100" sr
- cset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws
- .com%2Fcourses%2Ffeatured_images%2F000%2F023%2F538%2Fcover%2FNew_Designs.j
- pg%3F1770653325&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2F
- viewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F00
- 0%2F023%2F538%2Fcover%2FNew_Designs.jpg%3F1770653325&amp\;w=640&amp\;q=100
-  2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zahra & Aljanoub Ensemble : Iraqi Night at Barzakh
-DTSTART:20260309T000000Z
-DTEND:20260309T020000Z
-DTSTAMP:20260309T000000Z
-UID:Zahra & Aljanoub Ensemble : Iraqi Night at Barzakh
-DESCRIPTION:https://www.viewcy.com/event/iraqi_night_at_barzak\n<p><img al
- t="Zahra &amp\; Aljanoub Ensemble : Iraqi Night at Barzakh thumbnail" clas
- s="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithF
- allback" data-sentry-element="Image" data-sentry-source-file="index.tsx" d
- ecoding="async" height="186" loading="lazy" src="https://www.viewcy.com/_n
- ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
- urses%2Ffeatured_images%2F000%2F023%2F877%2Fcover%2FRamadan_Programming.jp
- g%3F1770759661&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F
- %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
- F000%2F023%2F877%2Fcover%2FRamadan_Programming.jpg%3F1770759661&amp\;w=384
- &amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
- 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F877%2Fcover%2FRa
- madan_Programming.jpg%3F1770759661&amp\;w=640&amp\;q=100 2x" style="color:
-  transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bengal to Brooklyn
-DTSTART:20260313T000000Z
-DTEND:20260313T020000Z
-DTSTAMP:20260313T000000Z
-UID:Bengal to Brooklyn
-DESCRIPTION:https://www.viewcy.com/event/bengal_to_brooklyn_1\n<p><img alt
- ="Bengal to Brooklyn thumbnail" class="styles_coverImg__PsR9G" data-nimg="
- 1" data-sentry-component="ImageWithFallback" data-sentry-element="Image" d
- ata-sentry-source-file="index.tsx" decoding="async" height="186" loading="
- lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-her
- oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F
- 875%2Fcover%2FRamadan_Programming.jpg%3F1770749599&amp\;w=640&amp\;q=100" 
- srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazona
- ws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F875%2Fcover%2FRamadan_Pro
- gramming.jpg%3F1770749599&amp\;w=384&amp\;q=100 1x\, /_next/image?url=http
- s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
- mages%2F000%2F023%2F875%2Fcover%2FRamadan_Programming.jpg%3F1770749599&amp
- \;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ramadan Qawwali with The Saami Brothers
-DTSTART:20260314T020000Z
-DTEND:20260314T040000Z
-DTSTAMP:20260314T020000Z
-UID:Ramadan Qawwali with The Saami Brothers
-DESCRIPTION:https://www.viewcy.com/event/ramadan_qawwali_with\n<p><img alt
- ="Ramadan Qawwali with The Saami Brothers thumbnail" class="styles_coverIm
- g__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sen
- try-element="Image" data-sentry-source-file="index.tsx" decoding="async" h
- eight="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=htt
- ps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_
- images%2F000%2F023%2F945%2Fcover%2FRamadan_Programming.jpg%3F1770911216&am
- p\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-
- production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F945%
- 2Fcover%2FRamadan_Programming.jpg%3F1770911216&amp\;w=384&amp\;q=100 1x\, 
- /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2
- Fcourses%2Ffeatured_images%2F000%2F023%2F945%2Fcover%2FRamadan_Programming
- .jpg%3F1770911216&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" w
- idth="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reflections Of Sodade from Cape Verde to Abya Yala
-DTSTART:20260315T000000Z
-DTEND:20260315T020000Z
-DTSTAMP:20260315T000000Z
-UID:Reflections Of Sodade from Cape Verde to Abya Yala
-DESCRIPTION:https://www.viewcy.com/event/reflections_of_sodade\n<p><img al
- t="Reflections Of Sodade from Cape Verde to Abya Yala thumbnail" class="st
- yles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallba
- ck" data-sentry-element="Image" data-sentry-source-file="index.tsx" decodi
- ng="async" height="186" loading="lazy" src="https://www.viewcy.com/_next/i
- mage?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses
- %2Ffeatured_images%2F000%2F023%2F963%2Fcover%2FNew_Designs.jpg%3F177101313
- 4&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-her
- oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F
- 963%2Fcover%2FNew_Designs.jpg%3F1771013134&amp\;w=384&amp\;q=100 1x\, /_ne
- xt/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcou
- rses%2Ffeatured_images%2F000%2F023%2F963%2Fcover%2FNew_Designs.jpg%3F17710
- 13134&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/>
- </p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Iftar: Together in surrender
-DTSTART:20260315T223000Z
-DTEND:20260316T003000Z
-DTSTAMP:20260315T223000Z
-UID:Community Iftar: Together in surrender
-DESCRIPTION:https://www.viewcy.com/event/ramadan_iftar_togeth\n<p><img alt
- ="Community Iftar: Together in surrender thumbnail" class="styles_coverImg
- __PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sent
- ry-element="Image" data-sentry-source-file="index.tsx" decoding="async" he
- ight="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=http
- s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
- mages%2F000%2F023%2F709%2Fcover%2FRamadan_Programming.jpg%3F1770922348&amp
- \;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-p
- roduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F709%2
- Fcover%2FRamadan_Programming.jpg%3F1770922348&amp\;w=384&amp\;q=100 1x\, /
- _next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2F
- courses%2Ffeatured_images%2F000%2F023%2F709%2Fcover%2FRamadan_Programming.
- jpg%3F1770922348&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wi
- dth="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ameer Armaly and Friends: Classical Arabic Music
-DTSTART:20260316T000000Z
-DTEND:20260316T020000Z
-DTSTAMP:20260316T000000Z
-UID:Ameer Armaly and Friends: Classical Arabic Music
-DESCRIPTION:https://www.viewcy.com/event/ameer_armaly_and_frie_1\n<p><img 
- alt="Ameer Armaly and Friends: Classical Arabic Music thumbnail" class="st
- yles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallba
- ck" data-sentry-element="Image" data-sentry-source-file="index.tsx" decodi
- ng="async" height="186" loading="lazy" src="https://www.viewcy.com/_next/i
- mage?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses
- %2Ffeatured_images%2F000%2F023%2F962%2Fcover%2FRamadan_Programming.jpg%3F1
- 771012370&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fvi
- ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
- 2F023%2F962%2Fcover%2FRamadan_Programming.jpg%3F1771012370&amp\;w=384&amp\
- ;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.ama
- zonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F962%2Fcover%2FRamadan
- _Programming.jpg%3F1771012370&amp\;w=640&amp\;q=100 2x" style="color: tran
- sparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Habibi Gun Live at Barzakh
-DTSTART:20260321T000000Z
-DTEND:20260321T020000Z
-DTSTAMP:20260321T000000Z
-UID:Habibi Gun Live at Barzakh
-DESCRIPTION:https://www.viewcy.com/event/habibi_gun_live_at_ba\n<p><img al
- t="Habibi Gun Live at Barzakh thumbnail" class="styles_coverImg__PsR9G" da
+SUMMARY:The Umm Kulthum Workshop
+DTSTART:20260410T230000Z
+DTEND:20260411T010000Z
+DTSTAMP:20260410T230000Z
+UID:The Umm Kulthum Workshop
+DESCRIPTION:https://www.viewcy.com/event/the_umm_kulthum_works_2\n<p><img 
+ alt="The Umm Kulthum Workshop thumbnail" class="styles_coverImg__PsR9G" da
  ta-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element=
  "Image" data-sentry-source-file="index.tsx" decoding="async" height="186" 
  loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fv
  iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
- %2F023%2F770%2Fcover%2FNew_Designs.jpg%3F1770238666&amp\;w=640&amp\;q=100"
+ %2F024%2F787%2Fcover%2FNew_Designs.jpg%3F1774460651&amp\;w=640&amp\;q=100"
   srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazon
- aws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F770%2Fcover%2FNew_Design
- s.jpg%3F1770238666&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F
+ aws.com%2Fcourses%2Ffeatured_images%2F000%2F024%2F787%2Fcover%2FNew_Design
+ s.jpg%3F1774460651&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F
  %2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2
- F000%2F023%2F770%2Fcover%2FNew_Designs.jpg%3F1770238666&amp\;w=640&amp\;q=
+ F000%2F024%2F787%2Fcover%2FNew_Designs.jpg%3F1774460651&amp\;w=640&amp\;q=
  100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bulla en el Barrio
+DTSTART:20260411T023000Z
+DTEND:20260411T043000Z
+DTSTAMP:20260411T023000Z
+UID:Bulla en el Barrio
+DESCRIPTION:https://www.viewcy.com/event/bulla_en_el_barrio\n<p><img alt="
+ Bulla en el Barrio thumbnail" class="styles_coverImg__PsR9G" data-nimg="1"
+  data-sentry-component="ImageWithFallback" data-sentry-element="Image" dat
+ a-sentry-source-file="index.tsx" decoding="async" height="186" loading="la
+ zy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-herok
+ u-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F024%2F94
+ 2%2Fcover%2FNew_Designs.jpg%3F1774893934&amp\;w=640&amp\;q=100" srcset="/_
+ next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fc
+ ourses%2Ffeatured_images%2F000%2F024%2F942%2Fcover%2FNew_Designs.jpg%3F177
+ 4893934&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F024%
+ 2F942%2Fcover%2FNew_Designs.jpg%3F1774893934&amp\;w=640&amp\;q=100 2x" sty
+ le="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:YEGUA ft JULES DAUD BAND
+DTSTART:20260412T000000Z
+DTEND:20260412T020000Z
+DTSTAMP:20260412T000000Z
+UID:YEGUA ft JULES DAUD BAND
+DESCRIPTION:https://www.viewcy.com/event/yegua_ft_pdrito_ranki\n<p><img al
+ t="YEGUA ft JULES DAUD BAND thumbnail" class="styles_coverImg__PsR9G" data
+ -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
+ mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
+ ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvie
+ wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
+ F024%2F944%2Fcover%2FNew_Designs.jpg%3F1775239974&amp\;w=640&amp\;q=100" s
+ rcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaw
+ s.com%2Fcourses%2Ffeatured_images%2F000%2F024%2F944%2Fcover%2FNew_Designs.
+ jpg%3F1775239974&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F024%2F944%2Fcover%2FNew_Designs.jpg%3F1775239974&amp\;w=640&amp\;q=10
+ 0 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Francia Aka Bubalu and DJ Yurk
+DTSTART:20260412T020000Z
+DTEND:20260412T040000Z
+DTSTAMP:20260412T020000Z
+UID:DJ Francia Aka Bubalu and DJ Yurk
+DESCRIPTION:https://www.viewcy.com/event/dj_francia_aka_bubalu\n<p><img al
+ t="DJ Francia Aka Bubalu and DJ Yurk thumbnail" class="styles_coverImg__Ps
+ R9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-e
+ lement="Image" data-sentry-source-file="index.tsx" decoding="async" height
+ ="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A
+ %2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_image
+ s%2F000%2F025%2F183%2Fcover%2FNew_Designs.jpg%3F1775401242&amp\;w=640&amp\
+ ;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3
+ .amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F183%2Fcover%2FNew
+ _Designs.jpg%3F1775401242&amp\;w=384&amp\;q=100 1x\, /_next/image?url=http
+ s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
+ mages%2F000%2F025%2F183%2Fcover%2FNew_Designs.jpg%3F1775401242&amp\;w=640&
+ amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Arab Book Corner Launch
+DTSTART:20260412T200000Z
+DTEND:20260412T220000Z
+DTSTAMP:20260412T200000Z
+UID:Brooklyn Arab Book Corner Launch
+DESCRIPTION:https://www.viewcy.com/event/brooklyn_arab_book_c\n<p><img alt
+ ="Brooklyn Arab Book Corner Launch thumbnail" class="styles_coverImg__PsR9
+ G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-ele
+ ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
+ 186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F025%2F107%2Fcover%2FBrown_Grey_Book_Fair_Flyer_.jpg%3F1775165602&a
+ mp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku
+ -production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F107
+ %2Fcover%2FBrown_Grey_Book_Fair_Flyer_.jpg%3F1775165602&amp\;w=384&amp\;q=
+ 100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazon
+ aws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F107%2Fcover%2FBrown_Grey
+ _Book_Fair_Flyer_.jpg%3F1775165602&amp\;w=640&amp\;q=100 2x" style="color:
+  transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qais Essar and The Living Rabab
+DTSTART:20260413T000000Z
+DTEND:20260413T020000Z
+DTSTAMP:20260413T000000Z
+UID:Qais Essar and The Living Rabab
+DESCRIPTION:https://www.viewcy.com/event/qais_essar_and_the_li_1\n<p><img 
+ alt="Qais Essar and The Living Rabab thumbnail" class="styles_coverImg__Ps
+ R9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-e
+ lement="Image" data-sentry-source-file="index.tsx" decoding="async" height
+ ="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A
+ %2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_image
+ s%2F000%2F025%2F045%2Fcover%2FNew_Designs.jpg%3F1775075386&amp\;w=640&amp\
+ ;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3
+ .amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F045%2Fcover%2FNew
+ _Designs.jpg%3F1775075386&amp\;w=384&amp\;q=100 1x\, /_next/image?url=http
+ s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
+ mages%2F000%2F025%2F045%2Fcover%2FNew_Designs.jpg%3F1775075386&amp\;w=640&
+ amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:StoryTell & Sound Mind Present: Story in Sound
+DTSTART:20260414T223000Z
+DTEND:20260415T003000Z
+DTSTAMP:20260414T223000Z
+UID:StoryTell & Sound Mind Present: Story in Sound
+DESCRIPTION:https://www.viewcy.com/event/storytell__sound_min\n<p><img alt
+ ="StoryTell &amp\; Sound Mind Present: Story in Sound thumbnail" class="st
+ yles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallba
+ ck" data-sentry-element="Image" data-sentry-source-file="index.tsx" decodi
+ ng="async" height="186" loading="lazy" src="https://www.viewcy.com/_next/i
+ mage?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses
+ %2Ffeatured_images%2F000%2F023%2F920%2Fcover%2FIMG_2096.jpg%3F1770838090&a
+ mp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku
+ -production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F023%2F920
+ %2Fcover%2FIMG_2096.jpg%3F1770838090&amp\;w=384&amp\;q=100 1x\, /_next/ima
+ ge?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2
+ Ffeatured_images%2F000%2F023%2F920%2Fcover%2FIMG_2096.jpg%3F1770838090&amp
+ \;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of Qawwali With Ali Zaman Taji
+DTSTART:20260416T220000Z
+DTEND:20260417T000000Z
+DTSTAMP:20260416T220000Z
+UID:Night of Qawwali With Ali Zaman Taji
+DESCRIPTION:https://www.viewcy.com/event/night_of_qawwali_with_1\n<p><img 
+ alt="Night of Qawwali With Ali Zaman Taji thumbnail" class="styles_coverIm
+ g__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sen
+ try-element="Image" data-sentry-source-file="index.tsx" decoding="async" h
+ eight="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=htt
+ ps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_
+ images%2F000%2F025%2F030%2Fcover%2FWith_Ali_Zaman_Taji.jpg%3F1775058328&am
+ p\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-
+ production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F030%
+ 2Fcover%2FWith_Ali_Zaman_Taji.jpg%3F1775058328&amp\;w=384&amp\;q=100 1x\, 
+ /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2
+ Fcourses%2Ffeatured_images%2F000%2F025%2F030%2Fcover%2FWith_Ali_Zaman_Taji
+ .jpg%3F1775058328&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" w
+ idth="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:KARIM NAGI • RHYTHM CONCERT
+DTSTART:20260417T000000Z
+DTEND:20260417T020000Z
+DTSTAMP:20260417T000000Z
+UID:KARIM NAGI • RHYTHM CONCERT
+DESCRIPTION:https://www.viewcy.com/event/karim_nagi__rhythm_c\n<p><img alt
+ ="KARIM NAGI • RHYTHM CONCERT thumbnail" class="styles_coverImg__PsR9G" 
+ data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elemen
+ t="Image" data-sentry-source-file="index.tsx" decoding="async" height="186
+ " loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F024%2F951%2Fcover%2FNew_Designs.jpg%3F1774903374&amp\;w=640&amp\;q=10
+ 0" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amaz
+ onaws.com%2Fcourses%2Ffeatured_images%2F000%2F024%2F951%2Fcover%2FNew_Desi
+ gns.jpg%3F1774903374&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%
+ 2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images
+ %2F000%2F024%2F951%2Fcover%2FNew_Designs.jpg%3F1774903374&amp\;w=640&amp\;
+ q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kingston Afrobeat Live
+DTSTART:20260418T000000Z
+DTEND:20260418T020000Z
+DTSTAMP:20260418T000000Z
+UID:Kingston Afrobeat Live
+DESCRIPTION:https://www.viewcy.com/event/kingston_afrobeat_liv\n<p><img al
+ t="Kingston Afrobeat Live thumbnail" class="styles_coverImg__PsR9G" data-n
+ img="1" data-sentry-component="ImageWithFallback" data-sentry-element="Ima
+ ge" data-sentry-source-file="index.tsx" decoding="async" height="186" load
+ ing="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewc
+ y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
+ 25%2F189%2Fcover%2FNew_Designs.jpg%3F1775418882&amp\;w=640&amp\;q=100" src
+ set="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.
+ com%2Fcourses%2Ffeatured_images%2F000%2F025%2F189%2Fcover%2FNew_Designs.jp
+ g%3F1775418882&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F025%2F189%2Fcover%2FNew_Designs.jpg%3F1775418882&amp\;w=640&amp\;q=100 
+ 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bradley El Hijo del Sol – Andean Rock Night
+DTSTART:20260418T020000Z
+DTEND:20260418T040000Z
+DTSTAMP:20260418T020000Z
+UID:Bradley El Hijo del Sol – Andean Rock Night
+DESCRIPTION:https://www.viewcy.com/event/bradley_el_hijo_del_s\n<p><img al
+ t="Bradley El Hijo del Sol – Andean Rock Night thumbnail" class="styles_
+ coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" d
+ ata-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="a
+ sync" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?
+ url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
+ atured_images%2F000%2F025%2F148%2Fcover%2FNew_Designs.jpg%3F1775244103&amp
+ \;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-p
+ roduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F148%2
+ Fcover%2FNew_Designs.jpg%3F1775244103&amp\;w=384&amp\;q=100 1x\, /_next/im
+ age?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%
+ 2Ffeatured_images%2F000%2F025%2F148%2Fcover%2FNew_Designs.jpg%3F1775244103
+ &amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al-Bait Baitkom
+DTSTART:20260418T220000Z
+DTEND:20260419T000000Z
+DTSTAMP:20260418T220000Z
+UID:Al-Bait Baitkom
+DESCRIPTION:https://www.viewcy.com/event/albait_baitkom_1\n<p><img alt="Al
+ -Bait Baitkom thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data
+ -sentry-component="ImageWithFallback" data-sentry-element="Image" data-sen
+ try-source-file="index.tsx" decoding="async" height="186" loading="lazy" s
+ rc="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-pro
+ duction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F182%2Fc
+ over%2FWhatsApp_Image_2026-04-04_at_4.57.49_PM.jpg%3F1775399282&amp\;w=640
+ &amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
+ on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F182%2Fcover%
+ 2FWhatsApp_Image_2026-04-04_at_4.57.49_PM.jpg%3F1775399282&amp\;w=384&amp\
+ ;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.ama
+ zonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F182%2Fcover%2FWhatsAp
+ p_Image_2026-04-04_at_4.57.49_PM.jpg%3F1775399282&amp\;w=640&amp\;q=100 2x
+ " style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dawn Drake & ZapOte Taurus Party
+DTSTART:20260419T220000Z
+DTEND:20260420T000000Z
+DTSTAMP:20260419T220000Z
+UID:Dawn Drake & ZapOte Taurus Party
+DESCRIPTION:https://www.viewcy.com/event/dawn_drake__zapote_t\n<p><img alt
+ ="Dawn Drake &amp\; ZapOte Taurus Party thumbnail" class="styles_coverImg_
+ _PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentr
+ y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
+ ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F025%2F307%2Fcover%2FNew_Designs.jpg%3F1775758967&amp\;w=640&a
+ mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F307%2Fcover%2F
+ New_Designs.jpg%3F1775758967&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F025%2F307%2Fcover%2FNew_Designs.jpg%3F1775758967&amp\;w=6
+ 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of Mali Music with Farafina
+DTSTART:20260420T000000Z
+DTEND:20260420T020000Z
+DTSTAMP:20260420T000000Z
+UID:Night of Mali Music with Farafina
+DESCRIPTION:https://www.viewcy.com/event/night_of_mali_music_w_1\n<p><img 
+ alt="Night of Mali Music with Farafina thumbnail" class="styles_coverImg__
+ PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
+ -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
+ ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F025%2F328%2Fcover%2FNew_Designs.jpg%3F1775767710&amp\;w=640&am
+ p\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.
+ s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F328%2Fcover%2FN
+ ew_Designs.jpg%3F1775767710&amp\;w=384&amp\;q=100 1x\, /_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F025%2F328%2Fcover%2FNew_Designs.jpg%3F1775767710&amp\;w=64
+ 0&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Voice with Elizabeth Shanaz
+DTSTART:20260423T220000Z
+DTEND:20260424T000000Z
+DTSTAMP:20260423T220000Z
+UID:Inside Voice with Elizabeth Shanaz
+DESCRIPTION:https://www.viewcy.com/event/inside_voice_with_eli_1\n<p><img 
+ alt="Inside Voice with Elizabeth Shanaz thumbnail" class="styles_coverImg_
+ _PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentr
+ y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
+ ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=640&a
+ mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F046%2Fcover%2F
+ New_Designs.jpg%3F1775076713&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=6
+ 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Peter Manheim Band with Special Guests
+DTSTART:20260424T000000Z
+DTEND:20260424T020000Z
+DTSTAMP:20260424T000000Z
+UID:Peter Manheim Band with Special Guests
+DESCRIPTION:https://www.viewcy.com/event/peter_manheim_band_wi\n<p><img al
+ t="Peter Manheim Band with Special Guests thumbnail" class="styles_coverIm
+ g__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sen
+ try-element="Image" data-sentry-source-file="index.tsx" decoding="async" h
+ eight="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=htt
+ ps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_
+ images%2F000%2F025%2F190%2Fcover%2FNew_Designs.jpg%3F1775420004&amp\;w=640
+ &amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
+ on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F190%2Fcover%
+ 2FNew_Designs.jpg%3F1775420004&amp\;w=384&amp\;q=100 1x\, /_next/image?url
+ =https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatu
+ red_images%2F000%2F025%2F190%2Fcover%2FNew_Designs.jpg%3F1775420004&amp\;w
+ =640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indian Classical Concert
+DTSTART:20260424T220000Z
+DTEND:20260425T000000Z
+DTSTAMP:20260424T220000Z
+UID:Indian Classical Concert
+DESCRIPTION:https://www.viewcy.com/event/indian_classical_conc\n<p><img al
+ t="Indian Classical Concert thumbnail" class="styles_coverImg__PsR9G" data
+ -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
+ mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
+ ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fvie
+ wcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2
+ F024%2F786%2Fcover%2FNew_Designs.jpg%3F1774450493&amp\;w=640&amp\;q=100" s
+ rcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaw
+ s.com%2Fcourses%2Ffeatured_images%2F000%2F024%2F786%2Fcover%2FNew_Designs.
+ jpg%3F1774450493&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2
+ Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F0
+ 00%2F024%2F786%2Fcover%2FNew_Designs.jpg%3F1774450493&amp\;w=640&amp\;q=10
+ 0 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Baila! : Nacho!
+DTSTART:20260425T020000Z
+DTEND:20260425T040000Z
+DTSTAMP:20260425T020000Z
+UID:Baila! : Nacho!
+DESCRIPTION:https://www.viewcy.com/event/baila__nacho\n<p><img alt="Baila!
+  : Nacho! thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sen
+ try-component="ImageWithFallback" data-sentry-element="Image" data-sentry-
+ source-file="index.tsx" decoding="async" height="186" loading="lazy" src="
+ https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-product
+ ion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F270%2Fcover
+ %2FNew_Designs.jpg%3F1775663813&amp\;w=640&amp\;q=100" srcset="/_next/imag
+ e?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2F
+ featured_images%2F000%2F025%2F270%2Fcover%2FNew_Designs.jpg%3F1775663813&a
+ mp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-pro
+ duction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F270%2Fc
+ over%2FNew_Designs.jpg%3F1775663813&amp\;w=640&amp\;q=100 2x" style="color
+ : transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Compass Trio Returns to Barzakh!
+DTSTART:20260425T220000Z
+DTEND:20260426T000000Z
+DTSTAMP:20260425T220000Z
+UID:Compass Trio Returns to Barzakh!
+DESCRIPTION:https://www.viewcy.com/event/compass_trio_returns\n<p><img alt
+ ="Compass Trio Returns to Barzakh! thumbnail" class="styles_coverImg__PsR9
+ G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-ele
+ ment="Image" data-sentry-source-file="index.tsx" decoding="async" height="
+ 186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F025%2F191%2Fcover%2FNew_Designs.jpg%3F1775420795&amp\;w=640&amp\;q
+ =100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.a
+ mazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F191%2Fcover%2FNew_D
+ esigns.jpg%3F1775420795&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F025%2F191%2Fcover%2FNew_Designs.jpg%3F1775420795&amp\;w=640&am
+ p\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Barzakh After Dark
+DTSTART:20260426T020000Z
+DTEND:20260426T040000Z
+DTSTAMP:20260426T020000Z
+UID:Barzakh After Dark
+DESCRIPTION:https://www.viewcy.com/event/barzakh_after_dark_1\n<p><img alt
+ ="Barzakh After Dark thumbnail" class="styles_coverImg__PsR9G" data-nimg="
+ 1" data-sentry-component="ImageWithFallback" data-sentry-element="Image" d
+ ata-sentry-source-file="index.tsx" decoding="async" height="186" loading="
+ lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-her
+ oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F
+ 310%2Fcover%2FNew_Designs.jpg%3F1775759701&amp\;w=640&amp\;q=100" srcset="
+ /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2
+ Fcourses%2Ffeatured_images%2F000%2F025%2F310%2Fcover%2FNew_Designs.jpg%3F1
+ 775759701&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy
+ -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
+ 5%2F310%2Fcover%2FNew_Designs.jpg%3F1775759701&amp\;w=640&amp\;q=100 2x" s
+ tyle="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Brooklyn Chaabi Project
+DTSTART:20260426T223000Z
+DTEND:20260427T003000Z
+DTSTAMP:20260426T223000Z
+UID:The Brooklyn Chaabi Project
+DESCRIPTION:https://www.viewcy.com/event/the_brooklyn_chaabi_p\n<p><img al
+ t="The Brooklyn Chaabi Project thumbnail" class="styles_coverImg__PsR9G" d
+ ata-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element
+ ="Image" data-sentry-source-file="index.tsx" decoding="async" height="186"
+  loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2F
+ viewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F00
+ 0%2F025%2F329%2Fcover%2FNew_Designs.jpg%3F1775768322&amp\;w=640&amp\;q=100
+ " srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazo
+ naws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F329%2Fcover%2FNew_Desig
+ ns.jpg%3F1775768322&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F025%2F329%2Fcover%2FNew_Designs.jpg%3F1775768322&amp\;w=640&amp\;q
+ =100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Triple Trio Night
+DTSTART:20260430T230000Z
+DTEND:20260501T010000Z
+DTSTAMP:20260430T230000Z
+UID:Triple Trio Night
+DESCRIPTION:https://www.viewcy.com/event/triple_trio_night\n<p><img alt="T
+ riple Trio Night thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" d
+ ata-sentry-component="ImageWithFallback" data-sentry-element="Image" data-
+ sentry-source-file="index.tsx" decoding="async" height="186" loading="lazy
+ " src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-
+ production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F277%
+ 2Fcover%2FWhatsApp_Image_2026-04-06_at_6.53.19_PM.jpg%3F1775681870&amp\;w=
+ 640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-produ
+ ction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F277%2Fcov
+ er%2FWhatsApp_Image_2026-04-06_at_6.53.19_PM.jpg%3F1775681870&amp\;w=384&a
+ mp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.
+ amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F277%2Fcover%2FWhat
+ sApp_Image_2026-04-06_at_6.53.19_PM.jpg%3F1775681870&amp\;w=640&amp\;q=100
+  2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minaxi: Mehfil-e-Barzakh
+DTSTART:20260501T230000Z
+DTEND:20260502T010000Z
+DTSTAMP:20260501T230000Z
+UID:Minaxi: Mehfil-e-Barzakh
+DESCRIPTION:https://www.viewcy.com/event/minaxi_mehfilebarz\n<p><img alt="
+ Minaxi: Mehfil-e-Barzakh thumbnail" class="styles_coverImg__PsR9G" data-ni
+ mg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Imag
+ e" data-sentry-source-file="index.tsx" decoding="async" height="186" loadi
+ ng="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy
+ -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
+ 5%2F268%2Fcover%2FNew_Designs.jpg%3F1775662265&amp\;w=640&amp\;q=100" srcs
+ et="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.c
+ om%2Fcourses%2Ffeatured_images%2F000%2F025%2F268%2Fcover%2FNew_Designs.jpg
+ %3F1775662265&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fvi
+ ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
+ 2F025%2F268%2Fcover%2FNew_Designs.jpg%3F1775662265&amp\;w=640&amp\;q=100 2
+ x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Robi-Raagini (রবি-রাগিণী)
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+DTSTAMP:20260510T000000Z
+UID:Robi-Raagini (রবি-রাগিণী)
+DESCRIPTION:https://www.viewcy.com/event/robiraagini_\n<p><img alt="Robi-R
+ aagini (রবি-রাগিণী) thumbnail" class="styles_coverImg__P
+ sR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-
+ element="Image" data-sentry-source-file="index.tsx" decoding="async" heigh
+ t="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3
+ A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
+ es%2F000%2F024%2F543%2Fcover%2FNew_Designs.jpg%3F1773685757&amp\;w=640&amp
+ \;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s
+ 3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F024%2F543%2Fcover%2FNe
+ w_Designs.jpg%3F1773685757&amp\;w=384&amp\;q=100 1x\, /_next/image?url=htt
+ ps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_
+ images%2F000%2F024%2F543%2Fcover%2FNew_Designs.jpg%3F1773685757&amp\;w=640
+ &amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Retreat
+DTSTART:20260515T190000Z
+DTEND:20260515T210000Z
+DTSTAMP:20260515T190000Z
+UID:Spring Retreat
+DESCRIPTION:https://www.viewcy.com/event/spring_retreat\n<p><img alt="Spri
+ ng Retreat thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-se
+ ntry-component="ImageWithFallback" data-sentry-element="Image" data-sentry
+ -source-file="index.tsx" decoding="async" height="186" loading="lazy" src=
+ "https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
+ tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F214%2Fcove
+ r%2FWinter_retreat_carousel__28Presentation__2843_29_29.jpg%3F1775499992&a
+ mp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku
+ -production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F214
+ %2Fcover%2FWinter_retreat_carousel__28Presentation__2843_29_29.jpg%3F17754
+ 99992&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-her
+ oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F
+ 214%2Fcover%2FWinter_retreat_carousel__28Presentation__2843_29_29.jpg%3F17
+ 75499992&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308
+ "/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traveling with the Tunisian writer Abdelwahab Meddeb
+DTSTART:20260524T210000Z
+DTEND:20260524T230000Z
+DTSTAMP:20260524T210000Z
+UID:Traveling with the Tunisian writer Abdelwahab Meddeb
+DESCRIPTION:https://www.viewcy.com/event/traveling_with_the_tu\n<p><img al
+ t="Traveling with the Tunisian writer Abdelwahab Meddeb thumbnail" class="
+ styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFall
+ back" data-sentry-element="Image" data-sentry-source-file="index.tsx" deco
+ ding="async" height="186" loading="lazy" src="https://www.viewcy.com/_next
+ /image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcours
+ es%2Ffeatured_images%2F000%2F025%2F188%2Fcover%2FNew_Designs.jpg%3F1775413
+ 892&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-h
+ eroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%
+ 2F188%2Fcover%2FNew_Designs.jpg%3F1775413892&amp\;w=384&amp\;q=100 1x\, /_
+ next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fc
+ ourses%2Ffeatured_images%2F000%2F025%2F188%2Fcover%2FNew_Designs.jpg%3F177
+ 5413892&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"
+ /></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minaxi: Mehfil-e-Barzakh
+DTSTART:20260531T000000Z
+DTEND:20260531T020000Z
+DTSTAMP:20260531T000000Z
+UID:Minaxi: Mehfil-e-Barzakh
+DESCRIPTION:https://www.viewcy.com/event/minaxi_mehfilebarz_1\n<p><img alt
+ ="Minaxi: Mehfil-e-Barzakh thumbnail" class="styles_coverImg__PsR9G" data-
+ nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Im
+ age" data-sentry-source-file="index.tsx" decoding="async" height="186" loa
+ ding="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fview
+ cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
+ 025%2F269%2Fcover%2FNew_Designs_1.jpg%3F1775662206&amp\;w=640&amp\;q=100" 
+ srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazona
+ ws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F269%2Fcover%2FNew_Designs
+ _1.jpg%3F1775662206&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2
+ F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
+ 2F000%2F025%2F269%2Fcover%2FNew_Designs_1.jpg%3F1775662206&amp\;w=640&amp\
+ ;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR

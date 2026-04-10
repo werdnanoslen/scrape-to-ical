@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260214T063538Z
-DTEND;VALUE=DATE:20260214T083538Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-02-14 06:35:38.523088+00:
+DTSTART;VALUE=DATE:20260410T043045Z
+DTEND;VALUE=DATE:20260410T063045Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-10 04:30:45.447657+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -27,367 +27,696 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunar New Year Plants Talk & Walk
-DTSTART;VALUE=DATE:20260213T050000Z
-DTEND;VALUE=DATE:20260213T070000Z
-UID:Lunar New Year Plants Talk & Walk-2026-02-13 05:00:00+00:00
-DESCRIPTION:Friday\, February 13 & Saturday\, February 14\, 2026 | 12–1:
- 15 p.m.\n\nCelebrate the Year of the Horse with a journey through the Stei
- nhardt Conservatory.Learn More›about Lunar New Year Plants Talk & Walk\n
- \nMore info:\nhttps://www.bbg.org/visit/event/lunar_new_year_plants\n\n<im
- g src="/img/uploads/hero/_list_thumbnail_regular/clementines-MS-5260578930
- 8.jpg" alt="" />
+SUMMARY:An Ecological Approach to Tree Risk Assessment
+DTSTART;VALUE=DATE:20260409T040000Z
+DTEND;VALUE=DATE:20260409T060000Z
+UID:An Ecological Approach to Tree Risk Assessment-2026-04-09 04:00:00+00:
+ 00
+DESCRIPTION:Thursday\, April 9\, 2026 | 10 a.m.–2:30 p.m.\n					\n\n\
+ n					\n						\n							| Preregistration Required\n\nGet an introduction t
+ o tree risk assessment. A basic understanding of tree anatomy and physiolo
+ gy is a prerequisite for this class.Learn More›about An Ecological Appro
+ ach to Tree Risk Assessment\n\nMore info:\nhttps://www.bbg.org/classes/an_
+ ecological_approach_to_tree_risk_assessment\n\n<img src="/img/uploads/hero
+ /_list_thumbnail_regular/dendrometer-MS-52874878072.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valentine's Weekend Pop-Up
-DTSTART;VALUE=DATE:20260214T050000Z
-DTEND;VALUE=DATE:20260214T070000Z
-UID:Valentine's Weekend Pop-Up-2026-02-14 05:00:00+00:00
-DESCRIPTION:Saturday\, February 14 & Sunday\, February 15 | 11 a.m.–3
-  p.m.\n\nCelebrate Valentine’s Day weekend with a special pairing for s
- haring in the Coffeehouse at Yellow Magnolia Café!Learn More›about Vale
- ntine's Weekend Pop-Up\n\nMore info:\nhttps://www.bbg.org/visit/event/vale
- ntines_weekend_popup\n\n<img src="/img/uploads/manual/hero/_list_thumbnail
- _regular/Wine_pour_vday.jpg" alt="" />
+SUMMARY:Family Gardening Hours
+DTSTART;VALUE=DATE:20260409T040000Z
+DTEND;VALUE=DATE:20260409T060000Z
+UID:Family Gardening Hours-2026-04-09 04:00:00+00:00
+DESCRIPTION:Single session on April 8\, 9\, 10\, 11\; June 5\, 6\; July 1 
+ or 2\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Pre
+ registration Required\n\nJoin educators at activity stations throughout th
+ e Children’s Garden during this new\, one-time class for kids of all age
+ s and their caregiversLearn More›about Family Gardening Hours\n\nMore in
+ fo:\nhttps://www.bbg.org/classes/family_gardening_hours\n\n<img src="/img/
+ uploads/manual/hero/_list_thumbnail_regular/family-gardening_MS_5281458343
+ 7-crop.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Herbal Oxymels for Winter Resilience
-DTSTART;VALUE=DATE:20260214T050000Z
-DTEND;VALUE=DATE:20260214T070000Z
-UID:Herbal Oxymels for Winter Resilience-2026-02-14 05:00:00+00:00
-DESCRIPTION:Single session on Saturday\, January 24 or February 14\, 2026 
- | 10–11:30 a.m.\n					\n\n\n					\n						\n							| Preregistration Req
- uired\n\nLearn about herbal oxymels and make your own to take home.Learn M
- ore›about Herbal Oxymels for Winter Resilience\n\nMore info:\nhttps://ww
- w.bbg.org/classes/herbal_oxymels_for_winter_resilience\n\n<img src="/img/u
- ploads/hero/_list_thumbnail_regular/DIY_Herbal_Oxymels_30_.jpg" alt="" />
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260409T040000Z
+DTEND;VALUE=DATE:20260409T060000Z
+UID:Seasonal Highlights Tour-2026-04-09 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunar New Year Plants Talk & Walk
-DTSTART;VALUE=DATE:20260214T050000Z
-DTEND;VALUE=DATE:20260214T070000Z
-UID:Lunar New Year Plants Talk & Walk-2026-02-14 05:00:00+00:00
-DESCRIPTION:Friday\, February 13 & Saturday\, February 14\, 2026 | 12–1:
- 15 p.m.\n\nCelebrate the Year of the Horse with a journey through the Stei
- nhardt Conservatory.Learn More›about Lunar New Year Plants Talk & Walk\n
- \nMore info:\nhttps://www.bbg.org/visit/event/lunar_new_year_plants\n\n<im
- g src="/img/uploads/hero/_list_thumbnail_regular/clementines-MS-5260578930
- 8.jpg" alt="" />
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260410T040000Z
+DTEND;VALUE=DATE:20260410T060000Z
+UID:Spring First Discoveries-2026-04-10 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Valentine's Weekend Pop-Up
-DTSTART;VALUE=DATE:20260215T050000Z
-DTEND;VALUE=DATE:20260215T070000Z
-UID:Valentine's Weekend Pop-Up-2026-02-15 05:00:00+00:00
-DESCRIPTION:Saturday\, February 14 & Sunday\, February 15 | 11 a.m.–3
-  p.m.\n\nCelebrate Valentine’s Day weekend with a special pairing for s
- haring in the Coffeehouse at Yellow Magnolia Café!Learn More›about Vale
- ntine's Weekend Pop-Up\n\nMore info:\nhttps://www.bbg.org/visit/event/vale
- ntines_weekend_popup\n\n<img src="/img/uploads/manual/hero/_list_thumbnail
- _regular/Wine_pour_vday.jpg" alt="" />
+SUMMARY:Family Gardening Hours
+DTSTART;VALUE=DATE:20260410T040000Z
+DTEND;VALUE=DATE:20260410T060000Z
+UID:Family Gardening Hours-2026-04-10 04:00:00+00:00
+DESCRIPTION:Single session on April 8\, 9\, 10\, 11\; June 5\, 6\; July 1 
+ or 2\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Pre
+ registration Required\n\nJoin educators at activity stations throughout th
+ e Children’s Garden during this new\, one-time class for kids of all age
+ s and their caregiversLearn More›about Family Gardening Hours\n\nMore in
+ fo:\nhttps://www.bbg.org/classes/family_gardening_hours\n\n<img src="/img/
+ uploads/manual/hero/_list_thumbnail_regular/family-gardening_MS_5281458343
+ 7-crop.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:February Break Discovery Days
-DTSTART;VALUE=DATE:20260216T050000Z
-DTEND;VALUE=DATE:20260216T070000Z
-UID:February Break Discovery Days-2026-02-16 05:00:00+00:00
-DESCRIPTION:February 16\, 18 & 20\, 2026 | 10:30 a.m.–12:30 p.m. \n					
- \n\n\n					\n						\n							| Drop-in\n\nExplore habitats from around the 
- world and have some hands-on science fun during the midwinter school break
- .Learn More›about February Break Discovery Days\n\nMore info:\nhttps://w
- ww.bbg.org/visit/event/february_break_discovery_days\n\n<img src="/img/upl
- oads/hero/_list_thumbnail_regular/desert-pavilion-MS-52683093579.jpeg" alt
- ="" />
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260410T040000Z
+DTEND;VALUE=DATE:20260410T060000Z
+UID:Seasonal Highlights Tour-2026-04-10 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lunar New Year Tasting with Nin Hao
-DTSTART;VALUE=DATE:20260216T050000Z
-DTEND;VALUE=DATE:20260216T070000Z
-UID:Lunar New Year Tasting with Nin Hao-2026-02-16 05:00:00+00:00
-DESCRIPTION:Monday\, February 16\, 2026 | 10:30 a.m.–12:30 p.m. \n					\
- n\n\n					\n						\n							| Drop-in\n\nCelebrate Lunar New Year with a ta
- sting provided by local Prospect Heights restaurant Nin Hao.Learn More›a
- bout Lunar New Year Tasting with Nin Hao\n\nMore info:\nhttps://www.bbg.or
- g/visit/event/lunar_new_year_tasting_with_nin_hao\n\n<img src="/img/upload
- s/hero/_list_thumbnail_regular/Lunar-new-year-nin-hao.jpeg" alt="" />
+SUMMARY:Family Gardening Hours
+DTSTART;VALUE=DATE:20260411T040000Z
+DTEND;VALUE=DATE:20260411T060000Z
+UID:Family Gardening Hours-2026-04-11 04:00:00+00:00
+DESCRIPTION:Single session on April 8\, 9\, 10\, 11\; June 5\, 6\; July 1 
+ or 2\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Pre
+ registration Required\n\nJoin educators at activity stations throughout th
+ e Children’s Garden during this new\, one-time class for kids of all age
+ s and their caregiversLearn More›about Family Gardening Hours\n\nMore in
+ fo:\nhttps://www.bbg.org/classes/family_gardening_hours\n\n<img src="/img/
+ uploads/manual/hero/_list_thumbnail_regular/family-gardening_MS_5281458343
+ 7-crop.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:February Break Discovery Days
-DTSTART;VALUE=DATE:20260218T050000Z
-DTEND;VALUE=DATE:20260218T070000Z
-UID:February Break Discovery Days-2026-02-18 05:00:00+00:00
-DESCRIPTION:February 16\, 18 & 20\, 2026 | 10:30 a.m.–12:30 p.m. \n					
- \n\n\n					\n						\n							| Drop-in\n\nExplore habitats from around the 
- world and have some hands-on science fun during the midwinter school break
- .Learn More›about February Break Discovery Days\n\nMore info:\nhttps://w
- ww.bbg.org/visit/event/february_break_discovery_days\n\n<img src="/img/upl
- oads/hero/_list_thumbnail_regular/desert-pavilion-MS-52683093579.jpeg" alt
- ="" />
+SUMMARY:Spring Family Discovery Weekends
+DTSTART;VALUE=DATE:20260411T040000Z
+DTEND;VALUE=DATE:20260411T060000Z
+UID:Spring Family Discovery Weekends-2026-04-11 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
+ e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
+ 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
+ d\, and marsh habitats and in the vegetable garden encourage families to e
+ xplore nature together.Learn More›about Spring Family Discovery Weekends
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
+ n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
+ _54439412040.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winter Family Story Time
-DTSTART;VALUE=DATE:20260218T050000Z
-DTEND;VALUE=DATE:20260218T070000Z
-UID:Winter Family Story Time-2026-02-18 05:00:00+00:00
-DESCRIPTION:Wednesday\, February 18\, 2026 | 11 a.m.–12 p.m. \n					\n\n
- \n					\n						\n							| Drop-in\n\nRead garden-inspired stories alongsid
- e BBG volunteers. Drop in anytime during program hours to join in.Learn Mo
- re›about Winter Family Story Time\n\nMore info:\nhttps://www.bbg.org/vis
- it/event/winter_family_story_time\n\n<img src="/img/uploads/hero/_list_thu
- mbnail_regular/storytime-BB-38714671480.jpg" alt="" />
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260411T040000Z
+DTEND;VALUE=DATE:20260411T060000Z
+UID:Seasonal Highlights Tour-2026-04-11 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Watercolor Technique for Expressive Orchids
-DTSTART;VALUE=DATE:20260219T050000Z
-DTEND;VALUE=DATE:20260219T070000Z
-UID:Watercolor Technique for Expressive Orchids-2026-02-19 05:00:00+00:00
-DESCRIPTION:Thursday\, February 19\, 2026 | 10 a.m.–1:30 p.m.\n					\n\n
- \n					\n						\n							| Preregistration Required\n\nLearn key watercolor
-  techniques as you paint vibrant orchids.Learn More›about Watercolor Tec
- hnique for Expressive Orchids\n\nMore info:\nhttps://www.bbg.org/classes/w
- atercolor_technique_for_expressive_orchids\n\n<img src="/img/uploads/hero/
- _list_thumbnail_regular/Bonnie-Steinsnyder-Swing-Your-Partner_Watercolor-T
- echnique-for-Expressive-Orchids-Class.jpeg" alt="" />
+SUMMARY:Spring Family Discovery Weekends
+DTSTART;VALUE=DATE:20260412T040000Z
+DTEND;VALUE=DATE:20260412T060000Z
+UID:Spring Family Discovery Weekends-2026-04-12 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
+ e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
+ 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
+ d\, and marsh habitats and in the vegetable garden encourage families to e
+ xplore nature together.Learn More›about Spring Family Discovery Weekends
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
+ n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
+ _54439412040.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conservatory Highlights Tour
-DTSTART;VALUE=DATE:20260219T050000Z
-DTEND;VALUE=DATE:20260219T070000Z
-UID:Conservatory Highlights Tour-2026-02-19 05:00:00+00:00
-DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
-  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
-  plants from faraway places and different climates around the world on thi
- s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
- lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
- asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
- lar/desert-house_4454699678.jpg" alt="" />
+SUMMARY:Rodent Reduction in Compost Projects
+DTSTART;VALUE=DATE:20260412T040000Z
+DTEND;VALUE=DATE:20260412T060000Z
+UID:Rodent Reduction in Compost Projects-2026-04-12 04:00:00+00:00
+DESCRIPTION:Sunday\, April 12\, 2026 | 1–4 p.m. (Rain date April 19)Free
+ \; Preregistration Required\n\nLearn how to design rodent resistant compos
+ ting sites for homes\, apartment buildings\, and community gardens.Learn M
+ ore›about Rodent Reduction in Compost Projects\n\nMore info:\nhttps://ww
+ w.bbg.org/classes/rodent_reduction_in_compost_projects\n\n<img src="/img/u
+ ploads/hero/_list_thumbnail_regular/compost_MS_53266123404.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:February Break Discovery Days
-DTSTART;VALUE=DATE:20260220T050000Z
-DTEND;VALUE=DATE:20260220T070000Z
-UID:February Break Discovery Days-2026-02-20 05:00:00+00:00
-DESCRIPTION:February 16\, 18 & 20\, 2026 | 10:30 a.m.–12:30 p.m. \n					
- \n\n\n					\n						\n							| Drop-in\n\nExplore habitats from around the 
- world and have some hands-on science fun during the midwinter school break
- .Learn More›about February Break Discovery Days\n\nMore info:\nhttps://w
- ww.bbg.org/visit/event/february_break_discovery_days\n\n<img src="/img/upl
- oads/hero/_list_thumbnail_regular/desert-pavilion-MS-52683093579.jpeg" alt
- ="" />
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260412T040000Z
+DTEND;VALUE=DATE:20260412T060000Z
+UID:Seasonal Highlights Tour-2026-04-12 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conservatory Highlights Tour
-DTSTART;VALUE=DATE:20260220T050000Z
-DTEND;VALUE=DATE:20260220T070000Z
-UID:Conservatory Highlights Tour-2026-02-20 05:00:00+00:00
-DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
-  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
-  plants from faraway places and different climates around the world on thi
- s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
- lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
- asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
- lar/desert-house_4454699678.jpg" alt="" />
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20260414T040000Z
+DTEND;VALUE=DATE:20260414T060000Z
+UID:School Group Visits: Discovery Trail-2026-04-14 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
+ ne 11\, 2026 (except June 4) \n					\n\n\n					\n						\n							| Preregi
+ stration Required\n\nUse real science tools as you explore plants alongsid
+ e Discovery Docents at our hands-on activity stations throughout the Disco
+ very Garden.Learn More›about School Group Visits: Discovery Trail\n\nMor
+ e info:\nhttps://www.bbg.org/visit/event/school_group_visits_discovery_tra
+ il\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/discovery
+ -cart_BB_42604393462-1120.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tree Anatomy and Physiology
-DTSTART;VALUE=DATE:20260221T050000Z
-DTEND;VALUE=DATE:20260221T070000Z
-UID:Tree Anatomy and Physiology-2026-02-21 05:00:00+00:00
-DESCRIPTION:Saturday\, February 21\, 2026 | 9 a.m.–3:30 p.m.\n					\n\n\
- n					\n						\n							| Preregistration Required\n\nLearn the different p
- arts of a tree\, how they function\, and practical implications for tree c
- are professionals.Learn More›about Tree Anatomy and Physiology\n\nMore i
- nfo:\nhttps://www.bbg.org/classes/tree_anatomy_and_physiology\n\n<img src=
- "/img/uploads/hero/_list_thumbnail_regular/dissected-tree_MS_53150420421.j
- peg" alt="" />
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260414T040000Z
+DTEND;VALUE=DATE:20260414T060000Z
+UID:Seasonal Highlights Tour-2026-04-14 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conservatory Highlights Tour
-DTSTART;VALUE=DATE:20260221T050000Z
-DTEND;VALUE=DATE:20260221T070000Z
-UID:Conservatory Highlights Tour-2026-02-21 05:00:00+00:00
-DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
-  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
-  plants from faraway places and different climates around the world on thi
- s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
- lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
- asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
- lar/desert-house_4454699678.jpg" alt="" />
+SUMMARY:Watercoloring Spring Flowers and Buds
+DTSTART;VALUE=DATE:20260414T040000Z
+DTEND;VALUE=DATE:20260414T060000Z
+UID:Watercoloring Spring Flowers and Buds-2026-04-14 04:00:00+00:00
+DESCRIPTION:Tuesday\, April 14\, 2026 | 2 p.m.–5 p.m.\n					\n\n\n					\
+ n						| Waitlist Only\n\nDiscover the many shades of green in this spring
+ -inspired watercolor class.Learn More›about Watercoloring Spring Flowers
+  and Buds\n\nMore info:\nhttps://www.bbg.org/classes/watercoloring_spring_
+ flowers_and_buds\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/AM
+ aletz_Magnolia2.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ASL Artist Talk and Art-Making Workshop
-DTSTART;VALUE=DATE:20260221T050000Z
-DTEND;VALUE=DATE:20260221T070000Z
-UID:ASL Artist Talk and Art-Making Workshop-2026-02-21 05:00:00+00:00
-DESCRIPTION:Saturday\, February 21 | 1:30–4 p.m. \n					\n\n\n					\n			
- 			\n							| Preregistration Required\n\nEnjoy an ASL-led artist talk and
-  art-making workshop for the d/Deaf community.Learn More›about ASL Artis
- t Talk and Art-Making Workshop\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/asl_artist_talk_and_art_making_workshop\n\n<img src="/img/uploads/hero
- /_list_thumbnail_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
+SUMMARY:Climate Comedy Show
+DTSTART;VALUE=DATE:20260414T040000Z
+DTEND;VALUE=DATE:20260414T060000Z
+UID:Climate Comedy Show-2026-04-14 04:00:00+00:00
+DESCRIPTION:Tuesday\, April 14\, 2026 | 7–10 p.m. (doors open 6:30 p.m.)
+ \n\nLet's take climate change seriously without taking ourselves seriously
+ \, shall we? Laugh together at the absurdities of the climate crisis\, dan
+ ce to a live DJ\, and celebrate the paperback launch of Dr. Ayana Johnson'
+ s bookWhat If We Get It Right?: Visions of Climate Futures.Learn More›ab
+ out Climate Comedy Show\n\nMore info:\nhttps://www.bbg.org/visit/event/cli
+ mate_comedy_show\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_reg
+ ular/BBG_BANNER_CCS_1120.gif" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Mechanics of Floral Design
-DTSTART;VALUE=DATE:20260221T050000Z
-DTEND;VALUE=DATE:20260221T070000Z
-UID:The Mechanics of Floral Design-2026-02-21 05:00:00+00:00
-DESCRIPTION:Saturday\, February 21\, 2026 | 2–3:30 p.m.\n					\n\n\n				
- 	\n						\n							| Preregistration Required\n\nExperiment with various su
- pport materials and learn the mechanics behind floral design so you can ad
- vance your practice.Learn More›about The Mechanics of Floral Design\n\nM
- ore info:\nhttps://www.bbg.org/classes/the_mechanics_of_floral_design\n\n<
- img src="/img/uploads/hero/_list_thumbnail_regular/The-Mechanics-of-Floral
- -Design_Elise.jpeg" alt="" />
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260415T040000Z
+DTEND;VALUE=DATE:20260415T060000Z
+UID:Spring First Discoveries-2026-04-15 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grow Stronger Soil this Spring: Compost\, Mulch\, and Cover Crops
-DTSTART;VALUE=DATE:20260225T050000Z
-DTEND;VALUE=DATE:20260225T070000Z
-UID:Grow Stronger Soil this Spring: Compost\, Mulch\, and Cover Crops-2026
- -02-25 05:00:00+00:00
-DESCRIPTION:Wednesday\, February 25\, 2026 | 6–8 p.m.Free\; Preregistrat
- ion Required\n\nBuild your soil’s organic matter and foster thriving soi
- l biology.Learn More›about Grow Stronger Soil this Spring: Compost\, Mul
- ch\, and Cover Crops\n\nMore info:\nhttps://www.bbg.org/classes/growing_st
- ronger_soil_this_spring_compost_mulch_cover_crops\n\n<img src="/img/upload
- s/hero/_list_thumbnail_regular/handbook-healthy-soils_DM.jpg" alt="" />
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260415T040000Z
+DTEND;VALUE=DATE:20260415T060000Z
+UID:Seasonal Highlights Tour-2026-04-15 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conservatory Highlights Tour
-DTSTART;VALUE=DATE:20260226T050000Z
-DTEND;VALUE=DATE:20260226T070000Z
-UID:Conservatory Highlights Tour-2026-02-26 05:00:00+00:00
-DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
-  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
-  plants from faraway places and different climates around the world on thi
- s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
- lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
- asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
- lar/desert-house_4454699678.jpg" alt="" />
+SUMMARY:Fungal Diseases of Trees
+DTSTART;VALUE=DATE:20260416T040000Z
+DTEND;VALUE=DATE:20260416T060000Z
+UID:Fungal Diseases of Trees-2026-04-16 04:00:00+00:00
+DESCRIPTION:Thursday\, April 16\, 2026 | 10 a.m.–2:30 p.m. \n					\n\n\n
+ 					\n						\n							| Preregistration Required\n\nLearn to identify fung
+ al problems that pose a serious risk to tree health. A basic understanding
+  of tree anatomy and physiology is a prerequisite for this class.Learn Mor
+ e›about Fungal Diseases of Trees\n\nMore info:\nhttps://www.bbg.org/clas
+ ses/fungal_diseases_of_trees\n\n<img src="/img/uploads/hero/_list_thumbnai
+ l_regular/fungal-diseases-trees_BB_26002864186.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Little Caribbean Winter Garden Fête
-DTSTART;VALUE=DATE:20260226T050000Z
-DTEND;VALUE=DATE:20260226T070000Z
-UID:Little Caribbean Winter Garden Fête-2026-02-26 05:00:00+00:00
-DESCRIPTION:Thursday\, February 26\, 2026 (Inclement weather date: Februar
- y 27) | 6–8:30 p.m.\n\nPull up for an evening of good vibes\, cocktails\
- , and self-guided tours as we celebrate the anniversary of the Trees of Li
- ttle Caribbean exhibit.Learn More›about Little Caribbean Winter Garden F
- ête\n\nMore info:\nhttps://www.bbg.org/visit/event/little_caribbean_winte
- r_garden_fete\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/winte
- r-fete_MS_53560508637.jpg" alt="" />
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20260416T040000Z
+DTEND;VALUE=DATE:20260416T060000Z
+UID:School Group Visits: Discovery Trail-2026-04-16 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
+ ne 11\, 2026 (except June 4) \n					\n\n\n					\n						\n							| Preregi
+ stration Required\n\nUse real science tools as you explore plants alongsid
+ e Discovery Docents at our hands-on activity stations throughout the Disco
+ very Garden.Learn More›about School Group Visits: Discovery Trail\n\nMor
+ e info:\nhttps://www.bbg.org/visit/event/school_group_visits_discovery_tra
+ il\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/discovery
+ -cart_BB_42604393462-1120.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conservatory Highlights Tour
-DTSTART;VALUE=DATE:20260227T050000Z
-DTEND;VALUE=DATE:20260227T070000Z
-UID:Conservatory Highlights Tour-2026-02-27 05:00:00+00:00
-DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
-  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
-  plants from faraway places and different climates around the world on thi
- s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
- lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
- asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
- lar/desert-house_4454699678.jpg" alt="" />
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260416T040000Z
+DTEND;VALUE=DATE:20260416T060000Z
+UID:Seasonal Highlights Tour-2026-04-16 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Introduction to Watercolor
-DTSTART;VALUE=DATE:20260228T050000Z
-DTEND;VALUE=DATE:20260228T070000Z
-UID:Introduction to Watercolor-2026-02-28 05:00:00+00:00
-DESCRIPTION:Saturday\, February 28\, 2026 | 11 a.m.–1 p.m. \n					\n\n\n
- 					\n						| Waitlist Only\n\nExplore the varied techniques of painting 
- with the unique\, beautiful medium of watercolor.Learn More›about Introd
- uction to Watercolor\n\nMore info:\nhttps://www.bbg.org/classes/introducti
- on_to_watercolor\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/21
- WAEARTBDA.jpg" alt="" />
+SUMMARY:Celebration of Spring Centerpiece
+DTSTART;VALUE=DATE:20260416T040000Z
+DTEND;VALUE=DATE:20260416T060000Z
+UID:Celebration of Spring Centerpiece-2026-04-16 04:00:00+00:00
+DESCRIPTION:Thursday\, April 16\, 2026 | 5:30–8:30 p.m.\n					\n\n\n				
+ 	\n						| Waitlist Only\n\nCreate a seasonal floral display featuring the
+  first blooms of spring.Learn More›about Celebration of Spring Centerpie
+ ce\n\nMore info:\nhttps://www.bbg.org/classes/celebration_of_spring_center
+ piece\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Celebration-o
+ f-Spring-Centerpiece_.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chase Away the Winter Blues Tour
-DTSTART;VALUE=DATE:20260228T050000Z
-DTEND;VALUE=DATE:20260228T070000Z
-UID:Chase Away the Winter Blues Tour-2026-02-28 05:00:00+00:00
-DESCRIPTION:Saturday\, February 28\, 2026\n					\n\n					\n					| 11 a.m.
- –12 p.m.\n\nLearn simple lifestyle practices that can help you maintain
-  a sunny outlook through cold days\, while encountering the plants and ani
- mals that enliven the landscape even in the depths of winter.Learn More›
- about Chase Away the Winter Blues Tour\n\nMore info:\nhttps://www.bbg.org/
- visit/event/chase_away_the_winter_blues_tour\n\n<img src="/img/uploads/her
- o/_list_thumbnail_regular/snow-on-grass_MS_49165306496.jpg" alt="" />
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260417T040000Z
+DTEND;VALUE=DATE:20260417T060000Z
+UID:Spring First Discoveries-2026-04-17 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conservatory Highlights Tour
-DTSTART;VALUE=DATE:20260228T050000Z
-DTEND;VALUE=DATE:20260228T070000Z
-UID:Conservatory Highlights Tour-2026-02-28 05:00:00+00:00
-DESCRIPTION:Thursday–Saturday\, 1–2 p.m.February 5–28\, 2026 (except
-  February 13 & 14)\n					\n\n\n					\n						\n							| Drop-in\n\nDiscover
-  plants from faraway places and different climates around the world on thi
- s tour of the Steinhardt Conservatory.Learn More›about Conservatory High
- lights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/conservatory_se
- asonal_highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
- lar/desert-house_4454699678.jpg" alt="" />
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260417T040000Z
+DTEND;VALUE=DATE:20260417T060000Z
+UID:Seasonal Highlights Tour-2026-04-17 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winter Arrangements with Dried Flowers
-DTSTART;VALUE=DATE:20260228T050000Z
-DTEND;VALUE=DATE:20260228T070000Z
-UID:Winter Arrangements with Dried Flowers-2026-02-28 05:00:00+00:00
-DESCRIPTION:Saturday\, February 28\, 2026 | 2–3:30 p.m.\n					\n\n\n				
- 	\n						| Waitlist Only\n\nMake beautiful arrangements that will last the
-  whole season.Learn More›about Winter Arrangements with Dried Flowers\n\
- nMore info:\nhttps://www.bbg.org/classes/winter_arrangements_with_dried_fl
- owers\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/bergamot_MS_5
- 0856756627.jpeg" alt="" />
+SUMMARY:Birding
+DTSTART;VALUE=DATE:20260418T040000Z
+DTEND;VALUE=DATE:20260418T060000Z
+UID:Birding-2026-04-18 04:00:00+00:00
+DESCRIPTION:5 Saturdays: April 18–May 30\, 2026 (except April 25 & May 2
+ 3)  | 8:30 a.m.–1 p.m. \n					\n\n\n					\n						| Waitlist Only\n\nMeet
+  at natural locations in NYC to learn how to find and identify birds livin
+ g in the area or passing through on their spring migrations.Learn More›a
+ bout Birding\n\nMore info:\nhttps://www.bbg.org/classes/birding\n\n<img sr
+ c="/img/uploads/hero/_list_thumbnail_regular/birds-bluejay2-dd.jpg" alt=""
+  />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Container Vegetable Gardening
+DTSTART;VALUE=DATE:20260418T040000Z
+DTEND;VALUE=DATE:20260418T060000Z
+UID:Container Vegetable Gardening-2026-04-18 04:00:00+00:00
+DESCRIPTION:Saturday\, April 18\, 2026 | 10 a.m.–1 p.m.\n					\n\n\n				
+ 	\n						| Waitlist Only\n\nGrow your own delicious produce this season by
+  learning practical tips for successful vegetable gardening in containers.
+ Learn More›about Container Vegetable Gardening\n\nMore info:\nhttps://ww
+ w.bbg.org/classes/container_vegetable_gardening_april\n\n<img src="/img/up
+ loads/hero/_list_thumbnail_regular/herb-garden_RB_4791239096.jpg" alt="" /
+ >
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Family Discovery Weekends
+DTSTART;VALUE=DATE:20260418T040000Z
+DTEND;VALUE=DATE:20260418T060000Z
+UID:Spring Family Discovery Weekends-2026-04-18 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
+ e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
+ 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
+ d\, and marsh habitats and in the vegetable garden encourage families to e
+ xplore nature together.Learn More›about Spring Family Discovery Weekends
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
+ n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
+ _54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260418T040000Z
+DTEND;VALUE=DATE:20260418T060000Z
+UID:Seasonal Highlights Tour-2026-04-18 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cherry Blossom Verbal Description and Touch Tour
+DTSTART;VALUE=DATE:20260418T040000Z
+DTEND;VALUE=DATE:20260418T060000Z
+UID:Cherry Blossom Verbal Description and Touch Tour-2026-04-18 04:00:00+0
+ 0:00
+DESCRIPTION:Saturday\, April 18\, 2026 | 2–5:30 p.m. \n					\n\n\n					\
+ n						\n							| Preregistration Required\n\nCelebrate spring and enjoy t
+ he beauty of cherry blossoms at this program for visitors who are blind or
+  have low vision.Learn More›about Cherry Blossom Verbal Description and 
+ Touch Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/cherry_blossom_v
+ erbal_description_and_touch_tour\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/cherry-blossoms_PS_53675309632.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Family Discovery Weekends
+DTSTART;VALUE=DATE:20260419T040000Z
+DTEND;VALUE=DATE:20260419T060000Z
+UID:Spring Family Discovery Weekends-2026-04-19 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
+ e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
+ 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
+ d\, and marsh habitats and in the vegetable garden encourage families to e
+ xplore nature together.Learn More›about Spring Family Discovery Weekends
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
+ n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
+ _54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260419T040000Z
+DTEND;VALUE=DATE:20260419T060000Z
+UID:Seasonal Highlights Tour-2026-04-19 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20260421T040000Z
+DTEND;VALUE=DATE:20260421T060000Z
+UID:School Group Visits: Discovery Trail-2026-04-21 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
+ ne 11\, 2026 (except June 4) \n					\n\n\n					\n						\n							| Preregi
+ stration Required\n\nUse real science tools as you explore plants alongsid
+ e Discovery Docents at our hands-on activity stations throughout the Disco
+ very Garden.Learn More›about School Group Visits: Discovery Trail\n\nMor
+ e info:\nhttps://www.bbg.org/visit/event/school_group_visits_discovery_tra
+ il\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/discovery
+ -cart_BB_42604393462-1120.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260421T040000Z
+DTEND;VALUE=DATE:20260421T060000Z
+UID:Seasonal Highlights Tour-2026-04-21 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanami Nights [Sold Out]
+DTSTART;VALUE=DATE:20260421T040000Z
+DTEND;VALUE=DATE:20260421T060000Z
+UID:Hanami Nights [Sold Out]-2026-04-21 04:00:00+00:00
+DESCRIPTION:Tuesday\, April 21–Friday\, April 24\, 2026 | 5–8:30 p.m.\
+ n					\n\n\n					\n						\n							| Ticketed Event\n\nOn these four specia
+ l nights\, guests can celebrate hanami—the Japanese tradition of experie
+ ncing the ephemeral beauty of cherry blossom season—beneath uplit trees 
+ on Cherry Esplanade\, with live music and specialty food and drinks.Learn 
+ More›about Hanami Nights [Sold Out]\n\nMore info:\nhttps://www.bbg.org/v
+ isit/event/hanami_nights\n\n<img src="/img/uploads/manual/hero/_list_thumb
+ nail_regular/2024_HanamiNights_Thumbnail_1120x744_RR2.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260422T040000Z
+DTEND;VALUE=DATE:20260422T060000Z
+UID:Spring First Discoveries-2026-04-22 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260422T040000Z
+DTEND;VALUE=DATE:20260422T060000Z
+UID:Seasonal Highlights Tour-2026-04-22 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanami Nights [Sold Out]
+DTSTART;VALUE=DATE:20260422T040000Z
+DTEND;VALUE=DATE:20260422T060000Z
+UID:Hanami Nights [Sold Out]-2026-04-22 04:00:00+00:00
+DESCRIPTION:Tuesday\, April 21–Friday\, April 24\, 2026 | 5–8:30 p.m.\
+ n					\n\n\n					\n						\n							| Ticketed Event\n\nOn these four specia
+ l nights\, guests can celebrate hanami—the Japanese tradition of experie
+ ncing the ephemeral beauty of cherry blossom season—beneath uplit trees 
+ on Cherry Esplanade\, with live music and specialty food and drinks.Learn 
+ More›about Hanami Nights [Sold Out]\n\nMore info:\nhttps://www.bbg.org/v
+ isit/event/hanami_nights\n\n<img src="/img/uploads/manual/hero/_list_thumb
+ nail_regular/2024_HanamiNights_Thumbnail_1120x744_RR2.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Flower Bulb Care
+DTSTART;VALUE=DATE:20260422T040000Z
+DTEND;VALUE=DATE:20260422T060000Z
+UID:Spring Flower Bulb Care-2026-04-22 04:00:00+00:00
+DESCRIPTION:Wednesday\, April 22\, 2026 | 5:30–8:30 p.m.\n					\n\n\n			
+ 		\n						\n							| Preregistration Required\n\nThis class explores all t
+ hings bulbs\, including bloom time\, best practices for naturalizing\, opt
+ ions for perennializing versus using bulbs as annual cut flowers\, and sav
+ ing/curing for the next season.Learn More›about Spring Flower Bulb Care\
+ n\nMore info:\nhttps://www.bbg.org/classes/spring_flower_bulb_care\n\n<img
+  src="/img/uploads/hero/_list_thumbnail_regular/f-48-167-22407085_xM3WLtTU
+ _Caroline_Cutting_Garden_101_Planning_a_Seasonal_Cut_Flower_Garden.jpeg" a
+ lt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Green Your Block - Section A
+DTSTART;VALUE=DATE:20260422T040000Z
+DTEND;VALUE=DATE:20260422T060000Z
+UID:How to Green Your Block - Section A-2026-04-22 04:00:00+00:00
+DESCRIPTION:Wednesday\, April 22\, 2026\n					\n\n					\n					| 6 p.m.–
+ 8 p.m.					\n					\n\n\n					\n						\n							| Preregistration Required\
+ n\nEver wondered what it takes to make your block greener? Recruit a few n
+ eighbors and head on over to BBG where our staff\, joined by some winning 
+ Greenest Block in Brooklyn gardeners\, will encourage you to see your bloc
+ k's potential with fresh eyes.Learn More›about How to Green Your Block -
+  Section A\n\nMore info:\nhttps://www.bbg.org/classes/how_to_green_your_bl
+ ock_section_a\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/gbb-s
+ treet-planting.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20260423T040000Z
+DTEND;VALUE=DATE:20260423T060000Z
+UID:School Group Visits: Discovery Trail-2026-04-23 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
+ ne 11\, 2026 (except June 4) \n					\n\n\n					\n						\n							| Preregi
+ stration Required\n\nUse real science tools as you explore plants alongsid
+ e Discovery Docents at our hands-on activity stations throughout the Disco
+ very Garden.Learn More›about School Group Visits: Discovery Trail\n\nMor
+ e info:\nhttps://www.bbg.org/visit/event/school_group_visits_discovery_tra
+ il\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/discovery
+ -cart_BB_42604393462-1120.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260423T040000Z
+DTEND;VALUE=DATE:20260423T060000Z
+UID:Seasonal Highlights Tour-2026-04-23 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanami Nights [Sold Out]
+DTSTART;VALUE=DATE:20260423T040000Z
+DTEND;VALUE=DATE:20260423T060000Z
+UID:Hanami Nights [Sold Out]-2026-04-23 04:00:00+00:00
+DESCRIPTION:Tuesday\, April 21–Friday\, April 24\, 2026 | 5–8:30 p.m.\
+ n					\n\n\n					\n						\n							| Ticketed Event\n\nOn these four specia
+ l nights\, guests can celebrate hanami—the Japanese tradition of experie
+ ncing the ephemeral beauty of cherry blossom season—beneath uplit trees 
+ on Cherry Esplanade\, with live music and specialty food and drinks.Learn 
+ More›about Hanami Nights [Sold Out]\n\nMore info:\nhttps://www.bbg.org/v
+ isit/event/hanami_nights\n\n<img src="/img/uploads/manual/hero/_list_thumb
+ nail_regular/2024_HanamiNights_Thumbnail_1120x744_RR2.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260424T040000Z
+DTEND;VALUE=DATE:20260424T060000Z
+UID:Spring First Discoveries-2026-04-24 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260424T040000Z
+DTEND;VALUE=DATE:20260424T060000Z
+UID:Seasonal Highlights Tour-2026-04-24 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cherry Blossom Spring Memory Program
+DTSTART;VALUE=DATE:20260424T040000Z
+DTEND;VALUE=DATE:20260424T060000Z
+UID:Cherry Blossom Spring Memory Program-2026-04-24 04:00:00+00:00
+DESCRIPTION:Friday\, April 24\, 2026 | 1:30–3:30 p.m.\n					\n\n\n					\
+ n						\n							| Preregistration Required\n\nSlow down and enjoy the beau
+ ty of spring.Learn More›about Cherry Blossom Spring Memory Program\n\nMo
+ re info:\nhttps://www.bbg.org/visit/event/cherry_blossom_spring_memory_pro
+ gram\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/cherry-blossom
+ s-pink_MS_51086049877.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hanami Nights [Sold Out]
+DTSTART;VALUE=DATE:20260424T040000Z
+DTEND;VALUE=DATE:20260424T060000Z
+UID:Hanami Nights [Sold Out]-2026-04-24 04:00:00+00:00
+DESCRIPTION:Tuesday\, April 21–Friday\, April 24\, 2026 | 5–8:30 p.m.\
+ n					\n\n\n					\n						\n							| Ticketed Event\n\nOn these four specia
+ l nights\, guests can celebrate hanami—the Japanese tradition of experie
+ ncing the ephemeral beauty of cherry blossom season—beneath uplit trees 
+ on Cherry Esplanade\, with live music and specialty food and drinks.Learn 
+ More›about Hanami Nights [Sold Out]\n\nMore info:\nhttps://www.bbg.org/v
+ isit/event/hanami_nights\n\n<img src="/img/uploads/manual/hero/_list_thumb
+ nail_regular/2024_HanamiNights_Thumbnail_1120x744_RR2.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
