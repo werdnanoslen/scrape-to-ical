@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260411T211129Z
-DTEND;VALUE=DATE:20260411T231129Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-11 21:11:29.974394+00:
+DTSTART;VALUE=DATE:20260412T153537Z
+DTEND;VALUE=DATE:20260412T173537Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-12 15:35:37.823555+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -23,52 +23,6 @@ DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Gardening Hours
-DTSTART;VALUE=DATE:20260411T040000Z
-DTEND;VALUE=DATE:20260411T060000Z
-UID:Family Gardening Hours-2026-04-11 04:00:00+00:00
-DESCRIPTION:Single session on April 8\, 9\, 10\, 11\; June 5\, 6\; July 1 
- or 2\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Pre
- registration Required\n\nJoin educators at activity stations throughout th
- e Children’s Garden during this new\, one-time class for kids of all age
- s and their caregiversLearn More›about Family Gardening Hours\n\nMore in
- fo:\nhttps://www.bbg.org/classes/family_gardening_hours\n\n<img src="/img/
- uploads/manual/hero/_list_thumbnail_regular/family-gardening_MS_5281458343
- 7-crop.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring Family Discovery Weekends
-DTSTART;VALUE=DATE:20260411T040000Z
-DTEND;VALUE=DATE:20260411T060000Z
-UID:Spring Family Discovery Weekends-2026-04-11 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
- e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
- 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
- d\, and marsh habitats and in the vegetable garden encourage families to e
- xplore nature together.Learn More›about Spring Family Discovery Weekends
- \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
- n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
- _54439412040.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260411T040000Z
-DTEND;VALUE=DATE:20260411T060000Z
-UID:Seasonal Highlights Tour-2026-04-11 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
- scover spring blooms and other highlights of the season in this free walk 
- led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
- \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
- <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
- 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -89,20 +43,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260412T040000Z
-DTEND;VALUE=DATE:20260412T060000Z
-UID:Seasonal Highlights Tour-2026-04-12 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
- scover spring blooms and other highlights of the season in this free walk 
- led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
- \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
- <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
- 09309673.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rodent Reduction in Compost Projects
 DTSTART;VALUE=DATE:20260412T040000Z
 DTEND;VALUE=DATE:20260412T060000Z
@@ -113,6 +53,20 @@ DESCRIPTION:Sunday\, April 12\, 2026 | 1–4 p.m. (Rain date April 19)Free
  ore›about Rodent Reduction in Compost Projects\n\nMore info:\nhttps://ww
  w.bbg.org/classes/rodent_reduction_in_compost_projects\n\n<img src="/img/u
  ploads/hero/_list_thumbnail_regular/compost_MS_53266123404.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260412T040000Z
+DTEND;VALUE=DATE:20260412T060000Z
+UID:Seasonal Highlights Tour-2026-04-12 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
