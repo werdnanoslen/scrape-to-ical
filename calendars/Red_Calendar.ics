@@ -167,6 +167,17 @@ DESCRIPTION:https://cal.red/?event=5042\nCost: Free
 LOCATION:Another World - 629 Nostrand Ave in Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Poetry at Sunview Luncheonette w/ Stine An\, Christine Shan Shan H
+ ou\, Monica McClure & Harper Galvin
+DTSTART:20260415T230000Z
+DTEND:20260416T000000Z
+DTSTAMP:20260415T230000Z
+UID:event:5044:2026-04-15T19:00:00
+DESCRIPTION:https://cal.red/?event=5044\nCost: Free (books available for p
+ urchase)
+LOCATION:Sunview Acropolis / 257 Nassau Ave / Greenpoint
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Abolition Teach-In Series: Understanding the Prison Industrial Com
  plex
 DTSTART:20260416T193000Z
@@ -233,6 +244,26 @@ DTSTAMP:20260417T160000Z
 UID:event:5029:2026-04-17T12:00:00
 DESCRIPTION:https://cal.red/?event=5029\nCost: Free with registration
 LOCATION:CUNY Graduate Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Jamboree for the Summer of Ludd
+DTSTART:20260417T210000Z
+DTEND:20260417T220000Z
+DTSTAMP:20260417T210000Z
+UID:event:5043:2026-04-17T17:00:00
+DESCRIPTION:https://cal.red/?event=5043\nYou’ll probably find us in the 
+ center of the park\nCost: free
+LOCATION:Tompkins Square Park\, East Village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Jamboree for the Summer Of Ludd
+DTSTART:20260417T210000Z
+DTEND:20260417T220000Z
+DTSTAMP:20260417T210000Z
+UID:event:5049:2026-04-17T17:00:00
+DESCRIPTION:https://cal.red/?event=5049\nFind us in the center of the park
+ \nCost: FREE
+LOCATION:Tompkins SQ Park\, East Village
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rhythm in the Kitchen Festival
@@ -529,6 +560,17 @@ LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
   mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Across Languages: New Voices in Korean Poetry @ The Korea Society 
+ (presented by UDP and Zephyr Press)
+DTSTART:20260421T223000Z
+DTEND:20260421T233000Z
+DTSTAMP:20260421T223000Z
+UID:event:5045:2026-04-21T18:30:00
+DESCRIPTION:https://cal.red/?event=5045\nCost: Free
+LOCATION:The Korea Society (in-person) / 350 Madison Avenue\, 24th Floor [
+ Midtown]
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:192 Books Reading!
 DTSTART:20260421T230000Z
 DTEND:20260422T000000Z
@@ -546,6 +588,18 @@ UID:event:4722:2026-04-22T18:30:00
 DESCRIPTION:https://cal.red/?event=4722\n21-07 41st Ave Long Island City\,
   NY 11101\, USA\nCost: $20-35 sliding scale
 LOCATION:The Collaboratory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐇 Winter Night Rabbit Worries Launch and Bilingual Reading: Yoo
+  Heekyung and Stine An with Lee Jenny\, Archana Madhavan\, Michael Joseph 
+ Walsh & Ugly Duckling Presse
+DTSTART:20260422T230000Z
+DTEND:20260423T000000Z
+DTSTAMP:20260422T230000Z
+UID:event:5046:2026-04-22T19:00:00
+DESCRIPTION:https://cal.red/?event=5046\nCost: Free–$10 (sliding scale)
+LOCATION:Poets House / 10 River Terrace [Downtown Manhattan/Battery Park C
+ ity]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Poetry Project
@@ -652,6 +706,18 @@ DESCRIPTION:https://cal.red/?event=5040\nCost: $30 and up
 LOCATION:Nowadays\, 56-06 Cooper\, Bushwick/Queens
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🌰 BAM! 밤 🌌 An Evening of Korean Poetry and Poets and Frien
+ ds <3 @ Accent Sisters
+DTSTART:20260424T230000Z
+DTEND:20260425T000000Z
+DTSTAMP:20260424T230000Z
+UID:event:5047:2026-04-24T19:00:00
+DESCRIPTION:https://cal.red/?event=5047\nCost: Free (Refreshments and book
+ s available for sale
+LOCATION:🎀🎺 Accent Sisters | 89 5th Ave\, Ste 702\, NYC [Union Squar
+ e]
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Poetry Project
 DTSTART:20260425T000000Z
 DTEND:20260425T010000Z
@@ -668,6 +734,16 @@ DTSTAMP:20260425T160000Z
 UID:event:5023:2026-04-25T12:00:00
 DESCRIPTION:https://cal.red/?event=5023\nCost: Free
 LOCATION:📍Peace Cafe (23 Marcus Garvey Blvd)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dear Suki: A Poetry Gathering with Hua Xi\, Paloma Yannakakis & St
+ ine An w/ Yoo Heekyung\, organized by Soje
+DTSTART:20260425T160000Z
+DTEND:20260425T170000Z
+DTSTAMP:20260425T160000Z
+UID:event:5048:2026-04-25T12:00:00
+DESCRIPTION:https://cal.red/?event=5048\nCost: Free
+LOCATION:Tina Kim Gallery | 525 W 21st St. [Chelsea]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Segue Reading Series (Artists Space) - FENCE
