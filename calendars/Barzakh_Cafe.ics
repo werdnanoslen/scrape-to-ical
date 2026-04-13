@@ -436,6 +436,27 @@ DESCRIPTION:https://www.viewcy.com/event/minaxi_mehfilebarz\n<p><img alt="
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mehfil e Sama
+DTSTART:20260508T233000Z
+DTEND:20260509T013000Z
+DTSTAMP:20260508T233000Z
+UID:Mehfil e Sama
+DESCRIPTION:https://www.viewcy.com/event/mehfil_e_sama\n<p><img alt="Mehfi
+ l e Sama thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sent
+ ry-component="ImageWithFallback" data-sentry-element="Image" data-sentry-s
+ ource-file="index.tsx" decoding="async" height="186" loading="lazy" src="h
+ ttps://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-producti
+ on.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F475%2Fcover%
+ 2FNew_Designs.jpg%3F1776111252&amp\;w=640&amp\;q=100" srcset="/_next/image
+ ?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ff
+ eatured_images%2F000%2F025%2F475%2Fcover%2FNew_Designs.jpg%3F1776111252&am
+ p\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-prod
+ uction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F475%2Fco
+ ver%2FNew_Designs.jpg%3F1776111252&amp\;w=640&amp\;q=100 2x" style="color:
+  transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Robi-Raagini (রবি-রাগিণী)
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
