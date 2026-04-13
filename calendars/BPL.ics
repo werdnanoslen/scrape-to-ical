@@ -20,23 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260413T150000Z
-DTEND:20260413T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/819260
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260413T150000Z
-DTEND:20260413T170000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820307
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260413T150000Z
 DTEND:20260413T200000Z
@@ -55,21 +38,14 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Book Discussion: Before the Coffee Gets Cold
-DTSTART:20260413T160000Z
-DTEND:20260413T170000Z
-DESCRIPTION:Please join Park Slope Library for a discussion of Before the 
- Coffee Gets Cold by Toshikazu Kawaguchi.\n\nhttps://www.bklynlibrary.org/n
- ode/815181
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Yoga
-DTSTART:20260413T170000Z
-DTEND:20260413T180000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/815542
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260413T180000Z
+DTEND:20260413T200000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library fo
+ r help with your resume\, cover letter\, interview\, and job search\n\nhtt
+ ps://www.bklynlibrary.org/node/794868
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -80,16 +56,6 @@ DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
  . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
  ps://www.bklynlibrary.org/node/804710
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260413T180000Z
-DTEND:20260413T200000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library fo
- r help with your resume\, cover letter\, interview\, and job search\n\nhtt
- ps://www.bklynlibrary.org/node/794868
-LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
@@ -110,12 +76,12 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
+SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20260413T203000Z
 DTEND:20260413T220000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8069
- 75
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8039
+ 90
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
@@ -123,8 +89,8 @@ SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20260413T203000Z
 DTEND:20260413T220000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8039
- 90
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8069
+ 75
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
@@ -364,5 +330,45 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
   should have to go without the basics! If you or someone you know ne\n\nht
  tps://www.bklynlibrary.org/node/820180
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask‑A‑Tech: One-on-One Technology Help
+DTSTART:20260415T150000Z
+DTEND:20260415T160000Z
+DESCRIPTION:Need assistance using your laptop\, smartphone\, or tablet?Hav
+ e questions about Microsoft Word\, Excel\, PowerPoint\, or other computer 
+ programs?Visit the Pacific Branch at 11:00 AM for personalized\, one-o\n\n
+ https://www.bklynlibrary.org/node/820303
+LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260415T150000Z
+DTEND:20260415T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library (2
+ nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
+ ps://www.bklynlibrary.org/node/813985
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260415T153000Z
+DTEND:20260415T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/818661
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
+  Markets
+DTSTART:20260415T170000Z
+DTEND:20260415T180000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/797674
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
