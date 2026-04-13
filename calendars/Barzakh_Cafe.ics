@@ -75,6 +75,28 @@ DESCRIPTION:https://www.viewcy.com/event/karim_nagi__rhythm_c\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Anirudh Varma Collective - Classical Quintet live
+DTSTART:20260417T220000Z
+DTEND:20260418T000000Z
+DTSTAMP:20260417T220000Z
+UID:Anirudh Varma Collective - Classical Quintet live
+DESCRIPTION:https://www.viewcy.com/event/anirudh_varma_collect\n<p><img al
+ t="Anirudh Varma Collective - Classical Quintet live thumbnail" class="sty
+ les_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallbac
+ k" data-sentry-element="Image" data-sentry-source-file="index.tsx" decodin
+ g="async" height="186" loading="lazy" src="https://www.viewcy.com/_next/im
+ age?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%
+ 2Ffeatured_images%2F000%2F025%2F466%2Fcover%2FNew_Designs.jpg%3F1776092865
+ &amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-hero
+ ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F4
+ 66%2Fcover%2FNew_Designs.jpg%3F1776092865&amp\;w=384&amp\;q=100 1x\, /_nex
+ t/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcour
+ ses%2Ffeatured_images%2F000%2F025%2F466%2Fcover%2FNew_Designs.jpg%3F177609
+ 2865&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/><
+ /p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kingston Afrobeat Live
 DTSTART:20260418T000000Z
 DTEND:20260418T020000Z
@@ -160,24 +182,24 @@ DESCRIPTION:https://www.viewcy.com/event/dawn_drake__zapote_t\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Night of Mali Music with Farafina
+SUMMARY:Qawwali with The Saami Brothers
 DTSTART:20260420T000000Z
 DTEND:20260420T020000Z
 DTSTAMP:20260420T000000Z
-UID:Night of Mali Music with Farafina
-DESCRIPTION:https://www.viewcy.com/event/night_of_mali_music_w_1\n<p><img 
- alt="Night of Mali Music with Farafina thumbnail" class="styles_coverImg__
- PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
- -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
- ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
- 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
- ges%2F000%2F025%2F328%2Fcover%2FNew_Designs.jpg%3F1775767710&amp\;w=640&am
- p\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.
- s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F328%2Fcover%2FN
- ew_Designs.jpg%3F1775767710&amp\;w=384&amp\;q=100 1x\, /_next/image?url=ht
- tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
- _images%2F000%2F025%2F328%2Fcover%2FNew_Designs.jpg%3F1775767710&amp\;w=64
- 0&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+UID:Qawwali with The Saami Brothers
+DESCRIPTION:https://www.viewcy.com/event/qawwali_with_the_saam_5\n<p><img 
+ alt="Qawwali with The Saami Brothers thumbnail" class="styles_coverImg__Ps
+ R9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-e
+ lement="Image" data-sentry-source-file="index.tsx" decoding="async" height
+ ="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A
+ %2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_image
+ s%2F000%2F025%2F468%2Fcover%2FNew_Designs.jpg%3F1776093693&amp\;w=640&amp\
+ ;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3
+ .amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F468%2Fcover%2FNew
+ _Designs.jpg%3F1776093693&amp\;w=384&amp\;q=100 1x\, /_next/image?url=http
+ s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
+ mages%2F000%2F025%2F468%2Fcover%2FNew_Designs.jpg%3F1776093693&amp\;w=640&
+ amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
@@ -347,6 +369,27 @@ DESCRIPTION:https://www.viewcy.com/event/the_brooklyn_chaabi_p\n<p><img al
  F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%
  2F000%2F025%2F329%2Fcover%2FNew_Designs.jpg%3F1775768322&amp\;w=640&amp\;q
  =100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Night of Mali Music with Farafina
+DTSTART:20260427T000000Z
+DTEND:20260427T020000Z
+DTSTAMP:20260427T000000Z
+UID:Night of Mali Music with Farafina
+DESCRIPTION:https://www.viewcy.com/event/night_of_mali_music_w_1\n<p><img 
+ alt="Night of Mali Music with Farafina thumbnail" class="styles_coverImg__
+ PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
+ -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
+ ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
+ 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
+ ges%2F000%2F025%2F328%2Fcover%2FNew_Designs.jpg%3F1775767710&amp\;w=640&am
+ p\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.
+ s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F328%2Fcover%2FN
+ ew_Designs.jpg%3F1775767710&amp\;w=384&amp\;q=100 1x\, /_next/image?url=ht
+ tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
+ _images%2F000%2F025%2F328%2Fcover%2FNew_Designs.jpg%3F1775767710&amp\;w=64
+ 0&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
