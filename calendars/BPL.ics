@@ -20,24 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bard Microcollege at BPL Admissions Writing Session
-DTSTART:20260413T140000Z
-DTEND:20260413T160000Z
-DESCRIPTION:Apply to Bard Microcollege at Brooklyn Public Library today!\n
- \nhttps://www.bklynlibrary.org/node/810077
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260413T150000Z
-DTEND:20260413T200000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/817309
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class
 DTSTART:20260413T150000Z
 DTEND:20260413T170000Z
@@ -53,6 +35,16 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820307
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260413T150000Z
+DTEND:20260413T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/817309
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
@@ -362,5 +354,15 @@ DTEND:20260415T153000Z
 DESCRIPTION:All beginners in Hebrew join us to practice and learn\n\nhttps
  ://www.bklynlibrary.org/node/819639
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
+DTSTART:20260415T140000Z
+DTEND:20260415T200000Z
+DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
+ cated to ensuring everyone has access to essential hygiene products.No one
+  should have to go without the basics! If you or someone you know ne\n\nht
+ tps://www.bklynlibrary.org/node/820180
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
