@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:On the Calculation of Volume IV Midnight Release Party
-DTSTART:20260414T020000Z
-DTEND:20260414T010000Z
-DESCRIPTION:Brooklyn Public Library and New Directions Publishing invite y
- ou to celebrate the publication in English of the fourth installment in So
- lvej Balle’s time loop septology\, translated by Sophia Hersi Smi\n\nhtt
- ps://www.bklynlibrary.org/node/815150
-LOCATION:Le Pistol
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260414T133000Z
 DTEND:20260414T163000Z
@@ -371,5 +361,14 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
  e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
  lynlibrary.org/node/814908
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260416T140000Z
+DTEND:20260416T160000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820121
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
