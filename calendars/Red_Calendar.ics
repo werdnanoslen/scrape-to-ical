@@ -310,6 +310,26 @@ DESCRIPTION:https://cal.red/?event=5019\n[Lower Manhattan]\nCost: 5
 LOCATION:11 Cortlandt Alley & Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Break Up With Spotify
+DTSTART:20260418T220000Z
+DTEND:20260418T230000Z
+DTSTAMP:20260418T220000Z
+UID:event:5050:2026-04-18T18:00:00
+DESCRIPTION:https://cal.red/?event=5050\n4 Stuyvesant Ave\nBrooklyn\nCost:
+  Free for Lesbians & Dolls
+LOCATION:JADE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:break up with google
+DTSTART:20260418T220000Z
+DTEND:20260418T230000Z
+DTSTAMP:20260418T220000Z
+UID:event:5051:2026-04-18T18:00:00
+DESCRIPTION:https://cal.red/?event=5051\n4 Stuyvesant Ave\nBrooklyn\nCost:
+  Free for Lesbians & Dolls
+LOCATION:JADE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dancing with Black Holes
 DTSTART:20260418T230000Z
 DTEND:20260419T000000Z
@@ -501,6 +521,18 @@ LOCATION:The Korea Society (in-person) / 350 Madison Avenue\, 24th Floor [
  Midtown]
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Winter Night Rabbit Worries NYC Tour: South Korean Poetry Events++
+  April 21–25
+DTSTART:20260421T223000Z
+DTEND:20260421T233000Z
+DTSTAMP:20260421T223000Z
+UID:event:5052:2026-04-21T18:30:00
+DESCRIPTION:https://cal.red/?event=5052\nCost: Free–$10.00 (Sliding scal
+ e and/or free)
+LOCATION:Varies by event & date (pls see URL/link) [Midtown\, Downtown\, U
+ nion Sq\, Chelsea]
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:192 Books Reading!
 DTSTART:20260421T230000Z
 DTEND:20260422T000000Z
@@ -530,6 +562,18 @@ UID:event:5046:2026-04-22T19:00:00
 DESCRIPTION:https://cal.red/?event=5046\nCost: Free–$10 (sliding scale)
 LOCATION:Poets House / 10 River Terrace [Downtown Manhattan/Battery Park C
  ity]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Night Rabbit Worries NYC Tour: South Korean Poetry Events++
+  April 21–25
+DTSTART:20260422T230000Z
+DTEND:20260423T000000Z
+DTSTAMP:20260422T230000Z
+UID:event:5052:2026-04-22T19:00:00
+DESCRIPTION:https://cal.red/?event=5052\nCost: Free–$10.00 (Sliding scal
+ e and/or free)
+LOCATION:Varies by event & date (pls see URL/link) [Midtown\, Downtown\, U
+ nion Sq\, Chelsea]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Poetry Project
@@ -648,6 +692,18 @@ LOCATION:🎀🎺 Accent Sisters | 89 5th Ave\, Ste 702\, NYC [Union Squar
  e]
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Winter Night Rabbit Worries NYC Tour: South Korean Poetry Events++
+  April 21–25
+DTSTART:20260424T230000Z
+DTEND:20260425T000000Z
+DTSTAMP:20260424T230000Z
+UID:event:5052:2026-04-24T19:00:00
+DESCRIPTION:https://cal.red/?event=5052\nCost: Free–$10.00 (Sliding scal
+ e and/or free)
+LOCATION:Varies by event & date (pls see URL/link) [Midtown\, Downtown\, U
+ nion Sq\, Chelsea]
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Poetry Project
 DTSTART:20260425T000000Z
 DTEND:20260425T010000Z
@@ -674,6 +730,18 @@ DTSTAMP:20260425T160000Z
 UID:event:5048:2026-04-25T12:00:00
 DESCRIPTION:https://cal.red/?event=5048\nCost: Free
 LOCATION:Tina Kim Gallery | 525 W 21st St. [Chelsea]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter Night Rabbit Worries NYC Tour: South Korean Poetry Events++
+  April 21–25
+DTSTART:20260425T160000Z
+DTEND:20260425T170000Z
+DTSTAMP:20260425T160000Z
+UID:event:5052:2026-04-25T12:00:00
+DESCRIPTION:https://cal.red/?event=5052\nCost: Free–$10.00 (Sliding scal
+ e and/or free)
+LOCATION:Varies by event & date (pls see URL/link) [Midtown\, Downtown\, U
+ nion Sq\, Chelsea]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Segue Reading Series (Artists Space) - FENCE
