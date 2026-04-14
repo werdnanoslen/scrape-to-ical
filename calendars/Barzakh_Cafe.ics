@@ -372,27 +372,6 @@ DESCRIPTION:https://www.viewcy.com/event/the_brooklyn_chaabi_p\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Night of Mali Music with Farafina
-DTSTART:20260427T000000Z
-DTEND:20260427T020000Z
-DTSTAMP:20260427T000000Z
-UID:Night of Mali Music with Farafina
-DESCRIPTION:https://www.viewcy.com/event/night_of_mali_music_w_1\n<p><img 
- alt="Night of Mali Music with Farafina thumbnail" class="styles_coverImg__
- PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
- -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
- ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
- 3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_ima
- ges%2F000%2F025%2F328%2Fcover%2FNew_Designs.jpg%3F1775767710&amp\;w=640&am
- p\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.
- s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F328%2Fcover%2FN
- ew_Designs.jpg%3F1775767710&amp\;w=384&amp\;q=100 1x\, /_next/image?url=ht
- tps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured
- _images%2F000%2F025%2F328%2Fcover%2FNew_Designs.jpg%3F1775767710&amp\;w=64
- 0&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Triple Trio Night
 DTSTART:20260430T230000Z
 DTEND:20260501T010000Z
@@ -433,6 +412,27 @@ DESCRIPTION:https://www.viewcy.com/event/minaxi_mehfilebarz\n<p><img alt="
  ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
  2F025%2F268%2Fcover%2FNew_Designs.jpg%3F1775662265&amp\;w=640&amp\;q=100 2
  x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Guy Gottesfeld Band
+DTSTART:20260502T020000Z
+DTEND:20260502T040000Z
+DTSTAMP:20260502T020000Z
+UID:Guy Gottesfeld Band
+DESCRIPTION:https://www.viewcy.com/event/guy_gottesfeld_band\n<p><img alt=
+ "Guy Gottesfeld Band thumbnail" class="styles_coverImg__PsR9G" data-nimg="
+ 1" data-sentry-component="ImageWithFallback" data-sentry-element="Image" d
+ ata-sentry-source-file="index.tsx" decoding="async" height="186" loading="
+ lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-her
+ oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F
+ 498%2Fcover%2FNew_Designs_GUY.jpg%3F1776179462&amp\;w=640&amp\;q=100" srcs
+ et="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.c
+ om%2Fcourses%2Ffeatured_images%2F000%2F025%2F498%2Fcover%2FNew_Designs_GUY
+ .jpg%3F1776179462&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F025%2F498%2Fcover%2FNew_Designs_GUY.jpg%3F1776179462&amp\;w=640&amp\
+ ;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
