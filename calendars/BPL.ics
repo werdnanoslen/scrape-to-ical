@@ -20,16 +20,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fashion in Film
-DTSTART:20260415T220000Z
-DTEND:20260415T230000Z
-DESCRIPTION:What Hollywood designs today\, you will be wearing tomorrow.
- —Elsa SchiaparelliThis program will present clips from various films and
-  explore how the fashions worn by actors help narrate the stories. Se\n\nh
- ttps://www.bklynlibrary.org/node/812331
-LOCATION:Central Library\, Reverend Elsie Smith Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260415T220000Z
 DTEND:20260415T000000Z
@@ -379,5 +369,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
  10
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stitch & Play: The Art of Mending
+DTSTART:20260418T150000Z
+DTEND:20260418T170000Z
+DESCRIPTION:Don’t toss it—transform it! Learn to extend the life of yo
+ ur wardrobe in this sustainable sewing class series. Join us for a hands-o
+ n workshop where we trade "perfect" for "playful." This is a space f\n\nht
+ tps://www.bklynlibrary.org/node/808044
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
