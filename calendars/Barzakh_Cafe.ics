@@ -457,6 +457,28 @@ DESCRIPTION:https://www.viewcy.com/event/organico_at_barzakh\n<p><img alt=
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CAFE AMAN x Kelepouri: GREEK NIGHT
+DTSTART:20260503T020000Z
+DTEND:20260503T040000Z
+DTSTAMP:20260503T020000Z
+UID:CAFE AMAN x Kelepouri: GREEK NIGHT
+DESCRIPTION:https://www.viewcy.com/event/cafe_aman_x_kelepouri\n<p><img al
+ t="CAFE AMAN x Kelepouri: GREEK NIGHT thumbnail" class="styles_coverImg__P
+ sR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-
+ element="Image" data-sentry-source-file="index.tsx" decoding="async" heigh
+ t="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3
+ A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_imag
+ es%2F000%2F025%2F548%2Fcover%2FWhatsApp_Image_2026-04-15_at_8.15.55_PM.jpg
+ %3F1776283581&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F025%2F548%2Fcover%2FWhatsApp_Image_2026-04-15_at_8.15.55_PM.jpg%3F17
+ 76283581&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-
+ heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025
+ %2F548%2Fcover%2FWhatsApp_Image_2026-04-15_at_8.15.55_PM.jpg%3F1776283581&
+ amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mehfil e Sama
 DTSTART:20260508T233000Z
 DTEND:20260509T013000Z
