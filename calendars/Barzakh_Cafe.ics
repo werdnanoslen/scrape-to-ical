@@ -351,6 +351,23 @@ DESCRIPTION:https://www.viewcy.com/event/the_brooklyn_chaabi_p\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Night of Mali Music with Farafina
+DTSTART:20260427T000000Z
+DTEND:20260427T020000Z
+DTSTAMP:20260427T000000Z
+UID:Night of Mali Music with Farafina
+DESCRIPTION:https://www.viewcy.com/event/night_of_mali_music_w_1\n<p><img 
+ alt="Night of Mali Music with Farafina thumbnail" class="styles_coverImg__
+ PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
+ -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
+ ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=%2Ffea
+ tured_images%2Fcover%2Fmissing.png&amp\;w=640&amp\;q=100" srcset="/_next/i
+ mage?url=%2Ffeatured_images%2Fcover%2Fmissing.png&amp\;w=384&amp\;q=100 1x
+ \, /_next/image?url=%2Ffeatured_images%2Fcover%2Fmissing.png&amp\;w=640&am
+ p\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Triple Trio Night
 DTSTART:20260430T230000Z
 DTEND:20260501T010000Z
