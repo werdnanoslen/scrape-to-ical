@@ -40,44 +40,13 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260415T150000Z
-DTEND:20260415T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library (2
- nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
- ps://www.bklynlibrary.org/node/813985
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260415T153000Z
-DTEND:20260415T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/818661
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
-  Markets
-DTSTART:20260415T170000Z
-DTEND:20260415T180000Z
-DESCRIPTION:Learn all about today's financial markets from two women who 
- watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
- s they host The Women and Money Roundtable. This series is a virt\n\nhttps
- ://www.bklynlibrary.org/node/797674
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20260415T170000Z
-DTEND:20260415T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /820164
-LOCATION:Brooklyn Heights Library\, Craft Room
+SUMMARY:Strength of Courage Global Holocaust Film Series Hannah Arendt: Fa
+ cing Tyranny
+DTSTART:20260415T180000Z
+DTEND:20260415T210000Z
+DESCRIPTION:Documentary\, dir. by Chana Gazit and Jeff Bieber U.S.\, 2025
+ \, 102 min\n\nhttps://www.bklynlibrary.org/node/817281
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
@@ -95,15 +64,6 @@ DTEND:20260415T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818906
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strength of Courage Global Holocaust Film Series Hannah Arendt: Fa
- cing Tyranny
-DTSTART:20260415T180000Z
-DTEND:20260415T210000Z
-DESCRIPTION:Documentary\, dir. by Chana Gazit and Jeff Bieber U.S.\, 2025
- \, 102 min\n\nhttps://www.bklynlibrary.org/node/817281
-LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
@@ -382,5 +342,43 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820131
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260417T140000Z
+DTEND:20260417T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/817345
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HRA Resources
+DTSTART:20260417T140000Z
+DTEND:20260417T180000Z
+DESCRIPTION:Need help with food\, housing or getting around. ACCESS NYC of
+ fers a screening tool that recommends public benefits programs for you to 
+ consider based upon information you provide about your household.\n\nhttps
+ ://www.bklynlibrary.org/node/821083
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: The Mayor of Hell (1933)
+DTSTART:20260417T143000Z
+DTEND:20260417T155500Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
+ n our Multipurpose Room.\n\nhttps://www.bklynlibrary.org/node/815356
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260417T150000Z
+DTEND:20260417T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/804766
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
