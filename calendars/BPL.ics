@@ -64,16 +64,6 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask‑A‑Tech: One-on-One Technology Help
-DTSTART:20260415T150000Z
-DTEND:20260415T160000Z
-DESCRIPTION:Need assistance using your laptop\, smartphone\, or tablet?Hav
- e questions about Microsoft Word\, Excel\, PowerPoint\, or other computer 
- programs?Visit the Pacific Branch at 11:00 AM for personalized\, one-o\n\n
- https://www.bklynlibrary.org/node/820303
-LOCATION:Pacific\, Basement Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260415T150000Z
 DTEND:20260415T170000Z
@@ -82,6 +72,16 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
  ps://www.bklynlibrary.org/node/813985
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask‑A‑Tech: One-on-One Technology Help
+DTSTART:20260415T150000Z
+DTEND:20260415T160000Z
+DESCRIPTION:Need assistance using your laptop\, smartphone\, or tablet?Hav
+ e questions about Microsoft Word\, Excel\, PowerPoint\, or other computer 
+ programs?Visit the Pacific Branch at 11:00 AM for personalized\, one-o\n\n
+ https://www.bklynlibrary.org/node/820303
+LOCATION:Pacific\, Basement Meeting Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech
