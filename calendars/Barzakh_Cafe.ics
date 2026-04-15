@@ -479,6 +479,27 @@ DESCRIPTION:https://www.viewcy.com/event/cafe_aman_x_kelepouri\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Imran Fida at Barzakh
+DTSTART:20260507T230000Z
+DTEND:20260508T010000Z
+DTSTAMP:20260507T230000Z
+UID:Imran Fida at Barzakh
+DESCRIPTION:https://www.viewcy.com/event/imran_fida_at_barzakh_1\n<p><img 
+ alt="Imran Fida at Barzakh thumbnail" class="styles_coverImg__PsR9G" data-
+ nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="Im
+ age" data-sentry-source-file="index.tsx" decoding="async" height="186" loa
+ ding="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fview
+ cy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F
+ 025%2F549%2Fcover%2F1000099103.jpg%3F1776284707&amp\;w=640&amp\;q=100" src
+ set="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.
+ com%2Fcourses%2Ffeatured_images%2F000%2F025%2F549%2Fcover%2F1000099103.jpg
+ %3F1776284707&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fvi
+ ewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%
+ 2F025%2F549%2Fcover%2F1000099103.jpg%3F1776284707&amp\;w=640&amp\;q=100 2x
+ " style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mehfil e Sama
 DTSTART:20260508T233000Z
 DTEND:20260509T013000Z

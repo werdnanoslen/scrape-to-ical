@@ -11,60 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
-DTSTART:20260415T140000Z
-DTEND:20260415T210000Z
-DESCRIPTION:Register to make an appointment to receive free tax assistance
-  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
- /node/807903
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260415T140000Z
-DTEND:20260415T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/817314
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Strength of Courage Global Holocaust Film Series Hannah Arendt: Fa
- cing Tyranny
-DTSTART:20260415T180000Z
-DTEND:20260415T210000Z
-DESCRIPTION:Documentary\, dir. by Chana Gazit and Jeff Bieber U.S.\, 2025
- \, 102 min\n\nhttps://www.bklynlibrary.org/node/817281
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260415T190000Z
-DTEND:20260415T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
- ne-on-one review of your resume or cover letter and get help with your que
- stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
- .org/node/804741
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260415T190000Z
-DTEND:20260415T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820849
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260415T200000Z
-DTEND:20260415T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804521
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260415T220000Z
 DTEND:20260415T000000Z
@@ -380,5 +326,58 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
  24
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Crafting: Tulip Cards
+DTSTART:20260417T180000Z
+DTEND:20260417T193000Z
+DESCRIPTION:Join us to create beautiful tulip cards! Enjoy a creative cra
+ ft time - perfect for all skill levels. All materials will be provided.\n
+ \nhttps://www.bklynlibrary.org/node/816081
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260417T180000Z
+DTEND:20260417T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/816532
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How SBA Programs and Services Can Help Your Start\, Grow and Succe
+ ed
+DTSTART:20260417T180000Z
+DTEND:20260417T193000Z
+DESCRIPTION:Your Blueprint for Success: SBA Programs for Brooklyn Business
+  Owners!\n\nhttps://www.bklynlibrary.org/node/812986
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music You Can Create
+DTSTART:20260417T190000Z
+DTEND:20260417T200000Z
+DESCRIPTION:SPRING 2026\n\nhttps://www.bklynlibrary.org/node/814299
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260417T200000Z
+DTEND:20260417T213000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/807788
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260418T143000Z
+DTEND:20260418T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 10
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
