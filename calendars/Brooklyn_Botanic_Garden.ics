@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260417T001715Z
-DTEND;VALUE=DATE:20260417T021715Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-17 00:17:15.726129+00:
+DTSTART;VALUE=DATE:20260417T012024Z
+DTEND;VALUE=DATE:20260417T032024Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-17 01:20:24.990400+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -308,23 +308,6 @@ DESCRIPTION:Tuesday\, April 21–Friday\, April 24\, 2026 | 5–8:30 p.m.\
  More›about Hanami Nights [Sold Out]\n\nMore info:\nhttps://www.bbg.org/v
  isit/event/hanami_nights\n\n<img src="/img/uploads/manual/hero/_list_thumb
  nail_regular/2024_HanamiNights_Thumbnail_1120x744_RR2.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring Flower Bulb Care
-DTSTART;VALUE=DATE:20260422T040000Z
-DTEND;VALUE=DATE:20260422T060000Z
-UID:Spring Flower Bulb Care-2026-04-22 04:00:00+00:00
-DESCRIPTION:Wednesday\, April 22\, 2026 | 5:30–8:30 p.m.\n					\n\n\n			
- 		\n						\n							| Preregistration Required\n\nThis class explores all t
- hings bulbs\, including bloom time\, best practices for naturalizing\, opt
- ions for perennializing versus using bulbs as annual cut flowers\, and sav
- ing/curing for the next season.Learn More›about Spring Flower Bulb Care\
- n\nMore info:\nhttps://www.bbg.org/classes/spring_flower_bulb_care\n\n<img
-  src="/img/uploads/hero/_list_thumbnail_regular/f-48-167-22407085_xM3WLtTU
- _Caroline_Cutting_Garden_101_Planning_a_Seasonal_Cut_Flower_Garden.jpeg" a
- lt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

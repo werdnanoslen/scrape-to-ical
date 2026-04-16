@@ -11,37 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20260416T140000Z
-DTEND:20260416T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/814908
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:City Tech's Business & Industry Workforce Training Center Informat
- ional Tabling
-DTSTART:20260416T170000Z
-DTEND:20260416T210000Z
-DESCRIPTION:The Business and Industry Workforce Training Center of CUNY Ci
- ty College of Technology will visit Central Library to share information a
- bout its free training programs.\n\nhttps://www.bklynlibrary.org/node/8204
- 38
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Central Cookbook Club: Famous Family Recipes
-DTSTART:20260416T190000Z
-DTEND:20260416T203000Z
-DESCRIPTION:We all have them\, those beloved famous family recipes of lege
- nd\, (whether or not we really like to eat them\,) appearing at holidays\,
-  family dinners\, late afternoon bbqs\, and other moments throughout o\n\n
- https://www.bklynlibrary.org/node/814598
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba
 DTSTART:20260416T213000Z
 DTEND:20260416T223000Z
@@ -376,5 +345,34 @@ DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
  e class will begin with stretch and breathing exercises. Workouts\n\nhttps
  ://www.bklynlibrary.org/node/821072
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260420T180000Z
+DTEND:20260420T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/804711
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Market Research Simplified with Brooklyn Public Library
+DTSTART:20260420T180000Z
+DTEND:20260420T193000Z
+DESCRIPTION:Learn how the Brooklyn Public Library's Business & Career Cent
+ er can help you locate the market research you need to grow and adapt your
+  business.\n\nhttps://www.bklynlibrary.org/node/817459
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260420T180000Z
+DTEND:20260420T200000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library fo
+ r help with your resume\, cover letter\, interview\, and job search\n\nhtt
+ ps://www.bklynlibrary.org/node/794869
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
