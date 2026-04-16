@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260416T070725Z
-DTEND;VALUE=DATE:20260416T090725Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-16 07:07:25.754546+00:
+DTSTART;VALUE=DATE:20260416T090248Z
+DTEND;VALUE=DATE:20260416T110248Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-16 09:02:48.371247+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -23,35 +23,6 @@ DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring First Discoveries
-DTSTART;VALUE=DATE:20260415T040000Z
-DTEND;VALUE=DATE:20260415T060000Z
-UID:Spring First Discoveries-2026-04-15 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
- ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
- \, create a craft\, read a story\, and use your senses to explore nature a
- t activity stations designed for early learners up to 4 years old.Learn Mo
- re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
- it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
- regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260415T040000Z
-DTEND;VALUE=DATE:20260415T060000Z
-UID:Seasonal Highlights Tour-2026-04-15 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
- scover spring blooms and other highlights of the season in this free walk 
- led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
- \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
- <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
- 09309673.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -680,6 +651,35 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260430T040000Z
 DTEND;VALUE=DATE:20260430T060000Z
 UID:Seasonal Highlights Tour-2026-04-30 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260501T040000Z
+DTEND;VALUE=DATE:20260501T060000Z
+UID:Spring First Discoveries-2026-05-01 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260501T040000Z
+DTEND;VALUE=DATE:20260501T060000Z
+UID:Seasonal Highlights Tour-2026-05-01 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
  scover spring blooms and other highlights of the season in this free walk 
  led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
