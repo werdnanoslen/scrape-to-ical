@@ -30,16 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Produce Remotely
-DTSTART:20260416T150000Z
-DTEND:20260416T170000Z
-DESCRIPTION:Learn how to increase your online meeting/show production valu
- e! Learn techniques for maximizing production value for your remote shows
-  and meetings. This course covers the various platforms that you\n\nhttps:
- //www.bklynlibrary.org/node/795940
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:City Tech's Business & Industry Workforce Training Center Informat
  ional Tabling
 DTSTART:20260416T170000Z
@@ -380,5 +370,15 @@ DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
   Lobby to meet with you and discuss their food career training programs!\n
  \nhttps://www.bklynlibrary.org/node/820546
 LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Podcasting on Your Mobile Device
+DTSTART:20260420T150000Z
+DTEND:20260420T170000Z
+DESCRIPTION:Unlock the secrets to producing professional-quality podcasts 
+ using nothing but your mobile device. Whether you’re an experienced podc
+ aster or just getting started\, this workshop is designed to help y\n\nhtt
+ ps://www.bklynlibrary.org/node/813615
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
