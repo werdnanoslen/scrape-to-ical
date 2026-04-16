@@ -21,25 +21,6 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260416T213000Z
-DTEND:20260416T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/815613
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260416T213000Z
-DTEND:20260416T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819216
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260416T220000Z
 DTEND:20260416T233000Z
@@ -374,5 +355,22 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  r help with your resume\, cover letter\, interview\, and job search\n\nhtt
  ps://www.bklynlibrary.org/node/794869
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260420T190000Z
+DTEND:20260420T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /803353
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jigsaw Puzzle Hour
+DTSTART:20260420T190000Z
+DTEND:20260420T200000Z
+DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
+ variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
+ ://www.bklynlibrary.org/node/815557
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
