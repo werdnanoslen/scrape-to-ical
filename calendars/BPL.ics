@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260416T143000Z
-DTEND:20260416T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
- 94
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:City Tech's Business & Industry Workforce Training Center Informat
  ional Tabling
 DTSTART:20260416T170000Z
@@ -62,24 +53,6 @@ DESCRIPTION:We all know of Adobe’s huge array of products and services r
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260416T180000Z
-DTEND:20260416T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/817715
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260416T183000Z
-DTEND:20260416T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/817739
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Central Cookbook Club: Famous Family Recipes
 DTSTART:20260416T190000Z
 DTEND:20260416T203000Z
@@ -90,14 +63,6 @@ DESCRIPTION:We all have them\, those beloved famous family recipes of lege
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Job Fair Readiness: Tips & Tactics for Success (Virtual)
-DTSTART:20260416T190000Z
-DTEND:20260416T200000Z
-DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
- how to work the room?\n\nhttps://www.bklynlibrary.org/node/816819
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:French Conversation Group
 DTSTART:20260416T190000Z
 DTEND:20260416T200000Z
@@ -105,6 +70,14 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. This group is for high intermediate speake
  rs.\n\nhttps://www.bklynlibrary.org/node/816507
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Fair Readiness: Tips & Tactics for Success (Virtual)
+DTSTART:20260416T190000Z
+DTEND:20260416T200000Z
+DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
+ how to work the room?\n\nhttps://www.bklynlibrary.org/node/816819
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zumba
@@ -380,5 +353,32 @@ DESCRIPTION:Unlock the secrets to producing professional-quality podcasts
  aster or just getting started\, this workshop is designed to help y\n\nhtt
  ps://www.bklynlibrary.org/node/813615
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260420T150000Z
+DTEND:20260420T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/817310
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260420T150000Z
+DTEND:20260420T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/819261
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260420T150000Z
+DTEND:20260420T170000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820308
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR

@@ -372,6 +372,27 @@ DESCRIPTION:https://www.viewcy.com/event/night_of_mali_music_w_1\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Cool Out Vol. 6
+DTSTART:20260427T000000Z
+DTEND:20260427T020000Z
+DTSTAMP:20260427T000000Z
+UID:The Cool Out Vol. 6
+DESCRIPTION:https://www.viewcy.com/event/the_cool_out_vol_6\n<p><img alt="
+ The Cool Out Vol. 6 thumbnail" class="styles_coverImg__PsR9G" data-nimg="1
+ " data-sentry-component="ImageWithFallback" data-sentry-element="Image" da
+ ta-sentry-source-file="index.tsx" decoding="async" height="186" loading="l
+ azy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-hero
+ ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F3
+ 09%2Fcover%2FCOOLOUT6BANNER.jpg%3F1776298140&amp\;w=640&amp\;q=100" srcset
+ ="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com
+ %2Fcourses%2Ffeatured_images%2F000%2F025%2F309%2Fcover%2FCOOLOUT6BANNER.jp
+ g%3F1776298140&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F025%2F309%2Fcover%2FCOOLOUT6BANNER.jpg%3F1776298140&amp\;w=640&amp\;q=1
+ 00 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Triple Trio Night
 DTSTART:20260430T230000Z
 DTEND:20260501T010000Z
