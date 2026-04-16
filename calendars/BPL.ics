@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260416T140000Z
-DTEND:20260416T160000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820121
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20260416T143000Z
 DTEND:20260416T190000Z
@@ -37,24 +28,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
  94
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260416T143000Z
-DTEND:20260416T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 40
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260416T143000Z
-DTEND:20260416T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804495
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Produce Remotely
@@ -293,8 +266,8 @@ DESCRIPTION:Practice your French speaking and listening skills with other
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:How SBA Programs and Services Can Help Your Start\, Grow and Succe
- ed
+SUMMARY:How SBA Programs and Services Can Help Your Business To Start\, Gr
+ ow and Succeed
 DTSTART:20260417T180000Z
 DTEND:20260417T193000Z
 DESCRIPTION:Your Blueprint for Success: SBA Programs for Brooklyn Business
@@ -380,5 +353,32 @@ DESCRIPTION:Join a social circle where we can learn new skills from each
  other based on our own experiences in knitting\, crochet and hand-sewing.\
  n\nhttps://www.bklynlibrary.org/node/813196
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Climate Café Spring Session: Energy and Climate
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+DESCRIPTION:"Earth\, Water\, Fire and Air: How Our Energy Choices Shape Ou
+ r Planet"\n\nhttps://www.bklynlibrary.org/node/816422
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Carnegie Hall Citywide: The Met Orchestra Chamber Ensemble
+DTSTART:20260419T200000Z
+DTEND:20260419T213000Z
+DESCRIPTION:Featuring a handpicked\, rotating lineup of musicians from the
+  historic Met Orchestra\, The Met Orchestra Chamber Ensemble adapts to fit
+  the instrumental needs of any piece and offers endless programmin\n\nhttp
+ s://www.bklynlibrary.org/node/809855
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hot Bread Kitchen - Lobby Tabling
+DTSTART:20260420T140000Z
+DTEND:20260420T170000Z
+DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
+  Lobby to meet with you and discuss their food career training programs!\n
+ \nhttps://www.bklynlibrary.org/node/820546
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
