@@ -32,27 +32,6 @@ DESCRIPTION:The Business and Industry Workforce Training Center of CUNY Ci
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: From Plan to Plate: Market Research and Resources for F
- ood Entrepreneurs
-DTSTART:20260416T180000Z
-DTEND:20260416T200000Z
-DESCRIPTION:Learn how market research helps food entrepreneurs validate id
- eas\, understand customers\, and identify opportunities in Brooklyn’s co
- mpetitive and diverse food marketplace.\n\nhttps://www.bklynlibrary.org/no
- de/815083
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alternatives to Adobe
-DTSTART:20260416T180000Z
-DTEND:20260416T200000Z
-DESCRIPTION:We all know of Adobe’s huge array of products and services r
- elated to graphic design\, animation\, video and audio editing (among many
-  others!). Did you know that there are many alternatives to Adobe ap\n\nht
- tps://www.bklynlibrary.org/node/795973
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Central Cookbook Club: Famous Family Recipes
 DTSTART:20260416T190000Z
 DTEND:20260416T203000Z
@@ -61,23 +40,6 @@ DESCRIPTION:We all have them\, those beloved famous family recipes of lege
   family dinners\, late afternoon bbqs\, and other moments throughout o\n\n
  https://www.bklynlibrary.org/node/814598
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260416T190000Z
-DTEND:20260416T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816507
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Job Fair Readiness: Tips & Tactics for Success (Virtual)
-DTSTART:20260416T190000Z
-DTEND:20260416T200000Z
-DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
- how to work the room?\n\nhttps://www.bklynlibrary.org/node/816819
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zumba
@@ -380,5 +342,39 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820308
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260420T150000Z
+DTEND:20260420T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/821075
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20260420T153000Z
+DTEND:20260420T190000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/815550
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga
+DTSTART:20260420T170000Z
+DTEND:20260420T180000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/815543
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20260420T170000Z
+DTEND:20260420T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/821072
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
