@@ -31,26 +31,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260417T150000Z
-DTEND:20260417T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by Central Library for he
- lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
- ps://www.bklynlibrary.org/node/795494
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260417T150000Z
-DTEND:20260417T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter\, and get help with your questions ab
- out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
- org/node/804766
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260417T160000Z
 DTEND:20260417T180000Z
@@ -69,15 +49,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Crafting: Tulip Cards
-DTSTART:20260417T180000Z
-DTEND:20260417T193000Z
-DESCRIPTION:Join us to create beautiful tulip cards! Enjoy a creative cra
- ft time - perfect for all skill levels. All materials will be provided.\n
- \nhttps://www.bklynlibrary.org/node/816081
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual French Conversation Group
 DTSTART:20260417T180000Z
 DTEND:20260417T190000Z
@@ -94,6 +65,15 @@ DTEND:20260417T193000Z
 DESCRIPTION:Your Blueprint for Success: SBA Programs for Brooklyn Business
   Owners!\n\nhttps://www.bklynlibrary.org/node/812986
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Crafting: Tulip Cards
+DTSTART:20260417T180000Z
+DTEND:20260417T193000Z
+DESCRIPTION:Join us to create beautiful tulip cards! Enjoy a creative cra
+ ft time - perfect for all skill levels. All materials will be provided.\n
+ \nhttps://www.bklynlibrary.org/node/816081
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music You Can Create
@@ -372,5 +352,23 @@ DESCRIPTION:BPL Presents welcomes Xochitl Gonzalez who will discuss her ne
  nales Forten feels smothered by her future. She’s in a long-distanc\n\nh
  ttps://www.bklynlibrary.org/node/800602
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260421T133000Z
+DTEND:20260421T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/816152
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Brooklyn Vet Center Tabling
+DTSTART:20260421T140000Z
+DTEND:20260421T180000Z
+DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
+ dential and free help to Veterans\, service members\, and their families. 
+ Staff from the Vet Center will assist with information on health a\n\nhttp
+ s://www.bklynlibrary.org/node/808169
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
