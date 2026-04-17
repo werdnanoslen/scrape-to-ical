@@ -39,6 +39,16 @@ DESCRIPTION:Join us on Fridays at 10:30 am for a matinee movie screening i
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260417T150000Z
+DTEND:20260417T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by Central Library for he
+ lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
+ ps://www.bklynlibrary.org/node/795494
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260417T150000Z
 DTEND:20260417T170000Z
@@ -55,16 +65,6 @@ DTEND:20260417T160000Z
 DESCRIPTION:Viernes de 11am-12pm\n\nhttps://www.bklynlibrary.org/node/8203
  02
 LOCATION:Pacific\, Basement Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260417T150000Z
-DTEND:20260417T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by Central Library for he
- lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
- ps://www.bklynlibrary.org/node/795494
-LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
