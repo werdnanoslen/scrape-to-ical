@@ -361,11 +361,16 @@ DESCRIPTION:https://www.viewcy.com/event/night_of_mali_music_w_1\n<p><img
  alt="Night of Malian Music with Farafina thumbnail" class="styles_coverImg
  __PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sent
  ry-element="Image" data-sentry-source-file="index.tsx" decoding="async" he
- ight="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=%2Ff
- eatured_images%2Fcover%2Fmissing.png&amp\;w=640&amp\;q=100" srcset="/_next
- /image?url=%2Ffeatured_images%2Fcover%2Fmissing.png&amp\;w=384&amp\;q=100 
- 1x\, /_next/image?url=%2Ffeatured_images%2Fcover%2Fmissing.png&amp\;w=640&
- amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+ ight="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=http
+ s%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_i
+ mages%2F000%2F025%2F328%2Fcover%2F6914e7fc-b2cf-4896-8ae4-0e6f577f5297.jpg
+ %3F1776458817&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%
+ 2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F
+ 000%2F025%2F328%2Fcover%2F6914e7fc-b2cf-4896-8ae4-0e6f577f5297.jpg%3F17764
+ 58817&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-her
+ oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F
+ 328%2Fcover%2F6914e7fc-b2cf-4896-8ae4-0e6f577f5297.jpg%3F1776458817&amp\;w
+ =640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
