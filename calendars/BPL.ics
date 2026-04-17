@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260417T170000Z
-DTEND:20260417T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
- 24
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:How SBA Programs and Services Can Help Your Business To Start\, Gr
  ow and Succeed
 DTSTART:20260417T180000Z
@@ -46,15 +37,6 @@ DESCRIPTION:Join us to create beautiful tulip cards! Enjoy a creative cra
  ft time - perfect for all skill levels. All materials will be provided.\n
  \nhttps://www.bklynlibrary.org/node/816081
 LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260417T180000Z
-DTEND:20260417T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816532
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music You Can Create
@@ -369,5 +351,22 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/811956
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Housing Connect Help
+DTSTART:20260421T180000Z
+DTEND:20260421T190000Z
+DESCRIPTION:Helping people to create accounts and submit applications.\n\n
+ https://www.bklynlibrary.org/node/817366
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online Intermediate English Class (We Speak NYC)
+DTSTART:20260421T180000Z
+DTEND:20260421T200000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820318
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
