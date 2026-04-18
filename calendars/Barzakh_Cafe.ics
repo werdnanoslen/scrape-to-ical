@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Bradley El Hijo del Sol – Andean Rock Night
-DTSTART:20260418T020000Z
-DTEND:20260418T040000Z
-DTSTAMP:20260418T020000Z
-UID:Bradley El Hijo del Sol – Andean Rock Night
-DESCRIPTION:https://www.viewcy.com/event/bradley_el_hijo_del_s\n<p><img al
- t="Bradley El Hijo del Sol – Andean Rock Night thumbnail" class="styles_
- coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" d
- ata-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="a
- sync" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?
- url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffe
- atured_images%2F000%2F025%2F148%2Fcover%2FNew_Designs.jpg%3F1775244103&amp
- \;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-p
- roduction.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F148%2
- Fcover%2FNew_Designs.jpg%3F1775244103&amp\;w=384&amp\;q=100 1x\, /_next/im
- age?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%
- 2Ffeatured_images%2F000%2F025%2F148%2Fcover%2FNew_Designs.jpg%3F1775244103
- &amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Al-Bait Baitkom
 DTSTART:20260418T220000Z
 DTEND:20260419T000000Z
@@ -96,27 +75,6 @@ DESCRIPTION:https://www.viewcy.com/event/qawwali_with_the_saam_5\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Inside Voice with Elizabeth Shanaz
-DTSTART:20260423T220000Z
-DTEND:20260424T000000Z
-DTSTAMP:20260423T220000Z
-UID:Inside Voice with Elizabeth Shanaz
-DESCRIPTION:https://www.viewcy.com/event/inside_voice_with_eli_1\n<p><img 
- alt="Inside Voice with Elizabeth Shanaz thumbnail" class="styles_coverImg_
- _PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentr
- y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
- ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
- %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
- ages%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=640&a
- mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
- .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F046%2Fcover%2F
- New_Designs.jpg%3F1775076713&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
- ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
- d_images%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=6
- 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:French Moment at Barzakh
 DTSTART:20260423T220000Z
 DTEND:20260424T000000Z
@@ -137,6 +95,27 @@ DESCRIPTION:https://www.viewcy.com/event/french_moment_at_barz\n<p><img al
  es%2Ffeatured_images%2F000%2F025%2F617%2Fcover%2FLight_Grey_Light_Blue_Mod
  ern_Minimal_Bold_New_Language_Flyer.jpg%3F1776440301&amp\;w=640&amp\;q=100
   2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Inside Voice with Elizabeth Shanaz
+DTSTART:20260423T220000Z
+DTEND:20260424T000000Z
+DTSTAMP:20260423T220000Z
+UID:Inside Voice with Elizabeth Shanaz
+DESCRIPTION:https://www.viewcy.com/event/inside_voice_with_eli_1\n<p><img 
+ alt="Inside Voice with Elizabeth Shanaz thumbnail" class="styles_coverImg_
+ _PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentr
+ y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
+ ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=640&a
+ mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F046%2Fcover%2F
+ New_Designs.jpg%3F1775076713&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=6
+ 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
@@ -288,27 +267,6 @@ DESCRIPTION:https://www.viewcy.com/event/the_brooklyn_chaabi_p\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Cool Out Vol. 6
-DTSTART:20260427T000000Z
-DTEND:20260427T020000Z
-DTSTAMP:20260427T000000Z
-UID:The Cool Out Vol. 6
-DESCRIPTION:https://www.viewcy.com/event/the_cool_out_vol_6\n<p><img alt="
- The Cool Out Vol. 6 thumbnail" class="styles_coverImg__PsR9G" data-nimg="1
- " data-sentry-component="ImageWithFallback" data-sentry-element="Image" da
- ta-sentry-source-file="index.tsx" decoding="async" height="186" loading="l
- azy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-hero
- ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F3
- 09%2Fcover%2FCOOLOUT6BANNER.jpg%3F1776298140&amp\;w=640&amp\;q=100" srcset
- ="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com
- %2Fcourses%2Ffeatured_images%2F000%2F025%2F309%2Fcover%2FCOOLOUT6BANNER.jp
- g%3F1776298140&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fv
- iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
- %2F025%2F309%2Fcover%2FCOOLOUT6BANNER.jpg%3F1776298140&amp\;w=640&amp\;q=1
- 00 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Night of Malian Music with Farafina
 DTSTART:20260427T000000Z
 DTEND:20260427T020000Z
@@ -328,6 +286,27 @@ DESCRIPTION:https://www.viewcy.com/event/night_of_mali_music_w_1\n<p><img
  oku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F
  328%2Fcover%2F6914e7fc-b2cf-4896-8ae4-0e6f577f5297.jpg%3F1776458817&amp\;w
  =640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cool Out Vol. 6
+DTSTART:20260427T000000Z
+DTEND:20260427T020000Z
+DTSTAMP:20260427T000000Z
+UID:The Cool Out Vol. 6
+DESCRIPTION:https://www.viewcy.com/event/the_cool_out_vol_6\n<p><img alt="
+ The Cool Out Vol. 6 thumbnail" class="styles_coverImg__PsR9G" data-nimg="1
+ " data-sentry-component="ImageWithFallback" data-sentry-element="Image" da
+ ta-sentry-source-file="index.tsx" decoding="async" height="186" loading="l
+ azy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-hero
+ ku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F3
+ 09%2Fcover%2FCOOLOUT6BANNER.jpg%3F1776298140&amp\;w=640&amp\;q=100" srcset
+ ="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com
+ %2Fcourses%2Ffeatured_images%2F000%2F025%2F309%2Fcover%2FCOOLOUT6BANNER.jp
+ g%3F1776298140&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fv
+ iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
+ %2F025%2F309%2Fcover%2FCOOLOUT6BANNER.jpg%3F1776298140&amp\;w=640&amp\;q=1
+ 00 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
