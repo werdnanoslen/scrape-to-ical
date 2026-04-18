@@ -11,30 +11,12 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Self-Defense Class
-DTSTART:20260418T160000Z
-DTEND:20260418T173000Z
-DESCRIPTION:Learn the necessary skills to defend yourself in dangerous sit
- uations! With 5fify5 Jin Jitsu\n\nhttps://www.bklynlibrary.org/node/818489
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Black Fashion Career Day
 DTSTART:20260418T170000Z
 DTEND:20260418T190000Z
 DESCRIPTION:Industry-Led Career Access for Black Fashion Talent\n\nhttps:/
  /www.bklynlibrary.org/node/815085
 LOCATION:The Greene Space
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Harmonica Concert with Jiayi He
-DTSTART:20260418T170000Z
-DTEND:20260418T180000Z
-DESCRIPTION:Join us for a performance of award-winning harmonica virtuoso 
- Jiayi He has performed as a soloist with numerous orchestras worldwide\, a
- t venues such as Carnegie Hall\, General Assembly Hall at the Unit\n\nhttp
- s://www.bklynlibrary.org/node/813275
-LOCATION:Pacific\, 2nd Flr Meeting Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
@@ -367,5 +349,25 @@ DESCRIPTION:Join us this month to discuss The Lion Women of Tehran by Marj
  an Kamali\, one of the fiction longlist selections for the 2025 BPL Book P
  rize.\n\nhttps://www.bklynlibrary.org/node/817678
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry for Hard Times: A Reading and Conversation
+DTSTART:20260421T223000Z
+DTEND:20260421T234500Z
+DESCRIPTION:April may be the cruelest month\, but it's also National Poetr
+ y Month! Join us for a poetry reading and discussion with four Brooklyn po
+ ets as they read and discuss the poems that have gotten them thro\n\nhttps
+ ://www.bklynlibrary.org/node/819708
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birding Lecture and Wingspan
+DTSTART:20260421T223000Z
+DTEND:20260421T000000Z
+DESCRIPTION:Tom Stephenson and Megan Thornton from the Brooklyn Bird Club 
+ will give a lecture on birding in NYC and warblers. In this talk\, we’ll
+  explore key identification points for these colorful migrants and\n\nhttp
+ s://www.bklynlibrary.org/node/816982
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
