@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Kingston Afrobeat Live
-DTSTART:20260418T000000Z
-DTEND:20260418T020000Z
-DTSTAMP:20260418T000000Z
-UID:Kingston Afrobeat Live
-DESCRIPTION:https://www.viewcy.com/event/kingston_afrobeat_liv\n<p><img al
- t="Kingston Afrobeat Live thumbnail" class="styles_coverImg__PsR9G" data-n
- img="1" data-sentry-component="ImageWithFallback" data-sentry-element="Ima
- ge" data-sentry-source-file="index.tsx" decoding="async" height="186" load
- ing="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewc
- y-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F0
- 25%2F189%2Fcover%2FNew_Designs.jpg%3F1775418882&amp\;w=640&amp\;q=100" src
- set="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.
- com%2Fcourses%2Ffeatured_images%2F000%2F025%2F189%2Fcover%2FNew_Designs.jp
- g%3F1775418882&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fv
- iewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000
- %2F025%2F189%2Fcover%2FNew_Designs.jpg%3F1775418882&amp\;w=640&amp\;q=100 
- 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bradley El Hijo del Sol – Andean Rock Night
 DTSTART:20260418T020000Z
 DTEND:20260418T040000Z
@@ -117,6 +96,27 @@ DESCRIPTION:https://www.viewcy.com/event/qawwali_with_the_saam_5\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Inside Voice with Elizabeth Shanaz
+DTSTART:20260423T220000Z
+DTEND:20260424T000000Z
+DTSTAMP:20260423T220000Z
+UID:Inside Voice with Elizabeth Shanaz
+DESCRIPTION:https://www.viewcy.com/event/inside_voice_with_eli_1\n<p><img 
+ alt="Inside Voice with Elizabeth Shanaz thumbnail" class="styles_coverImg_
+ _PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentr
+ y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
+ ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
+ %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
+ ages%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=640&a
+ mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
+ .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F046%2Fcover%2F
+ New_Designs.jpg%3F1775076713&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
+ ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
+ d_images%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=6
+ 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:French Moment at Barzakh
 DTSTART:20260423T220000Z
 DTEND:20260424T000000Z
@@ -137,27 +137,6 @@ DESCRIPTION:https://www.viewcy.com/event/french_moment_at_barz\n<p><img al
  es%2Ffeatured_images%2F000%2F025%2F617%2Fcover%2FLight_Grey_Light_Blue_Mod
  ern_Minimal_Bold_New_Language_Flyer.jpg%3F1776440301&amp\;w=640&amp\;q=100
   2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Inside Voice with Elizabeth Shanaz
-DTSTART:20260423T220000Z
-DTEND:20260424T000000Z
-DTSTAMP:20260423T220000Z
-UID:Inside Voice with Elizabeth Shanaz
-DESCRIPTION:https://www.viewcy.com/event/inside_voice_with_eli_1\n<p><img 
- alt="Inside Voice with Elizabeth Shanaz thumbnail" class="styles_coverImg_
- _PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentr
- y-element="Image" data-sentry-source-file="index.tsx" decoding="async" hei
- ght="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https
- %3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_im
- ages%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=640&a
- mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production
- .s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F046%2Fcover%2F
- New_Designs.jpg%3F1775076713&amp\;w=384&amp\;q=100 1x\, /_next/image?url=h
- ttps%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses%2Ffeature
- d_images%2F000%2F025%2F046%2Fcover%2FNew_Designs.jpg%3F1775076713&amp\;w=6
- 40&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
