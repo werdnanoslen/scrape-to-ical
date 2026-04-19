@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260419T070611Z
-DTEND;VALUE=DATE:20260419T090611Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-19 07:06:11.544104+00:
+DTSTART;VALUE=DATE:20260419T090220Z
+DTEND;VALUE=DATE:20260419T110220Z
+UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-19 09:02:20.514964+00:
  00
 DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
@@ -23,82 +23,6 @@ DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
  n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
  w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
  l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Birding
-DTSTART;VALUE=DATE:20260418T040000Z
-DTEND;VALUE=DATE:20260418T060000Z
-UID:Birding-2026-04-18 04:00:00+00:00
-DESCRIPTION:5 Saturdays: April 18–May 30\, 2026 (except April 25 & May 2
- 3)  | 8:30 a.m.–1 p.m. \n					\n\n\n					\n						| Waitlist Only\n\nMeet
-  at natural locations in NYC to learn how to find and identify birds livin
- g in the area or passing through on their spring migrations.Learn More›a
- bout Birding\n\nMore info:\nhttps://www.bbg.org/classes/birding\n\n<img sr
- c="/img/uploads/hero/_list_thumbnail_regular/birds-bluejay2-dd.jpg" alt=""
-  />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Container Vegetable Gardening
-DTSTART;VALUE=DATE:20260418T040000Z
-DTEND;VALUE=DATE:20260418T060000Z
-UID:Container Vegetable Gardening-2026-04-18 04:00:00+00:00
-DESCRIPTION:Saturday\, April 18\, 2026 | 10 a.m.–1 p.m.\n					\n\n\n				
- 	\n						| Waitlist Only\n\nGrow your own delicious produce this season by
-  learning practical tips for successful vegetable gardening in containers.
- Learn More›about Container Vegetable Gardening\n\nMore info:\nhttps://ww
- w.bbg.org/classes/container_vegetable_gardening_april\n\n<img src="/img/up
- loads/hero/_list_thumbnail_regular/herb-garden_RB_4791239096.jpg" alt="" /
- >
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring Family Discovery Weekends
-DTSTART;VALUE=DATE:20260418T040000Z
-DTEND;VALUE=DATE:20260418T060000Z
-UID:Spring Family Discovery Weekends-2026-04-18 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
- e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
- 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
- d\, and marsh habitats and in the vegetable garden encourage families to e
- xplore nature together.Learn More›about Spring Family Discovery Weekends
- \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
- n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
- _54439412040.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260418T040000Z
-DTEND;VALUE=DATE:20260418T060000Z
-UID:Seasonal Highlights Tour-2026-04-18 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
- scover spring blooms and other highlights of the season in this free walk 
- led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
- \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
- <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
- 09309673.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cherry Blossom Verbal Description and Touch Tour
-DTSTART;VALUE=DATE:20260418T040000Z
-DTEND;VALUE=DATE:20260418T060000Z
-UID:Cherry Blossom Verbal Description and Touch Tour-2026-04-18 04:00:00+0
- 0:00
-DESCRIPTION:Saturday\, April 18\, 2026 | 2–5:30 p.m. \n					\n\n\n					\
- n						\n							| Preregistration Required\n\nCelebrate spring and enjoy t
- he beauty of cherry blossoms at this program for visitors who are blind or
-  have low vision.Learn More›about Cherry Blossom Verbal Description and 
- Touch Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/cherry_blossom_v
- erbal_description_and_touch_tour\n\n<img src="/img/uploads/hero/_list_thum
- bnail_regular/cherry-blossoms_PS_53675309632.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -570,6 +494,21 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Three Sisters Planting with Angela Ferguson
+DTSTART;VALUE=DATE:20260502T040000Z
+DTEND;VALUE=DATE:20260502T060000Z
+UID:Three Sisters Planting with Angela Ferguson-2026-05-02 04:00:00+00:00
+DESCRIPTION:Saturday\, May 2\, 2026 | 10:30 a.m.–12:30 p.m. \n					\n\n\
+ n					\n						\n							| Drop-in\n\nJoin Onondaga farmer\, seedkeeper\, an
+ d educator Angela Ferguson\, as she plants Three Sisters seeds in the Disc
+ overy Garden.Learn More›about Three Sisters Planting with Angela Ferguso
+ n\n\nMore info:\nhttps://www.bbg.org/visit/event/three_sisters_planting_wi
+ th_angela_ferguson\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/
+ three-sisters_SC_54533124586.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring Family Discovery Weekends
 DTSTART;VALUE=DATE:20260502T040000Z
 DTEND;VALUE=DATE:20260502T060000Z
@@ -582,21 +521,6 @@ DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
  \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
  n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
  _54439412040.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Three Sisters Planting with Angela Ferguson
-DTSTART;VALUE=DATE:20260502T040000Z
-DTEND;VALUE=DATE:20260502T060000Z
-UID:Three Sisters Planting with Angela Ferguson-2026-05-02 04:00:00+00:00
-DESCRIPTION:Saturday\, May 2\, 2026 | 10:30 a.m.–12:30 p.m. \n					\n\n\
- n					\n						\n							| Drop-in\n\nJoin Onondaga farmer\, seedkeeper\, an
- d educator Angela Ferguson\, as she plants Three Sisters seeds in the Disc
- overy Garden.Learn More›about Three Sisters Planting with Angela Ferguso
- n\n\nMore info:\nhttps://www.bbg.org/visit/event/three_sisters_planting_wi
- th_angela_ferguson\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/
- three-sisters_SC_54533124586.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
