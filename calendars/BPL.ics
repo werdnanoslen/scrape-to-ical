@@ -19,16 +19,6 @@ DESCRIPTION:NATIONAL LIBRARY WEEK\n\nhttps://www.bklynlibrary.org/node/806
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Carnegie Hall Citywide: The Met Orchestra Chamber Ensemble
-DTSTART:20260419T200000Z
-DTEND:20260419T213000Z
-DESCRIPTION:Featuring a handpicked\, rotating lineup of musicians from the
-  historic Met Orchestra\, The Met Orchestra Chamber Ensemble adapts to fit
-  the instrumental needs of any piece and offers endless programmin\n\nhttp
- s://www.bklynlibrary.org/node/809855
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hot Bread Kitchen - Lobby Tabling
 DTSTART:20260420T140000Z
 DTEND:20260420T170000Z
@@ -369,5 +359,13 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/817315
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20260422T140000Z
+DTEND:20260422T153000Z
+DESCRIPTION:All beginners in Hebrew join us to practice and learn\n\nhttps
+ ://www.bklynlibrary.org/node/819640
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
