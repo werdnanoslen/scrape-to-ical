@@ -11,22 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
-SUMMARY:Notice/Know/Kin: A Human/Tree Biography
-DTSTART;VALUE=DATE:20260420T070624Z
-DTEND;VALUE=DATE:20260420T090624Z
-UID:Notice/Know/Kin: A Human/Tree Biography-2026-04-20 07:06:24.681188+00:
- 00
-DESCRIPTION:November 7\, 2025–April 19\, 2026\n\nThis mixed-media art ex
- hibit by Nina Browne\, a woodworker turned urban naturalist\, invites us i
- nside the artist’s life and inside wood to reflect on our living relatio
- nships with trees and the Earth.Learn More›about Notice/Know/Kin: A Huma
- n/Tree Biography\n\nMore info:\nhttps://www.bbg.org/visit/event/notice_kno
- w_kin_a_human_tree_biography\n\n<img src="/img/uploads/hero/_list_thumbnai
- l_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:School Group Visits: Discovery Trail
 DTSTART;VALUE=DATE:20260421T040000Z
 DTEND;VALUE=DATE:20260421T060000Z
@@ -610,6 +594,80 @@ DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
  \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
  <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
  09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Woody Landscape Plant ID
+DTSTART;VALUE=DATE:20260505T040000Z
+DTEND;VALUE=DATE:20260505T060000Z
+UID:Woody Landscape Plant ID-2026-05-05 04:00:00+00:00
+DESCRIPTION:6 weekly sessions beginning Tuesday\, May 5\; Thursday\, May 7
+ \; or Wednesday\, July 15\, 2026\n					\n\n\n					\n						| Waitlist Only\
+ n\nWoody plants—including shade trees\, ornamental trees\, and evergreen
+  and deciduous shrubs—form the backbone of a well-planned landscape desi
+ gn.Learn More›about Woody Landscape Plant ID\n\nMore info:\nhttps://www.
+ bbg.org/classes/woody_landscape_plant_id\n\n<img src="/img/uploads/hero/_l
+ ist_thumbnail_regular/oriental_beech-MS_52338490377.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Botanical Illustration
+DTSTART;VALUE=DATE:20260505T040000Z
+DTEND;VALUE=DATE:20260505T060000Z
+UID:Botanical Illustration-2026-05-05 04:00:00+00:00
+DESCRIPTION:5 Tuesdays: May 5–June 9\, 2026 (except June 2) | 10 a.m.–
+ 12 p.m. \n					\n\n\n					\n						| Waitlist Only\n\nCapture the true beau
+ ty of plants and flowers in this beginner-friendly botanical art class.Lea
+ rn More›about Botanical Illustration\n\nMore info:\nhttps://www.bbg.org/
+ classes/botanical_illustration\n\n<img src="/img/uploads/hero/_list_thumbn
+ ail_regular/E.White-Pultz_trout-lily_Botanical-Illustration_.jpeg" alt="" 
+ />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20260505T040000Z
+DTEND;VALUE=DATE:20260505T060000Z
+UID:School Group Visits: Discovery Trail-2026-05-05 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
+ ne 11\, 2026 (except June 4) \n					\n\n\n					\n						\n							| Preregi
+ stration Required\n\nUse real science tools as you explore plants alongsid
+ e Discovery Docents at our hands-on activity stations throughout the Disco
+ very Garden.Learn More›about School Group Visits: Discovery Trail\n\nMor
+ e info:\nhttps://www.bbg.org/visit/event/school_group_visits_discovery_tra
+ il\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/discovery
+ -cart_BB_42604393462-1120.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260505T040000Z
+DTEND;VALUE=DATE:20260505T060000Z
+UID:Seasonal Highlights Tour-2026-05-05 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plant Propagation
+DTSTART;VALUE=DATE:20260505T040000Z
+DTEND;VALUE=DATE:20260505T060000Z
+UID:Plant Propagation-2026-05-05 04:00:00+00:00
+DESCRIPTION:6 Tuesdays: May 5–June 16\, 2026 (except June 2) | 6–9 p.m
+ .\n					\n\n\n					\n						| Waitlist Only\n\nIn this class\, you are intr
+ oduced to a variety of plant propagation techniques using both seed and ve
+ getative material.Learn More›about Plant Propagation\n\nMore info:\nhttp
+ s://www.bbg.org/classes/plant_propagation\n\n<img src="/img/uploads/hero/_
+ list_thumbnail_regular/plant-propagation_BB_37500311800.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
