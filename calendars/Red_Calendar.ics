@@ -584,6 +584,16 @@ DESCRIPTION:https://cal.red/?event=5055\nCost: Free to $20
 LOCATION:Greenwich Village
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Not for Leisure's Poem in Your Pocket Party
+DTSTART:20260429T230000Z
+DTEND:20260430T000000Z
+DTSTAMP:20260429T230000Z
+UID:event:5083:2026-04-29T19:00:00
+DESCRIPTION:https://cal.red/?event=5083\n615 Vanderbilt Ave\nProspect Heig
+ hts\, Brooklyn NY\nCost: free
+LOCATION:Unnameable Books
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Poetry Project
 DTSTART:20260430T000000Z
 DTEND:20260430T010000Z
@@ -646,6 +656,16 @@ DTSTAMP:20260502T160000Z
 UID:event:5055:2026-05-02T12:00:00
 DESCRIPTION:https://cal.red/?event=5055\nCost: Free to $20
 LOCATION:Greenwich Village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Cavalry is Not Coming: an Underground Music Summit for Communi
+ ty Building
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+DTSTAMP:20260502T160000Z
+UID:event:5084:2026-05-02T12:00:00
+DESCRIPTION:https://cal.red/?event=5084\nCost: Free
+LOCATION:East Williamsburg Warehouse\, RSVP for Address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We are already gathered\, we posted about Palestine
@@ -835,6 +855,16 @@ DESCRIPTION:https://cal.red/?event=4955\nCost: $15-$50 sliding scale
 LOCATION:Williamsburg in Brooklyn: 411 S 5th St
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fringe Records Benefit for abc no rio
+DTSTART:20260509T230000Z
+DTEND:20260510T000000Z
+DTSTAMP:20260509T230000Z
+UID:event:5085:2026-05-09T19:00:00
+DESCRIPTION:https://cal.red/?event=5085\n656 Woodward Avenue \nRidgewood\,
+  NY 11385\nCost: suggested donation $10
+LOCATION:Fringe Records
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Movement at Performance Space NYC
 DTSTART:20260510T200000Z
 DTEND:20260510T210000Z
@@ -852,6 +882,16 @@ UID:event:4537:2026-05-11T18:00:00
 DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
  elps keep IA’s doors open and lights on\, quite literally): $5-$10
 LOCATION:Park Slope
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:General Ideas reading group
+DTSTART:20260511T223000Z
+DTEND:20260511T233000Z
+DTSTAMP:20260511T223000Z
+UID:event:5086:2026-05-11T18:30:00
+DESCRIPTION:https://cal.red/?event=5086\n343A Tompkins Ave\, Brooklyn [Bed
+  Stuy]\nCost: Free
+LOCATION:dear friend books
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:*()*()*()*()*()*()*()*()*()*()*

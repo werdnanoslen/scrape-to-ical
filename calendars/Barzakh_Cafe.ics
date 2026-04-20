@@ -485,6 +485,29 @@ DESCRIPTION:https://www.viewcy.com/event/antonius_chedid__sou\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Khayal Manthan by Dr. Radhika Joshi: BRM Concert and Jam
+DTSTART:20260530T003000Z
+DTEND:20260530T023000Z
+DTSTAMP:20260530T003000Z
+UID:Khayal Manthan by Dr. Radhika Joshi: BRM Concert and Jam
+DESCRIPTION:https://www.viewcy.com/event/khayal_manthan_by_dr\n<p><img alt
+ ="Khayal Manthan by Dr. Radhika Joshi: BRM Concert and Jam thumbnail" clas
+ s="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithF
+ allback" data-sentry-element="Image" data-sentry-source-file="index.tsx" d
+ ecoding="async" height="186" loading="lazy" src="https://www.viewcy.com/_n
+ ext/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fco
+ urses%2Ffeatured_images%2F000%2F025%2F730%2Fcover%2FEblast_Thumbnails__28I
+ nstagram_Post__2845_29_29__281_29.jpg%3F1776713766&amp\;w=640&amp\;q=100" 
+ srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazona
+ ws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F730%2Fcover%2FEblast_Thum
+ bnails__28Instagram_Post__2845_29_29__281_29.jpg%3F1776713766&amp\;w=384&a
+ mp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.
+ amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F730%2Fcover%2FEbla
+ st_Thumbnails__28Instagram_Post__2845_29_29__281_29.jpg%3F1776713766&amp\;
+ w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minaxi: Mehfil-e-Barzakh
 DTSTART:20260531T000000Z
 DTEND:20260531T020000Z
