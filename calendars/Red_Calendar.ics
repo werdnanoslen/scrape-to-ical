@@ -117,6 +117,15 @@ DESCRIPTION:https://cal.red/?event=5090\nCost: Free
 LOCATION:Aberdeen Community Garden (98 Aberdeen St). 3–6 PM.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Class War History of the United States
+DTSTART:20260422T220000Z
+DTEND:20260422T230000Z
+DTSTAMP:20260422T220000Z
+UID:event:5092:2026-04-22T18:00:00
+DESCRIPTION:https://cal.red/?event=5092\nCost: Free
+LOCATION:The P.I.T. (411 S 4th St). 6–9 PM.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Upcycled Weaving
 DTSTART:20260422T223000Z
 DTEND:20260422T233000Z
@@ -298,6 +307,17 @@ LOCATION:Varies by event & date (pls see URL/link) [Midtown\, Downtown\, U
  nion Sq\, Chelsea]
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LOVE FOOL
+DTSTART:20260424T233000Z
+DTEND:20260425T003000Z
+DTSTAMP:20260424T233000Z
+UID:event:5093:2026-04-24T19:30:00
+DESCRIPTION:https://cal.red/?event=5093\nCost: $15 suggested donation\, NO
+ TAFLOF
+LOCATION:Mayday Space (176 St Nicholas Ave). Doors @ 7:30 PM. Show @ 8:30 
+ PM.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Poetry Project
 DTSTART:20260425T000000Z
 DTEND:20260425T010000Z
@@ -338,6 +358,16 @@ LOCATION:Varies by event & date (pls see URL/link) [Midtown\, Downtown\, U
  nion Sq\, Chelsea]
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Summer of Wool\, Knotweed\, and Water – Community Gathering
+DTSTART:20260425T170000Z
+DTEND:20260425T180000Z
+DTSTAMP:20260425T170000Z
+UID:event:5094:2026-04-25T13:00:00
+DESCRIPTION:https://cal.red/?event=5094\nCost: Free
+LOCATION:Gowanus Dredgers Boathouse (165 2nd St). 1–6 PM. Artist talk an
+ d Q&A @ 2 PM.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LES Radical History Tour (MoRUS)
 DTSTART:20260425T190000Z
 DTEND:20260425T200000Z
@@ -357,6 +387,15 @@ DESCRIPTION:https://cal.red/?event=5087\n\n📌 RSVP at na4a.org/nyc or QR
 LOCATION:We’ll be talking to stores about joining the boycott of importe
  d occupation-made goods\, and raising the financial pressure on the Zionis
  t entity. No previous canvass experience necessary\, training provided!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Penumbra – Online Fundraiser for thái Lu
+DTSTART:20260425T190000Z
+DTEND:20260425T200000Z
+DTSTAMP:20260425T190000Z
+UID:event:5095:2026-04-25T15:00:00
+DESCRIPTION:https://cal.red/?event=5095\nCost: $5–15+ donation
+LOCATION:Online via Zoom. 3–5PM ET.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Film Screening Mutual Aid Fundraiser for Lebanon
@@ -406,6 +445,34 @@ DESCRIPTION:https://cal.red/?event=5054\nCost: 20
 LOCATION:Empire Stage\, 229 Empire BLVD\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:We The People NYC Community Skill Share
+DTSTART:20260426T160000Z
+DTEND:20260426T170000Z
+DTSTAMP:20260426T160000Z
+UID:event:5097:2026-04-26T12:00:00
+DESCRIPTION:https://cal.red/?event=5097\nCost: Free
+LOCATION:Herbert Von King Park. 12–4 PM.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Closet – Sports Gear
+DTSTART:20260426T170000Z
+DTEND:20260426T180000Z
+DTSTAMP:20260426T170000Z
+UID:event:5098:2026-04-26T13:00:00
+DESCRIPTION:https://cal.red/?event=5098\nCost: Free
+LOCATION:Maria Hernandez Park. 1–5 PM.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bread and Wildflowers! an IWW spring picnic and seed bomb making p
+ arty
+DTSTART:20260426T180000Z
+DTEND:20260426T190000Z
+DTSTAMP:20260426T180000Z
+UID:event:5099:2026-04-26T14:00:00
+DESCRIPTION:https://cal.red/?event=5099\nCost: Free
+LOCATION:Sunset Park (6th Ave & 44th St entrance). 2 PM.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The City Speaks: Langs & Slangs of LES
 DTSTART:20260426T190000Z
 DTEND:20260426T200000Z
@@ -423,6 +490,15 @@ DTSTAMP:20260426T200000Z
 UID:event:4396:2026-04-26T16:00:00
 DESCRIPTION:https://cal.red/?event=4396\nCost: Free
 LOCATION:Keith Haring Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighbor Care Fair
+DTSTART:20260426T200000Z
+DTEND:20260426T210000Z
+DTSTAMP:20260426T200000Z
+UID:event:5096:2026-04-26T16:00:00
+DESCRIPTION:https://cal.red/?event=5096\nCost: Free
+LOCATION:Another World (629 Nostrand Ave). 4–8 PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BAD Movie Night with the Independent Labor Club
@@ -819,6 +895,16 @@ DTSTAMP:20260508T230000Z
 UID:event:4886:2026-05-08T19:00:00
 DESCRIPTION:https://cal.red/?event=4886\nPark Slope\nCost: Varies
 LOCATION:Poetry Society of America
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry Reading
+DTSTART:20260508T233000Z
+DTEND:20260509T003000Z
+DTSTAMP:20260508T233000Z
+UID:event:5088:2026-05-08T19:30:00
+DESCRIPTION:https://cal.red/?event=5088\n257 Nassau Avenue in Greenpoint\,
+  Brooklyn\, NYC\, 11222\nCost: Free
+LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saturday SUNNYDAY COLLECTIVE POPUP
