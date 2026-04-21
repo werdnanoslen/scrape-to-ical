@@ -11,42 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:FOSSS Guided Music Production Session: Advanced
-DTSTART:20260420T213000Z
-DTEND:20260420T233000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/785117
-LOCATION:Central Library\, Info Commons\, Recording Studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Getting Together: Can Palestinian and Jewish Women Offer a Feminis
- t Vision for Peace?
-DTSTART:20260420T213000Z
-DTEND:20260420T233000Z
-DESCRIPTION:non-public community event\n\nhttps://www.bklynlibrary.org/nod
- e/817572
-LOCATION:Hybrid: Virtual / Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260420T214500Z
-DTEND:20260420T234500Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820958
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Xochitl Gonzalez Discusses Last Night in Brooklyn\, with Bevy Smit
- h\, Marcy Blum\, Djali Brown-Cepeda\, and Lee Quiñones
-DTSTART:20260420T230000Z
-DTEND:20260420T003000Z
-DESCRIPTION:BPL Presents welcomes Xochitl Gonzalez who will discuss her ne
- w novel\, Last Night in Brooklyn. SPRING\, 2007: At twenty-six\, Alicia Ca
- nales Forten feels smothered by her future. She’s in a long-distanc\n\nh
- ttps://www.bklynlibrary.org/node/800602
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260421T133000Z
 DTEND:20260421T163000Z
@@ -370,5 +334,44 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
  95
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20260423T140000Z
+DTEND:20260423T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/814909
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn to LEAD: Job Readiness for Immigrant Women
+DTSTART:20260423T140000Z
+DTEND:20260423T160000Z
+DESCRIPTION:LEAD is a free program for immigrant women offered by New Wome
+ n New Yorkers. It combines career exploration\, job readiness\, English le
+ arning and community building in a safe\, flexible and inclusive sp\n\nhtt
+ ps://www.bklynlibrary.org/node/819421
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260423T140000Z
+DTEND:20260423T160000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820122
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Photography
+DTSTART:20260423T143000Z
+DTEND:20260423T173000Z
+DESCRIPTION:Dive into street photography in a class open to all skill leve
+ ls and learn from a seasoned pro. Explore iconic photographers while maste
+ ring both historical context and practical street shooting techn\n\nhttps:
+ //www.bklynlibrary.org/node/795977
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
