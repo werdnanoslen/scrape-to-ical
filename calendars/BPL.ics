@@ -23,16 +23,6 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260422T140000Z
-DTEND:20260422T180000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/818942
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260422T140000Z
 DTEND:20260422T210000Z
 DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  y questions you may have about getting online and using digital tools for 
@@ -49,16 +39,6 @@ DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
  d then have the option to engage in conversation with other book love\n\nh
  ttps://www.bklynlibrary.org/node/801558
 LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20260422T170000Z
-DTEND:20260422T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /820165
-LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
@@ -384,5 +364,23 @@ DESCRIPTION:"Read With Me" is a four-part workshop series for nannies and
  rticipants will learn best practices to build early literacy skills\n\nhtt
  ps://www.bklynlibrary.org/node/817929
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: Unfaithfully Yours (1948)
+DTSTART:20260424T143000Z
+DTEND:20260424T161500Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
+ ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819942
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260424T150000Z
+DTEND:20260424T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/804767
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
