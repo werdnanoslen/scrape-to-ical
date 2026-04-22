@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260422T140000Z
-DTEND:20260422T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/817315
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260422T190000Z
-DTEND:20260422T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
- ne-on-one review of your resume or cover letter and get help with your que
- stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
- .org/node/804742
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Medical Bills? We can Help - Medical Debt Clinic
 DTSTART:20260422T190000Z
 DTEND:20260422T230000Z
@@ -39,22 +19,6 @@ DESCRIPTION:Are you\, or someone you know\, having a problem with medical
   medical debt in private\, one-on-one counseling sessions. Learn ab\n\nht
  tps://www.bklynlibrary.org/node/815009
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260422T190000Z
-DTEND:20260422T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/821148
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260422T200000Z
-DTEND:20260422T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804522
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -384,5 +348,42 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
  25
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20260424T170000Z
+DTEND:20260424T180000Z
+DESCRIPTION:Please join us for a discussion of Raymond Carver's “So Much
+  Water So Close to Home\,” on Friday\, April 24\, 2026\, from 1-2:00 p.m
+ .\, in B&CC Classroom.\n\nhttps://www.bklynlibrary.org/node/818566
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collage Party
+DTSTART:20260424T180000Z
+DTEND:20260424T193000Z
+DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
+ es and other supplies available to make cards\, postcards\, and other proj
+ ects. You're welcome to bring your own additional materials to cut\n\nhttp
+ s://www.bklynlibrary.org/node/808243
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260424T180000Z
+DTEND:20260424T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/816533
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fund Smart: Access to Capital with the SBA
+DTSTART:20260424T180000Z
+DTEND:20260424T193000Z
+DESCRIPTION:Ready to find the capital to fuel your vision? This session is
+  your direct link to understanding how to fund your business\, covering:\n
+ \nhttps://www.bklynlibrary.org/node/812991
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
