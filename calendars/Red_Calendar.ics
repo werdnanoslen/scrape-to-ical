@@ -283,6 +283,15 @@ DESCRIPTION:https://cal.red/?event=5040\nCost: $30 and up
 LOCATION:Nowadays\, 56-06 Cooper\, Bushwick/Queens
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Souha\, Surviving Hell Mutual Aid Screening For Lebanon
+DTSTART:20260424T223000Z
+DTEND:20260424T233000Z
+DTSTAMP:20260424T223000Z
+UID:event:5102:2026-04-24T18:30:00
+DESCRIPTION:https://cal.red/?event=5102\nCost: $25 (Suggested Donation)
+LOCATION:RSVP For Location (Greenwich Village)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🌰 BAM! 밤 🌌 An Evening of Korean Poetry and Poets and Frien
  ds <3 @ Accent Sisters
 DTSTART:20260424T230000Z
