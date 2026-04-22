@@ -41,25 +41,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260422T150000Z
-DTEND:20260422T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library (2
- nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
- ps://www.bklynlibrary.org/node/813986
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260422T153000Z
-DTEND:20260422T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/818662
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Quiet Reading Party
 DTSTART:20260422T170000Z
 DTEND:20260422T183000Z
@@ -382,5 +363,26 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820132
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Screening: The Librarians
+DTSTART:20260423T220000Z
+DTEND:20260423T000000Z
+DESCRIPTION:The Librarians\, which made its world premiere at Sundance and
+  continued on to SXSW and Full Frame Documentary Film Festival\, explores 
+ the urgent moment we find ourselves in. As an unprecedented wave o\n\nhttp
+ s://www.bklynlibrary.org/node/817287
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Read With Me: A Workshop Series for Nannies and Non-Parent Caregiv
+ ers
+DTSTART:20260424T143000Z
+DTEND:20260424T153000Z
+DESCRIPTION:"Read With Me" is a four-part workshop series for nannies and 
+ non-parent caregivers. Through modeling\, discussion\, and activities\, pa
+ rticipants will learn best practices to build early literacy skills\n\nhtt
+ ps://www.bklynlibrary.org/node/817929
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
