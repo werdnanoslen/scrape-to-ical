@@ -30,25 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Learn to LEAD: Job Readiness for Immigrant Women
-DTSTART:20260423T140000Z
-DTEND:20260423T160000Z
-DESCRIPTION:LEAD is a free program for immigrant women offered by New Wome
- n New Yorkers. It combines career exploration\, job readiness\, English le
- arning and community building in a safe\, flexible and inclusive sp\n\nhtt
- ps://www.bklynlibrary.org/node/819421
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260423T140000Z
-DTEND:20260423T160000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820122
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Street Photography
 DTSTART:20260423T143000Z
 DTEND:20260423T173000Z
@@ -57,24 +38,6 @@ DESCRIPTION:Dive into street photography in a class open to all skill leve
  ring both historical context and practical street shooting techn\n\nhttps:
  //www.bklynlibrary.org/node/795977
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260423T143000Z
-DTEND:20260423T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 41
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260423T143000Z
-DTEND:20260423T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804496
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital Skills & AI Literacy: Info Session
@@ -386,5 +349,43 @@ DESCRIPTION:Join Brooklyn Public Library and our community partners for th
  mation\, screenings\, and giveaways for maternal health\, mental he\n\nhtt
  ps://www.bklynlibrary.org/node/801950
 LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 PowerUP Business Plan Competition Orientation
+DTSTART:20260425T150000Z
+DTEND:20260425T163000Z
+DESCRIPTION:The Prize is in the Process!\n\nhttps://www.bklynlibrary.org/n
+ ode/822260
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Heart to Heart: Healthy Heart\, Healthy Life Community Ta
+ lk
+DTSTART:20260425T160000Z
+DTEND:20260425T170000Z
+DESCRIPTION:Join Brooklyn Public Library and the NY Chapter of the America
+ n College of Cardiology for the "Brooklyn Heart to Heart: Healthy Heart\, 
+ Healthy Life Community Talk". The health talk will focus on pract\n\nhttp
+ s://www.bklynlibrary.org/node/801951
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Guided Music Production Session: Beginner
+DTSTART:20260425T170000Z
+DTEND:20260425T190000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/785118
+LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Virtual Saturdays Clinic!
+DTSTART:20260425T170000Z
+DTEND:20260425T190000Z
+DESCRIPTION:New York City spends up to $20 billion per year on goods and s
+ ervices. Getting certified as a Minority and Women-Owned Business Enterpri
+ se\, or MWBE\, will help you compete for these opportunities and a\n\nhttp
+ s://www.bklynlibrary.org/node/817552
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR

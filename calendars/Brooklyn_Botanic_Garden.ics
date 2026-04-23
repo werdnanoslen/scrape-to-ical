@@ -160,21 +160,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring Family Story Time
-DTSTART;VALUE=DATE:20260425T040000Z
-DTEND;VALUE=DATE:20260425T060000Z
-UID:Spring Family Story Time-2026-04-25 04:00:00+00:00
-DESCRIPTION:Saturdays\, April 25\, June 6\; Sundays\, May 10\, 17\, 31\, 2
- 026 | 11 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nR
- ead garden-inspired stories alongside BBG volunteers. Drop in anytime duri
- ng program hours to join in.Learn More›about Spring Family Story Time\n\
- nMore info:\nhttps://www.bbg.org/visit/event/family_storytime\n\n<img src=
- "/img/uploads/manual/hero/_list_thumbnail_regular/storytime-custom-MS-4900
- 1587152.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Recorrido por lo más destacado de la temporada/Seasonal Highlight
  s Tour in Spanish
 DTSTART;VALUE=DATE:20260425T040000Z
@@ -189,6 +174,21 @@ DESCRIPTION:Sábados 25 de abril\, 9 y 16 de mayo\, y 13 de junio de 2026
  ts Tour in Spanish\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
  _highlights_tour_spanish\n\n<img src="/img/uploads/hero/_list_thumbnail_re
  gular/shakespeare-garden_MS_51221461658.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Family Story Time
+DTSTART;VALUE=DATE:20260425T040000Z
+DTEND;VALUE=DATE:20260425T060000Z
+UID:Spring Family Story Time-2026-04-25 04:00:00+00:00
+DESCRIPTION:Saturdays\, April 25\, June 6\; Sundays\, May 10\, 17\, 31\, 2
+ 026 | 11 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nR
+ ead garden-inspired stories alongside BBG volunteers. Drop in anytime duri
+ ng program hours to join in.Learn More›about Spring Family Story Time\n\
+ nMore info:\nhttps://www.bbg.org/visit/event/family_storytime\n\n<img src=
+ "/img/uploads/manual/hero/_list_thumbnail_regular/storytime-custom-MS-4900
+ 1587152.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -400,21 +400,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Three Sisters Planting with Angela Ferguson
-DTSTART;VALUE=DATE:20260502T040000Z
-DTEND;VALUE=DATE:20260502T060000Z
-UID:Three Sisters Planting with Angela Ferguson-2026-05-02 04:00:00+00:00
-DESCRIPTION:Saturday\, May 2\, 2026 | 10:30 a.m.–12:30 p.m. \n					\n\n\
- n					\n						\n							| Drop-in\n\nJoin Onondaga farmer\, seedkeeper\, an
- d educator Angela Ferguson\, as she plants Three Sisters seeds in the Disc
- overy Garden.Learn More›about Three Sisters Planting with Angela Ferguso
- n\n\nMore info:\nhttps://www.bbg.org/visit/event/three_sisters_planting_wi
- th_angela_ferguson\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/
- three-sisters_SC_54533124586.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring Family Discovery Weekends
 DTSTART;VALUE=DATE:20260502T040000Z
 DTEND;VALUE=DATE:20260502T060000Z
@@ -427,6 +412,21 @@ DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
  \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
  n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
  _54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Three Sisters Planting with Angela Ferguson
+DTSTART;VALUE=DATE:20260502T040000Z
+DTEND;VALUE=DATE:20260502T060000Z
+UID:Three Sisters Planting with Angela Ferguson-2026-05-02 04:00:00+00:00
+DESCRIPTION:Saturday\, May 2\, 2026 | 10:30 a.m.–12:30 p.m. \n					\n\n\
+ n					\n						\n							| Drop-in\n\nJoin Onondaga farmer\, seedkeeper\, an
+ d educator Angela Ferguson\, as she plants Three Sisters seeds in the Disc
+ overy Garden.Learn More›about Three Sisters Planting with Angela Ferguso
+ n\n\nMore info:\nhttps://www.bbg.org/visit/event/three_sisters_planting_wi
+ th_angela_ferguson\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/
+ three-sisters_SC_54533124586.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -491,17 +491,17 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Weekends in Bloom
+SUMMARY:Accessibility in the Garden
 DTSTART;VALUE=DATE:20260503T040000Z
 DTEND;VALUE=DATE:20260503T060000Z
-UID:Weekends in Bloom-2026-05-03 04:00:00+00:00
-DESCRIPTION:Sundays\, May 3 and May 10\, 2026 | 10:30 a.m.–4 p.m.\n\nCel
- ebrate all the spring blooms at Brooklyn Botanic Garden with casual\, pop-
- up music and dance performances\, cultural programs\, activities for kids 
- and families\, Garden tours\, and more.Learn More›about Weekends in Bloo
- m\n\nMore info:\nhttps://www.bbg.org/visit/event/weekends_in_bloom\n\n<img
-  src="/img/uploads/hero/_list_thumbnail_regular/bombayo_SC_54533124376.jpe
- g" alt="" />
+UID:Accessibility in the Garden-2026-05-03 04:00:00+00:00
+DESCRIPTION:Sunday\, May 3\, 2026\n					\n\n					\n					| 11 a.m.–1 p.
+ m.\n\nConsider creative solutions to access barriers and try out different
+  adaptive gardening tools at interactive interpretation stations.Learn Mor
+ e›about Accessibility in the Garden\n\nMore info:\nhttps://www.bbg.org/v
+ isit/event/accessibility_in_the_garden\n\n<img src="/img/uploads/hero/_lis
+ t_thumbnail_regular/plant-activities_dane-isaac_53561815340-hero.jpeg" alt
+ ="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -594,21 +594,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Botany for Horticulturists
-DTSTART;VALUE=DATE:20260506T040000Z
-DTEND;VALUE=DATE:20260506T060000Z
-UID:Botany for Horticulturists-2026-05-06 04:00:00+00:00
-DESCRIPTION:10 sessions beginning Tuesday\, May 26 or 8 sessions beginning
-  Wednesday\, July 1\, 2026 \n					\n\n\n					\n						\n							| Preregistr
- ation Required\n\nThis course requires no previous knowledge of botany and
-  is recommended as a first course in the Certificate in Horticulture progr
- am.Learn More›about Botany for Horticulturists\n\nMore info:\nhttps://ww
- w.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uploads/her
- o/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring First Discoveries
 DTSTART;VALUE=DATE:20260506T040000Z
 DTEND;VALUE=DATE:20260506T060000Z
@@ -620,6 +605,21 @@ DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
  re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
  it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
  regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Botany for Horticulturists
+DTSTART;VALUE=DATE:20260506T040000Z
+DTEND;VALUE=DATE:20260506T060000Z
+UID:Botany for Horticulturists-2026-05-06 04:00:00+00:00
+DESCRIPTION:10 sessions beginning Tuesday\, May 26 or 8 sessions beginning
+  Wednesday\, July 1\, 2026 \n					\n\n\n					\n						\n							| Preregistr
+ ation Required\n\nThis course requires no previous knowledge of botany and
+  is recommended as a first course in the Certificate in Horticulture progr
+ am.Learn More›about Botany for Horticulturists\n\nMore info:\nhttps://ww
+ w.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uploads/her
+ o/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
