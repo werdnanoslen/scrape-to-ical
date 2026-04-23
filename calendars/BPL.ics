@@ -21,24 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20260423T183000Z
-DTEND:20260423T200000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers!\n
- \nhttps://www.bklynlibrary.org/node/812521
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260423T190000Z
-DTEND:20260423T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816508
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:From Plan to Plate: Hot Bread Kitchen Small Business Programs
 DTSTART:20260423T200000Z
 DTEND:20260423T210000Z
@@ -384,5 +366,23 @@ DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
  ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
  ps://www.bklynlibrary.org/node/815643
 LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 PowerUP Business Plan Competition Virtual Orientation
+DTSTART:20260427T150000Z
+DTEND:20260427T163000Z
+DESCRIPTION:The Prize is in the Process!\n\nhttps://www.bklynlibrary.org/n
+ ode/797929
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260427T150000Z
+DTEND:20260427T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/817311
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
