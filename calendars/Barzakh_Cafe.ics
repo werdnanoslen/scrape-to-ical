@@ -460,6 +460,28 @@ DESCRIPTION:https://www.viewcy.com/event/spring_retreat\n<p><img alt="Spri
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mehfil e Sama
+DTSTART:20260520T233000Z
+DTEND:20260521T013000Z
+DTSTAMP:20260520T233000Z
+UID:Mehfil e Sama
+DESCRIPTION:https://www.viewcy.com/event/mehfil_e_sama_1\n<p><img alt="Meh
+ fil e Sama thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-se
+ ntry-component="ImageWithFallback" data-sentry-element="Image" data-sentry
+ -source-file="index.tsx" decoding="async" height="186" loading="lazy" src=
+ "https://www.viewcy.com/_next/image?url=https%3A%2F%2Fviewcy-heroku-produc
+ tion.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F859%2Fcove
+ r%2FSaami_Brothers_Live_at_Barzakh_Cafe.jpg%3F1776966005&amp\;w=640&amp\;q
+ =100" srcset="/_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.a
+ mazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F859%2Fcover%2FSaami
+ _Brothers_Live_at_Barzakh_Cafe.jpg%3F1776966005&amp\;w=384&amp\;q=100 1x\,
+  /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%
+ 2Fcourses%2Ffeatured_images%2F000%2F025%2F859%2Fcover%2FSaami_Brothers_Liv
+ e_at_Barzakh_Cafe.jpg%3F1776966005&amp\;w=640&amp\;q=100 2x" style="color:
+  transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Traveling with the Tunisian writer Abdelwahab Meddeb
 DTSTART:20260524T210000Z
 DTEND:20260524T230000Z
@@ -504,6 +526,28 @@ DESCRIPTION:https://www.viewcy.com/event/antonius_chedid__sou\n<p><img alt
  mazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F025%2F618%2Fcover%2FWhats
  App_Image_2026-04-17_at_3.39.05_PM.jpg%3F1776440617&amp\;w=640&amp\;q=100 
  2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York Oud Festival 2026 Day 6 | Ameer Armaly
+DTSTART:20260529T220000Z
+DTEND:20260530T000000Z
+DTSTAMP:20260529T220000Z
+UID:New York Oud Festival 2026 Day 6 | Ameer Armaly
+DESCRIPTION:https://www.viewcy.com/event/new_york_oud_festival_13\n<p><img
+  alt="New York Oud Festival 2026 Day 6 | Ameer Armaly thumbnail" class="st
+ yles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallba
+ ck" data-sentry-element="Image" data-sentry-source-file="index.tsx" decodi
+ ng="async" height="186" loading="lazy" src="https://www.viewcy.com/_next/i
+ mage?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.com%2Fcourses
+ %2Ffeatured_images%2F000%2F025%2F858%2Fcover%2FUntitled_design.jpg%3F17769
+ 65172&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fviewcy
+ -heroku-production.s3.amazonaws.com%2Fcourses%2Ffeatured_images%2F000%2F02
+ 5%2F858%2Fcover%2FUntitled_design.jpg%3F1776965172&amp\;w=384&amp\;q=100 1
+ x\, /_next/image?url=https%3A%2F%2Fviewcy-heroku-production.s3.amazonaws.c
+ om%2Fcourses%2Ffeatured_images%2F000%2F025%2F858%2Fcover%2FUntitled_design
+ .jpg%3F1776965172&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" w
+ idth="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT

@@ -40,6 +40,15 @@ DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260423T180000Z
+DTEND:20260423T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/817717
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:iPhone & Android Help
 DTSTART:20260423T180000Z
 DTEND:20260423T190000Z
@@ -48,15 +57,6 @@ DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
   questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
  ww.bklynlibrary.org/node/816816
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260423T180000Z
-DTEND:20260423T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/817717
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts and Crafts Circle
