@@ -11,42 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260422T220000Z
-DTEND:20260422T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 22
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260422T220000Z
-DTEND:20260422T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820112
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Citizenship Class
-DTSTART:20260422T220000Z
-DTEND:20260422T000000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/820152
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Whitman Circle Donor Event w/ Nell Freudenberger
-DTSTART:20260422T223000Z
-DTEND:20260422T003000Z
-DESCRIPTION:Whitman Circle members are invited to a cocktail reception and
-  discussion with author Nell Freudenberger at private home. For more info\
- , please reach out to Juliette Bobrow\, Manager of Patron Program\n\nhttps
- ://www.bklynlibrary.org/node/805370
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20260423T140000Z
 DTEND:20260423T190000Z
@@ -385,5 +349,41 @@ DESCRIPTION:Ready to find the capital to fuel your vision? This session is
   your direct link to understanding how to fund your business\, covering:\n
  \nhttps://www.bklynlibrary.org/node/812991
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diabetes Self-Management Education and Support Course
+DTSTART:20260424T180000Z
+DTEND:20260424T200000Z
+DESCRIPTION:This is a five-week course can help you learn how to manage d
+ iabetes! After each class\, participants will receive an OMNYCARD/MetroC
+ ard and a $50 gift card upon attending 4 classes minimum.\n\nhttps://www
+ .bklynlibrary.org/node/818095
+LOCATION:Crown Heights\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Music You Can Create
+DTSTART:20260424T190000Z
+DTEND:20260424T200000Z
+DESCRIPTION:SPRING 2026\n\nhttps://www.bklynlibrary.org/node/814300
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260424T200000Z
+DTEND:20260424T213000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/807789
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260425T143000Z
+DTEND:20260425T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 11
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
