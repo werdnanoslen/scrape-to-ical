@@ -30,16 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Street Photography
-DTSTART:20260423T143000Z
-DTEND:20260423T173000Z
-DESCRIPTION:Dive into street photography in a class open to all skill leve
- ls and learn from a seasoned pro. Explore iconic photographers while maste
- ring both historical context and practical street shooting techn\n\nhttps:
- //www.bklynlibrary.org/node/795977
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Digital Skills & AI Literacy: Info Session
 DTSTART:20260423T170000Z
 DTEND:20260423T183000Z
@@ -387,5 +377,13 @@ DESCRIPTION:New York City spends up to $20 billion per year on goods and s
  se\, or MWBE\, will help you compete for these opportunities and a\n\nhttp
  s://www.bklynlibrary.org/node/817552
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Neighbors of Park Slope: Game On
+DTSTART:20260425T170000Z
+DTEND:20260425T193000Z
+DESCRIPTION:Play board\, card and tabletop games with us at Park Slope Lib
+ rary!\n\nhttps://www.bklynlibrary.org/node/817682
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
