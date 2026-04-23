@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260423T140000Z
-DTEND:20260423T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
- 95
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20260423T140000Z
 DTEND:20260423T210000Z
@@ -30,35 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Digital Skills & AI Literacy: Info Session
-DTSTART:20260423T170000Z
-DTEND:20260423T183000Z
-DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
- cess to Google Career Certificates- online\, self-paced programs designed 
- to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
- ps://www.bklynlibrary.org/node/820074
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260423T180000Z
-DTEND:20260423T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/817717
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:iPhone & Android Help
-DTSTART:20260423T180000Z
-DTEND:20260423T190000Z
-DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
- e figure out something? The objective of this class is to tend to patrons'
-  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
- ww.bklynlibrary.org/node/816816
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arts and Crafts Circle
 DTSTART:20260423T183000Z
 DTEND:20260423T200000Z
@@ -66,15 +28,6 @@ DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join
  us to work on projects\, trade skills\, and socialize with other makers!\n
  \nhttps://www.bklynlibrary.org/node/812521
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260423T183000Z
-DTEND:20260423T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/817741
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:French Conversation Group
@@ -385,5 +338,51 @@ DTEND:20260425T193000Z
 DESCRIPTION:Play board\, card and tabletop games with us at Park Slope Lib
  rary!\n\nhttps://www.bklynlibrary.org/node/817682
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260425T173000Z
+DTEND:20260425T193000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/819664
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
+DTSTART:20260425T183000Z
+DTEND:20260425T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing.\
+ n\nhttps://www.bklynlibrary.org/node/813197
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pacific Library "New Adult" Book Club: Worry
+DTSTART:20260425T183000Z
+DTEND:20260425T193000Z
+DESCRIPTION:Starting April 25th\, Pacific Library will be hosting a monthl
+ y book club for “New Adults\,” individuals aged 17-27 years old. We wi
+ ll be reading a variety of contemporary fiction as well the occasional\n\n
+ https://www.bklynlibrary.org/node/815202
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conversations with Creatives
+DTSTART:20260425T190000Z
+DTEND:20260425T203000Z
+DESCRIPTION:What is it like to be making it as an artist today?\n\nhttps:/
+ /www.bklynlibrary.org/node/810196
+LOCATION:Central Library\, Info Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20260425T193000Z
+DTEND:20260425T210000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/815643
+LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
