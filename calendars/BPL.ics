@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Trustees: Executive Committee
-DTSTART:20260423T203000Z
-DTEND:20260423T213000Z
-DESCRIPTION:This committee meeting will take place in-person. Staff will s
- end additional details to committee members.\n\nhttps://www.bklynlibrary.o
- rg/node/797455
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bystander Intervention Training
-DTSTART:20260423T203000Z
-DTEND:20260423T213000Z
-DESCRIPTION:Join the NYC Commission on Human Rights to learn how you can b
- e a better member of your community by helping to create a safer NYC. The 
- Bystander Intervention Training is built on the idea that we all\n\nhttps:
- //www.bklynlibrary.org/node/816450
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba
 DTSTART:20260423T213000Z
 DTEND:20260423T223000Z
@@ -59,14 +40,12 @@ DESCRIPTION:Practice your English speaking and listening skills with other
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+SUMMARY:HOLD: The Librarians
 DTSTART:20260423T220000Z
-DTEND:20260423T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/819449
-LOCATION:Brooklyn Heights Library\, Craft Room
+DTEND:20260423T000000Z
+DESCRIPTION:HOLD FOR A SCREENING AND TALK FOR THE LIBRARIANS\n\nhttps://ww
+ w.bklynlibrary.org/node/806494
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -88,15 +67,6 @@ DESCRIPTION:Digital Rights Pioneer and author Cindy Cohn\, Executive Direc
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class - Intermediate Level (We Speak NYC)
-DTSTART:20260423T220000Z
-DTEND:20260423T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820132
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Film Screening: The Librarians
 DTSTART:20260423T220000Z
 DTEND:20260423T000000Z
@@ -105,6 +75,25 @@ DESCRIPTION:The Librarians\, which made its world premiere at Sundance and
  the urgent moment we find ourselves in. As an unprecedented wave o\n\nhttp
  s://www.bklynlibrary.org/node/817287
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20260423T220000Z
+DTEND:20260423T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/819449
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class - Intermediate Level (We Speak NYC)
+DTSTART:20260423T220000Z
+DTEND:20260423T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820132
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Read With Me: A Workshop Series for Nannies and Non-Parent Caregiv
@@ -383,5 +372,14 @@ DTEND:20260427T170000Z
 DESCRIPTION:The library offers free English classes for beginners learning
   English.\n\nhttps://www.bklynlibrary.org/node/819262
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260427T150000Z
+DTEND:20260427T170000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820309
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
