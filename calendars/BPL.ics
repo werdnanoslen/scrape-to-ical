@@ -77,15 +77,6 @@ DESCRIPTION:Practice your English speaking and listening skills with other
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20260423T143000Z
-DTEND:20260423T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/815918
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Digital Skills & AI Literacy: Info Session
 DTSTART:20260423T170000Z
 DTEND:20260423T183000Z
@@ -385,5 +376,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
  11
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Heart to Heart Resource Fair
+DTSTART:20260425T150000Z
+DTEND:20260425T170000Z
+DESCRIPTION:Join Brooklyn Public Library and our community partners for th
+ e "Brooklyn Heart to Heart" Resource Fair with access to free health infor
+ mation\, screenings\, and giveaways for maternal health\, mental he\n\nhtt
+ ps://www.bklynlibrary.org/node/801950
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
