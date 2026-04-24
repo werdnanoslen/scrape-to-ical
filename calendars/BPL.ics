@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260424T160000Z
-DTEND:20260424T180000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820142
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260424T170000Z
 DTEND:20260424T190000Z
@@ -37,15 +28,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
  25
 LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Short Story Discussion Group
-DTSTART:20260424T170000Z
-DTEND:20260424T180000Z
-DESCRIPTION:Please join us for a discussion of Raymond Carver's “So Much
-  Water So Close to Home\,” on Friday\, April 24\, 2026\, from 1-2:00 p.m
- .\, in B&CC Classroom.\n\nhttps://www.bklynlibrary.org/node/818566
-LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Collage Party
@@ -58,21 +40,21 @@ DESCRIPTION:Come collage with us on a Friday afternoon! We'll have magazin
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260424T180000Z
-DTEND:20260424T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816533
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fund Smart: Access to Capital with the SBA
 DTSTART:20260424T180000Z
 DTEND:20260424T193000Z
 DESCRIPTION:Ready to find the capital to fuel your vision? This session is
   your direct link to understanding how to fund your business\, covering:\n
  \nhttps://www.bklynlibrary.org/node/812991
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260424T180000Z
+DTEND:20260424T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/816533
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
@@ -376,5 +358,22 @@ DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
  pósito aprender cómo estructurar su negocio para que este sea exitoso\, 
  d\n\nhttps://www.bklynlibrary.org/node/822319
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQ+ Film Discussion Group
+DTSTART:20260427T223000Z
+DTEND:20260427T233000Z
+DESCRIPTION:Join us every last Monday for a monthly LGBTQ+ film discussion
+  group where we explore classic and contemporary queer cinema!\n\nhttps://
+ www.bklynlibrary.org/node/818895
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260428T133000Z
+DTEND:20260428T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/816153
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
