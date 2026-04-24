@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Read With Me: A Workshop Series for Nannies and Non-Parent Caregiv
- ers
-DTSTART:20260424T143000Z
-DTEND:20260424T153000Z
-DESCRIPTION:"Read With Me" is a four-part workshop series for nannies and 
- non-parent caregivers. Through modeling\, discussion\, and activities\, pa
- rticipants will learn best practices to build early literacy skills\n\nhtt
- ps://www.bklynlibrary.org/node/817929
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Movie: Unfaithfully Yours (1948)
-DTSTART:20260424T143000Z
-DTEND:20260424T161500Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
- ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819942
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260424T150000Z
 DTEND:20260424T170000Z
@@ -48,16 +29,6 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
  out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
  org/node/804767
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clase de Computación
-DTSTART:20260424T150000Z
-DTEND:20260424T160000Z
-DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
- os conceptos básicos del uso de una computadora? ¿O tal vez ha pasado ti
- empo y desea repasar y mejorar sus habilidades de computación?Puede\n\nht
- tps://www.bklynlibrary.org/node/821459
-LOCATION:Pacific\, Basement Meeting Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
@@ -377,6 +348,32 @@ DESCRIPTION:Are you applying for financial aid? Get expert in-person advic
  e from the Education Debt Consumer Assistance Program (EDCAP) while you fi
  ll out your financial aid applications. Laptops will be provided\n\nhttps:
  //www.bklynlibrary.org/node/814906
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260427T203000Z
+DTEND:20260427T220000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8039
+ 92
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making Music from Our Surroundings
+DTSTART:20260427T213000Z
+DTEND:20260427T233000Z
+DESCRIPTION:How can we make music drawing inspiration from the sounds of o
+ ur daily lives? How can we translate into sound what we observe in a paint
+ ing\, a text message\, a book\, ourselves\, or the world? What lies\n\nhtt
+ ps://www.bklynlibrary.org/node/814413
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20260427T214500Z
+DTEND:20260427T234500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820959
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
