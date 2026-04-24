@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260424T170000Z
-DTEND:20260424T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
- 25
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Collage Party
 DTSTART:20260424T180000Z
 DTEND:20260424T193000Z
@@ -46,15 +37,6 @@ DTEND:20260424T193000Z
 DESCRIPTION:Ready to find the capital to fuel your vision? This session is
   your direct link to understanding how to fund your business\, covering:\n
  \nhttps://www.bklynlibrary.org/node/812991
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260424T180000Z
-DTEND:20260424T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816533
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
@@ -375,5 +357,22 @@ DTEND:20260428T163000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/816153
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Fair Readiness: Tips & Tactics for Success
+DTSTART:20260428T150000Z
+DTEND:20260428T160000Z
+DESCRIPTION:Getting ready to attend a job fair? Not sure how they work or 
+ how to work the room?\n\nhttps://www.bklynlibrary.org/node/816460
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260428T160000Z
+DTEND:20260428T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822240
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
