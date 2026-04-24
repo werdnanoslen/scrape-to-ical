@@ -612,6 +612,16 @@ DESCRIPTION:https://cal.red/?event=5104\nCost: $12 before\, $17 day of
 LOCATION:Williamsburg\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Iron Henry's Frog Prince
+DTSTART:20260501T233000Z
+DTEND:20260502T003000Z
+DTSTAMP:20260501T233000Z
+UID:event:5126:2026-05-01T19:30:00
+DESCRIPTION:https://cal.red/?event=5126\n138 S Oxford St\, Brooklyn\, NY 1
+ 1217\, USA\nCost: $20-$40 sliding scale
+LOCATION:South Oxford Space - The Great Room
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brooklyn Choir Project Spring 2026 concert
 DTSTART:20260501T233000Z
 DTEND:20260502T003000Z
@@ -875,6 +885,15 @@ DESCRIPTION:https://cal.red/?event=5023\nCost: Free
 LOCATION:📍Peace Cafe (23 Marcus Garvey Blvd)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pen Pals - Poetry Social Mixer
+DTSTART:20260509T180000Z
+DTEND:20260509T190000Z
+DTSTAMP:20260509T180000Z
+UID:event:5136:2026-05-09T14:00:00
+DESCRIPTION:https://cal.red/?event=5136\nCost: $10
+LOCATION:DADA\, 60-46 Myrtle Ave Ridgewood NY 11385
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LES Radical History Tour (MoRUS)
 DTSTART:20260509T190000Z
 DTEND:20260509T200000Z
@@ -891,6 +910,16 @@ DTSTAMP:20260509T210000Z
 UID:event:5019:2026-05-09T17:00:00
 DESCRIPTION:https://cal.red/?event=5019\n[Lower Manhattan]\nCost: 5
 LOCATION:11 Cortlandt Alley & Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer of Ludd Event Making Open House
+DTSTART:20260509T210000Z
+DTEND:20260509T220000Z
+DTSTAMP:20260509T210000Z
+UID:event:5135:2026-05-09T17:00:00
+DESCRIPTION:https://cal.red/?event=5135\n15 Rutherford Place\nNear union s
+ quare\nCost: free
+LOCATION:Quaker meeting house
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ABC No Rio Benefit at the Pit
@@ -910,6 +939,16 @@ UID:event:5085:2026-05-09T19:00:00
 DESCRIPTION:https://cal.red/?event=5085\n656 Woodward Avenue \nRidgewood\,
   NY 11385\nCost: suggested donation $10
 LOCATION:Fringe Records
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iron Henry's Frog Prince
+DTSTART:20260509T233000Z
+DTEND:20260510T003000Z
+DTSTAMP:20260509T233000Z
+UID:event:5126:2026-05-09T19:30:00
+DESCRIPTION:https://cal.red/?event=5126\n138 S Oxford St\, Brooklyn\, NY 1
+ 1217\, USA\nCost: $20-$40 sliding scale
+LOCATION:South Oxford Space - The Great Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mouth Pieces
