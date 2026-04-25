@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Indian Classical Concert
-DTSTART:20260424T220000Z
-DTEND:20260425T000000Z
-DTSTAMP:20260424T220000Z
-UID:Indian Classical Concert
-DESCRIPTION:https://www.viewcy.com/event/indian_classical_conc\n<p><img al
- t="Indian Classical Concert thumbnail" class="styles_coverImg__PsR9G" data
- -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
- mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
- ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww
- .viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcm
- FpbHMiOnsiZGF0YSI6MTMxMTM1LCJwdXIiOiJibG9iX2lkIn19--655b53c374d7b7fa80fd51
- 4becaa8b69969a786c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpe
- mVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg
- 1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be
- 3d3917f6864589f67c6ba5945%2FNew_Designs.png&amp\;w=640&amp\;q=100" srcset=
- "/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2F
- representations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTMxMTM1LCJwdXIiOiJib
- G9iX2lkIn19--655b53c374d7b7fa80fd514becaa8b69969a786c%2FeyJfcmFpbHMiOnsiZG
- F0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIi
- Onsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIj
- oidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew_Designs
- .png&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.
- com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOn
- siZGF0YSI6MTMxMTM1LCJwdXIiOiJibG9iX2lkIn19--655b53c374d7b7fa80fd514becaa8b
- 69969a786c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZ
- mlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnR
- lcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6
- 864589f67c6ba5945%2FNew_Designs.png&amp\;w=640&amp\;q=100 2x" style="color
- : transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Baila! : Nacho!
 DTSTART:20260425T020000Z
 DTEND:20260425T040000Z
