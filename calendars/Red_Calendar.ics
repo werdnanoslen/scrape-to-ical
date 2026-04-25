@@ -533,6 +533,16 @@ DESCRIPTION:https://cal.red/?event=5116\nCost: 0
 LOCATION:DSK Brooklyn • 710 Fulton Street\, Brooklyn\, NY 11217 US
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:unplugged: Chenayder\, Phoenix James\, Kaicrewsade | an intimate 3
+ 60 concert experience
+DTSTART:20260430T220000Z
+DTEND:20260430T230000Z
+DTSTAMP:20260430T220000Z
+UID:event:5147:2026-04-30T18:00:00
+DESCRIPTION:https://cal.red/?event=5147\nCost: $20
+LOCATION:204 Varick St\, New York\, NY 10014 (Manhattan)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Unnameable Greetings Readings SPRING 2026 Lineup
 DTSTART:20260430T230000Z
 DTEND:20260501T000000Z
@@ -587,6 +597,17 @@ DTSTAMP:20260501T230000Z
 UID:event:5104:2026-05-01T19:00:00
 DESCRIPTION:https://cal.red/?event=5104\nCost: $12 before\, $17 day of
 LOCATION:Williamsburg\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:May Day Chili Cookoff and Karaoke @ Woodbine with the Independent 
+ Labor Club
+DTSTART:20260501T230000Z
+DTEND:20260502T000000Z
+DTSTAMP:20260501T230000Z
+UID:event:5148:2026-05-01T19:00:00
+DESCRIPTION:https://cal.red/?event=5148\n414 Broadway (canal) floor 3\nChi
+ natown\nCost: 0
+LOCATION:Woodbine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Iron Henry's Frog Prince
