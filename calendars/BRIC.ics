@@ -411,4 +411,14 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/its-showtime-nyc-j
  -Showtime-NYC-2026-hi-res-edit-with-kids-200x200.jpg" alt="" />
 LOCATION:BRIC House
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Sound Design 
+DTSTART:20260522T220000Z
+DTEND:20260523T010000Z
+DTSTAMP:20260522T220000Z
+UID:Intro to Sound Design -2026-05-22T22:00:00+00:00
+DESCRIPTION:Cost: $10\nhttps://bricartsmedia.org/class/intro-to-sound-desi
+ gn/
+LOCATION:Virtual
+END:VEVENT
 END:VCALENDAR
