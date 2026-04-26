@@ -95,6 +95,16 @@ DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/studio-podcasting/\
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20260504T220000Z
+DTEND:20260505T010000Z
+DTSTAMP:20260504T220000Z
+UID:Mini Studio Production-2026-05-04T22:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to Digital Photography 
 DTSTART:20260504T220000Z
 DTEND:20260505T010000Z
@@ -105,14 +115,23 @@ DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/class/intro-to-digital-ph
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20260504T220000Z
-DTEND:20260505T010000Z
-DTSTAMP:20260504T220000Z
-UID:Mini Studio Production-2026-05-04T22:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
- ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Intermediate Premiere
+DTSTART:20260505T220000Z
+DTEND:20260506T010000Z
+DTSTAMP:20260505T220000Z
+UID:Intermediate Premiere-2026-05-05T22:00:00+00:00
+DESCRIPTION:Cost: 60\nhttps://bricartsmedia.org/class/intermediate-premier
+ e/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientation
+DTSTART:20260505T210000Z
+DTEND:20260505T223000Z
+DTSTAMP:20260505T210000Z
+UID:Orientation-2026-05-05T21:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/media-orientation/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brooklyn Poetry Slam | May 5\, 2026
@@ -125,25 +144,6 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brooklyn-poetry-sl
  ricartsmedia.org/wp-content/uploads/2024/08/Resized-2024-poetry-slam-photo
  -1-200x200.jpg" alt="" />
 LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orientation
-DTSTART:20260505T210000Z
-DTEND:20260505T223000Z
-DTSTAMP:20260505T210000Z
-UID:Orientation-2026-05-05T21:00:00+00:00
-DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/media-orientation/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intermediate Premiere
-DTSTART:20260505T220000Z
-DTEND:20260506T010000Z
-DTSTAMP:20260505T220000Z
-UID:Intermediate Premiere-2026-05-05T22:00:00+00:00
-DESCRIPTION:Cost: 60\nhttps://bricartsmedia.org/class/intermediate-premier
- e/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ableton Move Certification
@@ -206,6 +206,16 @@ DESCRIPTION:Cost: $10\nhttps://bricartsmedia.org/class/interviewing-for-fi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Marketing Your Podcast
+DTSTART:20260509T180000Z
+DTEND:20260509T200000Z
+DTSTAMP:20260509T180000Z
+UID:Marketing Your Podcast-2026-05-09T18:00:00+00:00
+DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/marketing-your-podca
+ st/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BRIC House Party presents\, Good Sh*t Everywhere!
 DTSTART:20260510T010000Z
 DTEND:20260509T060000Z
@@ -219,28 +229,6 @@ DESCRIPTION:Cost: Starting at $17.82\nhttps://bricartsmedia.org/event/bric
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marketing Your Podcast
-DTSTART:20260509T180000Z
-DTEND:20260509T200000Z
-DTSTAMP:20260509T180000Z
-UID:Marketing Your Podcast-2026-05-09T18:00:00+00:00
-DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/marketing-your-podca
- st/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Master Screenwriting Class: The Art of Writing Strong Female
-DTSTART:20260511T223000Z
-DTEND:20260512T003000Z
-DTSTAMP:20260511T223000Z
-UID:Master Screenwriting Class: The Art of Writing Strong Female-2026-05-1
- 1T22:30:00+00:00
-DESCRIPTION:Cost: 263.75\nhttps://bricartsmedia.org/class/reel-sisters-bri
- c-master-screenwriting-class-the-art-of-writing-strong-female/\nhttps://go
- o.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Radio Podcasting
 DTSTART:20260511T220000Z
 DTEND:20260512T010000Z
@@ -248,6 +236,16 @@ DTSTAMP:20260511T220000Z
 UID:Intro to Radio Podcasting-2026-05-11T22:00:00+00:00
 DESCRIPTION:Cost: 75\nhttps://bricartsmedia.org/class/intro-to-radio-podca
  sting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260511T180000Z
+DTEND:20260511T210000Z
+DTSTAMP:20260511T180000Z
+UID:Video Production in the Field-2026-05-11T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -261,13 +259,15 @@ DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20260511T180000Z
-DTEND:20260511T210000Z
-DTSTAMP:20260511T180000Z
-UID:Video Production in the Field-2026-05-11T18:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Master Screenwriting Class: The Art of Writing Strong Female
+DTSTART:20260511T223000Z
+DTEND:20260512T003000Z
+DTSTAMP:20260511T223000Z
+UID:Master Screenwriting Class: The Art of Writing Strong Female-2026-05-1
+ 1T22:30:00+00:00
+DESCRIPTION:Cost: 263.75\nhttps://bricartsmedia.org/class/reel-sisters-bri
+ c-master-screenwriting-class-the-art-of-writing-strong-female/\nhttps://go
+ o.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -303,6 +303,16 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/art-as-a-catalyst-
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Editing Basics: Learn the Premiere Interface
+DTSTART:20260514T213000Z
+DTEND:20260514T233000Z
+DTSTAMP:20260514T213000Z
+UID:Editing Basics: Learn the Premiere Interface-2026-05-14T21:30:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/editing-basics-lea
+ rn-the-premiere-interface/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Very Modern Classical Evening with Molière in the Park
 DTSTART:20260514T220000Z
 DTEND:20260515T000000Z
@@ -317,14 +327,14 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/a-very-modern-clas
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Editing Basics: Learn the Premiere Interface
-DTSTART:20260514T213000Z
-DTEND:20260514T233000Z
-DTSTAMP:20260514T213000Z
-UID:Editing Basics: Learn the Premiere Interface-2026-05-14T21:30:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/editing-basics-lea
- rn-the-premiere-interface/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
+SUMMARY:Mobile Phone Photography 
+DTSTART:20260516T150000Z
+DTEND:20260516T170000Z
+DTSTAMP:20260516T150000Z
+UID:Mobile Phone Photography -2026-05-16T15:00:00+00:00
+DESCRIPTION:Cost: $10\nhttps://bricartsmedia.org/class/mobile-phone-photog
+ raphy/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:B Free Awards 2026
@@ -336,16 +346,6 @@ DESCRIPTION:Cost: Free \nhttps://bricartsmedia.org/event/b-free-awards-202
  6/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia
  .org/wp-content/uploads/2026/01/b-free-awards-200x200.png" alt="" />
 LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mobile Phone Photography 
-DTSTART:20260516T150000Z
-DTEND:20260516T170000Z
-DTSTAMP:20260516T150000Z
-UID:Mobile Phone Photography -2026-05-16T15:00:00+00:00
-DESCRIPTION:Cost: $10\nhttps://bricartsmedia.org/class/mobile-phone-photog
- raphy/
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Produce Remotely
@@ -369,16 +369,6 @@ DESCRIPTION:https://bricartsmedia.org/class/bric-x-seedspark-art-of-the-pi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Field Audio Equipment Certification
-DTSTART:20260519T160000Z
-DTEND:20260519T190000Z
-DTSTAMP:20260519T160000Z
-UID:Field Audio Equipment Certification-2026-05-19T16:00:00+00:00
-DESCRIPTION:Cost: 35\nhttps://bricartsmedia.org/class/field-audio-equipmen
- t-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to DaVinci Resolve
 DTSTART:20260519T220000Z
 DTEND:20260520T010000Z
@@ -386,6 +376,16 @@ DTSTAMP:20260519T220000Z
 UID:Intro to DaVinci Resolve-2026-05-19T22:00:00+00:00
 DESCRIPTION:Cost: 60\nhttps://bricartsmedia.org/class/intro-to-davinci-res
  olve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Field Audio Equipment Certification
+DTSTART:20260519T160000Z
+DTEND:20260519T190000Z
+DTSTAMP:20260519T160000Z
+UID:Field Audio Equipment Certification-2026-05-19T16:00:00+00:00
+DESCRIPTION:Cost: 35\nhttps://bricartsmedia.org/class/field-audio-equipmen
+ t-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
