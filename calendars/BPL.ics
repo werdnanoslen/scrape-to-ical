@@ -29,22 +29,14 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chair Yoga
-DTSTART:20260427T170000Z
-DTEND:20260427T180000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/815544
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20260427T170000Z
-DTEND:20260427T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/821073
-LOCATION:Crown Heights Library
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260427T180000Z
+DTEND:20260427T200000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library fo
+ r help with your resume\, cover letter\, interview\, and job search\n\nhtt
+ ps://www.bklynlibrary.org/node/794870
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -55,16 +47,6 @@ DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
  . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
  ps://www.bklynlibrary.org/node/804712
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260427T180000Z
-DTEND:20260427T200000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library fo
- r help with your resume\, cover letter\, interview\, and job search\n\nhtt
- ps://www.bklynlibrary.org/node/794870
-LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
@@ -378,5 +360,23 @@ DESCRIPTION:Need assistance using your laptop\, smartphone\, or tablet? H
  r programs?Visit the Pacific Branch at 11:00 AM for personalized\, one-\n\
  nhttps://www.bklynlibrary.org/node/820304
 LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260429T153000Z
+DTEND:20260429T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/818663
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260429T160000Z
+DTEND:20260429T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822241
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
