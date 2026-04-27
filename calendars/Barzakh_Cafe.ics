@@ -79,9 +79,9 @@ LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guy Gottesfeld Band
-DTSTART:20260502T020000Z
-DTEND:20260502T040000Z
-DTSTAMP:20260502T020000Z
+DTSTART:20260502T010000Z
+DTEND:20260502T030000Z
+DTSTAMP:20260502T010000Z
 UID:Guy Gottesfeld Band
 DESCRIPTION:https://www.viewcy.com/event/guy_gottesfeld_band\n<p><img alt=
  "Guy Gottesfeld Band thumbnail" class="styles_coverImg__PsR9G" data-nimg="
@@ -89,24 +89,24 @@ DESCRIPTION:https://www.viewcy.com/event/guy_gottesfeld_band\n<p><img alt=
  ata-sentry-source-file="index.tsx" decoding="async" height="186" loading="
  lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy
  .com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiO
- nsiZGF0YSI6MTMxNTU3LCJwdXIiOiJibG9iX2lkIn19--2c15ea34d198a4e121c54b3f6f6a7
- d71019d6c7c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9f
+ nsiZGF0YSI6MTU4Njg0LCJwdXIiOiJibG9iX2lkIn19--fdd71531dfdb12cbd5d79fa862ca8
+ 9f65e51da6c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9f
  ZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbn
  RlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f
- 6864589f67c6ba5945%2FNew_Designs_GUY.png&amp\;w=640&amp\;q=100" srcset="/_
+ 6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_
  next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frep
- resentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTMxNTU3LCJwdXIiOiJibG9i
- X2lkIn19--2c15ea34d198a4e121c54b3f6f6a7d71019d6c7c%2FeyJfcmFpbHMiOnsiZGF0Y
+ resentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTU4Njg0LCJwdXIiOiJibG9i
+ X2lkIn19--fdd71531dfdb12cbd5d79fa862ca89f65e51da6c%2FeyJfcmFpbHMiOnsiZGF0Y
  SI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOns
  ic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoid
- mFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew_Designs_GU
- Y.png&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy
+ mFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Design
+ s.png&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy
  .com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiO
- nsiZGF0YSI6MTMxNTU3LCJwdXIiOiJibG9iX2lkIn19--2c15ea34d198a4e121c54b3f6f6a7
- d71019d6c7c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9f
+ nsiZGF0YSI6MTU4Njg0LCJwdXIiOiJibG9iX2lkIn19--fdd71531dfdb12cbd5d79fa862ca8
+ 9f65e51da6c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9f
  ZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbn
  RlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f
- 6864589f67c6ba5945%2FNew_Designs_GUY.png&amp\;w=640&amp\;q=100 2x" style="
+ 6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="
  color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
@@ -178,36 +178,36 @@ DESCRIPTION:https://www.viewcy.com/event/cafe_aman_x_kelepouri\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Night of Malian Music in NYC
-DTSTART:20260503T220000Z
-DTEND:20260504T000000Z
-DTSTAMP:20260503T220000Z
-UID:A Night of Malian Music in NYC
+SUMMARY:One Night in Bamaku
+DTSTART:20260503T230000Z
+DTEND:20260504T010000Z
+DTSTAMP:20260503T230000Z
+UID:One Night in Bamaku
 DESCRIPTION:https://www.viewcy.com/event/a_night_of_malian_mus\n<p><img al
- t="A Night of Malian Music in NYC thumbnail" class="styles_coverImg__PsR9G
- " data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elem
- ent="Image" data-sentry-source-file="index.tsx" decoding="async" height="1
- 86" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F
- %2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2F
- eyJfcmFpbHMiOnsiZGF0YSI6MTU1NjE5LCJwdXIiOiJibG9iX2lkIn19--ba128d51da3b5c93
- 6e6005c2bcda34a5c2bbb5ab%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJ
- yZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpd
- HkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c
- 23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=10
- 0" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_
- storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTU1NjE5LCJ
- wdXIiOiJibG9iX2lkIn19--ba128d51da3b5c936e6005c2bcda34a5c2bbb5ab%2FeyJfcmFp
- bHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXS
- wic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9
- fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FN
- ew%2520Designs.png&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F
- %2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2F
- eyJfcmFpbHMiOnsiZGF0YSI6MTU1NjE5LCJwdXIiOiJibG9iX2lkIn19--ba128d51da3b5c93
- 6e6005c2bcda34a5c2bbb5ab%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJ
- yZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpd
- HkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c
- 23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=10
- 0 2x" style="color: transparent\;" width="308"/></p>
+ t="One Night in Bamaku thumbnail" class="styles_coverImg__PsR9G" data-nimg
+ ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
+  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
+ ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.view
+ cy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHM
+ iOnsiZGF0YSI6MTU4NjY4LCJwdXIiOiJibG9iX2lkIn19--47ef125978ec4d91fa394cad75a
+ 6b6f92f3ec38c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG
+ 9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJp
+ bnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d391
+ 7f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="
+ /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Fr
+ epresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTU4NjY4LCJwdXIiOiJibG
+ 9iX2lkIn19--47ef125978ec4d91fa394cad75a6b6f92f3ec38c%2FeyJfcmFpbHMiOnsiZGF
+ 0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiO
+ nsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjo
+ idmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Desi
+ gns.png&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.view
+ cy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHM
+ iOnsiZGF0YSI6MTU4NjY4LCJwdXIiOiJibG9iX2lkIn19--47ef125978ec4d91fa394cad75a
+ 6b6f92f3ec38c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG
+ 9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJp
+ bnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d391
+ 7f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style
+ ="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
