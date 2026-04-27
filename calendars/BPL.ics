@@ -21,15 +21,6 @@ DESCRIPTION:Are you applying for financial aid? Get expert in-person advic
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260427T203000Z
-DTEND:20260427T220000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8039
- 92
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Making Music from Our Surroundings
 DTSTART:20260427T213000Z
 DTEND:20260427T233000Z
@@ -377,5 +368,15 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/817742
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260429T190000Z
+DTEND:20260429T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
+ ne-on-one review of your resume or cover letter and get help with your que
+ stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
+ .org/node/804743
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
