@@ -302,6 +302,15 @@ DESCRIPTION:https://cal.red/?event=5115\nCost: Free
 LOCATION:NYC DSA Office • 14 Jefferson St\, New York\, NY 10002 US
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:On Loop: Black Sonic Politics in Oakland  Author Talk
+DTSTART:20260429T230000Z
+DTEND:20260430T000000Z
+DTSTAMP:20260429T230000Z
+UID:event:5155:2026-04-29T19:00:00
+DESCRIPTION:https://cal.red/?event=5155\nCost: Free
+LOCATION:The Word Is Change\, 368 Tompkins Ave. Bed-Stuy Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:dance practice: UMA DJ + Shem
 DTSTART:20260429T233000Z
 DTEND:20260430T003000Z
@@ -450,6 +459,16 @@ UID:event:5148:2026-05-01T19:00:00
 DESCRIPTION:https://cal.red/?event=5148\n414 Broadway (canal) floor 3\nChi
  natown\nCost: 0
 LOCATION:Woodbine
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A May Day/Kujichagulia/Sankofa celebration
+DTSTART:20260501T230000Z
+DTEND:20260502T000000Z
+DTSTAMP:20260501T230000Z
+UID:event:5156:2026-05-01T19:00:00
+DESCRIPTION:https://cal.red/?event=5156\n368 Tompkins Ave Bed-Stuy\nCost: 
+ Free
+LOCATION:The Word Is Change
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Iron Henry's Frog Prince
