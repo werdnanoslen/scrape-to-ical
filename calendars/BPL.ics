@@ -19,16 +19,6 @@ DESCRIPTION:The Prize is in the Process!\n\nhttps://www.bklynlibrary.org/n
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260427T150000Z
-DTEND:20260427T200000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/817311
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class
 DTSTART:20260427T150000Z
 DTEND:20260427T170000Z
@@ -52,6 +42,16 @@ DTEND:20260427T170000Z
 DESCRIPTION:The library offers free English classes for beginners learning
   English.\n\nhttps://www.bklynlibrary.org/node/821076
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260427T150000Z
+DTEND:20260427T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/817311
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
