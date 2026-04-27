@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20260427T153000Z
-DTEND:20260427T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/815551
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260427T180000Z
 DTEND:20260427T200000Z
@@ -378,5 +370,15 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822241
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20260429T170000Z
+DTEND:20260429T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /820166
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
