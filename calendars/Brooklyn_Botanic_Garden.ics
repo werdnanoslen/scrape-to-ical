@@ -11,20 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260426T040000Z
-DTEND;VALUE=DATE:20260426T060000Z
-UID:Seasonal Highlights Tour-2026-04-26 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
- scover spring blooms and other highlights of the season in this free walk 
- led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
- \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
- <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
- 09309673.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:School Group Visits: Discovery Trail
 DTSTART;VALUE=DATE:20260428T040000Z
 DTEND;VALUE=DATE:20260428T060000Z
@@ -529,22 +515,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Street Tree Care Basics: How to Green Your Block
-DTSTART;VALUE=DATE:20260507T040000Z
-DTEND;VALUE=DATE:20260507T060000Z
-UID:Street Tree Care Basics: How to Green Your Block-2026-05-07 04:00:00+0
- 0:00
-DESCRIPTION:Thursday\, May 7\, 2026\n					\n\n					\n					| 6 p.m.–8 p
- .m.					\n					\n\n\n					\n						\n							| Preregistration Required\n\nL
- earn best practices to spruce up your tree beds while improving the health
-  and resilience of your block’s trees.Learn More›about Street Tree Car
- e Basics: How to Green Your Block\n\nMore info:\nhttps://www.bbg.org/class
- es/street_tree_care_basics_how_to_green_your_block\n\n<img src="/img/uploa
- ds/hero/_list_thumbnail_regular/spring-prep_MO_6114334387.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Soil Management (blended)
 DTSTART;VALUE=DATE:20260507T040000Z
 DTEND;VALUE=DATE:20260507T060000Z
@@ -557,6 +527,22 @@ DESCRIPTION:7 sessions beginning Thursday\, May 7\, 2026\n					\n\n\n
  \nhttps://www.bbg.org/classes/soil_management\n\n<img src="/img/uploads/he
  ro/_list_thumbnail_regular/soil_management_class-JW-54770173869.jpeg" alt=
  "" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Tree Care Basics: How to Green Your Block
+DTSTART;VALUE=DATE:20260507T040000Z
+DTEND;VALUE=DATE:20260507T060000Z
+UID:Street Tree Care Basics: How to Green Your Block-2026-05-07 04:00:00+0
+ 0:00
+DESCRIPTION:Thursday\, May 7\, 2026\n					\n\n					\n					| 6 p.m.–8 p
+ .m.					\n					\n\n\n					\n						\n							| Preregistration Required\n\nL
+ earn best practices to spruce up your tree beds while improving the health
+  and resilience of your block’s trees.Learn More›about Street Tree Car
+ e Basics: How to Green Your Block\n\nMore info:\nhttps://www.bbg.org/class
+ es/street_tree_care_basics_how_to_green_your_block\n\n<img src="/img/uploa
+ ds/hero/_list_thumbnail_regular/spring-prep_MO_6114334387.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -746,6 +732,65 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260510T040000Z
 DTEND;VALUE=DATE:20260510T060000Z
 UID:Seasonal Highlights Tour-2026-05-10 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signature Plant Pickup
+DTSTART;VALUE=DATE:20260512T040000Z
+DTEND;VALUE=DATE:20260512T060000Z
+UID:Signature Plant Pickup-2026-05-12 04:00:00+00:00
+DESCRIPTION:Sunday\, May 10\, 2026 | 10 a.m.–1 p.m. & Tuesday\, May 12\
+ , 2026 | 6–8:30 p.m.\n					\n\n\n					\n						\n							| Preregistratio
+ n Required\n\nSignature Plants are a benefit of membership at the Contribu
+ tor level and above.Learn More›about Signature Plant Pickup\n\nMore info
+ :\nhttps://www.bbg.org/visit/event/signature_plants\n\n<img src="/img/uplo
+ ads/manual/hero/_list_thumbnail_regular/signature-plants_MS_52084830726.jp
+ g" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starting a Vegetable Garden
+DTSTART;VALUE=DATE:20260512T040000Z
+DTEND;VALUE=DATE:20260512T060000Z
+UID:Starting a Vegetable Garden-2026-05-12 04:00:00+00:00
+DESCRIPTION:Single session on Tuesday\, May 12 or May 19\, 2026 | 5:30–7
+ :30 p.m. \n					\n\n\n					\n						\n							| Preregistration Required\n\n
+ Get a crash course in vegetable gardening!Learn More›about Starting a Ve
+ getable Garden\n\nMore info:\nhttps://www.bbg.org/classes/starting_a_veget
+ able_garden_new\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/pep
+ per-plant-MM-14958449891.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20260512T040000Z
+DTEND;VALUE=DATE:20260512T060000Z
+UID:School Group Visits: Discovery Trail-2026-05-12 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
+ ne 11\, 2026 (except June 4) \n					\n\n\n					\n						\n							| Preregi
+ stration Required\n\nUse real science tools as you explore plants alongsid
+ e Discovery Docents at our hands-on activity stations throughout the Disco
+ very Garden.Learn More›about School Group Visits: Discovery Trail\n\nMor
+ e info:\nhttps://www.bbg.org/visit/event/school_group_visits_discovery_tra
+ il\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/discovery
+ -cart_BB_42604393462-1120.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260512T040000Z
+DTEND;VALUE=DATE:20260512T060000Z
+UID:Seasonal Highlights Tour-2026-05-12 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
  scover spring blooms and other highlights of the season in this free walk 
  led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
