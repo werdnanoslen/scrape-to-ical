@@ -174,21 +174,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Three Sisters Planting with Angela Ferguson
-DTSTART;VALUE=DATE:20260502T040000Z
-DTEND;VALUE=DATE:20260502T060000Z
-UID:Three Sisters Planting with Angela Ferguson-2026-05-02 04:00:00+00:00
-DESCRIPTION:Saturday\, May 2\, 2026 | 10:30 a.m.–12:30 p.m. \n					\n\n\
- n					\n						\n							| Drop-in\n\nJoin Onondaga farmer\, seedkeeper\, an
- d educator Angela Ferguson\, as she plants Three Sisters seeds in the Disc
- overy Garden.Learn More›about Three Sisters Planting with Angela Ferguso
- n\n\nMore info:\nhttps://www.bbg.org/visit/event/three_sisters_planting_wi
- th_angela_ferguson\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/
- three-sisters_SC_54533124586.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring Family Discovery Weekends
 DTSTART;VALUE=DATE:20260502T040000Z
 DTEND;VALUE=DATE:20260502T060000Z
@@ -201,6 +186,21 @@ DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
  \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
  n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
  _54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Three Sisters Planting with Angela Ferguson
+DTSTART;VALUE=DATE:20260502T040000Z
+DTEND;VALUE=DATE:20260502T060000Z
+UID:Three Sisters Planting with Angela Ferguson-2026-05-02 04:00:00+00:00
+DESCRIPTION:Saturday\, May 2\, 2026 | 10:30 a.m.–12:30 p.m. \n					\n\n\
+ n					\n						\n							| Drop-in\n\nJoin Onondaga farmer\, seedkeeper\, an
+ d educator Angela Ferguson\, as she plants Three Sisters seeds in the Disc
+ overy Garden.Learn More›about Three Sisters Planting with Angela Ferguso
+ n\n\nMore info:\nhttps://www.bbg.org/visit/event/three_sisters_planting_wi
+ th_angela_ferguson\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/
+ three-sisters_SC_54533124586.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -653,21 +653,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Signature Plant Pickup
-DTSTART;VALUE=DATE:20260510T040000Z
-DTEND;VALUE=DATE:20260510T060000Z
-UID:Signature Plant Pickup-2026-05-10 04:00:00+00:00
-DESCRIPTION:Sunday\, May 10\, 2026 | 10 a.m.–1 p.m. & Tuesday\, May 12\
- , 2026 | 6–8:30 p.m.\n					\n\n\n					\n						\n							| Preregistratio
- n Required\n\nSignature Plants are a benefit of membership at the Contribu
- tor level and above.Learn More›about Signature Plant Pickup\n\nMore info
- :\nhttps://www.bbg.org/visit/event/signature_plants\n\n<img src="/img/uplo
- ads/manual/hero/_list_thumbnail_regular/signature-plants_MS_52084830726.jp
- g" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Weekends in Bloom: Sunday\, May 10
 DTSTART;VALUE=DATE:20260510T040000Z
 DTEND;VALUE=DATE:20260510T060000Z
@@ -679,6 +664,21 @@ DESCRIPTION:Sunday\, May 10\, 2026\n\nLearn and explore with hands-on natu
   in Bloom: Sunday\, May 10\n\nMore info:\nhttps://www.bbg.org/visit/event/
  weekends_in_bloom_2026-05-10\n\n<img src="/img/uploads/manual/hero/_list_t
  humbnail_regular/BombaYO-thumbnail.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signature Plant Pickup
+DTSTART;VALUE=DATE:20260510T040000Z
+DTEND;VALUE=DATE:20260510T060000Z
+UID:Signature Plant Pickup-2026-05-10 04:00:00+00:00
+DESCRIPTION:Sunday\, May 10\, 2026 | 10 a.m.–1 p.m. & Tuesday\, May 12\
+ , 2026 | 6–8:30 p.m.\n					\n\n\n					\n						\n							| Preregistratio
+ n Required\n\nSignature Plants are a benefit of membership at the Contribu
+ tor level and above.Learn More›about Signature Plant Pickup\n\nMore info
+ :\nhttps://www.bbg.org/visit/event/signature_plants\n\n<img src="/img/uplo
+ ads/manual/hero/_list_thumbnail_regular/signature-plants_MS_52084830726.jp
+ g" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -791,6 +791,35 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260512T040000Z
 DTEND;VALUE=DATE:20260512T060000Z
 UID:Seasonal Highlights Tour-2026-05-12 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260513T040000Z
+DTEND;VALUE=DATE:20260513T060000Z
+UID:Spring First Discoveries-2026-05-13 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260513T040000Z
+DTEND;VALUE=DATE:20260513T060000Z
+UID:Seasonal Highlights Tour-2026-05-13 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
  scover spring blooms and other highlights of the season in this free walk 
  led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
