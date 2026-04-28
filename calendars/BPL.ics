@@ -20,36 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
- siness Solutions Center
-DTSTART:20260428T170000Z
-DTEND:20260428T200000Z
-DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
- ? Join the NYC Business Solutions Brooklyn Center for "The Flower Hour\," 
- a special session of our popular Joint Ventures educational serie\n\nhttps
- ://www.bklynlibrary.org/node/808967
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260428T180000Z
-DTEND:20260428T200000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/811957
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online Intermediate English Class (We Speak NYC)
-DTSTART:20260428T180000Z
-DTEND:20260428T200000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820319
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20260428T190000Z
 DTEND:20260428T210000Z
@@ -377,5 +347,31 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  42
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260430T143000Z
+DTEND:20260430T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804497
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20260430T143000Z
+DTEND:20260430T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/815919
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evaluating Cannabis Dispensaries: A Community Board Workshop
+DTSTART:20260430T170000Z
+DTEND:20260430T200000Z
+DESCRIPTION:Rescheduled from 2/23/2026\n\nhttps://www.bklynlibrary.org/nod
+ e/815210
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
