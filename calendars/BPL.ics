@@ -177,13 +177,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260429T140000Z
-DTEND:20260429T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812229
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260429T140000Z
 DTEND:20260429T210000Z
@@ -218,6 +211,13 @@ DTEND:20260429T153000Z
 DESCRIPTION:All beginners in Hebrew join us to practice and learn\n\nhttps
  ://www.bklynlibrary.org/node/819641
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Multilingual Business Help
+DTSTART:20260429T140000Z
+DTEND:20260429T160000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812229
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
