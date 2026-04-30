@@ -429,4 +429,14 @@ DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/studio-podcasting/\
  nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Edit Your Podcast 
+DTSTART:20260528T180000Z
+DTEND:20260528T200000Z
+DTSTAMP:20260528T180000Z
+UID:How to Edit Your Podcast -2026-05-28T18:00:00+00:00
+DESCRIPTION:Cost: 10\nhttps://bricartsmedia.org/class/how-to-edit-your-pod
+ cast/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
 END:VCALENDAR
