@@ -21,23 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Evaluating Cannabis Dispensaries: A Community Board Workshop
-DTSTART:20260430T170000Z
-DTEND:20260430T200000Z
-DESCRIPTION:Rescheduled from 2/23/2026\n\nhttps://www.bklynlibrary.org/nod
- e/815210
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260430T190000Z
-DTEND:20260430T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816509
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NELP Remote Small Business Legal Clinic
 DTSTART:20260430T193000Z
 DTEND:20260430T213000Z
@@ -382,5 +365,23 @@ DTEND:20260504T180000Z
 DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
  bklynlibrary.org/node/815545
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260504T180000Z
+DTEND:20260504T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/804713
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260504T190000Z
+DTEND:20260504T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /803355
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
