@@ -57,15 +57,6 @@ DESCRIPTION:Practice your English speaking and listening skills with other
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20260430T143000Z
-DTEND:20260430T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/815919
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Evaluating Cannabis Dispensaries: A Community Board Workshop
 DTSTART:20260430T170000Z
 DTEND:20260430T200000Z
@@ -383,5 +374,15 @@ DESCRIPTION:Join us for a free\, interactive session for women navigating
  midlife and the shifts that come with peri and postmenopause.\n\nhttps://
  www.bklynlibrary.org/node/816744
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
+DTSTART:20260502T183000Z
+DTEND:20260502T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing. 
+ Instructor Margot will be at this session. Please refer to her wit\n\nhttp
+ s://www.bklynlibrary.org/node/821124
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
