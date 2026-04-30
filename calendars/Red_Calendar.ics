@@ -460,6 +460,16 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stewardship Morning at the Foodway
+DTSTART:20260505T140000Z
+DTEND:20260505T150000Z
+DTSTAMP:20260505T140000Z
+UID:event:5187:2026-05-05T10:00:00
+DESCRIPTION:https://cal.red/?event=5187\nCost: Free
+LOCATION:Foodway in Concrete Plant Park (1370 Westchester Avenue\, Bronx\,
+  NY)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Phone Blast for the Prairieland Defendants
 DTSTART:20260505T200000Z
 DTEND:20260505T210000Z
