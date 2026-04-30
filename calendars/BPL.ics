@@ -30,33 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260430T140000Z
-DTEND:20260430T160000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820123
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260430T143000Z
-DTEND:20260430T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 42
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260430T143000Z
-DTEND:20260430T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804497
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Evaluating Cannabis Dispensaries: A Community Board Workshop
 DTSTART:20260430T170000Z
 DTEND:20260430T200000Z
@@ -317,17 +290,6 @@ DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Accompany Capital: Programa de Preparación para Préstamos Comerc
- iales
-DTSTART:20260501T193000Z
-DTEND:20260501T213000Z
-DESCRIPTION:¿Está interesado/a en iniciar o hacer crecer un pequeño neg
- ocio en la ciudad de Nueva York? Únase a esta sesión de orientación par
- a conocer los préstamos comerciales accesibles de Accompany Capital y\n\n
- https://www.bklynlibrary.org/node/816147
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20260501T200000Z
 DTEND:20260501T213000Z
@@ -384,5 +346,41 @@ DESCRIPTION:Join a social circle where we can learn new skills from each
  Instructor Margot will be at this session. Please refer to her wit\n\nhttp
  s://www.bklynlibrary.org/node/821124
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Basics for Everyday Life and Work: A Community AI Literacy Work
+ shop
+DTSTART:20260503T180000Z
+DTEND:20260503T193000Z
+DESCRIPTION:Learn AI Basics for Everyday Life and Work\n\nhttps://www.bkly
+ nlibrary.org/node/821355
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The People's Ball
+DTSTART:20260503T230000Z
+DTEND:20260503T020000Z
+DESCRIPTION:The People’s Ball returns to the runway to celebrate fashion
+ \, personal style and inclusivity. Dress up in the clothes that make you f
+ eel your most beautiful and authentic and walk the runway in Centra\n\nhtt
+ ps://www.bklynlibrary.org/node/818953
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260504T150000Z
+DTEND:20260504T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/819263
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260504T150000Z
+DTEND:20260504T170000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820310
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
