@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260430T213000Z
-DTEND:20260430T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/815615
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resume Coaching
 DTSTART:20260430T213000Z
 DTEND:20260430T233000Z
@@ -29,15 +19,6 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/816109
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260430T213000Z
-DTEND:20260430T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819218
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Green's Your Color: Spring Poetry Workshop
@@ -78,7 +59,7 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Podcast Club at BPL
+SUMMARY:CANCELLED: Podcast Club at BPL
 DTSTART:20260430T223000Z
 DTEND:20260430T233000Z
 DESCRIPTION:Join us at BPL’s Podcast Club for a thematic discussion base
@@ -382,5 +363,23 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8069
  78
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class with Chance
+DTSTART:20260504T210000Z
+DTEND:20260504T214500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/807594
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making Music from Our Surroundings
+DTSTART:20260504T213000Z
+DTEND:20260504T233000Z
+DESCRIPTION:How can we make music drawing inspiration from the sounds of o
+ ur daily lives? How can we translate into sound what we observe in a paint
+ ing\, a text message\, a book\, ourselves\, or the world? What lies\n\nhtt
+ ps://www.bklynlibrary.org/node/814414
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
