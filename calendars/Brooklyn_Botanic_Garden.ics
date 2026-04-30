@@ -11,50 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
-SUMMARY:Spring First Discoveries
-DTSTART;VALUE=DATE:20260429T040000Z
-DTEND;VALUE=DATE:20260429T060000Z
-UID:Spring First Discoveries-2026-04-29 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
- ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
- \, create a craft\, read a story\, and use your senses to explore nature a
- t activity stations designed for early learners up to 4 years old.Learn Mo
- re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
- it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
- regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Discovery Sing-Along with Sabrina Chap
-DTSTART;VALUE=DATE:20260429T040000Z
-DTEND;VALUE=DATE:20260429T060000Z
-UID:Discovery Sing-Along with Sabrina Chap-2026-04-29 04:00:00+00:00
-DESCRIPTION:Wednesday\, April 29 & Friday\, May 1 | 11–11:45 a.m.\n					
- \n\n\n					\n						\n							| Drop-in\n\nCome to the Discovery Garden for 
- a garden sing-along! Join Sabrina Chap in singing\, dancing\, and playing 
- with instruments\, scarves\, and bubbles.Learn More›about Discovery Sing
- -Along with Sabrina Chap\n\nMore info:\nhttps://www.bbg.org/visit/event/di
- scovery_sing_along_with_sabrina_chap\n\n<img src="/img/uploads/hero/_list_
- thumbnail_regular/DG_Sing_Along_MS_52910076079.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260429T040000Z
-DTEND;VALUE=DATE:20260429T060000Z
-UID:Seasonal Highlights Tour-2026-04-29 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
- scover spring blooms and other highlights of the season in this free walk 
- led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
- \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
- <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
- 09309673.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:School Group Visits: Discovery Trail
 DTSTART;VALUE=DATE:20260430T040000Z
 DTEND;VALUE=DATE:20260430T060000Z
@@ -338,21 +294,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring First Discoveries
-DTSTART;VALUE=DATE:20260506T040000Z
-DTEND;VALUE=DATE:20260506T060000Z
-UID:Spring First Discoveries-2026-05-06 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
- ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
- \, create a craft\, read a story\, and use your senses to explore nature a
- t activity stations designed for early learners up to 4 years old.Learn Mo
- re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
- it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
- regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Botany for Horticulturists
 DTSTART;VALUE=DATE:20260506T040000Z
 DTEND;VALUE=DATE:20260506T060000Z
@@ -364,6 +305,21 @@ DESCRIPTION:10 sessions beginning Tuesday\, May 26 or 8 sessions beginning
  am.Learn More›about Botany for Horticulturists\n\nMore info:\nhttps://ww
  w.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uploads/her
  o/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260506T040000Z
+DTEND;VALUE=DATE:20260506T060000Z
+UID:Spring First Discoveries-2026-05-06 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -623,21 +579,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Signature Plant Pickup
-DTSTART;VALUE=DATE:20260510T040000Z
-DTEND;VALUE=DATE:20260510T060000Z
-UID:Signature Plant Pickup-2026-05-10 04:00:00+00:00
-DESCRIPTION:Sunday\, May 10\, 2026 | 10 a.m.–1 p.m. & Tuesday\, May 12\
- , 2026 | 6–8:30 p.m.\n					\n\n\n					\n						\n							| Preregistratio
- n Required\n\nSignature Plants are a benefit of membership at the Contribu
- tor level and above.Learn More›about Signature Plant Pickup\n\nMore info
- :\nhttps://www.bbg.org/visit/event/signature_plants\n\n<img src="/img/uplo
- ads/manual/hero/_list_thumbnail_regular/signature-plants_MS_52084830726.jp
- g" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Weekends in Bloom: Sunday\, May 10
 DTSTART;VALUE=DATE:20260510T040000Z
 DTEND;VALUE=DATE:20260510T060000Z
@@ -649,6 +590,21 @@ DESCRIPTION:Sunday\, May 10\, 2026\n\nLearn and explore with hands-on natu
   in Bloom: Sunday\, May 10\n\nMore info:\nhttps://www.bbg.org/visit/event/
  weekends_in_bloom_2026-05-10\n\n<img src="/img/uploads/manual/hero/_list_t
  humbnail_regular/BombaYO-thumbnail.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signature Plant Pickup
+DTSTART;VALUE=DATE:20260510T040000Z
+DTEND;VALUE=DATE:20260510T060000Z
+UID:Signature Plant Pickup-2026-05-10 04:00:00+00:00
+DESCRIPTION:Sunday\, May 10\, 2026 | 10 a.m.–1 p.m. & Tuesday\, May 12\
+ , 2026 | 6–8:30 p.m.\n					\n\n\n					\n						\n							| Preregistratio
+ n Required\n\nSignature Plants are a benefit of membership at the Contribu
+ tor level and above.Learn More›about Signature Plant Pickup\n\nMore info
+ :\nhttps://www.bbg.org/visit/event/signature_plants\n\n<img src="/img/uplo
+ ads/manual/hero/_list_thumbnail_regular/signature-plants_MS_52084830726.jp
+ g" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -820,6 +776,35 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260514T040000Z
 DTEND;VALUE=DATE:20260514T060000Z
 UID:Seasonal Highlights Tour-2026-05-14 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
+ scover spring blooms and other highlights of the season in this free walk 
+ led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
+ <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
+ 09309673.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260515T040000Z
+DTEND;VALUE=DATE:20260515T060000Z
+UID:Spring First Discoveries-2026-05-15 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260515T040000Z
+DTEND;VALUE=DATE:20260515T060000Z
+UID:Seasonal Highlights Tour-2026-05-15 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
  scover spring blooms and other highlights of the season in this free walk 
  led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
