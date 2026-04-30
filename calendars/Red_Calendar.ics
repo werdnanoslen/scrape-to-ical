@@ -506,6 +506,16 @@ DESCRIPTION:https://cal.red/?event=5157\nCost: Free
 LOCATION:The Word Is Change\, 368 Tompkins Ave. Bed-Stuy Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Benefit Screening for Lebanon
+DTSTART:20260507T233000Z
+DTEND:20260508T003000Z
+DTSTAMP:20260507T233000Z
+UID:event:5183:2026-05-07T19:30:00
+DESCRIPTION:https://cal.red/?event=5183\n247 East 2nd St.\nLower east Side
+ \nNew York\nCost: Suggested donation 25$
+LOCATION:Le Petit Versailles Garden
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Closing Reception for Zeelie Brown: A sonata to seed whatever flou
  rishes...
 DTSTART:20260508T210000Z

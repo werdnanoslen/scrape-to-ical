@@ -38,6 +38,14 @@ DESCRIPTION:Rescheduled from 2/23/2026\n\nhttps://www.bklynlibrary.org/nod
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:From Plan to Plate: Food Packaging Fundamentals
+DTSTART:20260430T180000Z
+DTEND:20260430T193000Z
+DESCRIPTION:Packaging plays a central role in food and beverage production
+ .\n\nhttps://www.bklynlibrary.org/node/815084
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ask A Tech
 DTSTART:20260430T180000Z
 DTEND:20260430T190000Z
@@ -45,23 +53,6 @@ DESCRIPTION:Need help navigating one of your tech devices? Come join us an
  d ask a variety of tech questions about your tech devices.\n\nhttps://www.
  bklynlibrary.org/node/817364
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260430T180000Z
-DTEND:20260430T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/817719
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Plan to Plate: Food Packaging Fundamentals
-DTSTART:20260430T180000Z
-DTEND:20260430T193000Z
-DESCRIPTION:Packaging plays a central role in food and beverage production
- .\n\nhttps://www.bklynlibrary.org/node/815084
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
@@ -382,5 +373,13 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820310
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260504T150000Z
+DTEND:20260504T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/821077
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
