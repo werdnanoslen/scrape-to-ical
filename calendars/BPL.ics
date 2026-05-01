@@ -21,44 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Movie: Trouble in Paradise (1932)
-DTSTART:20260501T143000Z
-DTEND:20260501T155500Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
- ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819944
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260501T150000Z
-DTEND:20260501T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by Central Library for he
- lp with your resume\, cover letter\, interview\, and job search que\n\nhtt
- ps://www.bklynlibrary.org/node/795496
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260501T150000Z
-DTEND:20260501T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter\, and get help with your questions ab
- out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
- org/node/804768
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Clase de Computación
-DTSTART:20260501T150000Z
-DTEND:20260501T160000Z
-DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
- os conceptos básicos del uso de una computadora? ¿O tal vez ha pasado ti
- empo y desea repasar y mejorar sus habilidades de computación?Puede\n\nht
- tps://www.bklynlibrary.org/node/822673
-LOCATION:Pacific\, Basement Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260501T160000Z
 DTEND:20260501T180000Z
@@ -375,5 +337,42 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/811958
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online Intermediate English Class (We Speak NYC)
+DTSTART:20260505T180000Z
+DTEND:20260505T200000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820320
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260505T190000Z
+DTEND:20260505T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/80337
+ 5
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NELP: Intellectual Property
+DTSTART:20260505T200000Z
+DTEND:20260505T213000Z
+DESCRIPTION:This presentation will provide small business owners with an o
+ verview of intellectual property rights through a discussion of Trademarks
+ \, Copyrights\, Trade Secrets\, and Patents. The webinar will delve\n\nhtt
+ ps://www.bklynlibrary.org/node/786733
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Crafting Circle
+DTSTART:20260505T200000Z
+DTEND:20260505T210000Z
+DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
+ Join our virtual crafting circle! Every 2nd and 4th Tuesday of the month\,
+  get together with fellow crafters to chat and discuss what you'r\n\nhttps
+ ://www.bklynlibrary.org/node/801590
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
