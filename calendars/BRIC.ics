@@ -11,18 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Podcast Intensive Listening Party 2026
-DTSTART:20260430T213000Z
-DTEND:20260501T003000Z
-DTSTAMP:20260430T213000Z
-UID:Podcast Intensive Listening Party 2026-2026-04-30T21:30:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/podcast-intensive-
- listening-party-2026/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="ht
- tps://bricartsmedia.org/wp-content/uploads/2026/03/091825-Podcast-Listenin
- g-Party1-200x200.jpg" alt="" />
-LOCATION:BRIC House Stoop
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Audio Production in the Studio 
 DTSTART:20260501T220000Z
 DTEND:20260502T010000Z
@@ -438,5 +426,25 @@ UID:How to Edit Your Podcast -2026-05-28T18:00:00+00:00
 DESCRIPTION:Cost: 10\nhttps://bricartsmedia.org/class/how-to-edit-your-pod
  cast/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
 LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Podcast on Your Phone 
+DTSTART:20260528T150000Z
+DTEND:20260528T170000Z
+DTSTAMP:20260528T150000Z
+UID:Make a Podcast on Your Phone -2026-05-28T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-podcast-on-
+ your-phone/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-Production Essentials
+DTSTART:20260530T150000Z
+DTEND:20260530T170000Z
+DTSTAMP:20260530T150000Z
+UID:Pre-Production Essentials-2026-05-30T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/pre-production-ess
+ entials/
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
