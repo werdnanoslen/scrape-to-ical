@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260501T160000Z
-DTEND:20260501T180000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820143
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260501T170000Z
 DTEND:20260501T190000Z
@@ -57,6 +48,15 @@ DESCRIPTION:Practice your French speaking and listening skills with other
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Friday Film Club: A League of Their Own (1992)
+DTSTART:20260501T180000Z
+DTEND:20260501T200000Z
+DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
+ e first Friday of each month. Join us for A League of Their Own.\n\nhttps:
+ //www.bklynlibrary.org/node/817809
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Diabetes Self-Management Education and Support Course
 DTSTART:20260501T180000Z
 DTEND:20260501T200000Z
@@ -65,15 +65,6 @@ DESCRIPTION:This is a five-week course can help you learn how to manage d
  ard and a $50 gift card upon attending 4 classes minimum.\n\nhttps://www
  .bklynlibrary.org/node/818096
 LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Film Club: A League of Their Own (1992)
-DTSTART:20260501T180000Z
-DTEND:20260501T200000Z
-DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
- e first Friday of each month. Join us for A League of Their Own.\n\nhttps:
- //www.bklynlibrary.org/node/817809
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
@@ -239,6 +230,16 @@ DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a
  variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
  ://www.bklynlibrary.org/node/815708
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20260504T200000Z
+DTEND:20260504T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/823874
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
