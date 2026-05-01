@@ -21,31 +21,14 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260501T170000Z
-DTEND:20260501T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8030
- 26
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260501T170000Z
-DTEND:20260501T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 58
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
+SUMMARY:Diabetes Self-Management Education and Support Course
 DTSTART:20260501T180000Z
-DTEND:20260501T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816534
-LOCATION:Virtual
+DTEND:20260501T200000Z
+DESCRIPTION:This is a five-week course can help you learn how to manage d
+ iabetes! After each class\, participants will receive an OMNYCARD/MetroC
+ ard and a $50 gift card upon attending 4 classes minimum.\n\nhttps://www
+ .bklynlibrary.org/node/818096
+LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friday Film Club: A League of Their Own (1992)
@@ -55,16 +38,6 @@ DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
  e first Friday of each month. Join us for A League of Their Own.\n\nhttps:
  //www.bklynlibrary.org/node/817809
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Diabetes Self-Management Education and Support Course
-DTSTART:20260501T180000Z
-DTEND:20260501T200000Z
-DESCRIPTION:This is a five-week course can help you learn how to manage d
- iabetes! After each class\, participants will receive an OMNYCARD/MetroC
- ard and a $50 gift card upon attending 4 classes minimum.\n\nhttps://www
- .bklynlibrary.org/node/818096
-LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
@@ -375,5 +348,34 @@ DESCRIPTION:Do you like to craft? Looking for other people to craft with?
   get together with fellow crafters to chat and discuss what you'r\n\nhttps
  ://www.bklynlibrary.org/node/801590
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Skills & AI Literacy: Info Session
+DTSTART:20260505T203000Z
+DTEND:20260505T220000Z
+DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
+ cess to Google Career Certificates- online\, self-paced programs designed 
+ to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
+ ps://www.bklynlibrary.org/node/820597
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20260505T210000Z
+DTEND:20260505T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/799542
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group - Brooklyn Heights
+DTSTART:20260505T220000Z
+DTEND:20260505T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
+  Heights.\n\nhttps://www.bklynlibrary.org/node/811907
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 END:VCALENDAR
