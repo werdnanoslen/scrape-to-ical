@@ -20,16 +20,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Midlife Momentum and Menopause: Energy\, Well-Being\, & Resilience
-  for Women
-DTSTART:20260502T180000Z
-DTEND:20260502T190000Z
-DESCRIPTION:Join us for a free\, interactive session for women navigating 
- midlife and the shifts that come with peri and postmenopause.\n\nhttps://
- www.bklynlibrary.org/node/816744
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
 DTSTART:20260502T183000Z
 DTEND:20260502T203000Z
@@ -373,5 +363,15 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  85
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260506T150000Z
+DTEND:20260506T170000Z
+DESCRIPTION:Drop-In Sessions for Immigrant Job Support will resume May 13.
+  If you are an immigrant (whether you recently arrived to the United State
+ s or have been here for a while) stop by the Central Library (2n\n\nhttps:
+ //www.bklynlibrary.org/node/813988
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
