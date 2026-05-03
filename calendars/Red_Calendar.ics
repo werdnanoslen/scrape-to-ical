@@ -366,6 +366,15 @@ DESCRIPTION:https://cal.red/?event=5088\n257 Nassau Avenue in Greenpoint\,
 LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:jolee go\, purse\, norma dream\, rose house @ life world
+DTSTART:20260509T000000Z
+DTEND:20260509T010000Z
+DTSTAMP:20260509T000000Z
+UID:event:5215:2026-05-08T20:00:00
+DESCRIPTION:https://cal.red/?event=5215\nCost: 15
+LOCATION:Bushwick
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skin In The Game: Experiments in PlayDating
 DTSTART:20260509T013000Z
 DTEND:20260509T023000Z
