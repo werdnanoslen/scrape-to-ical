@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20260504T153000Z
-DTEND:20260504T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/815552
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260504T180000Z
 DTEND:20260504T200000Z
@@ -104,9 +96,8 @@ BEGIN:VEVENT
 SUMMARY:CANCELLED: Making Music from Our Surroundings
 DTSTART:20260504T213000Z
 DTEND:20260504T233000Z
-DESCRIPTION:This event has been postponed. Please check back for a resched
- uled date\, and join us next week for the next session!\n\nhttps://www.bkl
- ynlibrary.org/node/814414
+DESCRIPTION:This event has been postponed to Wednesday\, May 20th.\n\nhttp
+ s://www.bklynlibrary.org/node/814414
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
@@ -372,5 +363,15 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/822756
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
+DTSTART:20260506T190000Z
+DTEND:20260506T210000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
+ ne-on-one review of your resume or cover letter and get help with your que
+ stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
+ .org/node/804744
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR

@@ -825,6 +825,39 @@ DESCRIPTION:https://www.viewcy.com/event/antonius_chedid__sou\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Open Mic
+DTSTART:20260528T230000Z
+DTEND:20260529T010000Z
+DTSTAMP:20260528T230000Z
+UID:Community Open Mic
+DESCRIPTION:https://www.viewcy.com/event/community_open_mic\n<p><img alt="
+ Community Open Mic thumbnail" class="styles_coverImg__PsR9G" data-nimg="1"
+  data-sentry-component="ImageWithFallback" data-sentry-element="Image" dat
+ a-sentry-source-file="index.tsx" decoding="async" height="186" loading="la
+ zy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.c
+ om%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOns
+ iZGF0YSI6MTY5Mzg2LCJwdXIiOiJibG9iX2lkIn19--8fc116a3f993c151313a562f0e10ccd
+ 98da31c4f%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZm
+ lsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRl
+ cmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f68
+ 64589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_ne
+ xt/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepre
+ sentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTY5Mzg2LCJwdXIiOiJibG9iX2
+ lkIn19--8fc116a3f993c151313a562f0e10ccd98da31c4f%2FeyJfcmFpbHMiOnsiZGF0YSI
+ 6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic
+ 3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmF
+ yaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.
+ png&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.c
+ om%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOns
+ iZGF0YSI6MTY5Mzg2LCJwdXIiOiJibG9iX2lkIn19--8fc116a3f993c151313a562f0e10ccd
+ 98da31c4f%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZm
+ lsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRl
+ cmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f68
+ 64589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="co
+ lor: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New York Oud Festival 2026 Day 6 | Ameer Armaly
 DTSTART:20260529T220000Z
 DTEND:20260530T000000Z
