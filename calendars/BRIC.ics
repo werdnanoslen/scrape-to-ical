@@ -458,4 +458,13 @@ DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
  s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientation
+DTSTART:20260602T210000Z
+DTEND:20260602T223000Z
+DTSTAMP:20260602T210000Z
+UID:Orientation-2026-06-02T21:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/media-orientation/
+LOCATION:Virtual
+END:VEVENT
 END:VCALENDAR
