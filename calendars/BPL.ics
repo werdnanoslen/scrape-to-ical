@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:The People's Ball
-DTSTART:20260503T230000Z
-DTEND:20260503T020000Z
-DESCRIPTION:The People’s Ball returns to the runway to celebrate fashion
- \, personal style and inclusivity. Dress up in the clothes that make you f
- eel your most beautiful and authentic and walk the runway in Centra\n\nhtt
- ps://www.bklynlibrary.org/node/818953
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class
 DTSTART:20260504T150000Z
 DTEND:20260504T170000Z
@@ -373,5 +363,13 @@ DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
  just a few simple steps\, you can become trained to save a life in\n\nhttp
  s://www.bklynlibrary.org/node/807799
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plum Papercraft: 3 Dimensional Stars
+DTSTART:20260506T170000Z
+DTEND:20260506T183000Z
+DESCRIPTION:Learn to make three-dimensional (3D) stars using paper\, sci
+ ssors\, and a bit of glue.\n\nhttps://www.bklynlibrary.org/node/815179
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
