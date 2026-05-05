@@ -20,14 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260505T190000Z
-DTEND:20260505T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/80337
- 5
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NELP: Intellectual Property
 DTSTART:20260505T200000Z
 DTEND:20260505T213000Z
@@ -35,16 +27,6 @@ DESCRIPTION:This presentation will provide small business owners with an o
  verview of intellectual property rights through a discussion of Trademarks
  \, Copyrights\, Trade Secrets\, and Patents. The webinar will delve\n\nhtt
  ps://www.bklynlibrary.org/node/786733
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Crafting Circle
-DTSTART:20260505T200000Z
-DTEND:20260505T210000Z
-DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
- Join our virtual crafting circle! Every 2nd and 4th Tuesday of the month\,
-  get together with fellow crafters to chat and discuss what you'r\n\nhttps
- ://www.bklynlibrary.org/node/801590
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
@@ -376,5 +358,23 @@ DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join
  us to work on projects\, trade skills\, and socialize with other makers!\n
  \nhttps://www.bklynlibrary.org/node/812522
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260507T183000Z
+DTEND:20260507T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/822757
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:French Conversation Group
+DTSTART:20260507T190000Z
+DTEND:20260507T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. This group is for high intermediate speake
+ rs.\n\nhttps://www.bklynlibrary.org/node/816510
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
