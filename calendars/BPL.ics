@@ -11,31 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Making Music from Our Surroundings
-DTSTART:20260504T213000Z
-DTEND:20260504T233000Z
-DESCRIPTION:This event has been postponed to Wednesday\, May 20th.\n\nhttp
- s://www.bklynlibrary.org/node/814414
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260504T214500Z
-DTEND:20260504T234500Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820960
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comienza Tu Negocio (Curso en línea)
-DTSTART:20260504T220000Z
-DTEND:20260504T000000Z
-DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
- ” de 5 sesiones!Este curso online gratuito y en español tiene como pro
- pósito aprender cómo estructurar su negocio para que este sea exitoso\, 
- d\n\nhttps://www.bklynlibrary.org/node/822320
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260505T133000Z
 DTEND:20260505T163000Z
@@ -371,5 +346,32 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820124
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260507T143000Z
+DTEND:20260507T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 43
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260507T143000Z
+DTEND:20260507T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804498
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20260507T143000Z
+DTEND:20260507T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/815920
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
