@@ -20,25 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260505T180000Z
-DTEND:20260505T200000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/811958
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online Intermediate English Class (We Speak NYC)
-DTSTART:20260505T180000Z
-DTEND:20260505T200000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820320
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20260505T190000Z
 DTEND:20260505T210000Z
@@ -377,5 +358,23 @@ DESCRIPTION:Learn to use your mobile device to make compelling short-form
   frame composition\, and then cover how to get the best audio and l\n\nhtt
  ps://www.bklynlibrary.org/node/795980
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260507T180000Z
+DTEND:20260507T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/822749
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arts and Crafts Circle
+DTSTART:20260507T183000Z
+DTEND:20260507T200000Z
+DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
+ us to work on projects\, trade skills\, and socialize with other makers!\n
+ \nhttps://www.bklynlibrary.org/node/812522
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
