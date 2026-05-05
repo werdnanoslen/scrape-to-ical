@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Central Brooklyn Job & Career Fair
-DTSTART:20260505T140000Z
-DTEND:20260505T180000Z
-DESCRIPTION:In collaboration with the offices of several Central Brooklyn 
- elected officials and the Brooklyn Public Library\, the New York State Dep
- artment of Labor is proud to present the Central Brooklyn Job & C\n\nhttps
- ://www.bklynlibrary.org/node/819606
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260505T160000Z
 DTEND:20260505T230000Z
@@ -28,14 +18,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822242
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Hour
-DTSTART:20260505T163000Z
-DTEND:20260505T180000Z
-DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
- rg/node/821904
-LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resume Coaching
@@ -375,5 +357,25 @@ DESCRIPTION:Special Education 101: Training of the Parent MemberThursday\,
  ts Branch- 286 Cadman Plaza West\, Brooklyn\, NY 11201\n\nhttps://www.bkly
  nlibrary.org/node/820250
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Digital Story
+DTSTART:20260507T150000Z
+DTEND:20260507T170000Z
+DESCRIPTION:Learn simple steps to turn your still images and sound clips i
+ nto a compelling digital video story. You will learn about various types o
+ f digital story types\, storytelling techniques\, narrative tips\,\n\nhttp
+ s://www.bklynlibrary.org/node/795979
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Movie On Your Phone
+DTSTART:20260507T180000Z
+DTEND:20260507T200000Z
+DESCRIPTION:Learn to use your mobile device to make compelling short-form 
+ videos. We’ll start you off with scriptwriting and storyboarding discuss
+  frame composition\, and then cover how to get the best audio and l\n\nhtt
+ ps://www.bklynlibrary.org/node/795980
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
