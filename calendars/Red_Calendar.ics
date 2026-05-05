@@ -508,6 +508,16 @@ DESCRIPTION:https://cal.red/?event=5089\nCost: Free
 LOCATION:Bechdel Project (252 Green St). 9 AM–5 PM.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🪡 hand-sew: upcycled bunny keychain workshop
+DTSTART:20260513T223000Z
+DTEND:20260513T233000Z
+DTSTAMP:20260513T223000Z
+UID:event:5221:2026-05-13T18:30:00
+DESCRIPTION:https://cal.red/?event=5221\n199 Cook St #103\, Brooklyn\, NY 
+ 11206\, USA\nwalk up the staircase\nCost: 20-35
+LOCATION:Chyelle
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Poetry Society of America Events
 DTSTART:20260513T230000Z
 DTEND:20260514T000000Z
