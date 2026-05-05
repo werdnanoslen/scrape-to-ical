@@ -20,26 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NELP: Intellectual Property
-DTSTART:20260505T200000Z
-DTEND:20260505T213000Z
-DESCRIPTION:This presentation will provide small business owners with an o
- verview of intellectual property rights through a discussion of Trademarks
- \, Copyrights\, Trade Secrets\, and Patents. The webinar will delve\n\nhtt
- ps://www.bklynlibrary.org/node/786733
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digital Skills & AI Literacy: Info Session
-DTSTART:20260505T203000Z
-DTEND:20260505T220000Z
-DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
- cess to Google Career Certificates- online\, self-paced programs designed 
- to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
- ps://www.bklynlibrary.org/node/820597
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
 DTSTART:20260505T210000Z
 DTEND:20260505T223000Z
@@ -376,5 +356,24 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. This group is for high intermediate speake
  rs.\n\nhttps://www.bklynlibrary.org/node/816510
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
+DTSTART:20260507T193000Z
+DTEND:20260507T203000Z
+DESCRIPTION:The Business & Career Center is partnering with the City Bar J
+ ustice Center’s Neighborhood Entrepreneur Law Project (NELP) and Pace SB
+ DC to offer a virtual small business legal clinic. This clinic\, co\n\nhtt
+ ps://www.bklynlibrary.org/node/816834
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Plan to Plate: Dining Out NYC
+DTSTART:20260507T200000Z
+DTEND:20260507T213000Z
+DESCRIPTION:Dining Out NYC gives businesses the opportunity to expand onto
+  public sidewalks and roadways. Together let's expand NYC's vibrant outdoo
+ r dining culture.\n\nhttps://www.bklynlibrary.org/node/818083
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
