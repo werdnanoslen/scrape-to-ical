@@ -347,6 +347,16 @@ DESCRIPTION:https://cal.red/?event=5126\n138 S Oxford St\, Brooklyn\, NY 1
 LOCATION:South Oxford Space - The Great Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Record Shop May Events
+DTSTART:20260509T233000Z
+DTEND:20260510T003000Z
+DTSTAMP:20260509T233000Z
+UID:event:5238:2026-05-09T19:30:00
+DESCRIPTION:https://cal.red/?event=5238\nCost: 🌀 notaflof
+LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
+ yn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mouth Pieces
 DTSTART:20260510T000000Z
 DTEND:20260510T010000Z
@@ -463,6 +473,15 @@ DESCRIPTION:https://cal.red/?event=5086\n343A Tompkins Ave\, Brooklyn [Bed
 LOCATION:dear friend books
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Scott Li\, Kirin McElwain\, Will Hayes
+DTSTART:20260511T233000Z
+DTEND:20260512T003000Z
+DTSTAMP:20260511T233000Z
+UID:event:5235:2026-05-11T19:30:00
+DESCRIPTION:https://cal.red/?event=5235\nCost: $17
+LOCATION:@ sleepwalk (21+)\, 251 bushwick ave\, east williamsburg\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:*()*()*()*()*()*()*()*()*()*()*
 DTSTART:20260512T000000Z
 DTEND:20260512T010000Z
@@ -474,6 +493,28 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Striped Light presents: Hisham Akira Bharoocha & Chuck Bettis\, Ma
+ tthew Ryals\, Kristina Warren
+DTSTART:20260512T000000Z
+DTEND:20260512T010000Z
+DTSTAMP:20260512T000000Z
+UID:event:5233:2026-05-11T20:00:00
+DESCRIPTION:https://cal.red/?event=5233\nCost: $17
+LOCATION:@ striped light (all ages)\, long island city\, queens –– tic
+ kets for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aaron Edgcomb Quartet (w/ Alfredo Colón\, Max Light\, Isaac Levie
+ n)
+DTSTART:20260512T000000Z
+DTEND:20260512T010000Z
+DTSTAMP:20260512T000000Z
+UID:event:5234:2026-05-11T20:00:00
+DESCRIPTION:https://cal.red/?event=5234\nCost: maybe $15? but prolly 🌀 
+ notaflof
+LOCATION:@ sisters (all ages)\, 900 fulton st\, clinton hill\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:We are already gathered\, we changed our names
 DTSTART:20260512T220000Z
 DTEND:20260512T230000Z
@@ -481,6 +522,37 @@ DTSTAMP:20260512T220000Z
 UID:event:5074:2026-05-12T18:00:00
 DESCRIPTION:https://cal.red/?event=5074\nCost: Free
 LOCATION:Chinatown
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downtown Music Gallery Free In-Store Concerts
+DTSTART:20260512T223000Z
+DTEND:20260512T233000Z
+DTSTAMP:20260512T223000Z
+UID:event:5236:2026-05-12T18:30:00
+DESCRIPTION:https://cal.red/?event=5236\nCost: 🌀 free
+LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
+  mnhtn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zosha Warpeha (LP Release Party)\, Tongue Depressor\, Ka Baird / R
+ eona / Chuck Bettis
+DTSTART:20260512T230000Z
+DTEND:20260513T000000Z
+DTSTAMP:20260512T230000Z
+UID:event:5237:2026-05-12T19:00:00
+DESCRIPTION:https://cal.red/?event=5237\nCost: $20+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Record Shop May Events
+DTSTART:20260512T233000Z
+DTEND:20260513T003000Z
+DTSTAMP:20260512T233000Z
+UID:event:5238:2026-05-12T19:30:00
+DESCRIPTION:https://cal.red/?event=5238\nCost: 🌀 notaflof
+LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
+ yn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NYC Mesh Open Mesh Night
@@ -539,6 +611,25 @@ DESCRIPTION:https://cal.red/?event=4886\nPark Slope\nCost: Varies
 LOCATION:Poetry Society of America
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Record Shop May Events
+DTSTART:20260513T233000Z
+DTEND:20260514T003000Z
+DTSTAMP:20260513T233000Z
+UID:event:5238:2026-05-13T19:30:00
+DESCRIPTION:https://cal.red/?event=5238\nCost: 🌀 notaflof
+LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
+ yn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dada Strain presents: Shara Lunon (Video Screening & EP Release)
+DTSTART:20260513T233000Z
+DTEND:20260514T003000Z
+DTSTAMP:20260513T233000Z
+UID:event:5239:2026-05-13T19:30:00
+DESCRIPTION:https://cal.red/?event=5239\nCost: ~$20\, 🌀 notaflof
+LOCATION:@ sisters (all ages)\, 900 fulton st\, clinton hill\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:
 DTSTART:20260514T000000Z
 DTEND:20260514T010000Z
@@ -586,6 +677,17 @@ DESCRIPTION:https://cal.red/?event=4869\nCost: Free
 LOCATION:Chelsea
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Uptown Out: Kathy Halvorson / Claire de Brunner / Mary Cherney / S
+ tephanie Griffin / Will Glass / Hilliard Greene
+DTSTART:20260514T230000Z
+DTEND:20260515T000000Z
+DTSTAMP:20260514T230000Z
+UID:event:5240:2026-05-14T19:00:00
+DESCRIPTION:https://cal.red/?event=5240\nCost: 🌀 notaflof
+LOCATION:@ recirculation (all ages)\, 876 riverside drive\, washington hei
+ ghts\, mnhtn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pageant Spring '26
 DTSTART:20260515T000000Z
 DTEND:20260515T010000Z
@@ -602,6 +704,16 @@ DTSTAMP:20260515T000000Z
 UID:event:5226:2026-05-14T20:00:00
 DESCRIPTION:https://cal.red/?event=5226\nCost: $80
 LOCATION:28-23 Steinway St\, Long Island City\, New York
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cutelab May Concerts
+DTSTART:20260515T000000Z
+DTEND:20260515T010000Z
+DTSTAMP:20260515T000000Z
+UID:event:5241:2026-05-14T20:00:00
+DESCRIPTION:https://cal.red/?event=5241\nCost: 🌀 notaflof
+LOCATION:@ cutelab (all ages)\, gowanus\, bklyn –– email (cutelabnyc@
+ gmail.com) for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:192 Books Reading!
@@ -647,6 +759,16 @@ DTSTAMP:20260516T000000Z
 UID:event:5131:2026-05-15T20:00:00
 DESCRIPTION:https://cal.red/?event=5131\n770 Hart Street\nCost: Free
 LOCATION:Molasses Books
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cutelab May Concerts
+DTSTART:20260516T000000Z
+DTEND:20260516T010000Z
+DTSTAMP:20260516T000000Z
+UID:event:5241:2026-05-15T20:00:00
+DESCRIPTION:https://cal.red/?event=5241\nCost: 🌀 notaflof
+LOCATION:@ cutelab (all ages)\, gowanus\, bklyn –– email (cutelabnyc@
+ gmail.com) for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Look! Meet your urban plant neighbors
@@ -695,6 +817,18 @@ DESCRIPTION:https://cal.red/?event=5230\nCost: $15 online\, $20 door
 LOCATION:Rubulad\, Bushwick\, Brooklyn\, RSVP for Addy
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ABC NO RIO Benefit: Telomeres\, Ivy & The Poison\, Andrew’s Fals
+ e Consciousness\, Nussy Andrews
+DTSTART:20260516T223000Z
+DTEND:20260516T233000Z
+DTSTAMP:20260516T223000Z
+UID:event:5242:2026-05-16T18:30:00
+DESCRIPTION:https://cal.red/?event=5242\nCost: $10-20 suggested\, 🌀 not
+ aflof
+LOCATION:@ p.i.t. (property is theft) (all ages)\, 411 s. 5th\, los sures 
+ / williamsburg\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DRAUPADI
 DTSTART:20260516T230000Z
 DTEND:20260517T000000Z
@@ -703,6 +837,16 @@ UID:event:5223:2026-05-16T19:00:00
 DESCRIPTION:https://cal.red/?event=5223\nCost: $35-45. Trans women of colo
  r tix free.
 LOCATION:Hell's Kitchen
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Record Shop May Events
+DTSTART:20260516T233000Z
+DTEND:20260517T003000Z
+DTSTAMP:20260516T233000Z
+UID:event:5238:2026-05-16T19:30:00
+DESCRIPTION:https://cal.red/?event=5238\nCost: 🌀 notaflof
+LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
+ yn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pageant Spring '26
@@ -750,6 +894,15 @@ UID:event:4959:2026-05-17T21:30:00
 DESCRIPTION:https://cal.red/?event=4959\nGarment District of Midtown Manha
  ttan\nCost: $20/$30/$40
 LOCATION:The Tank NYC\, 312 W 36th St. NYC\, NY 10018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kolb (Record Release)\, Peaer\, Stice
+DTSTART:20260518T020000Z
+DTEND:20260518T030000Z
+DTSTAMP:20260518T020000Z
+UID:event:5243:2026-05-17T22:00:00
+DESCRIPTION:https://cal.red/?event=5243\nCost: $24
+LOCATION:@ night club 101 (21+)\, 101 ave a\, east village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🍸 ceramic cocktail glass pottery class: handbuilding workshop
@@ -809,6 +962,18 @@ DESCRIPTION:https://cal.red/?event=5063\nCost: Free
 LOCATION:53 Bridge St
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Writing on Raving: Readings & Performances by: Jace Clayton\, Gret
+ a Doyle\, Yakin Jaleta\, P.E. Moskowitz\, mayilovesummer
+DTSTART:20260520T000000Z
+DTEND:20260520T010000Z
+DTSTAMP:20260520T000000Z
+UID:event:5244:2026-05-19T20:00:00
+DESCRIPTION:https://cal.red/?event=5244\nCost: $10+\, 🌀 notaflof work t
+ rade
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Un-Language 4 Gender Equality
 DTSTART:20260520T013000Z
 DTEND:20260520T023000Z
@@ -846,6 +1011,16 @@ DESCRIPTION:https://cal.red/?event=5149\nCost: $25-45 Sliding Scale
 LOCATION:5-84 Woodward Ave\, Ridgewood NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cutelab May Concerts
+DTSTART:20260521T000000Z
+DTEND:20260521T010000Z
+DTSTAMP:20260521T000000Z
+UID:event:5241:2026-05-20T20:00:00
+DESCRIPTION:https://cal.red/?event=5241\nCost: 🌀 notaflof
+LOCATION:@ cutelab (all ages)\, gowanus\, bklyn –– email (cutelabnyc@
+ gmail.com) for address
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:History Month @MORUS
 DTSTART:20260521T220000Z
 DTEND:20260521T230000Z
@@ -865,6 +1040,16 @@ DESCRIPTION:https://cal.red/?event=5213\nCost: Free before 11pm. $10 after
 LOCATION:Bossa Nova Civic Club - Bushwick Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BiondoBeat\, Visitors
+DTSTART:20260521T230000Z
+DTEND:20260522T000000Z
+DTSTAMP:20260521T230000Z
+UID:event:5245:2026-05-21T19:00:00
+DESCRIPTION:https://cal.red/?event=5245\nCost: 🌀 free
+LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
+ – outdoors in backyard!
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
 DTSTART:20260523T000000Z
 DTEND:20260523T010000Z
@@ -872,6 +1057,17 @@ DTSTAMP:20260523T000000Z
 UID:event:5218:2026-05-22T20:00:00
 DESCRIPTION:https://cal.red/?event=5218\nCost: free
 LOCATION:10 Cooper St\, Brooklyn NY 11207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Melting Point: Hardlaps (Prolaps hardware set)\, Deli Girl (Album 
+ Release)\, Swan Meat\, Bubblegum Octopus\, Via App\, Dollnxtdoor\, xxhardb
+ it3s\, 41º3\, Phagocyte\, 537H\, Guttr
+DTSTART:20260523T030000Z
+DTEND:20260523T040000Z
+DTSTAMP:20260523T030000Z
+UID:event:5246:2026-05-22T23:00:00
+DESCRIPTION:https://cal.red/?event=5246\nCost: $20
+LOCATION:@ trans-pecos (all ages)\, 9-15 wyckoff ave\, ridgewood\, queens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LES Radical History Tour (MoRUS)
@@ -892,6 +1088,16 @@ DESCRIPTION:https://cal.red/?event=5019\n[Lower Manhattan]\nCost: 5
 LOCATION:11 Cortlandt Alley & Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Downtown Music Gallery Free In-Store Concerts
+DTSTART:20260523T223000Z
+DTEND:20260523T233000Z
+DTSTAMP:20260523T223000Z
+UID:event:5236:2026-05-23T18:30:00
+DESCRIPTION:https://cal.red/?event=5236\nCost: 🌀 free
+LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
+  mnhtn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Screening: WTO/99
 DTSTART:20260525T230000Z
 DTEND:20260526T000000Z
@@ -910,6 +1116,16 @@ DESCRIPTION:https://cal.red/?event=4912\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downtown Music Gallery Free In-Store Concerts
+DTSTART:20260526T223000Z
+DTEND:20260526T233000Z
+DTSTAMP:20260526T223000Z
+UID:event:5236:2026-05-26T18:30:00
+DESCRIPTION:https://cal.red/?event=5236\nCost: 🌀 free
+LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
+  mnhtn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:192 Books Reading!
@@ -937,6 +1153,17 @@ DTSTAMP:20260527T130000Z
 UID:event:5089:2026-05-27T09:00:00
 DESCRIPTION:https://cal.red/?event=5089\nCost: Free
 LOCATION:Bechdel Project (252 Green St). 9 AM–5 PM.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AYA: Weaving Exploration Vol.1: Julia Deng Hanzu\, Shoko Nagai\, J
+ ihye Kim\, Qiujiang Levi Lu\, Satoshi Takeishi\, Yoona Kim\, Sita Chay\, C
+ hris Cochrane
+DTSTART:20260527T230000Z
+DTEND:20260528T000000Z
+DTSTAMP:20260527T230000Z
+UID:event:5247:2026-05-27T19:00:00
+DESCRIPTION:https://cal.red/?event=5247\nCost: $23
+LOCATION:@ nublu classic (21+)\, 62 loisaida ave\, alphabet city\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:History Month @MORUS
@@ -986,6 +1213,16 @@ DESCRIPTION:https://cal.red/?event=4886\nPark Slope\nCost: Varies
 LOCATION:Poetry Society of America
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Record Shop May Events
+DTSTART:20260528T233000Z
+DTEND:20260529T003000Z
+DTSTAMP:20260528T233000Z
+UID:event:5238:2026-05-28T19:30:00
+DESCRIPTION:https://cal.red/?event=5238\nCost: 🌀 notaflof
+LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
+ yn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pageant Spring '26
 DTSTART:20260529T000000Z
 DTEND:20260529T010000Z
@@ -1011,6 +1248,17 @@ DTSTAMP:20260530T000000Z
 UID:event:5218:2026-05-29T20:00:00
 DESCRIPTION:https://cal.red/?event=5218\nCost: free
 LOCATION:10 Cooper St\, Brooklyn NY 11207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eli Wallace / Marija Kovacevic / Rocio Sanchez\, Jason Stein / Dam
+ on Smith / Adam Shead\, Josh Sinton & Owen Stewart-Robertson
+DTSTART:20260530T000000Z
+DTEND:20260530T010000Z
+DTSTAMP:20260530T000000Z
+UID:event:5248:2026-05-29T20:00:00
+DESCRIPTION:https://cal.red/?event=5248\nCost: $20
+LOCATION:@ prospect series apt (all ages)\, 1923 8th ave\, south slope\, b
+ klyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PROM? - A Society of Imaginary Friends Launch Party
