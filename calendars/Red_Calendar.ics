@@ -905,15 +905,6 @@ DESCRIPTION:https://cal.red/?event=5243\nCost: $24
 LOCATION:@ night club 101 (21+)\, 101 ave a\, east village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🍸 ceramic cocktail glass pottery class: handbuilding workshop
-DTSTART:20260518T223000Z
-DTEND:20260518T233000Z
-DTSTAMP:20260518T223000Z
-UID:event:4844:2026-05-18T18:30:00
-DESCRIPTION:https://cal.red/?event=4844\nCost: 40-50
-LOCATION:Jersey City
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ceramics Handbuilding Workshop
 DTSTART:20260518T223000Z
 DTEND:20260518T233000Z
