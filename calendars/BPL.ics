@@ -31,22 +31,12 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plum Papercraft: 3 Dimensional Stars
-DTSTART:20260506T170000Z
-DTEND:20260506T183000Z
-DESCRIPTION:Learn to make three-dimensional (3D) stars using paper\, sci
- ssors\, and a bit of glue.\n\nhttps://www.bklynlibrary.org/node/815179
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20260506T170000Z
-DTEND:20260506T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /820167
-LOCATION:Brooklyn Heights Library\, Craft Room
+SUMMARY:CANCELLED: Tech Help for Your Job Search
+DTSTART:20260506T180000Z
+DTEND:20260506T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818911
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senator Gounardes Office Hours
@@ -56,23 +46,6 @@ DESCRIPTION:Meet Senator Gournardes' office representatives to talk about
  the issues and receive in person assistance accessing state social service
  s.\n\nhttps://www.bklynlibrary.org/node/801978
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260506T180000Z
-DTEND:20260506T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/822748
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Tech Help for Your Job Search
-DTSTART:20260506T180000Z
-DTEND:20260506T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818911
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
@@ -374,5 +347,34 @@ DESCRIPTION:Looking to meet other LGBTQ+ folks? We meet the first Tuesday
  of every month to discuss an LGBTQ+ work.\n\nhttps://www.bklynlibrary.org/
  node/821133
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building Maternal Futures
+DTSTART:20260507T230000Z
+DTEND:20260507T003000Z
+DESCRIPTION:Join Pregnancy Justice and Level Forward for an essential disc
+ ussion of pregnancy and motherhood with leading experts Khiara M. Bridges\
+ , Mary Fariba Afsari\, and Lourdes A. Rivera\, who will be in conve\n\nhtt
+ ps://www.bklynlibrary.org/node/819768
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Read With Me: A Workshop Series for Nannies and Non-Parent Caregiv
+ ers
+DTSTART:20260508T143000Z
+DTEND:20260508T153000Z
+DESCRIPTION:"Read With Me" is a four-part workshop series for nannies and 
+ non-parent caregivers. Through modeling\, discussion\, and activities\, pa
+ rticipants will learn best practices to build early literacy skills\n\nhtt
+ ps://www.bklynlibrary.org/node/817930
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: The Road (2009)
+DTSTART:20260508T143000Z
+DTEND:20260508T162000Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
+ ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819945
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
