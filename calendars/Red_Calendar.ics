@@ -405,6 +405,16 @@ DESCRIPTION:https://cal.red/?event=5212\nBushwick\nCost: Free
 LOCATION:1581 dekalb ave
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unplatform Creatives Workshop #5
+DTSTART:20260510T180000Z
+DTEND:20260510T190000Z
+DTSTAMP:20260510T180000Z
+UID:event:5224:2026-05-10T14:00:00
+DESCRIPTION:https://cal.red/?event=5224\n10 Grand Army Plz\, Brooklyn\, NY
+  11238\nBusiness & Career Center\, Meeting Room 7\nCost: Free
+LOCATION:Brooklyn Public Library - Central Branch (Prospect Heights)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Movement at Performance Space NYC
 DTSTART:20260510T200000Z
 DTEND:20260510T210000Z
@@ -581,6 +591,15 @@ DTSTAMP:20260515T000000Z
 UID:event:4697:2026-05-14T20:00:00
 DESCRIPTION:https://cal.red/?event=4697\nCost: Varies - see link
 LOCATION:Pageant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qawwali Night with Salim Sabri
+DTSTART:20260515T000000Z
+DTEND:20260515T010000Z
+DTSTAMP:20260515T000000Z
+UID:event:5226:2026-05-14T20:00:00
+DESCRIPTION:https://cal.red/?event=5226\nCost: $80
+LOCATION:28-23 Steinway St\, Long Island City\, New York
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:192 Books Reading!
