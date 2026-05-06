@@ -117,6 +117,16 @@ DESCRIPTION:https://cal.red/?event=5203\nCost: 50
 LOCATION:Bushwick
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Home Audio Recording 101 Class and Interactive Demo
+DTSTART:20260507T230000Z
+DTEND:20260508T000000Z
+DTSTAMP:20260507T230000Z
+UID:event:5229:2026-05-07T19:00:00
+DESCRIPTION:https://cal.red/?event=5229\nRidgewood\nCost: $10 suggested do
+ nation PWYC/NOTAFLOF
+LOCATION:Ridgewood Commons - 585 Woodward
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Benefit Screening for Lebanon
 DTSTART:20260507T233000Z
 DTEND:20260508T003000Z
@@ -402,6 +412,28 @@ DESCRIPTION:https://cal.red/?event=5207\nCost: 0
 LOCATION:Park Slope
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Slugg\, Cyanide Tooth\, Nebadon
+DTSTART:20260510T220000Z
+DTEND:20260510T230000Z
+DTSTAMP:20260510T220000Z
+UID:event:5231:2026-05-10T18:00:00
+DESCRIPTION:https://cal.red/?event=5231\nCost: 🌀 notaflof
+LOCATION:@ p.i.t. (property is theft) (all ages)\, 411 s. 5th\, los sures 
+ / williamsburg\, bklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Onkan (音間): Ayumi Ishito / Jonathan Franco / Ayako Kanda\, End
+ less Season (Ayumi Ishito & Daniel Carter)\, Rokka Hashimoto & Zahra Najaf
+ i\, Echo Moth (Yana Davydova)
+DTSTART:20260510T220000Z
+DTEND:20260510T230000Z
+DTSTAMP:20260510T220000Z
+UID:event:5232:2026-05-10T18:00:00
+DESCRIPTION:https://cal.red/?event=5232\nCost: $23
+LOCATION:@ synesthesia (all ages)\, bushwick\, bklyn –– tix for addres
+ s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sinema Club at House of Scorpio celebrates PINK NARCISSUS!
 DTSTART:20260510T230000Z
 DTEND:20260511T000000Z
@@ -654,6 +686,15 @@ DESCRIPTION:https://cal.red/?event=5019\n[Lower Manhattan]\nCost: 5
 LOCATION:11 Cortlandt Alley & Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hidden City Physical Media Fest
+DTSTART:20260516T220000Z
+DTEND:20260516T230000Z
+DTSTAMP:20260516T220000Z
+UID:event:5230:2026-05-16T18:00:00
+DESCRIPTION:https://cal.red/?event=5230\nCost: $15 online\, $20 door
+LOCATION:Rubulad\, Bushwick\, Brooklyn\, RSVP for Addy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DRAUPADI
 DTSTART:20260516T230000Z
 DTEND:20260517T000000Z
@@ -776,6 +817,15 @@ UID:event:4959:2026-05-19T21:30:00
 DESCRIPTION:https://cal.red/?event=4959\nGarment District of Midtown Manha
  ttan\nCost: $20/$30/$40
 LOCATION:The Tank NYC\, 312 W 36th St. NYC\, NY 10018
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEATS AT BEETS - OPEN MIC & JAM
+DTSTART:20260520T020000Z
+DTEND:20260520T030000Z
+DTSTAMP:20260520T020000Z
+UID:event:5227:2026-05-19T22:00:00
+DESCRIPTION:https://cal.red/?event=5227\nCost: FREE
+LOCATION:Beats Social Cafe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coffee's On Us Third Space Pop-Up
