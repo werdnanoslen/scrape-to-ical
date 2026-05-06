@@ -11,37 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Intermediate Premiere
-DTSTART:20260505T220000Z
-DTEND:20260506T010000Z
-DTSTAMP:20260505T220000Z
-UID:Intermediate Premiere-2026-05-05T22:00:00+00:00
-DESCRIPTION:Cost: 60\nhttps://bricartsmedia.org/class/intermediate-premier
- e/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orientation
-DTSTART:20260505T210000Z
-DTEND:20260505T223000Z
-DTSTAMP:20260505T210000Z
-UID:Orientation-2026-05-05T21:00:00+00:00
-DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/media-orientation/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Poetry Slam | May 5\, 2026
-DTSTART:20260505T223000Z
-DTEND:20260506T010000Z
-DTSTAMP:20260505T223000Z
-UID:Brooklyn Poetry Slam | May 5\, 2026-2026-05-05T22:30:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brooklyn-poetry-sl
- am-may-5-2026/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://b
- ricartsmedia.org/wp-content/uploads/2024/08/Resized-2024-poetry-slam-photo
- -1-200x200.jpg" alt="" />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ableton Move Certification
 DTSTART:20260507T220000Z
 DTEND:20260508T010000Z
@@ -446,5 +415,25 @@ UID:Street Photography-2026-06-03T18:00:00+00:00
 DESCRIPTION:Cost: $25\nhttps://bricartsmedia.org/class/street-photography/
  \nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternatives to Adobe
+DTSTART:20260604T150000Z
+DTEND:20260604T170000Z
+DTSTAMP:20260604T150000Z
+UID:Alternatives to Adobe-2026-06-04T15:00:00+00:00
+DESCRIPTION:Cost: 5\nhttps://bricartsmedia.org/class/alternatives-to-adobe
+ /\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop-Motion Animation Techniques 
+DTSTART:20260604T180000Z
+DTEND:20260604T200000Z
+DTSTAMP:20260604T180000Z
+UID:Stop-Motion Animation Techniques -2026-06-04T18:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/stop-motion-animat
+ ion-techniques/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 END:VCALENDAR
