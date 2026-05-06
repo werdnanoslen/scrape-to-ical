@@ -21,13 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260506T140000Z
-DTEND:20260506T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812230
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
 DTSTART:20260506T140000Z
 DTEND:20260506T200000Z
@@ -38,16 +31,6 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group at Central Library\, Business and Caree
- r Center - Meeting Room #7
-DTSTART:20260506T143000Z
-DTEND:20260506T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 85
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260506T150000Z
 DTEND:20260506T170000Z
@@ -56,15 +39,6 @@ DESCRIPTION:Drop-In Sessions for Immigrant Job Support will resume May 13.
  s or have been here for a while) stop by the Central Library (2n\n\nhttps:
  //www.bklynlibrary.org/node/813988
 LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260506T153000Z
-DTEND:20260506T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/818664
-LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Stop the Bleed
@@ -376,5 +350,30 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8085
  93
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Clinic!
+DTSTART:20260507T220000Z
+DTEND:20260507T233000Z
+DESCRIPTION:Minority and Women-Owned Business Enterprises (MWBE)\n\nhttps:
+ //www.bklynlibrary.org/node/810439
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Singing Event
+DTSTART:20260507T220000Z
+DTEND:20260507T233000Z
+DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
+ klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/818046
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class - Intermediate Level (We Speak NYC)
+DTSTART:20260507T220000Z
+DTEND:20260507T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820134
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
