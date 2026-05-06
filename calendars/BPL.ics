@@ -28,14 +28,6 @@ DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812230
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20260506T140000Z
-DTEND:20260506T153000Z
-DESCRIPTION:All beginners in Hebrew join us to practice and learn\n\nhttps
- ://www.bklynlibrary.org/node/819642
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
 DTSTART:20260506T140000Z
 DTEND:20260506T200000Z
@@ -375,5 +367,14 @@ DTEND:20260507T233000Z
 DESCRIPTION:Show Your Work! An informal creative showcase for the Info Com
  mons community\n\nhttps://www.bklynlibrary.org/node/808334
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260507T220000Z
+DTEND:20260507T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8085
+ 93
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR

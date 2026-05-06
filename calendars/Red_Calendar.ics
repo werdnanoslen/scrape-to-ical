@@ -469,6 +469,16 @@ DESCRIPTION:https://cal.red/?event=4886\nPark Slope\nCost: Varies
 LOCATION:Poetry Society of America
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:7AM bus to stop data centers!! Join us in demanding a stop to data
+  center expansion across our state!
+DTSTART:20260513T110000Z
+DTEND:20260513T120000Z
+DTSTAMP:20260513T110000Z
+UID:event:5228:2026-05-13T07:00:00
+DESCRIPTION:https://cal.red/?event=5228\nCost: Free
+LOCATION:Leaving midtown
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Coffee's On Us Third Space Pop-Up
 DTSTART:20260513T130000Z
 DTEND:20260513T140000Z
