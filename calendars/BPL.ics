@@ -30,33 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260507T140000Z
-DTEND:20260507T160000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820124
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260507T143000Z
-DTEND:20260507T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 43
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260507T143000Z
-DTEND:20260507T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804498
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Special Education 101: Training of the Parent Member
 DTSTART:20260507T143000Z
 DTEND:20260507T183000Z
@@ -381,5 +354,33 @@ DTEND:20260509T203000Z
 DESCRIPTION:What is it like to be making it as an artist today?\n\nhttps:/
  /www.bklynlibrary.org/node/810197
 LOCATION:Central Library\, Info Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20260509T193000Z
+DTEND:20260509T210000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/815644
+LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYC Livecode Meetup
+DTSTART:20260510T173000Z
+DTEND:20260510T203000Z
+DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers 
+ to discuss\, promote\, and explore real-time programming. Our meetups are 
+ open to all. Come with works in progress to show\, with ideas to bo\n\nhtt
+ ps://www.bklynlibrary.org/node/800633
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260511T150000Z
+DTEND:20260511T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/819264
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
