@@ -30,16 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Special Education 101: Training of the Parent Member
-DTSTART:20260507T143000Z
-DTEND:20260507T183000Z
-DESCRIPTION:Special Education 101: Training of the Parent MemberThursday\,
-  May 7\, 2026 | 10:30 am - 2:30 pmBrooklyn Public Library\, Brooklyn Heigh
- ts Branch- 286 Cadman Plaza West\, Brooklyn\, NY 11201\n\nhttps://www.bkly
- nlibrary.org/node/820250
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Make a Movie On Your Phone
 DTSTART:20260507T180000Z
 DTEND:20260507T200000Z
@@ -48,15 +38,6 @@ DESCRIPTION:Learn to use your mobile device to make compelling short-form
   frame composition\, and then cover how to get the best audio and l\n\nhtt
  ps://www.bklynlibrary.org/node/795980
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260507T180000Z
-DTEND:20260507T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/822749
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts and Crafts Circle
@@ -381,5 +362,23 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820311
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260511T150000Z
+DTEND:20260511T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/821078
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260511T150000Z
+DTEND:20260511T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/823066
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
