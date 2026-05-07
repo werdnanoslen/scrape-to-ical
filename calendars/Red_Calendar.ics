@@ -147,6 +147,15 @@ DESCRIPTION:https://cal.red/?event=5196\n\n232 3rd Street\n\nBrooklyn\, NY
 LOCATION:The Old American Can Factory
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TRIO READING three poets three presses
+DTSTART:20260508T000000Z
+DTEND:20260508T010000Z
+DTSTAMP:20260508T000000Z
+UID:event:5249:2026-05-07T20:00:00
+DESCRIPTION:https://cal.red/?event=5249\nCost: Free
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Closing Reception for Zeelie Brown: A sonata to seed whatever flou
  rishes...
 DTSTART:20260508T210000Z
