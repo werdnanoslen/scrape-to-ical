@@ -21,34 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Make a Movie On Your Phone
-DTSTART:20260507T180000Z
-DTEND:20260507T200000Z
-DESCRIPTION:Learn to use your mobile device to make compelling short-form 
- videos. We’ll start you off with scriptwriting and storyboarding discuss
-  frame composition\, and then cover how to get the best audio and l\n\nhtt
- ps://www.bklynlibrary.org/node/795980
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20260507T183000Z
-DTEND:20260507T200000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers!\n
- \nhttps://www.bklynlibrary.org/node/812522
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260507T190000Z
-DTEND:20260507T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816510
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NELP Virtual One-on-One Legal Clinic for Entrepreneurs
 DTSTART:20260507T193000Z
 DTEND:20260507T203000Z
@@ -378,5 +350,33 @@ DTEND:20260511T170000Z
 DESCRIPTION:Please join Park Slope Library for a Checkout 19 by Claire-Lo
  uise Bennett.\n\nhttps://www.bklynlibrary.org/node/820633
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Chair Yoga
+DTSTART:20260511T170000Z
+DTEND:20260511T180000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/815546
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20260511T170000Z
+DTEND:20260511T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/824255
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260511T180000Z
+DTEND:20260511T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/804714
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
