@@ -57,15 +57,6 @@ DESCRIPTION:Practice your English speaking and listening skills with other
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20260507T143000Z
-DTEND:20260507T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/815920
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Special Education 101: Training of the Parent Member
 DTSTART:20260507T143000Z
 DTEND:20260507T183000Z
@@ -382,5 +373,13 @@ DESCRIPTION:Join a social circle where we can learn new skills from each
  Instructor Margot will be at this session. Please refer to her wit\n\nhttp
  s://www.bklynlibrary.org/node/821125
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conversations with Creatives
+DTSTART:20260509T190000Z
+DTEND:20260509T203000Z
+DESCRIPTION:What is it like to be making it as an artist today?\n\nhttps:/
+ /www.bklynlibrary.org/node/810197
+LOCATION:Central Library\, Info Commons
 END:VEVENT
 END:VCALENDAR
