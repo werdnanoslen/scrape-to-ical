@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260508T160000Z
-DTEND:20260508T180000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820144
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260508T170000Z
 DTEND:20260508T190000Z
@@ -369,5 +360,13 @@ DESCRIPTION:Do you have a specific question about how to use computers or
   1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
  //www.bklynlibrary.org/node/821312
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260512T190000Z
+DTEND:20260512T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/80337
+ 6
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
