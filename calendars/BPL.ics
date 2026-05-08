@@ -11,87 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260507T213000Z
-DTEND:20260507T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/816110
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Show Your Work!
-DTSTART:20260507T220000Z
-DTEND:20260507T233000Z
-DESCRIPTION:Show Your Work! An informal creative showcase for the Info Com
- mons community\n\nhttps://www.bklynlibrary.org/node/808334
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260507T220000Z
-DTEND:20260507T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8085
- 93
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Want to Become MWBE Certified? Join Our Clinic!
-DTSTART:20260507T220000Z
-DTEND:20260507T233000Z
-DESCRIPTION:Minority and Women-Owned Business Enterprises (MWBE)\n\nhttps:
- //www.bklynlibrary.org/node/810439
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Singing Event
-DTSTART:20260507T220000Z
-DTEND:20260507T233000Z
-DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
- klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/818046
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class - Intermediate Level (We Speak NYC)
-DTSTART:20260507T220000Z
-DTEND:20260507T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820134
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260507T220000Z
-DTEND:20260507T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/821135
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQ+ Book Discussion: A Single Man by Christopher Isherwood
-DTSTART:20260507T223000Z
-DTEND:20260507T233000Z
-DESCRIPTION:Looking to meet other LGBTQ+ folks? We meet the first Tuesday 
- of every month to discuss an LGBTQ+ work.\n\nhttps://www.bklynlibrary.org/
- node/821133
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Building Maternal Futures
-DTSTART:20260507T230000Z
-DTEND:20260507T003000Z
-DESCRIPTION:Join Pregnancy Justice and Level Forward for an essential disc
- ussion of pregnancy and motherhood with leading experts Khiara M. Bridges\
- , Mary Fariba Afsari\, and Lourdes A. Rivera\, who will be in conve\n\nhtt
- ps://www.bklynlibrary.org/node/819768
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Read With Me: A Workshop Series for Nannies and Non-Parent Caregiv
  ers
 DTSTART:20260508T143000Z
@@ -375,5 +294,82 @@ DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
  ction program\, offering workshops and other instruction at Brooklyn Publi
  c Library.\n\nhttps://www.bklynlibrary.org/node/785122
 LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260511T213000Z
+DTEND:20260511T234500Z
+DESCRIPTION:BPLCENTRAL ADULT SERVICES/LANGUAGES & LITERATURE\n\nhttps://ww
+ w.bklynlibrary.org/node/823570
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making Music from Our Surroundings
+DTSTART:20260511T213000Z
+DTEND:20260511T233000Z
+DESCRIPTION:How can we make music drawing inspiration from the sounds of o
+ ur daily lives? How can we translate into sound what we observe in a paint
+ ing\, a text message\, a book\, ourselves\, or the world? What lies\n\nhtt
+ ps://www.bklynlibrary.org/node/814415
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20260511T214500Z
+DTEND:20260511T234500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820961
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comienza Tu Negocio (Curso en línea)
+DTSTART:20260511T220000Z
+DTEND:20260511T000000Z
+DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
+ ” de 5 sesiones!Este curso online gratuito y en español tiene como pro
+ pósito aprender cómo estructurar su negocio para que este sea exitoso\, 
+ d\n\nhttps://www.bklynlibrary.org/node/822321
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Critias
+DTSTART:20260511T221500Z
+DTEND:20260511T234500Z
+DESCRIPTION:Join us this Spring as we continue our journey through the his
+ tory of ancient philosophy by reading the Critias\, Plato's unfinished com
+ panion piece to the Timaeus.\n\nhttps://www.bklynlibrary.org/node/799877
+LOCATION:Central Library\, Reverend Elsie Smith Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260512T133000Z
+DTEND:20260512T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/816155
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
+DTSTART:20260512T140000Z
+DTEND:20260512T170000Z
+DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
+ //www.bklynlibrary.org/node/806714
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260512T160000Z
+DTEND:20260512T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822244
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260512T163000Z
+DTEND:20260512T180000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/821905
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
