@@ -11,17 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Read With Me: A Workshop Series for Nannies and Non-Parent Caregiv
- ers
-DTSTART:20260508T143000Z
-DTEND:20260508T153000Z
-DESCRIPTION:"Read With Me" is a four-part workshop series for nannies and 
- non-parent caregivers. Through modeling\, discussion\, and activities\, pa
- rticipants will learn best practices to build early literacy skills\n\nhtt
- ps://www.bklynlibrary.org/node/817930
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movie: The Road (2009)
 DTSTART:20260508T143000Z
 DTEND:20260508T162000Z
@@ -371,5 +360,15 @@ DTEND:20260512T180000Z
 DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
  rg/node/821905
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260512T180000Z
+DTEND:20260512T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/811959
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
