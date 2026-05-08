@@ -84,22 +84,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring Family Discovery Weekends
-DTSTART;VALUE=DATE:20260509T040000Z
-DTEND;VALUE=DATE:20260509T060000Z
-UID:Spring Family Discovery Weekends-2026-05-09 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
- e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
- 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
- d\, and marsh habitats and in the vegetable garden encourage families to e
- xplore nature together.Learn More›about Spring Family Discovery Weekends
- \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
- n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
- _54439412040.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Recorrido por lo más destacado de la temporada/Seasonal Highlight
  s Tour in Spanish
 DTSTART;VALUE=DATE:20260509T040000Z
@@ -132,21 +116,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Signature Plant Pickup
-DTSTART;VALUE=DATE:20260510T040000Z
-DTEND;VALUE=DATE:20260510T060000Z
-UID:Signature Plant Pickup-2026-05-10 04:00:00+00:00
-DESCRIPTION:Sunday\, May 10\, 2026 | 10 a.m.–1 p.m. & Tuesday\, May 12\
- , 2026 | 6–8:30 p.m.\n					\n\n\n					\n						\n							| Preregistratio
- n Required\n\nSignature Plants are a benefit of membership at the Contribu
- tor level and above.Learn More›about Signature Plant Pickup\n\nMore info
- :\nhttps://www.bbg.org/visit/event/signature_plants\n\n<img src="/img/uplo
- ads/manual/hero/_list_thumbnail_regular/signature-plants_MS_52084830726.jp
- g" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Weekends in Bloom: Sunday\, May 10
 DTSTART;VALUE=DATE:20260510T040000Z
 DTEND;VALUE=DATE:20260510T060000Z
@@ -158,6 +127,21 @@ DESCRIPTION:Sunday\, May 10\, 2026\n\nLearn and explore with hands-on natu
   in Bloom: Sunday\, May 10\n\nMore info:\nhttps://www.bbg.org/visit/event/
  weekends_in_bloom_2026-05-10\n\n<img src="/img/uploads/manual/hero/_list_t
  humbnail_regular/BombaYO-thumbnail.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Signature Plant Pickup
+DTSTART;VALUE=DATE:20260510T040000Z
+DTEND;VALUE=DATE:20260510T060000Z
+UID:Signature Plant Pickup-2026-05-10 04:00:00+00:00
+DESCRIPTION:Sunday\, May 10\, 2026 | 10 a.m.–1 p.m. & Tuesday\, May 12\
+ , 2026 | 6–8:30 p.m.\n					\n\n\n					\n						\n							| Preregistratio
+ n Required\n\nSignature Plants are a benefit of membership at the Contribu
+ tor level and above.Learn More›about Signature Plant Pickup\n\nMore info
+ :\nhttps://www.bbg.org/visit/event/signature_plants\n\n<img src="/img/uplo
+ ads/manual/hero/_list_thumbnail_regular/signature-plants_MS_52084830726.jp
+ g" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -606,21 +590,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Circle May Early-Morning Hours
-DTSTART;VALUE=DATE:20260523T040000Z
-DTEND;VALUE=DATE:20260523T060000Z
-UID:Garden Circle May Early-Morning Hours-2026-05-23 04:00:00+00:00
-DESCRIPTION:Saturday\, May 23 & Sunday\, May\, 24\, 2026 | 9–10 a.m.\n		
- 			\n\n\n					\n						\n							| Preregistration Required\n\nMembers of th
- e Garden Circle and higher levels can enjoy exclusive access to the Garden
-  from 9 to 10 a.m.Learn More›about Garden Circle May Early-Morning Hours
- \n\nMore info:\nhttps://www.bbg.org/visit/event/may_early_morning_hours\n\
- n<img src="/img/uploads/hero/_list_thumbnail_regular/peonies_14098414639.j
- pg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Walking Meditation: Follow the Artist
 DTSTART;VALUE=DATE:20260523T040000Z
 DTEND;VALUE=DATE:20260523T060000Z
@@ -632,6 +601,21 @@ DESCRIPTION:Saturday\, May 23\, 2026 | 9–10:15 a.m.\n					\n\n\n					\n
  o:\nhttps://www.bbg.org/classes/walking_meditation_follow_the_artist\n\n<i
  mg src="/img/uploads/hero/_list_thumbnail_regular/meditation_LL_5443923257
  9.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garden Circle May Early-Morning Hours
+DTSTART;VALUE=DATE:20260523T040000Z
+DTEND;VALUE=DATE:20260523T060000Z
+UID:Garden Circle May Early-Morning Hours-2026-05-23 04:00:00+00:00
+DESCRIPTION:Saturday\, May 23 & Sunday\, May\, 24\, 2026 | 9–10 a.m.\n		
+ 			\n\n\n					\n						\n							| Preregistration Required\n\nMembers of th
+ e Garden Circle and higher levels can enjoy exclusive access to the Garden
+  from 9 to 10 a.m.Learn More›about Garden Circle May Early-Morning Hours
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/may_early_morning_hours\n\
+ n<img src="/img/uploads/hero/_list_thumbnail_regular/peonies_14098414639.j
+ pg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
