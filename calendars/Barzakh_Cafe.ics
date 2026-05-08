@@ -11,41 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:The Jaguar Live
-DTSTART:20260508T010000Z
-DTEND:20260508T030000Z
-DTSTAMP:20260508T010000Z
-UID:The Jaguar Live
-DESCRIPTION:https://www.viewcy.com/event/the_jaguar_live\n<p><img alt="The
-  Jaguar Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
- sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
- ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
- c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Fr
- ails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0Y
- SI6MTU1Mzg4LCJwdXIiOiJibG9iX2lkIn19--7247c70c3d5e1609b3e2ab050a1de154e54e6
- 72e%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6
- WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2
- UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f
- 67c6ba5945%2FWhatsApp%2520Image%25202026-04-25%2520at%252011.17.26%2520PM.
- jpeg&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fwww.vie
- wcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbH
- MiOnsiZGF0YSI6MTU1Mzg4LCJwdXIiOiJibG9iX2lkIn19--7247c70c3d5e1609b3e2ab050a
- 1de154e54e672e%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfd
- G9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJ
- pbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d39
- 17f6864589f67c6ba5945%2FWhatsApp%2520Image%25202026-04-25%2520at%252011.17
- .26%2520PM.jpeg&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2F
- www.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJ
- fcmFpbHMiOnsiZGF0YSI6MTU1Mzg4LCJwdXIiOiJibG9iX2lkIn19--7247c70c3d5e1609b3e
- 2ab050a1de154e54e672e%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZX
- NpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHki
- Ojg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e
- 8be3d3917f6864589f67c6ba5945%2FWhatsApp%2520Image%25202026-04-25%2520at%25
- 2011.17.26%2520PM.jpeg&amp\;w=640&amp\;q=100 2x" style="color: transparent
- \;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:My Songs Are Fish I've Caught With Luck with Miriam El Hajli
 DTSTART:20260508T220000Z
 DTEND:20260509T000000Z
@@ -1024,6 +989,41 @@ DESCRIPTION:https://www.viewcy.com/event/indian_classical_raga_1\n<p><img
  LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3
  d3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" s
  tyle="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tribute Night to Egyptian Legend Mohamed Mounir
+DTSTART:20260606T220000Z
+DTEND:20260607T000000Z
+DTSTAMP:20260606T220000Z
+UID:Tribute Night to Egyptian Legend Mohamed Mounir
+DESCRIPTION:https://www.viewcy.com/event/tribute_night_to_egyp\n<p><img al
+ t="Tribute Night to Egyptian Legend Mohamed Mounir thumbnail" class="style
+ s_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWithFallback"
+  data-sentry-element="Image" data-sentry-source-file="index.tsx" decoding=
+ "async" height="186" loading="lazy" src="https://www.viewcy.com/_next/imag
+ e?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentati
+ ons%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTcxNjIyLCJwdXIiOiJibG9iX2lkIn19-
+ -b88e92f9d89c5774fd6e6254750f782d5b8650c7%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3
+ JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAi
+ OnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW
+ 9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FWhatsApp%2520Image%2520
+ 2026-05-07%2520at%252012.10.29%2520PM.jpeg&amp\;w=640&amp\;q=100" srcset="
+ /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Fr
+ epresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTcxNjIyLCJwdXIiOiJibG
+ 9iX2lkIn19--b88e92f9d89c5774fd6e6254750f782d5b8650c7%2FeyJfcmFpbHMiOnsiZGF
+ 0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiO
+ nsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjo
+ idmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FWhatsApp%252
+ 0Image%25202026-05-07%2520at%252012.10.29%2520PM.jpeg&amp\;w=384&amp\;q=10
+ 0 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_stor
+ age%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTcxNjIyLCJwdXI
+ iOiJibG9iX2lkIn19--b88e92f9d89c5774fd6e6254750f782d5b8650c7%2FeyJfcmFpbHMi
+ OnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2
+ F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwi
+ cHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FWhats
+ App%2520Image%25202026-05-07%2520at%252012.10.29%2520PM.jpeg&amp\;w=640&am
+ p\;q=100 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
