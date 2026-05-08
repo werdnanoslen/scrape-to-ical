@@ -541,6 +541,15 @@ LOCATION:Location: Museum of Reclaimed Urban Space\, 155 Loisaida Ave NY N
  Y 10009
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spirit Accumulation Aid with Cal Fish (part of RTRU*)
+DTSTART:20260514T220000Z
+DTEND:20260514T230000Z
+DTSTAMP:20260514T220000Z
+UID:event:5253:2026-05-14T18:00:00
+DESCRIPTION:https://cal.red/?event=5253\nCost: FREE
+LOCATION:74 15th St\, Gowanus\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Unnameable Greetings Readings SPRING 2026 Lineup
 DTSTART:20260514T230000Z
 DTEND:20260515T000000Z
@@ -749,6 +758,17 @@ DESCRIPTION:https://cal.red/?event=5194\nCost: FREE! Donations welcome!
 LOCATION:LES
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gaymes & Gab: A Board Game Fundraiser for Mutual Aid Sudan Coaliti
+ on
+DTSTART:20260517T193000Z
+DTEND:20260517T203000Z
+DTSTAMP:20260517T193000Z
+UID:event:5257:2026-05-17T15:30:00
+DESCRIPTION:https://cal.red/?event=5257\nCost: Sliding Scale ($10-$50 sugg
+ ested\, free tickets available)
+LOCATION:The Tiny Cupboard (Bushwick)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Verse4Verse: Drag + Poetry
 DTSTART:20260517T230000Z
 DTEND:20260518T000000Z
@@ -923,6 +943,15 @@ LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
  – outdoors in backyard!
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Aftertaste -- Fresh!
+DTSTART:20260521T230000Z
+DTEND:20260522T000000Z
+DTSTAMP:20260521T230000Z
+UID:event:5250:2026-05-21T19:00:00
+DESCRIPTION:https://cal.red/?event=5250\nCost: $70 - $85
+LOCATION:Bushwick\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
 DTSTART:20260523T000000Z
 DTEND:20260523T010000Z
@@ -1049,6 +1078,16 @@ LOCATION:Location: Museum of Reclaimed Urban Space\, 155 Loisaida Ave NY N
  Y 10009
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chinamaxxing in the Chinese Century: Sinophilia in Sinophobic Time
+ s
+DTSTART:20260528T220000Z
+DTEND:20260528T230000Z
+DTSTAMP:20260528T220000Z
+UID:event:5254:2026-05-28T18:00:00
+DESCRIPTION:https://cal.red/?event=5254\nCost: Free!
+LOCATION:Williamsburg Public Library (Auditorium)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Unplatform Creatives Workshop #6
 DTSTART:20260528T223000Z
 DTEND:20260528T233000Z
@@ -1084,6 +1123,16 @@ DTSTAMP:20260528T230000Z
 UID:event:4886:2026-05-28T19:00:00
 DESCRIPTION:https://cal.red/?event=4886\nPark Slope\nCost: Varies
 LOCATION:Poetry Society of America
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central American Counterpoetics Reading
+DTSTART:20260528T230000Z
+DTEND:20260529T000000Z
+DTSTAMP:20260528T230000Z
+UID:event:5255:2026-05-28T19:00:00
+DESCRIPTION:https://cal.red/?event=5255\nCost: Free (with Suggested Donati
+ on of 10$)
+LOCATION:Battery Park City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Record Shop May Events
@@ -1200,6 +1249,26 @@ DESCRIPTION:https://cal.red/?event=4796\nHell's Kitchen\nCost: PWYCA (sugg
 LOCATION:Prime Produce\, 424 W 54th St
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adam Manno: Live From Guachupita!
+DTSTART:20260604T230000Z
+DTEND:20260605T000000Z
+DTSTAMP:20260604T230000Z
+UID:event:5222:2026-06-04T19:00:00
+DESCRIPTION:https://cal.red/?event=5222\nCost: $15
+LOCATION:Life World in Bushwick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alexis Almeida\, Serena Solin\, James Loop\, and Eric Palgon read 
+ at the Record Shop
+DTSTART:20260604T230000Z
+DTEND:20260605T000000Z
+DTSTAMP:20260604T230000Z
+UID:event:5252:2026-06-04T19:00:00
+DESCRIPTION:https://cal.red/?event=5252\n360 Van Brunt St\nRed Hook\, Broo
+ klyn\nCost: Free
+LOCATION:Record Shop
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
 DTSTART:20260606T000000Z
 DTEND:20260606T010000Z
@@ -1207,6 +1276,16 @@ DTSTAMP:20260606T000000Z
 UID:event:5218:2026-06-05T20:00:00
 DESCRIPTION:https://cal.red/?event=5218\nCost: free
 LOCATION:10 Cooper St\, Brooklyn NY 11207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WTO/99 Documentary Film Screening & Discussion
+DTSTART:20260606T170000Z
+DTEND:20260606T180000Z
+DTSTAMP:20260606T170000Z
+UID:event:5256:2026-06-06T13:00:00
+DESCRIPTION:https://cal.red/?event=5256\nCost: Free
+LOCATION:Brooklyn Public Library - Park Slope Branch\, 431 Sixth Avenue @ 
+ Ninth Street. Park Slope\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TWC Book Club
