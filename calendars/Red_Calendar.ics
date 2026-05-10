@@ -350,6 +350,16 @@ LOCATION:@ recirculation (all ages)\, 876 riverside drive\, washington hei
  ghts\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Believer
+DTSTART:20260514T230000Z
+DTEND:20260515T000000Z
+DTSTAMP:20260514T230000Z
+UID:event:5267:2026-05-14T19:00:00
+DESCRIPTION:https://cal.red/?event=5267\nGreenpoint BK\n106 Calyer St\nCos
+ t: $15 presale $20 at the door
+LOCATION:Triskelion Arts
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pageant Spring '26
 DTSTART:20260515T000000Z
 DTEND:20260515T010000Z
@@ -749,6 +759,15 @@ DTSTAMP:20260521T230000Z
 UID:event:5260:2026-05-21T19:00:00
 DESCRIPTION:https://cal.red/?event=5260\nCost: $10
 LOCATION:Parkside Lounge 317 E Houston St\, lower east side
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:21st Century Princess by Jordan Baum
+DTSTART:20260521T233000Z
+DTEND:20260522T003000Z
+DTSTAMP:20260521T233000Z
+UID:event:5266:2026-05-21T19:30:00
+DESCRIPTION:https://cal.red/?event=5266\nCost: $25
+LOCATION:The Collapsable Hole\, 155 Bank St\, New York\, NY (West Village)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
