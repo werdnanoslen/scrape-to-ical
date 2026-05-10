@@ -990,6 +990,16 @@ DESCRIPTION:https://cal.red/?event=4697\nCost: Varies - see link
 LOCATION:Pageant
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Translations in Conversation w/ Emma Ramadan & Jonathan Woollen: D
+ iscussing Self-Worth & Superstars
+DTSTART:20260529T230000Z
+DTEND:20260530T000000Z
+DTSTAMP:20260529T230000Z
+UID:event:5268:2026-05-29T19:00:00
+DESCRIPTION:https://cal.red/?event=5268\nCost: $10.89
+LOCATION:Books Are Magic Montague in Brooklyn Heights
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pageant Spring '26
 DTSTART:20260530T000000Z
 DTEND:20260530T010000Z
