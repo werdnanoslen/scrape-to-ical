@@ -11,41 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Al-Bait Baitkom
-DTSTART:20260509T220000Z
-DTEND:20260510T000000Z
-DTSTAMP:20260509T220000Z
-UID:Al-Bait Baitkom
-DESCRIPTION:https://www.viewcy.com/event/albait_baitkom_2\n<p><img alt="Al
- -Bait Baitkom thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data
- -sentry-component="ImageWithFallback" data-sentry-element="Image" data-sen
- try-source-file="index.tsx" decoding="async" height="186" loading="lazy" s
- rc="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2F
- rails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0
- YSI6MTU2MDkyLCJwdXIiOiJibG9iX2lkIn19--e4ddc67d6a3c29092aa3b95ef5bd8b0f262d
- 2ea6%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI
- 6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY
- 2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589
- f67c6ba5945%2FWhatsApp%2520Image%25202026-04-26%2520at%25206.41.20%2520PM.
- jpeg&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fwww.vie
- wcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbH
- MiOnsiZGF0YSI6MTU2MDkyLCJwdXIiOiJibG9iX2lkIn19--e4ddc67d6a3c29092aa3b95ef5
- bd8b0f262d2ea6%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfd
- G9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJ
- pbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d39
- 17f6864589f67c6ba5945%2FWhatsApp%2520Image%25202026-04-26%2520at%25206.41.
- 20%2520PM.jpeg&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fw
- ww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJf
- cmFpbHMiOnsiZGF0YSI6MTU2MDkyLCJwdXIiOiJibG9iX2lkIn19--e4ddc67d6a3c29092aa3
- b95ef5bd8b0f262d2ea6%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXN
- pemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiO
- jg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8
- be3d3917f6864589f67c6ba5945%2FWhatsApp%2520Image%25202026-04-26%2520at%252
- 06.41.20%2520PM.jpeg&amp\;w=640&amp\;q=100 2x" style="color: transparent\;
- " width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Robi-Raagini (রবি-রাগিণী)
 DTSTART:20260510T000000Z
 DTEND:20260510T020000Z
