@@ -11,31 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260511T150000Z
-DTEND:20260511T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/819264
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260511T150000Z
-DTEND:20260511T170000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820311
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260511T150000Z
-DTEND:20260511T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/821078
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260511T150000Z
 DTEND:20260511T200000Z
@@ -52,14 +27,6 @@ DTEND:20260511T190000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/815553
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Discussion: Checkout 19
-DTSTART:20260511T160000Z
-DTEND:20260511T170000Z
-DESCRIPTION:Please join Park Slope Library for a Checkout 19 by Claire-Lo
- uise Bennett.\n\nhttps://www.bklynlibrary.org/node/820633
-LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Chair Yoga
@@ -367,5 +334,43 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
  ps://www.bklynlibrary.org/node/813989
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask‑A‑Tech: One-on-One Technology Help
+DTSTART:20260513T150000Z
+DTEND:20260513T160000Z
+DESCRIPTION:Need assistance using your laptop\, smartphone\, or tablet?Hav
+ e questions about Microsoft Word\, Excel\, PowerPoint\, or other computer 
+ programs?Visit the Pacific Branch at 11:00 AM for personalized\, one-o\n\n
+ https://www.bklynlibrary.org/node/824394
+LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sound Bath Meditation
+DTSTART:20260513T153000Z
+DTEND:20260513T160000Z
+DESCRIPTION:Join us for a relaxing Sound Bath Meditation\, led by Flutist 
+ Paul Wellington. Give yourself the space to breath\, relax\, and reconnect
+ .\n\nhttps://www.bklynlibrary.org/node/811135
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260513T153000Z
+DTEND:20260513T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/818665
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Embodying Resilience: Stress Management & Mindfulness
+DTSTART:20260513T160000Z
+DTEND:20260513T170000Z
+DESCRIPTION:Join Rooted in Radiance for this 6-part virtual series designe
+ d to equip you with practical\, mindful strategies to navigate stress\, em
+ body resilience\, and achieve sustainable well-being. It is structu\n\nhtt
+ ps://www.bklynlibrary.org/node/813101
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
