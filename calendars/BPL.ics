@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20260511T200000Z
-DTEND:20260511T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /803356
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20260511T200000Z
-DTEND:20260511T210000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/823875
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260511T203000Z
 DTEND:20260511T220000Z
@@ -36,15 +18,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8039
  94
 LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260511T203000Z
-DTEND:20260511T210000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/823993
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:FOSSS Guided Music Production Session: Beginner
@@ -56,14 +29,6 @@ DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
 LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20260511T213000Z
-DTEND:20260511T234500Z
-DESCRIPTION:BPLCENTRAL ADULT SERVICES/LANGUAGES & LITERATURE\n\nhttps://ww
- w.bklynlibrary.org/node/823570
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Making Music from Our Surroundings
 DTSTART:20260511T213000Z
 DTEND:20260511T233000Z
@@ -72,6 +37,14 @@ DESCRIPTION:How can we make music drawing inspiration from the sounds of o
  ing\, a text message\, a book\, ourselves\, or the world? What lies\n\nhtt
  ps://www.bklynlibrary.org/node/814415
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260511T213000Z
+DTEND:20260511T234500Z
+DESCRIPTION:BPLCENTRAL ADULT SERVICES/LANGUAGES & LITERATURE\n\nhttps://ww
+ w.bklynlibrary.org/node/823570
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free English Classes (We Speak NYC)
@@ -376,5 +349,32 @@ DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
  d then have the option to engage in conversation with other book love\n\nh
  ttps://www.bklynlibrary.org/node/808245
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biometrics & Cartoons: Brain Computing + Microcontrollers
+DTSTART:20260513T173000Z
+DTEND:20260513T193000Z
+DESCRIPTION:The Info Commons is hosting three in-person sessions of Biomet
+ rics & Cartoons\, a course on biometric devices + data and 3D animation to
+ ols taking place this spring at BPL\, NYU\, The Animation Project\,\n\nhtt
+ ps://www.bklynlibrary.org/node/808715
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20260513T180000Z
+DTEND:20260513T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818912
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260513T180000Z
+DTEND:20260513T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/822750
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
