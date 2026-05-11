@@ -29,24 +29,6 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Chair Yoga
-DTSTART:20260511T170000Z
-DTEND:20260511T180000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/815546
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20260511T170000Z
-DTEND:20260511T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/824255
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260511T180000Z
 DTEND:20260511T200000Z
@@ -371,6 +353,26 @@ DESCRIPTION:Join Rooted in Radiance for this 6-part virtual series designe
  d to equip you with practical\, mindful strategies to navigate stress\, em
  body resilience\, and achieve sustainable well-being. It is structu\n\nhtt
  ps://www.bklynlibrary.org/node/813101
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260513T160000Z
+DTEND:20260513T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822245
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
+  Markets
+DTSTART:20260513T170000Z
+DTEND:20260513T180000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/797675
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
