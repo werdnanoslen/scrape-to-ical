@@ -529,4 +529,32 @@ DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260527T040000Z
+DTEND;VALUE=DATE:20260527T060000Z
+UID:Spring First Discoveries-2026-05-27 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260527T040000Z
+DTEND;VALUE=DATE:20260527T060000Z
+UID:Members’ Summer Evenings-2026-05-27 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
 END:VCALENDAR
