@@ -20,14 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Hour
-DTSTART:20260512T163000Z
-DTEND:20260512T180000Z
-DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
- rg/node/821905
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resume Coaching
 DTSTART:20260512T180000Z
 DTEND:20260512T200000Z
@@ -378,5 +370,16 @@ DTEND:20260513T000000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/820155
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dimitry Elias Léger Discusses Death of the Soccer God with Edwidg
+ e Danticat
+DTSTART:20260513T230000Z
+DTEND:20260513T003000Z
+DESCRIPTION:BPL Presents welcomes Dimitry Elias Léger to discuss the sto
+ ry of a global soccer star’s epic ride to the 1950 World Cup that places
+  him in shooting distance of his dreams and his own death. Léger wil\n\n
+ https://www.bklynlibrary.org/node/813201
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
