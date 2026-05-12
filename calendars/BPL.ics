@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
-DTSTART:20260512T160000Z
-DTEND:20260512T230000Z
-DESCRIPTION:Register to make an appointment to receive free tax assistance
-  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
- /node/822244
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20260512T210000Z
-DTEND:20260512T223000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/799543
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ken Siegelman’s Brooklyn Poetry Outreach Featuring Zev Torres
 DTSTART:20260512T213000Z
 DTEND:20260512T233000Z
@@ -382,5 +363,23 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  44
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Total Body Fitness
+DTSTART:20260514T143000Z
+DTEND:20260514T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/815921
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:George Gershwin International Piano Competition Warm-Up Concert
+DTSTART:20260514T150000Z
+DTEND:20260514T170000Z
+DESCRIPTION:Join us for the warm up concert for participants in this year'
+ s George Gershwin International Music Competition and get a sneak preview 
+ of these talented pianists.\n\nhttps://www.bklynlibrary.org/node/824552
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
