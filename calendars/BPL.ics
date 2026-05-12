@@ -30,14 +30,6 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Housing Connect Help
-DTSTART:20260512T180000Z
-DTEND:20260512T190000Z
-DESCRIPTION:Helping people to create accounts and submit applications.\n\n
- https://www.bklynlibrary.org/node/817367
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online Intermediate English Class (We Speak NYC)
 DTSTART:20260512T180000Z
 DTEND:20260512T200000Z
@@ -45,16 +37,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820321
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260512T180000Z
-DTEND:20260512T190000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/821312
-LOCATION:Brooklyn Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater Workshop
@@ -381,5 +363,24 @@ DESCRIPTION:BPL Presents welcomes Dimitry Elias Léger to discuss the sto
   him in shooting distance of his dreams and his own death. Léger wil\n\n
  https://www.bklynlibrary.org/node/813201
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20260514T140000Z
+DTEND:20260514T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
+ 98
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20260514T140000Z
+DTEND:20260514T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/814912
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
