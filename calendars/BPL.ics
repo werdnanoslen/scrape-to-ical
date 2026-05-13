@@ -11,54 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Ken Siegelman’s Brooklyn Poetry Outreach Featuring Zev Torres
-DTSTART:20260512T213000Z
-DTEND:20260512T233000Z
-DESCRIPTION:Zev Torres’ poetry\, which has appeared in numerous print an
- d on-line publications including Maintenant 19\, Beacon Radiant\, NYC: F
- rom the Inside\, The Rainbow Project\, and First Literary Review - East\
- ,\n\nhttps://www.bklynlibrary.org/node/820836
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
-DTSTART:20260512T220000Z
-DTEND:20260512T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/811908
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260512T220000Z
-DTEND:20260512T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/819904
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plant Lecture and Gaming
-DTSTART:20260512T223000Z
-DTEND:20260512T233000Z
-DESCRIPTION:Patrick Austin from the Brooklyn Botanic Garden will discuss h
- ow animals and plants affect each other\, and a little bit about our local
-  NYC plants as well. After the lecture we will walk a few blocks\n\nhttps:
- //www.bklynlibrary.org/node/822648
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New York Times Opinion Writers on Public Health & the MAHA Movemen
- t
-DTSTART:20260512T230000Z
-DTEND:20260512T003000Z
-DESCRIPTION:BPL Presents welcomes The New York Times Opinion Desk back to 
- the library to discuss the “Make America Healthy Again” movement.\n\nh
- ttps://www.bklynlibrary.org/node/821230
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260513T140000Z
 DTEND:20260513T160000Z
@@ -381,5 +333,51 @@ DESCRIPTION:Join us for the warm up concert for participants in this year'
  s George Gershwin International Music Competition and get a sneak preview 
  of these talented pianists.\n\nhttps://www.bklynlibrary.org/node/824552
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:iPhone & Android Help
+DTSTART:20260514T180000Z
+DTEND:20260514T190000Z
+DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
+ e figure out something? The objective of this class is to tend to patrons'
+  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
+ ww.bklynlibrary.org/node/817369
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Plan to Plate: Restaurant Ready: Launch\, Operate\, and Thriv
+ e
+DTSTART:20260514T180000Z
+DTEND:20260514T190000Z
+DESCRIPTION:From business plan to opening night and beyond — get real-wo
+ rld knowledge to launch\, operate\, and grow a thriving restaurant.\n\nhtt
+ ps://www.bklynlibrary.org/node/819529
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260514T180000Z
+DTEND:20260514T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/822751
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260514T183000Z
+DTEND:20260514T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/822759
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Cookbook Club: Everything's Coming Up Rhubarb\, (and straw
+ berries\, and asparagus\, and snap peas...)
+DTSTART:20260514T190000Z
+DTEND:20260514T203000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/815006
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
