@@ -40,27 +40,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Women and Money: How to Make Sense of Today's Financial
-  Markets
-DTSTART:20260513T170000Z
-DTEND:20260513T180000Z
-DESCRIPTION:Learn all about today's financial markets from two women who 
- watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
- s they host The Women and Money Roundtable. This series is a virt\n\nhttps
- ://www.bklynlibrary.org/node/797675
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20260513T170000Z
-DTEND:20260513T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /820168
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring into Health Resource Fair
 DTSTART:20260513T170000Z
 DTEND:20260513T200000Z
@@ -89,15 +68,6 @@ DESCRIPTION:The Info Commons is hosting three in-person sessions of Biomet
  ols taking place this spring at BPL\, NYU\, The Animation Project\,\n\nhtt
  ps://www.bklynlibrary.org/node/808715
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260513T180000Z
-DTEND:20260513T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/822750
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Tech Help for Your Job Search
@@ -383,5 +353,33 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
  ynlibrary.org/node/821136
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New Nonfiction Panel w/ Alison Kinney\, Anjali Enjeti\, & Nicole W
+ alker in Conversation with Wendy Walters
+DTSTART:20260514T220000Z
+DTEND:20260514T230000Z
+DESCRIPTION:Join us for a triple book launch celebrating new nonfiction re
+ leases by Alison Kinney\, Anjali Enjeti\, & Nicole Walker\, with Wendy Wal
+ ters!\n\nhttps://www.bklynlibrary.org/node/820212
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art of Classics
+DTSTART:20260514T223000Z
+DTEND:20260514T233000Z
+DESCRIPTION:Please join us for The Art of Classics program\, on Thursday M
+ ay 14 at 6:30 PM - 7:30 PM\, in the Info Commons Room 7. We will discuss T
+ he Persians by Aeschylus. Complete online edition of the play can\n\nhttps
+ ://www.bklynlibrary.org/node/820602
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: One Battle After Another (2025)
+DTSTART:20260515T143000Z
+DTEND:20260515T171000Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
+ ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819946
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
