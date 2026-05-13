@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260513T140000Z
-DTEND:20260513T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/823072
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260513T160000Z
 DTEND:20260513T230000Z
@@ -28,42 +18,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822245
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260513T190000Z
-DTEND:20260513T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
- ne-on-one review of your resume or cover letter and get help with your que
- stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
- .org/node/804745
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260513T190000Z
-DTEND:20260513T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/821151
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260513T200000Z
-DTEND:20260513T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804525
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearing Series: Art of Listening
-DTSTART:20260513T200000Z
-DTEND:20260513T210000Z
-DESCRIPTION:Join us for a 3-part virtual series led by Dr. John Weigand fr
- om Liberty Hearing Centers. This series will educate the community about t
- he importance of hearing wellness and awareness.\n\nhttps://www.bklynlibra
- ry.org/node/820414
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -381,5 +335,53 @@ DESCRIPTION:This is a five-week course can help you learn how to manage d
  ard and a $50 gift card upon attending 4 classes minimum.\n\nhttps://www
  .bklynlibrary.org/node/818098
 LOCATION:Crown Heights\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketing Strategies for Your Business with Neuro-Marketing Concep
+ ts
+DTSTART:20260515T180000Z
+DTEND:20260515T193000Z
+DESCRIPTION:In this webinar\, SBA Economic Development Specialist Man-Li L
+ in will teach you how neuromarketing efforts can help inform creative adve
+ rtising\, product development\, pricing\, and other marketing areas.\n\nht
+ tps://www.bklynlibrary.org/node/820246
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accompany Capital: Programme d'Accès au Financement d'Entreprise
+DTSTART:20260515T193000Z
+DTEND:20260515T213000Z
+DESCRIPTION:Vous souhaitez démarrer ou développer votre petite entrepris
+ e à New York ? Rejoignez cette séance d'orientation pour découvrir le p
+ rogramme d'accès aux prêts commericaux d'Accompany Capital et le sout\n\
+ nhttps://www.bklynlibrary.org/node/816149
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260515T200000Z
+DTEND:20260515T213000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/807792
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260516T143000Z
+DTEND:20260516T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 14
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letter Writing Club
+DTSTART:20260516T150000Z
+DTEND:20260516T163000Z
+DESCRIPTION:WRITE A FRIEND. MAKE A FRIEND. UNPLUG. JOIN THE CLUB.\n\nhttps
+ ://www.bklynlibrary.org/node/821870
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
