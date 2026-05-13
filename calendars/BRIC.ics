@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:The Art of Video Editing
-DTSTART:20260512T150000Z
-DTEND:20260512T170000Z
-DTSTAMP:20260512T150000Z
-UID:The Art of Video Editing-2026-05-12T15:00:00+00:00
-DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/art-video-editing-on
- line-course/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
-DTSTART:20260512T220000Z
-DTEND:20260513T010000Z
-DTSTAMP:20260512T220000Z
-UID:TV Studio Intensive-2026-05-12T22:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Art A Catalyst for Change
 DTSTART:20260513T140000Z
 DTEND:20260513T180000Z
@@ -398,5 +378,45 @@ UID:Interviewing for Film &#038\; TV-2026-06-11T18:00:00+00:00
 DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/interviewing-for-f
  ilm-tv/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
 LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shoot Amazing B-ROLL 
+DTSTART:20260611T150000Z
+DTEND:20260611T170000Z
+DTSTAMP:20260611T150000Z
+UID:Shoot Amazing B-ROLL -2026-06-11T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/shoot-amazing-b-ro
+ ll/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art of Video Editing
+DTSTART:20260612T180000Z
+DTEND:20260612T200000Z
+DTSTAMP:20260612T180000Z
+UID:The Art of Video Editing-2026-06-12T18:00:00+00:00
+DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/art-video-editing-on
+ line-course/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio Podcasting
+DTSTART:20260612T170000Z
+DTEND:20260612T210000Z
+DTSTAMP:20260612T170000Z
+UID:Studio Podcasting-2026-06-12T17:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/studio-podcasting/\
+ nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Field Audio Equipment Certification
+DTSTART:20260612T220000Z
+DTEND:20260613T010000Z
+DTSTAMP:20260612T220000Z
+UID:Field Audio Equipment Certification-2026-06-12T22:00:00+00:00
+DESCRIPTION:Cost: 35\nhttps://bricartsmedia.org/class/field-audio-equipmen
+ t-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
