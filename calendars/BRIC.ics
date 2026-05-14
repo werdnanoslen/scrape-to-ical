@@ -190,6 +190,18 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-podcast-on-
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brooklyn Film Festival & BRIC: Opening Night
+DTSTART:20260529T230000Z
+DTEND:20260530T010000Z
+DTSTAMP:20260529T230000Z
+UID:Brooklyn Film Festival & BRIC: Opening Night-2026-05-29T23:00:00+00:00
+DESCRIPTION:Cost: 44.19\nhttps://bricartsmedia.org/event/brooklyn-film-fes
+ tival-bric-opening-night/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src
+ ="https://bricartsmedia.org/wp-content/uploads/2026/05/BFF-200x200.png" al
+ t="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pre-Production Essentials
 DTSTART:20260530T150000Z
 DTEND:20260530T170000Z
@@ -230,6 +242,28 @@ DESCRIPTION:Cost: 60\nhttps://bricartsmedia.org/class/photoshop-essentials
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rocket Girl by Agnes Swiercz
+DTSTART:20260601T220000Z
+DTEND:20260602T000000Z
+DTSTAMP:20260601T220000Z
+UID:Rocket Girl by Agnes Swiercz-2026-06-01T22:00:00+00:00
+DESCRIPTION:Cost: 28.37\nhttps://bricartsmedia.org/event/rocket-girl-by-ag
+ nes-swiercz/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bri
+ cartsmedia.org/wp-content/uploads/2026/05/BFF-200x200.png" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony Odyssey by Thales Banzai
+DTSTART:20260602T000000Z
+DTEND:20260602T020000Z
+DTSTAMP:20260602T000000Z
+UID:Tony Odyssey by Thales Banzai-2026-06-02T00:00:00+00:00
+DESCRIPTION:Cost: 28.37\nhttps://bricartsmedia.org/event/tony-odyssey-by-t
+ hales-banzai/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://br
+ icartsmedia.org/wp-content/uploads/2026/05/BFF-200x200.png" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lightroom Essentials
 DTSTART:20260602T180000Z
 DTEND:20260602T200000Z
@@ -247,6 +281,30 @@ DTSTAMP:20260602T210000Z
 UID:Orientation-2026-06-02T21:00:00+00:00
 DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/media-orientation/
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mechanics of Borders by Hubert Caron-Guay
+DTSTART:20260602T200000Z
+DTEND:20260602T220000Z
+DTSTAMP:20260602T200000Z
+UID:Mechanics of Borders by Hubert Caron-Guay-2026-06-02T20:00:00+00:00
+DESCRIPTION:Cost: 28.37\nhttps://bricartsmedia.org/event/mechanics-of-bord
+ ers-by-hubert-caron-guay/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src
+ ="https://bricartsmedia.org/wp-content/uploads/2026/05/BFF-200x200.png" al
+ t="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Attention Please by Sara Robin
+DTSTART:20260602T200000Z
+DTEND:20260602T220000Z
+DTSTAMP:20260602T200000Z
+UID:Your Attention Please by Sara Robin-2026-06-02T20:00:00+00:00
+DESCRIPTION:Cost: 28.37\nhttps://bricartsmedia.org/event/your-attention-pl
+ ease-by-sara-robin/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="http
+ s://bricartsmedia.org/wp-content/uploads/2026/05/BFF-200x200.png" alt="" /
+ >
+LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Street Photography
@@ -406,52 +464,5 @@ UID:Field Audio Equipment Certification-2026-06-12T22:00:00+00:00
 DESCRIPTION:Cost: 35\nhttps://bricartsmedia.org/class/field-audio-equipmen
  t-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20260613T170000Z
-DTEND:20260613T210000Z
-DTSTAMP:20260613T170000Z
-UID:Video Production in the Field-2026-06-13T17:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20260613T180000Z
-DTEND:20260613T210000Z
-DTSTAMP:20260613T180000Z
-UID:Mini Studio Production-2026-06-13T18:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
- ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRIC House Party presents\, Aaliyah Day
-DTSTART:20260614T010000Z
-DTEND:20260613T060000Z
-DTSTAMP:20260614T010000Z
-UID:BRIC House Party presents\, Aaliyah Day-2026-06-14T01:00:00+00:00
-DESCRIPTION:Cost: Starting at $17.82\nhttps://bricartsmedia.org/event/bric
- -house-party-presents-aaliyah-day/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\
- n<img src="https://bricartsmedia.org/wp-content/uploads/2026/01/Aaliyah-Da
- y-BRIC-e1777916079335-200x200.jpg" alt="" />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Family Day: Antibalas + KidsRead with Katie Yamasaki + DJ Marc Bar
- s
-DTSTART:20260613T190000Z
-DTEND:20260613T233000Z
-DTSTAMP:20260613T190000Z
-UID:Family Day: Antibalas + KidsRead with Katie Yamasaki + DJ Marc Bars-20
- 26-06-13T19:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bcb-family-day-ant
- ibalas-kidsread-with-katie-yamasaki-dj-marc-bars/\nhttps://goo.gl/maps/SYi
- FoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-content/uploads/202
- 6/04/Antibalas-Press-Photo-1-Photo-Credit-Siorne-John--200x200.jpg" alt=""
-  />
-LOCATION:Lena Horne Bandshell
 END:VEVENT
 END:VCALENDAR
