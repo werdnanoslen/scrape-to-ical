@@ -30,15 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:George Gershwin International Piano Competition Warm-Up Concert
-DTSTART:20260514T150000Z
-DTEND:20260514T170000Z
-DESCRIPTION:Join us for the warm up concert for participants in this year'
- s George Gershwin International Music Competition and get a sneak preview 
- of these talented pianists.\n\nhttps://www.bklynlibrary.org/node/824552
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:iPhone & Android Help
 DTSTART:20260514T180000Z
 DTEND:20260514T190000Z
@@ -386,5 +377,15 @@ DTEND:20260518T170000Z
 DESCRIPTION:The library offers free English classes for beginners learning
   English.\n\nhttps://www.bklynlibrary.org/node/821079
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260518T150000Z
+DTEND:20260518T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/823068
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
