@@ -30,33 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260514T140000Z
-DTEND:20260514T160000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820125
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20260514T143000Z
-DTEND:20260514T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 44
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260514T143000Z
-DTEND:20260514T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804499
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:George Gershwin International Piano Competition Warm-Up Concert
 DTSTART:20260514T150000Z
 DTEND:20260514T170000Z
@@ -388,5 +361,30 @@ DESCRIPTION:Orchestra of St. Luke's\, joined by baritone Joseph Parrish\,
   American composer\, and Antonín Dvořák\, the renowned Czech composer\n
  \nhttps://www.bklynlibrary.org/node/816661
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260518T150000Z
+DTEND:20260518T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/819265
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260518T150000Z
+DTEND:20260518T170000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820312
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260518T150000Z
+DTEND:20260518T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/821079
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
