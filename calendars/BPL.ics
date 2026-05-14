@@ -48,15 +48,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Total Body Fitness
-DTSTART:20260514T143000Z
-DTEND:20260514T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/815921
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20260514T143000Z
 DTEND:20260514T160000Z
@@ -386,5 +377,16 @@ DESCRIPTION:Young children are natural mathematicians and scientists—the
   world around them. This year’s Early Childhood Symposium invites educ\n
  \nhttps://www.bklynlibrary.org/node/816554
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orchestra of St. Luke's and Joseph Parrish: Finding an American Vo
+ ice: Burleigh and Dvořák
+DTSTART:20260517T200000Z
+DTEND:20260517T213000Z
+DESCRIPTION:Orchestra of St. Luke's\, joined by baritone Joseph Parrish\, 
+ celebrates the friendship between Harry T. Burleigh\, the pioneering Black
+  American composer\, and Antonín Dvořák\, the renowned Czech composer\n
+ \nhttps://www.bklynlibrary.org/node/816661
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
