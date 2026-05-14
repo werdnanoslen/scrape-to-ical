@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260514T140000Z
-DTEND:20260514T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7998
- 98
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20260514T140000Z
 DTEND:20260514T210000Z
@@ -28,35 +19,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
  e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
  lynlibrary.org/node/814912
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:iPhone & Android Help
-DTSTART:20260514T180000Z
-DTEND:20260514T190000Z
-DESCRIPTION:Anything grinding your gears about your cell phone? Can't quit
- e figure out something? The objective of this class is to tend to patrons'
-  questions & concerns about their iPhone/Android smartphones.\n\nhttps://w
- ww.bklynlibrary.org/node/817369
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Plan to Plate: Restaurant Ready: Launch\, Operate\, and Thriv
- e
-DTSTART:20260514T180000Z
-DTEND:20260514T190000Z
-DESCRIPTION:From business plan to opening night and beyond — get real-wo
- rld knowledge to launch\, operate\, and grow a thriving restaurant.\n\nhtt
- ps://www.bklynlibrary.org/node/819529
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260514T183000Z
-DTEND:20260514T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/822759
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Central Cookbook Club: Everything's Coming Up Rhubarb\, (and straw
@@ -386,5 +348,41 @@ DTEND:20260518T190000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/815554
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Yoga
+DTSTART:20260518T170000Z
+DTEND:20260518T180000Z
+DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
+ bklynlibrary.org/node/815547
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20260518T170000Z
+DTEND:20260518T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/824256
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260518T180000Z
+DTEND:20260518T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/804715
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260518T190000Z
+DTEND:20260518T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /803357
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
