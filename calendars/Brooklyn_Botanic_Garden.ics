@@ -117,21 +117,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All-Abilities Discovery Afternoon
-DTSTART;VALUE=DATE:20260516T040000Z
-DTEND;VALUE=DATE:20260516T060000Z
-UID:All-Abilities Discovery Afternoon-2026-05-16 04:00:00+00:00
-DESCRIPTION:Saturday\, May 16\, 2026 | 2–4 p.m. \n					\n\n\n					\n				
- 		\n							| Preregistration Required\n\nVisitors with disabilities and th
- eir families can explore and play in the Discovery Garden alongside traine
- d volunteer Discovery Docents.Learn More›about All-Abilities Discovery A
- fternoon\n\nMore info:\nhttps://www.bbg.org/visit/event/all_abilities_disc
- overy_afternoon\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/dis
- covery_garden_JW_54496635398.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring Family Discovery Weekends
 DTSTART;VALUE=DATE:20260517T040000Z
 DTEND;VALUE=DATE:20260517T060000Z
@@ -309,21 +294,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Circle May Early-Morning Hours
-DTSTART;VALUE=DATE:20260523T040000Z
-DTEND;VALUE=DATE:20260523T060000Z
-UID:Garden Circle May Early-Morning Hours-2026-05-23 04:00:00+00:00
-DESCRIPTION:Saturday\, May 23 & Sunday\, May\, 24\, 2026 | 9–10 a.m.\n		
- 			\n\n\n					\n						\n							| Preregistration Required\n\nMembers of th
- e Garden Circle and higher levels can enjoy exclusive access to the Garden
-  from 9 to 10 a.m.Learn More›about Garden Circle May Early-Morning Hours
- \n\nMore info:\nhttps://www.bbg.org/visit/event/may_early_morning_hours\n\
- n<img src="/img/uploads/hero/_list_thumbnail_regular/peonies_14098414639.j
- pg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Walking Meditation: Follow the Artist
 DTSTART;VALUE=DATE:20260523T040000Z
 DTEND;VALUE=DATE:20260523T060000Z
@@ -335,6 +305,21 @@ DESCRIPTION:Saturday\, May 23\, 2026 | 9–10:15 a.m.\n					\n\n\n					\n
  o:\nhttps://www.bbg.org/classes/walking_meditation_follow_the_artist\n\n<i
  mg src="/img/uploads/hero/_list_thumbnail_regular/meditation_LL_5443923257
  9.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garden Circle May Early-Morning Hours
+DTSTART;VALUE=DATE:20260523T040000Z
+DTEND;VALUE=DATE:20260523T060000Z
+UID:Garden Circle May Early-Morning Hours-2026-05-23 04:00:00+00:00
+DESCRIPTION:Saturday\, May 23 & Sunday\, May\, 24\, 2026 | 9–10 a.m.\n		
+ 			\n\n\n					\n						\n							| Preregistration Required\n\nMembers of th
+ e Garden Circle and higher levels can enjoy exclusive access to the Garden
+  from 9 to 10 a.m.Learn More›about Garden Circle May Early-Morning Hours
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/may_early_morning_hours\n\
+ n<img src="/img/uploads/hero/_list_thumbnail_regular/peonies_14098414639.j
+ pg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
