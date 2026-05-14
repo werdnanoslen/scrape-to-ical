@@ -11,52 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260513T220000Z
-DTEND:20260513T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 00
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260513T220000Z
-DTEND:20260513T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 25
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260513T220000Z
-DTEND:20260513T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820115
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Citizenship Class
-DTSTART:20260513T220000Z
-DTEND:20260513T000000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/820155
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dimitry Elias Léger Discusses Death of the Soccer God with Edwidg
- e Danticat
-DTSTART:20260513T230000Z
-DTEND:20260513T003000Z
-DESCRIPTION:BPL Presents welcomes Dimitry Elias Léger to discuss the sto
- ry of a global soccer star’s epic ride to the 1950 World Cup that places
-  him in shooting distance of his dreams and his own death. Léger wil\n\n
- https://www.bklynlibrary.org/node/813201
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20260514T140000Z
 DTEND:20260514T190000Z
@@ -382,5 +336,55 @@ DTEND:20260516T190000Z
 DESCRIPTION:Looking to change your name and/or gender marker on your NY ID
   but not sure where to start?\n\nhttps://www.bklynlibrary.org/node/805706
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260516T173000Z
+DTEND:20260516T193000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/819667
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
+DTSTART:20260516T183000Z
+DTEND:20260516T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing. 
+ Instructor Margot will be at this session. Please refer to her wit\n\nhttp
+ s://www.bklynlibrary.org/node/821126
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CyPurr Session: Communities Need Backup
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+DESCRIPTION:Don't let your community 404! Building a personal archive of y
+ our life online doesn't just help you regain control\, it preserves an imp
+ ortant snapshot for the history of everyday working people. We'll\n\nhttps
+ ://www.bklynlibrary.org/node/802401
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LevelUP Spring 2026 Technology Cohort Closing Ceremony
+DTSTART:20260516T200000Z
+DTEND:20260516T220000Z
+DESCRIPTION:Join us on Saturday\, May 16th from 4–6 PM in the Dweck Cent
+ er for the LevelUP Workforce Advancement Program’s Spring 2026 Technolog
+ y Cohort Closing Ceremony. During this special reception and graduati\n\nh
+ ttps://www.bklynlibrary.org/node/821067
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Childhood Symposium 2026: Wonder & Discovery! Early Math and
+  Science Through Play (CTLE-3)
+DTSTART:20260517T173000Z
+DTEND:20260517T210000Z
+DESCRIPTION:Young children are natural mathematicians and scientists—the
+ y sort\, compare\, measure\, question\, and experiment as they explore the
+  world around them. This year’s Early Childhood Symposium invites educ\n
+ \nhttps://www.bklynlibrary.org/node/816554
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
