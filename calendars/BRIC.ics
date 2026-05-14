@@ -295,18 +295,6 @@ DESCRIPTION:Cost: 28.37\nhttps://bricartsmedia.org/event/mechanics-of-bord
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Your Attention Please by Sara Robin
-DTSTART:20260602T200000Z
-DTEND:20260602T220000Z
-DTSTAMP:20260602T200000Z
-UID:Your Attention Please by Sara Robin-2026-06-02T20:00:00+00:00
-DESCRIPTION:Cost: 28.37\nhttps://bricartsmedia.org/event/your-attention-pl
- ease-by-sara-robin/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="http
- s://bricartsmedia.org/wp-content/uploads/2026/05/BFF-200x200.png" alt="" /
- >
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Street Photography
 DTSTART:20260603T180000Z
 DTEND:20260603T210000Z
@@ -463,6 +451,16 @@ DTSTAMP:20260612T220000Z
 UID:Field Audio Equipment Certification-2026-06-12T22:00:00+00:00
 DESCRIPTION:Cost: 35\nhttps://bricartsmedia.org/class/field-audio-equipmen
  t-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260613T170000Z
+DTEND:20260613T210000Z
+DTSTAMP:20260613T170000Z
+UID:Video Production in the Field-2026-06-13T17:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR

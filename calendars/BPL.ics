@@ -39,15 +39,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260514T143000Z
-DTEND:20260514T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804499
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group
 DTSTART:20260514T143000Z
 DTEND:20260514T160000Z
@@ -64,6 +55,15 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
  ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
  rary.org/node/815921
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260514T143000Z
+DTEND:20260514T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804499
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:George Gershwin International Piano Competition Warm-Up Concert
