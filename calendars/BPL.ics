@@ -21,23 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Central Cookbook Club: Everything's Coming Up Rhubarb\, (and straw
- berries\, and asparagus\, and snap peas...)
-DTSTART:20260514T190000Z
-DTEND:20260514T203000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/815006
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260514T190000Z
-DTEND:20260514T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816511
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba
 DTSTART:20260514T213000Z
 DTEND:20260514T223000Z
@@ -384,5 +367,24 @@ DTEND:20260518T210000Z
 DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
  /803357
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jigsaw Puzzle Hour
+DTSTART:20260518T190000Z
+DTEND:20260518T210000Z
+DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
+ variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
+ ://www.bklynlibrary.org/node/815709
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20260518T200000Z
+DTEND:20260518T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/823876
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
