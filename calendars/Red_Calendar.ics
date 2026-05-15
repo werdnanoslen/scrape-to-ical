@@ -553,6 +553,16 @@ DESCRIPTION:https://cal.red/?event=5303\n23 Marcus Garvey Blvd\nBrooklyn\,
 LOCATION:Brooklyn Peace Center - Bushwick
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Guest of Time: An Evening with Singer & Cellist Serena Jost + Ba
+ nd
+DTSTART:20260521T230000Z
+DTEND:20260522T000000Z
+DTSTAMP:20260521T230000Z
+UID:event:5309:2026-05-21T19:00:00
+DESCRIPTION:https://cal.red/?event=5309\nCost: 20
+LOCATION:Pangea 178 2nd Ave\, NYC\, 10003\, East Village
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:21st Century Princess by Jordan Baum
 DTSTART:20260521T233000Z
 DTEND:20260522T003000Z
