@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260515T170000Z
-DTEND:20260515T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 60
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260515T180000Z
-DTEND:20260515T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816536
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Diabetes Self-Management Education and Support Course
 DTSTART:20260515T180000Z
 DTEND:20260515T200000Z
@@ -47,17 +29,6 @@ DESCRIPTION:This is a five-week course can help you learn how to manage d
  ard and a $50 gift card upon attending 4 classes minimum.\n\nhttps://www
  .bklynlibrary.org/node/818098
 LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marketing Strategies for Your Business with Neuro-Marketing Concep
- ts
-DTSTART:20260515T180000Z
-DTEND:20260515T193000Z
-DESCRIPTION:In this webinar\, SBA Economic Development Specialist Man-Li L
- in will teach you how neuromarketing efforts can help inform creative adve
- rtising\, product development\, pricing\, and other marketing areas.\n\nht
- tps://www.bklynlibrary.org/node/820246
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Accompany Capital: Programme d'Accès au Financement d'Entreprise
@@ -374,5 +345,34 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/811960
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online Intermediate English Class (We Speak NYC)
+DTSTART:20260519T180000Z
+DTEND:20260519T200000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820322
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260519T180000Z
+DTEND:20260519T190000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/821313
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small Business Website Workday
+DTSTART:20260519T180000Z
+DTEND:20260519T200000Z
+DESCRIPTION:Join the Pace University SBDC and Brooklyn Public Library's B
+ usiness & Career Center for a no-cost\, two-hour\, IN-PERSON website ed
+ iting workshop at BPL's Business & Career Center\, 10 Grand Army Plaza\,\
+ n\nhttps://www.bklynlibrary.org/node/817754
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
