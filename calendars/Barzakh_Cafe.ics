@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Oud Night with Laith
-DTSTART:20260514T230000Z
-DTEND:20260515T010000Z
-DTSTAMP:20260514T230000Z
-UID:Oud Night with Laith
-DESCRIPTION:https://www.viewcy.com/event/oud_night_with_laith\n<p><img alt
- ="Oud Night with Laith thumbnail" class="styles_coverImg__PsR9G" data-nimg
- ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
-  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
- ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.view
- cy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHM
- iOnsiZGF0YSI6MTYzMjI0LCJwdXIiOiJibG9iX2lkIn19--82e6c637db1a7cd5146974aace7
- 6915417b6120e%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG
- 9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJp
- bnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d391
- 7f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="
- /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Fr
- epresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTYzMjI0LCJwdXIiOiJibG
- 9iX2lkIn19--82e6c637db1a7cd5146974aace76915417b6120e%2FeyJfcmFpbHMiOnsiZGF
- 0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiO
- nsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjo
- idmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Desi
- gns.png&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.view
- cy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHM
- iOnsiZGF0YSI6MTYzMjI0LCJwdXIiOiJibG9iX2lkIn19--82e6c637db1a7cd5146974aace7
- 6915417b6120e%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG
- 9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJp
- bnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d391
- 7f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style
- ="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring Musical Retreat
 DTSTART:20260515T190000Z
 DTEND:20260515T210000Z
