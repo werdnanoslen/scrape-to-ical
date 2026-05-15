@@ -11,30 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Editing Basics: Learn the Premiere Interface
-DTSTART:20260514T213000Z
-DTEND:20260514T233000Z
-DTSTAMP:20260514T213000Z
-UID:Editing Basics: Learn the Premiere Interface-2026-05-14T21:30:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/editing-basics-lea
- rn-the-premiere-interface/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Very Modern Classical Evening with Molière in the Park
-DTSTART:20260514T220000Z
-DTEND:20260515T000000Z
-DTSTAMP:20260514T220000Z
-UID:A Very Modern Classical Evening with Molière in the Park-2026-05-14T2
- 2:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/a-very-modern-clas
- sical-evening-with-moliere-in-the-park/\nhttps://goo.gl/maps/vX4YR8kcVXHmb
- BZJ6\n<img src="https://bricartsmedia.org/wp-content/uploads/2026/03/Dec-r
- eading-image-VERTICAL-1080-x-1080-px-2-Penelope-Gould-200x200.png" alt="" 
- />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mobile Phone Photography 
 DTSTART:20260516T150000Z
 DTEND:20260516T170000Z
@@ -464,5 +440,15 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bcb-family-day-ant
  6/04/Antibalas-Press-Photo-1-Photo-Credit-Siorne-John--200x200.jpg" alt=""
   />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260615T180000Z
+DTEND:20260615T210000Z
+DTSTAMP:20260615T180000Z
+UID:Video Production in the Field-2026-06-15T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
