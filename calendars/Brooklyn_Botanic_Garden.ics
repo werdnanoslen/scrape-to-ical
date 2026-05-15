@@ -26,36 +26,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:School Group Visits: Discovery Trail
-DTSTART;VALUE=DATE:20260514T040000Z
-DTEND;VALUE=DATE:20260514T060000Z
-UID:School Group Visits: Discovery Trail-2026-05-14 04:00:00+00:00
-DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
- ne 11\, 2026 (except June 4) \n					\n\n\n					\n						\n							| Preregi
- stration Required\n\nUse real science tools as you explore plants alongsid
- e Discovery Docents at our hands-on activity stations throughout the Disco
- very Garden.Learn More›about School Group Visits: Discovery Trail\n\nMor
- e info:\nhttps://www.bbg.org/visit/event/school_group_visits_discovery_tra
- il\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/discovery
- -cart_BB_42604393462-1120.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260514T040000Z
-DTEND;VALUE=DATE:20260514T060000Z
-UID:Seasonal Highlights Tour-2026-05-14 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
- scover spring blooms and other highlights of the season in this free walk 
- led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
- \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
- <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
- 09309673.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring First Discoveries
 DTSTART;VALUE=DATE:20260515T040000Z
 DTEND;VALUE=DATE:20260515T060000Z
@@ -485,6 +455,51 @@ DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
  re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
  it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
  regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Family Discovery Weekends
+DTSTART;VALUE=DATE:20260530T040000Z
+DTEND;VALUE=DATE:20260530T060000Z
+UID:Spring Family Discovery Weekends-2026-05-30 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
+ e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
+ 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
+ d\, and marsh habitats and in the vegetable garden encourage families to e
+ xplore nature together.Learn More›about Spring Family Discovery Weekends
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
+ n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
+ _54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shinnecock Oral History Plant Tour
+DTSTART;VALUE=DATE:20260530T040000Z
+DTEND;VALUE=DATE:20260530T060000Z
+UID:Shinnecock Oral History Plant Tour-2026-05-30 04:00:00+00:00
+DESCRIPTION:May 30\, September 19\, October 10\, 2026 | 11 a.m.–12 p.m.\
+ n\nJoin Chenae Bullock\, a member of the Shinnecock Nation\, for a Native 
+ Flora Garden tour and talk based on Indigenous traditional ecological know
+ ledge.Learn More›about Shinnecock Oral History Plant Tour\n\nMore info:\
+ nhttps://www.bbg.org/visit/event/shinnecock_plant_oral_history_tour\n\n<im
+ g src="/img/uploads/hero/_list_thumbnail_regular/fall-visitors_MS_52456603
+ 611.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chinese Brush Painting
+DTSTART;VALUE=DATE:20260530T040000Z
+DTEND;VALUE=DATE:20260530T060000Z
+UID:Chinese Brush Painting-2026-05-30 04:00:00+00:00
+DESCRIPTION:5 Saturdays: May 30–June 27\, 2026 | 1:30–3:30 p.m.\n					
+ \n\n\n					\n						| Waitlist Only\n\nLearn to paint in the Chinese style 
+ using a bamboo brush\, ink\, and rice paper.Learn More›about Chinese Bru
+ sh Painting\n\nMore info:\nhttps://www.bbg.org/classes/chinese_brush_paint
+ ing\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/19SAEARTCBP.jpe
+ g" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
