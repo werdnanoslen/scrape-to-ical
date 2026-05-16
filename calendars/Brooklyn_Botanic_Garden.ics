@@ -26,35 +26,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring First Discoveries
-DTSTART;VALUE=DATE:20260515T040000Z
-DTEND;VALUE=DATE:20260515T060000Z
-UID:Spring First Discoveries-2026-05-15 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
- ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
- \, create a craft\, read a story\, and use your senses to explore nature a
- t activity stations designed for early learners up to 4 years old.Learn Mo
- re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
- it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
- regular/spring-first-discoveries_MS_52848428797.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260515T040000Z
-DTEND;VALUE=DATE:20260515T060000Z
-UID:Seasonal Highlights Tour-2026-05-15 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, March 17–May 24\, 2026 | 1–2 p.m.\n\nDi
- scover spring blooms and other highlights of the season in this free walk 
- led by trained Garden Guides.Learn More›about Seasonal Highlights Tour\n
- \nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tour\n\n
- <img src="/img/uploads/hero/_list_thumbnail_regular/highlights-tour_BB_342
- 09309673.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Recorrido por lo más destacado de la temporada/Seasonal Highlight
  s Tour in Spanish
 DTSTART;VALUE=DATE:20260516T040000Z
@@ -264,21 +235,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Walking Meditation: Follow the Artist
-DTSTART;VALUE=DATE:20260523T040000Z
-DTEND;VALUE=DATE:20260523T060000Z
-UID:Walking Meditation: Follow the Artist-2026-05-23 04:00:00+00:00
-DESCRIPTION:Saturday\, May 23\, 2026 | 9–10:15 a.m.\n					\n\n\n					\n	
- 					\n							| Preregistration Required\n\nJoin this class to practice wa
- lking meditation and experience the natural world through the eyes of the 
- artistLearn More›about Walking Meditation: Follow the Artist\n\nMore inf
- o:\nhttps://www.bbg.org/classes/walking_meditation_follow_the_artist\n\n<i
- mg src="/img/uploads/hero/_list_thumbnail_regular/meditation_LL_5443923257
- 9.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Garden Circle May Early-Morning Hours
 DTSTART;VALUE=DATE:20260523T040000Z
 DTEND;VALUE=DATE:20260523T060000Z
@@ -290,6 +246,21 @@ DESCRIPTION:Saturday\, May 23 & Sunday\, May\, 24\, 2026 | 9–10 a.m.\n
  \n\nMore info:\nhttps://www.bbg.org/visit/event/may_early_morning_hours\n\
  n<img src="/img/uploads/hero/_list_thumbnail_regular/peonies_14098414639.j
  pg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Walking Meditation: Follow the Artist
+DTSTART;VALUE=DATE:20260523T040000Z
+DTEND;VALUE=DATE:20260523T060000Z
+UID:Walking Meditation: Follow the Artist-2026-05-23 04:00:00+00:00
+DESCRIPTION:Saturday\, May 23\, 2026 | 9–10:15 a.m.\n					\n\n\n					\n	
+ 					\n							| Preregistration Required\n\nJoin this class to practice wa
+ lking meditation and experience the natural world through the eyes of the 
+ artistLearn More›about Walking Meditation: Follow the Artist\n\nMore inf
+ o:\nhttps://www.bbg.org/classes/walking_meditation_follow_the_artist\n\n<i
+ mg src="/img/uploads/hero/_list_thumbnail_regular/meditation_LL_5443923257
+ 9.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -500,6 +471,37 @@ DESCRIPTION:5 Saturdays: May 30–June 27\, 2026 | 1:30–3:30 p.m.\n
  sh Painting\n\nMore info:\nhttps://www.bbg.org/classes/chinese_brush_paint
  ing\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/19SAEARTCBP.jpe
  g" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Family Discovery Weekends
+DTSTART;VALUE=DATE:20260531T040000Z
+DTEND;VALUE=DATE:20260531T060000Z
+UID:Spring Family Discovery Weekends-2026-05-31 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
+ e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
+ 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
+ d\, and marsh habitats and in the vegetable garden encourage families to e
+ xplore nature together.Learn More›about Spring Family Discovery Weekends
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
+ n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
+ _54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Family Story Time
+DTSTART;VALUE=DATE:20260531T040000Z
+DTEND;VALUE=DATE:20260531T060000Z
+UID:Spring Family Story Time-2026-05-31 04:00:00+00:00
+DESCRIPTION:Saturdays\, April 25\, June 6\; Sundays\, May 10\, 17\, 31\, 2
+ 026 | 11 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nR
+ ead garden-inspired stories alongside BBG volunteers. Drop in anytime duri
+ ng program hours to join in.Learn More›about Spring Family Story Time\n\
+ nMore info:\nhttps://www.bbg.org/visit/event/family_storytime\n\n<img src=
+ "/img/uploads/manual/hero/_list_thumbnail_regular/storytime-custom-MS-4900
+ 1587152.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
