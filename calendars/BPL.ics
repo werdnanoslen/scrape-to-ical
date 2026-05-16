@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260516T173000Z
-DTEND:20260516T193000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/819667
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
 DTSTART:20260516T183000Z
 DTEND:20260516T203000Z
@@ -375,5 +366,14 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/819905
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Book Club: Never Let Me Go by Kazuo Ishiguro
+DTSTART:20260519T223000Z
+DTEND:20260519T233000Z
+DESCRIPTION:Join us this month to discuss Never Let Me Go by Nobel Prize i
+ n Literature winner Kazuo Ishiguro.\n\nhttps://www.bklynlibrary.org/node/8
+ 17685
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
