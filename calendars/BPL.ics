@@ -11,31 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260518T150000Z
-DTEND:20260518T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/819265
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260518T150000Z
-DTEND:20260518T170000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820312
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260518T150000Z
-DTEND:20260518T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/821079
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260518T150000Z
 DTEND:20260518T200000Z
@@ -367,5 +342,33 @@ DTEND:20260520T153000Z
 DESCRIPTION:Beginners in Hebrew! Come join us to practice basic Hebrew\n\n
  https://www.bklynlibrary.org/node/823813
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260520T150000Z
+DTEND:20260520T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library (2
+ nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
+ ps://www.bklynlibrary.org/node/813990
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260520T153000Z
+DTEND:20260520T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/818666
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260520T160000Z
+DTEND:20260520T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822247
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
