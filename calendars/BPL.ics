@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20260518T153000Z
-DTEND:20260518T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/815554
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260518T180000Z
 DTEND:20260518T200000Z
@@ -372,5 +364,13 @@ DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
  to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
  ps://www.bklynlibrary.org/node/820598
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20260520T180000Z
+DTEND:20260520T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818913
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
