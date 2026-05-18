@@ -232,15 +232,6 @@ LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
  – outdoors in backyard!
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Aftertaste -- Fresh!
-DTSTART:20260521T230000Z
-DTEND:20260522T000000Z
-DTSTAMP:20260521T230000Z
-UID:event:5250:2026-05-21T19:00:00
-DESCRIPTION:https://cal.red/?event=5250\nCost: $70 - $85
-LOCATION:Bushwick\, Brooklyn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sexy Loving Original People (SLOP) Salon
 DTSTART:20260521T230000Z
 DTEND:20260522T000000Z
@@ -438,6 +429,16 @@ DESCRIPTION:https://cal.red/?event=5306\nhttps://www.theatrium.space/thesp
  ace\nCost: $15 - 30\, sliding scale
 LOCATION:The Atrium Space\, 15-19 Decatur St\, Ste 203\, Ridgewood\, NY 11
  385
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paid Protest at Stonewall Inn
+DTSTART:20260524T220000Z
+DTEND:20260524T230000Z
+DTSTAMP:20260524T220000Z
+UID:event:5333:2026-05-24T18:00:00
+DESCRIPTION:https://cal.red/?event=5333\n53 Christopher St\, New York\, NY
+  10014\, USA\nGreenwich Village/West Village\nCost: $15
+LOCATION:Stonewall Inn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Naked Queers Reading
@@ -787,6 +788,17 @@ DTSTAMP:20260531T233000Z
 UID:event:5264:2026-05-31T19:30:00
 DESCRIPTION:https://cal.red/?event=5264\nCost: $15
 LOCATION:Parkside Lounge\, 317 E Houston St
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Terrazzo\, The Projections\, Seraphine’s Cleaver\, Ivy Otto @ Bo
+ wery Palace
+DTSTART:20260601T000000Z
+DTEND:20260601T010000Z
+DTSTAMP:20260601T000000Z
+UID:event:5332:2026-05-31T20:00:00
+DESCRIPTION:https://cal.red/?event=5332\n327 Bowery\, New York\, NY 10003\
+ nBowery\nCost: $10
+LOCATION:Bowery Palace
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:*()*()*()*()*()*()*()*()*()*()*

@@ -29,24 +29,6 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chair Yoga
-DTSTART:20260518T170000Z
-DTEND:20260518T180000Z
-DESCRIPTION:Join us for Chair Yoga + Mindfulness with Meg!\n\nhttps://www.
- bklynlibrary.org/node/815547
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20260518T170000Z
-DTEND:20260518T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/824256
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260518T180000Z
 DTEND:20260518T200000Z
@@ -370,5 +352,25 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822247
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20260520T170000Z
+DTEND:20260520T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /820169
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Skills & AI Literacy: Info Session
+DTSTART:20260520T170000Z
+DTEND:20260520T183000Z
+DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
+ cess to Google Career Certificates- online\, self-paced programs designed 
+ to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
+ ps://www.bklynlibrary.org/node/820598
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR

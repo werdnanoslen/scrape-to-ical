@@ -888,4 +888,37 @@ DESCRIPTION:https://www.viewcy.com/event/dawoud_the_renegade_s\n<p><img al
  </p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Night of Umm Kulthum Tarab
+DTSTART:20260705T190000Z
+DTEND:20260705T210000Z
+DTSTAMP:20260705T190000Z
+UID:A Night of Umm Kulthum Tarab
+DESCRIPTION:https://www.viewcy.com/event/a_night_of_umm_kulthu_1\n<p><img 
+ alt="A Night of Umm Kulthum Tarab thumbnail" class="styles_coverImg__PsR9G
+ " data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry-elem
+ ent="Image" data-sentry-source-file="index.tsx" decoding="async" height="1
+ 86" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F
+ %2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2F
+ eyJfcmFpbHMiOnsiZGF0YSI6MTc4NjQyLCJwdXIiOiJibG9iX2lkIn19--b223613fc548218d
+ dcfd8f76b0b2167d93219bff%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJ
+ yZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpd
+ HkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c
+ 23e8be3d3917f6864589f67c6ba5945%2Fumm%2520kulthum.png&amp\;w=640&amp\;q=10
+ 0" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_
+ storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc4NjQyLCJ
+ wdXIiOiJibG9iX2lkIn19--b223613fc548218ddcfd8f76b0b2167d93219bff%2FeyJfcmFp
+ bHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXS
+ wic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9
+ fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2Fu
+ mm%2520kulthum.png&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F
+ %2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2F
+ eyJfcmFpbHMiOnsiZGF0YSI6MTc4NjQyLCJwdXIiOiJibG9iX2lkIn19--b223613fc548218d
+ dcfd8f76b0b2167d93219bff%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJ
+ yZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpd
+ HkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c
+ 23e8be3d3917f6864589f67c6ba5945%2Fumm%2520kulthum.png&amp\;w=640&amp\;q=10
+ 0 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
 END:VCALENDAR
