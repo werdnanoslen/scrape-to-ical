@@ -34,14 +34,6 @@ DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/813949
 LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Learn & Play Mahjong
-DTSTART:20260518T220000Z
-DTEND:20260518T233000Z
-DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/815
- 136
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Comienza Tu Negocio (Curso en línea)
 DTSTART:20260518T220000Z
 DTEND:20260518T000000Z
@@ -50,6 +42,14 @@ DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
  pósito aprender cómo estructurar su negocio para que este sea exitoso\, 
  d\n\nhttps://www.bklynlibrary.org/node/822322
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn & Play Mahjong
+DTSTART:20260518T220000Z
+DTEND:20260518T233000Z
+DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/815
+ 136
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class
