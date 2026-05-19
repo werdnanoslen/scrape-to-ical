@@ -158,21 +158,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Circle May Early-Morning Hours
-DTSTART;VALUE=DATE:20260523T040000Z
-DTEND;VALUE=DATE:20260523T060000Z
-UID:Garden Circle May Early-Morning Hours-2026-05-23 04:00:00+00:00
-DESCRIPTION:Saturday\, May 23 & Sunday\, May\, 24\, 2026 | 9–10 a.m.\n		
- 			\n\n\n					\n						\n							| Preregistration Required\n\nMembers of th
- e Garden Circle and higher levels can enjoy exclusive access to the Garden
-  from 9 to 10 a.m.Learn More›about Garden Circle May Early-Morning Hours
- \n\nMore info:\nhttps://www.bbg.org/visit/event/may_early_morning_hours\n\
- n<img src="/img/uploads/hero/_list_thumbnail_regular/peonies_14098414639.j
- pg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Walking Meditation: Follow the Artist
 DTSTART;VALUE=DATE:20260523T040000Z
 DTEND;VALUE=DATE:20260523T060000Z
@@ -184,6 +169,21 @@ DESCRIPTION:Saturday\, May 23\, 2026 | 9–10:15 a.m.\n					\n\n\n					\n
  o:\nhttps://www.bbg.org/classes/walking_meditation_follow_the_artist\n\n<i
  mg src="/img/uploads/hero/_list_thumbnail_regular/meditation_LL_5443923257
  9.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garden Circle May Early-Morning Hours
+DTSTART;VALUE=DATE:20260523T040000Z
+DTEND;VALUE=DATE:20260523T060000Z
+UID:Garden Circle May Early-Morning Hours-2026-05-23 04:00:00+00:00
+DESCRIPTION:Saturday\, May 23 & Sunday\, May\, 24\, 2026 | 9–10 a.m.\n		
+ 			\n\n\n					\n						\n							| Preregistration Required\n\nMembers of th
+ e Garden Circle and higher levels can enjoy exclusive access to the Garden
+  from 9 to 10 a.m.Learn More›about Garden Circle May Early-Morning Hours
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/may_early_morning_hours\n\
+ n<img src="/img/uploads/hero/_list_thumbnail_regular/peonies_14098414639.j
+ pg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -469,6 +469,49 @@ DESCRIPTION:Tuesday\, June 2\, 2026 | 9–11:30 p.m.\n					\n\n\n					\n
  ce party under the stars.Learn More›about After Party 2026\n\nMore info:
  \nhttps://www.bbg.org/visit/event/gala_after_party\n\n<img src="/img/uploa
  ds/hero/_list_thumbnail_regular/after_party-WR-53863955288.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbaceous Landscape Plant ID
+DTSTART;VALUE=DATE:20260603T040000Z
+DTEND;VALUE=DATE:20260603T060000Z
+UID:Herbaceous Landscape Plant ID-2026-06-03 04:00:00+00:00
+DESCRIPTION:6 weekly sessions beginning Wednesday\, June 3\; Tuesday\, Ju
+ ly 7\; Thursday\, August 6\; or Wednesday\, August 12\, 2026\n					\n\
+ n\n					\n						| Waitlist Only\n\nThe class will identify and view plant 
+ characteristics during sessions on BBG grounds.Learn More›about Herbaceo
+ us Landscape Plant ID\n\nMore info:\nhttps://www.bbg.org/classes/herbaceou
+ s_landscape_plant_id\n\n<img src="/img/uploads/hero/_list_thumbnail_regula
+ r/cornflower-centaura-cyanus_MS_52203502814_hero.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260603T040000Z
+DTEND;VALUE=DATE:20260603T060000Z
+UID:Spring First Discoveries-2026-06-03 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/JW_00154-2800x1200-c.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260603T040000Z
+DTEND;VALUE=DATE:20260603T060000Z
+UID:Members’ Summer Evenings-2026-06-03 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
