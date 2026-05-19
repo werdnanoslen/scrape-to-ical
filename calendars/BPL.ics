@@ -11,47 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:FOSSS Music Production Open Workshop: Vocal Production
-DTSTART:20260518T213000Z
-DTEND:20260518T233000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/780420
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260518T214500Z
-DTEND:20260518T234500Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820962
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Book Talk with John Kiriakou\, Former CIA Officer
-DTSTART:20260518T220000Z
-DTEND:20260518T000000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/813949
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comienza Tu Negocio (Curso en línea)
-DTSTART:20260518T220000Z
-DTEND:20260518T000000Z
-DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
- ” de 5 sesiones!Este curso online gratuito y en español tiene como pro
- pósito aprender cómo estructurar su negocio para que este sea exitoso\, 
- d\n\nhttps://www.bklynlibrary.org/node/822322
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Learn & Play Mahjong
-DTSTART:20260518T220000Z
-DTEND:20260518T233000Z
-DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/815
- 136
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260519T133000Z
 DTEND:20260519T163000Z
@@ -371,5 +330,51 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  26
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260520T220000Z
+DTEND:20260520T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820116
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Citizenship Class
+DTSTART:20260520T220000Z
+DTEND:20260520T000000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/820156
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYS MWBE Program & Certification Workshop
+DTSTART:20260520T223000Z
+DTEND:20260520T000000Z
+DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
+ library.org/node/805739
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dr. Ilyasah Shabazz Discusses Malcolm in the Desert\, with Nikole 
+ Hannah-Jones
+DTSTART:20260520T230000Z
+DTEND:20260520T003000Z
+DESCRIPTION:BPL Presents welcomes Dr. Ilyasah Shabazz\, NAACP Image Award 
+ Winner\, who offers an extraordinary new perspective on her father’s liv
+ ing inheritance.\n\nhttps://www.bklynlibrary.org/node/816454
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Early Childhood Symposium 2026: 6 × 7 = Yikes! Overcoming Our Own
+  Math Anxiety to Teach Young Children (CTLE-1.5)
+DTSTART:20260520T230000Z
+DTEND:20260520T003000Z
+DESCRIPTION:It’s a common tale—early childhood practitioners carry mat
+ h anxiety from their own school experiences\, and it can quietly shape how
+  we talk about (or avoid) math with young children. In this engaging\n\nht
+ tps://www.bklynlibrary.org/node/817780
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
