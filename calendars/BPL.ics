@@ -20,22 +20,14 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260519T190000Z
-DTEND:20260519T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/80337
- 7
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Crafting Circle
-DTSTART:20260519T200000Z
-DTEND:20260519T210000Z
-DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
- Join our virtual crafting circle! Every 2nd and 4th Tuesday of the month\,
-  get together with fellow crafters to chat and discuss what you'r\n\nhttps
- ://www.bklynlibrary.org/node/801591
-LOCATION:Virtual
+SUMMARY:CANCELLED: Slip Stitch Knitting & Crocheting Group
+DTSTART:20260519T210000Z
+DTEND:20260519T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/799544
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
@@ -45,16 +37,6 @@ DESCRIPTION:Looking to share your current knitting project with others? Co
  me join like-minded folks on their yarn journey in the Info Commons. Brin
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
  s://www.bklynlibrary.org/node/825093
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Slip Stitch Knitting & Crocheting Group
-DTSTART:20260519T210000Z
-DTEND:20260519T223000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/799544
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
@@ -376,5 +358,24 @@ DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
  ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
  rary.org/node/815922
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260521T180000Z
+DTEND:20260521T190000Z
+DESCRIPTION:Need help navigating one of your tech devices? Come join us an
+ d ask a variety of tech questions about your tech devices.\n\nhttps://www.
+ bklynlibrary.org/node/817368
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Job Ready! Resume and Cover Letter Workshop
+DTSTART:20260521T180000Z
+DTEND:20260521T193000Z
+DESCRIPTION:Join this Career Computer Lab to update and refine your resume
+  or cover letter. Learn document best practices\, explore examples\, compa
+ re templates and more. Please note: we are unable to write or type\n\nhttp
+ s://www.bklynlibrary.org/node/820065
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
