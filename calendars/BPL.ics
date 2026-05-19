@@ -49,16 +49,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260519T180000Z
-DTEND:20260519T190000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/821313
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20260519T190000Z
 DTEND:20260519T210000Z
@@ -378,5 +368,15 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820126
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:VFW Veterans Resource Tabling at Central Library
+DTSTART:20260521T140000Z
+DTEND:20260521T190000Z
+DESCRIPTION:Veterans\, service members\, and their families are invited to
+  stop by Central Library every third Thursday to connect with representati
+ ves from the Veterans of Foreign Wars (VFW).\n\nhttps://www.bklynlibrary.o
+ rg/node/821266
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
