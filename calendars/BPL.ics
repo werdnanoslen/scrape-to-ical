@@ -20,35 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260519T180000Z
-DTEND:20260519T200000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/811960
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Small Business Website Workday
-DTSTART:20260519T180000Z
-DTEND:20260519T200000Z
-DESCRIPTION:Join the Pace University SBDC and Brooklyn Public Library's B
- usiness & Career Center for a no-cost\, two-hour\, IN-PERSON website ed
- iting workshop at BPL's Business & Career Center\, 10 Grand Army Plaza\,\
- n\nhttps://www.bklynlibrary.org/node/817754
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online Intermediate English Class (We Speak NYC)
-DTSTART:20260519T180000Z
-DTEND:20260519T200000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820322
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20260519T190000Z
 DTEND:20260519T210000Z
@@ -73,17 +44,17 @@ DTEND:20260519T223000Z
 DESCRIPTION:Looking to share your current knitting project with others? Co
  me join like-minded folks on their yarn journey in the Info Commons. Brin
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/799544
+ s://www.bklynlibrary.org/node/825093
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
+SUMMARY:CANCELLED: Slip Stitch Knitting & Crocheting Group
 DTSTART:20260519T210000Z
 DTEND:20260519T223000Z
 DESCRIPTION:Looking to share your current knitting project with others? Co
  me join like-minded folks on their yarn journey in the Info Commons. Brin
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/825093
+ s://www.bklynlibrary.org/node/799544
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
@@ -378,5 +349,32 @@ DESCRIPTION:Veterans\, service members\, and their families are invited to
  ves from the Veterans of Foreign Wars (VFW).\n\nhttps://www.bklynlibrary.o
  rg/node/821266
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260521T143000Z
+DTEND:20260521T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 45
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260521T143000Z
+DTEND:20260521T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804500
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20260521T143000Z
+DTEND:20260521T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/815922
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
