@@ -23,6 +23,26 @@ DESCRIPTION:https://bricartsmedia.org/class/bric-x-seedspark-art-of-the-pi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Field Audio Equipment Certification
+DTSTART:20260519T160000Z
+DTEND:20260519T190000Z
+DTSTAMP:20260519T160000Z
+UID:Field Audio Equipment Certification-2026-05-19T16:00:00+00:00
+DESCRIPTION:Cost: 35\nhttps://bricartsmedia.org/class/field-audio-equipmen
+ t-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to DaVinci Resolve
+DTSTART:20260519T220000Z
+DTEND:20260520T010000Z
+DTSTAMP:20260519T220000Z
+UID:Intro to DaVinci Resolve-2026-05-19T22:00:00+00:00
+DESCRIPTION:Cost: 60\nhttps://bricartsmedia.org/class/intro-to-davinci-res
+ olve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:It’s Showtime NYC! Jam Session: Brooklyn flexN and all-styles
 DTSTART:20260521T210000Z
 DTEND:20260522T000000Z
@@ -36,6 +56,56 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/its-showtime-nyc-j
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DSLR Filmmaking 
+DTSTART:20260521T180000Z
+DTEND:20260521T200000Z
+DTSTAMP:20260521T180000Z
+UID:DSLR Filmmaking -2026-05-21T18:00:00+00:00
+DESCRIPTION:Cost: 15\nhttps://bricartsmedia.org/class/dslr-filmmaking/\nht
+ tps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Sound Design 
+DTSTART:20260522T220000Z
+DTEND:20260523T010000Z
+DTSTAMP:20260522T220000Z
+UID:Intro to Sound Design -2026-05-22T22:00:00+00:00
+DESCRIPTION:Cost: $10\nhttps://bricartsmedia.org/class/intro-to-sound-desi
+ gn/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fundamentals of Screenwriting 
+DTSTART:20260523T143000Z
+DTEND:20260523T173000Z
+DTSTAMP:20260523T143000Z
+UID:Fundamentals of Screenwriting -2026-05-23T14:30:00+00:00
+DESCRIPTION:Cost: $25\nhttps://bricartsmedia.org/class/fundamentals-of-scr
+ eenwriting/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20260526T180000Z
+DTEND:20260526T210000Z
+DTSTAMP:20260526T180000Z
+UID:Mini Studio Production-2026-05-26T18:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio Podcasting
+DTSTART:20260527T210000Z
+DTEND:20260528T010000Z
+DTSTAMP:20260527T210000Z
+UID:Studio Podcasting-2026-05-27T21:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/studio-podcasting/\
+ nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to Color Grading in DaVinci Resolve
 DTSTART:20260527T220000Z
 DTEND:20260528T010000Z
@@ -43,6 +113,46 @@ DTSTAMP:20260527T220000Z
 UID:Intro to Color Grading in DaVinci Resolve-2026-05-27T22:00:00+00:00
 DESCRIPTION:Cost: 20\nhttps://bricartsmedia.org/class/intro-to-color-gradi
  ng-in-davinci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Podcast on Your Phone 
+DTSTART:20260528T150000Z
+DTEND:20260528T170000Z
+DTSTAMP:20260528T150000Z
+UID:Make a Podcast on Your Phone -2026-05-28T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-podcast-on-
+ your-phone/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Edit Your Podcast 
+DTSTART:20260528T180000Z
+DTEND:20260528T200000Z
+DTSTAMP:20260528T180000Z
+UID:How to Edit Your Podcast -2026-05-28T18:00:00+00:00
+DESCRIPTION:Cost: 10\nhttps://bricartsmedia.org/class/how-to-edit-your-pod
+ cast/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-Production Essentials
+DTSTART:20260530T150000Z
+DTEND:20260530T170000Z
+DTSTAMP:20260530T150000Z
+UID:Pre-Production Essentials-2026-05-30T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/pre-production-ess
+ entials/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TV Studio Intensive
+DTSTART:20260601T220000Z
+DTEND:20260602T010000Z
+DTSTAMP:20260601T220000Z
+UID:TV Studio Intensive-2026-06-01T22:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -55,6 +165,65 @@ DESCRIPTION:Cost: 28.37\nhttps://bricartsmedia.org/event/rocket-girl-by-ag
  nes-swiercz/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bri
  cartsmedia.org/wp-content/uploads/2026/05/BFF-200x200.png" alt="" />
 LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photoshop Essentials
+DTSTART:20260601T180000Z
+DTEND:20260601T210000Z
+DTSTAMP:20260601T180000Z
+UID:Photoshop Essentials-2026-06-01T18:00:00+00:00
+DESCRIPTION:Cost: 60\nhttps://bricartsmedia.org/class/photoshop-essentials
+ /\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20260601T220000Z
+DTEND:20260602T010000Z
+DTSTAMP:20260601T220000Z
+UID:Video Editing with Premiere -2026-06-01T22:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightroom Essentials
+DTSTART:20260602T180000Z
+DTEND:20260602T200000Z
+DTSTAMP:20260602T180000Z
+UID:Lightroom Essentials-2026-06-02T18:00:00+00:00
+DESCRIPTION:Cost: $40\nhttps://bricartsmedia.org/class/lightroom-essential
+ s/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orientation
+DTSTART:20260602T210000Z
+DTEND:20260602T223000Z
+DTSTAMP:20260602T210000Z
+UID:Orientation-2026-06-02T21:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/media-orientation/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Photography
+DTSTART:20260603T180000Z
+DTEND:20260603T210000Z
+DTSTAMP:20260603T180000Z
+UID:Street Photography-2026-06-03T18:00:00+00:00
+DESCRIPTION:Cost: $25\nhttps://bricartsmedia.org/class/street-photography/
+ \nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop-Motion Animation Techniques 
+DTSTART:20260604T180000Z
+DTEND:20260604T200000Z
+DTSTAMP:20260604T180000Z
+UID:Stop-Motion Animation Techniques -2026-06-04T18:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/stop-motion-animat
+ ion-techniques/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BRIC Celebrate Brooklyn! Opening Night: Sheila E. + Leon Knight + 
@@ -84,6 +253,56 @@ DESCRIPTION:Cost: $20+\nhttps://bricartsmedia.org/event/la-sala-de-lulada-
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Alternatives to Adobe
+DTSTART:20260604T150000Z
+DTEND:20260604T170000Z
+DTSTAMP:20260604T150000Z
+UID:Alternatives to Adobe-2026-06-04T15:00:00+00:00
+DESCRIPTION:Cost: 5\nhttps://bricartsmedia.org/class/alternatives-to-adobe
+ /\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Digital Photography 
+DTSTART:20260605T180000Z
+DTEND:20260605T210000Z
+DTSTAMP:20260605T180000Z
+UID:Intro to Digital Photography -2026-06-05T18:00:00+00:00
+DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/class/intro-to-digital-ph
+ otography/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instagram for Small Businesses 
+DTSTART:20260605T150000Z
+DTEND:20260605T170000Z
+DTSTAMP:20260605T150000Z
+UID:Instagram for Small Businesses -2026-06-05T15:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/instagram-for-smal
+ l-businesses/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Editing with Premiere 
+DTSTART:20260609T160000Z
+DTEND:20260609T190000Z
+DTSTAMP:20260609T160000Z
+UID:Video Editing with Premiere -2026-06-09T16:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Radio Podcasting
+DTSTART:20260609T220000Z
+DTEND:20260610T010000Z
+DTSTAMP:20260609T220000Z
+UID:Intro to Radio Podcasting-2026-06-09T22:00:00+00:00
+DESCRIPTION:Cost: 75\nhttps://bricartsmedia.org/class/intro-to-radio-podca
+ sting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brooklyn Poetry Slam 2025/2026 Season Finals
 DTSTART:20260609T223000Z
 DTEND:20260610T010000Z
@@ -96,16 +315,64 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brooklyn-poetry-sl
 LOCATION:The Plaza at 300 Ashland
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BRIC House Party presents\, Aaliyah Day
-DTSTART:20260614T010000Z
-DTEND:20260613T060000Z
-DTSTAMP:20260614T010000Z
-UID:BRIC House Party presents\, Aaliyah Day-2026-06-14T01:00:00+00:00
-DESCRIPTION:Cost: Starting at $17.82\nhttps://bricartsmedia.org/event/bric
- -house-party-presents-aaliyah-day/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\
- n<img src="https://bricartsmedia.org/wp-content/uploads/2026/01/Aaliyah-Da
- y-BRIC-e1777916079335-200x200.jpg" alt="" />
-LOCATION:BRIC House
+SUMMARY:Shoot Amazing B-ROLL 
+DTSTART:20260611T150000Z
+DTEND:20260611T170000Z
+DTSTAMP:20260611T150000Z
+UID:Shoot Amazing B-ROLL -2026-06-11T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/shoot-amazing-b-ro
+ ll/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interviewing for Film &#038\; TV
+DTSTART:20260611T180000Z
+DTEND:20260611T200000Z
+DTSTAMP:20260611T180000Z
+UID:Interviewing for Film &#038\; TV-2026-06-11T18:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/interviewing-for-f
+ ilm-tv/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio Podcasting
+DTSTART:20260612T170000Z
+DTEND:20260612T210000Z
+DTSTAMP:20260612T170000Z
+UID:Studio Podcasting-2026-06-12T17:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/studio-podcasting/\
+ nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art of Video Editing
+DTSTART:20260612T180000Z
+DTEND:20260612T200000Z
+DTSTAMP:20260612T180000Z
+UID:The Art of Video Editing-2026-06-12T18:00:00+00:00
+DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/art-video-editing-on
+ line-course/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Field Audio Equipment Certification
+DTSTART:20260612T220000Z
+DTEND:20260613T010000Z
+DTSTAMP:20260612T220000Z
+UID:Field Audio Equipment Certification-2026-06-12T22:00:00+00:00
+DESCRIPTION:Cost: 35\nhttps://bricartsmedia.org/class/field-audio-equipmen
+ t-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20260613T180000Z
+DTEND:20260613T210000Z
+DTSTAMP:20260613T180000Z
+UID:Mini Studio Production-2026-06-13T18:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Family Day: Antibalas + KidsRead with Katie Yamasaki + DJ Marc Bar
@@ -121,6 +388,48 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bcb-family-day-ant
  6/04/Antibalas-Press-Photo-1-Photo-Credit-Siorne-John--200x200.jpg" alt=""
   />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIC House Party presents\, Aaliyah Day
+DTSTART:20260614T010000Z
+DTEND:20260613T060000Z
+DTSTAMP:20260614T010000Z
+UID:BRIC House Party presents\, Aaliyah Day-2026-06-14T01:00:00+00:00
+DESCRIPTION:Cost: Starting at $17.82\nhttps://bricartsmedia.org/event/bric
+ -house-party-presents-aaliyah-day/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\
+ n<img src="https://bricartsmedia.org/wp-content/uploads/2026/01/Aaliyah-Da
+ y-BRIC-e1777916079335-200x200.jpg" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260613T170000Z
+DTEND:20260613T210000Z
+DTSTAMP:20260613T170000Z
+UID:Video Production in the Field-2026-06-13T17:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260615T180000Z
+DTEND:20260615T210000Z
+DTSTAMP:20260615T180000Z
+UID:Video Production in the Field-2026-06-15T18:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fundamentals of Screenwriting 
+DTSTART:20260618T143000Z
+DTEND:20260618T173000Z
+DTSTAMP:20260618T143000Z
+UID:Fundamentals of Screenwriting -2026-06-18T14:30:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/fundamentals-of-sc
+ reenwriting/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juneteenth: Infinity Song + Annie and the Caldwells + Victory Boyd
@@ -147,223 +456,6 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/wayne-wonder-lila-
  ike-dj-gravy/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://br
  icartsmedia.org/wp-content/uploads/2026/04/Photo-Credit-Norje-Media-scaled
  -e1777325265795-200x200.jpeg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intro to Color Grading in DaVinci Resolve
-DTSTART:20260622T220000Z
-DTEND:20260623T010000Z
-DTSTAMP:20260622T220000Z
-UID:Intro to Color Grading in DaVinci Resolve-2026-06-22T22:00:00+00:00
-DESCRIPTION:Cost: 20\nhttps://bricartsmedia.org/class/intro-to-color-gradi
- ng-in-davinci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRIC x Seed&#038\;Spark: 6 Tips to Build Your Own Distribution Pla
- ybook  &#8211\;  June 23\, 2026
-DTSTART:20260623T220000Z
-DTEND:20260623T230000Z
-DTSTAMP:20260623T220000Z
-UID:BRIC x Seed&#038\;Spark: 6 Tips to Build Your Own Distribution Playboo
- k  &#8211\;  June 23\, 2026-2026-06-23T22:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/class/bric-x-seedspark-6-tips-to-bui
- ld-your-own-distribution-playbook-june-23-2026/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Habibi Festival at BRIC Celebrate Brooklyn! Featuring EMEL\, Mai E
- lgizouli\, Nesrine\, Yacine Boulares and the Habibi Festival House Band\, 
- and Yalla! Party Project
-DTSTART:20260710T220000Z
-DTEND:20260711T020000Z
-DTSTAMP:20260710T220000Z
-UID:Habibi Festival at BRIC Celebrate Brooklyn! Featuring EMEL\, Mai Elgiz
- ouli\, Nesrine\, Yacine Boulares and the Habibi Festival House Band\, and 
- Yalla! Party Project-2026-07-10T22:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/habibi-fest-2026/\
- nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.or
- g/wp-content/uploads/2026/04/EMEL-2026-Janine-Kuehn--200x200.jpg" alt="" /
- >
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Legal Aid Society Presents: Community Joy Day with Saint James
-  Joy\, Pahua\, and Puppetmobile
-DTSTART:20260711T190000Z
-DTEND:20260712T000000Z
-DTSTAMP:20260711T190000Z
-UID:The Legal Aid Society Presents: Community Joy Day with Saint James Joy
- \, Pahua\, and Puppetmobile-2026-07-11T19:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/community-joy-day/
- \nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.o
- rg/wp-content/uploads/2026/04/6-_Megan-Schmidt-@meg_schmidt--200x200.jpg" 
- alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Benefit Show: Royel Otis + Ax and the Hatchetmen
-DTSTART:20260718T233000Z
-DTEND:20260719T013000Z
-DTSTAMP:20260718T233000Z
-UID:Benefit Show: Royel Otis + Ax and the Hatchetmen-2026-07-18T23:30:00+0
- 0:00
-DESCRIPTION:Cost: See ticket page\nhttps://bricartsmedia.org/event/benefit
- -show-royel-otis-meet-me-in-the-car-tour/\nhttps://goo.gl/maps/SYiFoJRiWZJ
- KgKU59\n<img src="https://bricartsmedia.org/wp-content/uploads/2025/12/Roy
- el-Otis-JPG-1-200x200.jpg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz at the Bandshell: Cindy Blackman Santana Group + Patricia Bre
- nnan Septet + Lucía
-DTSTART:20260724T220000Z
-DTEND:20260725T020000Z
-DTSTAMP:20260724T220000Z
-UID:Jazz at the Bandshell: Cindy Blackman Santana Group + Patricia Brennan
-  Septet + Lucía-2026-07-24T22:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/jazz-at-the-bandsh
- ell/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmed
- ia.org/wp-content/uploads/2026/04/CBS-Photo©Jimmy-Bruch-scaled-1-200x200.
- jpg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRIC Celebrate Brooklyn! at Brower Park with Black House Radio
-DTSTART:20260725T190000Z
-DTEND:20260726T003000Z
-DTSTAMP:20260725T190000Z
-UID:BRIC Celebrate Brooklyn! at Brower Park with Black House Radio-2026-07
- -25T19:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bric-celebrate-bro
- oklyn-at-brower-park-black-house-radio/\nhttps://maps.app.goo.gl/cbmAjhaQi
- aLnHz2bA\n<img src="https://bricartsmedia.org/wp-content/uploads/2026/04/B
- HR-Profile-Picture-Square-200x200.jpg" alt="" />
-LOCATION:Park Place between Brooklyn Ave and Kingston Ave
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CARRTOONS & Hailé Supreme + Sofía Valdés + Julia Zivic
-DTSTART:20260731T220000Z
-DTEND:20260801T020000Z
-DTSTAMP:20260731T220000Z
-UID:CARRTOONS & Hailé Supreme + Sofía Valdés + Julia Zivic-2026-07-31T2
- 2:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/carrtoons-haile-su
- preme-sofia-valdes-julia-zivic/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<i
- mg src="https://bricartsmedia.org/wp-content/uploads/2026/04/Thursday-Disc
- o-COVER-200x200.jpg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:globalFEST at BRIC Celebrate Brooklyn! With DakhaBrakha\, Yeison L
- andero\, Sally Baby's Silver Dollars\, and Sunju Park
-DTSTART:20260807T210000Z
-DTEND:20260808T020000Z
-DTSTAMP:20260807T210000Z
-UID:globalFEST at BRIC Celebrate Brooklyn! With DakhaBrakha\, Yeison Lande
- ro\, Sally Baby's Silver Dollars\, and Sunju Park-2026-08-07T21:00:00+00:0
- 0
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/globalfest-at-bric
- -celebrate-brooklyn-with-dakhabrakha-yeison-landero-sally-babys-silver-dol
- lars-and-sunju-park/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="htt
- ps://bricartsmedia.org/wp-content/uploads/2026/04/DB22MartaSyrko-200x200.j
- pg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRIC Celebrates Aaliyah: One in a Million
-DTSTART:20260808T190000Z
-DTEND:20260809T003000Z
-DTSTAMP:20260808T190000Z
-UID:BRIC Celebrates Aaliyah: One in a Million-2026-08-08T19:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bric-celebrates-aa
- liyah-one-in-a-million/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="
- https://bricartsmedia.org/wp-content/uploads/2026/05/HERO-IMAGE-Photo-Crei
- dt-Michael-Benebib-200x200.jpg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lyricist Lounge 35th Anniversary
-DTSTART:20260814T220000Z
-DTEND:20260815T020000Z
-DTSTAMP:20260814T220000Z
-UID:Lyricist Lounge 35th Anniversary-2026-08-14T22:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/lyricist-lounge-35
- th-anniversary/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://
- bricartsmedia.org/wp-content/uploads/2026/05/BCB-Wide-Shot-2_Photo-credit-
- Edwina-Hay-1-200x200.jpg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Americana Night: Yola + Dom Flemons and the Traveling Wildfires + 
- Cleo Reed
-DTSTART:20260815T220000Z
-DTEND:20260816T020000Z
-DTSTAMP:20260815T220000Z
-UID:Americana Night: Yola + Dom Flemons and the Traveling Wildfires + Cleo
-  Reed-2026-08-15T22:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/americana-night-yo
- la-dom-flemons-and-the-traveling-wildfires-cleo-reed/\nhttps://goo.gl/maps
- /SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-content/uploads
- /2026/04/Yola-Press-Horizontal-2-200x200.jpg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sasha Velour's NightGowns
-DTSTART:20260821T220000Z
-DTEND:20260822T020000Z
-DTSTAMP:20260821T220000Z
-UID:Sasha Velour's NightGowns-2026-08-21T22:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/sasha-velours-nigh
- tgowns/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricarts
- media.org/wp-content/uploads/2026/04/SashaVelour1.AlexeyKim-200x200.jpg" a
- lt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRIC Celebrate Brooklyn! and The Action Lab present: Common and Sp
- ecial Guests To Honor the Social Justice Legacy of Harry Belafonte
-DTSTART:20260828T220000Z
-DTEND:20260829T020000Z
-DTSTAMP:20260828T220000Z
-UID:BRIC Celebrate Brooklyn! and The Action Lab present: Common and Specia
- l Guests To Honor the Social Justice Legacy of Harry Belafonte-2026-08-28T
- 22:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bric-celebrate-bro
- oklyn-and-the-action-lab-present-common-and-special-guests-to-honor-the-so
- cial-justice-legacy-of-harry-belafonte/\nhttps://goo.gl/maps/SYiFoJRiWZJKg
- KU59\n<img src="https://bricartsmedia.org/wp-content/uploads/2026/04/SOLO-
- 200x200.jpg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRIC Celebrate Brooklyn! and Brooklyn Borough President Antonio Re
- ynoso present: Dominican Night at the Bandshell
-DTSTART:20260829T210000Z
-DTEND:20260830T020000Z
-DTSTAMP:20260829T210000Z
-UID:BRIC Celebrate Brooklyn! and Brooklyn Borough President Antonio Reynos
- o present: Dominican Night at the Bandshell-2026-08-29T21:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brooklyn-borough-p
- resident-antonio-reynoso-presents-dominican-night-at-the-bandshell/\nhttps
- ://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-c
- ontent/uploads/2026/05/BCB-Wide-Shot-2_Photo-credit-Edwina-Hay-1-200x200.j
- pg" alt="" />
-LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Benefit Show: Liz Phair & Sleater-Kinney | The Flannel and The Fur
- y 2026
-DTSTART:20260919T220000Z
-DTEND:20260920T000000Z
-DTSTAMP:20260919T220000Z
-UID:Benefit Show: Liz Phair & Sleater-Kinney | The Flannel and The Fury 20
- 26-2026-09-19T22:00:00+00:00
-DESCRIPTION:Cost: See ticket page\nhttps://bricartsmedia.org/event/benefit
- -show-liz-phair-sleater-kinney-the-flannel-and-the-fury-2026/\nhttps://goo
- .gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-content
- /uploads/2026/04/LizPhair_SleaterKinney_TM_2426x1365_R1-200x200.jpg" alt="
- " />
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 END:VCALENDAR
