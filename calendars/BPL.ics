@@ -11,33 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group - Brooklyn Heights
-DTSTART:20260519T220000Z
-DTEND:20260519T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/811909
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260519T220000Z
-DTEND:20260519T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/819905
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Book Club: Never Let Me Go by Kazuo Ishiguro
-DTSTART:20260519T223000Z
-DTEND:20260519T233000Z
-DESCRIPTION:Join us this month to discuss Never Let Me Go by Nobel Prize i
- n Literature winner Kazuo Ishiguro.\n\nhttps://www.bklynlibrary.org/node/8
- 17685
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Multilingual Business Help
 DTSTART:20260520T140000Z
 DTEND:20260520T160000Z
@@ -374,5 +347,35 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. This group is for high intermediate speake
  rs.\n\nhttps://www.bklynlibrary.org/node/816512
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260521T213000Z
+DTEND:20260521T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/816112
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Zumba
+DTSTART:20260521T213000Z
+DTEND:20260521T223000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/815618
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Premiere Interface
+DTSTART:20260521T213000Z
+DTEND:20260521T233000Z
+DESCRIPTION:In this class you will learn fundamentals of the Premiere inte
+ rface including how to start a project\, media management\, creating and u
+ sing sequences\, audio basics\, as well as some editing techniques.\n\nhtt
+ ps://www.bklynlibrary.org/node/796119
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
