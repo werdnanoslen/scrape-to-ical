@@ -26,6 +26,20 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brooklyn’s Greening Heroes
+DTSTART;VALUE=DATE:20260523T040000Z
+DTEND;VALUE=DATE:20261026T040000Z
+UID:Brooklyn’s Greening Heroes-2026-05-23 04:00:00+00:00
+DESCRIPTION:May 23–October 25\, 2026\n\nBrooklyn’s Greening Heroesfeat
+ ures portraits and first-person stories from residents who have turned gar
+ dening into community-building.Learn More›about Brooklyn’s Greening He
+ roes\n\nMore info:\nhttps://www.bbg.org/visit/event/brooklyns_greening_her
+ oes\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/300_E_25th_St_f
+ or_digital_2800.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring First Discoveries
 DTSTART;VALUE=DATE:20260520T040000Z
 DTEND;VALUE=DATE:20260520T060000Z
