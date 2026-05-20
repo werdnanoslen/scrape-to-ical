@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
-DTSTART:20260520T140000Z
-DTEND:20260520T200000Z
-DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
- cated to ensuring everyone has access to essential hygiene products.No one
-  should have to go without the basics! If you or someone you know ne\n\nht
- tps://www.bklynlibrary.org/node/820185
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260520T140000Z
 DTEND:20260520T210000Z
@@ -37,14 +27,6 @@ DTEND:20260520T230000Z
 DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822247
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20260520T180000Z
-DTEND:20260520T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818913
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
@@ -381,5 +363,24 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  61
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260522T180000Z
+DTEND:20260522T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/816537
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Diabetes Self-Management Education and Support Course
+DTSTART:20260522T180000Z
+DTEND:20260522T200000Z
+DESCRIPTION:This is a five-week course can help you learn how to manage d
+ iabetes! After each class\, participants will receive an OMNYCARD/MetroC
+ ard and a $50 gift card upon attending 4 classes minimum.\n\nhttps://www
+ .bklynlibrary.org/node/818099
+LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 END:VCALENDAR
