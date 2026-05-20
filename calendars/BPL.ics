@@ -40,26 +40,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20260520T170000Z
-DTEND:20260520T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /820169
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digital Skills & AI Literacy: Info Session
-DTSTART:20260520T170000Z
-DTEND:20260520T183000Z
-DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
- cess to Google Career Certificates- online\, self-paced programs designed 
- to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
- ps://www.bklynlibrary.org/node/820598
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20260520T180000Z
 DTEND:20260520T200000Z
@@ -74,15 +54,6 @@ DTEND:20260520T193000Z
 DESCRIPTION:A free gathering to talk about aging\, caregiving\, and end of
   life with more peace and less fear.\n\nhttps://www.bklynlibrary.org/node/
  822708
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260520T180000Z
-DTEND:20260520T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/822752
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
@@ -382,5 +353,33 @@ DESCRIPTION:Welcome to our Heritage Ambassador public Meet up series whe
  istic experience\, skill and cultural heritage.\n\nhttps://www.bklynlibrar
  y.org/node/818799
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: The Wrong Man (1956)
+DTSTART:20260522T143000Z
+DTEND:20260522T161500Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
+ ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819947
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260522T150000Z
+DTEND:20260522T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/804771
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260522T150000Z
+DTEND:20260522T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/823069
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
