@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260520T140000Z
-DTEND:20260520T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/823073
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260520T160000Z
 DTEND:20260520T230000Z
@@ -28,32 +18,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822247
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260520T190000Z
-DTEND:20260520T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
- ne-on-one review of your resume or cover letter and get help with your que
- stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
- .org/node/804746
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260520T190000Z
-DTEND:20260520T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/821152
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260520T200000Z
-DTEND:20260520T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804526
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Making Music from Our Surroundings
@@ -382,5 +346,39 @@ DESCRIPTION:This is a five-week course can help you learn how to manage d
  ard and a $50 gift card upon attending 4 classes minimum.\n\nhttps://www
  .bklynlibrary.org/node/818099
 LOCATION:Crown Heights\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Crafting: Salted Pretzel Keychain
+DTSTART:20260522T180000Z
+DTEND:20260522T193000Z
+DESCRIPTION:Join us to create a salted pretzel keychain using an i-cord!Al
+ l materials will be provided.\n\nhttps://www.bklynlibrary.org/node/822773
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Accompany Capital Loan Readiness Program - Orientation Session
+DTSTART:20260522T193000Z
+DTEND:20260522T213000Z
+DESCRIPTION:*This workshop has been moved to Zoom.\n\nhttps://www.bklynlib
+ rary.org/node/816214
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260522T200000Z
+DTEND:20260522T213000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/807793
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260526T133000Z
+DTEND:20260526T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/816157
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
