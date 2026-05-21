@@ -114,6 +114,39 @@ DESCRIPTION:https://www.viewcy.com/event/sounds_of_the_levant_1\n<p><img a
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Stoop Boys
+DTSTART:20260523T210000Z
+DTEND:20260523T230000Z
+DTSTAMP:20260523T210000Z
+UID:The Stoop Boys
+DESCRIPTION:https://www.viewcy.com/event/the_stoop_boys\n<p><img alt="The 
+ Stoop Boys thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-se
+ ntry-component="ImageWithFallback" data-sentry-element="Image" data-sentry
+ -source-file="index.tsx" decoding="async" height="186" loading="lazy" src=
+ "https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frai
+ ls%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI
+ 6MTc5OTcxLCJwdXIiOiJibG9iX2lkIn19--01a30650d2c6221ea772e8cdab27f836cd8aa50
+ 6%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6Wz
+ ExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2Ui
+ OiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67
+ c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_next/image
+ ?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentatio
+ ns%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc5OTcxLCJwdXIiOiJibG9iX2lkIn19--
+ 01a30650d2c6221ea772e8cdab27f836cd8aa506%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3J
+ tYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiO
+ nRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9
+ uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\
+ ;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frai
+ ls%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI
+ 6MTc5OTcxLCJwdXIiOiJibG9iX2lkIn19--01a30650d2c6221ea772e8cdab27f836cd8aa50
+ 6%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6Wz
+ ExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2Ui
+ OiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67
+ c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="color: tra
+ nsparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chispa at Barzakh
 DTSTART:20260523T220000Z
 DTEND:20260524T000000Z
