@@ -305,13 +305,13 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/interviewing-for-f
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Studio Podcasting
-DTSTART:20260612T170000Z
-DTEND:20260612T210000Z
-DTSTAMP:20260612T170000Z
-UID:Studio Podcasting-2026-06-12T17:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/studio-podcasting/\
- nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Field Audio Equipment Certification
+DTSTART:20260612T220000Z
+DTEND:20260613T010000Z
+DTSTAMP:20260612T220000Z
+UID:Field Audio Equipment Certification-2026-06-12T22:00:00+00:00
+DESCRIPTION:Cost: 35\nhttps://bricartsmedia.org/class/field-audio-equipmen
+ t-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -325,13 +325,13 @@ DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/art-video-editing-on
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Field Audio Equipment Certification
-DTSTART:20260612T220000Z
-DTEND:20260613T010000Z
-DTSTAMP:20260612T220000Z
-UID:Field Audio Equipment Certification-2026-06-12T22:00:00+00:00
-DESCRIPTION:Cost: 35\nhttps://bricartsmedia.org/class/field-audio-equipmen
- t-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Studio Podcasting
+DTSTART:20260612T170000Z
+DTEND:20260612T210000Z
+DTSTAMP:20260612T170000Z
+UID:Studio Podcasting-2026-06-12T17:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/studio-podcasting/\
+ nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -343,28 +343,6 @@ UID:Video Production in the Field-2026-06-13T17:00:00+00:00
 DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
  -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20260613T180000Z
-DTEND:20260613T210000Z
-DTSTAMP:20260613T180000Z
-UID:Mini Studio Production-2026-06-13T18:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
- ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BRIC House Party presents\, Aaliyah Day
-DTSTART:20260614T010000Z
-DTEND:20260613T060000Z
-DTSTAMP:20260614T010000Z
-UID:BRIC House Party presents\, Aaliyah Day-2026-06-14T01:00:00+00:00
-DESCRIPTION:Cost: Starting at $17.82\nhttps://bricartsmedia.org/event/bric
- -house-party-presents-aaliyah-day/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\
- n<img src="https://bricartsmedia.org/wp-content/uploads/2026/01/Aaliyah-Da
- y-BRIC-e1777916079335-200x200.jpg" alt="" />
-LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Family Day: Antibalas + KidsRead with Katie Yamasaki + DJ Marc Bar
@@ -380,6 +358,28 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bcb-family-day-ant
  6/04/Antibalas-Press-Photo-1-Photo-Credit-Siorne-John--200x200.jpg" alt=""
   />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIC House Party presents\, Aaliyah Day
+DTSTART:20260614T010000Z
+DTEND:20260613T060000Z
+DTSTAMP:20260614T010000Z
+UID:BRIC House Party presents\, Aaliyah Day-2026-06-14T01:00:00+00:00
+DESCRIPTION:Cost: Starting at $17.82\nhttps://bricartsmedia.org/event/bric
+ -house-party-presents-aaliyah-day/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\
+ n<img src="https://bricartsmedia.org/wp-content/uploads/2026/01/Aaliyah-Da
+ y-BRIC-e1777916079335-200x200.jpg" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20260613T180000Z
+DTEND:20260613T210000Z
+DTSTAMP:20260613T180000Z
+UID:Mini Studio Production-2026-06-13T18:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field

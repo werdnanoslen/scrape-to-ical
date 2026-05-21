@@ -115,6 +115,15 @@ DESCRIPTION:https://cal.red/?event=5320\nCost: $15
 LOCATION:Wonderville
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hidden Companions: Paranormals from the Old City of Jerusalem
+DTSTART:20260521T230000Z
+DTEND:20260522T000000Z
+DTSTAMP:20260521T230000Z
+UID:event:5341:2026-05-21T19:00:00
+DESCRIPTION:https://cal.red/?event=5341\nCost: Free
+LOCATION:Various locations
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:21st Century Princess by Jordan Baum
 DTSTART:20260521T233000Z
 DTEND:20260522T003000Z
@@ -140,6 +149,15 @@ DTSTAMP:20260522T010000Z
 UID:event:5305:2026-05-21T21:00:00
 DESCRIPTION:https://cal.red/?event=5305\nCost: $20
 LOCATION:QED\, 27-16 23rd Ave\, Astoria\, NY 11105
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hidden Companions: Paranormals from the Old City of Jerusalem
+DTSTART:20260522T200000Z
+DTEND:20260522T210000Z
+DTSTAMP:20260522T200000Z
+UID:event:5341:2026-05-22T16:00:00
+DESCRIPTION:https://cal.red/?event=5341\nCost: Free
+LOCATION:Various locations
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
@@ -238,6 +256,15 @@ LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
   mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pataphysics 019
+DTSTART:20260524T000000Z
+DTEND:20260524T010000Z
+DTSTAMP:20260524T000000Z
+UID:event:5340:2026-05-23T20:00:00
+DESCRIPTION:https://cal.red/?event=5340\nCost: $20
+LOCATION:Delight Factory in Ocean Hill / Brownsville\, Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Build Your Own Screambox Workshop!
 DTSTART:20260524T170000Z
 DTEND:20260524T180000Z
@@ -305,6 +332,15 @@ DESCRIPTION:https://cal.red/?event=4912\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hidden Companions: Paranormals from the Old City of Jerusalem
+DTSTART:20260526T220000Z
+DTEND:20260526T230000Z
+DTSTAMP:20260526T220000Z
+UID:event:5341:2026-05-26T18:00:00
+DESCRIPTION:https://cal.red/?event=5341\nCost: Free
+LOCATION:Various locations
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downtown Music Gallery Free In-Store Concerts
