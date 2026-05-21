@@ -11,71 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Making Music from Our Surroundings
-DTSTART:20260520T213000Z
-DTEND:20260520T233000Z
-DESCRIPTION:How can we make music drawing inspiration from the sounds of o
- ur daily lives? How can we translate into sound what we observe in a paint
- ing\, a text message\, a book\, ourselves\, or the world? What lies\n\nhtt
- ps://www.bklynlibrary.org/node/824125
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260520T220000Z
-DTEND:20260520T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 26
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260520T220000Z
-DTEND:20260520T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820116
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Citizenship Class
-DTSTART:20260520T220000Z
-DTEND:20260520T000000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/820156
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NYS MWBE Program & Certification Workshop
-DTSTART:20260520T223000Z
-DTEND:20260520T000000Z
-DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
- library.org/node/805739
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dr. Ilyasah Shabazz Discusses Malcolm in the Desert\, with Nikole 
- Hannah-Jones
-DTSTART:20260520T230000Z
-DTEND:20260520T003000Z
-DESCRIPTION:BPL Presents welcomes Dr. Ilyasah Shabazz\, NAACP Image Award 
- Winner\, who offers an extraordinary new perspective on her father’s liv
- ing inheritance.\n\nhttps://www.bklynlibrary.org/node/816454
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Early Childhood Symposium 2026: 6 × 7 = Yikes! Overcoming Our Own
-  Math Anxiety to Teach Young Children (CTLE-1.5)
-DTSTART:20260520T230000Z
-DTEND:20260520T003000Z
-DESCRIPTION:Math for children birth to 5 is so much more than counting bea
- rs and calendar time and so much less scary than your high school algebra 
- class! Adult math anxiety may be a block when we think about sup\n\nhttps:
- //www.bklynlibrary.org/node/817780
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20260521T140000Z
 DTEND:20260521T190000Z
@@ -380,5 +315,71 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822248
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260526T163000Z
+DTEND:20260526T180000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/821907
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
+ siness Solutions Center
+DTSTART:20260526T170000Z
+DTEND:20260526T200000Z
+DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
+ ? Join the NYC Business Solutions Brooklyn Center for "The Flower Hour\," 
+ a special session of our popular Joint Ventures educational serie\n\nhttps
+ ://www.bklynlibrary.org/node/808970
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260526T180000Z
+DTEND:20260526T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/811961
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online Intermediate English Class (We Speak NYC)
+DTSTART:20260526T180000Z
+DTEND:20260526T200000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820323
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260526T180000Z
+DTEND:20260526T190000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/821314
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260526T190000Z
+DTEND:20260526T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/80337
+ 8
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20260526T210000Z
+DTEND:20260526T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/799545
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
