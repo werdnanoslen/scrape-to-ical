@@ -59,15 +59,6 @@ DESCRIPTION:Join this Career Computer Lab to update and refine your resume
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260521T180000Z
-DTEND:20260521T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/822753
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arts and Crafts Circle
 DTSTART:20260521T183000Z
 DTEND:20260521T200000Z
@@ -383,5 +374,15 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/819906
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Through Mom's Eyes with Sheinelle Jones and Liz Vaccariello
+DTSTART:20260526T220000Z
+DTEND:20260526T233000Z
+DESCRIPTION:Park Slope Library is pleased to welcome Sheinelle Jones to di
+ scuss her new book Through Mom's Eyes: Simple Wisdom From Mothers Who Rais
+ ed Extraordinary Humans with Editor in Chief of Woman's World\, L\n\nhttps
+ ://www.bklynlibrary.org/node/822685
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
