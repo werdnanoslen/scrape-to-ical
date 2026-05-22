@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Accompany Capital Loan Readiness Program - Orientation Session
-DTSTART:20260522T193000Z
-DTEND:20260522T213000Z
-DESCRIPTION:*This workshop has been moved to Zoom.\n\nhttps://www.bklynlib
- rary.org/node/816214
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20260522T200000Z
-DTEND:20260522T213000Z
-DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
- over letter\, interview\, and job search questions. All sessions are one-o
- n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
- tps://www.bklynlibrary.org/node/807793
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260526T133000Z
 DTEND:20260526T163000Z
@@ -375,5 +357,23 @@ DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
  pósito aprender cómo estructurar su negocio para que este sea exitoso\, 
  d\n\nhttps://www.bklynlibrary.org/node/822324
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQ+ Film Discussion Group
+DTSTART:20260527T223000Z
+DTEND:20260527T233000Z
+DESCRIPTION:Join us for a monthly LGBTQ+ film discussion group where we ex
+ plore classic and contemporary queer cinema!\n\nhttps://www.bklynlibrary.o
+ rg/node/823028
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20260528T140000Z
+DTEND:20260528T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7999
+ 00
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
