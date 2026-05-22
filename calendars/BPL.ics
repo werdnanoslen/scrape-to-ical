@@ -11,65 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:The Premiere Interface
-DTSTART:20260521T213000Z
-DTEND:20260521T233000Z
-DESCRIPTION:In this class you will learn fundamentals of the Premiere inte
- rface including how to start a project\, media management\, creating and u
- sing sequences\, audio basics\, as well as some editing techniques.\n\nhtt
- ps://www.bklynlibrary.org/node/796119
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260521T213000Z
-DTEND:20260521T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/816112
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260521T220000Z
-DTEND:20260521T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8085
- 95
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heritage Ambassador Meet up: Exploring Central Asian Legends of th
- e Silk Road through Puppetry Arts
-DTSTART:20260521T220000Z
-DTEND:20260521T233000Z
-DESCRIPTION:Welcome to our Heritage Ambassador public Meet up series whe
- re folk Heritage artists engage participants into the sharing of their art
- istic experience\, skill and cultural heritage.\n\nhttps://www.bklynlibrar
- y.org/node/818799
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class - Intermediate Level (We Speak NYC)
-DTSTART:20260521T220000Z
-DTEND:20260521T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820136
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260521T220000Z
-DTEND:20260521T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/821137
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movie: The Wrong Man (1956)
 DTSTART:20260522T143000Z
 DTEND:20260522T161500Z
@@ -382,5 +323,59 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822249
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: NEW DAY: Drop-In Resume & Career Help (Brooklyn Heights
+ )
+DTSTART:20260527T160000Z
+DTEND:20260527T180000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a slo\n\nht
+ tps://www.bklynlibrary.org/node/824903
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20260527T170000Z
+DTEND:20260527T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /820170
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Jubilee Jammers: Motown!
+DTSTART:20260527T170000Z
+DTEND:20260527T180000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/823287
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20260527T180000Z
+DTEND:20260527T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818914
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260527T180000Z
+DTEND:20260527T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/822754
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Critias
+DTSTART:20260527T183000Z
+DTEND:20260527T200000Z
+DESCRIPTION:Join us this Spring as we continue our journey through the his
+ tory of ancient philosophy by reading the Critias\, Plato's unfinished com
+ panion piece to the Timaeus.\n\nhttps://www.bklynlibrary.org/node/799878
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
