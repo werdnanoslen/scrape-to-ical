@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260522T170000Z
-DTEND:20260522T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 61
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260522T180000Z
-DTEND:20260522T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816537
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Diabetes Self-Management Education and Support Course
 DTSTART:20260522T180000Z
 DTEND:20260522T200000Z
@@ -47,14 +29,6 @@ DESCRIPTION:This is a five-week course can help you learn how to manage d
  ard and a $50 gift card upon attending 4 classes minimum.\n\nhttps://www
  .bklynlibrary.org/node/818099
 LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Crafting: Salted Pretzel Keychain
-DTSTART:20260522T180000Z
-DTEND:20260522T193000Z
-DESCRIPTION:Join us to create a salted pretzel keychain using an i-cord!Al
- l materials will be provided.\n\nhttps://www.bklynlibrary.org/node/822773
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Accompany Capital Loan Readiness Program - Orientation Session
@@ -375,6 +349,33 @@ DESCRIPTION:Join NYU Langone Family Health Centers for an informative virt
  ual workshop in honor of Stroke Awareness Month! Early recognition and rap
  id treatment of strokes can save lives and prevent long-term dis\n\nhttps:
  //www.bklynlibrary.org/node/820248
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group
+DTSTART:20260527T200000Z
+DTEND:20260527T210000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804527
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260527T220000Z
+DTEND:20260527T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 27
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260527T220000Z
+DTEND:20260527T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820117
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
