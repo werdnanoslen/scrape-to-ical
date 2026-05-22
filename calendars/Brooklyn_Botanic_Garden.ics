@@ -40,6 +40,22 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Block by Block
+DTSTART;VALUE=DATE:20260523T040000Z
+DTEND;VALUE=DATE:20261026T040000Z
+UID:Block by Block-2026-05-23 04:00:00+00:00
+DESCRIPTION:May 23–October 25\, 2026\n\nBlock by Blockre-creates the sto
+ ops and streetscapes of 2025 Greenest Block in Brooklyn winners on the Gar
+ den’s grounds. Co-created with many of the contest’s greening stars\, 
+ the exhibition invites you to find inspiration from these green-thumbed Br
+ ooklynites.Learn More›about Block by Block\n\nMore info:\nhttps://www.bb
+ g.org/visit/event/block_by_block_exhibit\n\n<img src="/img/uploads/manual/
+ hero/_list_thumbnail_regular/greenest-block-2025_CF_54721452425.jpeg" alt=
+ "" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brooklyn’s Greening Heroes
 DTSTART;VALUE=DATE:20260523T040000Z
 DTEND;VALUE=DATE:20261026T040000Z
