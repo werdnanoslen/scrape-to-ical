@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Cousins
-DTSTART:20260524T020000Z
-DTEND:20260524T040000Z
-DTSTAMP:20260524T020000Z
-UID:Cousins
-DESCRIPTION:https://www.viewcy.com/event/cousins\n<p><img alt="Cousins thu
- mbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component
- ="ImageWithFallback" data-sentry-element="Image" data-sentry-source-file="
- index.tsx" decoding="async" height="186" loading="lazy" src="https://www.v
- iewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_st
- orage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTYzMjgzLCJwd
- XIiOiJibG9iX2lkIn19--2ebb1985720c5e69e1bdb4308124bc1a4d28e5ac%2FeyJfcmFpbH
- MiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwi
- c2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fS
- wicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew
- %2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%
- 2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%
- 2FeyJfcmFpbHMiOnsiZGF0YSI6MTYzMjgzLCJwdXIiOiJibG9iX2lkIn19--2ebb1985720c5e
- 69e1bdb4308124bc1a4d28e5ac%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciL
- CJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWx
- pdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da
- 7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=384&amp\;q=
- 100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_st
- orage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTYzMjgzLCJwd
- XIiOiJibG9iX2lkIn19--2ebb1985720c5e69e1bdb4308124bc1a4d28e5ac%2FeyJfcmFpbH
- MiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwi
- c2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fS
- wicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew
- %2520Designs.png&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" wi
- dth="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Traveling with the Tunisian writer Abdelwahab Meddeb
 DTSTART:20260524T210000Z
 DTEND:20260524T230000Z
