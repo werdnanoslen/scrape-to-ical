@@ -514,6 +514,16 @@ DESCRIPTION:https://cal.red/?event=5361\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:29 Speedway presents: LARGE! (Alex Zhang Hungtai x medium.)\, SCRA
+ ATCH\, Dekalb Works
+DTSTART:20260530T210000Z
+DTEND:20260530T220000Z
+DTSTAMP:20260530T210000Z
+UID:event:5389:2026-05-30T17:00:00
+DESCRIPTION:https://cal.red/?event=5389\nCost: $25
+LOCATION:@ heft gallery (all ages)\, 300 broome st.\, bowery\, mnhtn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:All Quiet on the Western Front Live Score
 DTSTART:20260530T220000Z
 DTEND:20260530T230000Z
@@ -600,6 +610,17 @@ DESCRIPTION:https://cal.red/?event=4396\nCost: Free
 LOCATION:Keith Haring Theater
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Experimental Noise: Mountain of Woe\, Professor A\, Kwami Winfield
+ \, Munt Cascade\, Mouths Agape
+DTSTART:20260531T210000Z
+DTEND:20260531T220000Z
+DTSTAMP:20260531T210000Z
+UID:event:5390:2026-05-31T17:00:00
+DESCRIPTION:https://cal.red/?event=5390\nCost: $10-20 sliding
+LOCATION:@ fringe records (all ages)\, 6-56 woodward ave\, ridgewood\, que
+ ens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Topos Too Readings!
 DTSTART:20260531T230000Z
 DTEND:20260601T000000Z
@@ -650,6 +671,26 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[FUNDRAISER] Under The Sea: xcakes fundraiser: Pauli Cakes\, Total
+  XTC\, p1nkstar b2b JOSELO\, Coyado\, Katie Rex\, Concrete Husband
+DTSTART:20260602T020000Z
+DTEND:20260602T030000Z
+DTSTAMP:20260602T020000Z
+UID:event:5394:2026-06-01T22:00:00
+DESCRIPTION:https://cal.red/?event=5394\nCost: $10+
+LOCATION:@ bossa nova civic club (21+)\, 1271 myrtle ave\, bushwick\, bkly
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Downstairs] Free Karaoke w/ Oz & Friends
+DTSTART:20260602T020000Z
+DTEND:20260602T030000Z
+DTSTAMP:20260602T020000Z
+UID:event:5395:2026-06-01T22:00:00
+DESCRIPTION:https://cal.red/?event=5395\nCost: 🌀 free
+LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Downtown Music Gallery Free Shows
 DTSTART:20260602T223000Z
 DTEND:20260602T233000Z
@@ -658,6 +699,15 @@ UID:event:5388:2026-06-02T18:30:00
 DESCRIPTION:https://cal.red/?event=5388\nCost: 🌀 free
 LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
   mnhtn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prison\, Ar•kaiks\, Street Fruit\, DJ Mikey Post
+DTSTART:20260602T230000Z
+DTEND:20260603T000000Z
+DTSTAMP:20260602T230000Z
+UID:event:5397:2026-06-02T19:00:00
+DESCRIPTION:https://cal.red/?event=5397\nCost: $19
+LOCATION:@ union pool (21+)\, williamsburg\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NYC Mesh Open Mesh Night
@@ -686,6 +736,15 @@ DTSTAMP:20260603T230000Z
 UID:event:5370:2026-06-03T19:00:00
 DESCRIPTION:https://cal.red/?event=5370\nCost: 0
 LOCATION:Bushwick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:D.A. Crimson\, Michael Sanders\, Kolb\, Mope
+DTSTART:20260603T230000Z
+DTEND:20260604T000000Z
+DTSTAMP:20260603T230000Z
+UID:event:5398:2026-06-03T19:00:00
+DESCRIPTION:https://cal.red/?event=5398\nCost: $11
+LOCATION:@ alphaville (21+)\, 140 wilson ave\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (June)
@@ -749,6 +808,16 @@ DESCRIPTION:https://cal.red/?event=5252\n360 Van Brunt St\nRed Hook\, Broo
 LOCATION:Record Shop
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:150th Present Sounds: fieldtalk will Present Sounds
+DTSTART:20260604T230000Z
+DTEND:20260605T000000Z
+DTSTAMP:20260604T230000Z
+UID:event:5393:2026-06-04T19:00:00
+DESCRIPTION:https://cal.red/?event=5393\nCost: $20+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Come On!
 DTSTART:20260605T023000Z
 DTEND:20260605T033000Z
@@ -756,6 +825,17 @@ DTSTAMP:20260605T023000Z
 UID:event:5345:2026-06-04T22:30:00
 DESCRIPTION:https://cal.red/?event=5345\nCost: $15
 LOCATION:Lower East Side
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spice Channel presents An Evening of Extreme Electronics: TS\, Pro
+ blem Masturbator\, M. Sidnam\, Sara Luttrel\, Sarah Gold\, Inarticulate
+DTSTART:20260605T220000Z
+DTEND:20260605T230000Z
+DTSTAMP:20260605T220000Z
+UID:event:5391:2026-06-05T18:00:00
+DESCRIPTION:https://cal.red/?event=5391\nCost: $10
+LOCATION:@ fringe records (all ages)\, 6-56 woodward ave\, ridgewood\, que
+ ens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:“The Surivivor”
@@ -833,6 +913,16 @@ DESCRIPTION:https://cal.red/?event=5362\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Purgatory's Pride Month Battle of the Bands: Sunday Saari\, Squelc
+ h\, Outer Shapes\, Lolo Fima\, Plastic Baby Jesus\, Emospacebird
+DTSTART:20260606T203000Z
+DTEND:20260606T213000Z
+DTSTAMP:20260606T203000Z
+UID:event:5396:2026-06-06T16:30:00
+DESCRIPTION:https://cal.red/?event=5396\nCost: $15+
+LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:POETRY HELL
 DTSTART:20260606T210000Z
 DTEND:20260606T220000Z
@@ -878,6 +968,16 @@ UID:event:5384:2026-06-07T19:00:00
 DESCRIPTION:https://cal.red/?event=5384\nCost: 🌀 notaflof
 LOCATION:@ brothers wash & dry laundromat (all ages)\, 60-42 54th pl.\, ma
  speth\, queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:12x12 vol.6 Contemporary Dance Showcase
+DTSTART:20260607T230000Z
+DTEND:20260608T000000Z
+DTSTAMP:20260607T230000Z
+UID:event:5392:2026-06-07T19:00:00
+DESCRIPTION:https://cal.red/?event=5392\nCost: $25+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Goon Cave VI: guzzlin' glizzies
@@ -927,6 +1027,16 @@ DTSTAMP:20260609T230000Z
 UID:event:5349:2026-06-09T19:00:00
 DESCRIPTION:https://cal.red/?event=5349\nCost: $20 inc shoe rental
 LOCATION:GP-81 in Bushwick (off Jefferson L)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DAWSHA دوشة: Secret Artist (live)\, slipnat\, Solofan\, S!NA
+DTSTART:20260609T230000Z
+DTEND:20260610T000000Z
+DTSTAMP:20260609T230000Z
+UID:event:5399:2026-06-09T19:00:00
+DESCRIPTION:https://cal.red/?event=5399\nCost: $20+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NYC Mesh Open Mesh Night
