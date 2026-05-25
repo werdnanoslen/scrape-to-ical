@@ -96,6 +96,18 @@ DESCRIPTION:https://cal.red/?event=5307\nCost: Free\, donations welcome
 LOCATION:dear friend books\, 343A Tompkins Ave\, Brooklyn\, NY 11216
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Henry Birdsey\, Aliya Ultan & Georges Mefleh\, Caius Williams & Th
+ eo Guttenplan\, Hampus Öhman-Frölund / Michael Coleman / Jonathan Goldbe
+ rger\, DJ MK + KM
+DTSTART:20260526T233000Z
+DTEND:20260527T003000Z
+DTSTAMP:20260526T233000Z
+UID:event:5400:2026-05-26T19:30:00
+DESCRIPTION:https://cal.red/?event=5400\nCost: $15 🌀 notaflof
+LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
+ yn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NYC Mesh Open Mesh Night
 DTSTART:20260527T000000Z
 DTEND:20260527T010000Z
