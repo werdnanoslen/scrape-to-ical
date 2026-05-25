@@ -40,6 +40,16 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Memorial Day: No Sirl\, Contractor\, Larry Termite\, DJ Snafu
+DTSTART:20260526T020000Z
+DTEND:20260526T030000Z
+DTSTAMP:20260526T020000Z
+UID:event:5381:2026-05-25T22:00:00
+DESCRIPTION:https://cal.red/?event=5381\nCost: 🌀 free
+LOCATION:@ bossa nova civic club (21+)\, 1271 myrtle ave\, bushwick\, bkly
+ n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hidden Companions: Paranormals from the Old City of Jerusalem
 DTSTART:20260526T220000Z
 DTEND:20260526T230000Z
@@ -257,6 +267,16 @@ LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
  yn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Noise Catalogue
+DTSTART:20260528T233000Z
+DTEND:20260529T003000Z
+DTSTAMP:20260528T233000Z
+UID:event:5379:2026-05-28T19:30:00
+DESCRIPTION:https://cal.red/?event=5379\nCost: free - optional donation
+LOCATION:Sō Percussion Studio at 20 Grand Ave #205 in the Brooklyn Navy Y
+ ard
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pageant Spring '26
 DTSTART:20260529T000000Z
 DTEND:20260529T010000Z
@@ -292,6 +312,15 @@ DTSTAMP:20260529T190000Z
 UID:event:5363:2026-05-29T15:00:00
 DESCRIPTION:https://cal.red/?event=5363\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry Corp. Spring Rent Party
+DTSTART:20260529T190000Z
+DTEND:20260529T200000Z
+DTSTAMP:20260529T190000Z
+UID:event:5380:2026-05-29T15:00:00
+DESCRIPTION:https://cal.red/?event=5380\nCrown Heights\, Brooklyn\nCost: 0
+LOCATION:925 Bergen St\, #405
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brooklyn Poets Reading Series 5.29.26
