@@ -79,39 +79,6 @@ DESCRIPTION:https://www.viewcy.com/event/new_york_oud_festival_13\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Imran Fida Live
-DTSTART:20260530T003000Z
-DTEND:20260530T023000Z
-DTSTAMP:20260530T003000Z
-UID:Imran Fida Live
-DESCRIPTION:https://www.viewcy.com/event/imran_fida_live\n<p><img alt="Imr
- an Fida Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
- sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
- ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
- c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Fr
- ails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0Y
- SI6MTgwMTQ3LCJwdXIiOiJibG9iX2lkIn19--34f599fba85afb2544b49a64bf895eb29b5af
- b94%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6
- WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2
- UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f
- 67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_next/ima
- ge?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentat
- ions%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTgwMTQ3LCJwdXIiOiJibG9iX2lkIn19
- --34f599fba85afb2544b49a64bf895eb29b5afb94%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb
- 3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXA
- iOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0a
- W9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&am
- p\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Fr
- ails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0Y
- SI6MTgwMTQ3LCJwdXIiOiJibG9iX2lkIn19--34f599fba85afb2544b49a64bf895eb29b5af
- b94%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6
- WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2
- UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f
- 67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="color: t
- ransparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Khayal Manthan by Dr. Radhika Joshi: BRM Concert and Jam
 DTSTART:20260530T003000Z
 DTEND:20260530T023000Z
@@ -144,6 +111,39 @@ DESCRIPTION:https://www.viewcy.com/event/khayal_manthan_by_dr\n<p><img alt
  IjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FEblast_Th
  umbnails__28Instagram_Post__2845_29_29__281_29.png&amp\;w=640&amp\;q=100 2
  x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Imran Fida Live
+DTSTART:20260530T003000Z
+DTEND:20260530T023000Z
+DTSTAMP:20260530T003000Z
+UID:Imran Fida Live
+DESCRIPTION:https://www.viewcy.com/event/imran_fida_live\n<p><img alt="Imr
+ an Fida Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
+ sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
+ ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
+ c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Fr
+ ails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0Y
+ SI6MTgwMTQ3LCJwdXIiOiJibG9iX2lkIn19--34f599fba85afb2544b49a64bf895eb29b5af
+ b94%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6
+ WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2
+ UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f
+ 67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_next/ima
+ ge?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentat
+ ions%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTgwMTQ3LCJwdXIiOiJibG9iX2lkIn19
+ --34f599fba85afb2544b49a64bf895eb29b5afb94%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb
+ 3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXA
+ iOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0a
+ W9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&am
+ p\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Fr
+ ails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0Y
+ SI6MTgwMTQ3LCJwdXIiOiJibG9iX2lkIn19--34f599fba85afb2544b49a64bf895eb29b5af
+ b94%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6
+ WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2
+ UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f
+ 67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="color: t
+ ransparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
@@ -681,6 +681,39 @@ DESCRIPTION:https://www.viewcy.com/event/novi_hitovi_brass_ban_2\n<p><img
  1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be
  3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" 
  style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DA
+DTSTART:20260612T000000Z
+DTEND:20260612T020000Z
+DTSTAMP:20260612T000000Z
+UID:DA
+DESCRIPTION:https://www.viewcy.com/event/da\n<p><img alt="DA thumbnail" cl
+ ass="styles_coverImg__PsR9G" data-nimg="1" data-sentry-component="ImageWit
+ hFallback" data-sentry-element="Image" data-sentry-source-file="index.tsx"
+  decoding="async" height="186" loading="lazy" src="https://www.viewcy.com/
+ _next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Fre
+ presentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTgxNTc2LCJwdXIiOiJibG9
+ iX2lkIn19--b47938902cfb4859fc5d876d3b2c8b529a88657f%2FeyJfcmFpbHMiOnsiZGF0
+ YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOn
+ sic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoi
+ dmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Desig
+ ns.png&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fwww.v
+ iewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFp
+ bHMiOnsiZGF0YSI6MTgxNTc2LCJwdXIiOiJibG9iX2lkIn19--b47938902cfb4859fc5d876d
+ 3b2c8b529a88657f%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemV
+ fdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1L
+ CJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d
+ 3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=384&amp\;q=100 1x\, /
+ _next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Fre
+ presentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTgxNTc2LCJwdXIiOiJibG9
+ iX2lkIn19--b47938902cfb4859fc5d876d3b2c8b529a88657f%2FeyJfcmFpbHMiOnsiZGF0
+ YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOn
+ sic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoi
+ dmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Desig
+ ns.png&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/
+ ></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
