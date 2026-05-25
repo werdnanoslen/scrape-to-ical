@@ -71,21 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Circle May Early-Morning Hours
-DTSTART;VALUE=DATE:20260524T040000Z
-DTEND;VALUE=DATE:20260524T060000Z
-UID:Garden Circle May Early-Morning Hours-2026-05-24 04:00:00+00:00
-DESCRIPTION:Saturday\, May 23 & Sunday\, May\, 24\, 2026 | 9–10 a.m.\n		
- 			\n\n\n					\n						\n							| Preregistration Required\n\nMembers of th
- e Garden Circle and higher levels can enjoy exclusive access to the Garden
-  from 9 to 10 a.m.Learn More›about Garden Circle May Early-Morning Hours
- \n\nMore info:\nhttps://www.bbg.org/visit/event/may_early_morning_hours\n\
- n<img src="/img/uploads/hero/_list_thumbnail_regular/peonies_14098414639.j
- pg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:School Group Visits: Discovery Trail
 DTSTART;VALUE=DATE:20260526T040000Z
 DTEND;VALUE=DATE:20260526T060000Z
@@ -298,21 +283,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring First Discoveries
-DTSTART;VALUE=DATE:20260603T040000Z
-DTEND;VALUE=DATE:20260603T060000Z
-UID:Spring First Discoveries-2026-06-03 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
- ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
- \, create a craft\, read a story\, and use your senses to explore nature a
- t activity stations designed for early learners up to 4 years old.Learn Mo
- re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
- it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
- regular/JW_00154-2800x1200-c.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herbaceous Landscape Plant ID
 DTSTART;VALUE=DATE:20260603T040000Z
 DTEND;VALUE=DATE:20260603T060000Z
@@ -324,6 +294,21 @@ DESCRIPTION:6 weekly sessions beginning Wednesday\, June 3\; Tuesday\, Ju
  us Landscape Plant ID\n\nMore info:\nhttps://www.bbg.org/classes/herbaceou
  s_landscape_plant_id\n\n<img src="/img/uploads/hero/_list_thumbnail_regula
  r/cornflower-centaura-cyanus_MS_52203502814_hero.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring First Discoveries
+DTSTART;VALUE=DATE:20260603T040000Z
+DTEND;VALUE=DATE:20260603T060000Z
+UID:Spring First Discoveries-2026-06-03 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
+ ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
+ \, create a craft\, read a story\, and use your senses to explore nature a
+ t activity stations designed for early learners up to 4 years old.Learn Mo
+ re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
+ regular/JW_00154-2800x1200-c.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -535,6 +520,36 @@ DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
  \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
  n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
  _54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20260609T040000Z
+DTEND;VALUE=DATE:20260609T060000Z
+UID:School Group Visits: Discovery Trail-2026-06-09 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
+ ne 11\, 2026 (except June 4) \n					\n\n\n					\n						\n							| Preregi
+ stration Required\n\nUse real science tools as you explore plants alongsid
+ e Discovery Docents at our hands-on activity stations throughout the Disco
+ very Garden.Learn More›about School Group Visits: Discovery Trail\n\nMor
+ e info:\nhttps://www.bbg.org/visit/event/school_group_visits_discovery_tra
+ il\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/discovery
+ -cart_BB_42604393462-1120.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260609T040000Z
+DTEND;VALUE=DATE:20260609T060000Z
+UID:Seasonal Highlights Tour-2026-06-09 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
+  BBG’s plants and gardens in peak bloom and other highlights of the seas
+ on in this free walk led by trained Garden Guides.Learn More›about Seaso
+ nal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasona
+ l_highlights_tour_june_2026\n\n<img src="/img/uploads/hero/_list_thumbnail
+ _regular/visitors-rose-garden_JW_54571986919.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
