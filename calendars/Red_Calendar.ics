@@ -135,6 +135,18 @@ DESCRIPTION:https://cal.red/?event=5382\nCost: 20-40 sliding scale
 LOCATION:Bedstuy\, NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unseelie Court: Form of the Fight (fencing demos & figure drawing)
+ \, J. Albert (live)\, Dasychira\, Qualiatik\, Sentinel\, Emile (visuals)
+DTSTART:20260527T220000Z
+DTEND:20260527T230000Z
+DTSTAMP:20260527T220000Z
+UID:event:5406:2026-05-27T18:00:00
+DESCRIPTION:https://cal.red/?event=5406\nCost: prolly 🌀 notaflof\, $20 
+ max
+LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
+ s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Collections Work Party
 DTSTART:20260527T223000Z
 DTEND:20260527T233000Z
@@ -356,15 +368,6 @@ DTEND:20260529T160000Z
 DTSTAMP:20260529T150000Z
 UID:event:5365:2026-05-29T11:00:00
 DESCRIPTION:https://cal.red/?event=5365\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260529T190000Z
-DTEND:20260529T200000Z
-DTSTAMP:20260529T190000Z
-UID:event:5363:2026-05-29T15:00:00
-DESCRIPTION:https://cal.red/?event=5363\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
