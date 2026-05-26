@@ -402,21 +402,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Circle June Early-Morning Hours
-DTSTART;VALUE=DATE:20260606T040000Z
-DTEND;VALUE=DATE:20260606T060000Z
-UID:Garden Circle June Early-Morning Hours-2026-06-06 04:00:00+00:00
-DESCRIPTION:Saturday\, June 6 & Sunday\, June 7\, 2026 | 9–10 a.m.\n				
- 	\n\n\n					\n						\n							| Preregistration Required\n\nMembers of the 
- Garden Circle and higher levels can enjoy exclusive access to the Garden f
- rom 9 to 10 a.m.Learn More›about Garden Circle June Early-Morning Hours\
- n\nMore info:\nhttps://www.bbg.org/visit/event/june_early_morning_hours\n\
- n<img src="/img/uploads/hero/_list_thumbnail_regular/rose-garden_186958181
- 16_lp.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Walking Meditation: Deep Listening in Nature
 DTSTART;VALUE=DATE:20260606T040000Z
 DTEND;VALUE=DATE:20260606T060000Z
@@ -432,18 +417,17 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring Family Discovery Weekends
+SUMMARY:Garden Circle June Early-Morning Hours
 DTSTART;VALUE=DATE:20260606T040000Z
 DTEND;VALUE=DATE:20260606T060000Z
-UID:Spring Family Discovery Weekends-2026-06-06 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
- e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
- 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
- d\, and marsh habitats and in the vegetable garden encourage families to e
- xplore nature together.Learn More›about Spring Family Discovery Weekends
- \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
- n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
- _54439412040.jpeg" alt="" />
+UID:Garden Circle June Early-Morning Hours-2026-06-06 04:00:00+00:00
+DESCRIPTION:Saturday\, June 6 & Sunday\, June 7\, 2026 | 9–10 a.m.\n				
+ 	\n\n\n					\n						\n							| Preregistration Required\n\nMembers of the 
+ Garden Circle and higher levels can enjoy exclusive access to the Garden f
+ rom 9 to 10 a.m.Learn More›about Garden Circle June Early-Morning Hours\
+ n\nMore info:\nhttps://www.bbg.org/visit/event/june_early_morning_hours\n\
+ n<img src="/img/uploads/hero/_list_thumbnail_regular/rose-garden_186958181
+ 16_lp.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -464,6 +448,22 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spring Family Discovery Weekends
+DTSTART;VALUE=DATE:20260606T040000Z
+DTEND;VALUE=DATE:20260606T060000Z
+UID:Spring Family Discovery Weekends-2026-06-06 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
+ e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
+ 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
+ d\, and marsh habitats and in the vegetable garden encourage families to e
+ xplore nature together.Learn More›about Spring Family Discovery Weekends
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
+ n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
+ _54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Spring Family Story Time
 DTSTART;VALUE=DATE:20260606T040000Z
 DTEND;VALUE=DATE:20260606T060000Z
@@ -475,6 +475,22 @@ DESCRIPTION:Saturdays\, April 25\, June 6\; Sundays\, May 10\, 17\, 31\, 2
  nMore info:\nhttps://www.bbg.org/visit/event/family_storytime\n\n<img src=
  "/img/uploads/manual/hero/_list_thumbnail_regular/storytime-custom-MS-4900
  1587152.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Nose for Roses: A Perfumed Walk in the Cranford Rose Garden
+DTSTART;VALUE=DATE:20260606T040000Z
+DTEND;VALUE=DATE:20260606T060000Z
+UID:A Nose for Roses: A Perfumed Walk in the Cranford Rose Garden-2026-06-
+ 06 04:00:00+00:00
+DESCRIPTION:Saturday\, May 23\, 2026 (Rain date: June 6) | 12–3:30 p.m. 
+ \n					\n\n\n					\n						| Waitlist Only\n\nLearn about the beauty\, hist
+ ory and legacy of the adored and exalted rose.Learn More›about A Nose fo
+ r Roses: A Perfumed Walk in the Cranford Rose Garden\n\nMore info:\nhttps:
+ //www.bbg.org/classes/a_nose_for_roses_a_perfumed_walk_in_the_cranford_ros
+ e_garden\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/cranford_r
+ ose-MS-50019961911.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
