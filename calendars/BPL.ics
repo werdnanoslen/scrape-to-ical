@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Citizenship Class
-DTSTART:20260526T133000Z
-DTEND:20260526T163000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/816157
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260526T160000Z
 DTEND:20260526T230000Z
@@ -26,14 +18,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822248
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Hour
-DTSTART:20260526T163000Z
-DTEND:20260526T180000Z
-DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
- rg/node/821907
-LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
@@ -375,5 +359,24 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7999
  00
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20260528T140000Z
+DTEND:20260528T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/814914
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260528T140000Z
+DTEND:20260528T160000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820127
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
