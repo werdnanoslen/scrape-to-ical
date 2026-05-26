@@ -20,14 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260526T190000Z
-DTEND:20260526T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/80337
- 8
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
 DTSTART:20260526T210000Z
 DTEND:20260526T223000Z
@@ -374,6 +366,16 @@ DESCRIPTION:Hello\, Future Podcaster! In this course\, you will learn how
  to record\, edit\, and publish your own podcast right from your phone. We
  'll start with simple interview and recording techniques. You'll also\n\nh
  ttps://www.bklynlibrary.org/node/795954
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Edit Your Podcast
+DTSTART:20260528T180000Z
+DTEND:20260528T200000Z
+DESCRIPTION:Interested in making a podcast but don’t know how to edit? L
+ earn simple editing tools to make your podcast sound better\, as well as f
+ ree and inexpensive software options for editing at home or on the\n\nhttp
+ s://www.bklynlibrary.org/node/795958
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
