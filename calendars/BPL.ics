@@ -20,16 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20260526T210000Z
-DTEND:20260526T223000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/799545
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Author Office Hours with Cara Bastone
 DTSTART:20260526T210000Z
 DTEND:20260526T233000Z
@@ -38,16 +28,6 @@ DESCRIPTION:Book a 1-on-1 session with bestselling author Cara Bastone at
  Where to start or when to stop? You can book a 30-minute slot to\n\nhttps:
  //www.bklynlibrary.org/node/823244
 LOCATION:Park Slope\, Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20260526T210000Z
-DTEND:20260526T223000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/825094
-LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group - Brooklyn Heights
@@ -377,5 +357,25 @@ DESCRIPTION:Interested in making a podcast but don’t know how to edit? L
  ree and inexpensive software options for editing at home or on the\n\nhttp
  s://www.bklynlibrary.org/node/795958
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Plan to Plate: af&co & Carbonate 2026 Hospitality Trends Repo
+ rt
+DTSTART:20260528T180000Z
+DTEND:20260528T190000Z
+DESCRIPTION:Spotlighting the biggest influences shaping restaurants\, F&B\
+ , travel\, hotels\, marketing\, and social—packed with actionable strate
+ gies to stay relevant\, capitalize on trends\, and drive sales.\n\nhttps:/
+ /www.bklynlibrary.org/node/819528
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260528T180000Z
+DTEND:20260528T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/822755
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
