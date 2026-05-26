@@ -84,13 +84,13 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/pre-production-ess
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Editing with Premiere 
+SUMMARY:TV Studio Intensive
 DTSTART:20260601T220000Z
 DTEND:20260602T010000Z
 DTSTAMP:20260601T220000Z
-UID:Video Editing with Premiere -2026-06-01T22:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
- premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+UID:TV Studio Intensive-2026-06-01T22:00:00+00:00
+DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
+ on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -104,13 +104,13 @@ DESCRIPTION:Cost: 60\nhttps://bricartsmedia.org/class/photoshop-essentials
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TV Studio Intensive
+SUMMARY:Video Editing with Premiere 
 DTSTART:20260601T220000Z
 DTEND:20260602T010000Z
 DTSTAMP:20260601T220000Z
-UID:TV Studio Intensive-2026-06-01T22:00:00+00:00
-DESCRIPTION:Cost: $120\nhttps://bricartsmedia.org/class/tv-studio-producti
- on/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+UID:Video Editing with Premiere -2026-06-01T22:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-editing-with-
+ premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -143,16 +143,6 @@ DESCRIPTION:Cost: $25\nhttps://bricartsmedia.org/class/street-photography/
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alternatives to Adobe
-DTSTART:20260604T150000Z
-DTEND:20260604T170000Z
-DTSTAMP:20260604T150000Z
-UID:Alternatives to Adobe-2026-06-04T15:00:00+00:00
-DESCRIPTION:Cost: 5\nhttps://bricartsmedia.org/class/alternatives-to-adobe
- /\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stop-Motion Animation Techniques 
 DTSTART:20260604T180000Z
 DTEND:20260604T200000Z
@@ -160,6 +150,16 @@ DTSTAMP:20260604T180000Z
 UID:Stop-Motion Animation Techniques -2026-06-04T18:00:00+00:00
 DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/stop-motion-animat
  ion-techniques/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternatives to Adobe
+DTSTART:20260604T150000Z
+DTEND:20260604T170000Z
+DTSTAMP:20260604T150000Z
+UID:Alternatives to Adobe-2026-06-04T15:00:00+00:00
+DESCRIPTION:Cost: 5\nhttps://bricartsmedia.org/class/alternatives-to-adobe
+ /\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
@@ -210,6 +210,16 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/instagram-for-smal
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Intro to Radio Podcasting
+DTSTART:20260609T220000Z
+DTEND:20260610T010000Z
+DTSTAMP:20260609T220000Z
+UID:Intro to Radio Podcasting-2026-06-09T22:00:00+00:00
+DESCRIPTION:Cost: 75\nhttps://bricartsmedia.org/class/intro-to-radio-podca
+ sting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere 
 DTSTART:20260609T160000Z
 DTEND:20260609T190000Z
@@ -230,16 +240,6 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brooklyn-poetry-sl
  ://bricartsmedia.org/wp-content/uploads/2024/08/Resized-2024-poetry-slam-p
  hoto-1-200x200.jpg" alt="" />
 LOCATION:The Plaza at 300 Ashland
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intro to Radio Podcasting
-DTSTART:20260609T220000Z
-DTEND:20260610T010000Z
-DTSTAMP:20260609T220000Z
-UID:Intro to Radio Podcasting-2026-06-09T22:00:00+00:00
-DESCRIPTION:Cost: 75\nhttps://bricartsmedia.org/class/intro-to-radio-podca
- sting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Interviewing for Film &#038\; TV
@@ -292,6 +292,16 @@ DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/studio-podcasting/\
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260613T170000Z
+DTEND:20260613T210000Z
+DTSTAMP:20260613T170000Z
+UID:Video Production in the Field-2026-06-13T17:00:00+00:00
+DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
+ -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mini Studio Production
 DTSTART:20260613T180000Z
 DTEND:20260613T210000Z
@@ -327,16 +337,6 @@ DESCRIPTION:Cost: Starting at $17.82\nhttps://bricartsmedia.org/event/bric
  n<img src="https://bricartsmedia.org/wp-content/uploads/2026/01/Aaliyah-Da
  y-BRIC-e1777916079335-200x200.jpg" alt="" />
 LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20260613T170000Z
-DTEND:20260613T210000Z
-DTSTAMP:20260613T170000Z
-UID:Video Production in the Field-2026-06-13T17:00:00+00:00
-DESCRIPTION:Cost: $75\nhttps://bricartsmedia.org/class/video-production-in
- -the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
@@ -396,6 +396,16 @@ DESCRIPTION:Cost: 20\nhttps://bricartsmedia.org/class/intro-to-color-gradi
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20260623T220000Z
+DTEND:20260624T010000Z
+DTSTAMP:20260623T220000Z
+UID:Mini Studio Production-2026-06-23T22:00:00+00:00
+DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
+ ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BRIC x Seed&#038\;Spark: 6 Tips to Build Your Own Distribution Pla
  ybook  &#8211\;  June 23\, 2026
 DTSTART:20260623T220000Z
@@ -415,16 +425,6 @@ DTSTAMP:20260623T180000Z
 UID:Ableton Move Certification-2026-06-23T18:00:00+00:00
 DESCRIPTION:Cost: 25\nhttps://bricartsmedia.org/class/ableton-move-certifi
  cation/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20260623T220000Z
-DTEND:20260624T010000Z
-DTSTAMP:20260623T220000Z
-UID:Mini Studio Production-2026-06-23T22:00:00+00:00
-DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
- ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -468,6 +468,16 @@ DESCRIPTION:https://bricartsmedia.org/event/benefit-show-patti-labelle/\nh
  ttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/
  wp-content/uploads/2026/05/917A6447c.Whitney-Thomas-200x200.jpg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audio Production in the Studio 
+DTSTART:20260626T220000Z
+DTEND:20260627T010000Z
+DTSTAMP:20260626T220000Z
+UID:Audio Production in the Studio -2026-06-26T22:00:00+00:00
+DESCRIPTION:Cost: $25\nhttps://bricartsmedia.org/class/audio-production-in
+ -the-studio/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Social Media Marketing 
