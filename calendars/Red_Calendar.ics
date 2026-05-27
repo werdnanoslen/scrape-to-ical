@@ -331,6 +331,16 @@ DESCRIPTION:https://cal.red/?event=5366\nCost: 0
 LOCATION:n+1 office in Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Art Opening: Sarah Porter - The Buried Sun
+DTSTART:20260529T230000Z
+DTEND:20260530T000000Z
+DTSTAMP:20260529T230000Z
+UID:event:5410:2026-05-29T19:00:00
+DESCRIPTION:https://cal.red/?event=5410\nCost: free
+LOCATION:Delight Factory\, 303 Saratoga Avenue\, Ocean Hill/Brownsville\, 
+ Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pageant Spring '26
 DTSTART:20260530T000000Z
 DTEND:20260530T010000Z
@@ -518,6 +528,15 @@ DTSTAMP:20260531T180000Z
 UID:event:5360:2026-05-31T14:00:00
 DESCRIPTION:https://cal.red/?event=5360\nCost: 0
 LOCATION:Bedford Branch of Brooklyn Public Library.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Appetite For Apartheid Monthly Canvass
+DTSTART:20260531T190000Z
+DTEND:20260531T200000Z
+DTSTAMP:20260531T190000Z
+UID:event:5408:2026-05-31T15:00:00
+DESCRIPTION:https://cal.red/?event=5408\nCost: Free
+LOCATION:Herbert Von King Park (exact location on RSVP)\, Crown Heights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Movement at Performance Space NYC
@@ -735,6 +754,15 @@ UID:event:5393:2026-06-04T19:00:00
 DESCRIPTION:https://cal.red/?event=5393\nCost: $20+
 LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
  ket for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BEYOND DARK FLOW opening night @ SoRA
+DTSTART:20260604T230000Z
+DTEND:20260605T000000Z
+DTSTAMP:20260604T230000Z
+UID:event:5407:2026-06-04T19:00:00
+DESCRIPTION:https://cal.red/?event=5407\nCost: 0
+LOCATION:The School of Radical Attention
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Come On!

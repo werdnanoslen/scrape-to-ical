@@ -11,22 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260527T140000Z
-DTEND:20260527T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 88
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260527T140000Z
-DTEND:20260527T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812233
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
 DTSTART:20260527T140000Z
 DTEND:20260527T200000Z
@@ -47,42 +31,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20260527T140000Z
-DTEND:20260527T153000Z
-DESCRIPTION:Beginners in Hebrew! Come join us to practice basic Hebrew\n\n
- https://www.bklynlibrary.org/node/823814
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260527T150000Z
-DTEND:20260527T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library (2
- nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
- ps://www.bklynlibrary.org/node/813991
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260527T153000Z
-DTEND:20260527T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/818667
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
-DTSTART:20260527T160000Z
-DTEND:20260527T230000Z
-DESCRIPTION:Register to make an appointment to receive free tax assistance
-  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
- /node/822249
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: NEW DAY: Drop-In Resume & Career Help (Brooklyn Heights
  )
 DTSTART:20260527T160000Z
@@ -92,6 +40,15 @@ DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
  n-one on a first come\, first served basis. Please sign up for a slo\n\nht
  tps://www.bklynlibrary.org/node/824903
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260527T160000Z
+DTEND:20260527T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822249
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mindful Coloring for Adults and Teens
@@ -376,5 +333,53 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8085
  96
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class - Intermediate Level (We Speak NYC)
+DTSTART:20260528T220000Z
+DTEND:20260528T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820137
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20260528T220000Z
+DTEND:20260528T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/821138
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HRA Benefits Enrollment and Tabling
+DTSTART:20260529T140000Z
+DTEND:20260529T180000Z
+DESCRIPTION:Come to the Crown Heights Library on Friday\, May 29th\, 2026 
+ to speak directly with HRA representatives to assist in enrolling for HRA 
+ benefits including: SNAP\, cash assistance\, Fair Fares discounted O\n\nht
+ tps://www.bklynlibrary.org/node/826841
+LOCATION:Crown Heights\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Read With Me: A Workshop Series for Nannies and Non-Parent Caregiv
+ ers
+DTSTART:20260529T143000Z
+DTEND:20260529T153000Z
+DESCRIPTION:"Read With Me" is a four-part workshop series for nannies and 
+ non-parent caregivers. Through modeling\, discussion\, and activities\, pa
+ rticipants will learn best practices to build early literacy skills\n\nhtt
+ ps://www.bklynlibrary.org/node/817931
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: In a Lonely Place (1950)
+DTSTART:20260529T143000Z
+DTEND:20260529T160500Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
+ ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819948
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
