@@ -31,17 +31,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: NEW DAY: Drop-In Resume & Career Help (Brooklyn Heights
- )
-DTSTART:20260527T160000Z
-DTEND:20260527T180000Z
-DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
- over letter\, interview\, and job search questions. All sessions are one-o
- n-one on a first come\, first served basis. Please sign up for a slo\n\nht
- tps://www.bklynlibrary.org/node/824903
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260527T160000Z
 DTEND:20260527T230000Z
@@ -51,38 +40,12 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20260527T170000Z
-DTEND:20260527T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /820170
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Jubilee Jammers: Motown!
-DTSTART:20260527T170000Z
-DTEND:20260527T180000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/823287
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20260527T180000Z
 DTEND:20260527T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818914
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260527T180000Z
-DTEND:20260527T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/822754
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philosophy Discussion Group: Plato's Critias
@@ -381,5 +344,43 @@ DTEND:20260529T160500Z
 DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
  ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819948
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260529T150000Z
+DTEND:20260529T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/804772
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260529T150000Z
+DTEND:20260529T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/823070
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260529T160000Z
+DTEND:20260529T180000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820147
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260529T170000Z
+DTEND:20260529T190000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 62
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
