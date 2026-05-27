@@ -57,15 +57,6 @@ DESCRIPTION:Join us this Spring as we continue our journey through the his
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260527T183000Z
-DTEND:20260527T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/822762
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260527T190000Z
 DTEND:20260527T210000Z
@@ -382,5 +373,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  62
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20260529T170000Z
+DTEND:20260529T180000Z
+DESCRIPTION:Please join us for a discussion of John Cheever's "The Five-Fo
+ rty-Eight\,” on Friday\, May 29\, 2026\, from 1-2:00 p.m.\, in B&CC Clas
+ sroom.\n\nhttps://www.bklynlibrary.org/node/823109
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
