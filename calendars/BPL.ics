@@ -21,25 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:How to Edit Your Podcast
-DTSTART:20260528T180000Z
-DTEND:20260528T200000Z
-DESCRIPTION:Interested in making a podcast but don’t know how to edit? L
- earn simple editing tools to make your podcast sound better\, as well as f
- ree and inexpensive software options for editing at home or on the\n\nhttp
- s://www.bklynlibrary.org/node/795958
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260528T190000Z
-DTEND:20260528T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816513
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zumba
 DTSTART:20260528T213000Z
 DTEND:20260528T223000Z
@@ -386,5 +367,23 @@ DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
  ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
  brary.org/node/826852
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260601T180000Z
+DTEND:20260601T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/804716
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260601T190000Z
+DTEND:20260601T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /816837
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
