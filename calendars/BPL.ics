@@ -30,52 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260528T140000Z
-DTEND:20260528T160000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820127
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260528T143000Z
-DTEND:20260528T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 46
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260528T143000Z
-DTEND:20260528T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804501
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20260528T143000Z
-DTEND:20260528T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/815923
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Make a Podcast on Your Phone
-DTSTART:20260528T150000Z
-DTEND:20260528T170000Z
-DESCRIPTION:Hello\, Future Podcaster! In this course\, you will learn how 
- to record\, edit\, and publish your own podcast right from your phone. We
- 'll start with simple interview and recording techniques. You'll also\n\nh
- ttps://www.bklynlibrary.org/node/795954
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:How to Edit Your Podcast
 DTSTART:20260528T180000Z
 DTEND:20260528T200000Z
@@ -388,5 +342,52 @@ DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
  ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
  ps://www.bklynlibrary.org/node/815645
 LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CPR & AED Non-Certified Training for Adults @ Brooklyn Heights Lib
+ rary
+DTSTART:20260530T193000Z
+DTEND:20260530T203000Z
+DESCRIPTION:Save a life! Brooklyn Heights Library is offering a free CPR &
+  AED non-certified training event. Learn the skills to save a life in the 
+ event of a cardiac arrest or heart attack.\n\nhttps://www.bklynlibrary.org
+ /node/820870
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classical Interludes: Theo Bleckmann presents 12 Easy Songs
+DTSTART:20260531T200000Z
+DTEND:20260531T213000Z
+DESCRIPTION:A jazz singer and new music composer of eclectic tastes and pr
+ odigious gifts\, Theo Bleckmann makes music that is accessibly sophisticat
+ ed\, unsentimentally emotional\, and seriously playful. His iconocl\n\nhtt
+ ps://www.bklynlibrary.org/node/818952
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 2026 Kahn Humanities Series Presents Professor Angela Y. Davis
+DTSTART:20260531T230000Z
+DTEND:20260531T003000Z
+DESCRIPTION:This event is full but we hope to open a few more seats later 
+ this week. Please check back here in a few days.\n\nhttps://www.bklynlibra
+ ry.org/node/823239
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260601T150000Z
+DTEND:20260601T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/819266
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260601T150000Z
+DTEND:20260601T170000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820313
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
