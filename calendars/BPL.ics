@@ -11,51 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260527T220000Z
-DTEND:20260527T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 27
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260527T220000Z
-DTEND:20260527T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820117
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Citizenship Class
-DTSTART:20260527T220000Z
-DTEND:20260527T000000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/820157
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comienza Tu Negocio (Curso en línea)
-DTSTART:20260527T220000Z
-DTEND:20260527T000000Z
-DESCRIPTION:¡Únase a nosotros en nuestro Programa “Comienza Tu Negocio
- ” de 5 sesiones!Este curso online gratuito y en español tiene como pro
- pósito aprender cómo estructurar su negocio para que este sea exitoso\, 
- d\n\nhttps://www.bklynlibrary.org/node/822324
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQ+ Film Discussion Group
-DTSTART:20260527T223000Z
-DTEND:20260527T233000Z
-DESCRIPTION:Join us for a monthly LGBTQ+ film discussion group where we ex
- plore classic and contemporary queer cinema!\n\nhttps://www.bklynlibrary.o
- rg/node/823028
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20260528T140000Z
 DTEND:20260528T190000Z
@@ -179,15 +134,6 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260528T213000Z
-DTEND:20260528T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819222
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Resume Coaching
 DTSTART:20260528T213000Z
 DTEND:20260528T233000Z
@@ -196,6 +142,15 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/816113
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group
+DTSTART:20260528T213000Z
+DTEND:20260528T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/819222
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -388,5 +343,50 @@ DESCRIPTION:Swap healthy plants and cuttings with your neighbors. Plant se
  st and composting and sift live compost with our friends at The\n\nhttps:/
  /www.bklynlibrary.org/node/821711
 LOCATION:Central Library\, Plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Board Game Exchange - Trade Your Board Games!
+DTSTART:20260530T170000Z
+DTEND:20260530T200000Z
+DESCRIPTION:Bring your gently used games to exchange them out for other ge
+ ntly used games.\n\nhttps://www.bklynlibrary.org/node/824497
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260530T173000Z
+DTEND:20260530T193000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/819668
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
+DTSTART:20260530T183000Z
+DTEND:20260530T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing.\
+ n\nhttps://www.bklynlibrary.org/node/821127
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Indie Games Demo with GUMBO!
+DTSTART:20260530T190000Z
+DTEND:20260530T203000Z
+DESCRIPTION:Join Indie Game designers from GUMBO to demo new and upcoming 
+ titles. Playtest a new game\, learn about game design and maybe walk away 
+ with a new favorite title.\n\nhttps://www.bklynlibrary.org/node/825813
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20260530T193000Z
+DTEND:20260530T210000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/815645
+LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
