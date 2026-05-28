@@ -30,16 +30,6 @@ DESCRIPTION:Practice your English speaking and listening skills with other
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260528T213000Z
-DTEND:20260528T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/815619
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260528T220000Z
 DTEND:20260528T233000Z
@@ -385,5 +375,14 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
  s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
  ps://www.bklynlibrary.org/node/825127
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260601T203000Z
+DTEND:20260601T210000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/824149
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
