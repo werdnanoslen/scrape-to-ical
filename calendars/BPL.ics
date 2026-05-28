@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260528T140000Z
-DTEND:20260528T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7999
- 00
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20260528T140000Z
 DTEND:20260528T210000Z
@@ -38,26 +29,6 @@ DESCRIPTION:Interested in making a podcast but don’t know how to edit? L
  ree and inexpensive software options for editing at home or on the\n\nhttp
  s://www.bklynlibrary.org/node/795958
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Plan to Plate: af&co & Carbonate 2026 Hospitality Trends Repo
- rt
-DTSTART:20260528T180000Z
-DTEND:20260528T190000Z
-DESCRIPTION:Spotlighting the biggest influences shaping restaurants\, F&B\
- , travel\, hotels\, marketing\, and social—packed with actionable strate
- gies to stay relevant\, capitalize on trends\, and drive sales.\n\nhttps:/
- /www.bklynlibrary.org/node/819528
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260528T183000Z
-DTEND:20260528T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/822763
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:French Conversation Group
@@ -387,6 +358,33 @@ DTSTART:20260601T150000Z
 DTEND:20260601T170000Z
 DESCRIPTION:The library offers free English classes for beginners learning
   English.\n\nhttps://www.bklynlibrary.org/node/821080
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20260601T150000Z
+DTEND:20260601T190000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/824842
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260601T150000Z
+DTEND:20260601T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/826689
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume Hours
+DTSTART:20260601T160000Z
+DTEND:20260601T180000Z
+DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
+ ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
+ brary.org/node/826852
 LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
