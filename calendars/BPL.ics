@@ -11,37 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Accompany Capital: Programa de Preparación para Préstamos Comerc
- iales
-DTSTART:20260529T193000Z
-DTEND:20260529T213000Z
-DESCRIPTION:¿Está interesado/a en iniciar o hacer crecer un pequeño neg
- ocio en la ciudad de Nueva York? Únase a esta sesión de orientación par
- a conocer los préstamos comerciales accesibles de Accompany Capital y\n\n
- https://www.bklynlibrary.org/node/816147
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20260529T200000Z
-DTEND:20260529T213000Z
-DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
- over letter\, interview\, and job search questions. All sessions are one-o
- n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
- tps://www.bklynlibrary.org/node/807794
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dance Workshop: Flamenco y Sol!
-DTSTART:20260529T200000Z
-DTEND:20260529T213000Z
-DESCRIPTION:Flamenco y Sol presents an interactive lecture-demonstration t
- hat brings audiences inside the world of flamenco through live dance\, mus
- ic\, and storytelling. Rooted in the cultural traditions of Andalu\n\nhttp
- s://www.bklynlibrary.org/node/823249
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260530T143000Z
 DTEND:20260530T160000Z
@@ -372,6 +341,34 @@ DTEND:20260602T230000Z
 DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
  ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
  brary.org/node/826873
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260602T220000Z
+DTEND:20260602T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/819907
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
+DTSTART:20260602T220000Z
+DTEND:20260602T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
+  Heights.\n\nhttps://www.bklynlibrary.org/node/821115
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20260602T220000Z
+DTEND:20260602T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826243
 LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
