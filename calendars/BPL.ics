@@ -21,35 +21,6 @@ DESCRIPTION:Come to the Crown Heights Library on Friday\, May 29th\, 2026
 LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Read With Me: A Workshop Series for Nannies and Non-Parent Caregiv
- ers
-DTSTART:20260529T143000Z
-DTEND:20260529T153000Z
-DESCRIPTION:"Read With Me" is a four-part workshop series for nannies and 
- non-parent caregivers. Through modeling\, discussion\, and activities\, pa
- rticipants will learn best practices to build early literacy skills\n\nhtt
- ps://www.bklynlibrary.org/node/817931
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Movie: In a Lonely Place (1950)
-DTSTART:20260529T143000Z
-DTEND:20260529T160500Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
- ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819948
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260529T150000Z
-DTEND:20260529T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter\, and get help with your questions ab
- out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
- org/node/804772
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260529T150000Z
 DTEND:20260529T200000Z
@@ -244,9 +215,8 @@ BEGIN:VEVENT
 SUMMARY:The 2026 Kahn Humanities Series Presents Professor Angela Y. Davis
 DTSTART:20260531T230000Z
 DTEND:20260531T003000Z
-DESCRIPTION:This event is full but we hope to open a few more seats later 
- this week. Please check back here in a few days.\n\nhttps://www.bklynlibra
- ry.org/node/823239
+DESCRIPTION:This event is full.\n\nhttps://www.bklynlibrary.org/node/82323
+ 9
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
@@ -379,5 +349,32 @@ DESCRIPTION:Please join us for a fun walk in Prospect Park to spot local a
  ll be walking outside so wear comfortable shoes and dress for the\n\nhttps
  ://www.bklynlibrary.org/node/824137
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260602T160000Z
+DTEND:20260602T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822250
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260602T163000Z
+DTEND:20260602T180000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/825235
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20260602T180000Z
+DTEND:20260602T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/811962
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR

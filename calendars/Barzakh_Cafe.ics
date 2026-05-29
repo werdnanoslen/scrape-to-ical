@@ -46,39 +46,6 @@ DESCRIPTION:https://www.viewcy.com/event/new_york_oud_festival_13\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Imran Fida Live
-DTSTART:20260530T003000Z
-DTEND:20260530T023000Z
-DTSTAMP:20260530T003000Z
-UID:Imran Fida Live
-DESCRIPTION:https://www.viewcy.com/event/imran_fida_live\n<p><img alt="Imr
- an Fida Live thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-
- sentry-component="ImageWithFallback" data-sentry-element="Image" data-sent
- ry-source-file="index.tsx" decoding="async" height="186" loading="lazy" sr
- c="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Fr
- ails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0Y
- SI6MTgwMTQ3LCJwdXIiOiJibG9iX2lkIn19--34f599fba85afb2544b49a64bf895eb29b5af
- b94%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6
- WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2
- UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f
- 67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_next/ima
- ge?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentat
- ions%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTgwMTQ3LCJwdXIiOiJibG9iX2lkIn19
- --34f599fba85afb2544b49a64bf895eb29b5afb94%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb
- 3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXA
- iOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0a
- W9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&am
- p\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Fr
- ails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0Y
- SI6MTgwMTQ3LCJwdXIiOiJibG9iX2lkIn19--34f599fba85afb2544b49a64bf895eb29b5af
- b94%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6
- WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2
- UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f
- 67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="color: t
- ransparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Khayal Manthan by Dr. Radhika Joshi: BRM Concert and Jam
 DTSTART:20260530T003000Z
 DTEND:20260530T023000Z
@@ -952,9 +919,9 @@ LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Night of Umm Kulthum Tarab
-DTSTART:20260712T223000Z
-DTEND:20260713T003000Z
-DTSTAMP:20260712T223000Z
+DTSTART:20260712T233000Z
+DTEND:20260713T013000Z
+DTSTAMP:20260712T233000Z
 UID:A Night of Umm Kulthum Tarab
 DESCRIPTION:https://www.viewcy.com/event/a_night_of_umm_kulthu_1\n<p><img 
  alt="A Night of Umm Kulthum Tarab thumbnail" class="styles_coverImg__PsR9G
@@ -962,21 +929,21 @@ DESCRIPTION:https://www.viewcy.com/event/a_night_of_umm_kulthu_1\n<p><img
  ent="Image" data-sentry-source-file="index.tsx" decoding="async" height="1
  86" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F
  %2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2F
- eyJfcmFpbHMiOnsiZGF0YSI6MTgxNTM0LCJwdXIiOiJibG9iX2lkIn19--82c4f3f4cd607955
- edea3c8d83490b2b570b2111%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJ
+ eyJfcmFpbHMiOnsiZGF0YSI6MTgzNDYyLCJwdXIiOiJibG9iX2lkIn19--2aa3775a64edef27
+ ca23827f8d668f26ca025f5c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJ
  yZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpd
  HkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c
  23e8be3d3917f6864589f67c6ba5945%2FRamadan%2520Programming.png&amp\;w=640&a
  mp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2
  Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTg
- xNTM0LCJwdXIiOiJibG9iX2lkIn19--82c4f3f4cd607955edea3c8d83490b2b570b2111%2F
+ zNDYyLCJwdXIiOiJibG9iX2lkIn19--2aa3775a64edef27ca23827f8d668f26ca025f5c%2F
  eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMj
  AsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQ
  bGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba
  5945%2FRamadan%2520Programming.png&amp\;w=384&amp\;q=100 1x\, /_next/image
  ?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentatio
- ns%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTgxNTM0LCJwdXIiOiJibG9iX2lkIn19--
- 82c4f3f4cd607955edea3c8d83490b2b570b2111%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3J
+ ns%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTgzNDYyLCJwdXIiOiJibG9iX2lkIn19--
+ 2aa3775a64edef27ca23827f8d668f26ca025f5c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3J
  tYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiO
  nRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9
  uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FRamadan%2520Programming.
