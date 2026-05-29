@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:HRA Benefits Enrollment and Tabling
-DTSTART:20260529T140000Z
-DTEND:20260529T180000Z
-DESCRIPTION:Come to the Crown Heights Library on Friday\, May 29th\, 2026 
- to speak directly with HRA representatives to assist in enrolling for HRA 
- benefits including: SNAP\, cash assistance\, Fair Fares discounted O\n\nht
- tps://www.bklynlibrary.org/node/826841
-LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260529T150000Z
 DTEND:20260529T200000Z
@@ -29,15 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/823070
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260529T160000Z
-DTEND:20260529T180000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820147
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -49,13 +30,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Short Story Discussion Group
-DTSTART:20260529T170000Z
-DTEND:20260529T180000Z
-DESCRIPTION:Please join us for a discussion of John Cheever's "The Five-Fo
- rty-Eight\,” on Friday\, May 29\, 2026\, from 1-2:00 p.m.\, in B&CC Clas
- sroom.\n\nhttps://www.bklynlibrary.org/node/823109
-LOCATION:Central Library\, Business & Career Center\, Classroom
+SUMMARY:CANCELLED: Collage Party
+DTSTART:20260529T180000Z
+DTEND:20260529T193000Z
+DESCRIPTION:This collage party at Central has been cancelled\, but join us
+  on Saturday\, June 27 at Macon Library (361 Lewis Ave. at Macon St.) for 
+ Collaging & Cooking with chef Nadège Fleurimond! We will have a co\n\nhtt
+ ps://www.bklynlibrary.org/node/808244
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual French Conversation Group
@@ -65,16 +47,6 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
  ://www.bklynlibrary.org/node/816538
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Collage Party
-DTSTART:20260529T180000Z
-DTEND:20260529T193000Z
-DESCRIPTION:This collage party at Central has been cancelled\, but join us
-  on Saturday\, June 27 at Macon Library (361 Lewis Ave. at Macon St.) for 
- Collaging & Cooking with chef Nadège Fleurimond! We will have a co\n\nhtt
- ps://www.bklynlibrary.org/node/808244
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Accompany Capital: Programa de Preparación para Préstamos Comerc
@@ -376,5 +348,33 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
   for assistance including feedback and suggestions regarding form\n\nht
  tps://www.bklynlibrary.org/node/811962
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260602T180000Z
+DTEND:20260602T190000Z
+DESCRIPTION:Need help navigating one of your tech devices? Come join us an
+ d ask a variety of tech questions about your tech devices.\n\nhttps://www.
+ bklynlibrary.org/node/817290
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online Intermediate English Class (We Speak NYC)
+DTSTART:20260602T180000Z
+DTEND:20260602T200000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820324
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260602T180000Z
+DTEND:20260602T190000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/821315
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
