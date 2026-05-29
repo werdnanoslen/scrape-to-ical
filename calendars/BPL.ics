@@ -21,34 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260529T170000Z
-DTEND:20260529T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 62
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Collage Party
-DTSTART:20260529T180000Z
-DTEND:20260529T193000Z
-DESCRIPTION:This collage party at Central has been cancelled\, but join us
-  on Saturday\, June 27 at Macon Library (361 Lewis Ave. at Macon St.) for 
- Collaging & Cooking with chef Nadège Fleurimond! We will have a co\n\nhtt
- ps://www.bklynlibrary.org/node/808244
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260529T180000Z
-DTEND:20260529T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816538
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Accompany Capital: Programa de Preparación para Préstamos Comerc
  iales
 DTSTART:20260529T193000Z
@@ -376,5 +348,31 @@ DESCRIPTION:Do you have a specific question about how to use computers or
   1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
  //www.bklynlibrary.org/node/821315
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Financial Strategy for Small Business Owners
+DTSTART:20260602T180000Z
+DTEND:20260602T190000Z
+DESCRIPTION:Planning\, Credit\, and Access to Capital for Growing Business
+ es!\n\nhttps://www.bklynlibrary.org/node/816718
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260602T190000Z
+DTEND:20260602T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
+ 2
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20260602T210000Z
+DTEND:20260602T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/825095
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
