@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260529T150000Z
-DTEND:20260529T200000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/823070
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Accompany Capital: Programa de Preparación para Préstamos Comerc
  iales
 DTSTART:20260529T193000Z
@@ -32,16 +22,6 @@ DESCRIPTION:¿Está interesado/a en iniciar o hacer crecer un pequeño neg
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dance Workshop: Flamenco y Sol!
-DTSTART:20260529T200000Z
-DTEND:20260529T213000Z
-DESCRIPTION:Flamenco y Sol presents an interactive lecture-demonstration t
- hat brings audiences inside the world of flamenco through live dance\, mus
- ic\, and storytelling. Rooted in the cultural traditions of Andalu\n\nhttp
- s://www.bklynlibrary.org/node/823249
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20260529T200000Z
 DTEND:20260529T213000Z
@@ -50,6 +30,16 @@ DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
  n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
  tps://www.bklynlibrary.org/node/807794
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dance Workshop: Flamenco y Sol!
+DTSTART:20260529T200000Z
+DTEND:20260529T213000Z
+DESCRIPTION:Flamenco y Sol presents an interactive lecture-demonstration t
+ hat brings audiences inside the world of flamenco through live dance\, mus
+ ic\, and storytelling. Rooted in the cultural traditions of Andalu\n\nhttp
+ s://www.bklynlibrary.org/node/823249
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -374,5 +364,14 @@ DESCRIPTION:Looking to share your current knitting project with others? Co
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
  s://www.bklynlibrary.org/node/825095
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume Hours
+DTSTART:20260602T210000Z
+DTEND:20260602T230000Z
+DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
+ ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
+ brary.org/node/826873
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
