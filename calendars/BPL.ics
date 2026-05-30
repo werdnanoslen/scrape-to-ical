@@ -11,45 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
-DTSTART:20260530T183000Z
-DTEND:20260530T203000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing.\
- n\nhttps://www.bklynlibrary.org/node/821127
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Indie Games Demo with GUMBO!
-DTSTART:20260530T190000Z
-DTEND:20260530T203000Z
-DESCRIPTION:Join Indie Game designers from GUMBO to demo new and upcoming 
- titles. Playtest a new game\, learn about game design and maybe walk away 
- with a new favorite title.\n\nhttps://www.bklynlibrary.org/node/825813
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CPR & AED Non-Certified Training for Adults @ Brooklyn Heights Lib
- rary
-DTSTART:20260530T193000Z
-DTEND:20260530T203000Z
-DESCRIPTION:Save a life! Brooklyn Heights Library is offering a free CPR &
-  AED non-certified training event. Learn the skills to save a life in the 
- event of a cardiac arrest or heart attack.\n\nhttps://www.bklynlibrary.org
- /node/820870
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Feng Shui and I Ching
-DTSTART:20260530T193000Z
-DTEND:20260530T210000Z
-DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
- arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
- ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
- ps://www.bklynlibrary.org/node/815645
-LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Classical Interludes: Theo Bleckmann presents 12 Easy Songs
 DTSTART:20260531T200000Z
 DTEND:20260531T213000Z
@@ -365,6 +326,45 @@ DTSTART:20260603T140000Z
 DTEND:20260603T153000Z
 DESCRIPTION:Beginners in Hebrew! Come join us to practice basic Hebrew\n\n
  https://www.bklynlibrary.org/node/823815
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260603T140000Z
+DTEND:20260603T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/826694
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260603T150000Z
+DTEND:20260603T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library (2
+ nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
+ ps://www.bklynlibrary.org/node/813992
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260603T153000Z
+DTEND:20260603T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/818668
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Stop the Bleed
+DTSTART:20260603T160000Z
+DTEND:20260603T170000Z
+DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
+ nd to emergencies where life-threatening bleeding is present. By learning 
+ just a few simple steps\, you can become trained to save a life in\n\nhttp
+ s://www.bklynlibrary.org/node/807800
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
