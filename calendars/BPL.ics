@@ -11,40 +11,12 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:FOSSS Guided Music Production Session: Advanced
-DTSTART:20260530T170000Z
-DTEND:20260530T190000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/785123
-LOCATION:Central Library\, Info Commons\, Recording Studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Plants on the Plaza!
-DTSTART:20260530T170000Z
-DTEND:20260530T183000Z
-DESCRIPTION:Swap healthy plants and cuttings with your neighbors. Plant se
- eds to take home. Get help with your repotting projects. Learn about compo
- st and composting and sift live compost with our friends at The\n\nhttps:/
- /www.bklynlibrary.org/node/821711
-LOCATION:Central Library\, Plaza
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Board Game Exchange - Trade Your Board Games!
 DTSTART:20260530T170000Z
 DTEND:20260530T200000Z
 DESCRIPTION:Bring your gently used games to exchange them out for other ge
  ntly used games.\n\nhttps://www.bklynlibrary.org/node/824497
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260530T173000Z
-DTEND:20260530T193000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/819668
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
@@ -368,5 +340,31 @@ DTEND:20260602T000000Z
 DESCRIPTION:Dancehall in the diaspora\, from Jamaica to Brooklyn and beyon
  d!\n\nhttps://www.bklynlibrary.org/node/825632
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260603T140000Z
+DTEND:20260603T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 89
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20260603T140000Z
+DTEND:20260603T160000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812234
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
+DTSTART:20260603T140000Z
+DTEND:20260603T200000Z
+DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
+ cated to ensuring everyone has access to essential hygiene products.No one
+  should have to go without the basics! If you or someone you know ne\n\nht
+ tps://www.bklynlibrary.org/node/820187
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
