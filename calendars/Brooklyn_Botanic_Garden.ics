@@ -71,21 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring First Discoveries
-DTSTART;VALUE=DATE:20260529T040000Z
-DTEND;VALUE=DATE:20260529T060000Z
-UID:Spring First Discoveries-2026-05-29 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
- ne 12\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plant
- \, create a craft\, read a story\, and use your senses to explore nature a
- t activity stations designed for early learners up to 4 years old.Learn Mo
- re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
- it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
- regular/JW_00154-2800x1200-c.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring Family Discovery Weekends
 DTSTART;VALUE=DATE:20260530T040000Z
 DTEND;VALUE=DATE:20260530T060000Z
@@ -660,6 +645,35 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260613T040000Z
 DTEND;VALUE=DATE:20260613T060000Z
 UID:Seasonal Highlights Tour-2026-06-13 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
+  BBG’s plants and gardens in peak bloom and other highlights of the seas
+ on in this free walk led by trained Garden Guides.Learn More›about Seaso
+ nal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasona
+ l_highlights_tour_june_2026\n\n<img src="/img/uploads/hero/_list_thumbnail
+ _regular/visitors-rose-garden_JW_54571986919.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Give Your Street Tree the Gift of Great Soil
+DTSTART;VALUE=DATE:20260614T040000Z
+DTEND;VALUE=DATE:20260614T060000Z
+UID:Give Your Street Tree the Gift of Great Soil-2026-06-14 04:00:00+00:00
+DESCRIPTION:Sunday\, June 14\, 2026 | 11 a.m.–1 p.m. \n					\n\n\n					\
+ n						\n							| Preregistration Required\n\nLearn best practices to spru
+ ce up your tree beds while improving the health and resilience of your blo
+ ck’s trees.Learn More›about Give Your Street Tree the Gift of Great So
+ il\n\nMore info:\nhttps://www.bbg.org/classes/give_your_street_tree_the_gi
+ ft_of_great_soil\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/st
+ reet-tree_MS_52146283681.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260614T040000Z
+DTEND;VALUE=DATE:20260614T060000Z
+UID:Seasonal Highlights Tour-2026-06-14 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
   BBG’s plants and gardens in peak bloom and other highlights of the seas
  on in this free walk led by trained Garden Guides.Learn More›about Seaso
