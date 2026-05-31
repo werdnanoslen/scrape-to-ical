@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Classical Interludes: Theo Bleckmann presents 12 Easy Songs
-DTSTART:20260531T200000Z
-DTEND:20260531T213000Z
-DESCRIPTION:A jazz singer and new music composer of eclectic tastes and pr
- odigious gifts\, Theo Bleckmann makes music that is accessibly sophisticat
- ed\, unsentimentally emotional\, and seriously playful. His iconocl\n\nhtt
- ps://www.bklynlibrary.org/node/818952
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The 2026 Kahn Humanities Series Presents Professor Angela Y. Davis
 DTSTART:20260531T230000Z
 DTEND:20260531T003000Z
@@ -366,5 +356,14 @@ DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
  just a few simple steps\, you can become trained to save a life in\n\nhttp
  s://www.bklynlibrary.org/node/807800
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260603T160000Z
+DTEND:20260603T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822251
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
