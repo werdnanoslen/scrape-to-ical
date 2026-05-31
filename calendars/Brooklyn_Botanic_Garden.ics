@@ -72,51 +72,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Spring Family Discovery Weekends
-DTSTART;VALUE=DATE:20260530T040000Z
-DTEND;VALUE=DATE:20260530T060000Z
-UID:Spring Family Discovery Weekends-2026-05-30 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
- e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
- 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
- d\, and marsh habitats and in the vegetable garden encourage families to e
- xplore nature together.Learn More›about Spring Family Discovery Weekends
- \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
- n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
- _54439412040.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shinnecock Oral History Plant Tour
-DTSTART;VALUE=DATE:20260530T040000Z
-DTEND;VALUE=DATE:20260530T060000Z
-UID:Shinnecock Oral History Plant Tour-2026-05-30 04:00:00+00:00
-DESCRIPTION:May 30\, September 19\, October 10\, 2026 | 11 a.m.–12 p.m.\
- n\nJoin Chenae Bullock\, a member of the Shinnecock Nation\, for a Native 
- Flora Garden tour and talk based on Indigenous traditional ecological know
- ledge.Learn More›about Shinnecock Oral History Plant Tour\n\nMore info:\
- nhttps://www.bbg.org/visit/event/shinnecock_plant_oral_history_tour\n\n<im
- g src="/img/uploads/hero/_list_thumbnail_regular/fall-visitors_MS_52456603
- 611.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chinese Brush Painting
-DTSTART;VALUE=DATE:20260530T040000Z
-DTEND;VALUE=DATE:20260530T060000Z
-UID:Chinese Brush Painting-2026-05-30 04:00:00+00:00
-DESCRIPTION:5 Saturdays: May 30–June 27\, 2026 | 1:30–3:30 p.m.\n					
- \n\n\n					\n						| Waitlist Only\n\nLearn to paint in the Chinese style 
- using a bamboo brush\, ink\, and rice paper.Learn More›about Chinese Bru
- sh Painting\n\nMore info:\nhttps://www.bbg.org/classes/chinese_brush_paint
- ing\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/19SAEARTCBP.jpe
- g" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Spring Family Discovery Weekends
 DTSTART;VALUE=DATE:20260531T040000Z
 DTEND;VALUE=DATE:20260531T060000Z
 UID:Spring Family Discovery Weekends-2026-05-31 04:00:00+00:00
@@ -191,21 +146,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Herbaceous Landscape Plant ID
-DTSTART;VALUE=DATE:20260603T040000Z
-DTEND;VALUE=DATE:20260603T060000Z
-UID:Herbaceous Landscape Plant ID-2026-06-03 04:00:00+00:00
-DESCRIPTION:6 weekly sessions beginning Wednesday\, June 3\; Tuesday\, Ju
- ly 7\; Thursday\, August 6\; or Wednesday\, August 12\, 2026\n					\n\
- n\n					\n						| Waitlist Only\n\nThe class will identify and view plant 
- characteristics during sessions on BBG grounds.Learn More›about Herbaceo
- us Landscape Plant ID\n\nMore info:\nhttps://www.bbg.org/classes/herbaceou
- s_landscape_plant_id\n\n<img src="/img/uploads/hero/_list_thumbnail_regula
- r/cornflower-centaura-cyanus_MS_52203502814_hero.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring First Discoveries
 DTSTART;VALUE=DATE:20260603T040000Z
 DTEND;VALUE=DATE:20260603T060000Z
@@ -217,6 +157,21 @@ DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | March 18–Ju
  re›about Spring First Discoveries\n\nMore info:\nhttps://www.bbg.org/vis
  it/event/first_discoveries\n\n<img src="/img/uploads/hero/_list_thumbnail_
  regular/JW_00154-2800x1200-c.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbaceous Landscape Plant ID
+DTSTART;VALUE=DATE:20260603T040000Z
+DTEND;VALUE=DATE:20260603T060000Z
+UID:Herbaceous Landscape Plant ID-2026-06-03 04:00:00+00:00
+DESCRIPTION:6 weekly sessions beginning Wednesday\, June 3\; Tuesday\, Ju
+ ly 7\; Thursday\, August 6\; or Wednesday\, August 12\, 2026\n					\n\
+ n\n					\n						| Waitlist Only\n\nThe class will identify and view plant 
+ characteristics during sessions on BBG grounds.Learn More›about Herbaceo
+ us Landscape Plant ID\n\nMore info:\nhttps://www.bbg.org/classes/herbaceou
+ s_landscape_plant_id\n\n<img src="/img/uploads/hero/_list_thumbnail_regula
+ r/cornflower-centaura-cyanus_MS_52203502814_hero.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -310,21 +265,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Circle June Early-Morning Hours
-DTSTART;VALUE=DATE:20260606T040000Z
-DTEND;VALUE=DATE:20260606T060000Z
-UID:Garden Circle June Early-Morning Hours-2026-06-06 04:00:00+00:00
-DESCRIPTION:Saturday\, June 6 & Sunday\, June 7\, 2026 | 9–10 a.m.\n				
- 	\n\n\n					\n						\n							| Preregistration Required\n\nMembers of the 
- Garden Circle and higher levels can enjoy exclusive access to the Garden f
- rom 9 to 10 a.m.Learn More›about Garden Circle June Early-Morning Hours\
- n\nMore info:\nhttps://www.bbg.org/visit/event/june_early_morning_hours\n\
- n<img src="/img/uploads/hero/_list_thumbnail_regular/rose-garden_186958181
- 16_lp.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Walking Meditation: Deep Listening in Nature
 DTSTART;VALUE=DATE:20260606T040000Z
 DTEND;VALUE=DATE:20260606T060000Z
@@ -340,18 +280,17 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring Family Discovery Weekends
+SUMMARY:Garden Circle June Early-Morning Hours
 DTSTART;VALUE=DATE:20260606T040000Z
 DTEND;VALUE=DATE:20260606T060000Z
-UID:Spring Family Discovery Weekends-2026-06-06 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
- e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
- 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
- d\, and marsh habitats and in the vegetable garden encourage families to e
- xplore nature together.Learn More›about Spring Family Discovery Weekends
- \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
- n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
- _54439412040.jpeg" alt="" />
+UID:Garden Circle June Early-Morning Hours-2026-06-06 04:00:00+00:00
+DESCRIPTION:Saturday\, June 6 & Sunday\, June 7\, 2026 | 9–10 a.m.\n				
+ 	\n\n\n					\n						\n							| Preregistration Required\n\nMembers of the 
+ Garden Circle and higher levels can enjoy exclusive access to the Garden f
+ rom 9 to 10 a.m.Learn More›about Garden Circle June Early-Morning Hours\
+ n\nMore info:\nhttps://www.bbg.org/visit/event/june_early_morning_hours\n\
+ n<img src="/img/uploads/hero/_list_thumbnail_regular/rose-garden_186958181
+ 16_lp.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -368,6 +307,22 @@ DESCRIPTION:Single session on April 8\, 9\, 10\, 11\; June 5\, 6\; July 1
  fo:\nhttps://www.bbg.org/classes/family_gardening_hours\n\n<img src="/img/
  uploads/manual/hero/_list_thumbnail_regular/family-gardening_MS_5281458343
  7-crop.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring Family Discovery Weekends
+DTSTART;VALUE=DATE:20260606T040000Z
+DTEND;VALUE=DATE:20260606T060000Z
+UID:Spring Family Discovery Weekends-2026-06-06 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
+ e 7\, 2026 (except May 2\, 16\, 23–24)\n					\n\n\n					\n						\n						
+ 	| Drop-in\n\nHands-on stations throughout the garden’s meadow\, woodlan
+ d\, and marsh habitats and in the vegetable garden encourage families to e
+ xplore nature together.Learn More›about Spring Family Discovery Weekends
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
+ n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
+ _54439412040.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -507,19 +462,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Summer Evenings
-DTSTART;VALUE=DATE:20260610T040000Z
-DTEND;VALUE=DATE:20260610T060000Z
-UID:Members’ Summer Evenings-2026-06-10 04:00:00+00:00
-DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
- avor the Garden during the twilight hours—just for members!Learn More›
- about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
- event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
- thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members’ Rose Night
 DTSTART;VALUE=DATE:20260610T040000Z
 DTEND;VALUE=DATE:20260610T060000Z
@@ -530,6 +472,19 @@ DESCRIPTION:Wednesday\, June 10\, 2026 | 6–8:30 p.m.\n\nStroll through t
  se Night\n\nMore info:\nhttps://www.bbg.org/visit/event/members_rose_night
  \n\n<img src="/img/uploads/hero/_list_thumbnail_regular/member-rose-night_
  MS_52151612029.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260610T040000Z
+DTEND;VALUE=DATE:20260610T060000Z
+UID:Members’ Summer Evenings-2026-06-10 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

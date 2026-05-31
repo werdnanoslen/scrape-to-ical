@@ -11,121 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:We are excited to announce our next Bushwick Repair Fest!
-DTSTART:20260530T160000Z
-DTEND:20260530T170000Z
-DTSTAMP:20260530T160000Z
-UID:event:5316:2026-05-30T12:00:00
-DESCRIPTION:https://cal.red/?event=5316\n280 Starr Street\, Bushwick\nCost
- : This is a free event
-LOCATION:@cuffhaction
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOW TO SHIT IN PUBLIC and IT TAKES A VILLAGE....
-DTSTART:20260530T160000Z
-DTEND:20260530T170000Z
-DTSTAMP:20260530T160000Z
-UID:event:5414:2026-05-30T12:00:00
-DESCRIPTION:https://cal.red/?event=5414\nCost: FREE
-LOCATION:252 Green St\, 3rd floor - Greenpoint
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260530T170000Z
-DTEND:20260530T180000Z
-DTSTAMP:20260530T170000Z
-UID:event:5323:2026-05-30T13:00:00
-DESCRIPTION:https://cal.red/?event=5323\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LES Radical History Tour (MoRUS)
-DTSTART:20260530T190000Z
-DTEND:20260530T200000Z
-DTSTAMP:20260530T190000Z
-UID:event:5060:2026-05-30T15:00:00
-DESCRIPTION:https://cal.red/?event=5060\n155 Ave C NYC\nCost: 20
-LOCATION:MoRUS
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Assata Shakur
-DTSTART:20260530T190000Z
-DTEND:20260530T200000Z
-DTSTAMP:20260530T190000Z
-UID:event:5352:2026-05-30T15:00:00
-DESCRIPTION:https://cal.red/?event=5352\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260530T190000Z
-DTEND:20260530T200000Z
-DTSTAMP:20260530T190000Z
-UID:event:5361:2026-05-30T15:00:00
-DESCRIPTION:https://cal.red/?event=5361\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:29 Speedway presents: LARGE! (Alex Zhang Hungtai x medium.)\, SCRA
- ATCH\, Dekalb Works
-DTSTART:20260530T210000Z
-DTEND:20260530T220000Z
-DTSTAMP:20260530T210000Z
-UID:event:5389:2026-05-30T17:00:00
-DESCRIPTION:https://cal.red/?event=5389\nCost: $25
-LOCATION:@ heft gallery (all ages)\, 300 broome st.\, bowery\, mnhtn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All Quiet on the Western Front Live Score
-DTSTART:20260530T220000Z
-DTEND:20260530T230000Z
-DTSTAMP:20260530T220000Z
-UID:event:5138:2026-05-30T18:00:00
-DESCRIPTION:https://cal.red/?event=5138\nGramercy Park\nCost: 15-20
-LOCATION:15 Rutherford Pl\, New York\, NY 10003
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:party4ppe
-DTSTART:20260530T230000Z
-DTEND:20260531T000000Z
-DTSTAMP:20260530T230000Z
-UID:event:5330:2026-05-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5330\n\nExact Location on Event Page\nC
- ost: $15-25 suggested\, NOTAFLOF
-LOCATION:Hex House\, BK (Near East Williamsburg)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ANNOUNCEMENT! The Museum of Reclaimed Urban Space is opening a new
-  pop-up exhibit on May 28th that will run until June 20ish.
-DTSTART:20260530T230000Z
-DTEND:20260531T000000Z
-DTSTAMP:20260530T230000Z
-UID:event:5371:2026-05-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5371\nCost: $free but donations are alw
- ays encouraged
-LOCATION:155 Ave C is the address
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260530T230000Z
-DTEND:20260531T000000Z
-DTSTAMP:20260530T230000Z
-UID:event:5374:2026-05-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5374\nCost: 0
-LOCATION:Museum of Reclaimed Urban Space\, 155 Ave C (between 9th & 10th S
- ts)\, Manhattan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SING THE BODY ELECTRIC!
-DTSTART:20260531T000000Z
-DTEND:20260531T010000Z
-DTSTAMP:20260531T000000Z
-UID:event:5417:2026-05-30T20:00:00
-DESCRIPTION:https://cal.red/?event=5417\n55 Washington Street\n## 736 Broo
- klyn\, NY 11201\nCost: $12.50 but NOTALOF
-LOCATION:Strother School of Radical Attention
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:
 DTSTART:20260531T140000Z
 DTEND:20260531T150000Z
@@ -172,15 +57,6 @@ DESCRIPTION:https://cal.red/?event=5360\nCost: 0
 LOCATION:Bedford Branch of Brooklyn Public Library.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No Appetite For Apartheid Monthly Canvass
-DTSTART:20260531T190000Z
-DTEND:20260531T200000Z
-DTSTAMP:20260531T190000Z
-UID:event:5408:2026-05-31T15:00:00
-DESCRIPTION:https://cal.red/?event=5408\nCost: Free
-LOCATION:Herbert Von King Park (exact location on RSVP)\, Crown Heights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jam Session with the Independent Labor Club
 DTSTART:20260531T190000Z
 DTEND:20260531T200000Z
@@ -189,6 +65,15 @@ UID:event:5415:2026-05-31T15:00:00
 DESCRIPTION:https://cal.red/?event=5415\n627 5th Ave\, Brooklyn\, NY 11215
  \nPark Slope\nCost: 0
 LOCATION:Freddy's Bar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Appetite For Apartheid Monthly Canvass
+DTSTART:20260531T190000Z
+DTEND:20260531T200000Z
+DTSTAMP:20260531T190000Z
+UID:event:5408:2026-05-31T15:00:00
+DESCRIPTION:https://cal.red/?event=5408\nCost: Free
+LOCATION:Herbert Von King Park (exact location on RSVP)\, Crown Heights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Movement at Performance Space NYC
@@ -211,15 +96,6 @@ LOCATION:@ fringe records (all ages)\, 6-56 woodward ave\, ridgewood\, que
  ens
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Topos Too Readings!
-DTSTART:20260531T230000Z
-DTEND:20260601T000000Z
-DTSTAMP:20260531T230000Z
-UID:event:5281:2026-05-31T19:00:00
-DESCRIPTION:https://cal.red/?event=5281\nCost: Free
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Belladonna* Presents Mel Elberg and Rebecca Teich
 DTSTART:20260531T230000Z
 DTEND:20260601T000000Z
@@ -228,6 +104,15 @@ UID:event:5342:2026-05-31T19:00:00
 DESCRIPTION:https://cal.red/?event=5342\n411 s 5th st.\nWilliamsburg\nCost
  : FREE
 LOCATION:The P.I.T.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Topos Too Readings!
+DTSTART:20260531T230000Z
+DTEND:20260601T000000Z
+DTSTAMP:20260531T230000Z
+UID:event:5281:2026-05-31T19:00:00
+DESCRIPTION:https://cal.red/?event=5281\nCost: Free
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wet Spot Presents: UnHinged - a queer dating show!
@@ -261,6 +146,15 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Downstairs] Free Karaoke w/ Oz & Friends
+DTSTART:20260602T020000Z
+DTEND:20260602T030000Z
+DTSTAMP:20260602T020000Z
+UID:event:5395:2026-06-01T22:00:00
+DESCRIPTION:https://cal.red/?event=5395\nCost: 🌀 free
+LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[FUNDRAISER] Under The Sea: xcakes fundraiser: Pauli Cakes\, Total
   XTC\, p1nkstar b2b JOSELO\, Coyado\, Katie Rex\, Concrete Husband
 DTSTART:20260602T020000Z
@@ -270,15 +164,6 @@ UID:event:5394:2026-06-01T22:00:00
 DESCRIPTION:https://cal.red/?event=5394\nCost: $10+
 LOCATION:@ bossa nova civic club (21+)\, 1271 myrtle ave\, bushwick\, bkly
  n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Downstairs] Free Karaoke w/ Oz & Friends
-DTSTART:20260602T020000Z
-DTEND:20260602T030000Z
-DTSTAMP:20260602T020000Z
-UID:event:5395:2026-06-01T22:00:00
-DESCRIPTION:https://cal.red/?event=5395\nCost: 🌀 free
-LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downtown Music Gallery Free Shows
@@ -319,15 +204,6 @@ DESCRIPTION:https://cal.red/?event=5413\nNew York\, NY 10027\n(Manhattanvi
 LOCATION:632 West 125th Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Synth Social at Dreamsong Music Lab
-DTSTART:20260603T230000Z
-DTEND:20260604T000000Z
-DTSTAMP:20260603T230000Z
-UID:event:5343:2026-06-03T19:00:00
-DESCRIPTION:https://cal.red/?event=5343\nCost: 10
-LOCATION:743 DeKalb Ave\, Brooklyn\, NY in Bed-Stuy
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ajab presents @khajistanpress’s newest chapbook\, THERE ARE NO H
  OMOSEXUALS IN IRAN
 DTSTART:20260603T230000Z
@@ -347,6 +223,15 @@ DESCRIPTION:https://cal.red/?event=5398\nCost: $11
 LOCATION:@ alphaville (21+)\, 140 wilson ave\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Synth Social at Dreamsong Music Lab
+DTSTART:20260603T230000Z
+DTEND:20260604T000000Z
+DTSTAMP:20260603T230000Z
+UID:event:5343:2026-06-03T19:00:00
+DESCRIPTION:https://cal.red/?event=5343\nCost: 10
+LOCATION:743 DeKalb Ave\, Brooklyn\, NY in Bed-Stuy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Film Screening & Discussion: The Panama Deception (1992)
 DTSTART:20260603T233000Z
 DTEND:20260604T003000Z
@@ -357,6 +242,15 @@ DESCRIPTION:https://cal.red/?event=5424\nCost: Free (donations to Ridgewoo
 LOCATION:Ridgewood Commons - 585 Woodward Ave\, Ridgewood\, NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Poetry Project Readings!
+DTSTART:20260604T000000Z
+DTEND:20260604T010000Z
+DTSTAMP:20260604T000000Z
+UID:event:5278:2026-06-03T20:00:00
+DESCRIPTION:https://cal.red/?event=5278\nCost: 10
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (June)
 DTSTART:20260604T000000Z
 DTEND:20260604T010000Z
@@ -365,15 +259,6 @@ UID:event:4796:2026-06-03T20:00:00
 DESCRIPTION:https://cal.red/?event=4796\nHell's Kitchen\nCost: PWYCA (sugg
  ested $15)
 LOCATION:Prime Produce\, 424 W 54th St
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poetry Project Readings!
-DTSTART:20260604T000000Z
-DTEND:20260604T010000Z
-DTSTAMP:20260604T000000Z
-UID:event:5278:2026-06-03T20:00:00
-DESCRIPTION:https://cal.red/?event=5278\nCost: 10
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:📣 No Funding for Killer Cops! 📣 Community Control not Billio
@@ -398,13 +283,13 @@ LOCATION:📍 The Griot Circle Inc. — 25 Flatbush Ave\, 3rd Floor\, Broo
  klyn\, NY 11217
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adam Manno: Live From Guachupita!
+SUMMARY:BEYOND DARK FLOW opening night @ SoRA
 DTSTART:20260604T230000Z
 DTEND:20260605T000000Z
 DTSTAMP:20260604T230000Z
-UID:event:5222:2026-06-04T19:00:00
-DESCRIPTION:https://cal.red/?event=5222\nCost: $15
-LOCATION:Life World in Bushwick
+UID:event:5407:2026-06-04T19:00:00
+DESCRIPTION:https://cal.red/?event=5407\nCost: 0
+LOCATION:The School of Radical Attention
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Alexis Almeida\, Serena Solin\, James Loop\, and Eric Palgon read 
@@ -418,6 +303,15 @@ DESCRIPTION:https://cal.red/?event=5252\n360 Van Brunt St\nRed Hook\, Broo
 LOCATION:Record Shop
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adam Manno: Live From Guachupita!
+DTSTART:20260604T230000Z
+DTEND:20260605T000000Z
+DTSTAMP:20260604T230000Z
+UID:event:5222:2026-06-04T19:00:00
+DESCRIPTION:https://cal.red/?event=5222\nCost: $15
+LOCATION:Life World in Bushwick
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:150th Present Sounds: fieldtalk will Present Sounds
 DTSTART:20260604T230000Z
 DTEND:20260605T000000Z
@@ -426,15 +320,6 @@ UID:event:5393:2026-06-04T19:00:00
 DESCRIPTION:https://cal.red/?event=5393\nCost: $20+
 LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
  ket for address
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BEYOND DARK FLOW opening night @ SoRA
-DTSTART:20260604T230000Z
-DTEND:20260605T000000Z
-DTSTAMP:20260604T230000Z
-UID:event:5407:2026-06-04T19:00:00
-DESCRIPTION:https://cal.red/?event=5407\nCost: 0
-LOCATION:The School of Radical Attention
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Come On!
@@ -477,15 +362,6 @@ LOCATION:@ brothers wash & dry laundromat (all ages)\, 60-42 54th pl.\, ma
  speth\, queens
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drag Race All Stars 11
-DTSTART:20260606T000000Z
-DTEND:20260606T010000Z
-DTSTAMP:20260606T000000Z
-UID:event:5218:2026-06-05T20:00:00
-DESCRIPTION:https://cal.red/?event=5218\nCost: free
-LOCATION:10 Cooper St\, Brooklyn NY 11207
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Poetry Project Readings!
 DTSTART:20260606T000000Z
 DTEND:20260606T010000Z
@@ -493,6 +369,15 @@ DTSTAMP:20260606T000000Z
 UID:event:5278:2026-06-05T20:00:00
 DESCRIPTION:https://cal.red/?event=5278\nCost: 10
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drag Race All Stars 11
+DTSTART:20260606T000000Z
+DTEND:20260606T010000Z
+DTSTAMP:20260606T000000Z
+UID:event:5218:2026-06-05T20:00:00
+DESCRIPTION:https://cal.red/?event=5218\nCost: free
+LOCATION:10 Cooper St\, Brooklyn NY 11207
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1ol1v1a @ Reforesters Laboratory
@@ -588,6 +473,16 @@ DESCRIPTION:https://cal.red/?event=4396\nCost: Free
 LOCATION:Keith Haring Theater
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:12x12 vol.6 Contemporary Dance Showcase
+DTSTART:20260607T230000Z
+DTEND:20260608T000000Z
+DTSTAMP:20260607T230000Z
+UID:event:5392:2026-06-07T19:00:00
+DESCRIPTION:https://cal.red/?event=5392\nCost: $25+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Open Book\, Sloth\, and Wet Spot Present MÉNAGE A TROIS III: THE 
  MOON at The Parkside Lounge
 DTSTART:20260607T230000Z
@@ -606,16 +501,6 @@ UID:event:5384:2026-06-07T19:00:00
 DESCRIPTION:https://cal.red/?event=5384\nCost: 🌀 notaflof
 LOCATION:@ brothers wash & dry laundromat (all ages)\, 60-42 54th pl.\, ma
  speth\, queens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:12x12 vol.6 Contemporary Dance Showcase
-DTSTART:20260607T230000Z
-DTEND:20260608T000000Z
-DTSTAMP:20260607T230000Z
-UID:event:5392:2026-06-07T19:00:00
-DESCRIPTION:https://cal.red/?event=5392\nCost: $25+
-LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
- ket for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
@@ -648,15 +533,6 @@ LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
   mnhtn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:queer climb night
-DTSTART:20260609T230000Z
-DTEND:20260610T000000Z
-DTSTAMP:20260609T230000Z
-UID:event:5349:2026-06-09T19:00:00
-DESCRIPTION:https://cal.red/?event=5349\nCost: $20 inc shoe rental
-LOCATION:GP-81 in Bushwick (off Jefferson L)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DAWSHA دوشة: Secret Artist (live)\, slipnat\, Solofan\, S!NA
 DTSTART:20260609T230000Z
 DTEND:20260610T000000Z
@@ -665,6 +541,15 @@ UID:event:5399:2026-06-09T19:00:00
 DESCRIPTION:https://cal.red/?event=5399\nCost: $20+
 LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
  ket for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:queer climb night
+DTSTART:20260609T230000Z
+DTEND:20260610T000000Z
+DTSTAMP:20260609T230000Z
+UID:event:5349:2026-06-09T19:00:00
+DESCRIPTION:https://cal.red/?event=5349\nCost: $20 inc shoe rental
+LOCATION:GP-81 in Bushwick (off Jefferson L)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NYC Mesh Open Mesh Night
