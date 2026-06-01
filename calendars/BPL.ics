@@ -303,14 +303,6 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20260603T140000Z
-DTEND:20260603T153000Z
-DESCRIPTION:Beginners in Hebrew! Come join us to practice basic Hebrew\n\n
- https://www.bklynlibrary.org/node/823815
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260603T140000Z
 DTEND:20260603T210000Z
@@ -319,6 +311,14 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/826694
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20260603T140000Z
+DTEND:20260603T153000Z
+DESCRIPTION:Beginners in Hebrew! Come join us to practice basic Hebrew\n\n
+ https://www.bklynlibrary.org/node/823815
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
