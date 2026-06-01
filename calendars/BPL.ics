@@ -18,15 +18,6 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820963
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260601T220000Z
-DTEND:20260601T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/824331
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260602T133000Z
 DTEND:20260602T163000Z
@@ -365,6 +356,14 @@ DTEND:20260603T000000Z
 DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820118
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Citizenship Class
+DTSTART:20260603T220000Z
+DTEND:20260603T000000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/820158
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
