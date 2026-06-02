@@ -20,14 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Hour
-DTSTART:20260602T163000Z
-DTEND:20260602T180000Z
-DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
- rg/node/825235
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Resume Coaching
 DTSTART:20260602T180000Z
 DTEND:20260602T200000Z
@@ -38,39 +30,12 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260602T180000Z
-DTEND:20260602T190000Z
-DESCRIPTION:Need help navigating one of your tech devices? Come join us an
- d ask a variety of tech questions about your tech devices.\n\nhttps://www.
- bklynlibrary.org/node/817290
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online Intermediate English Class (We Speak NYC)
 DTSTART:20260602T180000Z
 DTEND:20260602T200000Z
 DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820324
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260602T180000Z
-DTEND:20260602T190000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/821315
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Financial Strategy for Small Business Owners
-DTSTART:20260602T180000Z
-DTEND:20260602T190000Z
-DESCRIPTION:Planning\, Credit\, and Access to Capital for Growing Business
- es!\n\nhttps://www.bklynlibrary.org/node/816718
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
@@ -368,5 +333,42 @@ DTEND:20260603T000000Z
 DESCRIPTION:Minority and Women-Owned Business Enterprises (MWBE)\n\nhttps:
  //www.bklynlibrary.org/node/810063
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20260604T140000Z
+DTEND:20260604T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/7999
+ 01
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20260604T140000Z
+DTEND:20260604T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/814915
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260604T140000Z
+DTEND:20260604T160000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820128
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260604T143000Z
+DTEND:20260604T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 47
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
