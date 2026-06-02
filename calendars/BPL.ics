@@ -20,16 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20260602T210000Z
-DTEND:20260602T223000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/825095
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume Hours
 DTSTART:20260602T210000Z
 DTEND:20260602T230000Z
@@ -37,15 +27,6 @@ DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
  ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
  brary.org/node/826873
 LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260602T220000Z
-DTEND:20260602T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/819907
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
@@ -57,14 +38,13 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
+SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260602T220000Z
-DTEND:20260602T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/826243
-LOCATION:Crown Heights Library
+DTEND:20260602T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/819907
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brooklyn Talks | Shaggy and Max Glazer
@@ -73,6 +53,16 @@ DTEND:20260602T000000Z
 DESCRIPTION:Dancehall in the diaspora\, from Jamaica to Brooklyn and beyon
  d!\n\nhttps://www.bklynlibrary.org/node/825632
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20260602T220000Z
+DTEND:20260602T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826243
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -371,5 +361,14 @@ DESCRIPTION:Stop-motion animation is a fun and easy way to create titles\,
  me popular stop-motion animation techniques\, and show you how to cr\n\nht
  tps://www.bklynlibrary.org/node/796120
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260604T180000Z
+DTEND:20260604T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/826341
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
