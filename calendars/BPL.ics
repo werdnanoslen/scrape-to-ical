@@ -30,16 +30,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Digital Skills & AI Literacy: Info Session
-DTSTART:20260603T200000Z
-DTEND:20260603T213000Z
-DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
- cess to Google Career Certificates- online\, self-paced programs designed 
- to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
- ps://www.bklynlibrary.org/node/820621
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260603T220000Z
 DTEND:20260603T000000Z
@@ -378,5 +368,15 @@ DESCRIPTION:A bilingual flamenco performance honoring women artists of New
   York\, sharing stories of resilience\, aging and cultural heritage throug
  h dance and storytelling.\n\nhttps://www.bklynlibrary.org/node/823144
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bars & Books: Nick Grant's "Smile" Listening Session
+DTSTART:20260605T220000Z
+DTEND:20260605T000000Z
+DESCRIPTION:Join us at Brooklyn Public Library’s Brooklyn Heights branch
+  for a special Bars & Books listening session and live conversation celebr
+ ating Smile\, the latest project from South Carolina's own Nick Gra\n\nhtt
+ ps://www.bklynlibrary.org/node/826830
+LOCATION:Brooklyn Heights Library\, Reading Circle
 END:VEVENT
 END:VCALENDAR
