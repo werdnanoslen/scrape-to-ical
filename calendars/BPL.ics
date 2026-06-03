@@ -40,14 +40,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plum Papercraft: Paper Kusudama Flower
-DTSTART:20260603T170000Z
-DTEND:20260603T183000Z
-DESCRIPTION:Make this charming kusudama flower using colorful paper square
- s\, glue\, and a glass gem.\n\nhttps://www.bklynlibrary.org/node/819269
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20260603T180000Z
 DTEND:20260603T200000Z
@@ -63,24 +55,6 @@ DESCRIPTION:Meet Senator Gournardes' office representatives to talk about
  the issues and receive in person assistance accessing state social service
  s.\n\nhttps://www.bklynlibrary.org/node/819239
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260603T180000Z
-DTEND:20260603T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826340
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260603T183000Z
-DTEND:20260603T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826349
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -375,5 +349,32 @@ DESCRIPTION:Looking to meet other LGBTQ+ folks? We meet the first Tuesday
  of every month to discuss an LGBTQ+ work.\n\nhttps://www.bklynlibrary.org/
  node/821331
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Podcast Club at BPL: Pride
+DTSTART:20260604T223000Z
+DTEND:20260604T233000Z
+DESCRIPTION:Join us at BPL’s Podcast Club for a thematic discussion base
+ d on the podcast medium. All are welcome!\n\nhttps://www.bklynlibrary.org/
+ node/823786
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: The Man Who Knew Too Much (1956)
+DTSTART:20260605T143000Z
+DTEND:20260605T163000Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
+ ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819950
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260605T150000Z
+DTEND:20260605T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/804773
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
