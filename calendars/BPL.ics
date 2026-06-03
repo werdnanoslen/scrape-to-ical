@@ -11,23 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260602T220000Z
-DTEND:20260602T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/819907
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Talks | Shaggy and Max Glazer
-DTSTART:20260602T220000Z
-DTEND:20260602T000000Z
-DESCRIPTION:Dancehall in the diaspora\, from Jamaica to Brooklyn and beyon
- d!\n\nhttps://www.bklynlibrary.org/node/825632
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260603T140000Z
 DTEND:20260603T160000Z
@@ -370,5 +353,25 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828062
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20260604T213000Z
+DTEND:20260604T223000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/815620
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260604T213000Z
+DTEND:20260604T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/816114
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
