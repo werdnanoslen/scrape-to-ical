@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
-DTSTART:20260603T140000Z
-DTEND:20260603T200000Z
-DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
- cated to ensuring everyone has access to essential hygiene products.No one
-  should have to go without the basics! If you or someone you know ne\n\nht
- tps://www.bklynlibrary.org/node/820187
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260603T140000Z
-DTEND:20260603T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/826694
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260603T160000Z
 DTEND:20260603T230000Z
@@ -38,77 +18,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822251
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20260603T180000Z
-DTEND:20260603T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818915
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Senator Gounardes Office Hours
-DTSTART:20260603T180000Z
-DTEND:20260603T210000Z
-DESCRIPTION:Meet Senator Gournardes' office representatives to talk about 
- the issues and receive in person assistance accessing state social service
- s.\n\nhttps://www.bklynlibrary.org/node/819239
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260603T190000Z
-DTEND:20260603T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
- ne-on-one review of your resume or cover letter and get help with your que
- stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
- .org/node/804748
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260603T190000Z
-DTEND:20260603T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/821154
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260603T200000Z
-DTEND:20260603T210000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804528
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Stop the Bleed
-DTSTART:20260603T200000Z
-DTEND:20260603T210000Z
-DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
- nd to emergencies where life-threatening bleeding is present. By learning 
- just a few simple steps\, you can become trained to save a life in\n\nhttp
- s://www.bklynlibrary.org/node/807809
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bingo For All Ages
-DTSTART:20260603T200000Z
-DTEND:20260603T210000Z
-DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
- esday of the month!\n\nhttps://www.bklynlibrary.org/node/813418
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digital Skills & AI Literacy: Info Session
-DTSTART:20260603T200000Z
-DTEND:20260603T213000Z
-DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
- cess to Google Career Certificates- online\, self-paced programs designed 
- to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
- ps://www.bklynlibrary.org/node/820621
-LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
@@ -119,6 +28,16 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828036
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Skills & AI Literacy: Info Session
+DTSTART:20260603T200000Z
+DTEND:20260603T213000Z
+DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
+ cess to Google Career Certificates- online\, self-paced programs designed 
+ to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
+ ps://www.bklynlibrary.org/node/820621
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -376,5 +295,88 @@ DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
  out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
  org/node/804773
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260605T150000Z
+DTEND:20260605T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/826699
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clase de Computación
+DTSTART:20260605T150000Z
+DTEND:20260605T160000Z
+DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
+ os conceptos básicos del uso de una computadora? ¿O tal vez ha pasado ti
+ empo y desea repasar y mejorar sus habilidades de computación?Puede\n\nht
+ tps://www.bklynlibrary.org/node/828452
+LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820148
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260605T170000Z
+DTEND:20260605T190000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 63
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260605T180000Z
+DTEND:20260605T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/816539
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hypertension 101 Workshop
+DTSTART:20260605T180000Z
+DTEND:20260605T190000Z
+DESCRIPTION:Join NYC Health for our Hypertension 101 Workshop. You will le
+ arn:\n\nhttps://www.bklynlibrary.org/node/825846
+LOCATION:Crown Heights\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Film Club: Pride (2014)
+DTSTART:20260605T180000Z
+DTEND:20260605T193000Z
+DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
+ e first Friday of each month. Join us for Pride (2014).\n\nhttps://www.bkl
+ ynlibrary.org/node/820848
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260605T200000Z
+DTEND:20260605T213000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/807795
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodies of Memories
+DTSTART:20260605T200000Z
+DTEND:20260605T213000Z
+DESCRIPTION:A bilingual flamenco performance honoring women artists of New
+  York\, sharing stories of resilience\, aging and cultural heritage throug
+ h dance and storytelling.\n\nhttps://www.bklynlibrary.org/node/823144
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
