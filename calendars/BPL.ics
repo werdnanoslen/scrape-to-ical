@@ -21,34 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stop-Motion Animation Techniques
-DTSTART:20260604T180000Z
-DTEND:20260604T200000Z
-DESCRIPTION:Stop-motion animation is a fun and easy way to create titles\,
-  short animations\, title sequences\, and more! In this class we review so
- me popular stop-motion animation techniques\, and show you how to cr\n\nht
- tps://www.bklynlibrary.org/node/796120
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20260604T183000Z
-DTEND:20260604T200000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers!\n
- \nhttps://www.bklynlibrary.org/node/812524
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260604T190000Z
-DTEND:20260604T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816514
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20260604T200000Z
 DTEND:20260604T000000Z
@@ -377,5 +349,35 @@ DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
  ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
  brary.org/node/826853
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260608T160000Z
+DTEND:20260608T180000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828012
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260608T180000Z
+DTEND:20260608T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/804717
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Your Business by the Numbers: Census Business Data and Tools
+DTSTART:20260608T180000Z
+DTEND:20260608T190000Z
+DESCRIPTION:Join Joli Golden from the U.S. Census Bureau for this helpful 
+ session aimed at entrepreneurs who are exploring starting a business and a
+ re looking for demographic information about their customers.\n\nhttps://w
+ ww.bklynlibrary.org/node/818725
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
