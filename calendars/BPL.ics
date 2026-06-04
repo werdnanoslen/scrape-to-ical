@@ -32,15 +32,6 @@ LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
-DTSTART:20260604T213000Z
-DTEND:20260604T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819223
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
 DTSTART:20260604T220000Z
 DTEND:20260604T233000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
@@ -376,5 +367,15 @@ DTEND:20260608T210000Z
 DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
  /816838
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20260608T200000Z
+DTEND:20260608T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/825128
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
