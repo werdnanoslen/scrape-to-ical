@@ -41,11 +41,11 @@ LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260604T180000Z
-DTEND:20260604T183000Z
+DTSTART:20260604T183000Z
+DTEND:20260604T190000Z
 DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826341
+ assistance.\n\nhttps://www.bklynlibrary.org/node/826350
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
@@ -56,15 +56,6 @@ DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join
  us to work on projects\, trade skills\, and socialize with other makers!\n
  \nhttps://www.bklynlibrary.org/node/812524
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260604T183000Z
-DTEND:20260604T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826350
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:French Conversation Group
@@ -377,5 +368,15 @@ DTEND:20260608T190000Z
 DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
  brary.org/node/824843
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260608T150000Z
+DTEND:20260608T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/826690
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
