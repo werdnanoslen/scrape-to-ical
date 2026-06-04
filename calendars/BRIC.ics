@@ -25,16 +25,6 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/opening-night-shei
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stop-Motion Animation Techniques 
-DTSTART:20260604T180000Z
-DTEND:20260604T200000Z
-DTSTAMP:20260604T180000Z
-UID:Stop-Motion Animation Techniques -2026-06-04T18:00:00+00:00
-DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/stop-motion-animat
- ion-techniques/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alternatives to Adobe
 DTSTART:20260604T150000Z
 DTEND:20260604T170000Z
@@ -42,6 +32,16 @@ DTSTAMP:20260604T150000Z
 UID:Alternatives to Adobe-2026-06-04T15:00:00+00:00
 DESCRIPTION:Cost: 5\nhttps://bricartsmedia.org/class/alternatives-to-adobe
  /\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop-Motion Animation Techniques 
+DTSTART:20260604T180000Z
+DTEND:20260604T200000Z
+DTSTAMP:20260604T180000Z
+UID:Stop-Motion Animation Techniques -2026-06-04T18:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/stop-motion-animat
+ ion-techniques/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
@@ -65,6 +65,18 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/instagram-for-smal
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brooklyn Poetry Slam 2025/2026 Season Finals
+DTSTART:20260609T223000Z
+DTEND:20260610T010000Z
+DTSTAMP:20260609T223000Z
+UID:Brooklyn Poetry Slam 2025/2026 Season Finals-2026-06-09T22:30:00+00:00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brooklyn-poetry-sl
+ am-jun-9-2025/\nhttps://maps.app.goo.gl/F2ZDwxPzEhfgdHWg8\n<img src="https
+ ://bricartsmedia.org/wp-content/uploads/2024/08/Resized-2024-poetry-slam-p
+ hoto-1-200x200.jpg" alt="" />
+LOCATION:The Plaza at 300 Ashland
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere 
 DTSTART:20260609T160000Z
 DTEND:20260609T190000Z
@@ -83,18 +95,6 @@ UID:Intro to Radio Podcasting-2026-06-09T22:00:00+00:00
 DESCRIPTION:Cost: 75\nhttps://bricartsmedia.org/class/intro-to-radio-podca
  sting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Poetry Slam 2025/2026 Season Finals
-DTSTART:20260609T223000Z
-DTEND:20260610T010000Z
-DTSTAMP:20260609T223000Z
-UID:Brooklyn Poetry Slam 2025/2026 Season Finals-2026-06-09T22:30:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brooklyn-poetry-sl
- am-jun-9-2025/\nhttps://maps.app.goo.gl/F2ZDwxPzEhfgdHWg8\n<img src="https
- ://bricartsmedia.org/wp-content/uploads/2024/08/Resized-2024-poetry-slam-p
- hoto-1-200x200.jpg" alt="" />
-LOCATION:The Plaza at 300 Ashland
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shoot Amazing B-ROLL 
@@ -263,16 +263,6 @@ DESCRIPTION:https://bricartsmedia.org/class/bric-x-seedspark-6-tips-to-bui
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ableton Move Certification
-DTSTART:20260623T180000Z
-DTEND:20260623T210000Z
-DTSTAMP:20260623T180000Z
-UID:Ableton Move Certification-2026-06-23T18:00:00+00:00
-DESCRIPTION:Cost: 25\nhttps://bricartsmedia.org/class/ableton-move-certifi
- cation/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mini Studio Production
 DTSTART:20260623T220000Z
 DTEND:20260624T010000Z
@@ -280,6 +270,16 @@ DTSTAMP:20260623T220000Z
 UID:Mini Studio Production-2026-06-23T22:00:00+00:00
 DESCRIPTION:Cost: $50\nhttps://bricartsmedia.org/class/mini-studio-product
  ion/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ableton Move Certification
+DTSTART:20260623T180000Z
+DTEND:20260623T210000Z
+DTSTAMP:20260623T180000Z
+UID:Ableton Move Certification-2026-06-23T18:00:00+00:00
+DESCRIPTION:Cost: 25\nhttps://bricartsmedia.org/class/ableton-move-certifi
+ cation/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -293,6 +293,16 @@ DESCRIPTION:Cost: $10\nhttps://bricartsmedia.org/class/intro-to-sound-desi
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Produce Remotely
+DTSTART:20260625T150000Z
+DTEND:20260625T170000Z
+DTSTAMP:20260625T150000Z
+UID:Produce Remotely-2026-06-25T15:00:00+00:00
+DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/produce-remotely/\
+ nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Marketing Your Podcast
 DTSTART:20260625T180000Z
 DTEND:20260625T200000Z
@@ -303,14 +313,14 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/marketing-your-pod
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Produce Remotely
-DTSTART:20260625T150000Z
-DTEND:20260625T170000Z
-DTSTAMP:20260625T150000Z
-UID:Produce Remotely-2026-06-25T15:00:00+00:00
-DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/produce-remotely/\
- nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
+SUMMARY:Social Media Marketing 
+DTSTART:20260626T180000Z
+DTEND:20260626T200000Z
+DTSTAMP:20260626T180000Z
+UID:Social Media Marketing -2026-06-26T18:00:00+00:00
+DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/social-media-marketi
+ ng/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Benefit Show: Patti LaBelle + Lady Wray + MORERNBPLEASE
@@ -323,16 +333,6 @@ DESCRIPTION:https://bricartsmedia.org/event/benefit-show-patti-labelle/\nh
  ttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/
  wp-content/uploads/2026/05/917A6447c.Whitney-Thomas-200x200.jpg" alt="" />
 LOCATION:Lena Horne Bandshell
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Social Media Marketing 
-DTSTART:20260626T180000Z
-DTEND:20260626T200000Z
-DTSTAMP:20260626T180000Z
-UID:Social Media Marketing -2026-06-26T18:00:00+00:00
-DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/social-media-marketi
- ng/
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Audio Production in the Studio 
@@ -385,6 +385,16 @@ DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/social-media-ma
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shoot Amazing B-Roll\, BPL
+DTSTART:20260709T180000Z
+DTEND:20260709T200000Z
+DTSTAMP:20260709T180000Z
+UID:Shoot Amazing B-Roll\, BPL-2026-07-09T18:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/shoot-amazing-b-ro
+ ll/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to Digital Photography
 DTSTART:20260709T220000Z
 DTEND:20260710T010000Z
@@ -405,14 +415,20 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/motion-graphics-wi
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shoot Amazing B-Roll\, BPL
-DTSTART:20260709T180000Z
-DTEND:20260709T200000Z
-DTSTAMP:20260709T180000Z
-UID:Shoot Amazing B-Roll\, BPL-2026-07-09T18:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/shoot-amazing-b-ro
- ll/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
+SUMMARY:Habibi Festival at BRIC Celebrate Brooklyn! Featuring EMEL\, Mai E
+ lgizouli\, Nesrine\, Yacine Boulares and the Habibi Festival House Band\, 
+ and Yalla! Party Project
+DTSTART:20260710T220000Z
+DTEND:20260711T020000Z
+DTSTAMP:20260710T220000Z
+UID:Habibi Festival at BRIC Celebrate Brooklyn! Featuring EMEL\, Mai Elgiz
+ ouli\, Nesrine\, Yacine Boulares and the Habibi Festival House Band\, and 
+ Yalla! Party Project-2026-07-10T22:00:00+00:00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/habibi-fest-2026/\
+ nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.or
+ g/wp-content/uploads/2026/04/EMEL-2026-Janine-Kuehn--200x200.jpg" alt="" /
+ >
+LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Make a Podcast on Your Phone
@@ -435,16 +451,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/how-to-edit-your-p
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Studio Podcasting
-DTSTART:20260710T170000Z
-DTEND:20260710T210000Z
-DTSTAMP:20260710T170000Z
-UID:Studio Podcasting-2026-07-10T17:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
- ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fundamentals of Screenwriting\, in-person
 DTSTART:20260710T220000Z
 DTEND:20260711T010000Z
@@ -455,29 +461,23 @@ DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/fundamentals-o
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Habibi Festival at BRIC Celebrate Brooklyn! Featuring EMEL\, Mai E
- lgizouli\, Nesrine\, Yacine Boulares and the Habibi Festival House Band\, 
- and Yalla! Party Project
-DTSTART:20260710T220000Z
-DTEND:20260711T020000Z
-DTSTAMP:20260710T220000Z
-UID:Habibi Festival at BRIC Celebrate Brooklyn! Featuring EMEL\, Mai Elgiz
- ouli\, Nesrine\, Yacine Boulares and the Habibi Festival House Band\, and 
- Yalla! Party Project-2026-07-10T22:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/habibi-fest-2026/\
- nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.or
- g/wp-content/uploads/2026/04/EMEL-2026-Janine-Kuehn--200x200.jpg" alt="" /
- >
-LOCATION:Lena Horne Bandshell
+SUMMARY:Studio Podcasting
+DTSTART:20260710T170000Z
+DTEND:20260710T210000Z
+DTSTAMP:20260710T170000Z
+UID:Studio Podcasting-2026-07-10T17:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
+ ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pre-Production Essentials\, online
-DTSTART:20260711T150000Z
-DTEND:20260711T170000Z
-DTSTAMP:20260711T150000Z
-UID:Pre-Production Essentials\, online-2026-07-11T15:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/pre-production-ess
- entials/
+SUMMARY:The Art of Video Editing\, online
+DTSTART:20260711T180000Z
+DTEND:20260711T200000Z
+DTSTAMP:20260711T180000Z
+UID:The Art of Video Editing\, online-2026-07-11T18:00:00+00:00
+DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
+ ng-online-course/
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
@@ -505,13 +505,13 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Art of Video Editing\, online
-DTSTART:20260711T180000Z
-DTEND:20260711T200000Z
-DTSTAMP:20260711T180000Z
-UID:The Art of Video Editing\, online-2026-07-11T18:00:00+00:00
-DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
- ng-online-course/
+SUMMARY:Pre-Production Essentials\, online
+DTSTART:20260711T150000Z
+DTEND:20260711T170000Z
+DTSTAMP:20260711T150000Z
+UID:Pre-Production Essentials\, online-2026-07-11T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/pre-production-ess
+ entials/
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
@@ -535,6 +535,15 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/photoshop-esse
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ORIENTATION\, online (BME2)
+DTSTART:20260714T210000Z
+DTEND:20260714T223000Z
+DTSTAMP:20260714T210000Z
+UID:ORIENTATION\, online (BME2)-2026-07-14T21:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/media-orientation/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DSLR Filmmaking - in person
 DTSTART:20260714T180000Z
 DTEND:20260714T200000Z
@@ -543,15 +552,6 @@ UID:DSLR Filmmaking - in person-2026-07-14T18:00:00+00:00
 DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/dslr-filmmakin
  g/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ORIENTATION\, online (BME2)
-DTSTART:20260714T210000Z
-DTEND:20260714T223000Z
-DTSTAMP:20260714T210000Z
-UID:ORIENTATION\, online (BME2)-2026-07-14T21:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/media-orientation/
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Field Audio Equipment Certification
@@ -584,16 +584,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/alternatives-to-ad
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ableton Move Certification
-DTSTART:20260718T180000Z
-DTEND:20260718T210000Z
-DTSTAMP:20260718T180000Z
-UID:Ableton Move Certification-2026-07-18T18:00:00+00:00
-DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
- ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Benefit Show: Royel Otis + Ax and the Hatchetmen
 DTSTART:20260718T233000Z
 DTEND:20260719T013000Z
@@ -605,5 +595,15 @@ DESCRIPTION:Cost: See ticket page\nhttps://bricartsmedia.org/event/benefit
  KgKU59\n<img src="https://bricartsmedia.org/wp-content/uploads/2025/12/Roy
  el-Otis-JPG-1-200x200.jpg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ableton Move Certification
+DTSTART:20260718T180000Z
+DTEND:20260718T210000Z
+DTSTAMP:20260718T180000Z
+UID:Ableton Move Certification-2026-07-18T18:00:00+00:00
+DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
+ ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
