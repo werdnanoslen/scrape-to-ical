@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Pizza Pop-up by Za
-DTSTART:20260604T220000Z
-DTEND:20260605T000000Z
-DTSTAMP:20260604T220000Z
-UID:Pizza Pop-up by Za
-DESCRIPTION:https://www.viewcy.com/event/pizza_popup_by_za\n<p><img alt="P
- izza Pop-up by Za thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" 
- data-sentry-component="ImageWithFallback" data-sentry-element="Image" data
- -sentry-source-file="index.tsx" decoding="async" height="186" loading="laz
- y" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.co
- m%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsi
- ZGF0YSI6MjEyNDQ1LCJwdXIiOiJibG9iX2lkIn19--0f924f92182dcb3304e862a1079c4f93
- 65c0e838%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml
- sbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlc
- mxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f686
- 4589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_nex
- t/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepres
- entations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MjEyNDQ1LCJwdXIiOiJibG9iX2l
- kIn19--0f924f92182dcb3304e862a1079c4f9365c0e838%2FeyJfcmFpbHMiOnsiZGF0YSI6
- eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3
- RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFy
- aWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.p
- ng&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.co
- m%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsi
- ZGF0YSI6MjEyNDQ1LCJwdXIiOiJibG9iX2lkIn19--0f924f92182dcb3304e862a1079c4f93
- 65c0e838%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml
- sbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlc
- mxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f686
- 4589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="col
- or: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:French Moment at Barzakh
 DTSTART:20260604T220000Z
 DTEND:20260605T000000Z
@@ -77,6 +44,39 @@ DESCRIPTION:https://www.viewcy.com/event/french_moment_at_barz_2\n<p><img
  -eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FLight%2520Grey%2520Light%2520B
  lue%2520Modern%2520Minimal%2520Bold%2520New%2520Language%2520Flyer.png&amp
  \;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pizza Pop-up by Za
+DTSTART:20260604T220000Z
+DTEND:20260605T000000Z
+DTSTAMP:20260604T220000Z
+UID:Pizza Pop-up by Za
+DESCRIPTION:https://www.viewcy.com/event/pizza_popup_by_za\n<p><img alt="P
+ izza Pop-up by Za thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" 
+ data-sentry-component="ImageWithFallback" data-sentry-element="Image" data
+ -sentry-source-file="index.tsx" decoding="async" height="186" loading="laz
+ y" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.co
+ m%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsi
+ ZGF0YSI6MjEyNDQ1LCJwdXIiOiJibG9iX2lkIn19--0f924f92182dcb3304e862a1079c4f93
+ 65c0e838%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml
+ sbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlc
+ mxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f686
+ 4589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_nex
+ t/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepres
+ entations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MjEyNDQ1LCJwdXIiOiJibG9iX2l
+ kIn19--0f924f92182dcb3304e862a1079c4f9365c0e838%2FeyJfcmFpbHMiOnsiZGF0YSI6
+ eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3
+ RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFy
+ aWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.p
+ ng&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.co
+ m%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsi
+ ZGF0YSI6MjEyNDQ1LCJwdXIiOiJibG9iX2lkIn19--0f924f92182dcb3304e862a1079c4f93
+ 65c0e838%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml
+ sbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlc
+ mxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f686
+ 4589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="col
+ or: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
