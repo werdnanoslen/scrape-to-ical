@@ -71,36 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Spring Family Discovery Days
-DTSTART;VALUE=DATE:20260604T040000Z
-DTEND;VALUE=DATE:20260604T060000Z
-UID:Spring Family Discovery Days-2026-06-04 04:00:00+00:00
-DESCRIPTION:Select weekdays\, 10:30 a.m.–12:30 p.m. | Thursday\, April 2
- \; Tuesday\, April 7\; Thursday\, April 9\; Thursday\, June 4\, 2026\n				
- 	\n\n\n					\n						\n							| Drop-in\n\nExplore nature with hands-on act
- ivities alongside BBG volunteers in the Discovery Garden.Learn More›abou
- t Spring Family Discovery Days\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/family_discovery_days_spring\n\n<img src="/img/uploads/hero/_list_thum
- bnail_regular/discovery-garden_BB_28312374767.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Native Plants for the Urban Environment
-DTSTART;VALUE=DATE:20260604T040000Z
-DTEND;VALUE=DATE:20260604T060000Z
-UID:Native Plants for the Urban Environment-2026-06-04 04:00:00+00:00
-DESCRIPTION:Thursday\, June 4\, 2026 | 1–4 p.m. \n					\n\n\n					\n				
- 		\n							| Preregistration Required\n\nLearn how to incorporate more nat
- ive plants into our urban environment to build habitat for birds\, insects
- \, and other animals.Learn More›about Native Plants for the Urban Enviro
- nment\n\nMore info:\nhttps://www.bbg.org/classes/native_plants_for_the_urb
- an_environment\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/sign
- ature-plants_MS_52073524048.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring First Discoveries
 DTSTART;VALUE=DATE:20260605T040000Z
 DTEND;VALUE=DATE:20260605T060000Z
@@ -177,22 +147,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Family Gardening Hours
-DTSTART;VALUE=DATE:20260606T040000Z
-DTEND;VALUE=DATE:20260606T060000Z
-UID:Family Gardening Hours-2026-06-06 04:00:00+00:00
-DESCRIPTION:Single session on April 8\, 9\, 10\, 11\; June 5\, 6\; July 1 
- or 2\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Pre
- registration Required\n\nJoin educators at activity stations throughout th
- e Children’s Garden during this new\, one-time class for kids of all age
- s and their caregiversLearn More›about Family Gardening Hours\n\nMore in
- fo:\nhttps://www.bbg.org/classes/family_gardening_hours\n\n<img src="/img/
- uploads/manual/hero/_list_thumbnail_regular/family-gardening_MS_5281458343
- 7-crop.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring Family Discovery Weekends
 DTSTART;VALUE=DATE:20260606T040000Z
 DTEND;VALUE=DATE:20260606T060000Z
@@ -205,6 +159,22 @@ DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | April 11–Jun
  \n\nMore info:\nhttps://www.bbg.org/visit/event/family_discovery_weekends\
  n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-garden_LL
  _54439412040.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Gardening Hours
+DTSTART;VALUE=DATE:20260606T040000Z
+DTEND;VALUE=DATE:20260606T060000Z
+UID:Family Gardening Hours-2026-06-06 04:00:00+00:00
+DESCRIPTION:Single session on April 8\, 9\, 10\, 11\; June 5\, 6\; July 1 
+ or 2\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Pre
+ registration Required\n\nJoin educators at activity stations throughout th
+ e Children’s Garden during this new\, one-time class for kids of all age
+ s and their caregiversLearn More›about Family Gardening Hours\n\nMore in
+ fo:\nhttps://www.bbg.org/classes/family_gardening_hours\n\n<img src="/img/
+ uploads/manual/hero/_list_thumbnail_regular/family-gardening_MS_5281458343
+ 7-crop.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -344,6 +314,19 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260610T040000Z
+DTEND;VALUE=DATE:20260610T060000Z
+UID:Members’ Summer Evenings-2026-06-10 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Members’ Rose Night
 DTSTART;VALUE=DATE:20260610T040000Z
 DTEND;VALUE=DATE:20260610T060000Z
@@ -354,19 +337,6 @@ DESCRIPTION:Wednesday\, June 10\, 2026 | 6–8:30 p.m.\n\nStroll through t
  se Night\n\nMore info:\nhttps://www.bbg.org/visit/event/members_rose_night
  \n\n<img src="/img/uploads/hero/_list_thumbnail_regular/member-rose-night_
  MS_52151612029.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members’ Summer Evenings
-DTSTART;VALUE=DATE:20260610T040000Z
-DTEND;VALUE=DATE:20260610T060000Z
-UID:Members’ Summer Evenings-2026-06-10 04:00:00+00:00
-DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
- avor the Garden during the twilight hours—just for members!Learn More›
- about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
- event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
- thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -594,6 +564,51 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260619T040000Z
 DTEND;VALUE=DATE:20260619T060000Z
 UID:Seasonal Highlights Tour-2026-06-19 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
+  BBG’s plants and gardens in peak bloom and other highlights of the seas
+ on in this free walk led by trained Garden Guides.Learn More›about Seaso
+ nal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasona
+ l_highlights_tour_june_2026\n\n<img src="/img/uploads/hero/_list_thumbnail
+ _regular/visitors-rose-garden_JW_54571986919.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plant ID 101
+DTSTART;VALUE=DATE:20260620T040000Z
+DTEND;VALUE=DATE:20260620T060000Z
+UID:Plant ID 101-2026-06-20 04:00:00+00:00
+DESCRIPTION:Saturday\, June 20\, 2026 | 12–4 p.m. \n					\n\n\n					\n		
+ 				\n							| Preregistration Required\n\nLearn to recognize and name her
+ baceous plants.Learn More›about Plant ID 101\n\nMore info:\nhttps://www.
+ bbg.org/classes/plant_id_101\n\n<img src="/img/uploads/hero/_list_thumbnai
+ l_regular/Gamell_hero_Wild-Violas-interplanted-with-lawn-by-Ashley-Gamell.
+ jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Midsummer Afternoon’s Perfumed Walk in the Shakespeare Garden
+DTSTART;VALUE=DATE:20260620T040000Z
+DTEND;VALUE=DATE:20260620T060000Z
+UID:A Midsummer Afternoon’s Perfumed Walk in the Shakespeare Garden-2026
+ -06-20 04:00:00+00:00
+DESCRIPTION:Saturday\, June 20\, 2026 (Rain date: June 27) | 12:30–4 p.m
+ .\n					\n\n\n					\n						\n							| Preregistration Required\n\nLearn ab
+ out the plants that were a huge part of Elizabethan life\, and use them to
+  create your own nosegay and perfume.Learn More›about A Midsummer Aftern
+ oon’s Perfumed Walk in the Shakespeare Garden\n\nMore info:\nhttps://www
+ .bbg.org/classes/midsummer_afternoons_perfumed_walk_in_the_shakespeare_gar
+ den\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/shakespeare-gar
+ den_MS_52328216080.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260620T040000Z
+DTEND;VALUE=DATE:20260620T060000Z
+UID:Seasonal Highlights Tour-2026-06-20 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
   BBG’s plants and gardens in peak bloom and other highlights of the seas
  on in this free walk led by trained Garden Guides.Learn More›about Seaso
