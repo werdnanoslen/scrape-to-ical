@@ -21,15 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260605T160000Z
-DTEND:20260605T180000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820148
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260605T170000Z
 DTEND:20260605T190000Z
@@ -39,12 +30,13 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hypertension 101 Workshop
+SUMMARY:Virtual French Conversation Group
 DTSTART:20260605T180000Z
 DTEND:20260605T190000Z
-DESCRIPTION:Join NYC Health for our Hypertension 101 Workshop. You will le
- arn:\n\nhttps://www.bklynlibrary.org/node/825846
-LOCATION:Crown Heights\, Auditorium
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/816539
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friday Film Club: Pride (2014)
@@ -56,13 +48,12 @@ DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
+SUMMARY:Hypertension 101 Workshop
 DTSTART:20260605T180000Z
 DTEND:20260605T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816539
-LOCATION:Virtual
+DESCRIPTION:Join NYC Health for our Hypertension 101 Workshop. You will le
+ arn:\n\nhttps://www.bklynlibrary.org/node/825846
+LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
@@ -367,5 +358,13 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822252
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260609T163000Z
+DTEND:20260609T180000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/825236
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
