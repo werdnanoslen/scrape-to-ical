@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260605T150000Z
-DTEND:20260605T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter\, and get help with your questions ab
- out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
- org/node/804773
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260605T150000Z
 DTEND:20260605T210000Z
@@ -367,6 +357,15 @@ DTSTART:20260609T140000Z
 DTEND:20260609T170000Z
 DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
  //www.bklynlibrary.org/node/806715
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260609T160000Z
+DTEND:20260609T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822252
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
