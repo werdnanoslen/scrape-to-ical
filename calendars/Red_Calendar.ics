@@ -33,6 +33,15 @@ LOCATION:📍 The Griot Circle Inc. — 25 Flatbush Ave\, 3rd Floor\, Broo
  klyn\, NY 11217
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Adam Manno: Live From Guachupita!
+DTSTART:20260604T230000Z
+DTEND:20260605T000000Z
+DTSTAMP:20260604T230000Z
+UID:event:5222:2026-06-04T19:00:00
+DESCRIPTION:https://cal.red/?event=5222\nCost: $15
+LOCATION:Life World in Bushwick
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Alexis Almeida\, Serena Solin\, James Loop\, and Eric Palgon read 
  at the Record Shop
 DTSTART:20260604T230000Z
@@ -42,15 +51,6 @@ UID:event:5252:2026-06-04T19:00:00
 DESCRIPTION:https://cal.red/?event=5252\n360 Van Brunt St\nRed Hook\, Broo
  klyn\nCost: Free
 LOCATION:Record Shop
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adam Manno: Live From Guachupita!
-DTSTART:20260604T230000Z
-DTEND:20260605T000000Z
-DTSTAMP:20260604T230000Z
-UID:event:5222:2026-06-04T19:00:00
-DESCRIPTION:https://cal.red/?event=5222\nCost: $15
-LOCATION:Life World in Bushwick
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BEYOND DARK FLOW opening night @ SoRA
@@ -131,15 +131,6 @@ LOCATION:@ brothers wash & dry laundromat (all ages)\, 60-42 54th pl.\, ma
  speth\, queens
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Poetry Project Readings!
-DTSTART:20260606T000000Z
-DTEND:20260606T010000Z
-DTSTAMP:20260606T000000Z
-UID:event:5278:2026-06-05T20:00:00
-DESCRIPTION:https://cal.red/?event=5278\nCost: 10
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
 DTSTART:20260606T000000Z
 DTEND:20260606T010000Z
@@ -147,6 +138,15 @@ DTSTAMP:20260606T000000Z
 UID:event:5218:2026-06-05T20:00:00
 DESCRIPTION:https://cal.red/?event=5218\nCost: free
 LOCATION:10 Cooper St\, Brooklyn NY 11207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetry Project Readings!
+DTSTART:20260606T000000Z
+DTEND:20260606T010000Z
+DTSTAMP:20260606T000000Z
+UID:event:5278:2026-06-05T20:00:00
+DESCRIPTION:https://cal.red/?event=5278\nCost: 10
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1ol1v1a @ Reforesters Laboratory
@@ -232,14 +232,14 @@ DESCRIPTION:https://cal.red/?event=5444\nCost: $25 - $50
 LOCATION:138 South Oxford St (Garden Studio) Fort Greene\, BK
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[EDIT] Goon Cave VI: guzzlin' glizzies
-DTSTART:20260607T000000Z
-DTEND:20260607T010000Z
-DTSTAMP:20260607T000000Z
-UID:event:5420:2026-06-06T20:00:00
-DESCRIPTION:https://cal.red/?event=5420\nCost: $15 - NOTAFLOF
-LOCATION:bushwick basement - email borbo.the.clown@gmail.com or DM @borbo.
- the.clown on instagram for the address.
+SUMMARY:Ego Free Jam - Acoustic
+DTSTART:20260606T233000Z
+DTEND:20260607T003000Z
+DTSTAMP:20260606T233000Z
+UID:event:5451:2026-06-06T19:30:00
+DESCRIPTION:https://cal.red/?event=5451\nOcean Hill / Brownsville\nCost: s
+ uggested donation $25
+LOCATION:303 Saratoga Ave\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Strange Animations: Intimacy Among Strangers
@@ -249,6 +249,16 @@ DTSTAMP:20260607T000000Z
 UID:event:5426:2026-06-06T20:00:00
 DESCRIPTION:https://cal.red/?event=5426\nCost: $15-20
 LOCATION:Cloud City in Williamsburg
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[EDIT] Goon Cave VI: guzzlin' glizzies
+DTSTART:20260607T000000Z
+DTEND:20260607T010000Z
+DTSTAMP:20260607T000000Z
+UID:event:5420:2026-06-06T20:00:00
+DESCRIPTION:https://cal.red/?event=5420\nCost: $15 - NOTAFLOF
+LOCATION:bushwick basement - email borbo.the.clown@gmail.com or DM @borbo.
+ the.clown on instagram for the address.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SWEAT #08
@@ -261,15 +271,6 @@ DESCRIPTION:https://cal.red/?event=5435\n674 East 9th Street\, New York\,
 LOCATION:La Plaza Cultural Community Garden
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:TWC Book Club
-DTSTART:20260607T190000Z
-DTEND:20260607T200000Z
-DTSTAMP:20260607T190000Z
-UID:event:4954:2026-06-07T15:00:00
-DESCRIPTION:https://cal.red/?event=4954\nCost: Free
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Book Launch Concert: "I Dreamed I Saw Augustine"
 DTSTART:20260607T190000Z
 DTEND:20260607T200000Z
@@ -278,6 +279,15 @@ UID:event:5427:2026-06-07T15:00:00
 DESCRIPTION:https://cal.red/?event=5427\n192 Allen St\nLower East Side\, M
  anhattan\nCost: $10
 LOCATION:Baker Falls
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWC Book Club
+DTSTART:20260607T190000Z
+DTEND:20260607T200000Z
+DTSTAMP:20260607T190000Z
+UID:event:4954:2026-06-07T15:00:00
+DESCRIPTION:https://cal.red/?event=4954\nCost: Free
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Movement at Performance Space NYC
@@ -299,16 +309,6 @@ LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
  ket for address
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Open Book\, Sloth\, and Wet Spot Present MÉNAGE A TROIS III: THE 
- MOON at The Parkside Lounge
-DTSTART:20260607T230000Z
-DTEND:20260608T000000Z
-DTSTAMP:20260607T230000Z
-UID:event:4951:2026-06-07T19:00:00
-DESCRIPTION:https://cal.red/?event=4951\nlower east side\nCost: $15
-LOCATION:Parkside Lounge\, 317 E Houston St
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wormhole: orchiddbb\, John Moran Trio\, Ben Sherman Trio
 DTSTART:20260607T230000Z
 DTEND:20260608T000000Z
@@ -317,6 +317,16 @@ UID:event:5384:2026-06-07T19:00:00
 DESCRIPTION:https://cal.red/?event=5384\nCost: 🌀 notaflof
 LOCATION:@ brothers wash & dry laundromat (all ages)\, 60-42 54th pl.\, ma
  speth\, queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Book\, Sloth\, and Wet Spot Present MÉNAGE A TROIS III: THE 
+ MOON at The Parkside Lounge
+DTSTART:20260607T230000Z
+DTEND:20260608T000000Z
+DTSTAMP:20260607T230000Z
+UID:event:4951:2026-06-07T19:00:00
+DESCRIPTION:https://cal.red/?event=4951\nlower east side\nCost: $15
+LOCATION:Parkside Lounge\, 317 E Houston St
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cal fish\, sham\, paranome\, beetsblog at hart bar garage
@@ -377,15 +387,6 @@ LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
   mnhtn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:queer climb night
-DTSTART:20260609T230000Z
-DTEND:20260610T000000Z
-DTSTAMP:20260609T230000Z
-UID:event:5349:2026-06-09T19:00:00
-DESCRIPTION:https://cal.red/?event=5349\nCost: $20 inc shoe rental
-LOCATION:GP-81 in Bushwick (off Jefferson L)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Olga Mikolaivna Chapbook Release
 DTSTART:20260609T230000Z
 DTEND:20260610T000000Z
@@ -404,6 +405,15 @@ UID:event:5399:2026-06-09T19:00:00
 DESCRIPTION:https://cal.red/?event=5399\nCost: $20+
 LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
  ket for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:queer climb night
+DTSTART:20260609T230000Z
+DTEND:20260610T000000Z
+DTSTAMP:20260609T230000Z
+UID:event:5349:2026-06-09T19:00:00
+DESCRIPTION:https://cal.red/?event=5349\nCost: $20 inc shoe rental
+LOCATION:GP-81 in Bushwick (off Jefferson L)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NYC Mesh Open Mesh Night
