@@ -21,41 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260605T170000Z
-DTEND:20260605T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 63
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260605T180000Z
-DTEND:20260605T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816539
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Film Club: Pride (2014)
-DTSTART:20260605T180000Z
-DTEND:20260605T193000Z
-DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
- e first Friday of each month. Join us for Pride (2014).\n\nhttps://www.bkl
- ynlibrary.org/node/820848
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hypertension 101 Workshop
-DTSTART:20260605T180000Z
-DTEND:20260605T190000Z
-DESCRIPTION:Join NYC Health for our Hypertension 101 Workshop. You will le
- arn:\n\nhttps://www.bklynlibrary.org/node/825846
-LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20260605T200000Z
 DTEND:20260605T213000Z
@@ -366,5 +331,43 @@ DTEND:20260609T180000Z
 DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
  rg/node/825236
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260609T180000Z
+DTEND:20260609T190000Z
+DESCRIPTION:Need help navigating one of your tech devices? Come join us an
+ d ask a variety of tech questions about your tech devices.\n\nhttps://www.
+ bklynlibrary.org/node/817291
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online Intermediate English Class (We Speak NYC)
+DTSTART:20260609T180000Z
+DTEND:20260609T200000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820325
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260609T180000Z
+DTEND:20260609T190000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/821316
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20260609T180000Z
+DTEND:20260609T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/811963
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
