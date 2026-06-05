@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Movie: The Man Who Knew Too Much (1956)
-DTSTART:20260605T143000Z
-DTEND:20260605T163000Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
- ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/819950
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260605T150000Z
 DTEND:20260605T170000Z
@@ -39,16 +31,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clase de Computación
-DTSTART:20260605T150000Z
-DTEND:20260605T160000Z
-DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
- os conceptos básicos del uso de una computadora? ¿O tal vez ha pasado ti
- empo y desea repasar y mejorar sus habilidades de computación?Puede\n\nht
- tps://www.bklynlibrary.org/node/828452
-LOCATION:Pacific\, Basement Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260605T160000Z
 DTEND:20260605T180000Z
@@ -67,15 +49,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260605T180000Z
-DTEND:20260605T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/816539
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hypertension 101 Workshop
 DTSTART:20260605T180000Z
 DTEND:20260605T190000Z
@@ -91,6 +64,15 @@ DESCRIPTION:Friday Film Club is back! We'll be showing a different film th
  e first Friday of each month. Join us for Pride (2014).\n\nhttps://www.bkl
  ynlibrary.org/node/820848
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260605T180000Z
+DTEND:20260605T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/816539
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
@@ -370,5 +352,21 @@ DTEND:20260608T234500Z
 DESCRIPTION:Join us for Philosophy Discussion Group this summer!\n\nhttps:
  //www.bklynlibrary.org/node/823107
 LOCATION:Central Library\, Reverend Elsie Smith Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260609T133000Z
+DTEND:20260609T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/816159
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
+DTSTART:20260609T140000Z
+DTEND:20260609T170000Z
+DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
+ //www.bklynlibrary.org/node/806715
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
