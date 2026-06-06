@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Bars & Books: Nick Grant's "Smile" Listening Session
-DTSTART:20260605T220000Z
-DTEND:20260605T000000Z
-DESCRIPTION:Join us at Brooklyn Public Library’s Brooklyn Heights branch
-  for a special Bars & Books listening session and live conversation celebr
- ating Smile\, the latest project from South Carolina's own Nick Gra\n\nhtt
- ps://www.bklynlibrary.org/node/826830
-LOCATION:Brooklyn Heights Library\, Reading Circle
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260606T143000Z
 DTEND:20260606T160000Z
@@ -368,5 +358,15 @@ DESCRIPTION:This presentation will walk micro-entrepreneurs through the di
  dive into the benefits and limitations of these entities.\n\nhttps://www.b
  klynlibrary.org/node/786734
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20260609T210000Z
+DTEND:20260609T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/825096
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
