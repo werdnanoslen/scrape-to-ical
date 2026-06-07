@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:NYC Livecode Meetup
-DTSTART:20260607T173000Z
-DTEND:20260607T203000Z
-DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers 
- to discuss\, promote\, and explore real-time programming. Our meetups are 
- open to all. Come with works in progress to show\, with ideas to bo\n\nhtt
- ps://www.bklynlibrary.org/node/800634
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Class
 DTSTART:20260608T150000Z
 DTEND:20260608T170000Z
@@ -370,5 +360,15 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
  nlibrary.org/node/826244
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lorraine Boissoneault in conversation with Rachel E. Gross
+DTSTART:20260609T220000Z
+DTEND:20260609T233000Z
+DESCRIPTION:Join us for a timely\, imaginative discussion with Lorraine Bo
+ issoneault on her new book Body Weather: Notes on Chronic Illness in the A
+ nthropocene. Boissoneault will be in conversation with science jo\n\nhttps
+ ://www.bklynlibrary.org/node/824907
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR
