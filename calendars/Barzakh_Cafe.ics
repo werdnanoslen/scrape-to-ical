@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Los Nuyores
-DTSTART:20260607T000000Z
-DTEND:20260607T020000Z
-DTSTAMP:20260607T000000Z
-UID:Los Nuyores
-DESCRIPTION:https://www.viewcy.com/event/los_nuyores_1\n<p><img alt="Los N
- uyores thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry
- -component="ImageWithFallback" data-sentry-element="Image" data-sentry-sou
- rce-file="index.tsx" decoding="async" height="186" loading="lazy" src="htt
- ps://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2
- Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc
- 1MjY1LCJwdXIiOiJibG9iX2lkIn19--00558fef48b4a5a5f24d31133a7cad9bc4da4bf1%2F
- eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMj
- AsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQ
- bGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba
- 5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_next/image?url
- =https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2
- Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc1MjY1LCJwdXIiOiJibG9iX2lkIn19--0055
- 8fef48b4a5a5f24d31133a7cad9bc4da4bf1%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQ
- iOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRyd
- WUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn1
- 9--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=3
- 84&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2
- Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MTc
- 1MjY1LCJwdXIiOiJibG9iX2lkIn19--00558fef48b4a5a5f24d31133a7cad9bc4da4bf1%2F
- eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMj
- AsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQ
- bGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba
- 5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="color: transpa
- rent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sudan: After Hours
 DTSTART:20260607T020000Z
 DTEND:20260607T040000Z
@@ -1005,6 +972,41 @@ DESCRIPTION:https://www.viewcy.com/event/psychedelic_cumbia_ni_6\n<p><img
  jg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8
  be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x
  " style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SADA | صدى | סָדַא
+DTSTART:20260702T000000Z
+DTEND:20260702T020000Z
+DTSTAMP:20260702T000000Z
+UID:SADA | صدى | סָדַא
+DESCRIPTION:https://www.viewcy.com/event/sada____\n<p><img alt="SADA | ص
+ دى | סָדַא thumbnail" class="styles_coverImg__PsR9G" data-nimg="1" 
+ data-sentry-component="ImageWithFallback" data-sentry-element="Image" data
+ -sentry-source-file="index.tsx" decoding="async" height="186" loading="laz
+ y" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.co
+ m%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsi
+ ZGF0YSI6MjE5ODc0LCJwdXIiOiJibG9iX2lkIn19--cab5fdceff3da2a597fb5fe91ca6f0ec
+ a6ca96d2%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml
+ sbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlc
+ mxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f686
+ 4589f67c6ba5945%2FNour%26Noam_1.07.2026_Artboard%25201%2520copy%2520155.jp
+ g&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy
+ .com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiO
+ nsiZGF0YSI6MjE5ODc0LCJwdXIiOiJibG9iX2lkIn19--cab5fdceff3da2a597fb5fe91ca6f
+ 0eca6ca96d2%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9f
+ ZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbn
+ RlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f
+ 6864589f67c6ba5945%2FNour%26Noam_1.07.2026_Artboard%25201%2520copy%2520155
+ .jpg&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.
+ com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOn
+ siZGF0YSI6MjE5ODc0LCJwdXIiOiJibG9iX2lkIn19--cab5fdceff3da2a597fb5fe91ca6f0
+ eca6ca96d2%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZ
+ mlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnR
+ lcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6
+ 864589f67c6ba5945%2FNour%26Noam_1.07.2026_Artboard%25201%2520copy%2520155.
+ jpg&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" width="308"/></
+ p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
