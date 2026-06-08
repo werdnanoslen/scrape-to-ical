@@ -27,15 +27,6 @@ DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820964
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260608T220000Z
-DTEND:20260608T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/828620
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Philosophy Discussion Group: Plato's Symposium
 DTSTART:20260608T221500Z
 DTEND:20260608T234500Z
@@ -372,6 +363,16 @@ DESCRIPTION:Join us for a 3-part virtual series led by Dr. John Weigand fr
  om Liberty Hearing Centers. This series will educate the community about t
  he importance of hearing wellness and awareness.\n\nhttps://www.bklynlibra
  ry.org/node/820416
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260610T200000Z
+DTEND:20260610T230000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828037
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
