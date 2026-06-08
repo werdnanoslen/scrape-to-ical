@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260608T180000Z
-DTEND:20260608T200000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/804717
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jigsaw Puzzle Hour
 DTSTART:20260608T190000Z
 DTEND:20260608T210000Z
@@ -373,5 +363,14 @@ DESCRIPTION:Do you have a specific question about how to use computers or
  find your way around the Internet? No time to attend a formal class?\n\nht
  tps://www.bklynlibrary.org/node/818669
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260610T160000Z
+DTEND:20260610T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822253
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
