@@ -21,14 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20260608T150000Z
-DTEND:20260608T190000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/824843
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260608T180000Z
 DTEND:20260608T200000Z
@@ -37,16 +29,6 @@ DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
  . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
  ps://www.bklynlibrary.org/node/804717
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Your Business by the Numbers: Census Business Data and Tools
-DTSTART:20260608T180000Z
-DTEND:20260608T190000Z
-DESCRIPTION:Join Joli Golden from the U.S. Census Bureau for this helpful 
- session aimed at entrepreneurs who are exploring starting a business and a
- re looking for demographic information about their customers.\n\nhttps://w
- ww.bklynlibrary.org/node/818725
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jigsaw Puzzle Hour
@@ -373,5 +355,23 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
  ps://www.bklynlibrary.org/node/813993
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sound Bath Meditation
+DTSTART:20260610T153000Z
+DTEND:20260610T160000Z
+DESCRIPTION:Join us for a relaxing Sound Bath Meditation\, led by Flutist 
+ Paul Wellington. Give yourself the space to breath\, relax\, and reconnect
+ .\n\nhttps://www.bklynlibrary.org/node/811136
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260610T153000Z
+DTEND:20260610T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/818669
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
