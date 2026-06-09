@@ -20,16 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20260609T210000Z
-DTEND:20260609T223000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/825096
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume Hours
 DTSTART:20260609T210000Z
 DTEND:20260609T230000Z
@@ -77,16 +67,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
-DTSTART:20260609T220000Z
-DTEND:20260609T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/826244
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Book Talk: Lorraine Boissoneault in conversation with Rachel E. Gr
  oss on Body Weather
 DTSTART:20260609T220000Z
@@ -96,6 +76,16 @@ DESCRIPTION:Join us for a timely\, imaginative discussion with Lorraine Bo
  nthropocene. Boissoneault will be in conversation with science jo\n\nhttps
  ://www.bklynlibrary.org/node/824907
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20260609T220000Z
+DTEND:20260609T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826244
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -379,6 +369,15 @@ DTEND:20260611T183000Z
 DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/826343
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260611T183000Z
+DTEND:20260611T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/826352
 LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
