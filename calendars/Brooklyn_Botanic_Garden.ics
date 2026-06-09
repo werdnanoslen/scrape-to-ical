@@ -491,4 +491,45 @@ DESCRIPTION:6 weekly sessions beginning Tuesday\, June 23 or Thursday\, Ju
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260624T040000Z
+DTEND;VALUE=DATE:20260624T060000Z
+UID:Seasonal Highlights Tour-2026-06-24 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
+  BBG’s plants and gardens in peak bloom and other highlights of the seas
+ on in this free walk led by trained Garden Guides.Learn More›about Seaso
+ nal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasona
+ l_highlights_tour_june_2026\n\n<img src="/img/uploads/hero/_list_thumbnail
+ _regular/visitors-rose-garden_JW_54571986919.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Pride Night
+DTSTART;VALUE=DATE:20260624T040000Z
+DTEND;VALUE=DATE:20260624T060000Z
+UID:Members’ Pride Night-2026-06-24 04:00:00+00:00
+DESCRIPTION:Wednesday\, June 24\, 2026 | 6–8:30 p.m.\n\nCelebrate Pride 
+ at BBG! Members\, guests\, and friends are invited for an evening of queer
+  community\, cohosted by Queer Soup Night.Learn More›about Members’ Pr
+ ide Night\n\nMore info:\nhttps://www.bbg.org/visit/event/members_pride_nig
+ ht\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/members-pride-ni
+ ght_MS_53011086286.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260624T040000Z
+DTEND;VALUE=DATE:20260624T060000Z
+UID:Members’ Summer Evenings-2026-06-24 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
 END:VCALENDAR
