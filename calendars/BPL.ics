@@ -30,15 +30,6 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260609T180000Z
-DTEND:20260609T190000Z
-DESCRIPTION:Need help navigating one of your tech devices? Come join us an
- d ask a variety of tech questions about your tech devices.\n\nhttps://www.
- bklynlibrary.org/node/817291
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online Intermediate English Class (We Speak NYC)
 DTSTART:20260609T180000Z
 DTEND:20260609T200000Z
@@ -48,14 +39,12 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260609T180000Z
-DTEND:20260609T190000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/821316
-LOCATION:Brooklyn Heights Library
+SUMMARY:Theater Workshop
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
+ 3
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
@@ -66,14 +55,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/827986
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260609T190000Z
-DTEND:20260609T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
- 3
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NELP: Business Entity Formation
@@ -381,5 +362,23 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
  48
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260611T140000Z
+DTEND:20260611T160000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820129
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260611T143000Z
+DTEND:20260611T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804503
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
