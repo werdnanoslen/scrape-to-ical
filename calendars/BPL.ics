@@ -20,34 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260609T190000Z
-DTEND:20260609T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
- 3
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260609T190000Z
-DTEND:20260609T210000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/827986
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NELP: Business Entity Formation
-DTSTART:20260609T200000Z
-DTEND:20260609T213000Z
-DESCRIPTION:This presentation will walk micro-entrepreneurs through the di
- fferent structures (e.g.\, Sole Proprietorship\, LLC\, S-Corp\, etc.) and 
- dive into the benefits and limitations of these entities.\n\nhttps://www.b
- klynlibrary.org/node/786734
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
 DTSTART:20260609T210000Z
 DTEND:20260609T223000Z
@@ -379,5 +351,34 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  48
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shoot Amazing B-Roll
+DTSTART:20260611T150000Z
+DTEND:20260611T170000Z
+DESCRIPTION:Expand your filmmaking toolkit by learning easy and effective 
+ tips on capturing beautiful B-ROLL footage for your documentary project or
+  narrative film. More information at https://bricartsmedia.org/c\n\nhttps
+ ://www.bklynlibrary.org/node/796121
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interviewing for Film & TV
+DTSTART:20260611T180000Z
+DTEND:20260611T200000Z
+DESCRIPTION:This class covers preparing for an interview\, subject researc
+ h\, choosing engaging questions\, avoiding common pitfalls\, and the art o
+ f using guiding questions to get the best answers during an intervie\n\nht
+ tps://www.bklynlibrary.org/node/796122
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260611T180000Z
+DTEND:20260611T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/826343
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
