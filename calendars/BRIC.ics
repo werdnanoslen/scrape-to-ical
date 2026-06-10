@@ -61,18 +61,6 @@ DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/art-video-editing-on
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BRIC House Party presents\, Aaliyah Day
-DTSTART:20260614T010000Z
-DTEND:20260613T060000Z
-DTSTAMP:20260614T010000Z
-UID:BRIC House Party presents\, Aaliyah Day-2026-06-14T01:00:00+00:00
-DESCRIPTION:Cost: Starting at $17.82\nhttps://bricartsmedia.org/event/bric
- -house-party-presents-aaliyah-day/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\
- n<img src="https://bricartsmedia.org/wp-content/uploads/2026/01/Aaliyah-Da
- y-BRIC-e1777916079335-200x200.jpg" alt="" />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Family Day: Antibalas + KidsRead with Katie Yamasaki + DJ Marc Bar
  s
 DTSTART:20260613T190000Z
@@ -86,6 +74,18 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bcb-family-day-ant
  6/04/Antibalas-Press-Photo-1-Photo-Credit-Siorne-John--200x200.jpg" alt=""
   />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIC House Party presents\, Aaliyah Day
+DTSTART:20260614T010000Z
+DTEND:20260613T060000Z
+DTSTAMP:20260614T010000Z
+UID:BRIC House Party presents\, Aaliyah Day-2026-06-14T01:00:00+00:00
+DESCRIPTION:Cost: Starting at $17.82\nhttps://bricartsmedia.org/event/bric
+ -house-party-presents-aaliyah-day/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\
+ n<img src="https://bricartsmedia.org/wp-content/uploads/2026/01/Aaliyah-Da
+ y-BRIC-e1777916079335-200x200.jpg" alt="" />
+LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mini Studio Production

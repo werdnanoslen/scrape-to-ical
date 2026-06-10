@@ -11,22 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260610T140000Z
-DTEND:20260610T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 90
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260610T140000Z
-DTEND:20260610T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812235
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
 DTSTART:20260610T140000Z
 DTEND:20260610T200000Z
@@ -47,42 +31,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20260610T140000Z
-DTEND:20260610T153000Z
-DESCRIPTION:Join us to practice and learn beginning Hebrew. Join our circl
- e meeting since 2022.\n\nhttps://www.bklynlibrary.org/node/828514
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260610T150000Z
-DTEND:20260610T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library (2
- nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
- ps://www.bklynlibrary.org/node/813993
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound Bath Meditation
-DTSTART:20260610T153000Z
-DTEND:20260610T160000Z
-DESCRIPTION:Join us for a relaxing Sound Bath Meditation\, led by Flutist 
- Paul Wellington. Give yourself the space to breath\, relax\, and reconnect
- .\n\nhttps://www.bklynlibrary.org/node/811136
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260610T153000Z
-DTEND:20260610T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/818669
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260610T160000Z
 DTEND:20260610T230000Z
@@ -90,16 +38,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822253
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Embodying Resilience-Breathe Easy: Breathwork for Balance & Energy
-DTSTART:20260610T160000Z
-DTEND:20260610T170000Z
-DESCRIPTION:Join Rooted in Radiance for this 6-part virtual series designe
- d to equip you with practical\, mindful strategies to navigate stress\, em
- body resilience\, and achieve sustainable well-being. It is structu\n\nhtt
- ps://www.bklynlibrary.org/node/813102
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mindful Coloring for Adults and Teens
@@ -378,5 +316,71 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/819224
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260611T220000Z
+DTEND:20260611T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8085
+ 98
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class - Intermediate Level (We Speak NYC)
+DTSTART:20260611T220000Z
+DTEND:20260611T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820139
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20260611T220000Z
+DTEND:20260611T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/821140
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art of Classics
+DTSTART:20260611T223000Z
+DTEND:20260611T233000Z
+DESCRIPTION:Please join us for The Art of Classics program\, on Thursday\,
+  June 11\, from 6:30 PM - 7:30 PM\, in the Info Commons Computer Lab. We w
+ ill discuss Seven Against Thebes\, and The Suppliants\, by Aeschylus.\n\nh
+ ttps://www.bklynlibrary.org/node/825797
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: My Best Friend's Wedding (1997)
+DTSTART:20260612T143000Z
+DTEND:20260612T161500Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
+ ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/828475
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260612T150000Z
+DTEND:20260612T170000Z
+DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
+ eview of your resume or cover letter\, and get help with your questions ab
+ out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
+ org/node/804774
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Safety Resource Fair
+DTSTART:20260612T150000Z
+DTEND:20260612T190000Z
+DESCRIPTION:Join Brooklyn Public Library\, city agencies and community org
+ anizations from across Brooklyn as we bring you free access to health info
+ rmation\, resources and giveaways focused on maternal health\, ment\n\nhtt
+ ps://www.bklynlibrary.org/node/821395
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
