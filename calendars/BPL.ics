@@ -48,15 +48,6 @@ DESCRIPTION:This is a self-service open lab with support tech in the room
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260610T183000Z
-DTEND:20260610T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826351
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260610T190000Z
 DTEND:20260610T210000Z
@@ -383,5 +374,15 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/826700
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Safety Symposium
+DTSTART:20260612T150000Z
+DTEND:20260612T190000Z
+DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
+  focused on Burn Prevention\, Hands-Only CPR\, Harm Reduction and Stop the
+  Bleed\, in addition to a resource fair with community organization\n\nhtt
+ ps://www.bklynlibrary.org/node/821396
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
