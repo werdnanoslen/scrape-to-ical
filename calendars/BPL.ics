@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
-DTSTART:20260610T140000Z
-DTEND:20260610T200000Z
-DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
- cated to ensuring everyone has access to essential hygiene products.No one
-  should have to go without the basics! If you or someone you know ne\n\nht
- tps://www.bklynlibrary.org/node/820188
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260610T140000Z
 DTEND:20260610T210000Z
@@ -37,14 +27,6 @@ DTEND:20260610T230000Z
 DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822253
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Tech Help for Your Job Search
-DTSTART:20260610T180000Z
-DTEND:20260610T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818916
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
@@ -384,5 +366,24 @@ DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
   Bleed\, in addition to a resource fair with community organization\n\nhtt
  ps://www.bklynlibrary.org/node/821396
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clase de Computación
+DTSTART:20260612T150000Z
+DTEND:20260612T160000Z
+DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
+ os conceptos básicos del uso de una computadora? ¿O tal vez ha pasado ti
+ empo y desea repasar y mejorar sus habilidades de computación?Puede\n\nht
+ tps://www.bklynlibrary.org/node/829416
+LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260612T160000Z
+DTEND:20260612T180000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820149
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
