@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260610T140000Z
-DTEND:20260610T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/826695
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
 DTSTART:20260610T160000Z
 DTEND:20260610T230000Z
@@ -28,33 +18,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822253
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260610T190000Z
-DTEND:20260610T210000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a o
- ne-on-one review of your resume or cover letter and get help with your que
- stions about job interviews and job searching.\n\nhttps://www.bklynlibrary
- .org/node/804749
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260610T190000Z
-DTEND:20260610T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/821155
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Healthy Hearing Series: Tinnitus & The City
-DTSTART:20260610T200000Z
-DTEND:20260610T210000Z
-DESCRIPTION:Join us for a 3-part virtual series led by Dr. John Weigand fr
- om Liberty Hearing Centers. This series will educate the community about t
- he importance of hearing wellness and awareness.\n\nhttps://www.bklynlibra
- ry.org/node/820416
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
@@ -385,5 +348,44 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820149
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hands-Only CPR Training
+DTSTART:20260612T160000Z
+DTEND:20260612T164500Z
+DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
+  focused on Burn Prevention\, Hands-Only CPR\, Narcan and Stop the Bleed\,
+  in addition to a resource fair with community organizations who ca\n\nhtt
+ ps://www.bklynlibrary.org/node/824273
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260612T170000Z
+DTEND:20260612T190000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 64
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Narcan Training
+DTSTART:20260612T170000Z
+DTEND:20260612T174500Z
+DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
+  focused on Burn Prevention\, Hands-Only CPR\, Narcan and Stop the Bleed\,
+  in addition to a resource fair with community organizations who ca\n\nhtt
+ ps://www.bklynlibrary.org/node/824284
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop the Bleed Training
+DTSTART:20260612T180000Z
+DTEND:20260612T190000Z
+DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
+  focused on Burn Prevention\, Hands-Only CPR\, Narcan and Stop the Bleed\,
+  in addition to a resource fair with community organizations who ca\n\nhtt
+ ps://www.bklynlibrary.org/node/824286
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR

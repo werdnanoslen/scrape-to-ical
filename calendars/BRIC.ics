@@ -227,16 +227,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/marketing-your-pod
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Media Marketing 
-DTSTART:20260626T180000Z
-DTEND:20260626T200000Z
-DTSTAMP:20260626T180000Z
-UID:Social Media Marketing -2026-06-26T18:00:00+00:00
-DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/social-media-marketi
- ng/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Benefit Show: Patti LaBelle + Lady Wray + MORERNBPLEASE
 DTSTART:20260626T230000Z
 DTEND:20260627T010000Z
@@ -247,6 +237,16 @@ DESCRIPTION:https://bricartsmedia.org/event/benefit-show-patti-labelle/\nh
  ttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/
  wp-content/uploads/2026/05/917A6447c.Whitney-Thomas-200x200.jpg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Media Marketing 
+DTSTART:20260626T180000Z
+DTEND:20260626T200000Z
+DTSTAMP:20260626T180000Z
+UID:Social Media Marketing -2026-06-26T18:00:00+00:00
+DESCRIPTION:Cost: $5\nhttps://bricartsmedia.org/class/social-media-marketi
+ ng/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Audio Production in the Studio 
