@@ -21,34 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Interviewing for Film & TV
-DTSTART:20260611T180000Z
-DTEND:20260611T200000Z
-DESCRIPTION:This class covers preparing for an interview\, subject researc
- h\, choosing engaging questions\, avoiding common pitfalls\, and the art o
- f using guiding questions to get the best answers during an intervie\n\nht
- tps://www.bklynlibrary.org/node/796122
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Watercolor Healing Lab w/ Common Justice
-DTSTART:20260611T183000Z
-DTEND:20260611T200000Z
-DESCRIPTION:Come join us with organization Common Justice to guide learner
- s in a Watercolor Healing Lab on Thursday\, June 11th from 2:30-4pm.\n\nht
- tps://www.bklynlibrary.org/node/826842
-LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: French Conversation Group
-DTSTART:20260611T190000Z
-DTEND:20260611T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816515
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NELP In-Person Legal Clinic for Entrepreneurs
 DTSTART:20260611T200000Z
 DTEND:20260611T220000Z
@@ -385,5 +357,31 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820315
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class
+DTSTART:20260615T150000Z
+DTEND:20260615T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/821082
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20260615T150000Z
+DTEND:20260615T183000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/824844
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260615T150000Z
+DTEND:20260615T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/826691
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
