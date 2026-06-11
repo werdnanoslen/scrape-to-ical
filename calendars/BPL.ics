@@ -30,52 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260611T140000Z
-DTEND:20260611T160000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820129
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260611T143000Z
-DTEND:20260611T163000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 48
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260611T143000Z
-DTEND:20260611T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/804503
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20260611T143000Z
-DTEND:20260611T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/815925
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shoot Amazing B-Roll
-DTSTART:20260611T150000Z
-DTEND:20260611T170000Z
-DESCRIPTION:Expand your filmmaking toolkit by learning easy and effective 
- tips on capturing beautiful B-ROLL footage for your documentary project or
-  narrative film. More information at https://bricartsmedia.org/c\n\nhttps
- ://www.bklynlibrary.org/node/796121
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Interviewing for Film & TV
 DTSTART:20260611T180000Z
 DTEND:20260611T200000Z
@@ -113,7 +67,7 @@ DESCRIPTION:Come join us with organization Common Justice to guide learner
 LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:French Conversation Group
+SUMMARY:CANCELLED: French Conversation Group
 DTSTART:20260611T190000Z
 DTEND:20260611T200000Z
 DESCRIPTION:Practice your French speaking and listening skills with other 
@@ -385,5 +339,51 @@ DESCRIPTION:Learn how Constitutional rights apply if you are approached by
   ICE or witness ICE activity in the neighborhood. All are welcome.\n\nhttp
  s://www.bklynlibrary.org/node/825851
 LOCATION:Crown Heights\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260613T173000Z
+DTEND:20260613T193000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/819670
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Biometrics & Cartoons: Biometrics\, Cartoons & Brain Hats
+DTSTART:20260613T180000Z
+DTEND:20260613T200000Z
+DESCRIPTION:The Info Commons is hosting three in-person sessions of Biomet
+ rics & Cartoons\, a course on biometric devices + data and 3D animation to
+ ols taking place this spring at BPL\, NYU\, The Animation Project\,\n\nhtt
+ ps://www.bklynlibrary.org/node/808717
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOSÉ AND THE NEGROS SICODELICOS
+DTSTART:20260613T180000Z
+DTEND:20260613T193000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/827651
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
+DTSTART:20260613T183000Z
+DTEND:20260613T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing. 
+ Instructor Margot will be at this session. Please refer to her wit\n\nhttp
+ s://www.bklynlibrary.org/node/821129
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20260613T193000Z
+DTEND:20260613T210000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/815646
+LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
