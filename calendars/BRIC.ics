@@ -130,11 +130,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Juneteenth: Infinity Song + Annie and the Caldwells + Victory Boyd
   + DJ Duane
-DTSTART:20260619T190000Z
-DTEND:20260620T000000Z
-DTSTAMP:20260619T190000Z
+DTSTART:20260619T200000Z
+DTEND:20260620T003000Z
+DTSTAMP:20260619T200000Z
 UID:Juneteenth: Infinity Song + Annie and the Caldwells + Victory Boyd + D
- J Duane-2026-06-19T19:00:00+00:00
+ J Duane-2026-06-19T20:00:00+00:00
 DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/juneteenth-at-bcb-
  infinity-song-annie-and-the-caldwells-victory-boyd-dj-duane/\nhttps://goo.
  gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-content/
@@ -498,16 +498,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/alternatives-to-ad
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Radio Podcasting
-DTSTART:20260718T180000Z
-DTEND:20260718T210000Z
-DTSTAMP:20260718T180000Z
-UID:Intro to Radio Podcasting-2026-07-18T18:00:00+00:00
-DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/intro-to-radio
- -podcasting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Benefit Show: Royel Otis + Ax and the Hatchetmen
 DTSTART:20260718T233000Z
 DTEND:20260719T013000Z
@@ -519,6 +509,16 @@ DESCRIPTION:Cost: See ticket page\nhttps://bricartsmedia.org/event/benefit
  KgKU59\n<img src="https://bricartsmedia.org/wp-content/uploads/2025/12/Roy
  el-Otis-JPG-1-200x200.jpg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Radio Podcasting
+DTSTART:20260718T180000Z
+DTEND:20260718T210000Z
+DTSTAMP:20260718T180000Z
+UID:Intro to Radio Podcasting-2026-07-18T18:00:00+00:00
+DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/intro-to-radio
+ -podcasting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ableton Move Certification
@@ -571,16 +571,6 @@ DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/3d-modeling-wi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20260721T220000Z
-DTEND:20260722T010000Z
-DTSTAMP:20260721T220000Z
-UID:Video Production in the Field-2026-07-21T22:00:00+00:00
-DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
- on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Sound Design
 DTSTART:20260721T220000Z
 DTEND:20260722T010000Z
@@ -588,6 +578,16 @@ DTSTAMP:20260721T220000Z
 UID:Intro to Sound Design-2026-07-21T22:00:00+00:00
 DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/intro-to-sound
  -design/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260721T220000Z
+DTEND:20260722T010000Z
+DTSTAMP:20260721T220000Z
+UID:Video Production in the Field-2026-07-21T22:00:00+00:00
+DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
+ on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -636,16 +636,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/produce-remotely/
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Make a Digital Story\, online
-DTSTART:20260725T150000Z
-DTEND:20260725T170000Z
-DTSTAMP:20260725T150000Z
-UID:Make a Digital Story\, online-2026-07-25T15:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-digital-sto
- ry/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BRIC Celebrate Brooklyn! at Brower Park with Black House Radio
 DTSTART:20260725T190000Z
 DTEND:20260726T003000Z
@@ -657,5 +647,15 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bric-celebrate-bro
  aLnHz2bA\n<img src="https://bricartsmedia.org/wp-content/uploads/2026/04/B
  HR-Profile-Picture-Square-200x200.jpg" alt="" />
 LOCATION:Park Place between Brooklyn Ave and Kingston Ave
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Digital Story\, online
+DTSTART:20260725T150000Z
+DTEND:20260725T170000Z
+DTSTAMP:20260725T150000Z
+UID:Make a Digital Story\, online-2026-07-25T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-digital-sto
+ ry/
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
