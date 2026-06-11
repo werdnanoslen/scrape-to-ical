@@ -11,42 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260610T220000Z
-DTEND:20260610T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 29
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260610T220000Z
-DTEND:20260610T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820119
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Citizenship Class
-DTSTART:20260610T220000Z
-DTEND:20260610T000000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/820159
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Be a Rich Old Lady: Investing 101 Series Part 1
-DTSTART:20260610T220000Z
-DTEND:20260610T000000Z
-DESCRIPTION:Have you ever felt confused by your IRA or 401(k)? Do you know
-  that you should invest\, but don't know how or where to begin? Or who you
-  can trust for financial advice? In this exciting\, exclusive\, and\n\nhtt
- ps://www.bklynlibrary.org/node/823637
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20260611T140000Z
 DTEND:20260611T210000Z
@@ -387,5 +351,39 @@ DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
  n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
  tps://www.bklynlibrary.org/node/807796
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASL at BPL Film Showing: The Ragin' Cajun (1998 documentary)
+DTSTART:20260612T201500Z
+DTEND:20260612T211500Z
+DESCRIPTION:The Ragin' Cajun - part of the Mind Traveler PBS / BBC series
+  (1998)50 min. run time\n\nhttps://www.bklynlibrary.org/node/824906
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260613T143000Z
+DTEND:20260613T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 17
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Navigating Peri/Menopause
+DTSTART:20260613T150000Z
+DTEND:20260613T160000Z
+DESCRIPTION:Navigating Peri/Menopause With Clarity\n\nhttps://www.bklynlib
+ rary.org/node/822764
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Know Your Rights Community Meeting
+DTSTART:20260613T170000Z
+DTEND:20260613T190000Z
+DESCRIPTION:Learn how Constitutional rights apply if you are approached by
+  ICE or witness ICE activity in the neighborhood. All are welcome.\n\nhttp
+ s://www.bklynlibrary.org/node/825851
+LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 END:VCALENDAR
