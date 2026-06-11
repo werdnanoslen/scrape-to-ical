@@ -21,34 +21,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260611T213000Z
-DTEND:20260611T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/816115
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260611T213000Z
-DTEND:20260611T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819224
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260611T220000Z
-DTEND:20260611T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8085
- 98
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class - Intermediate Level (We Speak NYC)
 DTSTART:20260611T220000Z
 DTEND:20260611T000000Z
@@ -56,26 +28,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820139
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260611T220000Z
-DTEND:20260611T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/821140
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Art of Classics
-DTSTART:20260611T223000Z
-DTEND:20260611T233000Z
-DESCRIPTION:Please join us for The Art of Classics program\, on Thursday\,
-  June 11\, from 6:30 PM - 7:30 PM\, in the Info Commons Computer Lab. We w
- ill discuss Seven Against Thebes\, and The Suppliants\, by Aeschylus.\n\nh
- ttps://www.bklynlibrary.org/node/825797
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Movie: My Best Friend's Wedding (1997)
@@ -383,5 +335,50 @@ DESCRIPTION:Join Joli Golden from the U.S. Census Bureau for an exciting w
  ed to create winning grant proposals and business plans!\n\nhttps://www.bk
  lynlibrary.org/node/816600
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /816839
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Cup 2026 Watch Event: Belgium v. Egypt
+DTSTART:20260615T190000Z
+DTEND:20260615T210000Z
+DESCRIPTION:Watch the World Cup at your local library! Join us at Brooklyn
+  Heights to watch select games throughout the tournament.\n\nhttps://www.b
+ klynlibrary.org/node/824974
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20260615T200000Z
+DTEND:20260615T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/825129
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260615T203000Z
+DTEND:20260615T220000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8039
+ 98
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260615T203000Z
+DTEND:20260615T210000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/824151
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
