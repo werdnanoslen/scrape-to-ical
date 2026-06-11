@@ -385,6 +385,16 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/habibi-fest-2026/\
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Art of Video Editing\, online
+DTSTART:20260711T180000Z
+DTEND:20260711T200000Z
+DTSTAMP:20260711T180000Z
+UID:The Art of Video Editing\, online-2026-07-11T18:00:00+00:00
+DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
+ ng-online-course/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Legal Aid Society Presents: Community Joy Day with Saint James
   Joy\, Pahua\, and Puppetmobile
 DTSTART:20260711T190000Z
@@ -409,16 +419,6 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Art of Video Editing\, online
-DTSTART:20260711T180000Z
-DTEND:20260711T200000Z
-DTSTAMP:20260711T180000Z
-UID:The Art of Video Editing\, online-2026-07-11T18:00:00+00:00
-DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
- ng-online-course/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pre-Production Essentials\, online
 DTSTART:20260711T150000Z
 DTEND:20260711T170000Z
@@ -429,16 +429,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/pre-production-ess
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Photoshop Essentials\, in-person
-DTSTART:20260713T220000Z
-DTEND:20260714T010000Z
-DTSTAMP:20260713T220000Z
-UID:Photoshop Essentials\, in-person-2026-07-13T22:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/photoshop-esse
- ntials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Premiere Interface
 DTSTART:20260713T180000Z
 DTEND:20260713T200000Z
@@ -446,6 +436,16 @@ DTSTAMP:20260713T180000Z
 UID:The Premiere Interface-2026-07-13T18:00:00+00:00
 DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/the-premiere-i
  nterface-2/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photoshop Essentials\, in-person
+DTSTART:20260713T220000Z
+DTEND:20260714T010000Z
+DTSTAMP:20260713T220000Z
+UID:Photoshop Essentials\, in-person-2026-07-13T22:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/photoshop-esse
+ ntials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -498,16 +498,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/alternatives-to-ad
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ableton Move Certification
-DTSTART:20260718T180000Z
-DTEND:20260718T210000Z
-DTSTAMP:20260718T180000Z
-UID:Ableton Move Certification-2026-07-18T18:00:00+00:00
-DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
- ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Radio Podcasting
 DTSTART:20260718T180000Z
 DTEND:20260718T210000Z
@@ -529,6 +519,16 @@ DESCRIPTION:Cost: See ticket page\nhttps://bricartsmedia.org/event/benefit
  KgKU59\n<img src="https://bricartsmedia.org/wp-content/uploads/2025/12/Roy
  el-Otis-JPG-1-200x200.jpg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ableton Move Certification
+DTSTART:20260718T180000Z
+DTEND:20260718T210000Z
+DTSTAMP:20260718T180000Z
+UID:Ableton Move Certification-2026-07-18T18:00:00+00:00
+DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
+ ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere
@@ -581,16 +581,6 @@ DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20260721T180000Z
-DTEND:20260721T210000Z
-DTSTAMP:20260721T180000Z
-UID:Video Production in the Field-2026-07-21T18:00:00+00:00
-DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
- on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Sound Design
 DTSTART:20260721T220000Z
 DTEND:20260722T010000Z
@@ -598,6 +588,16 @@ DTSTAMP:20260721T220000Z
 UID:Intro to Sound Design-2026-07-21T22:00:00+00:00
 DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/intro-to-sound
  -design/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260721T180000Z
+DTEND:20260721T210000Z
+DTSTAMP:20260721T180000Z
+UID:Video Production in the Field-2026-07-21T18:00:00+00:00
+DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
+ on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -613,15 +613,6 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/bric-x-seedspark-c
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Produce Remotely\, online
-DTSTART:20260724T220000Z
-DTEND:20260725T000000Z
-DTSTAMP:20260724T220000Z
-UID:Produce Remotely\, online-2026-07-24T22:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/produce-remotely/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jazz at the Bandshell: Cindy Blackman Santana Group + Patricia Bre
  nnan Septet + Lucía
 DTSTART:20260724T220000Z
@@ -634,5 +625,37 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/jazz-at-the-bandsh
  ia.org/wp-content/uploads/2026/04/CBS-Photo©Jimmy-Bruch-scaled-1-200x200.
  jpg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produce Remotely\, online
+DTSTART:20260724T220000Z
+DTEND:20260725T000000Z
+DTSTAMP:20260724T220000Z
+UID:Produce Remotely\, online-2026-07-24T22:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/produce-remotely/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Digital Story\, online
+DTSTART:20260725T150000Z
+DTEND:20260725T170000Z
+DTSTAMP:20260725T150000Z
+UID:Make a Digital Story\, online-2026-07-25T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-digital-sto
+ ry/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIC Celebrate Brooklyn! at Brower Park with Black House Radio
+DTSTART:20260725T190000Z
+DTEND:20260726T003000Z
+DTSTAMP:20260725T190000Z
+UID:BRIC Celebrate Brooklyn! at Brower Park with Black House Radio-2026-07
+ -25T19:00:00+00:00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bric-celebrate-bro
+ oklyn-at-brower-park-black-house-radio/\nhttps://maps.app.goo.gl/cbmAjhaQi
+ aLnHz2bA\n<img src="https://bricartsmedia.org/wp-content/uploads/2026/04/B
+ HR-Profile-Picture-Square-200x200.jpg" alt="" />
+LOCATION:Park Place between Brooklyn Ave and Kingston Ave
 END:VEVENT
 END:VCALENDAR
