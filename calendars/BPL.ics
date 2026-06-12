@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Movie: My Best Friend's Wedding (1997)
-DTSTART:20260612T143000Z
-DTEND:20260612T161500Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
- ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/828475
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260612T150000Z
-DTEND:20260612T170000Z
-DESCRIPTION:Stop by the Central Library's Business & Career Center for a r
- eview of your resume or cover letter\, and get help with your questions ab
- out resumes\, interviews and your job search.\n\nhttps://www.bklynlibrary.
- org/node/804774
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Safety Resource Fair
 DTSTART:20260612T150000Z
 DTEND:20260612T190000Z
@@ -49,16 +31,6 @@ DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fun in the Sun: Summer Skin Safety
-DTSTART:20260612T150000Z
-DTEND:20260612T154500Z
-DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
-  focused on Burn Prevention\, Hands-Only CPR\, Narcan and Stop the Bleed\,
-  in addition to a resource fair with community organizations who ca\n\nhtt
- ps://www.bklynlibrary.org/node/824272
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260612T150000Z
 DTEND:20260612T210000Z
@@ -69,16 +41,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clase de Computación
-DTSTART:20260612T150000Z
-DTEND:20260612T160000Z
-DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
- os conceptos básicos del uso de una computadora? ¿O tal vez ha pasado ti
- empo y desea repasar y mejorar sus habilidades de computación?Puede\n\nht
- tps://www.bklynlibrary.org/node/829416
-LOCATION:Pacific\, Basement Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260612T160000Z
 DTEND:20260612T180000Z
@@ -86,16 +48,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/820149
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hands-Only CPR Training
-DTSTART:20260612T160000Z
-DTEND:20260612T164500Z
-DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
-  focused on Burn Prevention\, Hands-Only CPR\, Narcan and Stop the Bleed\,
-  in addition to a resource fair with community organizations who ca\n\nhtt
- ps://www.bklynlibrary.org/node/824273
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -380,5 +332,48 @@ DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
  ction program\, offering workshops and other instruction at Brooklyn Publi
  c Library.\n\nhttps://www.bklynlibrary.org/node/780421
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20260615T214500Z
+DTEND:20260615T234500Z
+DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820965
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260615T220000Z
+DTEND:20260615T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/828621
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Citizenship Class
+DTSTART:20260616T133000Z
+DTEND:20260616T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/816160
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Vet Center Tabling
+DTSTART:20260616T140000Z
+DTEND:20260616T180000Z
+DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
+ dential and free help to Veterans\, service members\, and their families. 
+ Staff from the Vet Center will assist with information on health a\n\nhttp
+ s://www.bklynlibrary.org/node/808171
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260616T160000Z
+DTEND:20260616T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822254
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
