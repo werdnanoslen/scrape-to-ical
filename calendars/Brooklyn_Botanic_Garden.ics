@@ -71,37 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Art of Ikebana: A Meditative Floral Experience
-DTSTART;VALUE=DATE:20260611T040000Z
-DTEND;VALUE=DATE:20260611T060000Z
-UID:The Art of Ikebana: A Meditative Floral Experience-2026-06-11 04:00:00
- +00:00
-DESCRIPTION:Single session on Saturday\, May 2 | 10:30 a.m.–1:30 p.m. or
-  Thursday\, June 11\, 2026 | 6–9 p.m.  \n					\n\n\n					\n						| Waitl
- ist Only\n\nCreate a classic ikebana arrangement.Learn More›about The Ar
- t of Ikebana: A Meditative Floral Experience\n\nMore info:\nhttps://www.bb
- g.org/classes/the_art_of_ikebana_a_meditative_floral_experience\n\n<img sr
- c="/img/uploads/hero/_list_thumbnail_regular/kaya-magee-3.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:School Group Visits: Discovery Trail
-DTSTART;VALUE=DATE:20260611T040000Z
-DTEND;VALUE=DATE:20260611T060000Z
-UID:School Group Visits: Discovery Trail-2026-06-11 04:00:00+00:00
-DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | April 14–Ju
- ne 11\, 2026 (except June 4) \n					\n\n\n					\n						\n							| Preregi
- stration Required\n\nUse real science tools as you explore plants alongsid
- e Discovery Docents at our hands-on activity stations throughout the Disco
- very Garden.Learn More›about School Group Visits: Discovery Trail\n\nMor
- e info:\nhttps://www.bbg.org/visit/event/school_group_visits_discovery_tra
- il\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/discovery
- -cart_BB_42604393462-1120.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spring First Discoveries
 DTSTART;VALUE=DATE:20260612T040000Z
 DTEND;VALUE=DATE:20260612T060000Z
@@ -452,6 +421,49 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260626T040000Z
 DTEND;VALUE=DATE:20260626T060000Z
 UID:Seasonal Highlights Tour-2026-06-26 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
+  BBG’s plants and gardens in peak bloom and other highlights of the seas
+ on in this free walk led by trained Garden Guides.Learn More›about Seaso
+ nal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasona
+ l_highlights_tour_june_2026\n\n<img src="/img/uploads/hero/_list_thumbnail
+ _regular/visitors-rose-garden_JW_54571986919.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Container Gardening
+DTSTART;VALUE=DATE:20260627T040000Z
+DTEND;VALUE=DATE:20260627T060000Z
+UID:Container Gardening-2026-06-27 04:00:00+00:00
+DESCRIPTION:Saturday\, June 27\, 2026 | 10 a.m.–1 p.m.\n					\n\n\n					
+ \n						\n							| Preregistration Required\n\nExplore the art and science
+  of container gardening.Learn More›about Container Gardening\n\nMore inf
+ o:\nhttps://www.bbg.org/classes/container_gardening\n\n<img src="/img/uplo
+ ads/hero/_list_thumbnail_regular/tree-of-heaven_MS.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban Beekeeping Basics
+DTSTART;VALUE=DATE:20260627T040000Z
+DTEND;VALUE=DATE:20260627T060000Z
+UID:Urban Beekeeping Basics-2026-06-27 04:00:00+00:00
+DESCRIPTION:Saturday\, June 27\, 2026 | 10:30 a.m.–1:30 p.m.\n					\n\n\
+ n					\n						\n							| Preregistration Required\n\nLearn bee biology\, t
+ ools and techniques for hive care\, and problem-solving and pest managemen
+ t. This class will provide a lecture as well as live observation of bees a
+ t work.Learn More›about Urban Beekeeping Basics\n\nMore info:\nhttps://w
+ ww.bbg.org/classes/urban_beekeeping_basics\n\n<img src="/img/uploads/hero/
+ _list_thumbnail_regular/Urban-Beekeeping-Basics-Frank-Schellace.jpeg" alt=
+ "" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260627T040000Z
+DTEND;VALUE=DATE:20260627T060000Z
+UID:Seasonal Highlights Tour-2026-06-27 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
   BBG’s plants and gardens in peak bloom and other highlights of the seas
  on in this free walk led by trained Garden Guides.Learn More›about Seaso
