@@ -39,6 +39,16 @@ DESCRIPTION:Join Brooklyn Public Library\, city agencies and community org
 LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Summer Safety Symposium
+DTSTART:20260612T150000Z
+DTEND:20260612T190000Z
+DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
+  focused on Burn Prevention\, Hands-Only CPR\, Harm Reduction and Stop the
+  Bleed\, in addition to a resource fair with community organization\n\nhtt
+ ps://www.bklynlibrary.org/node/821396
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fun in the Sun: Summer Skin Safety
 DTSTART:20260612T150000Z
 DTEND:20260612T154500Z
@@ -57,16 +67,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/826700
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer Safety Symposium
-DTSTART:20260612T150000Z
-DTEND:20260612T190000Z
-DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
-  focused on Burn Prevention\, Hands-Only CPR\, Harm Reduction and Stop the
-  Bleed\, in addition to a resource fair with community organization\n\nhtt
- ps://www.bklynlibrary.org/node/821396
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clase de Computación
