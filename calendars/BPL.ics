@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260611T200000Z
-DTEND:20260611T000000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828063
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class - Intermediate Level (We Speak NYC)
-DTSTART:20260611T220000Z
-DTEND:20260611T000000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820139
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movie: My Best Friend's Wedding (1997)
 DTSTART:20260612T143000Z
 DTEND:20260612T161500Z
@@ -380,5 +361,24 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/824151
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jigsaw Puzzle Competition for Adults and Teens
+DTSTART:20260615T210000Z
+DTEND:20260615T233000Z
+DESCRIPTION:6.10.26 - Registration for this competition in now fully booke
+ d. Please keep an eye on the calendar\, as the Central Library plans to sc
+ hedule more competitions in the future. Thank you for your intere\n\nhttps
+ ://www.bklynlibrary.org/node/824616
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOSSS Music Production Open Workshop: Plug-ins and FX
+DTSTART:20260615T213000Z
+DTEND:20260615T233000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/780421
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
