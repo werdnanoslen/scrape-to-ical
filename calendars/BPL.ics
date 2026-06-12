@@ -11,34 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260612T150000Z
-DTEND:20260612T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/826700
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20260612T200000Z
-DTEND:20260612T213000Z
-DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
- over letter\, interview\, and job search questions. All sessions are one-o
- n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
- tps://www.bklynlibrary.org/node/807796
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ASL at BPL Film Showing: The Ragin' Cajun (1998 documentary)
-DTSTART:20260612T201500Z
-DTEND:20260612T211500Z
-DESCRIPTION:The Ragin' Cajun - part of the Mind Traveler PBS / BBC series
-  (1998)50 min. run time\n\nhttps://www.bklynlibrary.org/node/824906
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260613T143000Z
 DTEND:20260613T160000Z
@@ -372,5 +344,34 @@ DTEND:20260616T210000Z
 DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
  4
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20260616T210000Z
+DTEND:20260616T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/825097
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume Hours
+DTSTART:20260616T210000Z
+DTEND:20260616T230000Z
+DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
+ ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
+ brary.org/node/826875
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Architecture League Annual Meeting
+DTSTART:20260616T213000Z
+DTEND:20260616T223000Z
+DESCRIPTION:The program will begin with a brief report on the past year’
+ s activities at the League by President Nat Oppenheimer and Executive Dire
+ ctor Jacob R. Moore. Representatives from the League’s Next Genera\n\nht
+ tps://www.bklynlibrary.org/node/824744
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
