@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Summer Safety Resource Fair
-DTSTART:20260612T150000Z
-DTEND:20260612T190000Z
-DESCRIPTION:Join Brooklyn Public Library\, city agencies and community org
- anizations from across Brooklyn as we bring you free access to health info
- rmation\, resources and giveaways focused on maternal health\, ment\n\nhtt
- ps://www.bklynlibrary.org/node/821395
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer Safety Symposium
-DTSTART:20260612T150000Z
-DTEND:20260612T190000Z
-DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
-  focused on Burn Prevention\, Hands-Only CPR\, Harm Reduction and Stop the
-  Bleed\, in addition to a resource fair with community organization\n\nhtt
- ps://www.bklynlibrary.org/node/821396
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260612T150000Z
 DTEND:20260612T210000Z
@@ -39,34 +19,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/826700
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260612T170000Z
-DTEND:20260612T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 64
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stop the Bleed Training
-DTSTART:20260612T180000Z
-DTEND:20260612T190000Z
-DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
-  focused on Burn Prevention\, Hands-Only CPR\, Narcan and Stop the Bleed\,
-  in addition to a resource fair with community organizations who ca\n\nhtt
- ps://www.bklynlibrary.org/node/824286
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260612T180000Z
-DTEND:20260612T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/828671
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
@@ -372,6 +324,53 @@ DTEND:20260616T190000Z
 DESCRIPTION:Need help navigating one of your tech devices? Come join us an
  d ask a variety of tech questions about your tech devices.\n\nhttps://www.
  bklynlibrary.org/node/817292
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online Intermediate English Class (We Speak NYC)
+DTSTART:20260616T180000Z
+DTEND:20260616T200000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820326
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260616T180000Z
+DTEND:20260616T190000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/821317
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20260616T180000Z
+DTEND:20260616T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/811964
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/827987
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260616T190000Z
+DTEND:20260616T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
+ 4
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
