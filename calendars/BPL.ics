@@ -59,16 +59,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Narcan Training
-DTSTART:20260612T170000Z
-DTEND:20260612T174500Z
-DESCRIPTION:Our Summer Safety Symposium will offer trainings and workshops
-  focused on Burn Prevention\, Hands-Only CPR\, Narcan and Stop the Bleed\,
-  in addition to a resource fair with community organizations who ca\n\nhtt
- ps://www.bklynlibrary.org/node/824284
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stop the Bleed Training
 DTSTART:20260612T180000Z
 DTEND:20260612T190000Z
@@ -375,5 +365,13 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
   with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
  /node/822254
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260616T163000Z
+DTEND:20260616T180000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/825237
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
