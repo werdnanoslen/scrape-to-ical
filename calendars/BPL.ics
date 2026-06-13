@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Know Your Rights Community Meeting
-DTSTART:20260613T170000Z
-DTEND:20260613T190000Z
-DESCRIPTION:Learn how Constitutional rights apply if you are approached by
-  ICE or witness ICE activity in the neighborhood. All are welcome.\n\nhttp
- s://www.bklynlibrary.org/node/825851
-LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260613T173000Z
-DTEND:20260613T193000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/819670
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Biometrics & Cartoons: Biometrics\, Cartoons & Brain Hats
 DTSTART:20260613T180000Z
 DTEND:20260613T200000Z
@@ -37,13 +19,6 @@ DESCRIPTION:The Info Commons is hosting three in-person sessions of Biomet
  ols taking place this spring at BPL\, NYU\, The Animation Project\,\n\nhtt
  ps://www.bklynlibrary.org/node/808717
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JOSÉ AND THE NEGROS SICODELICOS
-DTSTART:20260613T180000Z
-DTEND:20260613T193000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/827651
-LOCATION:Pacific Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
@@ -375,5 +350,33 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
  nlibrary.org/node/826245
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Book Club: A Beautiful Family by Jennifer Trevelyan
+DTSTART:20260616T223000Z
+DTEND:20260616T233000Z
+DESCRIPTION:Join us this month to discuss Jennifer Trevelyan's debut novel
+  A Beautiful Family.\n\nhttps://www.bklynlibrary.org/node/817686
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drawing Together with musical guest Pedro Giraudo Tango Quartet
+DTSTART:20260616T223000Z
+DTEND:20260616T000000Z
+DESCRIPTION:Following the Architecture League annual Meeting\, Drawing Tog
+ ether brings people from different walks of life together amid forces driv
+ ing us apart. Filled with music by the Pedro Giraudo Tango Quarte\n\nhttps
+ ://www.bklynlibrary.org/node/824743
+LOCATION:Central Library\, Plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Atlantic Yards 101
+DTSTART:20260616T223000Z
+DTEND:20260616T000000Z
+DESCRIPTION:Atlantic Yards is an epic project\, but its basic facts remain
+  confusing. Who owns it? Who decides what happens next? What’s the big f
+ uss about anyway? What has gotten lost is that it is on public land\n\nht
+ tps://www.bklynlibrary.org/node/829031
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
