@@ -293,6 +293,17 @@ DESCRIPTION:https://cal.red/?event=5529\nCost: 0
 LOCATION:Pete's Candy Store
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drew Wesely & Luc Vitk\, Selendis Sebastian Alexander Johnson\, Fr
+ eaky Frog (Tony Guarino\, Donna Allen\, Kwami Winfield)
+DTSTART:20260615T230000Z
+DTEND:20260616T000000Z
+DTSTAMP:20260615T230000Z
+UID:event:5530:2026-06-15T19:00:00
+DESCRIPTION:https://cal.red/?event=5530\nCost: $10-25
+LOCATION:@ the living gallery (all ages)\, 1094 broadway\, bushwick\, bkly
+ n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:*()*()*()*()*()*()*()*()*()*()*
 DTSTART:20260616T000000Z
 DTEND:20260616T010000Z
