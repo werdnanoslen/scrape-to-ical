@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Biometrics & Cartoons: Biometrics\, Cartoons & Brain Hats
-DTSTART:20260613T180000Z
-DTEND:20260613T200000Z
-DESCRIPTION:The Info Commons is hosting three in-person sessions of Biomet
- rics & Cartoons\, a course on biometric devices + data and 3D animation to
- ols taking place this spring at BPL\, NYU\, The Animation Project\,\n\nhtt
- ps://www.bklynlibrary.org/node/808717
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
-DTSTART:20260613T183000Z
-DTEND:20260613T203000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing. 
- Instructor Margot will be at this session. Please refer to her wit\n\nhttp
- s://www.bklynlibrary.org/node/821129
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feng Shui and I Ching
 DTSTART:20260613T193000Z
 DTEND:20260613T210000Z
@@ -378,5 +358,21 @@ DESCRIPTION:Atlantic Yards is an epic project\, but its basic facts remain
  uss about anyway? What has gotten lost is that it is on public land\n\nht
  tps://www.bklynlibrary.org/node/829031
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260617T140000Z
+DTEND:20260617T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 91
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20260617T140000Z
+DTEND:20260617T160000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812236
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
