@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:A Night of Rancheras
-DTSTART:20260614T020000Z
-DTEND:20260614T040000Z
-DTSTAMP:20260614T020000Z
-UID:A Night of Rancheras
-DESCRIPTION:https://www.viewcy.com/event/a-night-of-rancheras\n<p><img alt
- ="A Night of Rancheras thumbnail" class="styles_coverImg__PsR9G" data-nimg
- ="1" data-sentry-component="ImageWithFallback" data-sentry-element="Image"
-  data-sentry-source-file="index.tsx" decoding="async" height="186" loading
- ="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.view
- cy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHM
- iOnsiZGF0YSI6MjE4Njk0LCJwdXIiOiJibG9iX2lkIn19--38ccec67cbe31553d5d1108395a
- 7b9dbd38dc142%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG
- 9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJp
- bnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d391
- 7f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="
- /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Fr
- epresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MjE4Njk0LCJwdXIiOiJibG
- 9iX2lkIn19--38ccec67cbe31553d5d1108395a7b9dbd38dc142%2FeyJfcmFpbHMiOnsiZGF
- 0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiO
- nsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjo
- idmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Desi
- gns.png&amp\;w=384&amp\;q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.view
- cy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHM
- iOnsiZGF0YSI6MjE4Njk0LCJwdXIiOiJibG9iX2lkIn19--38ccec67cbe31553d5d1108395a
- 7b9dbd38dc142%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG
- 9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJp
- bnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d391
- 7f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style
- ="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bansuri Raag: BRM Concert and Jam
 DTSTART:20260619T000000Z
 DTEND:20260619T020000Z
