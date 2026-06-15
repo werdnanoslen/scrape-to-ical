@@ -11,53 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260615T150000Z
-DTEND:20260615T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/826691
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260615T180000Z
-DTEND:20260615T200000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/804718
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20260615T190000Z
-DTEND:20260615T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /816839
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Cup 2026 Watch Event: Belgium v. Egypt
-DTSTART:20260615T190000Z
-DTEND:20260615T210000Z
-DESCRIPTION:Watch the World Cup at your local library! Join us at Brooklyn
-  Heights to watch select games throughout the tournament.\n\nhttps://www.b
- klynlibrary.org/node/824974
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20260615T200000Z
-DTEND:20260615T210000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/825129
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260615T203000Z
 DTEND:20260615T220000Z
@@ -65,15 +18,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8039
  98
 LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260615T203000Z
-DTEND:20260615T210000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/824151
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jigsaw Puzzle Competition for Adults and Teens
@@ -304,14 +248,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20260617T140000Z
-DTEND:20260617T153000Z
-DESCRIPTION:Join us to practice and learn beginning Hebrew. Join our circl
- e meeting since 2022.\n\nhttps://www.bklynlibrary.org/node/828515
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Park Slope Library’s Neighbors In Need Care Kits
 DTSTART:20260617T140000Z
 DTEND:20260617T200000Z
@@ -320,6 +256,14 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
   should have to go without the basics! If you or someone you know ne\n\nht
  tps://www.bklynlibrary.org/node/820189
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20260617T140000Z
+DTEND:20260617T153000Z
+DESCRIPTION:Join us to practice and learn beginning Hebrew. Join our circl
+ e meeting since 2022.\n\nhttps://www.bklynlibrary.org/node/828515
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
@@ -378,5 +322,58 @@ DESCRIPTION:Please join us at our adult coloring session! No registratio
  a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
  /821145
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
+DTSTART:20260617T170000Z
+DTEND:20260617T180000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/797676
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Cup 2026 Watch Event: Portugal v DR Congo
+DTSTART:20260617T170000Z
+DTEND:20260617T191500Z
+DESCRIPTION:Come join us at the Library to watch the World Cup.\n\nhttps:/
+ /www.bklynlibrary.org/node/815860
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYC: ATWORK Public Sector Career Fair Screening Session
+DTSTART:20260617T170000Z
+DTEND:20260617T200000Z
+DESCRIPTION:NYC: ATWORK is an employment program offered by the Mayor’s 
+ Office for People with Disabilities that connects New Yorkers with disabil
+ ities to jobs and internships.\n\nhttps://www.bklynlibrary.org/node/829025
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20260617T180000Z
+DTEND:20260617T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818917
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260617T180000Z
+DTEND:20260617T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/826344
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Life/Good Death Café
+DTSTART:20260617T180000Z
+DTEND:20260617T193000Z
+DESCRIPTION:A free gathering to talk about aging\, caregiving\, and end of
+  life with more peace and less fear.\n\nhttps://www.bklynlibrary.org/node/
+ 822709
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
