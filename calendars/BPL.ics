@@ -11,14 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:American and Chinese Mahjong
-DTSTART:20260615T150000Z
-DTEND:20260615T183000Z
-DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
- brary.org/node/824844
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260615T150000Z
 DTEND:20260615T210000Z
@@ -29,25 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume Hours
-DTSTART:20260615T160000Z
-DTEND:20260615T180000Z
-DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
- ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
- brary.org/node/826854
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260615T160000Z
-DTEND:20260615T180000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828013
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260615T180000Z
 DTEND:20260615T200000Z
@@ -56,16 +29,6 @@ DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
  . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
  ps://www.bklynlibrary.org/node/804718
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Census Data for Non-profits and Grant Writers
-DTSTART:20260615T180000Z
-DTEND:20260615T190000Z
-DESCRIPTION:Join Joli Golden from the U.S. Census Bureau for an exciting w
- orkshop aimed at helping Brooklyn non-profits find the information they ne
- ed to create winning grant proposals and business plans!\n\nhttps://www.bk
- lynlibrary.org/node/816600
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
@@ -377,5 +340,43 @@ DESCRIPTION:Need assistance using your laptop\, smartphone\, or tablet?Hav
  programs?Visit the Pacific Branch at 11:00 AM for personalized\, one-o\n\n
  https://www.bklynlibrary.org/node/829418
 LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260617T153000Z
+DTEND:20260617T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/818670
+LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260617T160000Z
+DTEND:20260617T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822255
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260617T160000Z
+DTEND:20260617T180000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/829806
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20260617T170000Z
+DTEND:20260617T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /821145
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
