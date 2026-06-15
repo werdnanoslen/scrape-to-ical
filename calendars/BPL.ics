@@ -11,39 +11,11 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Jigsaw Puzzle Competition for Adults and Teens
-DTSTART:20260615T210000Z
-DTEND:20260615T233000Z
-DESCRIPTION:6.10.26 - Registration for this competition in now fully booke
- d. Please keep an eye on the calendar\, as the Central Library plans to sc
- hedule more competitions in the future. Thank you for your intere\n\nhttps
- ://www.bklynlibrary.org/node/824616
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOSSS Music Production Open Workshop: Plug-ins and FX
-DTSTART:20260615T213000Z
-DTEND:20260615T233000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/780421
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free English Classes (We Speak NYC)
 DTSTART:20260615T214500Z
 DTEND:20260615T234500Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820965
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group
-DTSTART:20260615T220000Z
-DTEND:20260615T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/828621
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Citizenship Class
@@ -375,5 +347,33 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/826353
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
+DTSTART:20260617T190000Z
+DTEND:20260617T210000Z
+DESCRIPTION:This drop-in session is cancelled. You are invited to stop by 
+ the NYC: ATWORK Public Sector Career Fair Screening Session to learn more 
+ about the services provided by the Mayor's Office for People wit\n\nhttps:
+ //www.bklynlibrary.org/node/804750
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260617T200000Z
+DTEND:20260617T230000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828038
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La forma de las cosas por venir: ficciones especulativas del futur
+ o | Taller de escritura con Michel Nieva
+DTSTART:20260617T213000Z
+DTEND:20260617T223000Z
+DESCRIPTION:Programa virtual\n\nhttps://www.bklynlibrary.org/node/824994
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
