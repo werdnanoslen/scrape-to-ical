@@ -11,51 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
-DTSTART:20260616T160000Z
-DTEND:20260616T230000Z
-DESCRIPTION:Register to make an appointment to receive free tax assistance
-  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
- /node/822254
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume Hours
-DTSTART:20260616T210000Z
-DTEND:20260616T230000Z
-DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
- ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
- brary.org/node/826875
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
-DTSTART:20260616T220000Z
-DTEND:20260616T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/821117
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
-DTSTART:20260616T220000Z
-DTEND:20260616T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/826245
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Book Club: A Beautiful Family by Jennifer Trevelyan
-DTSTART:20260616T223000Z
-DTEND:20260616T233000Z
-DESCRIPTION:Join us this month to discuss Jennifer Trevelyan's debut novel
-  A Beautiful Family.\n\nhttps://www.bklynlibrary.org/node/817686
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drawing Together with musical guest Pedro Giraudo Tango Quartet
 DTSTART:20260616T223000Z
 DTEND:20260616T000000Z
@@ -379,5 +334,51 @@ DESCRIPTION:Learn how market research helps food entrepreneurs validate id
  mpetitive and diverse food marketplace.\n\nhttps://www.bklynlibrary.org/no
  de/823857
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260618T180000Z
+DTEND:20260618T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/826345
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Job Ready! Resume and Cover letter Workshop
+DTSTART:20260618T180000Z
+DTEND:20260618T193000Z
+DESCRIPTION:Join this Career Computer Lab to update and refine your resume
+  or cover letter. Learn document best practices\, explore examples\, compa
+ re templates and more. Please note: we are unable to write or type\n\nhttp
+ s://www.bklynlibrary.org/node/820066
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Arts and Crafts Circle
+DTSTART:20260618T183000Z
+DTEND:20260618T200000Z
+DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
+ us to work on projects\, trade skills\, and socialize with other makers!\n
+ \nhttps://www.bklynlibrary.org/node/812525
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260618T183000Z
+DTEND:20260618T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/826354
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:French Conversation Group
+DTSTART:20260618T190000Z
+DTEND:20260618T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. This group is for high intermediate speake
+ rs.\n\nhttps://www.bklynlibrary.org/node/816516
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
