@@ -20,43 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Resume Coaching
-DTSTART:20260616T180000Z
-DTEND:20260616T200000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/811964
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online Intermediate English Class (We Speak NYC)
-DTSTART:20260616T180000Z
-DTEND:20260616T200000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/820326
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260616T190000Z
-DTEND:20260616T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
- 4
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260616T190000Z
-DTEND:20260616T210000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/827987
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
 DTSTART:20260616T210000Z
 DTEND:20260616T223000Z
@@ -379,5 +342,42 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
  49
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fundamentals of Screenwriting
+DTSTART:20260618T143000Z
+DTEND:20260618T173000Z
+DESCRIPTION:Our crash course in screenwriting gives you tips on going from
+  your brain to paper. Included are the basic elements of a screenplay\, pr
+ oper structure and format\, and techniques for how to explain your\n\nhttp
+ s://www.bklynlibrary.org/node/796184
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260618T143000Z
+DTEND:20260618T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804504
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20260618T143000Z
+DTEND:20260618T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/815926
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260618T143000Z
+DTEND:20260618T163000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 49
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
