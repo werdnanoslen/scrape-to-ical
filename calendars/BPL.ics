@@ -20,16 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20260616T210000Z
-DTEND:20260616T223000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/825097
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume Hours
 DTSTART:20260616T210000Z
 DTEND:20260616T230000Z
@@ -37,16 +27,6 @@ DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
  ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
  brary.org/node/826875
 LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Architecture League Annual Meeting
-DTSTART:20260616T213000Z
-DTEND:20260616T223000Z
-DESCRIPTION:The program will begin with a brief report on the past year’
- s activities at the League by President Nat Oppenheimer and Executive Dire
- ctor Jacob R. Moore. Representatives from the League’s Next Genera\n\nht
- tps://www.bklynlibrary.org/node/824744
-LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
@@ -379,5 +359,25 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  49
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Cup 2026 Watch Event: Czechia v. South Africa
+DTSTART:20260618T160000Z
+DTEND:20260618T180000Z
+DESCRIPTION:Watch the World Cup at your local library! Join us at Brooklyn
+  Heights to watch select games throughout the tournament.\n\nhttps://www.b
+ klynlibrary.org/node/824975
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Plan to Plate: Market Research and Resources for Food Entrepr
+ eneurs
+DTSTART:20260618T180000Z
+DTEND:20260618T200000Z
+DESCRIPTION:Learn how market research helps food entrepreneurs validate id
+ eas\, understand customers\, and identify opportunities in Brooklyn’s co
+ mpetitive and diverse food marketplace.\n\nhttps://www.bklynlibrary.org/no
+ de/823857
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
