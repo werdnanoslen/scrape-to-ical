@@ -270,19 +270,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Summer Evenings
-DTSTART;VALUE=DATE:20260624T040000Z
-DTEND;VALUE=DATE:20260624T060000Z
-UID:Members’ Summer Evenings-2026-06-24 04:00:00+00:00
-DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
- avor the Garden during the twilight hours—just for members!Learn More›
- about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
- event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
- thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members’ Pride Night
 DTSTART;VALUE=DATE:20260624T040000Z
 DTEND;VALUE=DATE:20260624T060000Z
@@ -293,6 +280,19 @@ DESCRIPTION:Wednesday\, June 24\, 2026 | 6–8:30 p.m.\n\nCelebrate Pride
  ide Night\n\nMore info:\nhttps://www.bbg.org/visit/event/members_pride_nig
  ht\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/members-pride-ni
  ght_MS_53011086286.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260624T040000Z
+DTEND;VALUE=DATE:20260624T060000Z
+UID:Members’ Summer Evenings-2026-06-24 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -393,6 +393,65 @@ DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
  nal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasona
  l_highlights_tour_june_2026\n\n<img src="/img/uploads/hero/_list_thumbnail
  _regular/visitors-rose-garden_JW_54571986919.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Botany for Horticulturists
+DTSTART;VALUE=DATE:20260701T040000Z
+DTEND;VALUE=DATE:20260701T060000Z
+UID:Botany for Horticulturists-2026-07-01 04:00:00+00:00
+DESCRIPTION:10 sessions beginning Tuesday\, May 26 or 8 sessions beginning
+  Wednesday\, July 1\, 2026 \n					\n\n\n					\n						| Waitlist Only\n\nTh
+ is course requires no previous knowledge of botany and is recommended as a
+  first course in the Certificate in Horticulture program.Learn More›abou
+ t Botany for Horticulturists\n\nMore info:\nhttps://www.bbg.org/classes/bo
+ tany_for_horticulturists\n\n<img src="/img/uploads/hero/_list_thumbnail_re
+ gular/20WAEGARBB.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Gardening Hours
+DTSTART;VALUE=DATE:20260701T040000Z
+DTEND;VALUE=DATE:20260701T060000Z
+UID:Family Gardening Hours-2026-07-01 04:00:00+00:00
+DESCRIPTION:Single session on April 8\, 9\, 10\, 11\; June 5\, 6\; July 1 
+ or 2\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Pre
+ registration Required\n\nJoin educators at activity stations throughout th
+ e Children’s Garden during this new\, one-time class for kids of all age
+ s and their caregiversLearn More›about Family Gardening Hours\n\nMore in
+ fo:\nhttps://www.bbg.org/classes/family_gardening_hours\n\n<img src="/img/
+ uploads/manual/hero/_list_thumbnail_regular/family-gardening_MS_5281458343
+ 7-crop.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260701T040000Z
+DTEND;VALUE=DATE:20260701T060000Z
+UID:Members’ Summer Evenings-2026-07-01 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nocturnal Insect Crawl
+DTSTART;VALUE=DATE:20260701T040000Z
+DTEND;VALUE=DATE:20260701T060000Z
+UID:Nocturnal Insect Crawl-2026-07-01 04:00:00+00:00
+DESCRIPTION:Single session on Wednesday\, July 1 (Rain date: July 8) or Tu
+ esday\, August 4\, 2026 (Rain date: August 11) | 7:30–9:30 p.m.\n					\
+ n\n\n					\n						\n							| Preregistration Required\n\nJoin this fun-fil
+ led talk and moonlit walk focusing on nighttime pollinators in the Garden.
+ Learn More›about Nocturnal Insect Crawl\n\nMore info:\nhttps://www.bbg.o
+ rg/classes/nocturnal_insect_crawl\n\n<img src="/img/uploads/hero/_list_thu
+ mbnail_regular/noctural-night-critters_MS_53171994163.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

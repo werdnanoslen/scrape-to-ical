@@ -11,93 +11,15 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:End the Blockade!
-DTSTART:20260615T180000Z
-DTEND:20260615T190000Z
-DTSTAMP:20260615T180000Z
-UID:event:5509:2026-06-15T14:00:00
-DESCRIPTION:https://cal.red/?event=5509\nCost: $1+
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darializa for Congress
-DTSTART:20260615T210000Z
-DTEND:20260615T220000Z
-DTSTAMP:20260615T210000Z
-UID:event:5506:2026-06-15T17:00:00
-DESCRIPTION:https://cal.red/?event=5506\nCost: Free
-LOCATION:Upper Manhattan and West Bronx
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Conrad Blackburn for Assembly
-DTSTART:20260615T220000Z
-DTEND:20260615T230000Z
-DTSTAMP:20260615T220000Z
-UID:event:5507:2026-06-15T18:00:00
-DESCRIPTION:https://cal.red/?event=5507\nCost: Free
-LOCATION:Harlem
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CLAW / BET / BOUNTY
-DTSTART:20260615T223000Z
-DTEND:20260615T233000Z
-DTSTAMP:20260615T223000Z
-UID:event:5529:2026-06-15T18:30:00
-DESCRIPTION:https://cal.red/?event=5529\nCost: 0
-LOCATION:Pete's Candy Store
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Abasement 87: WRENS\, Embryoroom\, Jeff Fuccillo\, Shelley Hirsch\
- , DJ Perna\, Vampÿrates (visuals)
-DTSTART:20260615T230000Z
-DTEND:20260616T000000Z
-DTSTAMP:20260615T230000Z
-UID:event:5535:2026-06-15T19:00:00
-DESCRIPTION:https://cal.red/?event=5535\nCost: 🌀 free
-LOCATION:@ artists space (all ages)\, 11 cortlandt alley\, chinatown\, mnh
- tn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drew Wesely & Luc Vitk\, Selendis Sebastian Alexander Johnson\, Fr
- eaky Frog (Tony Guarino\, Donna Allen\, Kwami Winfield)
-DTSTART:20260615T230000Z
-DTEND:20260616T000000Z
-DTSTAMP:20260615T230000Z
-UID:event:5530:2026-06-15T19:00:00
-DESCRIPTION:https://cal.red/?event=5530\nCost: $10-25
-LOCATION:@ the living gallery (all ages)\, 1094 broadway\, bushwick\, bkly
- n
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:*()*()*()*()*()*()*()*()*()*()*
-DTSTART:20260616T000000Z
-DTEND:20260616T010000Z
-DTSTAMP:20260616T000000Z
-UID:event:5508:2026-06-15T20:00:00
-DESCRIPTION:https://cal.red/?event=5508\nCost: 0
-LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
- n ur love's arms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canvass for DSA State Assembly candidates! [Election daay is June 
- 23]
-DTSTART:20260616T000000Z
-DTEND:20260616T010000Z
-DTSTAMP:20260616T000000Z
-UID:event:5540:2026-06-15T20:00:00
-DESCRIPTION:https://cal.red/?event=5540\nCost: 0
-LOCATION:Throughout NYC
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Hole: Brutal Twink\, Hannah Account\, SWIMMIE\, Sudden D
- eath (Nymphostar b2b &more\, Subcultures
-DTSTART:20260616T020000Z
-DTEND:20260616T030000Z
-DTSTAMP:20260616T020000Z
-UID:event:5536:2026-06-15T22:00:00
-DESCRIPTION:https://cal.red/?event=5536\nCost: prolly $10
-LOCATION:@ bossa nova civic club (21+)\, 1271 myrtle ave\, bushwick\, bkly
- n
+SUMMARY:Kick The Colonizer World Cup Watch Party
+DTSTART:20260616T190000Z
+DTEND:20260616T200000Z
+DTSTAMP:20260616T190000Z
+UID:event:5543:2026-06-16T15:00:00
+DESCRIPTION:https://cal.red/?event=5543\nCost: Free\, but ​fundraising f
+ or SOMA Community Cares - providing legal support for detained immigrants 
+ at Delaney Hall.
+LOCATION:Starr Bar (214 Starr St)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Protest Testimony Project
@@ -148,6 +70,15 @@ DESCRIPTION:https://cal.red/?event=5498\nCost: Free
 LOCATION:Tompkins Square Park (East Village)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NYC Mesh Open Mesh Night
+DTSTART:20260617T000000Z
+DTEND:20260617T010000Z
+DTSTAMP:20260617T000000Z
+UID:event:5063:2026-06-16T20:00:00
+DESCRIPTION:https://cal.red/?event=5063\nCost: Free
+LOCATION:53 Bridge St
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Canvass for DSA State Assembly candidates! [Election daay is June 
  23]
 DTSTART:20260617T000000Z
@@ -158,13 +89,23 @@ DESCRIPTION:https://cal.red/?event=5540\nCost: 0
 LOCATION:Throughout NYC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:NYC Mesh Open Mesh Night
-DTSTART:20260617T000000Z
-DTEND:20260617T010000Z
-DTSTAMP:20260617T000000Z
-UID:event:5063:2026-06-16T20:00:00
-DESCRIPTION:https://cal.red/?event=5063\nCost: Free
-LOCATION:53 Bridge St
+SUMMARY:DBNY Community Outreach
+DTSTART:20260617T160000Z
+DTEND:20260617T170000Z
+DTSTAMP:20260617T160000Z
+UID:event:5546:2026-06-17T12:00:00
+DESCRIPTION:https://cal.red/?event=5546\nCost: Free
+LOCATION:Brooklyn Navy Yard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pistachio Wars
+DTSTART:20260617T220000Z
+DTEND:20260617T230000Z
+DTSTAMP:20260617T220000Z
+UID:event:5542:2026-06-17T18:00:00
+DESCRIPTION:https://cal.red/?event=5542\nCost: $10-30 suggested donation (
+ directed to mutual aid efforts)
+LOCATION:585 Woodward Ave
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Ideas reading group
@@ -176,6 +117,15 @@ DESCRIPTION:https://cal.red/?event=5449\nCost: Free
 LOCATION:Herbert Von King Park  [Bed-Stuy]
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rage as a Catalyst for Change. Is God Is Community Conversation.
+DTSTART:20260617T230000Z
+DTEND:20260618T000000Z
+DTSTAMP:20260617T230000Z
+UID:event:5545:2026-06-17T19:00:00
+DESCRIPTION:https://cal.red/?event=5545\nCost: $15+ sliding scale
+LOCATION:Location revealed to ticket-holders on the date
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Other Worlds\, Other Ways: Science Fiction and the Art of Possibil
  ity
 DTSTART:20260617T233000Z
@@ -184,15 +134,6 @@ DTSTAMP:20260617T233000Z
 UID:event:5473:2026-06-17T19:30:00
 DESCRIPTION:https://cal.red/?event=5473\nCost: 30
 LOCATION:Index Greenpoint
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Darializa For Congress
-DTSTART:20260618T000000Z
-DTEND:20260618T010000Z
-DTSTAMP:20260618T000000Z
-UID:event:5541:2026-06-17T20:00:00
-DESCRIPTION:https://cal.red/?event=5541\nCost: Free
-LOCATION:Upper Manhattan & West Bronx
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gabriel Zucker\, Houndsteeth\, Honin\, Kolb
@@ -214,6 +155,26 @@ DESCRIPTION:https://cal.red/?event=5540\nCost: 0
 LOCATION:Throughout NYC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Darializa For Congress
+DTSTART:20260618T000000Z
+DTEND:20260618T010000Z
+DTSTAMP:20260618T000000Z
+UID:event:5541:2026-06-17T20:00:00
+DESCRIPTION:https://cal.red/?event=5541\nCost: Free
+LOCATION:Upper Manhattan & West Bronx
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alfreda's Cinema presents The Learning Tree (1969) & The Boys and 
+ The Bees
+DTSTART:20260618T200000Z
+DTEND:20260618T210000Z
+DTSTAMP:20260618T200000Z
+UID:event:5547:2026-06-18T16:00:00
+DESCRIPTION:https://cal.red/?event=5547\nCost: $15 suggested donation
+LOCATION:Prospect Park Boathouse (101 East Drive). 4–11 PM. Films @ 8:30
+  PM.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WORDHACK
 DTSTART:20260618T230000Z
 DTEND:20260619T000000Z
@@ -223,14 +184,14 @@ DESCRIPTION:https://cal.red/?event=5528\nCost: 15
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belladonna* Spring Reading Series
+SUMMARY:"Green Streets" Alcove Cinema Screening
 DTSTART:20260618T230000Z
 DTEND:20260619T000000Z
 DTSTAMP:20260618T230000Z
-UID:event:5511:2026-06-18T19:00:00
-DESCRIPTION:https://cal.red/?event=5511\n3 Bleecker St\, NY\, NY\nCost: Fr
- ee
-LOCATION:Von Bar
+UID:event:5544:2026-06-18T19:00:00
+DESCRIPTION:https://cal.red/?event=5544\nCost: Free
+LOCATION:Brooklyn Peace Center (23 Marcus Garvey Blvd). Doors @ 7 PM. Film
+  @ 7:30 PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Unnameable Greetings Readings SPRING 2026 Lineup
@@ -251,6 +212,16 @@ DESCRIPTION:https://cal.red/?event=5437\nLES\nCost: Advance $15 / Door $20
 LOCATION:Parkside Lounge\, 317 E Houston St
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Belladonna* Spring Reading Series
+DTSTART:20260618T230000Z
+DTEND:20260619T000000Z
+DTSTAMP:20260618T230000Z
+UID:event:5511:2026-06-18T19:00:00
+DESCRIPTION:https://cal.red/?event=5511\n3 Bleecker St\, NY\, NY\nCost: Fr
+ ee
+LOCATION:Von Bar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:
 DTSTART:20260618T233000Z
 DTEND:20260619T003000Z
@@ -258,15 +229,6 @@ DTSTAMP:20260618T233000Z
 UID:event:5433:2026-06-18T19:30:00
 DESCRIPTION:https://cal.red/?event=5433\nCost: FREE
 LOCATION:Haven Cycles\, 1581 Dekalb Ave\, Brooklyn NY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Value Critique of AI & Tech Worker Opposition
-DTSTART:20260619T000000Z
-DTEND:20260619T010000Z
-DTSTAMP:20260619T000000Z
-UID:event:5520:2026-06-18T20:00:00
-DESCRIPTION:https://cal.red/?event=5520\nCost: 0
-LOCATION:Online =(
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canvass for DSA State Assembly candidates! [Election daay is June 
@@ -277,6 +239,15 @@ DTSTAMP:20260619T000000Z
 UID:event:5540:2026-06-18T20:00:00
 DESCRIPTION:https://cal.red/?event=5540\nCost: 0
 LOCATION:Throughout NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Value Critique of AI & Tech Worker Opposition
+DTSTART:20260619T000000Z
+DTEND:20260619T010000Z
+DTSTAMP:20260619T000000Z
+UID:event:5520:2026-06-18T20:00:00
+DESCRIPTION:https://cal.red/?event=5520\nCost: 0
+LOCATION:Online =(
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Walk With Me
@@ -300,15 +271,6 @@ DESCRIPTION:https://cal.red/?event=5521\n📍Widdi Catering Hall (SMALL HA
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Imperial Abhorrences/ For Palestine
-DTSTART:20260619T220000Z
-DTEND:20260619T230000Z
-DTSTAMP:20260619T220000Z
-UID:event:5465:2026-06-19T18:00:00
-DESCRIPTION:https://cal.red/?event=5465\nCost: 0
-LOCATION:Mayday Space
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NOISETEENTH: Dreamcrusher\, Blackberry Knuckleduster\, O3D\, Frank
  /ie Consent\, Magic Smoke\, S & M\, medium. (solo)\, Flose\, No Eyes\, La 
  Cochino\, Blood of Akasha
@@ -322,6 +284,15 @@ LOCATION:@ the living gallery (all ages)\, 1094 broadway\, bushwick\, bkly
  n
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Imperial Abhorrences/ For Palestine
+DTSTART:20260619T220000Z
+DTEND:20260619T230000Z
+DTSTAMP:20260619T220000Z
+UID:event:5465:2026-06-19T18:00:00
+DESCRIPTION:https://cal.red/?event=5465\nCost: 0
+LOCATION:Mayday Space
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kabbalat Shabbat!
 DTSTART:20260619T230000Z
 DTEND:20260620T000000Z
@@ -331,14 +302,13 @@ DESCRIPTION:https://cal.red/?event=5518\nCost: 0
 LOCATION:Ridgewood Commons
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drone Lab + Open Projector
+SUMMARY:Drag Race All Stars 11
 DTSTART:20260620T000000Z
 DTEND:20260620T010000Z
 DTSTAMP:20260620T000000Z
-UID:event:5452:2026-06-19T20:00:00
-DESCRIPTION:https://cal.red/?event=5452\nOcean Hill / Brownsville\nCost: b
- y donation\, $20 suggested
-LOCATION:303 Saratoga Ave\, BK
+UID:event:5218:2026-06-19T20:00:00
+DESCRIPTION:https://cal.red/?event=5218\nCost: free
+LOCATION:10 Cooper St\, Brooklyn NY 11207
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Canvass for DSA State Assembly candidates! [Election daay is June 
@@ -351,13 +321,14 @@ DESCRIPTION:https://cal.red/?event=5540\nCost: 0
 LOCATION:Throughout NYC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drag Race All Stars 11
+SUMMARY:Drone Lab + Open Projector
 DTSTART:20260620T000000Z
 DTEND:20260620T010000Z
 DTSTAMP:20260620T000000Z
-UID:event:5218:2026-06-19T20:00:00
-DESCRIPTION:https://cal.red/?event=5218\nCost: free
-LOCATION:10 Cooper St\, Brooklyn NY 11207
+UID:event:5452:2026-06-19T20:00:00
+DESCRIPTION:https://cal.red/?event=5452\nOcean Hill / Brownsville\nCost: b
+ y donation\, $20 suggested
+LOCATION:303 Saratoga Ave\, BK
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:@SlayerGlobal: Slayer Pride
@@ -387,15 +358,6 @@ DESCRIPTION:https://cal.red/?event=5411\nCost: Donation Based
 LOCATION:Outside Purgatory: 675 Central Ave\, Bushwick Brooklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:POETRY HELL
-DTSTART:20260620T210000Z
-DTEND:20260620T220000Z
-DTSTAMP:20260620T210000Z
-UID:event:5353:2026-06-20T17:00:00
-DESCRIPTION:https://cal.red/?event=5353\n131 Chrystie St\, NYC\nCost: 0
-LOCATION:Home Sweet Home
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Spoon-Fed by Jaime Sunwoo
 DTSTART:20260620T210000Z
 DTEND:20260620T220000Z
@@ -403,6 +365,15 @@ DTSTAMP:20260620T210000Z
 UID:event:5483:2026-06-20T17:00:00
 DESCRIPTION:https://cal.red/?event=5483\nCost: Donation
 LOCATION:NYC Resistor
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:POETRY HELL
+DTSTART:20260620T210000Z
+DTEND:20260620T220000Z
+DTSTAMP:20260620T210000Z
+UID:event:5353:2026-06-20T17:00:00
+DESCRIPTION:https://cal.red/?event=5353\n131 Chrystie St\, NYC\nCost: 0
+LOCATION:Home Sweet Home
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:It’s gonna be a fun one!
@@ -425,6 +396,15 @@ DESCRIPTION:https://cal.red/?event=5443\n257 Nassau Ave\nBrooklyn\, NY 112
 LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Works & Days Launch!
+DTSTART:20260620T230000Z
+DTEND:20260621T000000Z
+DTSTAMP:20260620T230000Z
+UID:event:5525:2026-06-20T19:00:00
+DESCRIPTION:https://cal.red/?event=5525\nCost: 0
+LOCATION:Unnameable
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Reading!
 DTSTART:20260620T230000Z
 DTEND:20260621T000000Z
@@ -443,15 +423,6 @@ DESCRIPTION:https://cal.red/?event=5488\nCost: Free - $15
 LOCATION:LIFE WORLD [Bushwick] 563 Johnson Ave\, Brooklyn\, NY 11237
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Works & Days Launch!
-DTSTART:20260620T230000Z
-DTEND:20260621T000000Z
-DTSTAMP:20260620T230000Z
-UID:event:5525:2026-06-20T19:00:00
-DESCRIPTION:https://cal.red/?event=5525\nCost: 0
-LOCATION:Unnameable
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:POINT SOURCE V: Performances in QUAD
 DTSTART:20260620T233000Z
 DTEND:20260621T003000Z
@@ -460,16 +431,6 @@ UID:event:5538:2026-06-20T19:30:00
 DESCRIPTION:https://cal.red/?event=5538\nCost: $20 (sliding scale)
 LOCATION:SUPER OMEN - 1 knickerbocker ave. (2nd fl) - Bushwick (Morgan L T
  rain)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poetic Promenade is the School for Poetic Computation’s first la
- rge-scale community event and annual fundraiser
-DTSTART:20260621T000000Z
-DTEND:20260621T010000Z
-DTSTAMP:20260621T000000Z
-UID:event:5515:2026-06-20T20:00:00
-DESCRIPTION:https://cal.red/?event=5515\nCost: 65+
-LOCATION:Roulette
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sync & Sequence
@@ -482,14 +443,14 @@ LOCATION:The Brooklyn Brewery in Williamsburg. 79 N 11th St\, Brooklyn\, N
  Y 11249
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canvass for DSA State Assembly candidates! [Election daay is June 
- 23]
+SUMMARY:Poetic Promenade is the School for Poetic Computation’s first la
+ rge-scale community event and annual fundraiser
 DTSTART:20260621T000000Z
 DTEND:20260621T010000Z
 DTSTAMP:20260621T000000Z
-UID:event:5540:2026-06-20T20:00:00
-DESCRIPTION:https://cal.red/?event=5540\nCost: 0
-LOCATION:Throughout NYC
+UID:event:5515:2026-06-20T20:00:00
+DESCRIPTION:https://cal.red/?event=5515\nCost: 65+
+LOCATION:Roulette
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Game Night with the Independent Labor Club @ Wonderville
@@ -500,6 +461,16 @@ UID:event:5499:2026-06-20T20:00:00
 DESCRIPTION:https://cal.red/?event=5499\n1186 Broadway\, Brooklyn\, NY 112
  21\nCost: 0
 LOCATION:Wonderville (Bushwick)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canvass for DSA State Assembly candidates! [Election daay is June 
+ 23]
+DTSTART:20260621T000000Z
+DTEND:20260621T010000Z
+DTSTAMP:20260621T000000Z
+UID:event:5540:2026-06-20T20:00:00
+DESCRIPTION:https://cal.red/?event=5540\nCost: 0
+LOCATION:Throughout NYC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frog Farm Fair III
@@ -530,16 +501,6 @@ DESCRIPTION:https://cal.red/?event=5494\n251 Bushwick Avenue\nEast William
 LOCATION:Sleepwalk
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Canvass for DSA State Assembly candidates! [Election daay is June 
- 23]
-DTSTART:20260622T000000Z
-DTEND:20260622T010000Z
-DTSTAMP:20260622T000000Z
-UID:event:5540:2026-06-21T20:00:00
-DESCRIPTION:https://cal.red/?event=5540\nCost: 0
-LOCATION:Throughout NYC
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Poetic Promenade is the School for Poetic Computation’s first la
  rge-scale community event and annual fundraiser
 DTSTART:20260622T000000Z
@@ -548,6 +509,16 @@ DTSTAMP:20260622T000000Z
 UID:event:5515:2026-06-21T20:00:00
 DESCRIPTION:https://cal.red/?event=5515\nCost: 65+
 LOCATION:Roulette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canvass for DSA State Assembly candidates! [Election daay is June 
+ 23]
+DTSTART:20260622T000000Z
+DTEND:20260622T010000Z
+DTSTAMP:20260622T000000Z
+UID:event:5540:2026-06-21T20:00:00
+DESCRIPTION:https://cal.red/?event=5540\nCost: 0
+LOCATION:Throughout NYC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝑱𝑼𝑵𝑬 𝑬𝑽𝑬𝑵𝑻𝑺: Topos Too
