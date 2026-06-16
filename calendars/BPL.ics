@@ -11,13 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260615T214500Z
-DTEND:20260615T234500Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/820965
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Citizenship Class
 DTSTART:20260616T133000Z
 DTEND:20260616T163000Z
@@ -375,5 +368,14 @@ DTSTART:20260617T213000Z
 DTEND:20260617T223000Z
 DESCRIPTION:Programa virtual\n\nhttps://www.bklynlibrary.org/node/824994
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260617T220000Z
+DTEND:20260617T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
+ 30
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
