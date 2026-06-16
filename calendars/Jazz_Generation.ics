@@ -294,6 +294,18 @@ LOCATION:Broadway Dive\, 2662 Broadway\, New York\, New York 10025\, New
  York City
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jon Willinger Trio at La Cuchara (Englewood\, NJ)
+DTSTART:20260627T213000Z
+DTEND:20260628T003000Z
+DTSTAMP:20260627T213000Z
+UID:jazz-generation-6a30a442a0bd9b0f661680b5-1782595800440
+DESCRIPTION:https://jazzgeneration.org/events/2026/6/20/jon-willinger-trio
+ -at-la-cuchara-englewood-nj-pffrc\n\n<img src="https://images.squarespace-
+ cdn.com/content/v1/5452c26ae4b03c8f81fa0cab/1781572534422-2C3LLA18GFOU8WTE
+ 67DE/lacuchara.webp" alt="" />
+LOCATION:La Cuchara\, 21 East Palisade Avenue\, Englewood\, NJ\, 07631
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pizzette Live Jazz Block Party (Williamsburg\, Brooklyn)
 DTSTART:20260627T200000Z
 DTEND:20260627T230000Z
@@ -786,6 +798,18 @@ DESCRIPTION:https://jazzgeneration.org/events/2025/11/3/nightly-show-bar-l
  .com/content/v1/5452c26ae4b03c8f81fa0cab/1762033781132-QCE6PF7AEMSA28WM57V
  M/IMG_7927.jpg" alt="" />
 LOCATION:LunÀtico\, 486 Halsey Street\, Brooklyn\, NY\, 11233
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jon Willinger Trio at La Cuchara (Englewood\, NJ)
+DTSTART:20260620T213000Z
+DTEND:20260621T003000Z
+DTSTAMP:20260620T213000Z
+UID:jazz-generation-6a30a18aa0bd9b0f661552cb-1781991000710
+DESCRIPTION:https://jazzgeneration.org/events/2026/6/20/jon-willinger-trio
+ -at-la-cuchara-englewood-nj\n\n<img src="https://images.squarespace-cdn.co
+ m/content/v1/5452c26ae4b03c8f81fa0cab/1781572534422-2C3LLA18GFOU8WTE67DE/l
+ acuchara.webp" alt="" />
+LOCATION:La Cuchara\, 21 East Palisade Avenue\, Englewood\, NJ\, 07631
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pizzette Live Jazz Block Party (Williamsburg\, Brooklyn)
