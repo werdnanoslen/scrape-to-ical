@@ -30,14 +30,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La forma de las cosas por venir: ficciones especulativas del futur
- o | Taller de escritura con Michel Nieva
-DTSTART:20260617T213000Z
-DTEND:20260617T223000Z
-DESCRIPTION:Programa virtual\n\nhttps://www.bklynlibrary.org/node/824994
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260617T220000Z
 DTEND:20260617T000000Z
@@ -55,16 +47,6 @@ DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:How to Be a Rich Old Lady: Investing 101 Series Part 2
-DTSTART:20260617T220000Z
-DTEND:20260617T000000Z
-DESCRIPTION:Have you ever felt confused by your IRA or 401(k)? Do you know
-  that you should invest\, but don't know how or where to begin? Or who you
-  can trust for financial advice? In this exciting\, exclusive\, and\n\nhtt
- ps://www.bklynlibrary.org/node/823734
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fashion in Film: Pride Edition
 DTSTART:20260617T220000Z
 DTEND:20260617T230000Z
@@ -73,6 +55,16 @@ DESCRIPTION:What Hollywood designs today\, you will be wearing tomorrow.
   explore how the fashions worn by actors help narrate the stories. Se\n\nh
  ttps://www.bklynlibrary.org/node/820859
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Be a Rich Old Lady: Investing 101 Series Part 2
+DTSTART:20260617T220000Z
+DTEND:20260617T000000Z
+DESCRIPTION:Have you ever felt confused by your IRA or 401(k)? Do you know
+  that you should invest\, but don't know how or where to begin? Or who you
+  can trust for financial advice? In this exciting\, exclusive\, and\n\nhtt
+ ps://www.bklynlibrary.org/node/823734
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
@@ -382,5 +374,14 @@ DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
  . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
  ps://www.bklynlibrary.org/node/804719
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jigsaw Puzzle Hour
+DTSTART:20260622T190000Z
+DTEND:20260622T210000Z
+DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
+ variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
+ ://www.bklynlibrary.org/node/815711
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
