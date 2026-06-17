@@ -40,14 +40,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World Cup 2026 Watch Event: Portugal v DR Congo
-DTSTART:20260617T170000Z
-DTEND:20260617T191500Z
-DESCRIPTION:Come join us at the Library to watch the World Cup.\n\nhttps:/
- /www.bklynlibrary.org/node/815860
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYC: ATWORK Public Sector Career Fair Screening Session
 DTSTART:20260617T170000Z
 DTEND:20260617T200000Z
@@ -63,24 +55,6 @@ DTEND:20260617T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818917
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Good Life/Good Death Café
-DTSTART:20260617T180000Z
-DTEND:20260617T193000Z
-DESCRIPTION:A free gathering to talk about aging\, caregiving\, and end of
-  life with more peace and less fear.\n\nhttps://www.bklynlibrary.org/node/
- 822709
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260617T183000Z
-DTEND:20260617T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826353
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
@@ -380,6 +354,33 @@ DTEND:20260620T193000Z
 DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/819671
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
+DTSTART:20260620T183000Z
+DTEND:20260620T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing.\
+ n\nhttps://www.bklynlibrary.org/node/821131
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Climate Café Summer Session: "Digital Footprints: How AI is Shapi
+ ng Our Climate Future"
+DTSTART:20260620T190000Z
+DTEND:20260620T210000Z
+DESCRIPTION:"Digital Footprints: How AI is Shaping Our Climate Future"\n\n
+ https://www.bklynlibrary.org/node/823434
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260622T150000Z
+DTEND:20260622T170000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/820316
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
