@@ -40,42 +40,12 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20260617T160000Z
-DTEND:20260617T180000Z
-DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
- over letter\, interview\, and job search questions. All sessions are one-o
- n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
- tps://www.bklynlibrary.org/node/829806
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
-DTSTART:20260617T170000Z
-DTEND:20260617T180000Z
-DESCRIPTION:Learn all about today's financial markets from two women who 
- watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
- s they host The Women and Money Roundtable. This series is a virt\n\nhttps
- ://www.bklynlibrary.org/node/797676
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Cup 2026 Watch Event: Portugal v DR Congo
 DTSTART:20260617T170000Z
 DTEND:20260617T191500Z
 DESCRIPTION:Come join us at the Library to watch the World Cup.\n\nhttps:/
  /www.bklynlibrary.org/node/815860
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20260617T170000Z
-DTEND:20260617T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /821145
-LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:NYC: ATWORK Public Sector Career Fair Screening Session
@@ -93,15 +63,6 @@ DTEND:20260617T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818917
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260617T180000Z
-DTEND:20260617T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826344
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Good Life/Good Death Café
@@ -384,5 +345,41 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8085
  99
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYS MWBE Program & Certification Workshop
+DTSTART:20260618T223000Z
+DTEND:20260618T000000Z
+DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
+ library.org/node/805737
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:National External Diploma Program (NEDP) Info. Session
+DTSTART:20260618T223000Z
+DTEND:20260618T233000Z
+DESCRIPTION:Looking for a different way to earn your high school equivalen
+ cy diploma? The National External Diploma Program could be right for you! 
+ Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
+ ://www.bklynlibrary.org/node/802941
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260620T143000Z
+DTEND:20260620T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8040
+ 18
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260620T173000Z
+DTEND:20260620T193000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/819671
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
