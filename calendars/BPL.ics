@@ -40,15 +40,6 @@ DESCRIPTION:Our crash course in screenwriting gives you tips on going from
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260618T143000Z
-DTEND:20260618T163000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 49
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Cup 2026 Watch Event: Czechia v. South Africa
 DTSTART:20260618T160000Z
 DTEND:20260618T180000Z
@@ -384,5 +375,13 @@ DESCRIPTION:Over half of workers in New York State lack access to retireme
  gs Program\, the state’s new retirement savings program\, provides\n\nht
  tps://www.bklynlibrary.org/node/822678
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260623T133000Z
+DTEND:20260623T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/816161
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
