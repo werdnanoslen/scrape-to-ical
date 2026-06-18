@@ -746,6 +746,39 @@ DESCRIPTION:https://www.viewcy.com/event/sada____\n<p><img alt="SADA | ص
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Candombe
+DTSTART:20260703T000000Z
+DTEND:20260703T020000Z
+DTSTAMP:20260703T000000Z
+UID:Candombe
+DESCRIPTION:https://www.viewcy.com/event/candombe\n<p><img alt="Candombe t
+ humbnail" class="styles_coverImg__PsR9G" data-nimg="1" data-sentry-compone
+ nt="ImageWithFallback" data-sentry-element="Image" data-sentry-source-file
+ ="index.tsx" decoding="async" height="186" loading="lazy" src="https://www
+ .viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_
+ storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MjMxMjE4LCJ
+ wdXIiOiJibG9iX2lkIn19--33a5899482e24e85b3de036ee28b108bd9695516%2FeyJfcmFp
+ bHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXS
+ wic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9
+ fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FN
+ ew%2520Designs.png&amp\;w=640&amp\;q=100" srcset="/_next/image?url=https%3
+ A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirec
+ t%2FeyJfcmFpbHMiOnsiZGF0YSI6MjMxMjE4LCJwdXIiOiJibG9iX2lkIn19--33a5899482e2
+ 4e85b3de036ee28b108bd9695516%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGc
+ iLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1Y
+ WxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78
+ da7c23e8be3d3917f6864589f67c6ba5945%2FNew%2520Designs.png&amp\;w=384&amp\;
+ q=100 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_
+ storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MjMxMjE4LCJ
+ wdXIiOiJibG9iX2lkIn19--33a5899482e24e85b3de036ee28b108bd9695516%2FeyJfcmFp
+ bHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXS
+ wic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9
+ fSwicHVyIjoidmFyaWF0aW9uIn19--eeb78da7c23e8be3d3917f6864589f67c6ba5945%2FN
+ ew%2520Designs.png&amp\;w=640&amp\;q=100 2x" style="color: transparent\;" 
+ width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sonido Muzzarelli Live
 DTSTART:20260705T220000Z
 DTEND:20260706T000000Z
