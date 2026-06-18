@@ -11,33 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260617T220000Z
-DTEND:20260617T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 30
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Citizenship Class
-DTSTART:20260617T220000Z
-DTEND:20260617T000000Z
-DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
- g/node/820160
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:How to Be a Rich Old Lady: Investing 101 Series Part 2
-DTSTART:20260617T220000Z
-DTEND:20260617T000000Z
-DESCRIPTION:Have you ever felt confused by your IRA or 401(k)? Do you know
-  that you should invest\, but don't know how or where to begin? Or who you
-  can trust for financial advice? In this exciting\, exclusive\, and\n\nhtt
- ps://www.bklynlibrary.org/node/823734
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20260618T140000Z
 DTEND:20260618T210000Z
@@ -381,5 +354,32 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8069
  84
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pride Is Justice: A Live Film Screening
+DTSTART:20260622T210000Z
+DTEND:20260622T000000Z
+DESCRIPTION:Join us for a special evening of four powerful LGBT+ films tha
+ t celebrate pride\, joy and resistance!\n\nhttps://www.bklynlibrary.org/no
+ de/826583
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get Ready to Save for Retirement with New York Secure Choice
+DTSTART:20260622T210000Z
+DTEND:20260622T220000Z
+DESCRIPTION:Do you want to save for retirement but don’t know how to sta
+ rt? Did your employer recently add you to New York Secure Choice? Learn ho
+ w you can start saving for retirement with the state’s new retirem\n\nht
+ tps://www.bklynlibrary.org/node/822654
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn & Play Mahjong
+DTSTART:20260622T220000Z
+DTEND:20260622T233000Z
+DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/823
+ 238
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
