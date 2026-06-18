@@ -21,16 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Job Ready! Resume and Cover letter Workshop
-DTSTART:20260618T180000Z
-DTEND:20260618T193000Z
-DESCRIPTION:Join this Career Computer Lab to update and refine your resume
-  or cover letter. Learn document best practices\, explore examples\, compa
- re templates and more. Please note: we are unable to write or type\n\nhttp
- s://www.bklynlibrary.org/node/820066
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:From Plan to Plate: Market Research and Resources for Food Entrepr
  eneurs
 DTSTART:20260618T180000Z
@@ -384,5 +374,13 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/827988
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260623T190000Z
+DTEND:20260623T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
+ 5
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
