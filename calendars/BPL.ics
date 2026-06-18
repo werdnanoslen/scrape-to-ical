@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Social Work Walk-In Hours
-DTSTART:20260618T140000Z
-DTEND:20260618T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
- 49
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20260618T140000Z
 DTEND:20260618T210000Z
@@ -30,23 +21,14 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fundamentals of Screenwriting
-DTSTART:20260618T143000Z
-DTEND:20260618T173000Z
-DESCRIPTION:Our crash course in screenwriting gives you tips on going from
-  your brain to paper. Included are the basic elements of a screenplay\, pr
- oper structure and format\, and techniques for how to explain your\n\nhttp
- s://www.bklynlibrary.org/node/796184
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Cup 2026 Watch Event: Czechia v. South Africa
-DTSTART:20260618T160000Z
-DTEND:20260618T180000Z
-DESCRIPTION:Watch the World Cup at your local library! Join us at Brooklyn
-  Heights to watch select games throughout the tournament.\n\nhttps://www.b
- klynlibrary.org/node/824975
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
+SUMMARY:CANCELLED: Job Ready! Resume and Cover letter Workshop
+DTSTART:20260618T180000Z
+DTEND:20260618T193000Z
+DESCRIPTION:Join this Career Computer Lab to update and refine your resume
+  or cover letter. Learn document best practices\, explore examples\, compa
+ re templates and more. Please note: we are unable to write or type\n\nhttp
+ s://www.bklynlibrary.org/node/820066
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:From Plan to Plate: Market Research and Resources for Food Entrepr
@@ -60,25 +42,6 @@ DESCRIPTION:Learn how market research helps food entrepreneurs validate id
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260618T180000Z
-DTEND:20260618T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826345
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Job Ready! Resume and Cover letter Workshop
-DTSTART:20260618T180000Z
-DTEND:20260618T193000Z
-DESCRIPTION:Join this Career Computer Lab to update and refine your resume
-  or cover letter. Learn document best practices\, explore examples\, compa
- re templates and more. Please note: we are unable to write or type\n\nhttp
- s://www.bklynlibrary.org/node/820066
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arts and Crafts Circle
 DTSTART:20260618T183000Z
 DTEND:20260618T200000Z
@@ -86,15 +49,6 @@ DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join
  us to work on projects\, trade skills\, and socialize with other makers!\n
  \nhttps://www.bklynlibrary.org/node/812525
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260618T183000Z
-DTEND:20260618T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826354
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:French Conversation Group
@@ -383,5 +337,52 @@ DTEND:20260623T163000Z
 DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
  g/node/816161
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260623T160000Z
+DTEND:20260623T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822256
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260623T163000Z
+DTEND:20260623T180000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/825238
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260623T180000Z
+DTEND:20260623T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/811965
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260623T180000Z
+DTEND:20260623T190000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/821318
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260623T190000Z
+DTEND:20260623T210000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/827988
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
