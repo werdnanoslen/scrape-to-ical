@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Climate Café Summer Session: "Digital Footprints: How AI is Shapi
- ng Our Climate Future"
-DTSTART:20260620T190000Z
-DTEND:20260620T210000Z
-DESCRIPTION:"Digital Footprints: How AI is Shaping Our Climate Future"\n\n
- https://www.bklynlibrary.org/node/823434
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260622T150000Z
 DTEND:20260622T170000Z
@@ -377,5 +368,13 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/826346
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Symposium
+DTSTART:20260624T183000Z
+DTEND:20260624T194500Z
+DESCRIPTION:Join us for Philosophy Discussion Group this summer!\n\nhttps:
+ //www.bklynlibrary.org/node/823108
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
