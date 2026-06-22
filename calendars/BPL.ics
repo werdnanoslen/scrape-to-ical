@@ -20,35 +20,6 @@ DESCRIPTION:Join us for a special evening of four powerful LGBT+ films tha
 LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group
-DTSTART:20260622T220000Z
-DTEND:20260622T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/828622
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Learn & Play Mahjong
-DTSTART:20260622T220000Z
-DTEND:20260622T233000Z
-DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/823
- 238
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Help your Employees with an Easy Way to Save for Retirement. Find 
- your Deadline and Register your Business with New York Secure Choice Today
- !
-DTSTART:20260622T223000Z
-DTEND:20260622T233000Z
-DESCRIPTION:Over half of workers in New York State lack access to retireme
- nt benefits through their employer. The New York State Secure Choice Savin
- gs Program\, the state’s new retirement savings program\, provides\n\nht
- tps://www.bklynlibrary.org/node/822678
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260623T133000Z
 DTEND:20260623T163000Z
@@ -377,5 +348,34 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  50
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Virtual English Conversation Group
+DTSTART:20260625T143000Z
+DTEND:20260625T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/804505
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Produce Remotely
+DTSTART:20260625T150000Z
+DTEND:20260625T170000Z
+DESCRIPTION:Learn how to increase your online meeting/show production valu
+ e! Learn techniques for maximizing production value for your remote shows
+  and meetings. This course covers the various platforms that you\n\nhttps:
+ //www.bklynlibrary.org/node/796123
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Marketing Your Podcast
+DTSTART:20260625T180000Z
+DTEND:20260625T200000Z
+DESCRIPTION:Dive into the dynamic world of podcast promotion with our “M
+ arketing Your Podcast” course. Whether you’re a seasoned podcaster or 
+ just getting started\, this course will equip you with the strategies a\n\
+ nhttps://www.bklynlibrary.org/node/796188
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
