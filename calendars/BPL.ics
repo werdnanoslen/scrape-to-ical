@@ -20,14 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Hour
-DTSTART:20260623T163000Z
-DTEND:20260623T180000Z
-DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
- rg/node/825238
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resume Coaching
 DTSTART:20260623T180000Z
 DTEND:20260623T200000Z
@@ -378,5 +370,14 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/826356
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:French Conversation Group
+DTSTART:20260625T190000Z
+DTEND:20260625T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. This group is for high intermediate speake
+ rs.\n\nhttps://www.bklynlibrary.org/node/816517
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
