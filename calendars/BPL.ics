@@ -20,16 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260623T180000Z
-DTEND:20260623T200000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/811965
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Theater Workshop
 DTSTART:20260623T190000Z
 DTEND:20260623T210000Z
@@ -379,5 +369,15 @@ DESCRIPTION:Sometimes it's an off-putting scent or viscous texture or stom
  of being shamed into not finishing every bite\, sometimes it's th\n\nhttps
  ://www.bklynlibrary.org/node/816897
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Digital Skills & AI Literacy: Info Session
+DTSTART:20260625T190000Z
+DTEND:20260625T203000Z
+DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
+ cess to Google Career Certificates- online\, self-paced programs designed 
+ to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
+ ps://www.bklynlibrary.org/node/827162
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
