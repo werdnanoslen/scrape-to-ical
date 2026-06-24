@@ -49,6 +49,16 @@ DESCRIPTION:https://cal.red/?event=5598\n252 Green St\, 3rd Fl\nGreenpoint
 LOCATION:Bechdel Project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Queer Pride\, Overseers and the Racial State: Steven Thrasher and 
+ Emmaia Gelman in conversation
+DTSTART:20260625T230000Z
+DTEND:20260626T000000Z
+DTSTAMP:20260625T230000Z
+UID:event:5613:2026-06-25T19:00:00
+DESCRIPTION:https://cal.red/?event=5613\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Thrasher and Gelman: Queer Pride\, Overseers and the Racial State
 DTSTART:20260625T230000Z
 DTEND:20260626T000000Z
@@ -171,15 +181,6 @@ DESCRIPTION:https://cal.red/?event=5339\nCost: $60 – $150
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:first aid for the people!
-DTSTART:20260627T200000Z
-DTEND:20260627T210000Z
-DTSTAMP:20260627T200000Z
-UID:event:5580:2026-06-27T16:00:00
-DESCRIPTION:https://cal.red/?event=5580\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SPEAK UP! Festival
 DTSTART:20260627T200000Z
 DTEND:20260627T210000Z
@@ -187,6 +188,15 @@ DTSTAMP:20260627T200000Z
 UID:event:5453:2026-06-27T16:00:00
 DESCRIPTION:https://cal.red/?event=5453\nCost: FREE!!!
 LOCATION:Pier i\, at W 70th St\, NY (Riverside Park Conservancy)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:first aid for the people!
+DTSTART:20260627T200000Z
+DTEND:20260627T210000Z
+DTSTAMP:20260627T200000Z
+UID:event:5580:2026-06-27T16:00:00
+DESCRIPTION:https://cal.red/?event=5580\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:POETRY HELL
@@ -323,6 +333,15 @@ LOCATION:Join us in rehabilitating the word "luddite" as we tell the story
   of the legendary\, loom-breaking\, 19th century Luddites.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Summer of Ludd Music Jamboree & Open Mic
+DTSTART:20260629T200000Z
+DTEND:20260629T210000Z
+DTSTAMP:20260629T200000Z
+UID:event:5574:2026-06-29T16:00:00
+DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
+LOCATION:Tompkins Sq. Park\, Manhattan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Defense Against the Dark Arts: a Tech Reclaimers and Opt Out works
  hop at Summer of Ludd
 DTSTART:20260629T200000Z
@@ -332,15 +351,6 @@ UID:event:5555:2026-06-29T16:00:00
 DESCRIPTION:https://cal.red/?event=5555\n15 Rutherford Place\nnear 3rd ave
  \, between 14th-15th St\nCost: FREE!
 LOCATION:Quaker Meeting House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer of Ludd Music Jamboree & Open Mic
-DTSTART:20260629T200000Z
-DTEND:20260629T210000Z
-DTSTAMP:20260629T200000Z
-UID:event:5574:2026-06-29T16:00:00
-DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
-LOCATION:Tompkins Sq. Park\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:What Are You Doing Tonight? How to Start Your Own Events Calendar
@@ -566,15 +576,6 @@ DESCRIPTION:https://cal.red/?event=5570\nCost: FREE
 LOCATION:telos.haus\, East Williamsburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
-DTSTART:20260704T180000Z
-DTEND:20260704T190000Z
-DTSTAMP:20260704T180000Z
-UID:event:5571:2026-07-04T14:00:00
-DESCRIPTION:https://cal.red/?event=5571\nCost: FREE
-LOCATION:Tompkins Sq. Park\, Manhattan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hang with Bundists in the park this Summer!
 DTSTART:20260704T180000Z
 DTEND:20260704T190000Z
@@ -582,6 +583,15 @@ DTSTAMP:20260704T180000Z
 UID:event:5581:2026-07-04T14:00:00
 DESCRIPTION:https://cal.red/?event=5581\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
+DTSTART:20260704T180000Z
+DTEND:20260704T190000Z
+DTSTAMP:20260704T180000Z
+UID:event:5571:2026-07-04T14:00:00
+DESCRIPTION:https://cal.red/?event=5571\nCost: FREE
+LOCATION:Tompkins Sq. Park\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:'Anna by the Window' Film Premiere + Brainrot Detox

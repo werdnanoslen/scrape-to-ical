@@ -30,16 +30,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fighting Dementia: How to Take Care of Our Brains
-DTSTART:20260624T210000Z
-DTEND:20260624T220000Z
-DESCRIPTION:Join NYU Langone Health for a virtual workshop where we will l
- earn about dementia\, what it is\, and why it matters for our health as we
-  age. We will explore the risks factors that may raise or lower ou\n\nhttp
- s://www.bklynlibrary.org/node/824499
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260624T220000Z
 DTEND:20260624T000000Z
@@ -383,5 +373,15 @@ DESCRIPTION:Join a social circle where we can learn new skills from each
  other based on our own experiences in knitting\, crochet and hand-sewing.\
  n\nhttps://www.bklynlibrary.org/node/821130
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20260627T193000Z
+DTEND:20260627T210000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/815647
+LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
