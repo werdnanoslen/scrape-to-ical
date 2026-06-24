@@ -47,14 +47,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation for Adults
-DTSTART:20260624T140000Z
-DTEND:20260624T153000Z
-DESCRIPTION:Join us to practice and learn beginning Hebrew. Join our circl
- e meeting since 2022.\n\nhttps://www.bklynlibrary.org/node/828516
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260624T150000Z
 DTEND:20260624T170000Z
@@ -383,5 +375,14 @@ DESCRIPTION:"A dizzying triumph of queer millennial nostalgia." —Haley J
  akobson\, New York Times Editor’s Choice Author of Old Enough\n\nhttps:/
  /www.bklynlibrary.org/node/828408
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260625T220000Z
+DTEND:20260625T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8086
+ 00
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
