@@ -21,64 +21,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260625T213000Z
-DTEND:20260625T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/816117
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260625T213000Z
-DTEND:20260625T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819226
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260625T220000Z
-DTEND:20260625T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8086
- 00
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260625T220000Z
-DTEND:20260625T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/821142
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Club with BPL Book Prize Winner Emet North: In Universes
-DTSTART:20260625T220000Z
-DTEND:20260625T233000Z
-DESCRIPTION:Join us for a special book club discussing BPL Book Prize winn
- er In Universes. Emet North's extraordinary debut takes readers on a timel
- ine-hopping adventure through universes.\n\nhttps://www.bklynlibrary.org/n
- ode/826188
-LOCATION:Central Library\, Reverend Elsie Smith Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Talk: Gabrielle Korn in Conversation with Tyler McCall on Lon
- g Island Girls
-DTSTART:20260625T220000Z
-DTEND:20260625T233000Z
-DESCRIPTION:"A dizzying triumph of queer millennial nostalgia." —Haley J
- akobson\, New York Times Editor’s Choice Author of Old Enough\n\nhttps:/
- /www.bklynlibrary.org/node/828408
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Adult Learning Graduation
 DTSTART:20260626T140000Z
 DTEND:20260626T170000Z
@@ -379,5 +321,60 @@ DESCRIPTION:Do you have a specific question about how to use computers or
   1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
  //www.bklynlibrary.org/node/821319
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260630T190000Z
+DTEND:20260630T210000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/827989
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260630T190000Z
+DTEND:20260630T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
+ 6
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume Hours
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
+ ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
+ brary.org/node/826877
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Cup 2026 Watch Event
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+DESCRIPTION:Watch the World Cup at your local library! Join us at Brooklyn
+  Heights to watch select games throughout the tournament.\n\nhttps://www.b
+ klynlibrary.org/node/824976
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20260630T210000Z
+DTEND:20260630T000000Z
+DESCRIPTION:Summer celebration for Slip Stitch Knitting and Crocheting Gro
+ up! Bring your project and food for yourself and to share with the fellow
+  knitters and crocheters!\n\nhttps://www.bklynlibrary.org/node/825099
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Author Office Hours with Cara Bastone
+DTSTART:20260630T210000Z
+DTEND:20260630T233000Z
+DESCRIPTION:Book a 1-on-1 session with bestselling author Cara Bastone at 
+ Park Slope Library!Need help with an ending? A beginning? A query letter? 
+ Where to start or when to stop? You can book a 25-minute slot to\n\nhttps:
+ //www.bklynlibrary.org/node/826919
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
