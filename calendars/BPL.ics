@@ -30,16 +30,6 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Produce Remotely
-DTSTART:20260625T150000Z
-DTEND:20260625T170000Z
-DESCRIPTION:Learn how to increase your online meeting/show production valu
- e! Learn techniques for maximizing production value for your remote shows
-  and meetings. This course covers the various platforms that you\n\nhttps:
- //www.bklynlibrary.org/node/796123
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Marketing Your Podcast
 DTSTART:20260625T180000Z
 DTEND:20260625T200000Z
@@ -382,5 +372,15 @@ DTEND:20260629T210000Z
 DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
  /816841
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20260629T200000Z
+DTEND:20260629T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/825131
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
