@@ -21,15 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260625T140000Z
-DTEND:20260625T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
- 50
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Marketing Your Podcast
 DTSTART:20260625T180000Z
 DTEND:20260625T200000Z
@@ -38,15 +29,6 @@ DESCRIPTION:Dive into the dynamic world of podcast promotion with our “M
  just getting started\, this course will equip you with the strategies a\n\
  nhttps://www.bklynlibrary.org/node/796188
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260625T183000Z
-DTEND:20260625T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/826356
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:French Conversation Group
@@ -382,5 +364,23 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8069
  85
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260629T220000Z
+DTEND:20260629T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/828623
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQ+ Film Discussion Group
+DTSTART:20260629T223000Z
+DTEND:20260629T233000Z
+DESCRIPTION:Join us every last Monday for a monthly LGBTQ+ film discussion
+  group where we explore classic and contemporary queer cinema!\n\nhttps://
+ www.bklynlibrary.org/node/825942
+LOCATION:Central Library\, Business & Career Center\, Room 7
 END:VEVENT
 END:VCALENDAR
