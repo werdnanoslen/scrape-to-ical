@@ -21,45 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Marketing Your Podcast
-DTSTART:20260625T180000Z
-DTEND:20260625T200000Z
-DESCRIPTION:Dive into the dynamic world of podcast promotion with our “M
- arketing Your Podcast” course. Whether you’re a seasoned podcaster or 
- just getting started\, this course will equip you with the strategies a\n\
- nhttps://www.bklynlibrary.org/node/796188
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260625T190000Z
-DTEND:20260625T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816517
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Central Cookbook Club: Food and Loathing: Our (Dis)Favorites
-DTSTART:20260625T190000Z
-DTEND:20260625T203000Z
-DESCRIPTION:Sometimes it's an off-putting scent or viscous texture or stom
- ach-churning color. Sometimes it brings back memories of a bad experience 
- of being shamed into not finishing every bite\, sometimes it's th\n\nhttps
- ://www.bklynlibrary.org/node/816897
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Digital Skills & AI Literacy: Info Session
-DTSTART:20260625T190000Z
-DTEND:20260625T203000Z
-DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
- cess to Google Career Certificates- online\, self-paced programs designed 
- to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
- ps://www.bklynlibrary.org/node/827162
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20260625T200000Z
 DTEND:20260625T000000Z
@@ -382,5 +343,41 @@ DESCRIPTION:Join us every last Monday for a monthly LGBTQ+ film discussion
   group where we explore classic and contemporary queer cinema!\n\nhttps://
  www.bklynlibrary.org/node/825942
 LOCATION:Central Library\, Business & Career Center\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free In-Person Tax Help (By Appointment) with Single Stop
+DTSTART:20260630T160000Z
+DTEND:20260630T230000Z
+DESCRIPTION:Register to make an appointment to receive free tax assistance
+  with Single Stop for you and your family.\n\nhttps://www.bklynlibrary.org
+ /node/822258
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260630T163000Z
+DTEND:20260630T180000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/825239
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
+ siness Solutions Center
+DTSTART:20260630T170000Z
+DTEND:20260630T200000Z
+DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
+ ? Join the NYC Business Solutions Brooklyn Center for "The Flower Hour\," 
+ a special session of our popular Joint Ventures educational serie\n\nhttps
+ ://www.bklynlibrary.org/node/819560
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stroke Detection and Prevention Info Session
+DTSTART:20260630T173000Z
+DTEND:20260630T190000Z
+DESCRIPTION:Please join us as Fiona Ahern\, RN\, BSN explains stroke preve
+ ntion and detection.\n\nhttps://www.bklynlibrary.org/node/828782
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
