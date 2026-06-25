@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20260625T140000Z
-DTEND:20260625T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/814918
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20260625T200000Z
 DTEND:20260625T000000Z
@@ -379,5 +369,15 @@ DTEND:20260630T190000Z
 DESCRIPTION:Please join us as Fiona Ahern\, RN\, BSN explains stroke preve
  ntion and detection.\n\nhttps://www.bklynlibrary.org/node/828782
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260630T180000Z
+DTEND:20260630T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/811966
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
