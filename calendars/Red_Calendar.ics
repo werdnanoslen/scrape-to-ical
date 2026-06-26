@@ -11,13 +11,13 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:"Little Palestine: Diary of a Siege" Film Screening
+SUMMARY:Thrasher and Gelman: Queer Pride\, Overseers and the Racial State
 DTSTART:20260625T230000Z
 DTEND:20260626T000000Z
 DTSTAMP:20260625T230000Z
-UID:event:5609:2026-06-25T19:00:00
-DESCRIPTION:https://cal.red/?event=5609\nCost: Free
-LOCATION:Another World (629 Nostrand Ave) in Crown Heights.
+UID:event:5563:2026-06-25T19:00:00
+DESCRIPTION:https://cal.red/?event=5563\nCost: Free
+LOCATION:The Word Is Change\, Bed-Stuy\, Bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queer Pride\, Overseers and the Racial State: Steven Thrasher and 
@@ -30,13 +30,13 @@ DESCRIPTION:https://cal.red/?event=5613\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Thrasher and Gelman: Queer Pride\, Overseers and the Racial State
+SUMMARY:"Little Palestine: Diary of a Siege" Film Screening
 DTSTART:20260625T230000Z
 DTEND:20260626T000000Z
 DTSTAMP:20260625T230000Z
-UID:event:5563:2026-06-25T19:00:00
-DESCRIPTION:https://cal.red/?event=5563\nCost: Free
-LOCATION:The Word Is Change\, Bed-Stuy\, Bklyn
+UID:event:5609:2026-06-25T19:00:00
+DESCRIPTION:https://cal.red/?event=5609\nCost: Free
+LOCATION:Another World (629 Nostrand Ave) in Crown Heights.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -97,6 +97,15 @@ DESCRIPTION:https://cal.red/?event=5583\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drag Race All Stars 11
+DTSTART:20260627T000000Z
+DTEND:20260627T010000Z
+DTSTAMP:20260627T000000Z
+UID:event:5218:2026-06-26T20:00:00
+DESCRIPTION:https://cal.red/?event=5218\nCost: free
+LOCATION:10 Cooper St\, Brooklyn NY 11207
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:
 DTSTART:20260627T000000Z
 DTEND:20260627T010000Z
@@ -106,13 +115,13 @@ DESCRIPTION:https://cal.red/?event=5610\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drag Race All Stars 11
+SUMMARY:O suuuuupermannnnnnnnnnn o jjjudge!
 DTSTART:20260627T000000Z
 DTEND:20260627T010000Z
 DTSTAMP:20260627T000000Z
-UID:event:5218:2026-06-26T20:00:00
-DESCRIPTION:https://cal.red/?event=5218\nCost: free
-LOCATION:10 Cooper St\, Brooklyn NY 11207
+UID:event:5622:2026-06-26T20:00:00
+DESCRIPTION:https://cal.red/?event=5622\nCost: 0
+LOCATION:Central Park!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -295,15 +304,6 @@ LOCATION:Join us in rehabilitating the word "luddite" as we tell the story
   of the legendary\, loom-breaking\, 19th century Luddites.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer of Ludd Music Jamboree & Open Mic
-DTSTART:20260629T200000Z
-DTEND:20260629T210000Z
-DTSTAMP:20260629T200000Z
-UID:event:5574:2026-06-29T16:00:00
-DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
-LOCATION:Tompkins Sq. Park\, Manhattan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Defense Against the Dark Arts: a Tech Reclaimers and Opt Out works
  hop at Summer of Ludd
 DTSTART:20260629T200000Z
@@ -313,6 +313,15 @@ UID:event:5555:2026-06-29T16:00:00
 DESCRIPTION:https://cal.red/?event=5555\n15 Rutherford Place\nnear 3rd ave
  \, between 14th-15th St\nCost: FREE!
 LOCATION:Quaker Meeting House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer of Ludd Music Jamboree & Open Mic
+DTSTART:20260629T200000Z
+DTEND:20260629T210000Z
+DTSTAMP:20260629T200000Z
+UID:event:5574:2026-06-29T16:00:00
+DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
+LOCATION:Tompkins Sq. Park\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:What Are You Doing Tonight? How to Start Your Own Events Calendar
@@ -404,8 +413,8 @@ SUMMARY:
 DTSTART:20260630T230000Z
 DTEND:20260701T000000Z
 DTSTAMP:20260630T230000Z
-UID:event:5611:2026-06-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5611\nCost: 0
+UID:event:5589:2026-06-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5589\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
@@ -413,8 +422,8 @@ SUMMARY:
 DTSTART:20260630T230000Z
 DTEND:20260701T000000Z
 DTSTAMP:20260630T230000Z
-UID:event:5589:2026-06-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5589\nCost: 0
+UID:event:5611:2026-06-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5611\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
