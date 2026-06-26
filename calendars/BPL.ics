@@ -21,24 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20260626T170000Z
-DTEND:20260626T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
- 65
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260626T180000Z
-DTEND:20260626T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/828673
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20260626T200000Z
 DTEND:20260626T213000Z
@@ -376,5 +358,23 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/826698
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Park Slope Library’s Neighbors In Need Care Kits
+DTSTART:20260701T140000Z
+DTEND:20260701T200000Z
+DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
+ cated to ensuring everyone has access to essential hygiene products.No one
+  should have to go without the basics! If you or someone you know ne\n\nht
+ tps://www.bklynlibrary.org/node/820191
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20260701T140000Z
+DTEND:20260701T153000Z
+DESCRIPTION:Join us to practice and learn beginning Hebrew. Join our circl
+ e meeting since 2022.\n\nhttps://www.bklynlibrary.org/node/828517
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
