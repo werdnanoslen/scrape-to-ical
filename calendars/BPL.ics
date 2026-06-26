@@ -30,15 +30,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Short Story Discussion Group
-DTSTART:20260626T170000Z
-DTEND:20260626T180000Z
-DESCRIPTION:Please join us for a discussion of David Leavitt's "Territory\
- ,” on Friday\, June 26\, 2026\, from 1-2:00 p.m.\, in the B&CC Classroom
- .\n\nhttps://www.bklynlibrary.org/node/827411
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual French Conversation Group
 DTSTART:20260626T180000Z
 DTEND:20260626T190000Z
@@ -375,5 +366,15 @@ DTSTART:20260701T140000Z
 DTEND:20260701T160000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812238
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260701T140000Z
+DTEND:20260701T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/826698
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
