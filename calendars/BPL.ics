@@ -26,16 +26,6 @@ DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260626T150000Z
-DTEND:20260626T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/826701
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
 DTSTART:20260626T150000Z
 DTEND:20260626T170000Z
@@ -44,6 +34,16 @@ DESCRIPTION:This drop-in help session is cancelled. We invite you to join
  entral Library's Business & Career Center for a review of your r\n\nhttps:
  //www.bklynlibrary.org/node/804775
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260626T150000Z
+DTEND:20260626T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/826701
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Short Story Discussion Group
