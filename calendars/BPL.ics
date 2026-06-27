@@ -21,12 +21,13 @@ DESCRIPTION:Brooklyn Public Library's Community Health Team\, in collabora
 LOCATION:St. Mark's Day School
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Letter Writing Club
-DTSTART:20260627T150000Z
-DTEND:20260627T163000Z
-DESCRIPTION:WRITE A FRIEND. MAKE A FRIEND. UNPLUG. JOIN THE CLUB.\n\nhttps
- ://www.bklynlibrary.org/node/825659
-LOCATION:Park Slope\, Auditorium
+SUMMARY:FOSSS Guided Music Production Session: Advanced
+DTSTART:20260627T170000Z
+DTEND:20260627T190000Z
+DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
+ ction program\, offering workshops and other instruction at Brooklyn Publi
+ c Library.\n\nhttps://www.bklynlibrary.org/node/785130
+LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Want to Become MWBE Certified? Join Our Virtual Saturdays Clinic!
@@ -37,15 +38,6 @@ DESCRIPTION:New York City spends up to $20 billion per year on goods and s
  se\, or MWBE\, will help you compete for these opportunities and a\n\nhttp
  s://www.bklynlibrary.org/node/817555
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FOSSS Guided Music Production Session: Advanced
-DTSTART:20260627T170000Z
-DTEND:20260627T190000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/785130
-LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
@@ -374,5 +366,15 @@ DESCRIPTION:Do you have a specific question about how to use computers or
  find your way around the Internet? No time to attend a formal class?\n\nht
  tps://www.bklynlibrary.org/node/818672
 LOCATION:Brooklyn Heights Library\, Gaming Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Stop the Bleed
+DTSTART:20260701T160000Z
+DTEND:20260701T170000Z
+DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
+ nd to emergencies where life-threatening bleeding is present. By learning 
+ just a few simple steps\, you can become trained to save a life in\n\nhttp
+ s://www.bklynlibrary.org/node/807801
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
