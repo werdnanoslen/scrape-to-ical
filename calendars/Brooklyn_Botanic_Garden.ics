@@ -71,20 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260626T040000Z
-DTEND;VALUE=DATE:20260626T060000Z
-UID:Seasonal Highlights Tour-2026-06-26 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday\, June 9–28\, 2026 | 1–2 p.m.\n\nDiscover
-  BBG’s plants and gardens in peak bloom and other highlights of the seas
- on in this free walk led by trained Garden Guides.Learn More›about Seaso
- nal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasona
- l_highlights_tour_june_2026\n\n<img src="/img/uploads/hero/_list_thumbnail
- _regular/visitors-rose-garden_JW_54571986919.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Container Gardening
 DTSTART;VALUE=DATE:20260627T040000Z
 DTEND;VALUE=DATE:20260627T060000Z
@@ -445,19 +431,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Summer Evenings
-DTSTART;VALUE=DATE:20260708T040000Z
-DTEND;VALUE=DATE:20260708T060000Z
-UID:Members’ Summer Evenings-2026-07-08 04:00:00+00:00
-DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
- avor the Garden during the twilight hours—just for members!Learn More›
- about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
- event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
- thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members’ Jazz Night
 DTSTART;VALUE=DATE:20260708T040000Z
 DTEND;VALUE=DATE:20260708T060000Z
@@ -467,6 +440,19 @@ DESCRIPTION:Wednesday\, July 8\, 2026 | 6–8:30 p.m.\n\nPack a picnic and
  \n\nMore info:\nhttps://www.bbg.org/visit/event/members_jazz_night_A\n\n<i
  mg src="/img/uploads/manual/hero/_list_thumbnail_regular/Eyal_Vilner_by_Er
  nest_Gregory.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260708T040000Z
+DTEND;VALUE=DATE:20260708T060000Z
+UID:Members’ Summer Evenings-2026-07-08 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -502,19 +488,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jazz in July
-DTSTART;VALUE=DATE:20260709T040000Z
-DTEND;VALUE=DATE:20260709T060000Z
-UID:Jazz in July-2026-07-09 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 2\, 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate sum
- mer at Brooklyn Botanic Garden with jazz performances\, tours\, and more.L
- earn More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ja
- zz-in-july_MS_53062447173.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Block by Block Exhibition Guided Tour
 DTSTART;VALUE=DATE:20260709T040000Z
 DTEND;VALUE=DATE:20260709T060000Z
@@ -539,6 +512,19 @@ DESCRIPTION:Thursday\, July 9\, 2026 | 6–7:30 p.m.\n					\n\n\n					\n
  ›about What to Do With That Vase\n\nMore info:\nhttps://www.bbg.org/clas
  ses/what_to_do_with_that_vase\n\n<img src="/img/uploads/hero/_list_thumbna
  il_regular/floral-centerpiece_17126898478.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz in July
+DTSTART;VALUE=DATE:20260709T040000Z
+DTEND;VALUE=DATE:20260709T060000Z
+UID:Jazz in July-2026-07-09 04:00:00+00:00
+DESCRIPTION:Thursdays\, July 2\, 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate sum
+ mer at Brooklyn Botanic Garden with jazz performances\, tours\, and more.L
+ earn More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/ev
+ ent/jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ja
+ zz-in-july_MS_53062447173.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -575,20 +561,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260710T040000Z
-DTEND;VALUE=DATE:20260710T060000Z
-UID:Seasonal Highlights Tour-2026-07-10 04:00:00+00:00
-DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
- a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
- n in this free walk led by trained Garden Guides.Learn More›about Season
- al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
- _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
- ses-summer-JW-54760452942.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tai Chi & Qigong for Beginners
 DTSTART;VALUE=DATE:20260710T040000Z
 DTEND;VALUE=DATE:20260710T060000Z
@@ -600,6 +572,20 @@ DESCRIPTION:5 Fridays: July 10–August 7\, 2026 | 11 a.m.–12 p.m.\n
  ers\n\nMore info:\nhttps://www.bbg.org/classes/tai_chi_qigong_for_beginner
  s\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/21FAEHWTCQBA_1.jp
  g" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260710T040000Z
+DTEND;VALUE=DATE:20260710T060000Z
+UID:Seasonal Highlights Tour-2026-07-10 04:00:00+00:00
+DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
+ a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
+ n in this free walk led by trained Garden Guides.Learn More›about Season
+ al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
+ _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
+ ses-summer-JW-54760452942.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -639,6 +625,36 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260711T040000Z
 DTEND;VALUE=DATE:20260711T060000Z
 UID:Seasonal Highlights Tour-2026-07-11 04:00:00+00:00
+DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
+ a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
+ n in this free walk led by trained Garden Guides.Learn More›about Season
+ al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
+ _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
+ ses-summer-JW-54760452942.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Family Discovery Weekends
+DTSTART;VALUE=DATE:20260712T040000Z
+DTEND;VALUE=DATE:20260712T060000Z
+UID:Summer Family Discovery Weekends-2026-07-12 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. |  July 11–Aug
+ ust 9\, 2026 \n					\n\n\n					\n						\n							| Drop-in\n\nHands-on stat
+ ions throughout the garden’s meadow\, woodland\, and marsh habitats and 
+ in the vegetable garden encourage families to explore nature together.Lear
+ n More›about Summer Family Discovery Weekends\n\nMore info:\nhttps://www
+ .bbg.org/visit/event/summer_family_discovery_weekends\n\n<img src="/img/up
+ loads/hero/_list_thumbnail_regular/first-discoveries_JW_54496721065.jpeg" 
+ alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260712T040000Z
+DTEND;VALUE=DATE:20260712T060000Z
+UID:Seasonal Highlights Tour-2026-07-12 04:00:00+00:00
 DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
  a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
  n in this free walk led by trained Garden Guides.Learn More›about Season
