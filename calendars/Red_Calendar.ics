@@ -98,6 +98,15 @@ DESCRIPTION:https://cal.red/?event=5539\nCost: $10
 LOCATION:Chinatown
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BAD Movie Night with the Independent Labor Club
+DTSTART:20260629T000000Z
+DTEND:20260629T010000Z
+DTSTAMP:20260629T000000Z
+UID:event:5624:2026-06-28T20:00:00
+DESCRIPTION:https://cal.red/?event=5624\n220 Wycoff Ave\nBushwick\nCost: 0
+LOCATION:Talon Bar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:R.I.P.S. Radio in Public Space
 DTSTART:20260629T150000Z
 DTEND:20260629T160000Z
@@ -118,6 +127,15 @@ LOCATION:Join us in rehabilitating the word "luddite" as we tell the story
   of the legendary\, loom-breaking\, 19th century Luddites.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Summer of Ludd Music Jamboree & Open Mic
+DTSTART:20260629T200000Z
+DTEND:20260629T210000Z
+DTSTAMP:20260629T200000Z
+UID:event:5574:2026-06-29T16:00:00
+DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
+LOCATION:Tompkins Sq. Park\, Manhattan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Defense Against the Dark Arts: a Tech Reclaimers and Opt Out works
  hop at Summer of Ludd
 DTSTART:20260629T200000Z
@@ -127,15 +145,6 @@ UID:event:5555:2026-06-29T16:00:00
 DESCRIPTION:https://cal.red/?event=5555\n15 Rutherford Place\nnear 3rd ave
  \, between 14th-15th St\nCost: FREE!
 LOCATION:Quaker Meeting House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer of Ludd Music Jamboree & Open Mic
-DTSTART:20260629T200000Z
-DTEND:20260629T210000Z
-DTSTAMP:20260629T200000Z
-UID:event:5574:2026-06-29T16:00:00
-DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
-LOCATION:Tompkins Sq. Park\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:What Are You Doing Tonight? How to Start Your Own Events Calendar
@@ -382,15 +391,6 @@ DESCRIPTION:https://cal.red/?event=5570\nCost: FREE
 LOCATION:telos.haus\, East Williamsburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hang with Bundists in the park this Summer!
-DTSTART:20260704T180000Z
-DTEND:20260704T190000Z
-DTSTAMP:20260704T180000Z
-UID:event:5581:2026-07-04T14:00:00
-DESCRIPTION:https://cal.red/?event=5581\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
 DTSTART:20260704T180000Z
 DTEND:20260704T190000Z
@@ -398,6 +398,15 @@ DTSTAMP:20260704T180000Z
 UID:event:5571:2026-07-04T14:00:00
 DESCRIPTION:https://cal.red/?event=5571\nCost: FREE
 LOCATION:Tompkins Sq. Park\, Manhattan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hang with Bundists in the park this Summer!
+DTSTART:20260704T180000Z
+DTEND:20260704T190000Z
+DTSTAMP:20260704T180000Z
+UID:event:5581:2026-07-04T14:00:00
+DESCRIPTION:https://cal.red/?event=5581\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:'Anna by the Window' Film Premiere + Brainrot Detox
@@ -465,6 +474,16 @@ UID:event:5423:2026-07-12T14:30:00
 DESCRIPTION:https://cal.red/?event=5423\n1186 Broadway\, Bushwick\, Brookl
  yn\, New York\nCost: Free
 LOCATION:Wonderville
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:House of Scorpio Sinema Club: BEYOND THE VALLEY OF THE DOLLS (1970
+ )
+DTSTART:20260712T230000Z
+DTEND:20260713T000000Z
+DTSTAMP:20260712T230000Z
+UID:event:5625:2026-07-12T19:00:00
+DESCRIPTION:https://cal.red/?event=5625\nCost: $12
+LOCATION:267 Douglass St\, 3rd flr\, Brooklyn [Gowanus]\, NY 11217
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ChuanFest - an AAPI performance festival
