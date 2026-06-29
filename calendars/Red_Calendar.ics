@@ -21,6 +21,15 @@ DESCRIPTION:https://cal.red/?event=5599\n252 Green St\, 3rd Fl\nGreenpoint
 LOCATION:Bechdel Project
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PORKY'S PRIDE
+DTSTART:20260628T190000Z
+DTEND:20260628T200000Z
+DTSTAMP:20260628T190000Z
+UID:event:5447:2026-06-28T15:00:00
+DESCRIPTION:https://cal.red/?event=5447\nLES\nCost: $20
+LOCATION:PARKSIDE LOUNGE\, 317 E HOUSTON ST
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Libations & Liberation
 DTSTART:20260628T190000Z
 DTEND:20260628T200000Z
@@ -29,15 +38,6 @@ UID:event:5593:2026-06-28T15:00:00
 DESCRIPTION:https://cal.red/?event=5593\n269 Stanhope St\nBushwick\nCost: 
  Free
 LOCATION:Saint James Libations
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PORKY'S PRIDE
-DTSTART:20260628T190000Z
-DTEND:20260628T200000Z
-DTSTAMP:20260628T190000Z
-UID:event:5447:2026-06-28T15:00:00
-DESCRIPTION:https://cal.red/?event=5447\nLES\nCost: $20
-LOCATION:PARKSIDE LOUNGE\, 317 E HOUSTON ST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Stitchwork is Garbage: Saddle Stitching Workshop & Picnic
@@ -60,6 +60,15 @@ LOCATION:Join us in rehabilitating the word "luddite" as we tell the story
   of the legendary\, loom-breaking\, 19th century Luddites.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:𝑱𝑼𝑵𝑬 𝑬𝑽𝑬𝑵𝑻𝑺: Topos Too
+DTSTART:20260628T220000Z
+DTEND:20260628T230000Z
+DTSTAMP:20260628T220000Z
+UID:event:5456:2026-06-28T18:00:00
+DESCRIPTION:https://cal.red/?event=5456\nCost: 0
+LOCATION:5922 Myrtle Ave. Ridgewood\, NY 11385 unless otherwise noted
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Of course we’re thrilled to have Fred Moten and Brandon Lopez ba
  ck at PIT on Sunday June 28 at 6pm. See you there🏴❤️🏴.
 DTSTART:20260628T220000Z
@@ -68,15 +77,6 @@ DTSTAMP:20260628T220000Z
 UID:event:5590:2026-06-28T18:00:00
 DESCRIPTION:https://cal.red/?event=5590\nCost: 0
 LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:𝑱𝑼𝑵𝑬 𝑬𝑽𝑬𝑵𝑻𝑺: Topos Too
-DTSTART:20260628T220000Z
-DTEND:20260628T230000Z
-DTSTAMP:20260628T220000Z
-UID:event:5456:2026-06-28T18:00:00
-DESCRIPTION:https://cal.red/?event=5456\nCost: 0
-LOCATION:5922 Myrtle Ave. Ridgewood\, NY 11385 unless otherwise noted
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Behind Glass
@@ -107,6 +107,16 @@ DESCRIPTION:https://cal.red/?event=5624\n220 Wycoff Ave\nBushwick\nCost: 0
 LOCATION:Talon Bar
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bossa Nova Civic Club PRIDE: Special Guest\, TT
+DTSTART:20260629T020000Z
+DTEND:20260629T030000Z
+DTSTAMP:20260629T020000Z
+UID:event:5629:2026-06-28T22:00:00
+DESCRIPTION:https://cal.red/?event=5629\nCost: $15
+LOCATION:@ bossa nova civic club (21+)\, 1271 myrtle ave\, bushwick\, bkly
+ n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:R.I.P.S. Radio in Public Space
 DTSTART:20260629T150000Z
 DTEND:20260629T160000Z
@@ -127,15 +137,6 @@ LOCATION:Join us in rehabilitating the word "luddite" as we tell the story
   of the legendary\, loom-breaking\, 19th century Luddites.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer of Ludd Music Jamboree & Open Mic
-DTSTART:20260629T200000Z
-DTEND:20260629T210000Z
-DTSTAMP:20260629T200000Z
-UID:event:5574:2026-06-29T16:00:00
-DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
-LOCATION:Tompkins Sq. Park\, Manhattan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Defense Against the Dark Arts: a Tech Reclaimers and Opt Out works
  hop at Summer of Ludd
 DTSTART:20260629T200000Z
@@ -147,6 +148,15 @@ DESCRIPTION:https://cal.red/?event=5555\n15 Rutherford Place\nnear 3rd ave
 LOCATION:Quaker Meeting House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Summer of Ludd Music Jamboree & Open Mic
+DTSTART:20260629T200000Z
+DTEND:20260629T210000Z
+DTSTAMP:20260629T200000Z
+UID:event:5574:2026-06-29T16:00:00
+DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
+LOCATION:Tompkins Sq. Park\, Manhattan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:What Are You Doing Tonight? How to Start Your Own Events Calendar
 DTSTART:20260629T213000Z
 DTEND:20260629T223000Z
@@ -154,6 +164,19 @@ DTSTAMP:20260629T213000Z
 UID:event:5573:2026-06-29T17:30:00
 DESCRIPTION:https://cal.red/?event=5573\nCost: FREE
 LOCATION:La Plaza Cultural\, East Village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Benefit Show for Political Prisoners: Chico Romano\, Viadante\, Or
+ iginal Boyfriend\, Divi.jpg\, Angels in the Left Field\, Abby\, Saturn Lav
+ ender\, Safra (dance)\, & more
+DTSTART:20260629T220000Z
+DTEND:20260629T230000Z
+DTSTAMP:20260629T220000Z
+UID:event:5626:2026-06-29T18:00:00
+DESCRIPTION:https://cal.red/?event=5626\nCost: prolly 🌀 notaflof\, $20 
+ max
+LOCATION:@ the living gallery (all ages)\, 1094 broadway\, bushwick\, bkly
+ n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🍸 ceramic cocktail glass pottery class: handbuilding workshop
@@ -232,13 +255,23 @@ DESCRIPTION:https://cal.red/?event=5575\nCost: FREE
 LOCATION:Washington Sq. Park\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
+SUMMARY:Downtown Music Gallery Free Tuesdays
+DTSTART:20260630T223000Z
+DTEND:20260630T233000Z
+DTSTAMP:20260630T223000Z
+UID:event:5628:2026-06-30T18:30:00
+DESCRIPTION:https://cal.red/?event=5628\nCost: 🌀 free
+LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
+  mnhtn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belladonna* Summer Writing Spirals
 DTSTART:20260630T230000Z
 DTEND:20260701T000000Z
 DTSTAMP:20260630T230000Z
-UID:event:5611:2026-06-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5611\nCost: 0
-LOCATION:
+UID:event:5553:2026-06-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
+LOCATION:925 Bergen St #405\, Crown Heights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -250,13 +283,22 @@ DESCRIPTION:https://cal.red/?event=5589\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belladonna* Summer Writing Spirals
+SUMMARY:
 DTSTART:20260630T230000Z
 DTEND:20260701T000000Z
 DTSTAMP:20260630T230000Z
-UID:event:5553:2026-06-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
-LOCATION:925 Bergen St #405\, Crown Heights
+UID:event:5611:2026-06-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5611\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Noble Beast\, Aaberg\, VHS Slut 1997\, Birdsear
+DTSTART:20260701T000000Z
+DTEND:20260701T010000Z
+DTSTAMP:20260701T000000Z
+UID:event:5627:2026-06-30T20:00:00
+DESCRIPTION:https://cal.red/?event=5627\nCost: $14
+LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:R.I.P.S. Radio in Public Space
@@ -400,15 +442,6 @@ DESCRIPTION:https://cal.red/?event=5570\nCost: FREE
 LOCATION:telos.haus\, East Williamsburg
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
-DTSTART:20260704T180000Z
-DTEND:20260704T190000Z
-DTSTAMP:20260704T180000Z
-UID:event:5571:2026-07-04T14:00:00
-DESCRIPTION:https://cal.red/?event=5571\nCost: FREE
-LOCATION:Tompkins Sq. Park\, Manhattan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hang with Bundists in the park this Summer!
 DTSTART:20260704T180000Z
 DTEND:20260704T190000Z
@@ -416,6 +449,15 @@ DTSTAMP:20260704T180000Z
 UID:event:5581:2026-07-04T14:00:00
 DESCRIPTION:https://cal.red/?event=5581\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
+DTSTART:20260704T180000Z
+DTEND:20260704T190000Z
+DTSTAMP:20260704T180000Z
+UID:event:5571:2026-07-04T14:00:00
+DESCRIPTION:https://cal.red/?event=5571\nCost: FREE
+LOCATION:Tompkins Sq. Park\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:'Anna by the Window' Film Premiere + Brainrot Detox
@@ -434,6 +476,16 @@ DTSTAMP:20260705T190000Z
 UID:event:4954:2026-07-05T15:00:00
 DESCRIPTION:https://cal.red/?event=4954\nCost: Free
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Downtown Music Gallery Free Tuesdays
+DTSTART:20260707T223000Z
+DTEND:20260707T233000Z
+DTSTAMP:20260707T223000Z
+UID:event:5628:2026-07-07T18:30:00
+DESCRIPTION:https://cal.red/?event=5628\nCost: 🌀 free
+LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
+  mnhtn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ChuanFest - an AAPI performance festival
@@ -515,13 +567,14 @@ DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
 LOCATION:Park Slope
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260714T230000Z
-DTEND:20260715T000000Z
-DTSTAMP:20260714T230000Z
-UID:event:5595:2026-07-14T19:00:00
-DESCRIPTION:https://cal.red/?event=5595\nCost: 0
-LOCATION:
+SUMMARY:Downtown Music Gallery Free Tuesdays
+DTSTART:20260714T223000Z
+DTEND:20260714T233000Z
+DTSTAMP:20260714T223000Z
+UID:event:5628:2026-07-14T18:30:00
+DESCRIPTION:https://cal.red/?event=5628\nCost: 🌀 free
+LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
+  mnhtn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Queer Climb Night
@@ -531,6 +584,15 @@ DTSTAMP:20260714T230000Z
 UID:event:5596:2026-07-14T19:00:00
 DESCRIPTION:https://cal.red/?event=5596\nCost: $20
 LOCATION:GP-81 in Bushwick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260714T230000Z
+DTEND:20260715T000000Z
+DTSTAMP:20260714T230000Z
+UID:event:5595:2026-07-14T19:00:00
+DESCRIPTION:https://cal.red/?event=5595\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upcycled Weaving in the Garden
