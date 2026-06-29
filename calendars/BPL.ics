@@ -21,16 +21,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260629T180000Z
-DTEND:20260629T200000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/804720
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Creative Writing Workshop
 DTSTART:20260629T190000Z
 DTEND:20260629T210000Z
@@ -375,5 +365,15 @@ DTEND:20260701T210000Z
 DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
  esday of the month!\n\nhttps://www.bklynlibrary.org/node/821301
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260701T200000Z
+DTEND:20260701T230000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828040
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
