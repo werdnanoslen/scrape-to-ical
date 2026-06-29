@@ -21,15 +21,6 @@ DESCRIPTION:https://cal.red/?event=5599\n252 Green St\, 3rd Fl\nGreenpoint
 LOCATION:Bechdel Project
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PORKY'S PRIDE
-DTSTART:20260628T190000Z
-DTEND:20260628T200000Z
-DTSTAMP:20260628T190000Z
-UID:event:5447:2026-06-28T15:00:00
-DESCRIPTION:https://cal.red/?event=5447\nLES\nCost: $20
-LOCATION:PARKSIDE LOUNGE\, 317 E HOUSTON ST
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Libations & Liberation
 DTSTART:20260628T190000Z
 DTEND:20260628T200000Z
@@ -38,6 +29,15 @@ UID:event:5593:2026-06-28T15:00:00
 DESCRIPTION:https://cal.red/?event=5593\n269 Stanhope St\nBushwick\nCost: 
  Free
 LOCATION:Saint James Libations
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PORKY'S PRIDE
+DTSTART:20260628T190000Z
+DTEND:20260628T200000Z
+DTSTAMP:20260628T190000Z
+UID:event:5447:2026-06-28T15:00:00
+DESCRIPTION:https://cal.red/?event=5447\nLES\nCost: $20
+LOCATION:PARKSIDE LOUNGE\, 317 E HOUSTON ST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:My Stitchwork is Garbage: Saddle Stitching Workshop & Picnic
@@ -60,15 +60,6 @@ LOCATION:Join us in rehabilitating the word "luddite" as we tell the story
   of the legendary\, loom-breaking\, 19th century Luddites.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:𝑱𝑼𝑵𝑬 𝑬𝑽𝑬𝑵𝑻𝑺: Topos Too
-DTSTART:20260628T220000Z
-DTEND:20260628T230000Z
-DTSTAMP:20260628T220000Z
-UID:event:5456:2026-06-28T18:00:00
-DESCRIPTION:https://cal.red/?event=5456\nCost: 0
-LOCATION:5922 Myrtle Ave. Ridgewood\, NY 11385 unless otherwise noted
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Of course we’re thrilled to have Fred Moten and Brandon Lopez ba
  ck at PIT on Sunday June 28 at 6pm. See you there🏴❤️🏴.
 DTSTART:20260628T220000Z
@@ -77,6 +68,15 @@ DTSTAMP:20260628T220000Z
 UID:event:5590:2026-06-28T18:00:00
 DESCRIPTION:https://cal.red/?event=5590\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:𝑱𝑼𝑵𝑬 𝑬𝑽𝑬𝑵𝑻𝑺: Topos Too
+DTSTART:20260628T220000Z
+DTEND:20260628T230000Z
+DTSTAMP:20260628T220000Z
+UID:event:5456:2026-06-28T18:00:00
+DESCRIPTION:https://cal.red/?event=5456\nCost: 0
+LOCATION:5922 Myrtle Ave. Ridgewood\, NY 11385 unless otherwise noted
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Behind Glass
@@ -137,6 +137,15 @@ LOCATION:Join us in rehabilitating the word "luddite" as we tell the story
   of the legendary\, loom-breaking\, 19th century Luddites.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Summer of Ludd Music Jamboree & Open Mic
+DTSTART:20260629T200000Z
+DTEND:20260629T210000Z
+DTSTAMP:20260629T200000Z
+UID:event:5574:2026-06-29T16:00:00
+DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
+LOCATION:Tompkins Sq. Park\, Manhattan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Defense Against the Dark Arts: a Tech Reclaimers and Opt Out works
  hop at Summer of Ludd
 DTSTART:20260629T200000Z
@@ -146,15 +155,6 @@ UID:event:5555:2026-06-29T16:00:00
 DESCRIPTION:https://cal.red/?event=5555\n15 Rutherford Place\nnear 3rd ave
  \, between 14th-15th St\nCost: FREE!
 LOCATION:Quaker Meeting House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer of Ludd Music Jamboree & Open Mic
-DTSTART:20260629T200000Z
-DTEND:20260629T210000Z
-DTSTAMP:20260629T200000Z
-UID:event:5574:2026-06-29T16:00:00
-DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
-LOCATION:Tompkins Sq. Park\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:What Are You Doing Tonight? How to Start Your Own Events Calendar
@@ -278,8 +278,8 @@ SUMMARY:
 DTSTART:20260630T230000Z
 DTEND:20260701T000000Z
 DTSTAMP:20260630T230000Z
-UID:event:5589:2026-06-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5589\nCost: 0
+UID:event:5611:2026-06-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5611\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
@@ -287,8 +287,8 @@ SUMMARY:
 DTSTART:20260630T230000Z
 DTEND:20260701T000000Z
 DTSTAMP:20260630T230000Z
-UID:event:5611:2026-06-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5611\nCost: 0
+UID:event:5589:2026-06-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5589\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
@@ -319,6 +319,15 @@ DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
 LOCATION:Tompkins Sq. Park\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teiku (Album Release)\, Blacks' Myths
+DTSTART:20260701T230000Z
+DTEND:20260702T000000Z
+DTSTAMP:20260701T230000Z
+UID:event:5630:2026-07-01T19:00:00
+DESCRIPTION:https://cal.red/?event=5630\nCost: $23
+LOCATION:@ nublu 151 (21+)\, 151 loisaida ave\, alphabet city\, mnhtn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (NLNL)
 DTSTART:20260701T230000Z
 DTEND:20260702T000000Z
@@ -336,6 +345,17 @@ DTSTAMP:20260701T230000Z
 UID:event:5621:2026-07-01T19:00:00
 DESCRIPTION:https://cal.red/?event=5621\nCost: $10
 LOCATION:Dreamsong Music Lab in Bed-Stuy\, 743 DeKalb Ave\, Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kenny Warren\, BlankFor.ms\, Carlo Costa
+DTSTART:20260702T000000Z
+DTEND:20260702T010000Z
+DTSTAMP:20260702T000000Z
+UID:event:5638:2026-07-01T20:00:00
+DESCRIPTION:https://cal.red/?event=5638\nCost: $20 max (if it's more & u a
+ re truly broke\, tell them red cal / nyc noise said it would be $20 & i be
+ t they'll take pity)
+LOCATION:@ threes brewing (21+)\, 333 douglass st.\, gowanus\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Luddite (Re)Creations: A Play
@@ -376,6 +396,26 @@ DTSTAMP:20260702T230000Z
 UID:event:5586:2026-07-02T19:00:00
 DESCRIPTION:https://cal.red/?event=5586\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ali Berger will Present Sounds
+DTSTART:20260702T230000Z
+DTEND:20260703T000000Z
+DTSTAMP:20260702T230000Z
+UID:event:5631:2026-07-02T19:00:00
+DESCRIPTION:https://cal.red/?event=5631\nCost: $20+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deerlady\, Selendis Sebastian Alexander Johnson\, PuriKoko
+DTSTART:20260702T230000Z
+DTEND:20260703T000000Z
+DTSTAMP:20260702T230000Z
+UID:event:5639:2026-07-02T19:00:00
+DESCRIPTION:https://cal.red/?event=5639\nCost: 🌀 notaflof
+LOCATION:@ brothers wash & dry laundromat (all ages)\, 60-42 54th pl.\, ma
+ speth\, queens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soil Chromatography Demos
@@ -424,6 +464,16 @@ DESCRIPTION:https://cal.red/?event=5618\n615 Vanderbilt Ave\nBrooklyn\, NY
 LOCATION:Unnameable Books
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pink Tacos NYC presents ANTI Fourth: J3thegreatest\, Venom Posse\,
+  Inhumane\, Mangodog\, Pink Tacos
+DTSTART:20260704T000000Z
+DTEND:20260704T010000Z
+DTSTAMP:20260704T000000Z
+UID:event:5632:2026-07-03T20:00:00
+DESCRIPTION:https://cal.red/?event=5632\nCost: $10-$25
+LOCATION:@ hart bar (21+)\, 538 hart st.\, bushwick\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
 DTSTART:20260704T000000Z
 DTEND:20260704T010000Z
@@ -442,6 +492,15 @@ DESCRIPTION:https://cal.red/?event=5570\nCost: FREE
 LOCATION:telos.haus\, East Williamsburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
+DTSTART:20260704T180000Z
+DTEND:20260704T190000Z
+DTSTAMP:20260704T180000Z
+UID:event:5571:2026-07-04T14:00:00
+DESCRIPTION:https://cal.red/?event=5571\nCost: FREE
+LOCATION:Tompkins Sq. Park\, Manhattan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hang with Bundists in the park this Summer!
 DTSTART:20260704T180000Z
 DTEND:20260704T190000Z
@@ -451,13 +510,15 @@ DESCRIPTION:https://cal.red/?event=5581\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
-DTSTART:20260704T180000Z
-DTEND:20260704T190000Z
-DTSTAMP:20260704T180000Z
-UID:event:5571:2026-07-04T14:00:00
-DESCRIPTION:https://cal.red/?event=5571\nCost: FREE
-LOCATION:Tompkins Sq. Park\, Manhattan
+SUMMARY:Ibrahima Sow\, Fintan Warfield
+DTSTART:20260704T220000Z
+DTEND:20260704T230000Z
+DTSTAMP:20260704T220000Z
+UID:event:5633:2026-07-04T18:00:00
+DESCRIPTION:https://cal.red/?event=5633\nCost: prolly 🌀 notaflof\, but 
+ a benefit for Ibrahima\, so likely $10-20 ask
+LOCATION:@ p.i.t. (property is theft) (all ages)\, 411 s. 5th\, los sures 
+ / williamsburg\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:'Anna by the Window' Film Premiere + Brainrot Detox
@@ -469,6 +530,17 @@ DESCRIPTION:https://cal.red/?event=5572\nCost: FREE
 LOCATION:Tompkins Sq. Park Center Lawn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🇵🇸 Spread Love for Palestine: Sarah Anjali\, Odd Jord\, Aya 
+ Aziz\, J. Hoard
+DTSTART:20260705T183000Z
+DTEND:20260705T193000Z
+DTSTAMP:20260705T183000Z
+UID:event:5636:2026-07-05T14:30:00
+DESCRIPTION:https://cal.red/?event=5636\nCost: 🌀 free but plz donate to
+  "raise critical funds for Ahmed Abo Shanab & families in Gaza"
+LOCATION:@ wonderville (21+)\, 1186 broadway\, bushwick\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TWC Book Club
 DTSTART:20260705T190000Z
 DTEND:20260705T200000Z
@@ -476,6 +548,16 @@ DTSTAMP:20260705T190000Z
 UID:event:4954:2026-07-05T15:00:00
 DESCRIPTION:https://cal.red/?event=4954\nCost: Free
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sadnoise\, World Wide Seagull & the Ocean Band\, Will Bollinger
+DTSTART:20260706T000000Z
+DTEND:20260706T010000Z
+DTSTAMP:20260706T000000Z
+UID:event:5634:2026-07-05T20:00:00
+DESCRIPTION:https://cal.red/?event=5634\nCost: $17
+LOCATION:@ life world (all ages)\, 563 johnson ave\, east williamsburg\, b
+ klyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downtown Music Gallery Free Tuesdays
@@ -488,6 +570,26 @@ LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
   mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Phillip Golub's Partisan Ship (Release\; ft. Elias Stemeseder\, Yu
+ ma Uesaka\, Jon Starks)\, Sam Weinberg / Henry Fraser / Randy Peterson
+DTSTART:20260708T000000Z
+DTEND:20260708T010000Z
+DTSTAMP:20260708T000000Z
+UID:event:5635:2026-07-07T20:00:00
+DESCRIPTION:https://cal.red/?event=5635\nCost: $20
+LOCATION:@ sisters (all ages)\, 900 fulton st\, clinton hill\, bklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:dance practice (a dancefloor meditation)
+DTSTART:20260708T233000Z
+DTEND:20260709T003000Z
+DTSTAMP:20260708T233000Z
+UID:event:5637:2026-07-08T19:30:00
+DESCRIPTION:https://cal.red/?event=5637\nCost: $15+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ChuanFest - an AAPI performance festival
 DTSTART:20260709T213000Z
 DTEND:20260709T223000Z
@@ -496,6 +598,16 @@ UID:event:5619:2026-07-09T17:30:00
 DESCRIPTION:https://cal.red/?event=5619\n3AM Theatre\, Queens\nCost: $0 - 
  $60
 LOCATION:122 Community Center\, Manhattan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Qirl\, Seaphine's Cleaver\, Rose House
+DTSTART:20260710T000000Z
+DTEND:20260710T010000Z
+DTSTAMP:20260710T000000Z
+UID:event:5640:2026-07-09T20:00:00
+DESCRIPTION:https://cal.red/?event=5640\nCost: $10
+LOCATION:@ rubulad (21+)\, bushwick\, bklyn –– email rubulad@outlook.c
+ om for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
@@ -639,6 +751,16 @@ DTSTAMP:20260719T000000Z
 UID:event:5610:2026-07-18T20:00:00
 DESCRIPTION:https://cal.red/?event=5610\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:dance practice (a dancefloor meditation)
+DTSTART:20260722T233000Z
+DTEND:20260723T003000Z
+DTSTAMP:20260722T233000Z
+UID:event:5637:2026-07-22T19:30:00
+DESCRIPTION:https://cal.red/?event=5637\nCost: $15+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Farnoosh Fathi\, Thom Eichelberger-Young\, Jesse Seldess
