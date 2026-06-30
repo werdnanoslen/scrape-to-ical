@@ -20,15 +20,6 @@ DESCRIPTION:https://cal.red/?event=5576\nCost: Free
 LOCATION:The New School (63 5th Ave.\, Manhattan)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260630T160000Z
-DTEND:20260630T170000Z
-DTSTAMP:20260630T160000Z
-UID:event:5649:2026-06-30T12:00:00
-DESCRIPTION:https://cal.red/?event=5649\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Defense Against the Dark Arts: a Tech Reclaimers and Opt Out works
  hop at Summer of Ludd
 DTSTART:20260630T160000Z
@@ -86,15 +77,6 @@ DESCRIPTION:https://cal.red/?event=5589\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belladonna* Summer Writing Spirals
-DTSTART:20260630T230000Z
-DTEND:20260701T000000Z
-DTSTAMP:20260630T230000Z
-UID:event:5553:2026-06-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
-LOCATION:925 Bergen St #405\, Crown Heights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resist! Remember! Repeat!
 DTSTART:20260630T230000Z
 DTEND:20260701T000000Z
@@ -111,6 +93,15 @@ DTSTAMP:20260630T230000Z
 UID:event:5651:2026-06-30T19:00:00
 DESCRIPTION:https://cal.red/?event=5651\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belladonna* Summer Writing Spirals
+DTSTART:20260630T230000Z
+DTEND:20260701T000000Z
+DTSTAMP:20260630T230000Z
+UID:event:5553:2026-06-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
+LOCATION:925 Bergen St #405\, Crown Heights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -186,15 +177,6 @@ DESCRIPTION:https://cal.red/?event=5621\nCost: $10
 LOCATION:Dreamsong Music Lab in Bed-Stuy\, 743 DeKalb Ave\, Brooklyn\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260702T000000Z
-DTEND:20260702T010000Z
-DTSTAMP:20260702T000000Z
-UID:event:5645:2026-07-01T20:00:00
-DESCRIPTION:https://cal.red/?event=5645\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kenny Warren\, BlankFor.ms\, Carlo Costa
 DTSTART:20260702T000000Z
 DTEND:20260702T010000Z
@@ -204,6 +186,15 @@ DESCRIPTION:https://cal.red/?event=5638\nCost: $20 max (if it's more & u a
  re truly broke\, tell them red cal / nyc noise said it would be $20 & i be
  t they'll take pity)
 LOCATION:@ threes brewing (21+)\, 333 douglass st.\, gowanus\, bklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260702T000000Z
+DTEND:20260702T010000Z
+DTSTAMP:20260702T000000Z
+UID:event:5645:2026-07-01T20:00:00
+DESCRIPTION:https://cal.red/?event=5645\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Luddite (Re)Creations: A Play
@@ -226,6 +217,17 @@ DESCRIPTION:https://cal.red/?event=5574\nCost: FREE
 LOCATION:Tompkins Sq. Park\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Immeasurable Poetry: Mauricio Moon\, Joel Newberger\, Hannah Lee N
+ ussbaum
+DTSTART:20260702T220000Z
+DTEND:20260702T230000Z
+DTSTAMP:20260702T220000Z
+UID:event:5614:2026-07-02T18:00:00
+DESCRIPTION:https://cal.red/?event=5614\n257 Nassau Ave\nBrooklyn\, NY 112
+ 22\nGreenpoint\nCost: Free
+LOCATION:Sunview Acropolis
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Comics at Trains
 DTSTART:20260702T220000Z
 DTEND:20260702T230000Z
@@ -237,15 +239,23 @@ DESCRIPTION:https://cal.red/?event=5641\nWrite to @itstrains or trainslike
 LOCATION:Beadel st / Vandervoort ave
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immeasurable Poetry: Mauricio Moon\, Joel Newberger\, Hannah Lee N
- ussbaum
-DTSTART:20260702T220000Z
-DTEND:20260702T230000Z
-DTSTAMP:20260702T220000Z
-UID:event:5614:2026-07-02T18:00:00
-DESCRIPTION:https://cal.red/?event=5614\n257 Nassau Ave\nBrooklyn\, NY 112
- 22\nGreenpoint\nCost: Free
-LOCATION:Sunview Acropolis
+SUMMARY:Ali Berger will Present Sounds
+DTSTART:20260702T230000Z
+DTEND:20260703T000000Z
+DTSTAMP:20260702T230000Z
+UID:event:5631:2026-07-02T19:00:00
+DESCRIPTION:https://cal.red/?event=5631\nCost: $20+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260702T230000Z
+DTEND:20260703T000000Z
+DTSTAMP:20260702T230000Z
+UID:event:5586:2026-07-02T19:00:00
+DESCRIPTION:https://cal.red/?event=5586\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deerlady\, Selendis Sebastian Alexander Johnson\, PuriKoko
@@ -266,25 +276,6 @@ DTSTAMP:20260702T230000Z
 UID:event:5652:2026-07-02T19:00:00
 DESCRIPTION:https://cal.red/?event=5652\nCost: Free
 LOCATION:MayDay Rooms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ali Berger will Present Sounds
-DTSTART:20260702T230000Z
-DTEND:20260703T000000Z
-DTSTAMP:20260702T230000Z
-UID:event:5631:2026-07-02T19:00:00
-DESCRIPTION:https://cal.red/?event=5631\nCost: $20+
-LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
- ket for address
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260702T230000Z
-DTEND:20260703T000000Z
-DTSTAMP:20260702T230000Z
-UID:event:5586:2026-07-02T19:00:00
-DESCRIPTION:https://cal.red/?event=5586\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soil Chromatography Demos
@@ -370,6 +361,15 @@ DESCRIPTION:https://cal.red/?event=5570\nCost: FREE
 LOCATION:telos.haus\, East Williamsburg
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
+DTSTART:20260704T180000Z
+DTEND:20260704T190000Z
+DTSTAMP:20260704T180000Z
+UID:event:5571:2026-07-04T14:00:00
+DESCRIPTION:https://cal.red/?event=5571\nCost: FREE
+LOCATION:Tompkins Sq. Park\, Manhattan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hang with Bundists in the park this Summer!
 DTSTART:20260704T180000Z
 DTEND:20260704T190000Z
@@ -379,13 +379,15 @@ DESCRIPTION:https://cal.red/?event=5581\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
+SUMMARY:The Card Catalog of Potential Workshop - Be Part of a Free Printed
+  Zine!
 DTSTART:20260704T180000Z
 DTEND:20260704T190000Z
 DTSTAMP:20260704T180000Z
-UID:event:5571:2026-07-04T14:00:00
-DESCRIPTION:https://cal.red/?event=5571\nCost: FREE
-LOCATION:Tompkins Sq. Park\, Manhattan
+UID:event:5661:2026-07-04T14:00:00
+DESCRIPTION:https://cal.red/?event=5661\n674 E 9th Street\, NYC 10009\nEas
+ t Village\nCost: FREE
+LOCATION:La Plaza Garden
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poetry Hell
@@ -406,6 +408,15 @@ DESCRIPTION:https://cal.red/?event=5633\nCost: prolly 🌀 notaflof\, but
  a benefit for Ibrahima\, so likely $10-20 ask
 LOCATION:@ p.i.t. (property is theft) (all ages)\, 411 s. 5th\, los sures 
  / williamsburg\, bklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ibrahima Sow & David Beal//Fintan Warfield at P.I.T.
+DTSTART:20260704T220000Z
+DTEND:20260704T230000Z
+DTSTAMP:20260704T220000Z
+UID:event:5660:2026-07-04T18:00:00
+DESCRIPTION:https://cal.red/?event=5660\nCost: $10 suggested Donation
+LOCATION:411 South 5th Street Los Sures\, Brooklyn 11211
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:'Anna by the Window' Film Premiere + Brainrot Detox
@@ -437,6 +448,15 @@ DESCRIPTION:https://cal.red/?event=4954\nCost: Free
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Queer Book Club
+DTSTART:20260706T000000Z
+DTEND:20260706T010000Z
+DTSTAMP:20260706T000000Z
+UID:event:5642:2026-07-05T20:00:00
+DESCRIPTION:https://cal.red/?event=5642\nCost: 0
+LOCATION:31st Ave Open Street [Astoria]
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sadnoise\, World Wide Seagull & the Ocean Band\, Will Bollinger
 DTSTART:20260706T000000Z
 DTEND:20260706T010000Z
@@ -445,15 +465,6 @@ UID:event:5634:2026-07-05T20:00:00
 DESCRIPTION:https://cal.red/?event=5634\nCost: $17
 LOCATION:@ life world (all ages)\, 563 johnson ave\, east williamsburg\, b
  klyn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer Book Club
-DTSTART:20260706T000000Z
-DTEND:20260706T010000Z
-DTSTAMP:20260706T000000Z
-UID:event:5642:2026-07-05T20:00:00
-DESCRIPTION:https://cal.red/?event=5642\nCost: 0
-LOCATION:31st Ave Open Street [Astoria]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#ShutltDown4Palestine Volunteer Meeting
@@ -503,6 +514,16 @@ DESCRIPTION:https://cal.red/?event=5635\nCost: $20
 LOCATION:@ sisters (all ages)\, 900 fulton st\, clinton hill\, bklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Mending Night
+DTSTART:20260708T210000Z
+DTEND:20260708T220000Z
+DTSTAMP:20260708T210000Z
+UID:event:5662:2026-07-08T17:00:00
+DESCRIPTION:https://cal.red/?event=5662\nIf rainy weather: at Museum of Re
+ claimed Urban Space (155 Ave C).\nCost: Free
+LOCATION:370 E 8th St\, East Village
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brooklyn Rail @192
 DTSTART:20260708T230000Z
 DTEND:20260709T000000Z
@@ -510,6 +531,16 @@ DTSTAMP:20260708T230000Z
 UID:event:5647:2026-07-08T19:00:00
 DESCRIPTION:https://cal.red/?event=5647\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Broken Rainbow - film screening + Black Mesa info + fundraiser
+DTSTART:20260708T233000Z
+DTEND:20260709T003000Z
+DTSTAMP:20260708T233000Z
+UID:event:5659:2026-07-08T19:30:00
+DESCRIPTION:https://cal.red/?event=5659\n585 Woodward \nRidgewood QNZ\nCos
+ t: Donation / NOTAFLOF
+LOCATION:Ridgewood Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:dance practice (a dancefloor meditation)
@@ -648,15 +679,6 @@ DESCRIPTION:https://cal.red/?event=5595\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Queer Climb Night
-DTSTART:20260714T230000Z
-DTEND:20260715T000000Z
-DTSTAMP:20260714T230000Z
-UID:event:5596:2026-07-14T19:00:00
-DESCRIPTION:https://cal.red/?event=5596\nCost: $20
-LOCATION:GP-81 in Bushwick
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PORNOCRACY (reading group)
 DTSTART:20260714T230000Z
 DTEND:20260715T000000Z
@@ -664,6 +686,15 @@ DTSTAMP:20260714T230000Z
 UID:event:5651:2026-07-14T19:00:00
 DESCRIPTION:https://cal.red/?event=5651\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer Climb Night
+DTSTART:20260714T230000Z
+DTEND:20260715T000000Z
+DTSTAMP:20260714T230000Z
+UID:event:5596:2026-07-14T19:00:00
+DESCRIPTION:https://cal.red/?event=5596\nCost: $20
+LOCATION:GP-81 in Bushwick
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upcycled Weaving in the Garden
@@ -710,6 +741,15 @@ DTSTAMP:20260719T000000Z
 UID:event:5610:2026-07-18T20:00:00
 DESCRIPTION:https://cal.red/?event=5610\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Day for Co-op and Condo Homeowners\, Friends\, and Supporters
+DTSTART:20260719T153000Z
+DTEND:20260719T163000Z
+DTSTAMP:20260719T153000Z
+UID:event:5658:2026-07-19T11:30:00
+DESCRIPTION:https://cal.red/?event=5658\nCost: free
+LOCATION:Commonpoint\, 67-09 108th St.\, Forest Hills\, NY 11375 -- Queens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:dance practice (a dancefloor meditation)
