@@ -20,14 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Hour
-DTSTART:20260630T163000Z
-DTEND:20260630T180000Z
-DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
- rg/node/825239
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
  siness Solutions Center
 DTSTART:20260630T170000Z
@@ -375,5 +367,15 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/804506
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobile Phone Photography
+DTSTART:20260702T150000Z
+DTEND:20260702T170000Z
+DESCRIPTION:Learn how to use your phone to take compelling and beautiful i
+ mages. We'll cover free and wallet-friendly photo apps\, and share tips a
+ nd strategies that will make your photographs look amazing. Upon c\n\nhttp
+ s://www.bklynlibrary.org/node/796125
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
