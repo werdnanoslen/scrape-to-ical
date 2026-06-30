@@ -38,15 +38,6 @@ DESCRIPTION:Summer celebration for Slip Stitch Knitting and Crocheting Gro
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume Hours
-DTSTART:20260630T210000Z
-DTEND:20260630T230000Z
-DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
- ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
- brary.org/node/826877
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Author Office Hours with Cara Bastone
 DTSTART:20260630T210000Z
 DTEND:20260630T233000Z
@@ -55,6 +46,15 @@ DESCRIPTION:Book a 1-on-1 session with bestselling author Cara Bastone at
  Where to start or when to stop? You can book a 25-minute slot to\n\nhttps:
  //www.bklynlibrary.org/node/826919
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume Hours
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
+ ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
+ brary.org/node/826877
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group - Brooklyn Heights
