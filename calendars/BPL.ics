@@ -20,33 +20,6 @@ DESCRIPTION:Register to make an appointment to receive free tax assistance
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260630T190000Z
-DTEND:20260630T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
- 6
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260630T190000Z
-DTEND:20260630T210000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/827989
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume Hours
-DTSTART:20260630T210000Z
-DTEND:20260630T230000Z
-DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
- ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
- brary.org/node/826877
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Cup 2026 Watch Event
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
@@ -63,6 +36,15 @@ DESCRIPTION:Summer celebration for Slip Stitch Knitting and Crocheting Gro
  up! Bring your project and food for yourself and to share with the fellow
   knitters and crocheters!\n\nhttps://www.bklynlibrary.org/node/825099
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume Hours
+DTSTART:20260630T210000Z
+DTEND:20260630T230000Z
+DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
+ ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
+ brary.org/node/826877
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Author Office Hours with Cara Bastone
@@ -229,6 +211,24 @@ DESCRIPTION:Meet Senator Gournardes' office representatives to talk about
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260701T180000Z
+DTEND:20260701T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833498
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260701T183000Z
+DTEND:20260701T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833513
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260701T190000Z
 DTEND:20260701T210000Z
@@ -350,6 +350,24 @@ DESCRIPTION:Dive into street photography in a class open to all skill leve
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260702T180000Z
+DTEND:20260702T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833499
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260702T183000Z
+DTEND:20260702T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833514
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:French Conversation Group
 DTSTART:20260702T190000Z
 DTEND:20260702T200000Z
@@ -357,24 +375,5 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. This group is for high intermediate speake
  rs.\n\nhttps://www.bklynlibrary.org/node/816518
 LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20260702T190000Z
-DTEND:20260702T203000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers!\n
- \nhttps://www.bklynlibrary.org/node/818735
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260702T200000Z
-DTEND:20260702T000000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828066
-LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
