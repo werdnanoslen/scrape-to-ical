@@ -31,26 +31,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260701T150000Z
-DTEND:20260701T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library (2
- nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
- ps://www.bklynlibrary.org/node/813996
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Stop the Bleed
-DTSTART:20260701T160000Z
-DTEND:20260701T170000Z
-DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
- nd to emergencies where life-threatening bleeding is present. By learning 
- just a few simple steps\, you can become trained to save a life in\n\nhttp
- s://www.bklynlibrary.org/node/807801
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
@@ -61,14 +41,6 @@ DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plum Paper Craft: Origami Rose
-DTSTART:20260701T170000Z
-DTEND:20260701T183000Z
-DESCRIPTION:Create an origami rose by folding\, twisting\, and curling a s
- quare of paper.\n\nhttps://www.bklynlibrary.org/node/824890
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mindful Coloring for Adults and Teens
 DTSTART:20260701T170000Z
 DTEND:20260701T180000Z
@@ -77,6 +49,14 @@ DESCRIPTION:Please join us at our adult coloring session! No registratio
  a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
  /821146
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Plum Paper Craft: Origami Rose
+DTSTART:20260701T170000Z
+DTEND:20260701T183000Z
+DESCRIPTION:Create an origami rose by folding\, twisting\, and curling a s
+ quare of paper.\n\nhttps://www.bklynlibrary.org/node/824890
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Senator Gounardes Office Hours
@@ -380,5 +360,23 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828016
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260706T180000Z
+DTEND:20260706T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/828108
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260706T190000Z
+DTEND:20260706T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /816842
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
