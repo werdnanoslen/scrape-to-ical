@@ -48,15 +48,6 @@ DESCRIPTION:Meet Senator Gournardes' office representatives to talk about
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260701T183000Z
-DTEND:20260701T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/833513
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
 DTSTART:20260701T190000Z
 DTEND:20260701T210000Z
@@ -379,5 +370,13 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/824875
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:World Cup 2026 Watch Event
+DTSTART:20260707T160000Z
+DTEND:20260707T190000Z
+DESCRIPTION:Come Join Us at the Library to Watch the World Cup. (Round of 
+ 16)\n\nhttps://www.bklynlibrary.org/node/815863
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
