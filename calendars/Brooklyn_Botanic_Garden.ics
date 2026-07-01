@@ -130,22 +130,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Family Gardening Hours
-DTSTART;VALUE=DATE:20260702T040000Z
-DTEND;VALUE=DATE:20260702T060000Z
-UID:Family Gardening Hours-2026-07-02 04:00:00+00:00
-DESCRIPTION:Single session on April 8\, 9\, 10\, 11\; June 5\, 6\; or July
-  1\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Prere
- gistration Required\n\nJoin educators at activity stations throughout the 
- Children’s Garden during this new\, one-time class for kids of all ages 
- and their caregiversLearn More›about Family Gardening Hours\n\nMore info
- :\nhttps://www.bbg.org/classes/family_gardening_hours\n\n<img src="/img/up
- loads/manual/hero/_list_thumbnail_regular/family-gardening_MS_52814583437-
- crop.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Urban Garden Maintenance
 DTSTART;VALUE=DATE:20260702T040000Z
 DTEND;VALUE=DATE:20260702T060000Z
@@ -157,19 +141,6 @@ DESCRIPTION:6 weekly sessions beginning Wednesday\, May 6\, or Thursday\,
  e\n\nMore info:\nhttps://www.bbg.org/classes/urban_garden_maintenance\n\n<
  img src="/img/uploads/hero/_list_thumbnail_regular/18WAEGARLYB_gardening_c
  ontainer.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz in July
-DTSTART;VALUE=DATE:20260702T040000Z
-DTEND;VALUE=DATE:20260702T060000Z
-UID:Jazz in July-2026-07-02 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 2\, 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate sum
- mer at Brooklyn Botanic Garden with jazz performances\, tours\, and more.L
- earn More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ja
- zz-in-july_MS_53062447173.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -333,19 +304,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jazz in July
-DTSTART;VALUE=DATE:20260709T040000Z
-DTEND;VALUE=DATE:20260709T060000Z
-UID:Jazz in July-2026-07-09 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 2\, 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate sum
- mer at Brooklyn Botanic Garden with jazz performances\, tours\, and more.L
- earn More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ja
- zz-in-july_MS_53062447173.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:What to Do With That Vase
 DTSTART;VALUE=DATE:20260709T040000Z
 DTEND;VALUE=DATE:20260709T060000Z
@@ -356,6 +314,19 @@ DESCRIPTION:Thursday\, July 9\, 2026 | 6–7:30 p.m.\n					\n\n\n					\n
  ›about What to Do With That Vase\n\nMore info:\nhttps://www.bbg.org/clas
  ses/what_to_do_with_that_vase\n\n<img src="/img/uploads/hero/_list_thumbna
  il_regular/floral-centerpiece_17126898478.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz in July
+DTSTART;VALUE=DATE:20260709T040000Z
+DTEND;VALUE=DATE:20260709T060000Z
+UID:Jazz in July-2026-07-09 04:00:00+00:00
+DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
+ at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
+  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
+ jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
+ n-july_MS_53062447173.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -588,11 +559,11 @@ SUMMARY:Jazz in July
 DTSTART;VALUE=DATE:20260716T040000Z
 DTEND;VALUE=DATE:20260716T060000Z
 UID:Jazz in July-2026-07-16 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 2\, 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate sum
- mer at Brooklyn Botanic Garden with jazz performances\, tours\, and more.L
- earn More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ja
- zz-in-july_MS_53062447173.jpg" alt="" />
+DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
+ at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
+  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
+ jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
+ n-july_MS_53062447173.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
