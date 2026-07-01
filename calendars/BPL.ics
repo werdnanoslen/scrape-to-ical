@@ -21,22 +21,6 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260701T140000Z
-DTEND:20260701T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812238
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260701T140000Z
-DTEND:20260701T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
- 39
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260701T140000Z
 DTEND:20260701T210000Z
@@ -55,24 +39,6 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
  ps://www.bklynlibrary.org/node/813996
 LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sound Bath Meditation
-DTSTART:20260701T153000Z
-DTEND:20260701T160000Z
-DESCRIPTION:Join us for a relaxing Sound Bath Meditation\, led by Flutist 
- Paul Wellington. Give yourself the space to breath\, relax\, and reconnect
- .\n\nhttps://www.bklynlibrary.org/node/811138
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260701T153000Z
-DTEND:20260701T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/818672
-LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Stop the Bleed
@@ -379,5 +345,40 @@ DESCRIPTION:Build hand-eye coordination\, develop better observation skill
   relax and recharge while improving your artistic skills. We'll fo\n\nhttp
  s://www.bklynlibrary.org/node/830399
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:American and Chinese Mahjong
+DTSTART:20260706T150000Z
+DTEND:20260706T183000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/824847
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20260706T150000Z
+DTEND:20260706T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/833216
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume Hours
+DTSTART:20260706T160000Z
+DTEND:20260706T180000Z
+DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
+ ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
+ brary.org/node/826857
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260706T160000Z
+DTEND:20260706T180000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828016
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
