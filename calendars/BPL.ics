@@ -30,23 +30,13 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260702T143000Z
-DTEND:20260702T163000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8285
- 03
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mobile Phone Photography
-DTSTART:20260702T150000Z
-DTEND:20260702T170000Z
-DESCRIPTION:Learn how to use your phone to take compelling and beautiful i
- mages. We'll cover free and wallet-friendly photo apps\, and share tips a
- nd strategies that will make your photographs look amazing. Upon c\n\nhttp
- s://www.bklynlibrary.org/node/796125
-LOCATION:Central Library\, Info Commons Lab
+SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260702T180000Z
+DTEND:20260702T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833499
+LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Street Photography
@@ -57,15 +47,6 @@ DESCRIPTION:Dive into street photography in a class open to all skill leve
  ring both historical context and practical street shooting techn\n\nhttps:
  //www.bklynlibrary.org/node/795978
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260702T180000Z
-DTEND:20260702T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/833499
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Ask A Tech: By Appointment (Park Slope)
@@ -377,5 +358,23 @@ DTSTART:20260708T140000Z
 DTEND:20260708T160000Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812239
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Park Slope Library’s Neighbors In Need Care Kits
+DTSTART:20260708T140000Z
+DTEND:20260708T200000Z
+DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
+ cated to ensuring everyone has access to essential hygiene products.No one
+  should have to go without the basics! If you or someone you know ne\n\nht
+ tps://www.bklynlibrary.org/node/820192
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation for Adults
+DTSTART:20260708T140000Z
+DTEND:20260708T153000Z
+DESCRIPTION:Join us to practice and learn beginning Hebrew. Join our circl
+ e meeting since 2022.\n\nhttps://www.bklynlibrary.org/node/828518
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
