@@ -11,6 +11,15 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
+SUMMARY:Youth 2 Power by HoodSchool NYX
+DTSTART:20260704T170000Z
+DTEND:20260704T180000Z
+DTSTAMP:20260704T170000Z
+UID:event:5676:2026-07-04T13:00:00
+DESCRIPTION:https://cal.red/?event=5676\nCost: 0
+LOCATION:Marcus Garvey Park
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:YINTAH: A Solidarity Screening & Art Build
 DTSTART:20260704T180000Z
 DTEND:20260704T190000Z
@@ -19,15 +28,6 @@ UID:event:5672:2026-07-04T14:00:00
 DESCRIPTION:https://cal.red/?event=5672\nCost: Free\, suggested Donation
 LOCATION:Brooklyn Peace Center (23 Marcus Garvey Blvd). 2-6:30 PM. Film @ 
  2:30 PM. Artbuild @ 5 PM.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hang with Bundists in the park this Summer!
-DTSTART:20260704T180000Z
-DTEND:20260704T190000Z
-DTSTAMP:20260704T180000Z
-UID:event:5581:2026-07-04T14:00:00
-DESCRIPTION:https://cal.red/?event=5581\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:S.H.I.T.P.H.O.N.E. the 4th
@@ -50,6 +50,15 @@ DESCRIPTION:https://cal.red/?event=5661\n674 E 9th Street\, NYC 10009\nEas
 LOCATION:La Plaza Garden
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hang with Bundists in the park this Summer!
+DTSTART:20260704T180000Z
+DTEND:20260704T190000Z
+DTSTAMP:20260704T180000Z
+UID:event:5581:2026-07-04T14:00:00
+DESCRIPTION:https://cal.red/?event=5581\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Poetry Hell
 DTSTART:20260704T210000Z
 DTEND:20260704T220000Z
@@ -57,6 +66,15 @@ DTSTAMP:20260704T210000Z
 UID:event:5648:2026-07-04T17:00:00
 DESCRIPTION:https://cal.red/?event=5648\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ibrahima Sow & David Beal//Fintan Warfield at P.I.T.
+DTSTART:20260704T220000Z
+DTEND:20260704T230000Z
+DTSTAMP:20260704T220000Z
+UID:event:5660:2026-07-04T18:00:00
+DESCRIPTION:https://cal.red/?event=5660\nCost: $10 suggested Donation
+LOCATION:411 South 5th Street Los Sures\, Brooklyn 11211
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ibrahima Sow\, Fintan Warfield
@@ -68,15 +86,6 @@ DESCRIPTION:https://cal.red/?event=5633\nCost: prolly 🌀 notaflof\, but
  a benefit for Ibrahima\, so likely $10-20 ask
 LOCATION:@ p.i.t. (property is theft) (all ages)\, 411 s. 5th\, los sures 
  / williamsburg\, bklyn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ibrahima Sow & David Beal//Fintan Warfield at P.I.T.
-DTSTART:20260704T220000Z
-DTEND:20260704T230000Z
-DTSTAMP:20260704T220000Z
-UID:event:5660:2026-07-04T18:00:00
-DESCRIPTION:https://cal.red/?event=5660\nCost: $10 suggested Donation
-LOCATION:411 South 5th Street Los Sures\, Brooklyn 11211
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ego Free Jam
@@ -96,6 +105,44 @@ DTSTAMP:20260705T010000Z
 UID:event:5572:2026-07-04T21:00:00
 DESCRIPTION:https://cal.red/?event=5572\nCost: FREE
 LOCATION:Tompkins Sq. Park Center Lawn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foraging Walk with Wildman Steve
+DTSTART:20260705T030000Z
+DTEND:20260705T040000Z
+DTSTAMP:20260705T030000Z
+UID:event:5682:2026-07-04T23:00:00
+DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
+ adults\, $15 for kids under 12.
+LOCATION:Various NYC locations\, see the sign up sheet linked!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foraging Walk with Wildman Steve
+DTSTART:20260705T150000Z
+DTEND:20260705T160000Z
+DTSTAMP:20260705T150000Z
+UID:event:5682:2026-07-05T11:00:00
+DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
+ adults\, $15 for kids under 12.
+LOCATION:Various NYC locations\, see the sign up sheet linked!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:free clinic
+DTSTART:20260705T160000Z
+DTEND:20260705T170000Z
+DTSTAMP:20260705T160000Z
+UID:event:5687:2026-07-05T12:00:00
+DESCRIPTION:https://cal.red/?event=5687\nCost: 0
+LOCATION:another world
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We The People NYC - Community Skill Share
+DTSTART:20260705T160000Z
+DTEND:20260705T170000Z
+DTSTAMP:20260705T160000Z
+UID:event:5678:2026-07-05T12:00:00
+DESCRIPTION:https://cal.red/?event=5678\nCost: 0
+LOCATION:Herbert Von King Park\, Bed-Stuy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇵🇸 Spread Love for Palestine: Sarah Anjali\, Odd Jord\, Aya 
@@ -118,6 +165,16 @@ DESCRIPTION:https://cal.red/?event=4954\nCost: Free
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blue Bottle Independent Union Strike Fund Fundraiser Show
+DTSTART:20260705T210000Z
+DTEND:20260705T220000Z
+DTSTAMP:20260705T210000Z
+UID:event:5684:2026-07-05T17:00:00
+DESCRIPTION:https://cal.red/?event=5684\nCost: $10–20 suggested donation
+ \, free for blue bottle workers.
+LOCATION:P.I.T. (411 S. 5th St)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Letters to Liberators
 DTSTART:20260705T220000Z
 DTEND:20260705T230000Z
@@ -125,6 +182,15 @@ DTSTAMP:20260705T220000Z
 UID:event:5673:2026-07-05T18:00:00
 DESCRIPTION:https://cal.red/?event=5673\nCost: $10-50\, NOTAFLOF
 LOCATION:A Soft Opening. 6–10 PM.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Queer Book Club
+DTSTART:20260706T000000Z
+DTEND:20260706T010000Z
+DTSTAMP:20260706T000000Z
+UID:event:5642:2026-07-05T20:00:00
+DESCRIPTION:https://cal.red/?event=5642\nCost: 0
+LOCATION:31st Ave Open Street [Astoria]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sadnoise\, World Wide Seagull & the Ocean Band\, Will Bollinger
@@ -135,15 +201,6 @@ UID:event:5634:2026-07-05T20:00:00
 DESCRIPTION:https://cal.red/?event=5634\nCost: $17
 LOCATION:@ life world (all ages)\, 563 johnson ave\, east williamsburg\, b
  klyn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queer Book Club
-DTSTART:20260706T000000Z
-DTEND:20260706T010000Z
-DTSTAMP:20260706T000000Z
-UID:event:5642:2026-07-05T20:00:00
-DESCRIPTION:https://cal.red/?event=5642\nCost: 0
-LOCATION:31st Ave Open Street [Astoria]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#ShutltDown4Palestine Volunteer Meeting
@@ -162,6 +219,24 @@ DTSTAMP:20260706T233000Z
 UID:event:5675:2026-07-06T19:30:00
 DESCRIPTION:https://cal.red/?event=5675\n7-02 seneca avenue\nCost: 0
 LOCATION:Mr. Nancy’s bar in Ridgewood:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYC Trans Archives July Cataloging Day
+DTSTART:20260707T170000Z
+DTEND:20260707T180000Z
+DTSTAMP:20260707T170000Z
+UID:event:5681:2026-07-07T13:00:00
+DESCRIPTION:https://cal.red/?event=5681\nBrooklyn\, NY 11217\nCost: 0
+LOCATION:Women Building Up (401 State St Room 101)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La Bomba Crese en Loisaida
+DTSTART:20260707T220000Z
+DTEND:20260707T230000Z
+DTSTAMP:20260707T220000Z
+UID:event:5679:2026-07-07T18:00:00
+DESCRIPTION:https://cal.red/?event=5679\n710 E 9th street\nCost: 0
+LOCATION:LOISAiDA CENTER\, LES
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downtown Music Gallery Free Tuesdays
@@ -251,6 +326,16 @@ DESCRIPTION:https://cal.red/?event=5659\n585 Woodward \nRidgewood QNZ\nCos
 LOCATION:Ridgewood Commons
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:What Maiz Teaches about Belonging and Healing Our Relationship Wit
+ h Food
+DTSTART:20260709T203000Z
+DTEND:20260709T213000Z
+DTSTAMP:20260709T203000Z
+UID:event:5677:2026-07-09T16:30:00
+DESCRIPTION:https://cal.red/?event=5677\nCost: 0
+LOCATION:virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ChuanFest - an AAPI performance festival
 DTSTART:20260709T213000Z
 DTEND:20260709T223000Z
@@ -268,6 +353,15 @@ DTSTAMP:20260709T223000Z
 UID:event:5665:2026-07-09T18:30:00
 DESCRIPTION:https://cal.red/?event=5665\nCost: $10 at door
 LOCATION:Lower East Side
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gender\, Judaism\, and Midrash
+DTSTART:20260709T230000Z
+DTEND:20260710T000000Z
+DTSTAMP:20260709T230000Z
+UID:event:5688:2026-07-09T19:00:00
+DESCRIPTION:https://cal.red/?event=5688\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Qirl\, Seaphine's Cleaver\, Rose House
@@ -289,6 +383,17 @@ DESCRIPTION:https://cal.red/?event=5646\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BKABF ‘26 IS NEAR 🚂🧯🧨💥🔥❤️‍🔥🥵🌅🌇
+ 🎇
+DTSTART:20260710T220000Z
+DTEND:20260710T230000Z
+DTSTAMP:20260710T220000Z
+UID:event:5686:2026-07-10T18:00:00
+DESCRIPTION:https://cal.red/?event=5686\n📍Garage Studios\, 51 Washingto
+ n Ave\nCost: 🕯️FREE to attend and open to the public
+LOCATION:📍Recess\, 46 Washington Ave
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
 DTSTART:20260711T000000Z
 DTEND:20260711T010000Z
@@ -306,6 +411,27 @@ DTSTAMP:20260711T030000Z
 UID:event:5431:2026-07-10T23:00:00
 DESCRIPTION:https://cal.red/?event=5431\nCost: $17
 LOCATION:Purgatory\, Brooklyn (Bushwick)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foraging Walk with Wildman Steve
+DTSTART:20260711T150000Z
+DTEND:20260711T160000Z
+DTSTAMP:20260711T150000Z
+UID:event:5682:2026-07-11T11:00:00
+DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
+ adults\, $15 for kids under 12.
+LOCATION:Various NYC locations\, see the sign up sheet linked!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BKABF ‘26 IS NEAR 🚂🧯🧨💥🔥❤️‍🔥🥵🌅🌇
+ 🎇
+DTSTART:20260711T150000Z
+DTEND:20260711T160000Z
+DTSTAMP:20260711T150000Z
+UID:event:5686:2026-07-11T11:00:00
+DESCRIPTION:https://cal.red/?event=5686\n📍Garage Studios\, 51 Washingto
+ n Ave\nCost: 🕯️FREE to attend and open to the public
+LOCATION:📍Recess\, 46 Washington Ave
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -344,6 +470,26 @@ DTSTAMP:20260711T230000Z
 UID:event:5674:2026-07-11T19:00:00
 DESCRIPTION:https://cal.red/?event=5674\nCost: $20+ sliding scale
 LOCATION:9-15 Wyckoff. 7 PM–4 AM.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foraging Walk with Wildman Steve
+DTSTART:20260712T150000Z
+DTEND:20260712T160000Z
+DTSTAMP:20260712T150000Z
+UID:event:5682:2026-07-12T11:00:00
+DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
+ adults\, $15 for kids under 12.
+LOCATION:Various NYC locations\, see the sign up sheet linked!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:If Chips Could Kill: Understanding Exploitation in the Semiconduct
+ or Industry
+DTSTART:20260712T150000Z
+DTEND:20260712T160000Z
+DTSTAMP:20260712T150000Z
+UID:event:5685:2026-07-12T11:00:00
+DESCRIPTION:https://cal.red/?event=5685\nCost: 0
+LOCATION:Zoom!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Patch Sessions
@@ -396,13 +542,13 @@ LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
   mnhtn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Queer Climb Night
+SUMMARY:PORNOCRACY (reading group)
 DTSTART:20260714T230000Z
 DTEND:20260715T000000Z
 DTSTAMP:20260714T230000Z
-UID:event:5596:2026-07-14T19:00:00
-DESCRIPTION:https://cal.red/?event=5596\nCost: $20
-LOCATION:GP-81 in Bushwick
+UID:event:5651:2026-07-14T19:00:00
+DESCRIPTION:https://cal.red/?event=5651\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -414,13 +560,23 @@ DESCRIPTION:https://cal.red/?event=5595\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PORNOCRACY (reading group)
+SUMMARY:Queer Climb Night
 DTSTART:20260714T230000Z
 DTEND:20260715T000000Z
 DTSTAMP:20260714T230000Z
-UID:event:5651:2026-07-14T19:00:00
-DESCRIPTION:https://cal.red/?event=5651\nCost: 0
-LOCATION:
+UID:event:5596:2026-07-14T19:00:00
+DESCRIPTION:https://cal.red/?event=5596\nCost: $20
+LOCATION:GP-81 in Bushwick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What Maiz Teaches about Belonging and Healing Our Relationship Wit
+ h Food
+DTSTART:20260716T203000Z
+DTEND:20260716T213000Z
+DTSTAMP:20260716T203000Z
+UID:event:5677:2026-07-16T16:30:00
+DESCRIPTION:https://cal.red/?event=5677\nCost: 0
+LOCATION:virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upcycled Weaving in the Garden
@@ -442,6 +598,16 @@ DESCRIPTION:https://cal.red/?event=5616\n257 Nassau Ave\nBrooklyn\, NY 112
 LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2 Sisters
+DTSTART:20260718T000000Z
+DTEND:20260718T010000Z
+DTSTAMP:20260718T000000Z
+UID:event:5689:2026-07-17T20:00:00
+DESCRIPTION:https://cal.red/?event=5689\n563 Johnson Ave\, Brooklyn NY 112
+ 37 (2nd Floor)\nCost: 20
+LOCATION:Life World
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drag Race All Stars 11
 DTSTART:20260718T000000Z
 DTEND:20260718T010000Z
@@ -449,6 +615,16 @@ DTSTAMP:20260718T000000Z
 UID:event:5218:2026-07-17T20:00:00
 DESCRIPTION:https://cal.red/?event=5218\nCost: free
 LOCATION:10 Cooper St\, Brooklyn NY 11207
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foraging Walk with Wildman Steve
+DTSTART:20260718T150000Z
+DTEND:20260718T160000Z
+DTSTAMP:20260718T150000Z
+UID:event:5682:2026-07-18T11:00:00
+DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
+ adults\, $15 for kids under 12.
+LOCATION:Various NYC locations\, see the sign up sheet linked!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hang with Bundists in the park this Summer!
@@ -487,6 +663,16 @@ DTSTAMP:20260719T000000Z
 UID:event:5610:2026-07-18T20:00:00
 DESCRIPTION:https://cal.red/?event=5610\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foraging Walk with Wildman Steve
+DTSTART:20260719T150000Z
+DTEND:20260719T160000Z
+DTSTAMP:20260719T150000Z
+UID:event:5682:2026-07-19T11:00:00
+DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
+ adults\, $15 for kids under 12.
+LOCATION:Various NYC locations\, see the sign up sheet linked!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Day for Co-op and Condo Homeowners\, Friends\, and Supporters
@@ -536,6 +722,16 @@ LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
  ket for address
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:What Maiz Teaches about Belonging and Healing Our Relationship Wit
+ h Food
+DTSTART:20260723T203000Z
+DTEND:20260723T213000Z
+DTSTAMP:20260723T203000Z
+UID:event:5677:2026-07-23T16:30:00
+DESCRIPTION:https://cal.red/?event=5677\nCost: 0
+LOCATION:virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Farnoosh Fathi\, Thom Eichelberger-Young\, Jesse Seldess
 DTSTART:20260724T230000Z
 DTEND:20260725T000000Z
@@ -546,6 +742,16 @@ DESCRIPTION:https://cal.red/?event=5617\n257 Nassau Ave\nBrooklyn\, NY 112
 LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Foraging Walk with Wildman Steve
+DTSTART:20260725T150000Z
+DTEND:20260725T160000Z
+DTSTAMP:20260725T150000Z
+UID:event:5682:2026-07-25T11:00:00
+DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
+ adults\, $15 for kids under 12.
+LOCATION:Various NYC locations\, see the sign up sheet linked!
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sync & Sequence
 DTSTART:20260726T000000Z
 DTEND:20260726T010000Z
@@ -554,6 +760,16 @@ UID:event:5620:2026-07-25T20:00:00
 DESCRIPTION:https://cal.red/?event=5620\nCost: free
 LOCATION:The Brooklyn Brewery in Williamsburg\, 79 N 11th St\, Brooklyn\, 
  NY 11249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Foraging Walk with Wildman Steve
+DTSTART:20260726T150000Z
+DTEND:20260726T160000Z
+DTSTAMP:20260726T150000Z
+UID:event:5682:2026-07-26T11:00:00
+DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
+ adults\, $15 for kids under 12.
+LOCATION:Various NYC locations\, see the sign up sheet linked!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PORNOCRACY (reading group)
@@ -611,6 +827,15 @@ DESCRIPTION:https://cal.red/?event=5610\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:free clinic
+DTSTART:20260809T160000Z
+DTEND:20260809T170000Z
+DTSTAMP:20260809T160000Z
+UID:event:5687:2026-08-09T12:00:00
+DESCRIPTION:https://cal.red/?event=5687\nCost: 0
+LOCATION:another world
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
 DTSTART:20260810T220000Z
 DTEND:20260810T230000Z
@@ -656,6 +881,15 @@ UID:event:5561:2026-09-02T19:00:00
 DESCRIPTION:https://cal.red/?event=5561\nHell's Kitchen\nCost: PWYCA (sugg
  ested $15)
 LOCATION:Prime Produce\, 424 W 54th St
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:free clinic
+DTSTART:20260906T160000Z
+DTEND:20260906T170000Z
+DTSTAMP:20260906T160000Z
+UID:event:5687:2026-09-06T12:00:00
+DESCRIPTION:https://cal.red/?event=5687\nCost: 0
+LOCATION:another world
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
