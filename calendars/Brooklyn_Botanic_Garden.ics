@@ -72,21 +72,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garden Circle July Early-Morning Hours
-DTSTART;VALUE=DATE:20260704T040000Z
-DTEND;VALUE=DATE:20260704T060000Z
-UID:Garden Circle July Early-Morning Hours-2026-07-04 04:00:00+00:00
-DESCRIPTION:Saturday\, July 4 & Sunday\, July 5\, 2026 | 9–10 a.m.\n				
- 	\n\n\n					\n						\n							| Preregistration Required\n\nMembers of the 
- Garden Circle and higher levels can enjoy exclusive access to the Garden f
- rom 9 to 10 a.m.Learn More›about Garden Circle July Early-Morning Hours\
- n\nMore info:\nhttps://www.bbg.org/visit/event/july_early_morning_hours\n\
- n<img src="/img/uploads/hero/_list_thumbnail_regular/japanese-garden_MM_14
- 522221586-crop.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garden Circle July Early-Morning Hours
 DTSTART;VALUE=DATE:20260705T040000Z
 DTEND;VALUE=DATE:20260705T060000Z
 UID:Garden Circle July Early-Morning Hours-2026-07-05 04:00:00+00:00
@@ -610,6 +595,22 @@ DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11
  al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
  _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
  ses-summer-JW-54760452942.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forever Green Soundbath
+DTSTART;VALUE=DATE:20260720T040000Z
+DTEND;VALUE=DATE:20260720T060000Z
+UID:Forever Green Soundbath-2026-07-20 04:00:00+00:00
+DESCRIPTION:Monday\, July 20\, 2026 (Rain date: Tuesday\, July 21) | 7:30 
+ p.m. doors\; performance 8:30–10 p.m.  \n					\n\n\n					\n						\n					
+ 		| Ticketed Event\n\nExperience a collaborative soundscape exploring the 
+ connections between Brooklyn Botanic Garden and its community. Find a spot
+  on the grass of Cherry Esplanade\, lie back\, and soak up the multisensor
+ y experience.Learn More›about Forever Green Soundbath\n\nMore info:\nhtt
+ ps://www.bbg.org/visit/event/soundbath\n\n<img src="/img/uploads/hero/_lis
+ t_thumbnail_regular/soundbath_LR_52166942887.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
