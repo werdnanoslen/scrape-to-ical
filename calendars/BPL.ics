@@ -11,42 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20260706T190000Z
-DTEND:20260706T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /816842
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Cup 2026 Watch Event
-DTSTART:20260706T190000Z
-DTEND:20260706T210000Z
-DESCRIPTION:Watch the World Cup at your local library! Join us at Brooklyn
-  Heights to watch select games throughout the tournament.\n\nhttps://www.b
- klynlibrary.org/node/824977
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20260706T200000Z
-DTEND:20260706T210000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/825132
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260706T203000Z
-DTEND:20260706T220000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8342
- 33
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
 DTSTART:20260706T220000Z
 DTEND:20260706T230000Z
@@ -378,5 +342,43 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8285
  04
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Motion Graphics with After Effects
+DTSTART:20260709T143000Z
+DTEND:20260709T173000Z
+DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
+ mic motion graphics and video effects compositing. This 4-part course cove
+ rs the basics of the After Effects interface\, text and layer ani\n\nhttps
+ ://www.bklynlibrary.org/node/828683
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shoot Amazing B-Roll
+DTSTART:20260709T180000Z
+DTEND:20260709T200000Z
+DESCRIPTION:Expand your filmmaking toolkit by learning easy and effective 
+ tips on capturing beautiful B-ROLL footage for your documentary project or
+  narrative film. More information at https://bricartsmedia.org/c\n\nhttps
+ ://www.bklynlibrary.org/node/828687
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260709T180000Z
+DTEND:20260709T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833501
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260709T183000Z
+DTEND:20260709T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833516
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
