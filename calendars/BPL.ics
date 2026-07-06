@@ -19,14 +19,6 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20260706T150000Z
-DTEND:20260706T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833216
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260706T150000Z
 DTEND:20260706T200000Z
@@ -35,43 +27,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/833742
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260706T150000Z
-DTEND:20260706T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833819
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume Hours
-DTSTART:20260706T160000Z
-DTEND:20260706T180000Z
-DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
- ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
- brary.org/node/826857
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260706T160000Z
-DTEND:20260706T180000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828016
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20260706T170000Z
-DTEND:20260706T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/833855
-LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -376,5 +331,53 @@ DESCRIPTION:Join us for a 3-part virtual series led by Dr. John Weigand fr
  he importance of hearing wellness and awareness.\n\nhttps://www.bklynlibra
  ry.org/node/820417
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260708T200000Z
+DTEND:20260708T230000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828041
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making Music from Our Surroundings
+DTSTART:20260708T213000Z
+DTEND:20260708T233000Z
+DESCRIPTION:How can we make music drawing inspiration from the sounds of o
+ ur daily lives? How can we translate into sound what we observe in a paint
+ ing\, a text message\, a book\, ourselves\, or the world? What lies\n\nhtt
+ ps://www.bklynlibrary.org/node/832251
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260708T220000Z
+DTEND:20260708T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
+ 59
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20260709T140000Z
+DTEND:20260709T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/814920
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20260709T140000Z
+DTEND:20260709T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
+ 52
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
