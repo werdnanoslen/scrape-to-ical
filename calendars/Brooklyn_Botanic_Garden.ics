@@ -71,21 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Circle July Early-Morning Hours
-DTSTART;VALUE=DATE:20260705T040000Z
-DTEND;VALUE=DATE:20260705T060000Z
-UID:Garden Circle July Early-Morning Hours-2026-07-05 04:00:00+00:00
-DESCRIPTION:Saturday\, July 4 & Sunday\, July 5\, 2026 | 9–10 a.m.\n				
- 	\n\n\n					\n						\n							| Preregistration Required\n\nMembers of the 
- Garden Circle and higher levels can enjoy exclusive access to the Garden f
- rom 9 to 10 a.m.Learn More›about Garden Circle July Early-Morning Hours\
- n\nMore info:\nhttps://www.bbg.org/visit/event/july_early_morning_hours\n\
- n<img src="/img/uploads/hero/_list_thumbnail_regular/japanese-garden_MM_14
- 522221586-crop.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herbaceous Landscape Plant ID
 DTSTART;VALUE=DATE:20260707T040000Z
 DTEND;VALUE=DATE:20260707T060000Z
@@ -144,19 +129,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Jazz Night
-DTSTART;VALUE=DATE:20260708T040000Z
-DTEND;VALUE=DATE:20260708T060000Z
-UID:Members’ Jazz Night-2026-07-08 04:00:00+00:00
-DESCRIPTION:Wednesday\, July 8\, 2026 | 6–8:30 p.m.\n\nPack a picnic and
-  enjoy a special live performance.Learn More›about Members’ Jazz Night
- \n\nMore info:\nhttps://www.bbg.org/visit/event/members_jazz_night_A\n\n<i
- mg src="/img/uploads/manual/hero/_list_thumbnail_regular/Eyal_Vilner_by_Er
- nest_Gregory.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members’ Summer Evenings
 DTSTART;VALUE=DATE:20260708T040000Z
 DTEND;VALUE=DATE:20260708T060000Z
@@ -166,6 +138,19 @@ DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
  about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
  event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
  thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Jazz Night
+DTSTART;VALUE=DATE:20260708T040000Z
+DTEND;VALUE=DATE:20260708T060000Z
+UID:Members’ Jazz Night-2026-07-08 04:00:00+00:00
+DESCRIPTION:Wednesday\, July 8\, 2026 | 6–8:30 p.m.\n\nPack a picnic and
+  enjoy a special live performance.Learn More›about Members’ Jazz Night
+ \n\nMore info:\nhttps://www.bbg.org/visit/event/members_jazz_night_A\n\n<i
+ mg src="/img/uploads/manual/hero/_list_thumbnail_regular/Eyal_Vilner_by_Er
+ nest_Gregory.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -201,6 +186,19 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jazz in July
+DTSTART;VALUE=DATE:20260709T040000Z
+DTEND;VALUE=DATE:20260709T060000Z
+UID:Jazz in July-2026-07-09 04:00:00+00:00
+DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
+ at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
+  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
+ jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
+ n-july_MS_53062447173.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:What to Do With That Vase
 DTSTART;VALUE=DATE:20260709T040000Z
 DTEND;VALUE=DATE:20260709T060000Z
@@ -211,19 +209,6 @@ DESCRIPTION:Thursday\, July 9\, 2026 | 6–7:30 p.m.\n					\n\n\n					\n
  ›about What to Do With That Vase\n\nMore info:\nhttps://www.bbg.org/clas
  ses/what_to_do_with_that_vase\n\n<img src="/img/uploads/hero/_list_thumbna
  il_regular/floral-centerpiece_17126898478.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz in July
-DTSTART;VALUE=DATE:20260709T040000Z
-DTEND;VALUE=DATE:20260709T060000Z
-UID:Jazz in July-2026-07-09 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
- at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
-  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
- jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
- n-july_MS_53062447173.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
