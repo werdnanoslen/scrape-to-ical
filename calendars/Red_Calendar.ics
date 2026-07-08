@@ -21,6 +21,16 @@ DESCRIPTION:https://cal.red/?event=5714\nCost: 0
 LOCATION:141 Flushing Avenue\, Brooklyn (Building 77)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🚨 SHUT DOWN CRYE PRECISION 🚨 🇵🇸 PICKET & NOISE DEMO 
+ 🇵🇸
+DTSTART:20260708T203000Z
+DTEND:20260708T213000Z
+DTSTAMP:20260708T203000Z
+UID:event:5716:2026-07-08T16:30:00
+DESCRIPTION:https://cal.red/?event=5716\nCost: 0
+LOCATION:141 Flushing Avenue\, Brooklyn (Building 77)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Mending Night
 DTSTART:20260708T210000Z
 DTEND:20260708T220000Z
@@ -41,15 +51,6 @@ DESCRIPTION:https://cal.red/?event=5701\nCost: Advance Tickets: $10. Ticke
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Word Play Social: Midsummer Word's Dream
-DTSTART:20260708T223000Z
-DTEND:20260708T233000Z
-DTSTAMP:20260708T223000Z
-UID:event:5706:2026-07-08T18:30:00
-DESCRIPTION:https://cal.red/?event=5706\nCost: Free
-LOCATION:Antler Accelerator\, 33 W. 17th Street\, Floor 6
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Earth’s Greatest Enemy
 DTSTART:20260708T223000Z
 DTEND:20260708T233000Z
@@ -57,6 +58,15 @@ DTSTAMP:20260708T223000Z
 UID:event:5693:2026-07-08T18:30:00
 DESCRIPTION:https://cal.red/?event=5693\nCost: 8 + tax
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Word Play Social: Midsummer Word's Dream
+DTSTART:20260708T223000Z
+DTEND:20260708T233000Z
+DTSTAMP:20260708T223000Z
+UID:event:5706:2026-07-08T18:30:00
+DESCRIPTION:https://cal.red/?event=5706\nCost: Free
+LOCATION:Antler Accelerator\, 33 W. 17th Street\, Floor 6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brooklyn Rail @192
@@ -86,6 +96,16 @@ DESCRIPTION:https://cal.red/?event=5691\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:dance practice (a dancefloor meditation)
+DTSTART:20260708T233000Z
+DTEND:20260709T003000Z
+DTSTAMP:20260708T233000Z
+UID:event:5637:2026-07-08T19:30:00
+DESCRIPTION:https://cal.red/?event=5637\nCost: $15+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Broken Rainbow - film screening + Black Mesa info + fundraiser
 DTSTART:20260708T233000Z
 DTEND:20260709T003000Z
@@ -104,16 +124,6 @@ UID:event:5667:2026-07-08T19:30:00
 DESCRIPTION:https://cal.red/?event=5667\n585 Woodward Ave\nRidgewood QNZ\n
  Cost: fundraiser: $5-20 suggested donation (plus t-shirt)
 LOCATION:Ridgewood Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:dance practice (a dancefloor meditation)
-DTSTART:20260708T233000Z
-DTEND:20260709T003000Z
-DTSTAMP:20260708T233000Z
-UID:event:5637:2026-07-08T19:30:00
-DESCRIPTION:https://cal.red/?event=5637\nCost: $15+
-LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
- ket for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:What Maiz Teaches about Belonging and Healing Our Relationship Wit
@@ -230,6 +240,16 @@ DESCRIPTION:https://cal.red/?event=5218\nCost: free
 LOCATION:10 Cooper St\, Brooklyn NY 11207
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Caprice Le Marais\, Darling Gails & Torppsbride LIVE & IN THE FLES
+ H
+DTSTART:20260711T030000Z
+DTEND:20260711T040000Z
+DTSTAMP:20260711T030000Z
+UID:event:5431:2026-07-10T23:00:00
+DESCRIPTION:https://cal.red/?event=5431\nCost: $17
+LOCATION:Purgatory\, Brooklyn (Bushwick)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:✨ Next weekend! Join The Kitchen for a weekend of FREE programmi
  ng as part the West Side Cultural Network’s annual West Side Fest ✨⁠
 DTSTART:20260711T030000Z
@@ -240,14 +260,14 @@ DESCRIPTION:https://cal.red/?event=5700\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Caprice Le Marais\, Darling Gails & Torppsbride LIVE & IN THE FLES
- H
-DTSTART:20260711T030000Z
-DTEND:20260711T040000Z
-DTSTAMP:20260711T030000Z
-UID:event:5431:2026-07-10T23:00:00
-DESCRIPTION:https://cal.red/?event=5431\nCost: $17
-LOCATION:Purgatory\, Brooklyn (Bushwick)
+SUMMARY:Foraging Walk with Wildman Steve
+DTSTART:20260711T150000Z
+DTEND:20260711T160000Z
+DTSTAMP:20260711T150000Z
+UID:event:5682:2026-07-11T11:00:00
+DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
+ adults\, $15 for kids under 12.
+LOCATION:Various NYC locations\, see the sign up sheet linked!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BKABF ‘26 IS NEAR 🚂🧯🧨💥🔥❤️‍🔥🥵🌅🌇
@@ -259,16 +279,6 @@ UID:event:5686:2026-07-11T11:00:00
 DESCRIPTION:https://cal.red/?event=5686\n📍Garage Studios\, 51 Washingto
  n Ave\nCost: 🕯️FREE to attend and open to the public
 LOCATION:📍Recess\, 46 Washington Ave
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Foraging Walk with Wildman Steve
-DTSTART:20260711T150000Z
-DTEND:20260711T160000Z
-DTSTAMP:20260711T150000Z
-UID:event:5682:2026-07-11T11:00:00
-DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
- adults\, $15 for kids under 12.
-LOCATION:Various NYC locations\, see the sign up sheet linked!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -308,15 +318,6 @@ DESCRIPTION:https://cal.red/?event=5668\nEntrance: 125-04 84th Rd\, Kew Ga
 LOCATION:Location: Neighborly Events
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BOYCOTT ROOM RAVE
-DTSTART:20260711T230000Z
-DTEND:20260712T000000Z
-DTSTAMP:20260711T230000Z
-UID:event:5674:2026-07-11T19:00:00
-DESCRIPTION:https://cal.red/?event=5674\nCost: $20+ sliding scale
-LOCATION:9-15 Wyckoff. 7 PM–4 AM.
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Night of Songs: Eric Laska\, Chevrolet Pile\, The Male Pattern
 DTSTART:20260711T230000Z
 DTEND:20260712T000000Z
@@ -325,6 +326,15 @@ UID:event:5615:2026-07-11T19:00:00
 DESCRIPTION:https://cal.red/?event=5615\n257 Nassau Ave\nBrooklyn\, NY 112
  22\nGreenpoint\nCost: $15 suggested/NOTAFLOF
 LOCATION:Sunview Acropolis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BOYCOTT ROOM RAVE
+DTSTART:20260711T230000Z
+DTEND:20260712T000000Z
+DTSTAMP:20260711T230000Z
+UID:event:5674:2026-07-11T19:00:00
+DESCRIPTION:https://cal.red/?event=5674\nCost: $20+ sliding scale
+LOCATION:9-15 Wyckoff. 7 PM–4 AM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -472,15 +482,6 @@ DESCRIPTION:https://cal.red/?event=5677\nCost: 0
 LOCATION:virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resisting Religious Nationalism
-DTSTART:20260716T220000Z
-DTEND:20260716T230000Z
-DTSTAMP:20260716T220000Z
-UID:event:5702:2026-07-16T18:00:00
-DESCRIPTION:https://cal.red/?event=5702\nCost: 0
-LOCATION:People’s Forum
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Community Safety\, Carceral Design\, and Dreaming Otherwise
 DTSTART:20260716T220000Z
 DTEND:20260716T230000Z
@@ -488,6 +489,15 @@ DTSTAMP:20260716T220000Z
 UID:event:5699:2026-07-16T18:00:00
 DESCRIPTION:https://cal.red/?event=5699\nCost: 0
 LOCATION:26 Mott Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resisting Religious Nationalism
+DTSTART:20260716T220000Z
+DTEND:20260716T230000Z
+DTSTAMP:20260716T220000Z
+UID:event:5702:2026-07-16T18:00:00
+DESCRIPTION:https://cal.red/?event=5702\nCost: 0
+LOCATION:People’s Forum
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Upcycled Weaving in the Garden
@@ -576,13 +586,14 @@ LOCATION:Brooklyn Public Library (Infocommons)\, Grand Army Plaza\, Brookl
  yn\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Evidence of Becoming
-DTSTART:20260718T210000Z
-DTEND:20260718T220000Z
-DTSTAMP:20260718T210000Z
-UID:event:5698:2026-07-18T17:00:00
-DESCRIPTION:https://cal.red/?event=5698\nCost: 0
-LOCATION:Recess Brooklyn\, NY
+SUMMARY:The Spectacular Vermin Sisters: Taking Back What's Ratfully Ours
+DTSTART:20260718T200000Z
+DTEND:20260718T210000Z
+DTSTAMP:20260718T200000Z
+UID:event:5708:2026-07-18T16:00:00
+DESCRIPTION:https://cal.red/?event=5708\nEast Village\n94 St Marks Pl\, Ne
+ w York\, NY 10009\nCost: $12
+LOCATION:Under St. Mark's
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream in NYC
@@ -593,6 +604,15 @@ UID:event:5668:2026-07-18T17:00:00
 DESCRIPTION:https://cal.red/?event=5668\nEntrance: 125-04 84th Rd\, Kew Ga
  rdens\, NY 11415\nCost: free with optional donation
 LOCATION:Location: Neighborly Events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evidence of Becoming
+DTSTART:20260718T210000Z
+DTEND:20260718T220000Z
+DTSTAMP:20260718T210000Z
+UID:event:5698:2026-07-18T17:00:00
+DESCRIPTION:https://cal.red/?event=5698\nCost: 0
+LOCATION:Recess Brooklyn\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇵🇸 Light from Deep Under: Free the HLF5! Free Them All! Book
@@ -861,15 +881,6 @@ DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
 LOCATION:Park Slope
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PORNOCRACY (reading group)
-DTSTART:20260811T230000Z
-DTEND:20260812T000000Z
-DTSTAMP:20260811T230000Z
-UID:event:5651:2026-08-11T19:00:00
-DESCRIPTION:https://cal.red/?event=5651\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Belladonna* Summer Writing Spirals
 DTSTART:20260811T230000Z
 DTEND:20260812T000000Z
@@ -877,6 +888,15 @@ DTSTAMP:20260811T230000Z
 UID:event:5553:2026-08-11T19:00:00
 DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
 LOCATION:925 Bergen St #405\, Crown Heights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PORNOCRACY (reading group)
+DTSTART:20260811T230000Z
+DTEND:20260812T000000Z
+DTSTAMP:20260811T230000Z
+UID:event:5651:2026-08-11T19:00:00
+DESCRIPTION:https://cal.red/?event=5651\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evidence of Becoming
