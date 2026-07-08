@@ -171,6 +171,15 @@ DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/the-premiere-i
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ORIENTATION\, online (BME2)
+DTSTART:20260714T210000Z
+DTEND:20260714T223000Z
+DTSTAMP:20260714T210000Z
+UID:ORIENTATION\, online (BME2)-2026-07-14T21:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/media-orientation/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DSLR Filmmaking - in person
 DTSTART:20260714T180000Z
 DTEND:20260714T200000Z
@@ -179,15 +188,6 @@ UID:DSLR Filmmaking - in person-2026-07-14T18:00:00+00:00
 DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/dslr-filmmakin
  g/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ORIENTATION\, online (BME2)
-DTSTART:20260714T210000Z
-DTEND:20260714T223000Z
-DTSTAMP:20260714T210000Z
-UID:ORIENTATION\, online (BME2)-2026-07-14T21:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/media-orientation/
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Field Audio Equipment Certification
@@ -434,16 +434,6 @@ DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/accelerated-tv
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Art of Video Editing\, online
-DTSTART:20260804T150000Z
-DTEND:20260804T170000Z
-DTSTAMP:20260804T150000Z
-UID:The Art of Video Editing\, online-2026-08-04T15:00:00+00:00
-DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
- ng-online-course/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lightroom Essentials
 DTSTART:20260804T180000Z
 DTEND:20260804T200000Z
@@ -452,6 +442,26 @@ UID:Lightroom Essentials-2026-08-04T18:00:00+00:00
 DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/lightroom-esse
  ntials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Digital Photography\, online
+DTSTART:20260804T220000Z
+DTEND:20260805T010000Z
+DTSTAMP:20260804T220000Z
+UID:Intro to Digital Photography\, online-2026-08-04T22:00:00+00:00
+DESCRIPTION:Cost: 15\,00 $\nhttps://bricartsmedia.org/class/intro-to-digit
+ al-photography/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art of Video Editing\, online
+DTSTART:20260804T150000Z
+DTEND:20260804T170000Z
+DTSTAMP:20260804T150000Z
+UID:The Art of Video Editing\, online-2026-08-04T15:00:00+00:00
+DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
+ ng-online-course/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mobile Phone Photography \, online
@@ -464,14 +474,14 @@ DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/mobile-phone-p
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Digital Photography\, online
-DTSTART:20260804T220000Z
-DTEND:20260805T010000Z
-DTSTAMP:20260804T220000Z
-UID:Intro to Digital Photography\, online-2026-08-04T22:00:00+00:00
-DESCRIPTION:Cost: 15\,00 $\nhttps://bricartsmedia.org/class/intro-to-digit
- al-photography/
-LOCATION:Virtual
+SUMMARY:How to Edit Your Podcast\, in-person
+DTSTART:20260806T180000Z
+DTEND:20260806T200000Z
+DTSTAMP:20260806T180000Z
+UID:How to Edit Your Podcast\, in-person-2026-08-06T18:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/how-to-edit-your-p
+ odcast/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Photoshop Essentials\, BPL
@@ -494,23 +504,13 @@ DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/make-a-podcast-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:How to Edit Your Podcast\, in-person
-DTSTART:20260806T180000Z
-DTEND:20260806T200000Z
-DTSTAMP:20260806T180000Z
-UID:How to Edit Your Podcast\, in-person-2026-08-06T18:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/how-to-edit-your-p
- odcast/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DaVinci Resolve for Editors
-DTSTART:20260807T180000Z
-DTEND:20260807T210000Z
-DTSTAMP:20260807T180000Z
-UID:DaVinci Resolve for Editors-2026-08-07T18:00:00+00:00
-DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
- e-for-editors/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:DSLR Filmmaking - in person
+DTSTART:20260807T220000Z
+DTEND:20260808T000000Z
+DTSTAMP:20260807T220000Z
+UID:DSLR Filmmaking - in person-2026-08-07T22:00:00+00:00
+DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/dslr-filmmakin
+ g/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -524,16 +524,6 @@ DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/marketing-your-
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DSLR Filmmaking - in person
-DTSTART:20260807T220000Z
-DTEND:20260808T000000Z
-DTSTAMP:20260807T220000Z
-UID:DSLR Filmmaking - in person-2026-08-07T22:00:00+00:00
-DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/dslr-filmmakin
- g/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Stop-Motion Animation Techniques\, online
 DTSTART:20260807T150000Z
 DTEND:20260807T170000Z
@@ -542,6 +532,16 @@ UID:Stop-Motion Animation Techniques\, online-2026-08-07T15:00:00+00:00
 DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/stop-motion-animat
  ion-techniques/
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DaVinci Resolve for Editors
+DTSTART:20260807T180000Z
+DTEND:20260807T210000Z
+DTSTAMP:20260807T180000Z
+UID:DaVinci Resolve for Editors-2026-08-07T18:00:00+00:00
+DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
+ e-for-editors/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:globalFEST at BRIC Celebrate Brooklyn! With DakhaBrakha\, Yeison L
@@ -602,14 +602,5 @@ UID:Ableton Live Essentials-2026-08-10T22:00:00+00:00
 DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
  ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ORIENTATION\, online (BME2)
-DTSTART:20260811T210000Z
-DTEND:20260811T223000Z
-DTSTAMP:20260811T210000Z
-UID:ORIENTATION\, online (BME2)-2026-08-11T21:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/media-orientation/
-LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
