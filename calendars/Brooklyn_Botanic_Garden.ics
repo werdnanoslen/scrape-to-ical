@@ -71,75 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Adventures
-DTSTART;VALUE=DATE:20260708T040000Z
-DTEND;VALUE=DATE:20260708T060000Z
-UID:Garden Adventures-2026-07-08 04:00:00+00:00
-DESCRIPTION:Wednesday–Friday for two weeks starting July 8\, July 22\, o
- r August 5\, 2026 | 9 a.m.–1 p.m. \n					\n\n\n					\n						\n							| P
- reregistration Required\n\n\n\nMore info:\nhttps://www.bbg.org/classes/gar
- den_adventures\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regul
- ar/children-wheelbarrow_WM_IMG_7978.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer First Discoveries
-DTSTART;VALUE=DATE:20260708T040000Z
-DTEND;VALUE=DATE:20260708T060000Z
-UID:Summer First Discoveries-2026-07-08 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | July 8–Augu
- st 14\, 2026 \n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plan
- t\, create a craft\, read a story\, and use your senses to explore nature 
- at activity stations designed for early learners up to 4 years old.Learn M
- ore›about Summer First Discoveries\n\nMore info:\nhttps://www.bbg.org/vi
- sit/event/first_discoveries_summer\n\n<img src="/img/uploads/hero/_list_th
- umbnail_regular/first-discoveries_MS_52895122449.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Wildflowers of Summer
-DTSTART;VALUE=DATE:20260708T040000Z
-DTEND;VALUE=DATE:20260708T060000Z
-UID:The Wildflowers of Summer-2026-07-08 04:00:00+00:00
-DESCRIPTION:Wednesday\, July 8\, 2026 | 5:30–8:30 p.m.\n					\n\n\n					
- \n						\n							| Preregistration Required\n\nWildflowers embody summerti
- me! Get step-by-step instruction to create a stunning flower arrangement f
- it for the season.Learn More›about The Wildflowers of Summer\n\nMore inf
- o:\nhttps://www.bbg.org/classes/the_wildflowers_of_summer\n\n<img src="/im
- g/uploads/hero/_list_thumbnail_regular/wildflowers-nsombi-woodson.jpg" alt
- ="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members’ Summer Evenings
-DTSTART;VALUE=DATE:20260708T040000Z
-DTEND;VALUE=DATE:20260708T060000Z
-UID:Members’ Summer Evenings-2026-07-08 04:00:00+00:00
-DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
- avor the Garden during the twilight hours—just for members!Learn More›
- about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
- event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
- thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members’ Jazz Night
-DTSTART;VALUE=DATE:20260708T040000Z
-DTEND;VALUE=DATE:20260708T060000Z
-UID:Members’ Jazz Night-2026-07-08 04:00:00+00:00
-DESCRIPTION:Wednesday\, July 8\, 2026 | 6–8:30 p.m.\n\nPack a picnic and
-  enjoy a special live performance.Learn More›about Members’ Jazz Night
- \n\nMore info:\nhttps://www.bbg.org/visit/event/members_jazz_night_A\n\n<i
- mg src="/img/uploads/manual/hero/_list_thumbnail_regular/Eyal_Vilner_by_Er
- nest_Gregory.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Watercolor: Creating Depth in Your Landscape Painting
 DTSTART;VALUE=DATE:20260709T040000Z
 DTEND;VALUE=DATE:20260709T060000Z
@@ -171,20 +102,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:What to Do With That Vase
-DTSTART;VALUE=DATE:20260709T040000Z
-DTEND;VALUE=DATE:20260709T060000Z
-UID:What to Do With That Vase-2026-07-09 04:00:00+00:00
-DESCRIPTION:Thursday\, July 9\, 2026 | 6–7:30 p.m.\n					\n\n\n					\n		
- 				\n							| Preregistration Required\n\nBring your vase and create a cu
- stom floral arrangement with expert guidance and fresh blooms.Learn More
- ›about What to Do With That Vase\n\nMore info:\nhttps://www.bbg.org/clas
- ses/what_to_do_with_that_vase\n\n<img src="/img/uploads/hero/_list_thumbna
- il_regular/floral-centerpiece_17126898478.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jazz in July
 DTSTART;VALUE=DATE:20260709T040000Z
 DTEND;VALUE=DATE:20260709T060000Z
@@ -208,6 +125,20 @@ DESCRIPTION:Thursday\, July 9\, 2026 | 6–7 p.m.\n\nLearn more about the
  ps://www.bbg.org/visit/event/block_by_block_exhibition_guided_tour\n\n<img
   src="/img/uploads/hero/_list_thumbnail_regular/Block-by-Block_JW_260526-0
  03.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What to Do With That Vase
+DTSTART;VALUE=DATE:20260709T040000Z
+DTEND;VALUE=DATE:20260709T060000Z
+UID:What to Do With That Vase-2026-07-09 04:00:00+00:00
+DESCRIPTION:Thursday\, July 9\, 2026 | 6–7:30 p.m.\n					\n\n\n					\n		
+ 				\n							| Preregistration Required\n\nBring your vase and create a cu
+ stom floral arrangement with expert guidance and fresh blooms.Learn More
+ ›about What to Do With That Vase\n\nMore info:\nhttps://www.bbg.org/clas
+ ses/what_to_do_with_that_vase\n\n<img src="/img/uploads/hero/_list_thumbna
+ il_regular/floral-centerpiece_17126898478.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -691,6 +622,21 @@ DESCRIPTION:Thursday\, July 23\, 2026 | 7–8 p.m.\n\nCelebrate Brooklyn
  ›about Jazz in July: Prince Emagine\n\nMore info:\nhttps://www.bbg.org/v
  isit/event/prince_emagine\n\n<img src="/img/uploads/hero/_list_thumbnail_r
  egular/CariBEING-PRINCE-EMAGINE_20240304_144044_0000.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer First Discoveries
+DTSTART;VALUE=DATE:20260724T040000Z
+DTEND;VALUE=DATE:20260724T060000Z
+UID:Summer First Discoveries-2026-07-24 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | July 8–Augu
+ st 14\, 2026 \n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plan
+ t\, create a craft\, read a story\, and use your senses to explore nature 
+ at activity stations designed for early learners up to 4 years old.Learn M
+ ore›about Summer First Discoveries\n\nMore info:\nhttps://www.bbg.org/vi
+ sit/event/first_discoveries_summer\n\n<img src="/img/uploads/hero/_list_th
+ umbnail_regular/first-discoveries_MS_52895122449.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
