@@ -21,43 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260709T140000Z
-DTEND:20260709T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
- 52
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shoot Amazing B-Roll
-DTSTART:20260709T180000Z
-DTEND:20260709T200000Z
-DESCRIPTION:Expand your filmmaking toolkit by learning easy and effective 
- tips on capturing beautiful B-ROLL footage for your documentary project or
-  narrative film. More information at https://bricartsmedia.org/c\n\nhttps
- ://www.bklynlibrary.org/node/828687
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260709T183000Z
-DTEND:20260709T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/833516
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260709T190000Z
-DTEND:20260709T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816519
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Cup 2026 Watch Event
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
@@ -380,5 +343,43 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828017
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Book Discussion: My Sister\, the Serial Killer by Oyinkan Braithwa
+ ite
+DTSTART:20260713T160000Z
+DTEND:20260713T170000Z
+DESCRIPTION:Please join Park Slope Library for a discussion of My Sister\,
+  the Serial Killer by Oyinkan Braithwaite.\n\nhttps://www.bklynlibrary.or
+ g/node/828478
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20260713T170000Z
+DTEND:20260713T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/833856
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260713T180000Z
+DTEND:20260713T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/828109
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260713T190000Z
+DTEND:20260713T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /816843
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
