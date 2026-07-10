@@ -30,13 +30,15 @@ DESCRIPTION:https://cal.red/?event=5646\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BOILER ROOM SPEAK OUT + PICKET
+SUMMARY:BKABF ‘26 IS NEAR 🚂🧯🧨💥🔥❤️‍🔥🥵🌅🌇
+ 🎇
 DTSTART:20260710T220000Z
 DTEND:20260710T230000Z
 DTSTAMP:20260710T220000Z
-UID:event:5722:2026-07-10T18:00:00
-DESCRIPTION:https://cal.red/?event=5722\nCost: Free
-LOCATION:Under the K Bridge\, 19 Bridgewater St. 6–8 PM.
+UID:event:5686:2026-07-10T18:00:00
+DESCRIPTION:https://cal.red/?event=5686\n📍Garage Studios\, 51 Washingto
+ n Ave\nCost: 🕯️FREE to attend and open to the public
+LOCATION:📍Recess\, 46 Washington Ave
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Habibi Festival at BRIC Celebrate Brooklyn!
@@ -48,15 +50,13 @@ DESCRIPTION:https://cal.red/?event=5718\nCost: Free
 LOCATION:Lena Horne Bandshell. 6–10 PM.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BKABF ‘26 IS NEAR 🚂🧯🧨💥🔥❤️‍🔥🥵🌅🌇
- 🎇
+SUMMARY:BOILER ROOM SPEAK OUT + PICKET
 DTSTART:20260710T220000Z
 DTEND:20260710T230000Z
 DTSTAMP:20260710T220000Z
-UID:event:5686:2026-07-10T18:00:00
-DESCRIPTION:https://cal.red/?event=5686\n📍Garage Studios\, 51 Washingto
- n Ave\nCost: 🕯️FREE to attend and open to the public
-LOCATION:📍Recess\, 46 Washington Ave
+UID:event:5722:2026-07-10T18:00:00
+DESCRIPTION:https://cal.red/?event=5722\nCost: Free
+LOCATION:Under the K Bridge\, 19 Bridgewater St. 6–8 PM.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -86,16 +86,6 @@ DESCRIPTION:https://cal.red/?event=5218\nCost: free
 LOCATION:10 Cooper St\, Brooklyn NY 11207
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:✨ Next weekend! Join The Kitchen for a weekend of FREE programmi
- ng as part the West Side Cultural Network’s annual West Side Fest ✨⁠
-DTSTART:20260711T030000Z
-DTEND:20260711T040000Z
-DTSTAMP:20260711T030000Z
-UID:event:5700:2026-07-10T23:00:00
-DESCRIPTION:https://cal.red/?event=5700\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Caprice Le Marais\, Darling Gails & Torppsbride LIVE & IN THE FLES
  H
 DTSTART:20260711T030000Z
@@ -104,6 +94,16 @@ DTSTAMP:20260711T030000Z
 UID:event:5431:2026-07-10T23:00:00
 DESCRIPTION:https://cal.red/?event=5431\nCost: $17
 LOCATION:Purgatory\, Brooklyn (Bushwick)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:✨ Next weekend! Join The Kitchen for a weekend of FREE programmi
+ ng as part the West Side Cultural Network’s annual West Side Fest ✨⁠
+DTSTART:20260711T030000Z
+DTEND:20260711T040000Z
+DTSTAMP:20260711T030000Z
+UID:event:5700:2026-07-10T23:00:00
+DESCRIPTION:https://cal.red/?event=5700\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Filipinx Food as Medicine Workshop Series: Rice as Ritual & Resist
@@ -185,16 +185,6 @@ DESCRIPTION:https://cal.red/?event=5694\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Midsummer Night's Dream in NYC
-DTSTART:20260711T220000Z
-DTEND:20260711T230000Z
-DTSTAMP:20260711T220000Z
-UID:event:5668:2026-07-11T18:00:00
-DESCRIPTION:https://cal.red/?event=5668\nEntrance: 125-04 84th Rd\, Kew Ga
- rdens\, NY 11415\nCost: free with optional donation
-LOCATION:Location: Neighborly Events
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Opening reception and book launch for Star published by Hassla + r
  eception for Echo Arts at KAJE
 DTSTART:20260711T220000Z
@@ -205,14 +195,14 @@ DESCRIPTION:https://cal.red/?event=5724\nCost: free!
 LOCATION:74 15th St\, Gowanus
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Night of Songs: Eric Laska\, Chevrolet Pile\, The Male Pattern
-DTSTART:20260711T230000Z
-DTEND:20260712T000000Z
-DTSTAMP:20260711T230000Z
-UID:event:5615:2026-07-11T19:00:00
-DESCRIPTION:https://cal.red/?event=5615\n257 Nassau Ave\nBrooklyn\, NY 112
- 22\nGreenpoint\nCost: $15 suggested/NOTAFLOF
-LOCATION:Sunview Acropolis
+SUMMARY:A Midsummer Night's Dream in NYC
+DTSTART:20260711T220000Z
+DTEND:20260711T230000Z
+DTSTAMP:20260711T220000Z
+UID:event:5668:2026-07-11T18:00:00
+DESCRIPTION:https://cal.red/?event=5668\nEntrance: 125-04 84th Rd\, Kew Ga
+ rdens\, NY 11415\nCost: free with optional donation
+LOCATION:Location: Neighborly Events
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BOYCOTT ROOM RAVE
@@ -222,6 +212,16 @@ DTSTAMP:20260711T230000Z
 UID:event:5674:2026-07-11T19:00:00
 DESCRIPTION:https://cal.red/?event=5674\nCost: $20+ sliding scale
 LOCATION:9-15 Wyckoff. 7 PM–4 AM.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Night of Songs: Eric Laska\, Chevrolet Pile\, The Male Pattern
+DTSTART:20260711T230000Z
+DTEND:20260712T000000Z
+DTSTAMP:20260711T230000Z
+UID:event:5615:2026-07-11T19:00:00
+DESCRIPTION:https://cal.red/?event=5615\n257 Nassau Ave\nBrooklyn\, NY 112
+ 22\nGreenpoint\nCost: $15 suggested/NOTAFLOF
+LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -243,16 +243,6 @@ DESCRIPTION:https://cal.red/?event=5700\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:If Chips Could Kill: Understanding Exploitation in the Semiconduct
- or Industry
-DTSTART:20260712T150000Z
-DTEND:20260712T160000Z
-DTSTAMP:20260712T150000Z
-UID:event:5685:2026-07-12T11:00:00
-DESCRIPTION:https://cal.red/?event=5685\nCost: 0
-LOCATION:Zoom!
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Foraging Walk with Wildman Steve
 DTSTART:20260712T150000Z
 DTEND:20260712T160000Z
@@ -261,6 +251,16 @@ UID:event:5682:2026-07-12T11:00:00
 DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
  adults\, $15 for kids under 12.
 LOCATION:Various NYC locations\, see the sign up sheet linked!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:If Chips Could Kill: Understanding Exploitation in the Semiconduct
+ or Industry
+DTSTART:20260712T150000Z
+DTEND:20260712T160000Z
+DTSTAMP:20260712T150000Z
+UID:event:5685:2026-07-12T11:00:00
+DESCRIPTION:https://cal.red/?event=5685\nCost: 0
+LOCATION:Zoom!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Third-world duplication: Filipino Risograph
@@ -282,6 +282,17 @@ DESCRIPTION:https://cal.red/?event=5423\n1186 Broadway\, Bushwick\, Brookl
 LOCATION:Wonderville
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:J. Pavone Trio (w/ Webb Crawford\, Tristan Kasten-Krause)\, Michae
+ l Foster & Sean Ali\, Dave Scanlon
+DTSTART:20260712T183000Z
+DTEND:20260712T193000Z
+DTSTAMP:20260712T183000Z
+UID:event:5730:2026-07-12T14:30:00
+DESCRIPTION:https://cal.red/?event=5730\nCost: probably $15-20 🌀 notafl
+ of
+LOCATION:@ sunview acropolis (all ages)\, greenpoint\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The People's World Cup
 DTSTART:20260712T220000Z
 DTEND:20260712T230000Z
@@ -289,16 +300,6 @@ DTSTAMP:20260712T220000Z
 UID:event:5721:2026-07-12T18:00:00
 DESCRIPTION:https://cal.red/?event=5721\nCost: Free
 LOCATION:Reinaldo Salgado Playground (750 Monroe St). 6 PM.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Topos Readings!
-DTSTART:20260712T230000Z
-DTEND:20260713T000000Z
-DTSTAMP:20260712T230000Z
-UID:event:5695:2026-07-12T19:00:00
-DESCRIPTION:https://cal.red/?event=5695\nAll events are at Topos Too ~ 592
- 2 Myrtle Ave. Ridgewood\, NY 11385 unless otherwise noted\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:House of Scorpio Sinema Club: BEYOND THE VALLEY OF THE DOLLS (1970
@@ -311,6 +312,26 @@ DESCRIPTION:https://cal.red/?event=5625\nCost: $12
 LOCATION:267 Douglass St\, 3rd flr\, Brooklyn [Gowanus]\, NY 11217
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Topos Readings!
+DTSTART:20260712T230000Z
+DTEND:20260713T000000Z
+DTSTAMP:20260712T230000Z
+UID:event:5695:2026-07-12T19:00:00
+DESCRIPTION:https://cal.red/?event=5695\nAll events are at Topos Too ~ 592
+ 2 Myrtle Ave. Ridgewood\, NY 11385 unless otherwise noted\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gigi & Ani Local Bike Sewing Tour\, Day #3/3: 茶i\, HERE\, Lot Li
+ z\, Dark Skin Genius + Sewing the City Tapestry
+DTSTART:20260713T000000Z
+DTEND:20260713T010000Z
+DTSTAMP:20260713T000000Z
+UID:event:5728:2026-07-12T20:00:00
+DESCRIPTION:https://cal.red/?event=5728\nCost: 🌀 notaflof
+LOCATION:@ haven cycles (all ages)\, 1581 dekalb ave\, bushwick\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ChuanFest - an AAPI performance festival
 DTSTART:20260713T020000Z
 DTEND:20260713T030000Z
@@ -321,6 +342,15 @@ DESCRIPTION:https://cal.red/?event=5619\n3AM Theatre\, Queens\nCost: $0 -
 LOCATION:122 Community Center\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:System Error Pt. 1: Community Discussion on Technology
+DTSTART:20260713T220000Z
+DTEND:20260713T230000Z
+DTSTAMP:20260713T220000Z
+UID:event:5727:2026-07-13T18:00:00
+DESCRIPTION:https://cal.red/?event=5727\nCost: Free
+LOCATION:Downtown Brooklyn (RSVP for location)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
 DTSTART:20260713T220000Z
 DTEND:20260713T230000Z
@@ -329,6 +359,17 @@ UID:event:4537:2026-07-13T18:00:00
 DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
  elps keep IA’s doors open and lights on\, quite literally): $5-$10
 LOCATION:Park Slope
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:John Dalton / Kaelen Ghandi / Evan Palmer / Gían Pérez\, Nick Sa
+ ia
+DTSTART:20260713T230000Z
+DTEND:20260714T000000Z
+DTSTAMP:20260713T230000Z
+UID:event:5729:2026-07-13T19:00:00
+DESCRIPTION:https://cal.red/?event=5729\nCost: 🌀 notaflof
+LOCATION:@ brothers wash & dry laundromat (all ages)\, 60-42 54th pl.\, ma
+ speth\, queens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Downtown Music Gallery Free Tuesdays
@@ -366,6 +407,17 @@ DTSTAMP:20260714T230000Z
 UID:event:5596:2026-07-14T19:00:00
 DESCRIPTION:https://cal.red/?event=5596\nCost: $20
 LOCATION:GP-81 in Bushwick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Good Folks: Karen NG / Kenneth Jimenez / Kevin Murray / Samantha K
+ ochis / Amirtha Kidambi\, Max Hoffman\, rocío sánchez & friends
+DTSTART:20260714T233000Z
+DTEND:20260715T003000Z
+DTSTAMP:20260714T233000Z
+UID:event:5731:2026-07-14T19:30:00
+DESCRIPTION:https://cal.red/?event=5731\nCost: $10-20
+LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
+ yn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:What Maiz Teaches about Belonging and Healing Our Relationship Wit
@@ -463,6 +515,15 @@ DESCRIPTION:https://cal.red/?event=5697\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Appetite 4 Apartheid - Central Brooklyn Canvass
+DTSTART:20260718T180000Z
+DTEND:20260718T190000Z
+DTSTAMP:20260718T180000Z
+UID:event:5725:2026-07-18T14:00:00
+DESCRIPTION:https://cal.red/?event=5725\nCost: $0
+LOCATION:Bed Stuy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hang with Bundists in the park this Summer!
 DTSTART:20260718T180000Z
 DTEND:20260718T190000Z
@@ -492,15 +553,6 @@ DESCRIPTION:https://cal.red/?event=5708\nEast Village\n94 St Marks Pl\, Ne
 LOCATION:Under St. Mark's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Evidence of Becoming
-DTSTART:20260718T210000Z
-DTEND:20260718T220000Z
-DTSTAMP:20260718T210000Z
-UID:event:5698:2026-07-18T17:00:00
-DESCRIPTION:https://cal.red/?event=5698\nCost: 0
-LOCATION:Recess Brooklyn\, NY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:A Midsummer Night's Dream in NYC
 DTSTART:20260718T210000Z
 DTEND:20260718T220000Z
@@ -511,13 +563,23 @@ DESCRIPTION:https://cal.red/?event=5668\nEntrance: 125-04 84th Rd\, Kew Ga
 LOCATION:Location: Neighborly Events
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Vagabond's Verse ISSUE 02 Launch Party
+SUMMARY:Evidence of Becoming
+DTSTART:20260718T210000Z
+DTEND:20260718T220000Z
+DTSTAMP:20260718T210000Z
+UID:event:5698:2026-07-18T17:00:00
+DESCRIPTION:https://cal.red/?event=5698\nCost: 0
+LOCATION:Recess Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading Rainbow folkpunk concert
 DTSTART:20260718T220000Z
 DTEND:20260718T230000Z
 DTSTAMP:20260718T220000Z
-UID:event:5713:2026-07-18T18:00:00
-DESCRIPTION:https://cal.red/?event=5713\nCost: Free
-LOCATION:Thayer\, 99 Avenue B\, New York\, NY 10009
+UID:event:5723:2026-07-18T18:00:00
+DESCRIPTION:https://cal.red/?event=5723\nCost: free
+LOCATION:The World’s Borough Bookshop\, 34-06 73rd Street at 34th Ave.\,
+  Jackson Heights\, Queens (near the 74th St/Roosevelt E/F/M/R/7 stop)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇵🇸 Light from Deep Under: Free the HLF5! Free Them All! Book
@@ -529,6 +591,15 @@ UID:event:5696:2026-07-18T18:00:00
 DESCRIPTION:https://cal.red/?event=5696\n\n🛜 Online: Zoom RSVP: tinyurl
  .com/HLF5BK\nCost: 0
 LOCATION:📍 In person: Another World: 629 Nostrand Ave\, Brooklyn\, NY)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vagabond's Verse ISSUE 02 Launch Party
+DTSTART:20260718T220000Z
+DTEND:20260718T230000Z
+DTSTAMP:20260718T220000Z
+UID:event:5713:2026-07-18T18:00:00
+DESCRIPTION:https://cal.red/?event=5713\nCost: Free
+LOCATION:Thayer\, 99 Avenue B\, New York\, NY 10009
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:real lovers
@@ -777,15 +848,6 @@ DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
 LOCATION:Park Slope
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PORNOCRACY (reading group)
-DTSTART:20260811T230000Z
-DTEND:20260812T000000Z
-DTSTAMP:20260811T230000Z
-UID:event:5651:2026-08-11T19:00:00
-DESCRIPTION:https://cal.red/?event=5651\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Belladonna* Summer Writing Spirals
 DTSTART:20260811T230000Z
 DTEND:20260812T000000Z
@@ -793,6 +855,15 @@ DTSTAMP:20260811T230000Z
 UID:event:5553:2026-08-11T19:00:00
 DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
 LOCATION:925 Bergen St #405\, Crown Heights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PORNOCRACY (reading group)
+DTSTART:20260811T230000Z
+DTEND:20260812T000000Z
+DTSTAMP:20260811T230000Z
+UID:event:5651:2026-08-11T19:00:00
+DESCRIPTION:https://cal.red/?event=5651\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evidence of Becoming
