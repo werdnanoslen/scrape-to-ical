@@ -11,34 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260710T150000Z
-DTEND:20260710T200000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/833743
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260710T170000Z
-DTEND:20260710T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8341
- 08
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260710T180000Z
-DTEND:20260710T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/828674
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:World Cup Watch Party: Quarterfinals Spain V Belguim
 DTSTART:20260710T190000Z
 DTEND:20260710T213000Z
@@ -65,6 +37,15 @@ DTEND:20260711T153000Z
 DESCRIPTION:🎓 It's never too late to earn your diploma!\n\nhttps://www.
  bklynlibrary.org/node/833016
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260711T143000Z
+DTEND:20260711T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8351
+ 55
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Know Your Rights Community Meeting
@@ -375,5 +356,24 @@ DESCRIPTION:In partnership with the Business & Career Center at the Brookl
  DP) at the City Bar Justice Center\, this webinar covers recent c\n\nhttps
  ://www.bklynlibrary.org/node/828901
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260714T173000Z
+DTEND:20260714T183000Z
+DESCRIPTION:Need help navigating one of your tech devices? Come join us an
+ d ask a variety of tech questions about your tech devices.\n\nhttps://www.
+ bklynlibrary.org/node/833768
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260714T180000Z
+DTEND:20260714T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828159
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
