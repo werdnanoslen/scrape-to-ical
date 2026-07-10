@@ -11,93 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260709T200000Z
-DTEND:20260709T000000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828067
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NELP Remote One-on-One Small Business Legal Clinic
-DTSTART:20260709T203000Z
-DTEND:20260709T223000Z
-DESCRIPTION:The Business & Career Center is partnering with the City Bar J
- ustice Center’s Neighborhood Entrepreneur Law Project (NELP) and Pace SB
- DC to offer a virtual small business legal clinic. This clinic\, co\n\nhtt
- ps://www.bklynlibrary.org/node/828215
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260709T213000Z
-DTEND:20260709T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/816698
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260709T213000Z
-DTEND:20260709T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819228
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260709T213000Z
-DTEND:20260709T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/828176
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260709T220000Z
-DTEND:20260709T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8086
- 02
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Life Drawing
-DTSTART:20260709T220000Z
-DTEND:20260709T234500Z
-DESCRIPTION:Build hand-eye coordination\, develop better observation skill
- s\, and get into a relaxing zone through drawing. This class will help you
-  relax and recharge while improving your artistic skills. We'll fo\n\nhttp
- s://www.bklynlibrary.org/node/830400
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260709T220000Z
-DTEND:20260709T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/830862
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQ+ Book Discussion: In the Lives of Puppets by TJ Klune
-DTSTART:20260709T223000Z
-DTEND:20260709T233000Z
-DESCRIPTION:Looking to meet other LGBTQ+ folks? We meet the first Tuesday 
- of every month to discuss an LGBTQ+ work.\n\nhttps://www.bklynlibrary.org/
- node/829340
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movie: A Beautiful Mind (2001)
 DTSTART:20260710T143000Z
 DTEND:20260710T164500Z
@@ -381,5 +294,85 @@ DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
  s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
  ps://www.bklynlibrary.org/node/825133
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260713T203000Z
+DTEND:20260713T220000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8342
+ 34
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class with Chance
+DTSTART:20260713T210000Z
+DTEND:20260713T214500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/820469
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Symposium
+DTSTART:20260713T220000Z
+DTEND:20260713T234500Z
+DESCRIPTION:Join us for Philosophy Discussion Group!  From June through S
+ eptember\, we are discussing Plato's Symposium.\n\nhttps://www.bklynlibrar
+ y.org/node/820684
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Learn & Play Mahjong
+DTSTART:20260713T220000Z
+DTEND:20260713T233000Z
+DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/827
+ 160
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260713T220000Z
+DTEND:20260713T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/824876
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A.M. Gittlitz Discusses Metropolitans: New York Baseball\, Class S
+ truggle\, and the People's Team with Special Guest Kevin Baker\, Author of
+  The New York Game: Baseball and the Rise of a New City
+DTSTART:20260713T220000Z
+DTEND:20260713T233000Z
+DESCRIPTION:Join us for a conversation with local author A.M. Gittlitz on 
+ Metropolitans: New York Baseball\, Class Struggle\, and the People's Team!
+ \n\nhttps://www.bklynlibrary.org/node/829044
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260714T133000Z
+DTEND:20260714T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/834275
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
+DTSTART:20260714T140000Z
+DTEND:20260714T170000Z
+DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
+ //www.bklynlibrary.org/node/806716
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Vet Center Tabling
+DTSTART:20260714T140000Z
+DTEND:20260714T180000Z
+DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
+ dential and free help to Veterans\, service members\, and their families. 
+ Staff from the Vet Center will assist with information on health a\n\nhttp
+ s://www.bklynlibrary.org/node/831966
+LOCATION:Central Library\, Lobby Gallery
 END:VEVENT
 END:VCALENDAR
