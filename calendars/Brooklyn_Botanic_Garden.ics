@@ -71,51 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer First Discoveries
-DTSTART;VALUE=DATE:20260710T040000Z
-DTEND;VALUE=DATE:20260710T060000Z
-UID:Summer First Discoveries-2026-07-10 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | July 8–Augu
- st 14\, 2026 \n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plan
- t\, create a craft\, read a story\, and use your senses to explore nature 
- at activity stations designed for early learners up to 4 years old.Learn M
- ore›about Summer First Discoveries\n\nMore info:\nhttps://www.bbg.org/vi
- sit/event/first_discoveries_summer\n\n<img src="/img/uploads/hero/_list_th
- umbnail_regular/first-discoveries_MS_52895122449.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tai Chi & Qigong for Beginners
-DTSTART;VALUE=DATE:20260710T040000Z
-DTEND;VALUE=DATE:20260710T060000Z
-UID:Tai Chi & Qigong for Beginners-2026-07-10 04:00:00+00:00
-DESCRIPTION:5 Fridays: July 10–August 7\, 2026 | 11 a.m.–12 p.m.\n				
- 	\n\n\n					\n						| Waitlist Only\n\nTai chi and qigong exercises improv
- e balance\, increase blood circulation\, relax your mind and body\, and in
- crease your internal energy.Learn More›about Tai Chi & Qigong for Beginn
- ers\n\nMore info:\nhttps://www.bbg.org/classes/tai_chi_qigong_for_beginner
- s\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/21FAEHWTCQBA_1.jp
- g" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tai Chi & Qigong Intermediate Class
-DTSTART;VALUE=DATE:20260710T040000Z
-DTEND;VALUE=DATE:20260710T060000Z
-UID:Tai Chi & Qigong Intermediate Class-2026-07-10 04:00:00+00:00
-DESCRIPTION:5 Fridays: July 10–August 7\, 2026 | 1–2 p.m.\n					\n\n\n
- 					\n						| Waitlist Only\n\nTai chi and qigong exercises improve balan
- ce\, increase blood circulation\, relax your mind and body\, and increase 
- your internal energy.Learn More›about Tai Chi & Qigong Intermediate Clas
- s\n\nMore info:\nhttps://www.bbg.org/classes/tai_chi_qigong_intermediate_c
- lass\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/21FAEHWTCQBA_1
- .jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Family Discovery Weekends
 DTSTART;VALUE=DATE:20260711T040000Z
 DTEND;VALUE=DATE:20260711T060000Z
@@ -497,6 +452,19 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jazz in July
+DTSTART;VALUE=DATE:20260723T040000Z
+DTEND;VALUE=DATE:20260723T060000Z
+UID:Jazz in July-2026-07-23 04:00:00+00:00
+DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
+ at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
+  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
+ jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
+ n-july_MS_53062447173.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Disability Pride Month Art-Making Program
 DTSTART;VALUE=DATE:20260723T040000Z
 DTEND;VALUE=DATE:20260723T060000Z
@@ -507,19 +475,6 @@ DESCRIPTION:Thursday\, July 23\, 2026 | 6–7 p.m.\n\nJoin Disability Prid
  Pride Month Art-Making Program\n\nMore info:\nhttps://www.bbg.org/visit/ev
  ent/disability_pride_month_art_making_program\n\n<img src="/img/uploads/he
  ro/_list_thumbnail_regular/Annie-Lakshmee-Hands-Pins.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz in July
-DTSTART;VALUE=DATE:20260723T040000Z
-DTEND;VALUE=DATE:20260723T060000Z
-UID:Jazz in July-2026-07-23 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
- at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
-  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
- jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
- n-july_MS_53062447173.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -588,6 +543,36 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260725T040000Z
 DTEND;VALUE=DATE:20260725T060000Z
 UID:Seasonal Highlights Tour-2026-07-25 04:00:00+00:00
+DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
+ a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
+ n in this free walk led by trained Garden Guides.Learn More›about Season
+ al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
+ _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
+ ses-summer-JW-54760452942.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Family Discovery Weekends
+DTSTART;VALUE=DATE:20260726T040000Z
+DTEND;VALUE=DATE:20260726T060000Z
+UID:Summer Family Discovery Weekends-2026-07-26 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. |  July 11–Aug
+ ust 9\, 2026 \n					\n\n\n					\n						\n							| Drop-in\n\nHands-on stat
+ ions throughout the garden’s meadow\, woodland\, and marsh habitats and 
+ in the vegetable garden encourage families to explore nature together.Lear
+ n More›about Summer Family Discovery Weekends\n\nMore info:\nhttps://www
+ .bbg.org/visit/event/summer_family_discovery_weekends\n\n<img src="/img/up
+ loads/hero/_list_thumbnail_regular/first-discoveries_JW_54496721065.jpeg" 
+ alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260726T040000Z
+DTEND;VALUE=DATE:20260726T060000Z
+UID:Seasonal Highlights Tour-2026-07-26 04:00:00+00:00
 DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
  a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
  n in this free walk led by trained Garden Guides.Learn More›about Season
