@@ -809,6 +809,17 @@ DESCRIPTION:https://cal.red/?event=5743\nCost: $20 max
 LOCATION:@ threes brewing (21+)\, 333 douglass st.\, gowanus\, bklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chthonic Streams Presents: Each Night I Dream Of Razors\, Corpse D
+ ust\, Melting Regular\, Unfeeling (Derek Rush)
+DTSTART:20260722T220000Z
+DTEND:20260722T230000Z
+DTSTAMP:20260722T220000Z
+UID:event:5744:2026-07-22T18:00:00
+DESCRIPTION:https://cal.red/?event=5744\nCost: $15
+LOCATION:@ fringe records (all ages)\, 6-56 woodward ave\, ridgewood\, que
+ ens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:dance practice (a dancefloor meditation)
 DTSTART:20260722T233000Z
 DTEND:20260723T003000Z
@@ -840,6 +851,26 @@ DESCRIPTION:https://cal.red/?event=5677\nCost: 0
 LOCATION:virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Saapato\, Matt Evans\, Isaac Sherman\, Henry Fraser
+DTSTART:20260724T000000Z
+DTEND:20260724T010000Z
+DTSTAMP:20260724T000000Z
+UID:event:5745:2026-07-23T20:00:00
+DESCRIPTION:https://cal.red/?event=5745\nCost: $18
+LOCATION:@ cassette (21+)\, 68-38 forest ave B\, ridgewood\, queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gaza Families Fundraiser Benefit: Metropole\, Kevin Wulf\, Wet Dip
+ \, False Spring
+DTSTART:20260724T221500Z
+DTEND:20260724T231500Z
+DTSTAMP:20260724T221500Z
+UID:event:5746:2026-07-24T18:15:00
+DESCRIPTION:https://cal.red/?event=5746\nCost: $10
+LOCATION:@ p.i.t. (property is theft) (all ages)\, 411 s. 5th\, los sures 
+ / williamsburg\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Farnoosh Fathi\, Thom Eichelberger-Young\, Jesse Seldess
 DTSTART:20260724T230000Z
 DTEND:20260725T000000Z
@@ -869,6 +900,17 @@ DESCRIPTION:https://cal.red/?event=5698\nCost: 0
 LOCATION:Recess Brooklyn\, NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TEN YEARS OF SKINNY APARTMENT
+DTSTART:20260725T202000Z
+DTEND:20260725T212000Z
+DTSTAMP:20260725T202000Z
+UID:event:5747:2026-07-25T16:20:00
+DESCRIPTION:https://cal.red/?event=5747\nCost: probably 🌀 notaflof\, $2
+ 0 max
+LOCATION:@ skinny apartment (all ages)\, ridgewood\, queens –– email s
+ kinnyapartment@aol.com for address
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sync & Sequence
 DTSTART:20260726T000000Z
 DTEND:20260726T010000Z
@@ -889,6 +931,17 @@ DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for
 LOCATION:Various NYC locations\, see the sign up sheet linked!
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TEN YEARS OF SKINNY APARTMENT
+DTSTART:20260726T202000Z
+DTEND:20260726T212000Z
+DTSTAMP:20260726T202000Z
+UID:event:5747:2026-07-26T16:20:00
+DESCRIPTION:https://cal.red/?event=5747\nCost: probably 🌀 notaflof\, $2
+ 0 max
+LOCATION:@ skinny apartment (all ages)\, ridgewood\, queens –– email s
+ kinnyapartment@aol.com for address
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Topos Readings!
 DTSTART:20260726T230000Z
 DTEND:20260727T000000Z
@@ -897,6 +950,17 @@ UID:event:5695:2026-07-26T19:00:00
 DESCRIPTION:https://cal.red/?event=5695\nAll events are at Topos Too ~ 592
  2 Myrtle Ave. Ridgewood\, NY 11385 unless otherwise noted\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hans Tammen presents Loose Talk #6: Cometa Negra (Matt Belen\, Pet
+ er Carlovich\, Jack Lynch)\, Shardik (Matt Hollenberg\, Sana Nagano\, Nick
+  Jost\, Danny Sher)\, & more
+DTSTART:20260727T230000Z
+DTEND:20260728T000000Z
+DTSTAMP:20260727T230000Z
+UID:event:5748:2026-07-27T19:00:00
+DESCRIPTION:https://cal.red/?event=5748\nCost: $15
+LOCATION:@ main drag (all ages)\, 50 s. 1st st.\, williamsburg\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PORNOCRACY (reading group)
@@ -908,6 +972,24 @@ DESCRIPTION:https://cal.red/?event=5651\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sam Weinberg\, Sam Lisabeth / Nick Neuberg / Brittany Carlson
+DTSTART:20260729T000000Z
+DTEND:20260729T010000Z
+DTSTAMP:20260729T000000Z
+UID:event:5749:2026-07-28T20:00:00
+DESCRIPTION:https://cal.red/?event=5749\nCost: $20 cash
+LOCATION:@ lava club (all ages)\, downtown bk –– rsvp for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Waah\, Seraphine's Cleaver\, Misuser
+DTSTART:20260730T003000Z
+DTEND:20260730T013000Z
+DTSTAMP:20260730T003000Z
+UID:event:5750:2026-07-29T20:30:00
+DESCRIPTION:https://cal.red/?event=5750\nCost: $14
+LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Belladonna* Summer Writing Spirals
 DTSTART:20260730T230000Z
 DTEND:20260731T000000Z
@@ -915,6 +997,16 @@ DTSTAMP:20260730T230000Z
 UID:event:5553:2026-07-30T19:00:00
 DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
 LOCATION:925 Bergen St #405\, Crown Heights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weeping Icon\, Female Genius\, Reg Bloor
+DTSTART:20260730T230000Z
+DTEND:20260731T000000Z
+DTSTAMP:20260730T230000Z
+UID:event:5751:2026-07-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5751\nCost: 🌀 notaflof
+LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
+ – outdoors in backyard!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music @ The Record Shop
