@@ -28,22 +28,6 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20260713T150000Z
-DTEND:20260713T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833217
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260713T150000Z
-DTEND:20260713T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833820
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260713T150000Z
 DTEND:20260713T200000Z
@@ -54,6 +38,14 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20260713T150000Z
+DTEND:20260713T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/833820
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260713T150000Z
 DTEND:20260713T170000Z
@@ -61,6 +53,14 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/834567
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20260713T150000Z
+DTEND:20260713T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/833217
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume Hours
@@ -156,15 +156,6 @@ DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Philosophy Discussion Group: Plato's Symposium
-DTSTART:20260713T220000Z
-DTEND:20260713T234500Z
-DESCRIPTION:Join us for Philosophy Discussion Group!  From June through S
- eptember\, we are discussing Plato's Symposium.\n\nhttps://www.bklynlibrar
- y.org/node/820684
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Learn & Play Mahjong
 DTSTART:20260713T220000Z
 DTEND:20260713T233000Z
@@ -191,6 +182,15 @@ DESCRIPTION:Join us for a conversation with local author A.M. Gittlitz on
  Metropolitans: New York Baseball\, Class Struggle\, and the People's Team!
  \n\nhttps://www.bklynlibrary.org/node/829044
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Philosophy Discussion Group: Plato's Symposium
+DTSTART:20260713T221500Z
+DTEND:20260713T234500Z
+DESCRIPTION:Join us for Philosophy Discussion Group!  From June through S
+ eptember\, we are discussing Plato's Symposium.\n\nhttps://www.bklynlibrar
+ y.org/node/820684
+LOCATION:Central Library\, Reverend Elsie Smith Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Citizenship Class
@@ -293,7 +293,7 @@ DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:World Cup 2026 Watch Event
+SUMMARY:World Cup 2026 Watch Event: France v Spain
 DTSTART:20260714T190000Z
 DTEND:20260714T220000Z
 DESCRIPTION:Come Join Us at the Library to Watch the World Cup. (Semifinal
