@@ -283,6 +283,15 @@ DESCRIPTION:https://cal.red/?event=5695\nAll events are at Topos Too ~ 592
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Living Room
+DTSTART:20260716T230000Z
+DTEND:20260717T000000Z
+DTSTAMP:20260716T230000Z
+UID:event:5758:2026-07-16T19:00:00
+DESCRIPTION:https://cal.red/?event=5758\nCost: Free
+LOCATION:Tompkins Square Park\, East Village
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Music @ The Record Shop
 DTSTART:20260716T233000Z
 DTEND:20260717T003000Z
@@ -292,6 +301,17 @@ DESCRIPTION:https://cal.red/?event=5736\nCost: usually 🌀 notaflof\, max
   $20 recommended
 LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
  yn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:boshi's lecture serires presents: a fireside chat with C. Thi Nguy
+ en
+DTSTART:20260717T223000Z
+DTEND:20260717T233000Z
+DTSTAMP:20260717T223000Z
+UID:event:5759:2026-07-17T18:30:00
+DESCRIPTION:https://cal.red/?event=5759\n1002 Metropolitan Ave\, Brooklyn\
+ , NY\nCost: free
+LOCATION:boshi's place [East Williamsburg]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ben Roylance\, Caroline Rayner\, Christopher Ayala
@@ -558,6 +578,15 @@ DESCRIPTION:https://cal.red/?event=5742\nCost: $18
 LOCATION:@ cassette (21+)\, 68-38 forest ave B\, ridgewood\, queens
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Symbols Workshop
+DTSTART:20260721T230000Z
+DTEND:20260722T000000Z
+DTSTAMP:20260721T230000Z
+UID:event:5726:2026-07-21T19:00:00
+DESCRIPTION:https://cal.red/?event=5726\nCost: $35-55
+LOCATION:Bedstuy\, NY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chase Elodia\, Mohit Lauer\, Elise Petersen
 DTSTART:20260722T000000Z
 DTEND:20260722T010000Z
@@ -658,6 +687,15 @@ DESCRIPTION:https://cal.red/?event=5698\nCost: 0
 LOCATION:Recess Brooklyn\, NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:destruction junket presents: MindSwap #5 (w)holesums
+DTSTART:20260725T190000Z
+DTEND:20260725T200000Z
+DTSTAMP:20260725T190000Z
+UID:event:5760:2026-07-25T15:00:00
+DESCRIPTION:https://cal.red/?event=5760\nAddress sent on RSVP\nCost: free
+LOCATION:Hex House [East Williamsburg]
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TEN YEARS OF SKINNY APARTMENT
 DTSTART:20260725T202000Z
 DTEND:20260725T212000Z
@@ -667,6 +705,15 @@ DESCRIPTION:https://cal.red/?event=5747\nCost: probably 🌀 notaflof\, $2
  0 max
 LOCATION:@ skinny apartment (all ages)\, ridgewood\, queens –– email s
  kinnyapartment@aol.com for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:((AERO))
+DTSTART:20260725T233000Z
+DTEND:20260726T003000Z
+DTSTAMP:20260725T233000Z
+UID:event:5757:2026-07-25T19:30:00
+DESCRIPTION:https://cal.red/?event=5757\nCost: $15
+LOCATION:secret location in bedstuy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sync & Sequence
