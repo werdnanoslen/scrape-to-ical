@@ -11,33 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Creative Writing Workshop
-DTSTART:20260713T190000Z
-DTEND:20260713T210000Z
-DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
- /816843
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jigsaw Puzzle Hour
-DTSTART:20260713T190000Z
-DTEND:20260713T210000Z
-DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
- variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
- ://www.bklynlibrary.org/node/832051
-LOCATION:Brooklyn Heights Library\, Cranberry Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yoga
-DTSTART:20260713T200000Z
-DTEND:20260713T210000Z
-DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
-  to join this free group yoga class. Led by a certified instructor who ha
- s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
- ps://www.bklynlibrary.org/node/825133
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260713T203000Z
 DTEND:20260713T220000Z
@@ -45,22 +18,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8342
  34
 LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Meditation Class with Chance
-DTSTART:20260713T210000Z
-DTEND:20260713T214500Z
-DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
-  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/820469
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Learn & Play Mahjong
-DTSTART:20260713T220000Z
-DTEND:20260713T233000Z
-DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/827
- 160
-LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual English Conversation Group
@@ -72,15 +29,22 @@ DESCRIPTION:Practice your English speaking and listening skills with other
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Learn & Play Mahjong
+DTSTART:20260713T220000Z
+DTEND:20260713T233000Z
+DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/827
+ 160
+LOCATION:Central Library\, Youth Wing
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A.M. Gittlitz Discusses Metropolitans: New York Baseball\, Class S
  truggle\, and the People's Team with Special Guest Kevin Baker\, Author of
   The New York Game: Baseball and the Rise of a New City
 DTSTART:20260713T220000Z
 DTEND:20260713T233000Z
-DESCRIPTION:Join us for a conversation with local author A.M. Gittlitz on 
- Metropolitans: New York Baseball\, Class Struggle\, and the People's Team!
- \n\nhttps://www.bklynlibrary.org/node/829044
-LOCATION:Central Library\, Dweck Center
+DESCRIPTION:The location of this event has changed to the Business and Car
+ eer Center Event Room.\n\nhttps://www.bklynlibrary.org/node/829044
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philosophy Discussion Group: Plato's Symposium
@@ -374,5 +338,43 @@ DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
  n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
  tps://www.bklynlibrary.org/node/829810
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women and Money: How to Make Sense of Today's Financial Markets
+DTSTART:20260715T170000Z
+DTEND:20260715T180000Z
+DESCRIPTION:Learn all about today's financial markets from two women who 
+ watch it closely.Join Financial Advisors Julia Strayer and Liz Maccarone a
+ s they host The Women and Money Roundtable. This series is a virt\n\nhttps
+ ://www.bklynlibrary.org/node/797677
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20260715T170000Z
+DTEND:20260715T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /830938
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260715T170000Z
+DTEND:20260715T180000Z
+DESCRIPTION:Need help navigating one of your tech devices? Come join us an
+ d ask a variety of tech questions about your tech devices.\n\nhttps://www.
+ bklynlibrary.org/node/833769
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260715T180000Z
+DTEND:20260715T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833502
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
