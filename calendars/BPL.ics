@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Hot Bread Kitchen - Lobby Tabling
-DTSTART:20260713T140000Z
-DTEND:20260713T170000Z
-DESCRIPTION:Hot Bread Kitchen will be tabling in Central Library's Central
-  Lobby to meet with you and discuss their food career training programs!\n
- \nhttps://www.bklynlibrary.org/node/820547
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:American and Chinese Mahjong
 DTSTART:20260713T150000Z
 DTEND:20260713T190000Z
@@ -36,70 +27,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/833744
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260713T150000Z
-DTEND:20260713T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833820
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260713T150000Z
-DTEND:20260713T170000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834567
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20260713T150000Z
-DTEND:20260713T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833217
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume Hours
-DTSTART:20260713T160000Z
-DTEND:20260713T180000Z
-DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
- ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
- brary.org/node/826858
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260713T160000Z
-DTEND:20260713T180000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828017
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Book Discussion: My Sister\, the Serial Killer by Oyinkan Braithwa
- ite
-DTSTART:20260713T160000Z
-DTEND:20260713T170000Z
-DESCRIPTION:Please join Park Slope Library for a discussion of My Sister\,
-  the Serial Killer by Oyinkan Braithwaite.\n\nhttps://www.bklynlibrary.or
- g/node/828478
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20260713T170000Z
-DTEND:20260713T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/833856
-LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -374,5 +301,77 @@ DESCRIPTION:Please join us for a fun walk in Prospect Park to explore tree
  e see as well as hear about other plants\, birds\, and animals we m\n\nhtt
  ps://www.bklynlibrary.org/node/831134
 LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20260715T140000Z
+DTEND:20260715T160000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812240
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Park Slope Library’s Neighbors In Need Care Kits
+DTSTART:20260715T140000Z
+DTEND:20260715T200000Z
+DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
+ cated to ensuring everyone has access to essential hygiene products.No one
+  should have to go without the basics! If you or someone you know ne\n\nht
+ tps://www.bklynlibrary.org/node/820193
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260715T140000Z
+DTEND:20260715T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
+ 41
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation For Adults
+DTSTART:20260715T140000Z
+DTEND:20260715T153000Z
+DESCRIPTION:All beginners in Hebrew join us to learn\, practice and speak 
+ Hebrew\n\nhttps://www.bklynlibrary.org/node/833719
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260715T140000Z
+DTEND:20260715T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/833751
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Mental Health First Aid Training
+DTSTART:20260715T140000Z
+DTEND:20260715T210000Z
+DESCRIPTION:Mental Health First Aid is a skills-based training program tha
+ t teaches people how to identify\, understand\, and respond to signs of me
+ ntal health and substance use challenges.\n\nhttps://www.bklynlibrary.org/
+ node/822668
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ready to launch your hospitality career?
+DTSTART:20260715T143000Z
+DTEND:20260715T153000Z
+DESCRIPTION:🏨 Ready to launch your hospitality career?\n\nhttps://www.b
+ klynlibrary.org/node/830387
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260715T150000Z
+DTEND:20260715T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library (2
+ nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
+ ps://www.bklynlibrary.org/node/813998
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
