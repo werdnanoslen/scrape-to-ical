@@ -392,19 +392,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jazz in July
-DTSTART;VALUE=DATE:20260723T040000Z
-DTEND;VALUE=DATE:20260723T060000Z
-UID:Jazz in July-2026-07-23 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
- at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
-  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
- jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
- n-july_MS_53062447173.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disability Pride Month Art-Making Program
 DTSTART;VALUE=DATE:20260723T040000Z
 DTEND;VALUE=DATE:20260723T060000Z
@@ -415,6 +402,19 @@ DESCRIPTION:Thursday\, July 23\, 2026 | 6–7 p.m.\n\nJoin Disability Prid
  Pride Month Art-Making Program\n\nMore info:\nhttps://www.bbg.org/visit/ev
  ent/disability_pride_month_art_making_program\n\n<img src="/img/uploads/he
  ro/_list_thumbnail_regular/Annie-Lakshmee-Hands-Pins.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz in July
+DTSTART;VALUE=DATE:20260723T040000Z
+DTEND;VALUE=DATE:20260723T060000Z
+UID:Jazz in July-2026-07-23 04:00:00+00:00
+DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
+ at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
+  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
+ jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
+ n-july_MS_53062447173.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -519,6 +519,47 @@ DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11
  al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
  _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
  ses-summer-JW-54760452942.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer First Discoveries
+DTSTART;VALUE=DATE:20260729T040000Z
+DTEND;VALUE=DATE:20260729T060000Z
+UID:Summer First Discoveries-2026-07-29 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | July 8–Augu
+ st 14\, 2026 \n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plan
+ t\, create a craft\, read a story\, and use your senses to explore nature 
+ at activity stations designed for early learners up to 4 years old.Learn M
+ ore›about Summer First Discoveries\n\nMore info:\nhttps://www.bbg.org/vi
+ sit/event/first_discoveries_summer\n\n<img src="/img/uploads/hero/_list_th
+ umbnail_regular/first-discoveries_MS_52895122449.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260729T040000Z
+DTEND;VALUE=DATE:20260729T060000Z
+UID:Members’ Summer Evenings-2026-07-29 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Jazz Night
+DTSTART;VALUE=DATE:20260729T040000Z
+DTEND;VALUE=DATE:20260729T060000Z
+UID:Members’ Jazz Night-2026-07-29 04:00:00+00:00
+DESCRIPTION:Wednesday\, July 29\, 2026 | 6–8:30 p.m.\n\nPack a picnic an
+ d enjoy a special live performance on a lovely summer evening.Learn More
+ ›about Members’ Jazz Night\n\nMore info:\nhttps://www.bbg.org/visit/ev
+ ent/members_jazz_night_B\n\n<img src="/img/uploads/manual/hero/_list_thumb
+ nail_regular/brownstone-jazz_JW_54549482226.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
