@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Park Slope Library’s Neighbors In Need Care Kits
-DTSTART:20260715T140000Z
-DTEND:20260715T200000Z
-DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
- cated to ensuring everyone has access to essential hygiene products.No one
-  should have to go without the basics! If you or someone you know ne\n\nht
- tps://www.bklynlibrary.org/node/820193
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Adult Mental Health First Aid Training
 DTSTART:20260715T140000Z
 DTEND:20260715T210000Z
@@ -41,30 +31,22 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Tech Help for Your Job Search
-DTSTART:20260715T180000Z
-DTEND:20260715T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818921
-LOCATION:Central Library\, Info Commons\, Room 3
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
+DTSTART:20260715T190000Z
+DTEND:20260715T210000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/828412
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260715T180000Z
-DTEND:20260715T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/833502
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260715T183000Z
-DTEND:20260715T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/833517
-LOCATION:Park Slope Library
+SUMMARY:World Cup 2026 Watch Event: Argentina v England
+DTSTART:20260715T190000Z
+DTEND:20260715T220000Z
+DESCRIPTION:Come Join Us at the Library to Watch the World Cup. (Semifinal
+ s)\n\nhttps://www.bklynlibrary.org/node/815865
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater Workshop
@@ -82,24 +64,6 @@ DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
 DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/831468
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Drop-In Resume & Career Help (Central Library)
-DTSTART:20260715T190000Z
-DTEND:20260715T210000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/828412
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:World Cup 2026 Watch Event: Argentina v England
-DTSTART:20260715T190000Z
-DTEND:20260715T220000Z
-DESCRIPTION:Come Join Us at the Library to Watch the World Cup. (Semifinal
- s)\n\nhttps://www.bklynlibrary.org/node/815865
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
@@ -381,5 +345,40 @@ DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
  empo y desea repasar y mejorar sus habilidades de computación?Puede\n\nht
  tps://www.bklynlibrary.org/node/834456
 LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260717T170000Z
+DTEND:20260717T190000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8341
+ 09
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260717T180000Z
+DTEND:20260717T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/828675
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Film Club: Snowpiercer (2013)
+DTSTART:20260717T180000Z
+DTEND:20260717T200000Z
+DESCRIPTION:Snowpiercer (2013)\n\nhttps://www.bklynlibrary.org/node/827406
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Max Glazer
+DTSTART:20260717T220000Z
+DTEND:20260717T010000Z
+DESCRIPTION:Max Glazer has represented New York City touring the world DJ
+ ing parties for superstars like Naomi Campbell\, Missy Elliott\, 50 Cent\,
+  Branford Marsalis\, and Jay-Z\, to name just a few. Separate from the\n\
+ nhttps://www.bklynlibrary.org/node/824741
+LOCATION:Central Library\, Plaza
 END:VEVENT
 END:VCALENDAR
