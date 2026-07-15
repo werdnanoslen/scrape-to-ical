@@ -31,6 +31,23 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Multilingual Business Help
+DTSTART:20260715T140000Z
+DTEND:20260715T160000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812240
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Adult Mental Health First Aid Training
+DTSTART:20260715T140000Z
+DTEND:20260715T210000Z
+DESCRIPTION:Mental Health First Aid is a skills-based training program tha
+ t teaches people how to identify\, understand\, and respond to signs of me
+ ntal health and substance use challenges.\n\nhttps://www.bklynlibrary.org/
+ node/822668
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260715T140000Z
 DTEND:20260715T160000Z
@@ -56,23 +73,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/833751
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Multilingual Business Help
-DTSTART:20260715T140000Z
-DTEND:20260715T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812240
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Adult Mental Health First Aid Training
-DTSTART:20260715T140000Z
-DTEND:20260715T210000Z
-DESCRIPTION:Mental Health First Aid is a skills-based training program tha
- t teaches people how to identify\, understand\, and respond to signs of me
- ntal health and substance use challenges.\n\nhttps://www.bklynlibrary.org/
- node/822668
-LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ready to launch your hospitality career?

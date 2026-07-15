@@ -74,6 +74,16 @@ DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/intro-to-radio
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:3D Modeling with Blender\, online
+DTSTART:20260720T220000Z
+DTEND:20260721T010000Z
+DTSTAMP:20260720T220000Z
+UID:3D Modeling with Blender\, online-2026-07-20T22:00:00+00:00
+DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/3d-modeling-wi
+ th-blender/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere
 DTSTART:20260720T220000Z
 DTEND:20260721T010000Z
@@ -92,16 +102,6 @@ UID:Video Editing with Premiere-2026-07-20T18:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-editing-
  with-premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:3D Modeling with Blender\, online
-DTSTART:20260720T220000Z
-DTEND:20260721T010000Z
-DTSTAMP:20260720T220000Z
-UID:3D Modeling with Blender\, online-2026-07-20T22:00:00+00:00
-DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/3d-modeling-wi
- th-blender/
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TV Studio Intensive
@@ -280,16 +280,6 @@ DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/mobile-phone-p
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Digital Photography\, online
-DTSTART:20260804T220000Z
-DTEND:20260805T010000Z
-DTSTAMP:20260804T220000Z
-UID:Intro to Digital Photography\, online-2026-08-04T22:00:00+00:00
-DESCRIPTION:Cost: 15\,00 $\nhttps://bricartsmedia.org/class/intro-to-digit
- al-photography/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Art of Video Editing\, online
 DTSTART:20260804T150000Z
 DTEND:20260804T170000Z
@@ -308,6 +298,16 @@ UID:Lightroom Essentials-2026-08-04T18:00:00+00:00
 DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/lightroom-esse
  ntials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Digital Photography\, online
+DTSTART:20260804T220000Z
+DTEND:20260805T010000Z
+DTSTAMP:20260804T220000Z
+UID:Intro to Digital Photography\, online-2026-08-04T22:00:00+00:00
+DESCRIPTION:Cost: 15\,00 $\nhttps://bricartsmedia.org/class/intro-to-digit
+ al-photography/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Photoshop Essentials\, BPL
@@ -360,16 +360,6 @@ DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stop-Motion Animation Techniques\, online
-DTSTART:20260807T150000Z
-DTEND:20260807T170000Z
-DTSTAMP:20260807T150000Z
-UID:Stop-Motion Animation Techniques\, online-2026-08-07T15:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/stop-motion-animat
- ion-techniques/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:globalFEST at BRIC Celebrate Brooklyn! With DakhaBrakha\, Yeison L
  andero\, Sally Baby's Silver Dollars\, and Sunju Park
 DTSTART:20260807T210000Z
@@ -396,6 +386,16 @@ DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/marketing-your-
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stop-Motion Animation Techniques\, online
+DTSTART:20260807T150000Z
+DTEND:20260807T170000Z
+DTSTAMP:20260807T150000Z
+UID:Stop-Motion Animation Techniques\, online-2026-08-07T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/stop-motion-animat
+ ion-techniques/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BRIC Celebrates Aaliyah: One in a Million
 DTSTART:20260808T190000Z
 DTEND:20260809T003000Z
@@ -418,6 +418,16 @@ DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/fundamentals-o
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ableton Live Essentials
+DTSTART:20260810T220000Z
+DTEND:20260811T010000Z
+DTSTAMP:20260810T220000Z
+UID:Ableton Live Essentials-2026-08-10T22:00:00+00:00
+DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
+ ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Teen Filmmaking Bootcamp cycle 8 (Summer Intensive 2026)
 DTSTART:20260810T150000Z
 DTEND:20260810T180000Z
@@ -427,16 +437,6 @@ UID:Teen Filmmaking Bootcamp cycle 8 (Summer Intensive 2026)-2026-08-10T15
 DESCRIPTION:Cost: free / application \nhttps://bricartsmedia.org/class/tee
  n-filmmaking-bootcamp-cycle-8-summer-intensive-2026/\nhttps://goo.gl/maps/
  vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ableton Live Essentials
-DTSTART:20260810T220000Z
-DTEND:20260811T010000Z
-DTSTAMP:20260810T220000Z
-UID:Ableton Live Essentials-2026-08-10T22:00:00+00:00
-DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
- ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -466,8 +466,8 @@ DTSTAMP:20260814T220000Z
 UID:Lyricist Lounge 35th Anniversary-2026-08-14T22:00:00+00:00
 DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/lyricist-lounge-35
  th-anniversary/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://
- bricartsmedia.org/wp-content/uploads/2026/05/BCB-Wide-Shot-2_Photo-credit-
- Edwina-Hay-1-200x200.jpg" alt="" />
+ bricartsmedia.org/wp-content/uploads/2026/05/Photo-Credit-Franco-Tortolani
+ -200x200.jpeg" alt="" />
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
@@ -479,16 +479,6 @@ UID:Interviewing for Film & TV\, in-person-2026-08-14T22:00:00+00:00
 DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/interviewing-f
  or-film-tv/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Make a Movie On Your Phone\, online
-DTSTART:20260815T150000Z
-DTEND:20260815T170000Z
-DTSTAMP:20260815T150000Z
-UID:Make a Movie On Your Phone\, online-2026-08-15T15:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-movie-on-yo
- ur-phone/
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Americana Night: Yola + Dom Flemons and the Traveling Wildfires + 
@@ -503,5 +493,25 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/americana-night-yo
  /SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-content/uploads
  /2026/04/Yola-Press-Horizontal-2-200x200.jpg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Color Grading with DaVinci Resolve
+DTSTART:20260815T180000Z
+DTEND:20260815T210000Z
+DTSTAMP:20260815T180000Z
+UID:Color Grading with DaVinci Resolve-2026-08-15T18:00:00+00:00
+DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/color-grading-
+ with-davinci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Make a Movie On Your Phone\, online
+DTSTART:20260815T150000Z
+DTEND:20260815T170000Z
+DTSTAMP:20260815T150000Z
+UID:Make a Movie On Your Phone\, online-2026-08-15T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-movie-on-yo
+ ur-phone/
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
