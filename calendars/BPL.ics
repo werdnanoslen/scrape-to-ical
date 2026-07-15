@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Tree ID in Prospect Park
-DTSTART:20260715T134500Z
-DTEND:20260715T153000Z
-DESCRIPTION:Please join us for a fun walk in Prospect Park to explore tree
- s and their role in NYC Parks.  We will learn how to identify the trees w
- e see as well as hear about other plants\, birds\, and animals we m\n\nhtt
- ps://www.bklynlibrary.org/node/831134
-LOCATION:Central Library\, Lobby Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Park Slope Library’s Neighbors In Need Care Kits
 DTSTART:20260715T140000Z
 DTEND:20260715T200000Z
@@ -29,13 +19,6 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
   should have to go without the basics! If you or someone you know ne\n\nht
  tps://www.bklynlibrary.org/node/820193
 LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Multilingual Business Help
-DTSTART:20260715T140000Z
-DTEND:20260715T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812240
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:CANCELLED: Adult Mental Health First Aid Training
@@ -48,23 +31,6 @@ DESCRIPTION:Mental Health First Aid is a skills-based training program tha
 LOCATION:Central Library\, Dweck Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260715T140000Z
-DTEND:20260715T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
- 41
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation For Adults
-DTSTART:20260715T140000Z
-DTEND:20260715T153000Z
-DESCRIPTION:All beginners in Hebrew join us to learn\, practice and speak 
- Hebrew\n\nhttps://www.bklynlibrary.org/node/833719
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260715T140000Z
 DTEND:20260715T210000Z
@@ -75,14 +41,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ready to launch your hospitality career?
-DTSTART:20260715T143000Z
-DTEND:20260715T153000Z
-DESCRIPTION:🏨 Ready to launch your hospitality career?\n\nhttps://www.b
- klynlibrary.org/node/830387
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260715T150000Z
 DTEND:20260715T170000Z
@@ -91,16 +49,6 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
  ps://www.bklynlibrary.org/node/813998
 LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask‑A‑Tech: One-on-One Technology Help
-DTSTART:20260715T150000Z
-DTEND:20260715T160000Z
-DESCRIPTION:Need assistance using your laptop\, smartphone\, or tablet?Hav
- e questions about Microsoft Word\, Excel\, PowerPoint\, or other computer 
- programs?Visit the Pacific Branch at 11:00 AM for personalized\, one-o\n\n
- https://www.bklynlibrary.org/node/834442
-LOCATION:Pacific\, Basement Meeting Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech
@@ -377,5 +325,61 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
  \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
  lynlibrary.org/node/816699
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260716T213000Z
+DTEND:20260716T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828177
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group
+DTSTART:20260716T213000Z
+DTEND:20260716T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/819229
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:My Ántonia - Book Discussion
+DTSTART:20260716T220000Z
+DTEND:20260716T230000Z
+DESCRIPTION:Please join us to discuss this classic of American Literature 
+ about pioneer life on the Nebraska prairie at the end of the 19th century.
+ \n\nhttps://www.bklynlibrary.org/node/825814
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20260716T220000Z
+DTEND:20260716T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/830863
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Market Research Simplified! Researching Your Industry
+DTSTART:20260716T220000Z
+DTEND:20260716T233000Z
+DESCRIPTION:The Brooklyn Public Library's Business & Career Center invites
+  you to a webinar series designed to demystify market research and equip y
+ ou with the foresight you'll need to identify opportunities\, mit\n\nhttps
+ ://www.bklynlibrary.org/node/832262
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYS MWBE Program & Certification Workshop
+DTSTART:20260716T223000Z
+DTEND:20260716T000000Z
+DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
+ library.org/node/805741
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
