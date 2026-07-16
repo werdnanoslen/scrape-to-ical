@@ -57,6 +57,16 @@ DESCRIPTION:https://cal.red/?event=5600\nBrooklyn\, NY\nCost: 25-40
 LOCATION:Precycle
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Topos Readings!
+DTSTART:20260716T230000Z
+DTEND:20260717T000000Z
+DTSTAMP:20260716T230000Z
+UID:event:5695:2026-07-16T19:00:00
+DESCRIPTION:https://cal.red/?event=5695\nAll events are at Topos Too ~ 592
+ 2 Myrtle Ave. Ridgewood\, NY 11385 unless otherwise noted\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Erotica Nite with Blush and Friends
 DTSTART:20260716T230000Z
 DTEND:20260717T000000Z
@@ -73,16 +83,6 @@ DTSTAMP:20260716T230000Z
 UID:event:5758:2026-07-16T19:00:00
 DESCRIPTION:https://cal.red/?event=5758\nCost: Free
 LOCATION:Tompkins Square Park\, East Village
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Topos Readings!
-DTSTART:20260716T230000Z
-DTEND:20260717T000000Z
-DTSTAMP:20260716T230000Z
-UID:event:5695:2026-07-16T19:00:00
-DESCRIPTION:https://cal.red/?event=5695\nAll events are at Topos Too ~ 592
- 2 Myrtle Ave. Ridgewood\, NY 11385 unless otherwise noted\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music @ The Record Shop
@@ -105,6 +105,16 @@ DESCRIPTION:https://cal.red/?event=5764\nCost: 20
 LOCATION:Come to Life World
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ARESPHERE × BODYSONNET: Filling the Shell @ Mabou Mines Festival
+DTSTART:20260717T223000Z
+DTEND:20260717T233000Z
+DTSTAMP:20260717T223000Z
+UID:event:5762:2026-07-17T18:30:00
+DESCRIPTION:https://cal.red/?event=5762\nCost: $23.95–$54.44
+LOCATION:MABOU MINES @ 122 CC 150 First Avenue New York\, NY 10009 (Manhat
+ tan)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:boshi's lecture serires presents: a fireside chat with C. Thi Nguy
  en
 DTSTART:20260717T223000Z
@@ -114,16 +124,6 @@ UID:event:5759:2026-07-17T18:30:00
 DESCRIPTION:https://cal.red/?event=5759\n1002 Metropolitan Ave\, Brooklyn\
  , NY\nCost: free
 LOCATION:boshi's place [East Williamsburg]
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ARESPHERE × BODYSONNET: Filling the Shell @ Mabou Mines Festival
-DTSTART:20260717T223000Z
-DTEND:20260717T233000Z
-DTSTAMP:20260717T223000Z
-UID:event:5762:2026-07-17T18:30:00
-DESCRIPTION:https://cal.red/?event=5762\nCost: $23.95–$54.44
-LOCATION:MABOU MINES @ 122 CC 150 First Avenue New York\, NY 10009 (Manhat
- tan)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music @ The Record Shop
@@ -147,14 +147,14 @@ DESCRIPTION:https://cal.red/?event=5616\n257 Nassau Ave\nBrooklyn\, NY 112
 LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drone Lab + Open Projector
+SUMMARY:2 Sisters
 DTSTART:20260718T000000Z
 DTEND:20260718T010000Z
 DTSTAMP:20260718T000000Z
-UID:event:5763:2026-07-17T20:00:00
-DESCRIPTION:https://cal.red/?event=5763\n303 Saratoga Ave\, Brooklyn NY 11
- 233\nCost: $ Suggested donation $5-25
-LOCATION:Delight Factory\, Ocean Hill / Brownsville
+UID:event:5689:2026-07-17T20:00:00
+DESCRIPTION:https://cal.red/?event=5689\n563 Johnson Ave\, Brooklyn NY 112
+ 37 (2nd Floor)\nCost: 20
+LOCATION:Life World
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ellie Shannon (Release Show)\, Adelyn Strei\, Julia Ava W. Boehme
@@ -167,14 +167,14 @@ LOCATION:@ brothers wash & dry laundromat (all ages)\, 60-42 54th pl.\, ma
  speth\, queens
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2 Sisters
+SUMMARY:Drone Lab + Open Projector
 DTSTART:20260718T000000Z
 DTEND:20260718T010000Z
 DTSTAMP:20260718T000000Z
-UID:event:5689:2026-07-17T20:00:00
-DESCRIPTION:https://cal.red/?event=5689\n563 Johnson Ave\, Brooklyn NY 112
- 37 (2nd Floor)\nCost: 20
-LOCATION:Life World
+UID:event:5763:2026-07-17T20:00:00
+DESCRIPTION:https://cal.red/?event=5763\n303 Saratoga Ave\, Brooklyn NY 11
+ 233\nCost: $ Suggested donation $5-25
+LOCATION:Delight Factory\, Ocean Hill / Brownsville
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Two Sisters
@@ -263,16 +263,6 @@ DESCRIPTION:https://cal.red/?event=5708\nEast Village\n94 St Marks Pl\, Ne
 LOCATION:Under St. Mark's
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:A Midsummer Night's Dream in NYC
-DTSTART:20260718T210000Z
-DTEND:20260718T220000Z
-DTSTAMP:20260718T210000Z
-UID:event:5668:2026-07-18T17:00:00
-DESCRIPTION:https://cal.red/?event=5668\nEntrance: 125-04 84th Rd\, Kew Ga
- rdens\, NY 11415\nCost: free with optional donation
-LOCATION:Location: Neighborly Events
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Evidence of Becoming
 DTSTART:20260718T210000Z
 DTEND:20260718T220000Z
@@ -291,13 +281,14 @@ DESCRIPTION:https://cal.red/?event=5765\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Vagabond's Verse ISSUE 02 Launch Party
-DTSTART:20260718T220000Z
-DTEND:20260718T230000Z
-DTSTAMP:20260718T220000Z
-UID:event:5713:2026-07-18T18:00:00
-DESCRIPTION:https://cal.red/?event=5713\nCost: Free
-LOCATION:Thayer\, 99 Avenue B\, New York\, NY 10009
+SUMMARY:A Midsummer Night's Dream in NYC
+DTSTART:20260718T210000Z
+DTEND:20260718T220000Z
+DTSTAMP:20260718T210000Z
+UID:event:5668:2026-07-18T17:00:00
+DESCRIPTION:https://cal.red/?event=5668\nEntrance: 125-04 84th Rd\, Kew Ga
+ rdens\, NY 11415\nCost: free with optional donation
+LOCATION:Location: Neighborly Events
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reading Rainbow folkpunk concert
@@ -308,6 +299,15 @@ UID:event:5723:2026-07-18T18:00:00
 DESCRIPTION:https://cal.red/?event=5723\nCost: free
 LOCATION:The World’s Borough Bookshop\, 34-06 73rd Street at 34th Ave.\,
   Jackson Heights\, Queens (near the 74th St/Roosevelt E/F/M/R/7 stop)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Vagabond's Verse ISSUE 02 Launch Party
+DTSTART:20260718T220000Z
+DTEND:20260718T230000Z
+DTSTAMP:20260718T220000Z
+UID:event:5713:2026-07-18T18:00:00
+DESCRIPTION:https://cal.red/?event=5713\nCost: Free
+LOCATION:Thayer\, 99 Avenue B\, New York\, NY 10009
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🇵🇸 Light from Deep Under: Free the HLF5! Free Them All! Book
@@ -448,6 +448,27 @@ DESCRIPTION:https://cal.red/?event=5726\nCost: $35-55
 LOCATION:Bedstuy\, NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Henry Birdsey\, Will Hayes / Aliya Ultan / Henry Fraser\, Kole Gal
+ braith\, Karol Konstancia
+DTSTART:20260721T230000Z
+DTEND:20260722T000000Z
+DTSTAMP:20260721T230000Z
+UID:event:5773:2026-07-21T19:00:00
+DESCRIPTION:https://cal.red/?event=5773\nCost: $15+
+LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
+ s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Entelechy: Timothy Rusterholz\, Altimetry\, Kwami\, Ashcan Orchest
+ ra\, Junkyard\, The Beak Trio
+DTSTART:20260722T000000Z
+DTEND:20260722T010000Z
+DTSTAMP:20260722T000000Z
+UID:event:5774:2026-07-21T20:00:00
+DESCRIPTION:https://cal.red/?event=5774\nCost: $15
+LOCATION:@ hart bar (21+)\, 538 hart st.\, bushwick\, bklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chase Elodia\, Mohit Lauer\, Elise Petersen
 DTSTART:20260722T000000Z
 DTEND:20260722T010000Z
@@ -568,15 +589,6 @@ LOCATION:@ skinny apartment (all ages)\, ridgewood\, queens –– email s
  kinnyapartment@aol.com for address
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:signal
-DTSTART:20260725T233000Z
-DTEND:20260726T003000Z
-DTSTAMP:20260725T233000Z
-UID:event:5770:2026-07-25T19:30:00
-DESCRIPTION:https://cal.red/?event=5770\nCost: 15
-LOCATION:secret location in bedstuy
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:((AERO))
 DTSTART:20260725T233000Z
 DTEND:20260726T003000Z
@@ -586,14 +598,13 @@ DESCRIPTION:https://cal.red/?event=5757\nCost: $15
 LOCATION:secret location in bedstuy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sync & Sequence
-DTSTART:20260726T000000Z
-DTEND:20260726T010000Z
-DTSTAMP:20260726T000000Z
-UID:event:5620:2026-07-25T20:00:00
-DESCRIPTION:https://cal.red/?event=5620\nCost: free
-LOCATION:The Brooklyn Brewery in Williamsburg\, 79 N 11th St\, Brooklyn\, 
- NY 11249
+SUMMARY:signal
+DTSTART:20260725T233000Z
+DTEND:20260726T003000Z
+DTSTAMP:20260725T233000Z
+UID:event:5770:2026-07-25T19:30:00
+DESCRIPTION:https://cal.red/?event=5770\nCost: 15
+LOCATION:secret location in bedstuy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pataphysics 020
@@ -604,6 +615,16 @@ UID:event:5771:2026-07-25T20:00:00
 DESCRIPTION:https://cal.red/?event=5771\n303 Saratoga Ave\, Brooklyn NY 11
  233\nOcean Hill / Brownsville\nCost: 20.00
 LOCATION:Delight Factory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sync & Sequence
+DTSTART:20260726T000000Z
+DTEND:20260726T010000Z
+DTSTAMP:20260726T000000Z
+UID:event:5620:2026-07-25T20:00:00
+DESCRIPTION:https://cal.red/?event=5620\nCost: free
+LOCATION:The Brooklyn Brewery in Williamsburg\, 79 N 11th St\, Brooklyn\, 
+ NY 11249
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foraging Walk with Wildman Steve
@@ -675,15 +696,6 @@ DESCRIPTION:https://cal.red/?event=5750\nCost: $14
 LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belladonna* Summer Writing Spirals
-DTSTART:20260730T230000Z
-DTEND:20260731T000000Z
-DTSTAMP:20260730T230000Z
-UID:event:5553:2026-07-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
-LOCATION:925 Bergen St #405\, Crown Heights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Weeping Icon\, Female Genius\, Reg Bloor
 DTSTART:20260730T230000Z
 DTEND:20260731T000000Z
@@ -692,6 +704,15 @@ UID:event:5751:2026-07-30T19:00:00
 DESCRIPTION:https://cal.red/?event=5751\nCost: 🌀 notaflof
 LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
  – outdoors in backyard!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belladonna* Summer Writing Spirals
+DTSTART:20260730T230000Z
+DTEND:20260731T000000Z
+DTSTAMP:20260730T230000Z
+UID:event:5553:2026-07-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
+LOCATION:925 Bergen St #405\, Crown Heights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music @ The Record Shop
@@ -724,15 +745,6 @@ DESCRIPTION:https://cal.red/?event=5707\nCost: Free (suggested donation of
 LOCATION:Herbert von King Park (Northeastern Corner)\, Bed-Stuy\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260802T000000Z
-DTEND:20260802T010000Z
-DTSTAMP:20260802T000000Z
-UID:event:5610:2026-08-01T20:00:00
-DESCRIPTION:https://cal.red/?event=5610\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:motion_correct (Album Release)\, Devin Music\, Sage Palm\, Lilian\
  , Juliasblade
 DTSTART:20260802T000000Z
@@ -742,6 +754,15 @@ UID:event:5752:2026-08-01T20:00:00
 DESCRIPTION:https://cal.red/?event=5752\nCost: $10-15
 LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260802T000000Z
+DTEND:20260802T010000Z
+DTSTAMP:20260802T000000Z
+UID:event:5610:2026-08-01T20:00:00
+DESCRIPTION:https://cal.red/?event=5610\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Thunder: Toody Cole (of Dead Moon) & Her Band
