@@ -21,88 +21,12 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Crown Heights Literacy Zone Information Session
-DTSTART:20260716T210000Z
-DTEND:20260716T230000Z
-DESCRIPTION:Log on to Zoom to learn more about what the Crown Heights Lite
- racy Zone can offer you!\n\nhttps://www.bklynlibrary.org/node/833536
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20260716T213000Z
-DTEND:20260716T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819229
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260716T213000Z
-DTEND:20260716T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/828177
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My Ántonia - Book Discussion
-DTSTART:20260716T220000Z
-DTEND:20260716T230000Z
-DESCRIPTION:Please join us to discuss this classic of American Literature 
- about pioneer life on the Nebraska prairie at the end of the 19th century.
- \n\nhttps://www.bklynlibrary.org/node/825814
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260716T220000Z
-DTEND:20260716T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/830863
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Market Research Simplified! Researching Your Industry
-DTSTART:20260716T220000Z
-DTEND:20260716T233000Z
-DESCRIPTION:The Brooklyn Public Library's Business & Career Center invites
-  you to a webinar series designed to demystify market research and equip y
- ou with the foresight you'll need to identify opportunities\, mit\n\nhttps
- ://www.bklynlibrary.org/node/832262
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYS MWBE Program & Certification Workshop
 DTSTART:20260716T223000Z
 DTEND:20260716T000000Z
 DESCRIPTION:NYS MWBE Program & Certification Workshop\n\nhttps://www.bklyn
  library.org/node/805741
 LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:National External Diploma Program (NEDP) Info. Session
-DTSTART:20260716T223000Z
-DTEND:20260716T233000Z
-DESCRIPTION:Looking for a different way to earn your high school equivalen
- cy diploma? The National External Diploma Program could be right for you! 
- Earn your HSE diploma within 6-9 months! Must be able to dedicat\n\nhttps
- ://www.bklynlibrary.org/node/830319
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Art of Classics (Greek Tragedy)
-DTSTART:20260716T223000Z
-DTEND:20260716T233000Z
-DESCRIPTION:Please join us for The Art of Classics (Greek Tragedy) program
- \, on Thursday\, July 16\, from 6:30 PM - 7:30 PM\, in the Info Commons Co
- mputer Lab. We will discuss Antigone by Sophocles. Complete online e\n\nht
- tps://www.bklynlibrary.org/node/829956
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Movie: Suspicion (1941)
@@ -377,5 +301,78 @@ DTEND:20260720T214500Z
 DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
   class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/820470
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260720T220000Z
+DTEND:20260720T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/824877
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260721T133000Z
+DTEND:20260721T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/834276
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Community Hour
+DTSTART:20260721T163000Z
+DTEND:20260721T180000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/831256
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260721T170000Z
+DTEND:20260721T180000Z
+DESCRIPTION:Need help navigating one of your tech devices? Come join us an
+ d ask a variety of tech questions about your tech devices.\n\nhttps://www.
+ bklynlibrary.org/node/833770
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260721T180000Z
+DTEND:20260721T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828160
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Know Your Workers' Rights
+DTSTART:20260721T180000Z
+DTEND:20260721T190000Z
+DESCRIPTION:Join us for a presentation from New York City's Department of 
+ Consumer and Worker Rights!  Learn about what kind of treatment is and is
+ n't acceptable from your workplace.  We will also discuss how you\n\nhttp
+ s://www.bklynlibrary.org/node/826186
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260721T180000Z
+DTEND:20260721T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Brooklyn Heights L
+ ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
+ ps://www.bklynlibrary.org/node/831370
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online Intermediate English Class (We Speak NYC)
+DTSTART:20260721T180000Z
+DTEND:20260721T200000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/834576
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
