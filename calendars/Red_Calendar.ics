@@ -323,6 +323,16 @@ DESCRIPTION:https://cal.red/?event=5786\nCost: see link
 LOCATION:nowadays
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mi Lucha es Tu Lucha
+DTSTART:20260719T000000Z
+DTEND:20260719T010000Z
+DTSTAMP:20260719T000000Z
+UID:event:5793:2026-07-18T20:00:00
+DESCRIPTION:https://cal.red/?event=5793\nCost: Donation - no one turned aw
+ ay for lack of funds
+LOCATION:Starr Bar\, 214 Starr St\, Bushwick Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:ONE BEAUTIFUL NIGHT: RED is One Beautiful Night of enormous comedy
   at LIFE WORLD in historic New York State
 DTSTART:20260719T010000Z
@@ -684,6 +694,15 @@ DESCRIPTION:https://cal.red/?event=5747\nCost: probably 🌀 notaflof\, $2
  0 max
 LOCATION:@ skinny apartment (all ages)\, ridgewood\, queens –– email s
  kinnyapartment@aol.com for address
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crafting Solidarity: A Disabled QTBIPOC Pride Party!
+DTSTART:20260726T220000Z
+DTEND:20260726T230000Z
+DTSTAMP:20260726T220000Z
+UID:event:5794:2026-07-26T18:00:00
+DESCRIPTION:https://cal.red/?event=5794\nCost: $5-25
+LOCATION:Prime Produce\, 424 W 54th St (Hell's Kitchen)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Topos Readings!
