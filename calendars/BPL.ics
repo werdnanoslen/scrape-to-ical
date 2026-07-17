@@ -49,14 +49,6 @@ DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
 LOCATION:Pacific\, Basement Meeting Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Author Talk Web
-DTSTART:20260717T154500Z
-DTEND:20260717T161500Z
-DESCRIPTION:Author Talk: Join us for a conversation/panel/presentation/Q&A
- \n\nhttps://www.bklynlibrary.org/node/836028
-LOCATION:Central Library\, Info Commons\, Room 2
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260717T170000Z
 DTEND:20260717T190000Z
@@ -374,5 +366,13 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/827992
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260721T190000Z
+DTEND:20260721T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81701
+ 9
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR

@@ -71,21 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer First Discoveries
-DTSTART;VALUE=DATE:20260717T040000Z
-DTEND;VALUE=DATE:20260717T060000Z
-UID:Summer First Discoveries-2026-07-17 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | July 8–Augu
- st 14\, 2026 \n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plan
- t\, create a craft\, read a story\, and use your senses to explore nature 
- at activity stations designed for early learners up to 4 years old.Learn M
- ore›about Summer First Discoveries\n\nMore info:\nhttps://www.bbg.org/vi
- sit/event/first_discoveries_summer\n\n<img src="/img/uploads/hero/_list_th
- umbnail_regular/first-discoveries_MS_52895122449.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Family Discovery Weekends
 DTSTART;VALUE=DATE:20260718T040000Z
 DTEND;VALUE=DATE:20260718T060000Z
@@ -394,19 +379,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Jazz Night
-DTSTART;VALUE=DATE:20260729T040000Z
-DTEND;VALUE=DATE:20260729T060000Z
-UID:Members’ Jazz Night-2026-07-29 04:00:00+00:00
-DESCRIPTION:Wednesday\, July 29\, 2026 | 6–8:30 p.m.\n\nPack a picnic an
- d enjoy a special live performance on a lovely summer evening.Learn More
- ›about Members’ Jazz Night\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/members_jazz_night_B\n\n<img src="/img/uploads/manual/hero/_list_thumb
- nail_regular/brownstone-jazz_JW_54549482226.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members’ Summer Evenings
 DTSTART;VALUE=DATE:20260729T040000Z
 DTEND;VALUE=DATE:20260729T060000Z
@@ -416,6 +388,19 @@ DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
  about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
  event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
  thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Jazz Night
+DTSTART;VALUE=DATE:20260729T040000Z
+DTEND;VALUE=DATE:20260729T060000Z
+UID:Members’ Jazz Night-2026-07-29 04:00:00+00:00
+DESCRIPTION:Wednesday\, July 29\, 2026 | 6–8:30 p.m.\n\nPack a picnic an
+ d enjoy a special live performance on a lovely summer evening.Learn More
+ ›about Members’ Jazz Night\n\nMore info:\nhttps://www.bbg.org/visit/ev
+ ent/members_jazz_night_B\n\n<img src="/img/uploads/manual/hero/_list_thumb
+ nail_regular/brownstone-jazz_JW_54549482226.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
