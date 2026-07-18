@@ -21,17 +21,14 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/alternatives-to-ad
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Benefit Show: Royel Otis + Ax and the Hatchetmen
-DTSTART:20260718T233000Z
-DTEND:20260719T013000Z
-DTSTAMP:20260718T233000Z
-UID:Benefit Show: Royel Otis + Ax and the Hatchetmen-2026-07-18T23:30:00+0
- 0:00
-DESCRIPTION:Cost: See ticket page\nhttps://bricartsmedia.org/event/benefit
- -show-royel-otis-meet-me-in-the-car-tour/\nhttps://goo.gl/maps/SYiFoJRiWZJ
- KgKU59\n<img src="https://bricartsmedia.org/wp-content/uploads/2025/12/Roy
- el-Otis-JPG-1-200x200.jpg" alt="" />
-LOCATION:Lena Horne Bandshell
+SUMMARY:Ableton Move Certification
+DTSTART:20260718T180000Z
+DTEND:20260718T210000Z
+DTSTAMP:20260718T180000Z
+UID:Ableton Move Certification-2026-07-18T18:00:00+00:00
+DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
+ ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Radio Podcasting
@@ -44,14 +41,17 @@ DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/intro-to-radio
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ableton Move Certification
-DTSTART:20260718T180000Z
-DTEND:20260718T210000Z
-DTSTAMP:20260718T180000Z
-UID:Ableton Move Certification-2026-07-18T18:00:00+00:00
-DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
- ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
+SUMMARY:Benefit Show: Royel Otis + Ax and the Hatchetmen
+DTSTART:20260720T233000Z
+DTEND:20260721T013000Z
+DTSTAMP:20260720T233000Z
+UID:Benefit Show: Royel Otis + Ax and the Hatchetmen-2026-07-20T23:30:00+0
+ 0:00
+DESCRIPTION:Cost: See ticket page\nhttps://bricartsmedia.org/event/benefit
+ -show-royel-otis-meet-me-in-the-car-tour/\nhttps://goo.gl/maps/SYiFoJRiWZJ
+ KgKU59\n<img src="https://bricartsmedia.org/wp-content/uploads/2025/12/Roy
+ el-Otis-JPG-1-200x200.jpg" alt="" />
+LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TV Studio Intensive
@@ -136,20 +136,6 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/bric-x-seedspark-c
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York City Council Member Rita C. Joseph\, Vivid Group and BRIC
-  Present Konpa Se Nou
-DTSTART:20260724T220000Z
-DTEND:20260725T010000Z
-DTSTAMP:20260724T220000Z
-UID:New York City Council Member Rita C. Joseph\, Vivid Group and BRIC Pre
- sent Konpa Se Nou-2026-07-24T22:00:00+00:00
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/new-york-city-coun
- cil-member-rita-joseph-and-bric-present-konpa-se-nou/\nhttps://goo.gl/maps
- /vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org/wp-content/uploads
- /2026/06/BRIC_Konpa_Se_Nou_Graphic_16_9_V4-200x200.png" alt="" />
-LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jazz at the Bandshell: Cindy Blackman Santana Group + Patricia Bre
  nnan Septet + Lucía
 DTSTART:20260724T220000Z
@@ -162,6 +148,20 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/jazz-at-the-bandsh
  ia.org/wp-content/uploads/2026/04/CBS-Photo©Jimmy-Bruch-scaled-1-200x200.
  jpg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:New York City Council Member Rita C. Joseph\, Vivid Group and BRIC
+  Present Konpa Se Nou
+DTSTART:20260724T220000Z
+DTEND:20260725T010000Z
+DTSTAMP:20260724T220000Z
+UID:New York City Council Member Rita C. Joseph\, Vivid Group and BRIC Pre
+ sent Konpa Se Nou-2026-07-24T22:00:00+00:00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/new-york-city-coun
+ cil-member-rita-joseph-and-bric-present-konpa-se-nou/\nhttps://goo.gl/maps
+ /vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org/wp-content/uploads
+ /2026/06/BRIC_Konpa_Se_Nou_Graphic_16_9_V4-200x200.png" alt="" />
+LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Produce Remotely\, online
@@ -197,16 +197,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-digital-sto
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to DaVinci Resolve
-DTSTART:20260728T220000Z
-DTEND:20260729T010000Z
-DTSTAMP:20260728T220000Z
-UID:Intro to DaVinci Resolve-2026-07-28T22:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/intro-to-davin
- ci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Studio Podcasting
 DTSTART:20260728T170000Z
 DTEND:20260728T210000Z
@@ -214,6 +204,16 @@ DTSTAMP:20260728T170000Z
 UID:Studio Podcasting-2026-07-28T17:00:00+00:00
 DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
  ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to DaVinci Resolve
+DTSTART:20260728T220000Z
+DTEND:20260729T010000Z
+DTSTAMP:20260728T220000Z
+UID:Intro to DaVinci Resolve-2026-07-28T22:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/intro-to-davin
+ ci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -320,6 +320,22 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/how-to-edit-your-p
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:globalFEST at BRIC Celebrate Brooklyn! With DakhaBrakha\, Yeison L
+ andero\, Sally Baby's Silver Dollars\, and Sunju Park
+DTSTART:20260807T210000Z
+DTEND:20260808T020000Z
+DTSTAMP:20260807T210000Z
+UID:globalFEST at BRIC Celebrate Brooklyn! With DakhaBrakha\, Yeison Lande
+ ro\, Sally Baby's Silver Dollars\, and Sunju Park-2026-08-07T21:00:00+00:0
+ 0
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/globalfest-at-bric
+ -celebrate-brooklyn-with-dakhabrakha-yeison-landero-sally-babys-silver-dol
+ lars-and-sunju-park/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="htt
+ ps://bricartsmedia.org/wp-content/uploads/2026/04/DB22MartaSyrko-200x200.j
+ pg" alt="" />
+LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stop-Motion Animation Techniques\, online
 DTSTART:20260807T150000Z
 DTEND:20260807T170000Z
@@ -358,22 +374,6 @@ UID:Marketing Your Podcast\, online-2026-08-07T22:00:00+00:00
 DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/marketing-your-
  podcast/
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:globalFEST at BRIC Celebrate Brooklyn! With DakhaBrakha\, Yeison L
- andero\, Sally Baby's Silver Dollars\, and Sunju Park
-DTSTART:20260807T210000Z
-DTEND:20260808T020000Z
-DTSTAMP:20260807T210000Z
-UID:globalFEST at BRIC Celebrate Brooklyn! With DakhaBrakha\, Yeison Lande
- ro\, Sally Baby's Silver Dollars\, and Sunju Park-2026-08-07T21:00:00+00:0
- 0
-DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/globalfest-at-bric
- -celebrate-brooklyn-with-dakhabrakha-yeison-landero-sally-babys-silver-dol
- lars-and-sunju-park/\nhttps://goo.gl/maps/SYiFoJRiWZJKgKU59\n<img src="htt
- ps://bricartsmedia.org/wp-content/uploads/2026/04/DB22MartaSyrko-200x200.j
- pg" alt="" />
-LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fundamentals of Screenwriting\, online
@@ -439,6 +439,16 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Interviewing for Film & TV\, in-person
+DTSTART:20260814T220000Z
+DTEND:20260815T000000Z
+DTSTAMP:20260814T220000Z
+UID:Interviewing for Film & TV\, in-person-2026-08-14T22:00:00+00:00
+DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/interviewing-f
+ or-film-tv/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Lyricist Lounge 35th Anniversary
 DTSTART:20260814T220000Z
 DTEND:20260815T020000Z
@@ -451,13 +461,13 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/lyricist-lounge-35
 LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Interviewing for Film & TV\, in-person
-DTSTART:20260814T220000Z
-DTEND:20260815T000000Z
-DTSTAMP:20260814T220000Z
-UID:Interviewing for Film & TV\, in-person-2026-08-14T22:00:00+00:00
-DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/interviewing-f
- or-film-tv/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Color Grading with DaVinci Resolve
+DTSTART:20260815T180000Z
+DTEND:20260815T210000Z
+DTSTAMP:20260815T180000Z
+UID:Color Grading with DaVinci Resolve-2026-08-15T18:00:00+00:00
+DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/color-grading-
+ with-davinci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -469,16 +479,6 @@ UID:Make a Movie On Your Phone\, online-2026-08-15T15:00:00+00:00
 DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-movie-on-yo
  ur-phone/
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Color Grading with DaVinci Resolve
-DTSTART:20260815T180000Z
-DTEND:20260815T210000Z
-DTSTAMP:20260815T180000Z
-UID:Color Grading with DaVinci Resolve-2026-08-15T18:00:00+00:00
-DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/color-grading-
- with-davinci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Americana Night: Yola + Dom Flemons and the Traveling Wildfires + 
@@ -505,16 +505,6 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/motion-graphic
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Instagram for Small Business\, online
-DTSTART:20260817T180000Z
-DTEND:20260817T200000Z
-DTSTAMP:20260817T180000Z
-UID:Instagram for Small Business\, online-2026-08-17T18:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/instagram-for-smal
- l-businesses/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intermediate Premiere
 DTSTART:20260817T220000Z
 DTEND:20260818T010000Z
@@ -525,13 +515,23 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/intermediate-p
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mini Studio Production
+SUMMARY:Instagram for Small Business\, online
+DTSTART:20260817T180000Z
+DTEND:20260817T200000Z
+DTSTAMP:20260817T180000Z
+UID:Instagram for Small Business\, online-2026-08-17T18:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/instagram-for-smal
+ l-businesses/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
 DTSTART:20260818T220000Z
 DTEND:20260819T010000Z
 DTSTAMP:20260818T220000Z
-UID:Mini Studio Production-2026-08-18T22:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
- oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+UID:Video Production in the Field-2026-08-18T22:00:00+00:00
+DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
+ on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR

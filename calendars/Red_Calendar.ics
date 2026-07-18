@@ -589,6 +589,15 @@ DESCRIPTION:https://cal.red/?event=5698\nCost: 0
 LOCATION:Recess Brooklyn\, NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Evidence of Liberation: Abolition Community Day
+DTSTART:20260725T160000Z
+DTEND:20260725T170000Z
+DTSTAMP:20260725T160000Z
+UID:event:5795:2026-07-25T12:00:00
+DESCRIPTION:https://cal.red/?event=5795\nCost: Free
+LOCATION:Recess | Clinton Hill\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:destruction junket presents: MindSwap #5 (w)holesums
 DTSTART:20260725T190000Z
 DTEND:20260725T200000Z
