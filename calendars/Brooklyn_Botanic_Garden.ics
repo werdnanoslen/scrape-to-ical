@@ -71,22 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cultivating the Carnivorous Plants of New York
-DTSTART;VALUE=DATE:20260718T040000Z
-DTEND;VALUE=DATE:20260718T060000Z
-UID:Cultivating the Carnivorous Plants of New York-2026-07-18 04:00:00+00:
- 00
-DESCRIPTION:Saturday\, July 18\, 2026 | 12:30–3:30 p.m\n					\n\n\n					
- \n						\n							| Preregistration Required\n\nLearn cultivation technique
- s and relevant ecology for these species and pot up your own New York carn
- ivore to take home.Learn More›about Cultivating the Carnivorous Plants o
- f New York\n\nMore info:\nhttps://www.bbg.org/classes/cultivating_the_carn
- ivorous_plants_of_new_york\n\n<img src="/img/uploads/hero/_list_thumbnail_
- regular/Droserafiliformis-49502795741-WL.JPG" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Family Discovery Weekends
 DTSTART;VALUE=DATE:20260719T040000Z
 DTEND;VALUE=DATE:20260719T060000Z
@@ -203,19 +187,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jazz in July
-DTSTART;VALUE=DATE:20260723T040000Z
-DTEND;VALUE=DATE:20260723T060000Z
-UID:Jazz in July-2026-07-23 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
- at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
-  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
- jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
- n-july_MS_53062447173.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disability Pride Month Art-Making Program
 DTSTART;VALUE=DATE:20260723T040000Z
 DTEND;VALUE=DATE:20260723T060000Z
@@ -226,6 +197,19 @@ DESCRIPTION:Thursday\, July 23\, 2026 | 6–7 p.m.\n\nJoin Disability Prid
  Pride Month Art-Making Program\n\nMore info:\nhttps://www.bbg.org/visit/ev
  ent/disability_pride_month_art_making_program\n\n<img src="/img/uploads/he
  ro/_list_thumbnail_regular/Annie-Lakshmee-Hands-Pins.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz in July
+DTSTART;VALUE=DATE:20260723T040000Z
+DTEND;VALUE=DATE:20260723T060000Z
+UID:Jazz in July-2026-07-23 04:00:00+00:00
+DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
+ at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
+  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
+ jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
+ n-july_MS_53062447173.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
