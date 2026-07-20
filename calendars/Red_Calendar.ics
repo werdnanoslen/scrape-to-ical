@@ -11,65 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:Foraging Walk with Wildman Steve
-DTSTART:20260719T150000Z
-DTEND:20260719T160000Z
-DTSTAMP:20260719T150000Z
-UID:event:5682:2026-07-19T11:00:00
-DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for 
- adults\, $15 for kids under 12.
-LOCATION:Various NYC locations\, see the sign up sheet linked!
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Open Day for Co-op and Condo Homeowners\, Friends\, and Supporters
-DTSTART:20260719T153000Z
-DTEND:20260719T163000Z
-DTSTAMP:20260719T153000Z
-UID:event:5658:2026-07-19T11:30:00
-DESCRIPTION:https://cal.red/?event=5658\nCost: free
-LOCATION:Commonpoint\, 67-09 108th St.\, Forest Hills\, NY 11375 -- Queens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WISE revolutions mini-fest\, night #2/2: rocío sánchez\, AC Diam
- ond\, Julia Santoli\, Sadie Powers\, Laura Feathers\, Ana Roman (screening
- )\, Camilla Padgitt-Coles (visuals)
-DTSTART:20260719T210000Z
-DTEND:20260719T220000Z
-DTSTAMP:20260719T210000Z
-UID:event:5738:2026-07-19T17:00:00
-DESCRIPTION:https://cal.red/?event=5738\nCost: $20+
-LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
- s
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MIDDLE SUMMER NOISE COMEDY FESTIVAL
-DTSTART:20260719T220000Z
-DTEND:20260719T230000Z
-DTSTAMP:20260719T220000Z
-UID:event:5781:2026-07-19T18:00:00
-DESCRIPTION:https://cal.red/?event=5781\nCost: 0
-LOCATION:LIFE WORLD
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Verse4Verse
-DTSTART:20260719T223000Z
-DTEND:20260719T233000Z
-DTSTAMP:20260719T223000Z
-UID:event:5664:2026-07-19T18:30:00
-DESCRIPTION:https://cal.red/?event=5664\nCost: suggested donation
-LOCATION:DADA\, 60-47 Myrtle Ave Ridgewood NY 11385
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Artifact – An Experimental Music Series
-DTSTART:20260719T233000Z
-DTEND:20260720T003000Z
-DTSTAMP:20260719T233000Z
-UID:event:5666:2026-07-19T19:30:00
-DESCRIPTION:https://cal.red/?event=5666\n251 Bushwick Avenue\nEast William
- sburg\, Brooklyn\, New York 11206\nCost: $15 – $20
-LOCATION:Sleepwalk
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Paul Chan on "Content"
 DTSTART:20260720T223000Z
 DTEND:20260720T233000Z
@@ -138,15 +79,6 @@ DESCRIPTION:https://cal.red/?event=5726\nCost: $35-55
 LOCATION:Bedstuy\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chase Elodia\, Mohit Lauer\, Elise Petersen
-DTSTART:20260722T000000Z
-DTEND:20260722T010000Z
-DTSTAMP:20260722T000000Z
-UID:event:5743:2026-07-21T20:00:00
-DESCRIPTION:https://cal.red/?event=5743\nCost: $20 max
-LOCATION:@ threes brewing (21+)\, 333 douglass st.\, gowanus\, bklyn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Entelechy: Timothy Rusterholz\, Altimetry\, Kwami\, Ashcan Orchest
  ra\, Junkyard\, The Beak Trio
 DTSTART:20260722T000000Z
@@ -155,6 +87,15 @@ DTSTAMP:20260722T000000Z
 UID:event:5774:2026-07-21T20:00:00
 DESCRIPTION:https://cal.red/?event=5774\nCost: $15
 LOCATION:@ hart bar (21+)\, 538 hart st.\, bushwick\, bklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chase Elodia\, Mohit Lauer\, Elise Petersen
+DTSTART:20260722T000000Z
+DTEND:20260722T010000Z
+DTSTAMP:20260722T000000Z
+UID:event:5743:2026-07-21T20:00:00
+DESCRIPTION:https://cal.red/?event=5743\nCost: $20 max
+LOCATION:@ threes brewing (21+)\, 333 douglass st.\, gowanus\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chthonic Streams Presents: Each Night I Dream Of Razors\, Corpse D
@@ -219,6 +160,15 @@ LOCATION:@ p.i.t. (property is theft) (all ages)\, 411 s. 5th\, los sures
  / williamsburg\, bklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2026 Summer Feminist Film Series: Norita
+DTSTART:20260724T230000Z
+DTEND:20260725T000000Z
+DTSTAMP:20260724T230000Z
+UID:event:5779:2026-07-24T19:00:00
+DESCRIPTION:https://cal.red/?event=5779\nCost: $10 Suggested Donation
+LOCATION:Haven Plaza\, 711W 168th St NYC 10032
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Farnoosh Fathi\, Thom Eichelberger-Young\, Jesse Seldess
 DTSTART:20260724T230000Z
 DTEND:20260725T000000Z
@@ -227,15 +177,6 @@ UID:event:5617:2026-07-24T19:00:00
 DESCRIPTION:https://cal.red/?event=5617\n257 Nassau Ave\nBrooklyn\, NY 112
  22\nGreenpoint\nCost: Free
 LOCATION:Sunview Acropolis
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2026 Summer Feminist Film Series: Norita
-DTSTART:20260724T230000Z
-DTEND:20260725T000000Z
-DTSTAMP:20260724T230000Z
-UID:event:5779:2026-07-24T19:00:00
-DESCRIPTION:https://cal.red/?event=5779\nCost: $10 Suggested Donation
-LOCATION:Haven Plaza\, 711W 168th St NYC 10032
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foraging Walk with Wildman Steve
@@ -304,13 +245,14 @@ DESCRIPTION:https://cal.red/?event=5785\nCost: 0
 LOCATION:Black Spring Books
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:signal
+SUMMARY:Are you a BOY or a MAN? 🙇🏻‍♂️? 💪? MIKE MIKEDIABLO 
+ TEACHES YOU! HOW TO BE A REAL MAN!
 DTSTART:20260725T233000Z
 DTEND:20260726T003000Z
 DTSTAMP:20260725T233000Z
-UID:event:5770:2026-07-25T19:30:00
-DESCRIPTION:https://cal.red/?event=5770\nCost: 15
-LOCATION:secret location in bedstuy
+UID:event:5782:2026-07-25T19:30:00
+DESCRIPTION:https://cal.red/?event=5782\nCost: 16.50
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:((AERO))
@@ -322,14 +264,13 @@ DESCRIPTION:https://cal.red/?event=5757\nCost: $15
 LOCATION:secret location in bedstuy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Are you a BOY or a MAN? 🙇🏻‍♂️? 💪? MIKE MIKEDIABLO 
- TEACHES YOU! HOW TO BE A REAL MAN!
+SUMMARY:signal
 DTSTART:20260725T233000Z
 DTEND:20260726T003000Z
 DTSTAMP:20260725T233000Z
-UID:event:5782:2026-07-25T19:30:00
-DESCRIPTION:https://cal.red/?event=5782\nCost: 16.50
-LOCATION:
+UID:event:5770:2026-07-25T19:30:00
+DESCRIPTION:https://cal.red/?event=5770\nCost: 15
+LOCATION:secret location in bedstuy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sync & Sequence
@@ -536,6 +477,16 @@ DESCRIPTION:https://cal.red/?event=5755\nCost: $19
 LOCATION:@ union pool (21+)\, 484 union ave\, williamsburg\, bklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:No Lights No Lycra (NLNL)
+DTSTART:20260805T230000Z
+DTEND:20260806T000000Z
+DTSTAMP:20260805T230000Z
+UID:event:5560:2026-08-05T19:00:00
+DESCRIPTION:https://cal.red/?event=5560\nHell's Kitchen\nCost: PWYCA (sugg
+ ested $15)
+LOCATION:Prime Produce\, 424 W 54th St
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beautiful Days Press/"Not Guilty" chapbook release: Jeremy Hoevena
  ar\, Jordana Carlin\, Thom Donovan\, Jacqueline Waters
 DTSTART:20260805T230000Z
@@ -545,16 +496,6 @@ UID:event:5776:2026-08-05T19:00:00
 DESCRIPTION:https://cal.red/?event=5776\n257 Nassau Ave\nBrooklyn\, NY 112
  22\nGreenpoint\nCost: Free
 LOCATION:Sunview Acropolis
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:No Lights No Lycra (NLNL)
-DTSTART:20260805T230000Z
-DTEND:20260806T000000Z
-DTSTAMP:20260805T230000Z
-UID:event:5560:2026-08-05T19:00:00
-DESCRIPTION:https://cal.red/?event=5560\nHell's Kitchen\nCost: PWYCA (sugg
- ested $15)
-LOCATION:Prime Produce\, 424 W 54th St
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Exhibition: Itinerant Signal Institute (Rite of Spring)
@@ -612,15 +553,6 @@ DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
 LOCATION:Park Slope
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belladonna* Summer Writing Spirals
-DTSTART:20260811T230000Z
-DTEND:20260812T000000Z
-DTSTAMP:20260811T230000Z
-UID:event:5553:2026-08-11T19:00:00
-DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
-LOCATION:925 Bergen St #405\, Crown Heights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PORNOCRACY (reading group)
 DTSTART:20260811T230000Z
 DTEND:20260812T000000Z
@@ -628,6 +560,15 @@ DTSTAMP:20260811T230000Z
 UID:event:5651:2026-08-11T19:00:00
 DESCRIPTION:https://cal.red/?event=5651\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belladonna* Summer Writing Spirals
+DTSTART:20260811T230000Z
+DTEND:20260812T000000Z
+DTSTAMP:20260811T230000Z
+UID:event:5553:2026-08-11T19:00:00
+DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
+LOCATION:925 Bergen St #405\, Crown Heights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evidence of Becoming
