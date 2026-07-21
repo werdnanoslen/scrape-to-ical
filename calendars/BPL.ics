@@ -11,34 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume Hours
-DTSTART:20260721T210000Z
-DTEND:20260721T230000Z
-DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
- ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
- brary.org/node/826880
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
-DTSTART:20260721T220000Z
-DTEND:20260721T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/826250
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group - Brooklyn Heights
-DTSTART:20260721T220000Z
-DTEND:20260721T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/829364
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Citizenship Class
 DTSTART:20260721T220000Z
 DTEND:20260721T000000Z
@@ -54,25 +26,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/834569
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stopping Cybercrime: Scams\, Identity Theft\, and Financial Fraud
-DTSTART:20260721T223000Z
-DTEND:20260721T233000Z
-DESCRIPTION:Join us for a JARGON-FREE overview of cybersecurity essentials
- \, presented by expert Adam Brokaw.This talk will cover a variety of topic
- s\, including: How to recognize text and email scams and avoid get\n\nht
- tps://www.bklynlibrary.org/node/830432
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Adult Book Club: Their Eyes Were Watching God by Zora Neale Hursto
- n
-DTSTART:20260721T223000Z
-DTEND:20260721T233000Z
-DESCRIPTION:Join us this month to discuss Zora Neale Hurston's Their Eyes 
- Were Watching God.\n\nhttps://www.bklynlibrary.org/node/834221
-LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Multilingual Business Help
@@ -377,5 +330,52 @@ DESCRIPTION:Join us with Black Girl Smile to provide information on their
  l health\, caregiving strategies\, culturally responsive education\n\nhttp
  s://www.bklynlibrary.org/node/830910
 LOCATION:Crown Heights\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Assistive Tech Help For Your Job Search with Chancey and Simon
+DTSTART:20260723T173000Z
+DTEND:20260723T230000Z
+DESCRIPTION:Join Chancey Fleet and Simon Isakov from the Andrew Heiskell B
+ raille and Talking Book Library for an assistive technology job search cli
+ nic at BPL Central Library! Chancey and Simon will work with pat\n\nhttps:
+ //www.bklynlibrary.org/node/836044
+LOCATION:Central Library\, Info Commons\, Room 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260723T180000Z
+DTEND:20260723T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833505
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260723T183000Z
+DTEND:20260723T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/833520
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:French Conversation Group
+DTSTART:20260723T190000Z
+DTEND:20260723T200000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. This group is for high intermediate speake
+ rs.\n\nhttps://www.bklynlibrary.org/node/816521
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260723T200000Z
+DTEND:20260723T000000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828069
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
