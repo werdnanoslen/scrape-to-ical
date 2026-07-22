@@ -22,16 +22,6 @@ LOCATION:@ fringe records (all ages)\, 6-56 woodward ave\, ridgewood\, que
  ens
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:dance practice (a dancefloor meditation)
-DTSTART:20260722T233000Z
-DTEND:20260723T003000Z
-DTSTAMP:20260722T233000Z
-UID:event:5637:2026-07-22T19:30:00
-DESCRIPTION:https://cal.red/?event=5637\nCost: $15+
-LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
- ket for address
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Music @ The Record Shop
 DTSTART:20260722T233000Z
 DTEND:20260723T003000Z
@@ -41,6 +31,16 @@ DESCRIPTION:https://cal.red/?event=5736\nCost: usually 🌀 notaflof\, max
   $20 recommended
 LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
  yn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:dance practice (a dancefloor meditation)
+DTSTART:20260722T233000Z
+DTEND:20260723T003000Z
+DTSTAMP:20260722T233000Z
+UID:event:5637:2026-07-22T19:30:00
+DESCRIPTION:https://cal.red/?event=5637\nCost: $15+
+LOCATION:@ light & sound design (all ages)\, greenpoint\, bklyn –– tic
+ ket for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Join BetaNYC and the Office of Council Member Eric Dinowitz for Ma
@@ -130,15 +130,6 @@ LOCATION:@ p.i.t. (property is theft) (all ages)\, 411 s. 5th\, los sures
  / williamsburg\, bklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:2026 Summer Feminist Film Series: Norita
-DTSTART:20260724T230000Z
-DTEND:20260725T000000Z
-DTSTAMP:20260724T230000Z
-UID:event:5779:2026-07-24T19:00:00
-DESCRIPTION:https://cal.red/?event=5779\nCost: $10 Suggested Donation
-LOCATION:Haven Plaza\, 711W 168th St NYC 10032
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Farnoosh Fathi\, Thom Eichelberger-Young\, Jesse Seldess
 DTSTART:20260724T230000Z
 DTEND:20260725T000000Z
@@ -147,6 +138,15 @@ UID:event:5617:2026-07-24T19:00:00
 DESCRIPTION:https://cal.red/?event=5617\n257 Nassau Ave\nBrooklyn\, NY 112
  22\nGreenpoint\nCost: Free
 LOCATION:Sunview Acropolis
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2026 Summer Feminist Film Series: Norita
+DTSTART:20260724T230000Z
+DTEND:20260725T000000Z
+DTSTAMP:20260724T230000Z
+UID:event:5779:2026-07-24T19:00:00
+DESCRIPTION:https://cal.red/?event=5779\nCost: $10 Suggested Donation
+LOCATION:Haven Plaza\, 711W 168th St NYC 10032
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foraging Walk with Wildman Steve
@@ -312,6 +312,15 @@ DESCRIPTION:https://cal.red/?event=5695\nAll events are at Topos Too ~ 592
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club Wonder
+DTSTART:20260727T230000Z
+DTEND:20260728T000000Z
+DTSTAMP:20260727T230000Z
+UID:event:5821:2026-07-27T19:00:00
+DESCRIPTION:https://cal.red/?event=5821\nCost: free
+LOCATION:Seventh Heaven Bar\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hans Tammen presents Loose Talk #6: Cometa Negra (Matt Belen\, Pet
  er Carlovich\, Jack Lynch)\, Shardik (Matt Hollenberg\, Sana Nagano\, Nick
   Jost\, Danny Sher)\, & more
@@ -359,15 +368,6 @@ DESCRIPTION:https://cal.red/?event=5750\nCost: $14
 LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Analog Zine Open Studio
-DTSTART:20260730T220000Z
-DTEND:20260730T230000Z
-DTSTAMP:20260730T220000Z
-UID:event:5816:2026-07-30T18:00:00
-DESCRIPTION:https://cal.red/?event=5816\nCost: Free
-LOCATION:Ugly Duckling Presse in Gowanus
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Studio: Hand-making Zines
 DTSTART:20260730T220000Z
 DTEND:20260730T230000Z
@@ -378,13 +378,23 @@ DESCRIPTION:https://cal.red/?event=5811\n232 3rd St #E-303\nGowanus\, Broo
 LOCATION:Ugly Duckling Presse Studio
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belladonna* Summer Writing Spirals
-DTSTART:20260730T230000Z
-DTEND:20260731T000000Z
-DTSTAMP:20260730T230000Z
-UID:event:5553:2026-07-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
-LOCATION:925 Bergen St #405\, Crown Heights
+SUMMARY:Analog Zine Open Studio
+DTSTART:20260730T220000Z
+DTEND:20260730T230000Z
+DTSTAMP:20260730T220000Z
+UID:event:5816:2026-07-30T18:00:00
+DESCRIPTION:https://cal.red/?event=5816\nCost: Free
+LOCATION:Ugly Duckling Presse in Gowanus
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MoMI Listening Series: Randall Poster & Lenny Kaye Explore Neil Yo
+ ung’s “On the Beach”
+DTSTART:20260730T223000Z
+DTEND:20260730T233000Z
+DTSTAMP:20260730T223000Z
+UID:event:5820:2026-07-30T18:30:00
+DESCRIPTION:https://cal.red/?event=5820\nCost: FREE
+LOCATION:Museum of the Moving Image\, Astoria\, Queens\, NYC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weeping Icon\, Female Genius\, Reg Bloor
@@ -395,6 +405,15 @@ UID:event:5751:2026-07-30T19:00:00
 DESCRIPTION:https://cal.red/?event=5751\nCost: 🌀 notaflof
 LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
  – outdoors in backyard!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Belladonna* Summer Writing Spirals
+DTSTART:20260730T230000Z
+DTEND:20260731T000000Z
+DTSTAMP:20260730T230000Z
+UID:event:5553:2026-07-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
+LOCATION:925 Bergen St #405\, Crown Heights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DIY FILM FEST East Coast Season 4 LAUNCH
@@ -445,16 +464,6 @@ DESCRIPTION:https://cal.red/?event=5707\nCost: Free (suggested donation of
 LOCATION:Herbert von King Park (Northeastern Corner)\, Bed-Stuy\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Loove Avant-Kirtan ft. Charlie Burnham
-DTSTART:20260802T000000Z
-DTEND:20260802T010000Z
-DTSTAMP:20260802T000000Z
-UID:event:5800:2026-08-01T20:00:00
-DESCRIPTION:https://cal.red/?event=5800\nWilliamsburg\, Brooklyn NY\nCost:
-  $20
-LOCATION:238 N 12th St
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:
 DTSTART:20260802T000000Z
 DTEND:20260802T010000Z
@@ -473,6 +482,16 @@ UID:event:5752:2026-08-01T20:00:00
 DESCRIPTION:https://cal.red/?event=5752\nCost: $10-15
 LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Loove Avant-Kirtan ft. Charlie Burnham
+DTSTART:20260802T000000Z
+DTEND:20260802T010000Z
+DTSTAMP:20260802T000000Z
+UID:event:5800:2026-08-01T20:00:00
+DESCRIPTION:https://cal.red/?event=5800\nWilliamsburg\, Brooklyn NY\nCost:
+  $20
+LOCATION:238 N 12th St
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Thunder: Toody Cole (of Dead Moon) & Her Band
@@ -544,15 +563,6 @@ DESCRIPTION:https://cal.red/?event=5775\nLong Island City\, NY\nCost: Free
 LOCATION:Flux IV\, 56-21 2nd Street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Expressions of Becoming: Assembly Performance Day
-DTSTART:20260808T190000Z
-DTEND:20260808T200000Z
-DTSTAMP:20260808T190000Z
-UID:event:5798:2026-08-08T15:00:00
-DESCRIPTION:https://cal.red/?event=5798\nCost: Free
-LOCATION:Recess | Clinton Hill\, Brooklyn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Evidence of Becoming
 DTSTART:20260808T190000Z
 DTEND:20260808T200000Z
@@ -560,6 +570,15 @@ DTSTAMP:20260808T190000Z
 UID:event:5698:2026-08-08T15:00:00
 DESCRIPTION:https://cal.red/?event=5698\nCost: 0
 LOCATION:Recess Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Expressions of Becoming: Assembly Performance Day
+DTSTART:20260808T190000Z
+DTEND:20260808T200000Z
+DTSTAMP:20260808T190000Z
+UID:event:5798:2026-08-08T15:00:00
+DESCRIPTION:https://cal.red/?event=5798\nCost: Free
+LOCATION:Recess | Clinton Hill\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HTML Day
@@ -571,6 +590,15 @@ DESCRIPTION:https://cal.red/?event=5548\nCost: Free
 LOCATION:Valentino Junior Park [Red Hook]
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260809T000000Z
+DTEND:20260809T010000Z
+DTSTAMP:20260809T000000Z
+UID:event:5610:2026-08-08T20:00:00
+DESCRIPTION:https://cal.red/?event=5610\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Experimental Punk in Midtown Manhattan / Ceol Cosmaí
 DTSTART:20260809T000000Z
 DTEND:20260809T010000Z
@@ -579,15 +607,6 @@ UID:event:5802:2026-08-08T20:00:00
 DESCRIPTION:https://cal.red/?event=5802\n140 E 27th St\, New York\, NY 100
  16\nCost: 10
 LOCATION:Ernie O’Malleys (Manhattan)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260809T000000Z
-DTEND:20260809T010000Z
-DTSTAMP:20260809T000000Z
-UID:event:5610:2026-08-08T20:00:00
-DESCRIPTION:https://cal.red/?event=5610\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:free clinic
