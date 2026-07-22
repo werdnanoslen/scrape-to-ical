@@ -60,6 +60,18 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/produce-remotely/
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:BRIC Presents: Afro-Latino Festival NYC 2026
+DTSTART:20260725T180000Z
+DTEND:20260726T010000Z
+DTSTAMP:20260725T180000Z
+UID:BRIC Presents: Afro-Latino Festival NYC 2026-2026-07-25T18:00:00+00:00
+DESCRIPTION:Cost: $45-$155\nhttps://bricartsmedia.org/event/bric-presents-
+ afro-latino-festival-nyc-2026/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<im
+ g src="https://bricartsmedia.org/wp-content/uploads/2026/07/1S4A1943-Amilc
+ ar-Priestley-200x200.jpg" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New York City Council Member Chi Ossé Presents: BRIC Celebrate Br
  ooklyn! at Brower Park
 DTSTART:20260725T170000Z
@@ -147,16 +159,6 @@ DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mobile Phone Photography \, online
-DTSTART:20260804T180000Z
-DTEND:20260804T200000Z
-DTSTAMP:20260804T180000Z
-UID:Mobile Phone Photography \, online-2026-08-04T18:00:00+00:00
-DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/mobile-phone-p
- hotography/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lightroom Essentials
 DTSTART:20260804T180000Z
 DTEND:20260804T200000Z
@@ -165,6 +167,16 @@ UID:Lightroom Essentials-2026-08-04T18:00:00+00:00
 DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/lightroom-esse
  ntials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobile Phone Photography \, online
+DTSTART:20260804T180000Z
+DTEND:20260804T200000Z
+DTSTAMP:20260804T180000Z
+UID:Mobile Phone Photography \, online-2026-08-04T18:00:00+00:00
+DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/mobile-phone-p
+ hotography/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Digital Photography\, online
@@ -285,6 +297,16 @@ DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/fundamentals-o
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ableton Live Essentials
+DTSTART:20260810T220000Z
+DTEND:20260811T010000Z
+DTSTAMP:20260810T220000Z
+UID:Ableton Live Essentials-2026-08-10T22:00:00+00:00
+DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
+ ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Teen Filmmaking Bootcamp cycle 8 (Summer Intensive 2026)
 DTSTART:20260810T150000Z
 DTEND:20260810T180000Z
@@ -294,16 +316,6 @@ UID:Teen Filmmaking Bootcamp cycle 8 (Summer Intensive 2026)-2026-08-10T15
 DESCRIPTION:Cost: free / application \nhttps://bricartsmedia.org/class/tee
  n-filmmaking-bootcamp-cycle-8-summer-intensive-2026/\nhttps://goo.gl/maps/
  vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ableton Live Essentials
-DTSTART:20260810T220000Z
-DTEND:20260811T010000Z
-DTSTAMP:20260810T220000Z
-UID:Ableton Live Essentials-2026-08-10T22:00:00+00:00
-DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
- ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -423,20 +435,20 @@ LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
-DTSTART:20260818T180000Z
-DTEND:20260818T210000Z
-DTSTAMP:20260818T180000Z
-UID:Video Production in the Field-2026-08-18T18:00:00+00:00
+DTSTART:20260818T220000Z
+DTEND:20260819T010000Z
+DTSTAMP:20260818T220000Z
+UID:Video Production in the Field-2026-08-18T22:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
  on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
-DTSTART:20260818T220000Z
-DTEND:20260819T010000Z
-DTSTAMP:20260818T220000Z
-UID:Video Production in the Field-2026-08-18T22:00:00+00:00
+DTSTART:20260818T180000Z
+DTEND:20260818T210000Z
+DTSTAMP:20260818T180000Z
+UID:Video Production in the Field-2026-08-18T18:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
  on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
