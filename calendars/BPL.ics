@@ -21,22 +21,6 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260722T140000Z
-DTEND:20260722T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812241
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260722T140000Z
-DTEND:20260722T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
- 42
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260722T140000Z
 DTEND:20260722T210000Z
@@ -45,35 +29,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/833752
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask‑A‑Tech: One-on-One Technology Help
-DTSTART:20260722T150000Z
-DTEND:20260722T160000Z
-DESCRIPTION:Need assistance using your laptop\, smartphone\, or tablet?Hav
- e questions about Microsoft Word\, Excel\, PowerPoint\, or other computer 
- programs?Visit the Pacific Branch at 11:00 AM for personalized\, one-o\n\n
- https://www.bklynlibrary.org/node/834443
-LOCATION:Pacific\, Basement Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260722T150000Z
-DTEND:20260722T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library (2
- nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
- ps://www.bklynlibrary.org/node/813999
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260722T153000Z
-DTEND:20260722T163000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the Internet? No time to attend a formal class?\n\nht
- tps://www.bklynlibrary.org/node/818675
-LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
@@ -379,5 +334,55 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/819230
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20260723T213000Z
+DTEND:20260723T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828178
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20260723T220000Z
+DTEND:20260723T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/830864
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Top 5 Housing Topics You Should Know About: A Conversation with Co
+ mmissioner Leah Goodridge
+DTSTART:20260723T220000Z
+DTEND:20260723T230000Z
+DESCRIPTION:Leah Goodridge is a Commissioner on the NYC Planning Commissio
+ n\, which votes on zoning proposals. For this engaging talk\, she will dis
+ cuss five housing issues unfolding in New York City and nationally\n\nhttp
+ s://www.bklynlibrary.org/node/831466
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Market Research Simplified! Researching Your Competition
+DTSTART:20260723T220000Z
+DTEND:20260723T233000Z
+DESCRIPTION:The Brooklyn Public Library's Business & Career Center invites
+  you to a webinar series designed to demystify market research and equip y
+ ou with the foresight you'll need to identify opportunities\, mit\n\nhttps
+ ://www.bklynlibrary.org/node/832264
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260723T220000Z
+DTEND:20260723T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8359
+ 97
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
