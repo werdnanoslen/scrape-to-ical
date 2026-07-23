@@ -31,21 +31,21 @@ DESCRIPTION:https://cal.red/?event=5677\nCost: 0
 LOCATION:virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stop the War Machine
-DTSTART:20260723T210000Z
-DTEND:20260723T220000Z
-DTSTAMP:20260723T210000Z
-UID:event:5819:2026-07-23T17:00:00
-DESCRIPTION:https://cal.red/?event=5819\nCost: Free
-LOCATION:Brooklyn Navy Yard (Flushing and Vanderbilt)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DBNY Picket and Noise Demo
 DTSTART:20260723T210000Z
 DTEND:20260723T220000Z
 DTSTAMP:20260723T210000Z
 UID:event:5818:2026-07-23T17:00:00
 DESCRIPTION:https://cal.red/?event=5818\nCost: Free
+LOCATION:Brooklyn Navy Yard (Flushing and Vanderbilt)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop the War Machine
+DTSTART:20260723T210000Z
+DTEND:20260723T220000Z
+DTSTAMP:20260723T210000Z
+UID:event:5819:2026-07-23T17:00:00
+DESCRIPTION:https://cal.red/?event=5819\nCost: Free
 LOCATION:Brooklyn Navy Yard (Flushing and Vanderbilt)
 END:VEVENT
 BEGIN:VEVENT
@@ -136,15 +136,6 @@ DESCRIPTION:https://cal.red/?event=5682\nCost: Suggested donation $25 for
 LOCATION:Various NYC locations\, see the sign up sheet linked!
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Evidence of Becoming
-DTSTART:20260725T160000Z
-DTEND:20260725T170000Z
-DTSTAMP:20260725T160000Z
-UID:event:5698:2026-07-25T12:00:00
-DESCRIPTION:https://cal.red/?event=5698\nCost: 0
-LOCATION:Recess Brooklyn\, NY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Evidence of Liberation: Abolition Community Day
 DTSTART:20260725T160000Z
 DTEND:20260725T170000Z
@@ -152,6 +143,15 @@ DTSTAMP:20260725T160000Z
 UID:event:5795:2026-07-25T12:00:00
 DESCRIPTION:https://cal.red/?event=5795\nCost: Free
 LOCATION:Recess | Clinton Hill\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evidence of Becoming
+DTSTART:20260725T160000Z
+DTEND:20260725T170000Z
+DTSTAMP:20260725T160000Z
+UID:event:5698:2026-07-25T12:00:00
+DESCRIPTION:https://cal.red/?event=5698\nCost: 0
+LOCATION:Recess Brooklyn\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:destruction junket presents: MindSwap #5 (w)holesums
@@ -174,15 +174,6 @@ LOCATION:@ skinny apartment (all ages)\, ridgewood\, queens –– email s
  kinnyapartment@aol.com for address
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DOG DAY AFTERNOON (SCREENING)
-DTSTART:20260725T220000Z
-DTEND:20260725T230000Z
-DTSTAMP:20260725T220000Z
-UID:event:5806:2026-07-25T18:00:00
-DESCRIPTION:https://cal.red/?event=5806\nCost: 0
-LOCATION:SingleCut Beersmiths QNS
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:
 DTSTART:20260725T220000Z
 DTEND:20260725T230000Z
@@ -190,6 +181,15 @@ DTSTAMP:20260725T220000Z
 UID:event:5789:2026-07-25T18:00:00
 DESCRIPTION:https://cal.red/?event=5789\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DOG DAY AFTERNOON (SCREENING)
+DTSTART:20260725T220000Z
+DTEND:20260725T230000Z
+DTSTAMP:20260725T220000Z
+UID:event:5806:2026-07-25T18:00:00
+DESCRIPTION:https://cal.red/?event=5806\nCost: 0
+LOCATION:SingleCut Beersmiths QNS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:💋JULY 25💋another SINGLES MIXER
@@ -201,14 +201,13 @@ DESCRIPTION:https://cal.red/?event=5785\nCost: 0
 LOCATION:Black Spring Books
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Are you a BOY or a MAN? 🙇🏻‍♂️? 💪? MIKE MIKEDIABLO 
- TEACHES YOU! HOW TO BE A REAL MAN!
+SUMMARY:((AERO))
 DTSTART:20260725T233000Z
 DTEND:20260726T003000Z
 DTSTAMP:20260725T233000Z
-UID:event:5782:2026-07-25T19:30:00
-DESCRIPTION:https://cal.red/?event=5782\nCost: 16.50
-LOCATION:
+UID:event:5757:2026-07-25T19:30:00
+DESCRIPTION:https://cal.red/?event=5757\nCost: $15
+LOCATION:secret location in bedstuy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:signal
@@ -220,23 +219,14 @@ DESCRIPTION:https://cal.red/?event=5770\nCost: 15
 LOCATION:secret location in bedstuy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:((AERO))
+SUMMARY:Are you a BOY or a MAN? 🙇🏻‍♂️? 💪? MIKE MIKEDIABLO 
+ TEACHES YOU! HOW TO BE A REAL MAN!
 DTSTART:20260725T233000Z
 DTEND:20260726T003000Z
 DTSTAMP:20260725T233000Z
-UID:event:5757:2026-07-25T19:30:00
-DESCRIPTION:https://cal.red/?event=5757\nCost: $15
-LOCATION:secret location in bedstuy
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live at the Inn BYOB Variety Show
-DTSTART:20260726T000000Z
-DTEND:20260726T010000Z
-DTSTAMP:20260726T000000Z
-UID:event:5824:2026-07-25T20:00:00
-DESCRIPTION:https://cal.red/?event=5824\n\n169 West 4th Street\n\nNew York
- \, NY 10014 (West Village)\nCost: 20
-LOCATION:Music Inn World Instruments
+UID:event:5782:2026-07-25T19:30:00
+DESCRIPTION:https://cal.red/?event=5782\nCost: 16.50
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pataphysics 020
@@ -257,6 +247,16 @@ UID:event:5620:2026-07-25T20:00:00
 DESCRIPTION:https://cal.red/?event=5620\nCost: free
 LOCATION:The Brooklyn Brewery in Williamsburg\, 79 N 11th St\, Brooklyn\, 
  NY 11249
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Live at the Inn BYOB Variety Show
+DTSTART:20260726T000000Z
+DTEND:20260726T010000Z
+DTSTAMP:20260726T000000Z
+UID:event:5824:2026-07-25T20:00:00
+DESCRIPTION:https://cal.red/?event=5824\n\n169 West 4th Street\n\nNew York
+ \, NY 10014 (West Village)\nCost: 20
+LOCATION:Music Inn World Instruments
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Foraging Walk with Wildman Steve
@@ -299,6 +299,15 @@ DESCRIPTION:https://cal.red/?event=5695\nAll events are at Topos Too ~ 592
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Club Wonder
+DTSTART:20260727T230000Z
+DTEND:20260728T000000Z
+DTSTAMP:20260727T230000Z
+UID:event:5821:2026-07-27T19:00:00
+DESCRIPTION:https://cal.red/?event=5821\nCost: free
+LOCATION:Seventh Heaven Bar\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hans Tammen presents Loose Talk #6: Cometa Negra (Matt Belen\, Pet
  er Carlovich\, Jack Lynch)\, Shardik (Matt Hollenberg\, Sana Nagano\, Nick
   Jost\, Danny Sher)\, & more
@@ -310,13 +319,16 @@ DESCRIPTION:https://cal.red/?event=5748\nCost: $15
 LOCATION:@ main drag (all ages)\, 50 s. 1st st.\, williamsburg\, bklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Club Wonder
-DTSTART:20260727T230000Z
-DTEND:20260728T000000Z
-DTSTAMP:20260727T230000Z
-UID:event:5821:2026-07-27T19:00:00
-DESCRIPTION:https://cal.red/?event=5821\nCost: free
-LOCATION:Seventh Heaven Bar\, Brooklyn
+SUMMARY:The Conflict Lab: Because Conflict is The Cure
+DTSTART:20260728T230000Z
+DTEND:20260729T000000Z
+DTSTAMP:20260728T230000Z
+UID:event:5822:2026-07-28T19:00:00
+DESCRIPTION:https://cal.red/?event=5822\nThe grassy patch in the middle of
+  the park. You can contact 732.630.5520 for assistance. Sign up for our em
+ ails at www.abeautifulmess.org And feel free to join our WhatsApp Group Ch
+ at for Updates:  https://luma.com/48ge5sui\nCost: Sliding Scale\, 5-50$
+LOCATION:Tompkins Square Park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PORNOCRACY (reading group)
@@ -346,6 +358,15 @@ DESCRIPTION:https://cal.red/?event=5801\nCost: $15+
 LOCATION:light sound design. greenpoint\, bk. ticket for address
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260730T000000Z
+DTEND:20260730T010000Z
+DTSTAMP:20260730T000000Z
+UID:event:5840:2026-07-29T20:00:00
+DESCRIPTION:https://cal.red/?event=5840\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Waah\, Seraphine's Cleaver\, Misuser
 DTSTART:20260730T003000Z
 DTEND:20260730T013000Z
@@ -353,15 +374,6 @@ DTSTAMP:20260730T003000Z
 UID:event:5750:2026-07-29T20:30:00
 DESCRIPTION:https://cal.red/?event=5750\nCost: $14
 LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Analog Zine Open Studio
-DTSTART:20260730T220000Z
-DTEND:20260730T230000Z
-DTSTAMP:20260730T220000Z
-UID:event:5816:2026-07-30T18:00:00
-DESCRIPTION:https://cal.red/?event=5816\nCost: Free
-LOCATION:Ugly Duckling Presse in Gowanus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open Studio: Hand-making Zines
@@ -372,6 +384,15 @@ UID:event:5811:2026-07-30T18:00:00
 DESCRIPTION:https://cal.red/?event=5811\n232 3rd St #E-303\nGowanus\, Broo
  klyn\, NY 11215\nCost: $0\, RSVP required
 LOCATION:Ugly Duckling Presse Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analog Zine Open Studio
+DTSTART:20260730T220000Z
+DTEND:20260730T230000Z
+DTSTAMP:20260730T220000Z
+UID:event:5816:2026-07-30T18:00:00
+DESCRIPTION:https://cal.red/?event=5816\nCost: Free
+LOCATION:Ugly Duckling Presse in Gowanus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MoMI Listening Series: Randall Poster & Lenny Kaye Explore Neil Yo
@@ -460,16 +481,6 @@ DESCRIPTION:https://cal.red/?event=5707\nCost: Free (suggested donation of
 LOCATION:Herbert von King Park (Northeastern Corner)\, Bed-Stuy\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Loove Avant-Kirtan ft. Charlie Burnham
-DTSTART:20260802T000000Z
-DTEND:20260802T010000Z
-DTSTAMP:20260802T000000Z
-UID:event:5800:2026-08-01T20:00:00
-DESCRIPTION:https://cal.red/?event=5800\nWilliamsburg\, Brooklyn NY\nCost:
-  $20
-LOCATION:238 N 12th St
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:motion_correct (Album Release)\, Devin Music\, Sage Palm\, Lilian\
  , Juliasblade
 DTSTART:20260802T000000Z
@@ -479,6 +490,16 @@ UID:event:5752:2026-08-01T20:00:00
 DESCRIPTION:https://cal.red/?event=5752\nCost: $10-15
 LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Loove Avant-Kirtan ft. Charlie Burnham
+DTSTART:20260802T000000Z
+DTEND:20260802T010000Z
+DTSTAMP:20260802T000000Z
+UID:event:5800:2026-08-01T20:00:00
+DESCRIPTION:https://cal.red/?event=5800\nWilliamsburg\, Brooklyn NY\nCost:
+  $20
+LOCATION:238 N 12th St
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -529,6 +550,18 @@ DESCRIPTION:https://cal.red/?event=5815\n68-38 Forest Avenue\nStorefront B
 LOCATION:CASSETTE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Conflict Lab: Because Conflict is The Cure
+DTSTART:20260805T000000Z
+DTEND:20260805T010000Z
+DTSTAMP:20260805T000000Z
+UID:event:5822:2026-08-04T20:00:00
+DESCRIPTION:https://cal.red/?event=5822\nThe grassy patch in the middle of
+  the park. You can contact 732.630.5520 for assistance. Sign up for our em
+ ails at www.abeautifulmess.org And feel free to join our WhatsApp Group Ch
+ at for Updates:  https://luma.com/48ge5sui\nCost: Sliding Scale\, 5-50$
+LOCATION:Tompkins Square Park
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Beautiful Days Press/"Not Guilty" chapbook release: Jeremy Hoevena
  ar\, Jordana Carlin\, Thom Donovan\, Jacqueline Waters
 DTSTART:20260805T230000Z
@@ -550,6 +583,15 @@ DESCRIPTION:https://cal.red/?event=5560\nHell's Kitchen\nCost: PWYCA (sugg
 LOCATION:Prime Produce\, 424 W 54th St
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260806T000000Z
+DTEND:20260806T010000Z
+DTSTAMP:20260806T000000Z
+UID:event:5840:2026-08-05T20:00:00
+DESCRIPTION:https://cal.red/?event=5840\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Exhibition: Itinerant Signal Institute (Rite of Spring)
 DTSTART:20260806T220000Z
 DTEND:20260806T230000Z
@@ -557,6 +599,15 @@ DTSTAMP:20260806T220000Z
 UID:event:5775:2026-08-06T18:00:00
 DESCRIPTION:https://cal.red/?event=5775\nLong Island City\, NY\nCost: Free
 LOCATION:Flux IV\, 56-21 2nd Street
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260808T000000Z
+DTEND:20260808T010000Z
+DTSTAMP:20260808T000000Z
+UID:event:5840:2026-08-07T20:00:00
+DESCRIPTION:https://cal.red/?event=5840\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Expressions of Becoming: Assembly Performance Day
@@ -586,6 +637,15 @@ DESCRIPTION:https://cal.red/?event=5548\nCost: Free
 LOCATION:Valentino Junior Park [Red Hook]
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260809T000000Z
+DTEND:20260809T010000Z
+DTSTAMP:20260809T000000Z
+UID:event:5610:2026-08-08T20:00:00
+DESCRIPTION:https://cal.red/?event=5610\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Experimental Punk in Midtown Manhattan / Ceol Cosmaí
 DTSTART:20260809T000000Z
 DTEND:20260809T010000Z
@@ -594,15 +654,6 @@ UID:event:5802:2026-08-08T20:00:00
 DESCRIPTION:https://cal.red/?event=5802\n140 E 27th St\, New York\, NY 100
  16\nCost: 10
 LOCATION:Ernie O’Malleys (Manhattan)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260809T000000Z
-DTEND:20260809T010000Z
-DTSTAMP:20260809T000000Z
-UID:event:5610:2026-08-08T20:00:00
-DESCRIPTION:https://cal.red/?event=5610\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:free clinic
@@ -640,6 +691,18 @@ DTSTAMP:20260811T230000Z
 UID:event:5553:2026-08-11T19:00:00
 DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
 LOCATION:925 Bergen St #405\, Crown Heights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Conflict Lab: Because Conflict is The Cure
+DTSTART:20260812T000000Z
+DTEND:20260812T010000Z
+DTSTAMP:20260812T000000Z
+UID:event:5822:2026-08-11T20:00:00
+DESCRIPTION:https://cal.red/?event=5822\nThe grassy patch in the middle of
+  the park. You can contact 732.630.5520 for assistance. Sign up for our em
+ ails at www.abeautifulmess.org And feel free to join our WhatsApp Group Ch
+ at for Updates:  https://luma.com/48ge5sui\nCost: Sliding Scale\, 5-50$
+LOCATION:Tompkins Square Park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evidence of Becoming

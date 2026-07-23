@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260723T140000Z
-DTEND:20260723T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
- 54
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pace SBDC Business Counseling @ BPL
 DTSTART:20260723T140000Z
 DTEND:20260723T210000Z
@@ -30,26 +21,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Motion Graphics with After Effects
-DTSTART:20260723T143000Z
-DTEND:20260723T173000Z
-DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
- mic motion graphics and video effects compositing. This 4-part course cove
- rs the basics of the After Effects interface\, text and layer ani\n\nhttps
- ://www.bklynlibrary.org/node/828685
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Parenting with Purpose Workshop with Black Girl Smile
-DTSTART:20260723T170000Z
-DTEND:20260723T180000Z
-DESCRIPTION:Join us with Black Girl Smile to provide information on their 
- services and programs for mothers and families seeking assistance in menta
- l health\, caregiving strategies\, culturally responsive education\n\nhttp
- s://www.bklynlibrary.org/node/830910
-LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Assistive Tech Help For Your Job Search with Chancey and Simon
 DTSTART:20260723T173000Z
 DTEND:20260723T230000Z
@@ -58,24 +29,6 @@ DESCRIPTION:Join Chancey Fleet and Simon Isakov from the Andrew Heiskell B
  nic at BPL Central Library! Chancey and Simon will work with pat\n\nhttps:
  //www.bklynlibrary.org/node/836044
 LOCATION:Central Library\, Info Commons\, Room 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260723T180000Z
-DTEND:20260723T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/833505
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260723T183000Z
-DTEND:20260723T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/833520
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:French Conversation Group
@@ -385,5 +338,52 @@ DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
  ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
  brary.org/node/826860
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260727T160000Z
+DTEND:20260727T180000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828019
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20260727T170000Z
+DTEND:20260727T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/833858
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260727T180000Z
+DTEND:20260727T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/828111
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260727T190000Z
+DTEND:20260727T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /816845
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jigsaw Puzzle Hour
+DTSTART:20260727T190000Z
+DTEND:20260727T210000Z
+DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
+ variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
+ ://www.bklynlibrary.org/node/832052
+LOCATION:Brooklyn Heights Library\, Cranberry Meeting Room
 END:VEVENT
 END:VCALENDAR
