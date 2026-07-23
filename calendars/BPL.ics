@@ -31,15 +31,6 @@ DESCRIPTION:Join Chancey Fleet and Simon Isakov from the Andrew Heiskell B
 LOCATION:Central Library\, Info Commons\, Room 5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260723T190000Z
-DTEND:20260723T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/816521
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20260723T200000Z
 DTEND:20260723T000000Z
@@ -385,5 +376,15 @@ DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a
  variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
  ://www.bklynlibrary.org/node/832052
 LOCATION:Brooklyn Heights Library\, Cranberry Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20260727T200000Z
+DTEND:20260727T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/825135
+LOCATION:Park Slope\, Auditorium
 END:VEVENT
 END:VCALENDAR
