@@ -30,33 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260723T140000Z
-DTEND:20260723T160000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834601
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20260723T143000Z
-DTEND:20260723T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/815932
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260723T143000Z
-DTEND:20260723T163000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8285
- 06
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Motion Graphics with After Effects
 DTSTART:20260723T143000Z
 DTEND:20260723T173000Z
@@ -65,15 +38,6 @@ DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
  rs the basics of the After Effects interface\, text and layer ani\n\nhttps
  ://www.bklynlibrary.org/node/828685
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260723T143000Z
-DTEND:20260723T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/834764
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parenting with Purpose Workshop with Black Girl Smile
@@ -381,6 +345,45 @@ DTSTART:20260727T150000Z
 DTEND:20260727T170000Z
 DESCRIPTION:The library offers free English classes for beginners learning
   English.\n\nhttps://www.bklynlibrary.org/node/833822
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260727T150000Z
+DTEND:20260727T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/833748
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260727T150000Z
+DTEND:20260727T170000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/834584
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Scratch to Track: Music Production Essentials with Logic Pro 
+ - Day 1
+DTSTART:20260727T160000Z
+DTEND:20260727T200000Z
+DESCRIPTION:Ever wondered how a professional track goes from a simple idea
+  to a radio-ready sound? You don't need to be a trained musician or have a
+  studio full of expensive gear to start creating music. Join NYC\n\nhttps:
+ //www.bklynlibrary.org/node/826260
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume Hours
+DTSTART:20260727T160000Z
+DTEND:20260727T180000Z
+DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
+ ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
+ brary.org/node/826860
 LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
