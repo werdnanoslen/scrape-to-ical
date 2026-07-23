@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Assistive Tech Help For Your Job Search with Chancey and Simon
-DTSTART:20260723T173000Z
-DTEND:20260723T230000Z
-DESCRIPTION:Join Chancey Fleet and Simon Isakov from the Andrew Heiskell B
- raille and Talking Book Library for an assistive technology job search cli
- nic at BPL Central Library! Chancey and Simon will work with pat\n\nhttps:
- //www.bklynlibrary.org/node/836044
-LOCATION:Central Library\, Info Commons\, Room 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20260723T200000Z
 DTEND:20260723T000000Z
@@ -29,75 +19,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828069
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Resume Coaching
-DTSTART:20260723T213000Z
-DTEND:20260723T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/828178
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260723T213000Z
-DTEND:20260723T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/816700
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260723T213000Z
-DTEND:20260723T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819230
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260723T220000Z
-DTEND:20260723T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/830864
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Top 5 Housing Topics You Should Know About: A Conversation with Co
- mmissioner Leah Goodridge
-DTSTART:20260723T220000Z
-DTEND:20260723T230000Z
-DESCRIPTION:Leah Goodridge is a Commissioner on the NYC Planning Commissio
- n\, which votes on zoning proposals. For this engaging talk\, she will dis
- cuss five housing issues unfolding in New York City and nationally\n\nhttp
- s://www.bklynlibrary.org/node/831466
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Market Research Simplified! Researching Your Competition
-DTSTART:20260723T220000Z
-DTEND:20260723T233000Z
-DESCRIPTION:The Brooklyn Public Library's Business & Career Center invites
-  you to a webinar series designed to demystify market research and equip y
- ou with the foresight you'll need to identify opportunities\, mit\n\nhttps
- ://www.bklynlibrary.org/node/832264
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260723T220000Z
-DTEND:20260723T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8359
- 97
-LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Worker's Rights Workshop and Drop-In Legal Clinic with NYLAG
@@ -386,5 +307,83 @@ DESCRIPTION:Practice your English speaking and listening skills with other
   adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
  ps://www.bklynlibrary.org/node/824878
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Doing Business with the Federal Government A-Z | SBA Government Co
+ ntracting Series\, Part 1
+DTSTART:20260727T220000Z
+DTEND:20260727T233000Z
+DESCRIPTION:Ready to tap into a powerful new revenue stream for your Brook
+ lyn business? The Brooklyn Public Library's Business & Career Center has p
+ roudly teamed up with the U.S. Small Business Administration (SB\n\nhttps:
+ //www.bklynlibrary.org/node/829433
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQ+ Film Discussion Group
+DTSTART:20260727T223000Z
+DTEND:20260727T233000Z
+DESCRIPTION:Join us every last Monday for a monthly LGBTQ+ film discussion
+  group where we explore classic and contemporary queer cinema!\n\nhttps://
+ www.bklynlibrary.org/node/831208
+LOCATION:Central Library\, Business & Career Center\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260728T133000Z
+DTEND:20260728T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/834277
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260728T143000Z
+DTEND:20260728T163000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/831257
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Scratch to Track: Music Production Essentials with Logic Pro 
+ - Day 2
+DTSTART:20260728T160000Z
+DTEND:20260728T200000Z
+DESCRIPTION:Ever wondered how a professional track goes from a simple idea
+  to a radio-ready sound? You don't need to be a trained musician or have a
+  studio full of expensive gear to start creating music. Join NYC\n\nhttps:
+ //www.bklynlibrary.org/node/826262
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
+ siness Solutions Center
+DTSTART:20260728T170000Z
+DTEND:20260728T200000Z
+DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
+ ? Join the NYC Business Solutions Brooklyn Center for "The Flower Hour\," 
+ a special session of our popular Joint Ventures educational serie\n\nhttps
+ ://www.bklynlibrary.org/node/819561
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260728T180000Z
+DTEND:20260728T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828161
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260728T180000Z
+DTEND:20260728T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Brighton Beach Lib
+ rary for help with your resume\, cover letter\, interview\, and job\n\nhtt
+ ps://www.bklynlibrary.org/node/831371
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
