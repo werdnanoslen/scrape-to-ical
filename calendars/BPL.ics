@@ -11,60 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260722T200000Z
-DTEND:20260722T230000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828043
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Hour
-DTSTART:20260722T210000Z
-DTEND:20260722T230000Z
-DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
- rg/node/831259
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260722T210000Z
-DTEND:20260722T230000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834592
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All-American Trivia Night
-DTSTART:20260722T213000Z
-DTEND:20260722T233000Z
-DESCRIPTION:Celebrate our nation’s 250th birthday with a friendly trivia
-  competition!\n\nhttps://www.bklynlibrary.org/node/825808
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Making Music from Our Surroundings
-DTSTART:20260722T213000Z
-DTEND:20260722T233000Z
-DESCRIPTION:How can we make music drawing inspiration from the sounds of o
- ur daily lives? How can we translate into sound what we observe in a paint
- ing\, a text message\, a book\, ourselves\, or the world? What lies\n\nhtt
- ps://www.bklynlibrary.org/node/832252
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260722T220000Z
-DTEND:20260722T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
- 61
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20260723T140000Z
 DTEND:20260723T190000Z
@@ -383,5 +329,58 @@ DTEND:20260725T200000Z
 DESCRIPTION:Repair can be intimidating so get over that hump with the help
   of Repair Cafe NYC!\n\nhttps://www.bklynlibrary.org/node/831868
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260725T173000Z
+DTEND:20260725T193000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/834610
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
+DTSTART:20260725T183000Z
+DTEND:20260725T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing. 
+ Instructor Margot will be at this session. Please refer to her wit\n\nhttp
+ s://www.bklynlibrary.org/node/829885
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Feng Shui and I Ching
+DTSTART:20260725T193000Z
+DTEND:20260725T210000Z
+DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
+ arly the concepts of Yin & Yang\, Five Elements and Three Cycles. Particip
+ ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
+ ps://www.bklynlibrary.org/node/828301
+LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: American and Chinese Mahjong
+DTSTART:20260727T150000Z
+DTEND:20260727T190000Z
+DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
+ brary.org/node/824850
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20260727T150000Z
+DTEND:20260727T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/833219
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20260727T150000Z
+DTEND:20260727T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/833822
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
