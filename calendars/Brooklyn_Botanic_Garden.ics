@@ -71,75 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer Discovery Days
-DTSTART;VALUE=DATE:20260723T040000Z
-DTEND;VALUE=DATE:20260723T060000Z
-UID:Summer Discovery Days-2026-07-23 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 16–August 13\, 2026 | 10:30 a.m.–12:30 p.
- m.\n					\n\n\n					\n						\n							| Drop-in\n\nExperiment\, learn\, and
-  play together in the Discovery Garden! Families\, school groups\, and cam
- p groups welcome.Learn More›about Summer Discovery Days\n\nMore info:\nh
- ttps://www.bbg.org/visit/event/summer_discovery_days\n\n<img src="/img/upl
- oads/hero/_list_thumbnail_regular/discovery-carts-docents-MS-2838112223.jp
- eg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260723T040000Z
-DTEND;VALUE=DATE:20260723T060000Z
-UID:Seasonal Highlights Tour-2026-07-23 04:00:00+00:00
-DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
- a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
- n in this free walk led by trained Garden Guides.Learn More›about Season
- al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
- _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
- ses-summer-JW-54760452942.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz in July
-DTSTART;VALUE=DATE:20260723T040000Z
-DTEND;VALUE=DATE:20260723T060000Z
-UID:Jazz in July-2026-07-23 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 9\, 16 & 23 | 6–8 p.m.\n\nCelebrate summer 
- at Brooklyn Botanic Garden with jazz performances\, tours\, and more.Learn
-  More›about Jazz in July\n\nMore info:\nhttps://www.bbg.org/visit/event/
- jazz_in_july\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/jazz-i
- n-july_MS_53062447173.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Disability Pride Month Art-Making Program
-DTSTART;VALUE=DATE:20260723T040000Z
-DTEND;VALUE=DATE:20260723T060000Z
-UID:Disability Pride Month Art-Making Program-2026-07-23 04:00:00+00:00
-DESCRIPTION:Thursday\, July 23\, 2026 | 6–7 p.m.\n\nJoin Disability Prid
- e\, Disability Joy\, Exists\, an art-making program that celebrates disabi
- lity as an integral part of human diversity.Learn More›about Disability 
- Pride Month Art-Making Program\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/disability_pride_month_art_making_program\n\n<img src="/img/uploads/he
- ro/_list_thumbnail_regular/Annie-Lakshmee-Hands-Pins.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz in July: Prince Emagine
-DTSTART;VALUE=DATE:20260723T040000Z
-DTEND;VALUE=DATE:20260723T060000Z
-UID:Jazz in July: Prince Emagine-2026-07-23 04:00:00+00:00
-DESCRIPTION:Thursday\, July 23\, 2026 | 7–8 p.m.\n\nCelebrate Brooklyn
- ’s Little Caribbean community with Prince Emagine & Friends.Learn More
- ›about Jazz in July: Prince Emagine\n\nMore info:\nhttps://www.bbg.org/v
- isit/event/prince_emagine\n\n<img src="/img/uploads/hero/_list_thumbnail_r
- egular/CariBEING-PRINCE-EMAGINE_20240304_144044_0000.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer First Discoveries
 DTSTART;VALUE=DATE:20260724T040000Z
 DTEND;VALUE=DATE:20260724T060000Z
@@ -246,19 +177,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Jazz Night
-DTSTART;VALUE=DATE:20260729T040000Z
-DTEND;VALUE=DATE:20260729T060000Z
-UID:Members’ Jazz Night-2026-07-29 04:00:00+00:00
-DESCRIPTION:Wednesday\, July 29\, 2026 | 6–8:30 p.m.\n\nPack a picnic an
- d enjoy a special live performance on a lovely summer evening.Learn More
- ›about Members’ Jazz Night\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/members_jazz_night_B\n\n<img src="/img/uploads/manual/hero/_list_thumb
- nail_regular/brownstone-jazz_JW_54549482226.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members’ Summer Evenings
 DTSTART;VALUE=DATE:20260729T040000Z
 DTEND;VALUE=DATE:20260729T060000Z
@@ -268,6 +186,19 @@ DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
  about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
  event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
  thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Jazz Night
+DTSTART;VALUE=DATE:20260729T040000Z
+DTEND;VALUE=DATE:20260729T060000Z
+UID:Members’ Jazz Night-2026-07-29 04:00:00+00:00
+DESCRIPTION:Wednesday\, July 29\, 2026 | 6–8:30 p.m.\n\nPack a picnic an
+ d enjoy a special live performance on a lovely summer evening.Learn More
+ ›about Members’ Jazz Night\n\nMore info:\nhttps://www.bbg.org/visit/ev
+ ent/members_jazz_night_B\n\n<img src="/img/uploads/manual/hero/_list_thumb
+ nail_regular/brownstone-jazz_JW_54549482226.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -521,18 +452,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Night for Children
-DTSTART;VALUE=DATE:20260805T040000Z
-DTEND;VALUE=DATE:20260805T060000Z
-UID:Members’ Night for Children-2026-08-05 04:00:00+00:00
-DESCRIPTION:Wednesday\, August 5\, 2026 | 6–8:30 p.m.\n\n\n\nMore info:\
- nhttps://www.bbg.org/visit/event/members_night_for_children\n\n<img src="/
- img/uploads/hero/_list_thumbnail_regular/members-childrens-night-MS_522791
- 11331.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members’ Summer Evenings
 DTSTART;VALUE=DATE:20260805T040000Z
 DTEND;VALUE=DATE:20260805T060000Z
@@ -542,6 +461,18 @@ DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
  about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
  event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
  thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Night for Children
+DTSTART;VALUE=DATE:20260805T040000Z
+DTEND;VALUE=DATE:20260805T060000Z
+UID:Members’ Night for Children-2026-08-05 04:00:00+00:00
+DESCRIPTION:Wednesday\, August 5\, 2026 | 6–8:30 p.m.\n\n\n\nMore info:\
+ nhttps://www.bbg.org/visit/event/members_night_for_children\n\n<img src="/
+ img/uploads/hero/_list_thumbnail_regular/members-childrens-night-MS_522791
+ 11331.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -601,6 +532,50 @@ DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | July 8–Augu
  ore›about Summer First Discoveries\n\nMore info:\nhttps://www.bbg.org/vi
  sit/event/first_discoveries_summer\n\n<img src="/img/uploads/hero/_list_th
  umbnail_regular/first-discoveries_MS_52895122449.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Introduction to Watercolor Painting
+DTSTART;VALUE=DATE:20260808T040000Z
+DTEND;VALUE=DATE:20260808T060000Z
+UID:Introduction to Watercolor Painting-2026-08-08 04:00:00+00:00
+DESCRIPTION:Saturday\, August 8\, 2026 | 10 a.m.–12 p.m. \n					\n\n\n		
+ 			\n						| Waitlist Only\n\nExplore the varied techniques of painting wi
+ th the unique\, beautiful medium of watercolor.Learn More›about Introduc
+ tion to Watercolor Painting\n\nMore info:\nhttps://www.bbg.org/classes/int
+ roduction_to_watercolor_painting\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/Nan-Carey-red-roses.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Family Discovery Weekends
+DTSTART;VALUE=DATE:20260808T040000Z
+DTEND;VALUE=DATE:20260808T060000Z
+UID:Summer Family Discovery Weekends-2026-08-08 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. |  July 11–Aug
+ ust 9\, 2026 \n					\n\n\n					\n						\n							| Drop-in\n\nHands-on stat
+ ions throughout the garden’s meadow\, woodland\, and marsh habitats and 
+ in the vegetable garden encourage families to explore nature together.Lear
+ n More›about Summer Family Discovery Weekends\n\nMore info:\nhttps://www
+ .bbg.org/visit/event/summer_family_discovery_weekends\n\n<img src="/img/up
+ loads/hero/_list_thumbnail_regular/first-discoveries_JW_54496721065.jpeg" 
+ alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260808T040000Z
+DTEND;VALUE=DATE:20260808T060000Z
+UID:Seasonal Highlights Tour-2026-08-08 04:00:00+00:00
+DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
+ a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
+ n in this free walk led by trained Garden Guides.Learn More›about Season
+ al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
+ _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
+ ses-summer-JW-54760452942.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
