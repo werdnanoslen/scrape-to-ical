@@ -21,16 +21,6 @@ DESCRIPTION:NYLAG will be at the library to provide all those interested w
 LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260724T150000Z
-DTEND:20260724T170000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/828143
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260724T150000Z
 DTEND:20260724T200000Z
@@ -39,16 +29,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/833747
 LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Interviewing Basics
-DTSTART:20260724T170000Z
-DTEND:20260724T180000Z
-DESCRIPTION:Are you nervous about the interview process?  Do you need hel
- p with tactics on how to approach your next job interview?  Join us to di
- scuss the whole job interview process.  We will discuss ways to an\n\nhtt
- ps://www.bklynlibrary.org/node/827981
-LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -386,5 +366,23 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/827993
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260728T190000Z
+DTEND:20260728T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81702
+ 0
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Central Cookbook Club: Celebrating Julia Child
+DTSTART:20260728T190000Z
+DTEND:20260728T203000Z
+DESCRIPTION:Join us as we celebrate Julia Child and the groundbreaking wor
+ k\, Mastering the Art of French Cooking\, co-written with Simone Beck and 
+ Louisette Bertholle which brought French cooking techniques to Ame\n\nhttp
+ s://www.bklynlibrary.org/node/835456
+LOCATION:Central Library\, Plaza
 END:VEVENT
 END:VCALENDAR
