@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:FOSSS Guided Music Production Session: Advanced
-DTSTART:20260725T170000Z
-DTEND:20260725T190000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/830293
-LOCATION:Central Library\, Info Commons\, Recording Studio
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Repair Cafe NYC
 DTSTART:20260725T170000Z
 DTEND:20260725T200000Z
@@ -386,5 +377,13 @@ DESCRIPTION:Park Slope Library is pleased to welcome Emily Zhou and Sasha
   Mind Books\, and Professor of Gothic Literature and queer Studies\n\nhttp
  s://www.bklynlibrary.org/node/829339
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Citizenship Class
+DTSTART:20260728T220000Z
+DTEND:20260728T000000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/834283
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
