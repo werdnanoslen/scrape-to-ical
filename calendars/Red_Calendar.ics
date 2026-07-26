@@ -78,6 +78,17 @@ DESCRIPTION:https://cal.red/?event=5834\n\n6:30–8:30 PM.\nCost: $30-$50
 LOCATION:21-07 41st Ave\, Long Island City
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:JoVia Armstrong / alana amore colvin / Luke Stewart\, Amirtha Kida
+ mbi & Warren Trae Crudup III\, Hans Young-Binter
+DTSTART:20260727T230000Z
+DTEND:20260728T000000Z
+DTSTAMP:20260727T230000Z
+UID:event:5855:2026-07-27T19:00:00
+DESCRIPTION:https://cal.red/?event=5855\nCost: 🌀 notaflof
+LOCATION:@ brothers wash & dry laundromat (all ages)\, 60-42 54th pl.\, ma
+ speth\, queens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hans Tammen presents Loose Talk #6: Cometa Negra (Matt Belen\, Pet
  er Carlovich\, Jack Lynch)\, Shardik (Matt Hollenberg\, Sana Nagano\, Nick
   Jost\, Danny Sher)\, & more
@@ -107,15 +118,6 @@ DESCRIPTION:https://cal.red/?event=5838\nCost: 0
 LOCATION:Throughout the city
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PORNOCRACY (reading group)
-DTSTART:20260728T230000Z
-DTEND:20260729T000000Z
-DTSTAMP:20260728T230000Z
-UID:event:5651:2026-07-28T19:00:00
-DESCRIPTION:https://cal.red/?event=5651\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Conflict Lab: Because Conflict is The Cure
 DTSTART:20260728T230000Z
 DTEND:20260729T000000Z
@@ -126,6 +128,15 @@ DESCRIPTION:https://cal.red/?event=5822\nThe grassy patch in the middle of
  ails at www.abeautifulmess.org And feel free to join our WhatsApp Group Ch
  at for Updates:  https://luma.com/48ge5sui\nCost: Sliding Scale\, 5-50$
 LOCATION:Tompkins Square Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PORNOCRACY (reading group)
+DTSTART:20260728T230000Z
+DTEND:20260729T000000Z
+DTSTAMP:20260728T230000Z
+UID:event:5651:2026-07-28T19:00:00
+DESCRIPTION:https://cal.red/?event=5651\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sam Weinberg\, Sam Lisabeth / Nick Neuberg / Brittany Carlson
@@ -175,6 +186,16 @@ DESCRIPTION:https://cal.red/?event=5840\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Neal Todten - Solo Electric Organ / McDaniel\, Bogie - Lush Minima
+ l Duo
+DTSTART:20260730T000000Z
+DTEND:20260730T010000Z
+DTSTAMP:20260730T000000Z
+UID:event:5854:2026-07-29T20:00:00
+DESCRIPTION:https://cal.red/?event=5854\nCost: $20.00
+LOCATION:Red Hook
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Waah\, Seraphine's Cleaver\, Misuser
 DTSTART:20260730T003000Z
 DTEND:20260730T013000Z
@@ -195,15 +216,6 @@ DESCRIPTION:https://cal.red/?event=5828\n226 Marcus Garvey Blvd\nCost: FRE
 LOCATION:The Free Black Women's Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Analog Zine Open Studio
-DTSTART:20260730T220000Z
-DTEND:20260730T230000Z
-DTSTAMP:20260730T220000Z
-UID:event:5816:2026-07-30T18:00:00
-DESCRIPTION:https://cal.red/?event=5816\nCost: Free
-LOCATION:Ugly Duckling Presse in Gowanus
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Studio: Hand-making Zines
 DTSTART:20260730T220000Z
 DTEND:20260730T230000Z
@@ -212,6 +224,15 @@ UID:event:5811:2026-07-30T18:00:00
 DESCRIPTION:https://cal.red/?event=5811\n232 3rd St #E-303\nGowanus\, Broo
  klyn\, NY 11215\nCost: $0\, RSVP required
 LOCATION:Ugly Duckling Presse Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analog Zine Open Studio
+DTSTART:20260730T220000Z
+DTEND:20260730T230000Z
+DTSTAMP:20260730T220000Z
+UID:event:5816:2026-07-30T18:00:00
+DESCRIPTION:https://cal.red/?event=5816\nCost: Free
+LOCATION:Ugly Duckling Presse in Gowanus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MoMI Listening Series: Randall Poster & Lenny Kaye Explore Neil Yo
@@ -243,6 +264,15 @@ LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
  – outdoors in backyard!
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Piano Bar at the End of the Universe
+DTSTART:20260731T000000Z
+DTEND:20260731T010000Z
+DTSTAMP:20260731T000000Z
+UID:event:5847:2026-07-30T20:00:00
+DESCRIPTION:https://cal.red/?event=5847\nCost: Free
+LOCATION:8-01 Seneca Ave #801\, Ridgewood\, NY 11385
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Mess Is Lore: Volume 5
 DTSTART:20260731T000000Z
 DTEND:20260731T010000Z
@@ -261,15 +291,6 @@ DESCRIPTION:https://cal.red/?event=5839\n8 PM–4 AM.\nCost: $20
 LOCATION:Nowadays (56-06 Cooper Ave).
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Piano Bar at the End of the Universe
-DTSTART:20260731T000000Z
-DTEND:20260731T010000Z
-DTSTAMP:20260731T000000Z
-UID:event:5847:2026-07-30T20:00:00
-DESCRIPTION:https://cal.red/?event=5847\nCost: Free
-LOCATION:8-01 Seneca Ave #801\, Ridgewood\, NY 11385
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DIY FILM FEST East Coast Season 4 LAUNCH
 DTSTART:20260731T010000Z
 DTEND:20260731T020000Z
@@ -286,6 +307,17 @@ DTSTAMP:20260731T011500Z
 UID:event:5846:2026-07-30T21:15:00
 DESCRIPTION:https://cal.red/?event=5846\nCost: $15
 LOCATION:Bushwick\, near Myrtle Broadway JMZ
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electro Acoustic Improvisations & Harsh Noise: M. Sidnam\, Zach Ro
+ wden\, Bentley Anderson\, Karol Konstancia
+DTSTART:20260731T230000Z
+DTEND:20260801T000000Z
+DTSTAMP:20260731T230000Z
+UID:event:5856:2026-07-31T19:00:00
+DESCRIPTION:https://cal.red/?event=5856\nCost: $10-15 sliding scale
+LOCATION:@ fringe records (all ages)\, 6-56 woodward ave\, ridgewood\, que
+ ens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:★ Made You Look: H2O (Hip-Hop Odyssey) ★
@@ -307,6 +339,18 @@ DESCRIPTION:https://cal.red/?event=5736\nCost: usually 🌀 notaflof\, max
   $20 recommended
 LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
  yn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FourOneOne x The Kitchen x Judson Commons: Bex Burch: 'as yet unti
+ tled' (w/ Peter Zummo\, Mikel Patrick Avery\, Lia Kohl\, Gabriel Birnbaum\
+ , Carmen Quill\, Tomin\, Cassie Watson Francillon)
+DTSTART:20260801T000000Z
+DTEND:20260801T010000Z
+DTSTAMP:20260801T000000Z
+UID:event:5857:2026-07-31T20:00:00
+DESCRIPTION:https://cal.red/?event=5857\nCost: 🌀 free
+LOCATION:@ judson church (all ages)\, 239/243 thompson st. entrance\, gree
+ nwich village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomplons Distro
@@ -367,6 +411,15 @@ LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
  s
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260802T000000Z
+DTEND:20260802T010000Z
+DTSTAMP:20260802T000000Z
+UID:event:5610:2026-08-01T20:00:00
+DESCRIPTION:https://cal.red/?event=5610\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Loove Avant-Kirtan ft. Charlie Burnham
 DTSTART:20260802T000000Z
 DTEND:20260802T010000Z
@@ -375,15 +428,6 @@ UID:event:5800:2026-08-01T20:00:00
 DESCRIPTION:https://cal.red/?event=5800\nWilliamsburg\, Brooklyn NY\nCost:
   $20
 LOCATION:238 N 12th St
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260802T000000Z
-DTEND:20260802T010000Z
-DTSTAMP:20260802T000000Z
-UID:event:5610:2026-08-01T20:00:00
-DESCRIPTION:https://cal.red/?event=5610\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Thunder: Toody Cole (of Dead Moon) & Her Band
@@ -468,6 +512,15 @@ DESCRIPTION:https://cal.red/?event=5776\n257 Nassau Ave\nBrooklyn\, NY 112
 LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Synth Social
+DTSTART:20260805T230000Z
+DTEND:20260806T000000Z
+DTSTAMP:20260805T230000Z
+UID:event:5848:2026-08-05T19:00:00
+DESCRIPTION:https://cal.red/?event=5848\nCost: $10
+LOCATION:Dreamsong Music Lab\, 743 DeKalb Ave\, Brooklyn\, NY (Bed-Stuy)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (NLNL)
 DTSTART:20260805T230000Z
 DTEND:20260806T000000Z
@@ -485,6 +538,15 @@ DTSTAMP:20260806T000000Z
 UID:event:5840:2026-08-05T20:00:00
 DESCRIPTION:https://cal.red/?event=5840\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Word Play Social: Hot Fun in the Summertime with Bar Nun Life
+DTSTART:20260806T000000Z
+DTEND:20260806T010000Z
+DTSTAMP:20260806T000000Z
+UID:event:5845:2026-08-05T20:00:00
+DESCRIPTION:https://cal.red/?event=5845\nCost: Free
+LOCATION:Antler Accelerator\, 33 W. 17th Street\, 6th Floor (Flatiron)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE FREE BLACK WOMEN'S LIBRARY PRESENTS THE ADULT LITERACY BRIGADE
@@ -571,15 +633,6 @@ DESCRIPTION:https://cal.red/?event=5548\nCost: Free
 LOCATION:Valentino Junior Park [Red Hook]
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260809T000000Z
-DTEND:20260809T010000Z
-DTSTAMP:20260809T000000Z
-UID:event:5610:2026-08-08T20:00:00
-DESCRIPTION:https://cal.red/?event=5610\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Experimental Punk in Midtown Manhattan / Ceol Cosmaí
 DTSTART:20260809T000000Z
 DTEND:20260809T010000Z
@@ -588,6 +641,15 @@ UID:event:5802:2026-08-08T20:00:00
 DESCRIPTION:https://cal.red/?event=5802\n140 E 27th St\, New York\, NY 100
  16\nCost: 10
 LOCATION:Ernie O’Malleys (Manhattan)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260809T000000Z
+DTEND:20260809T010000Z
+DTSTAMP:20260809T000000Z
+UID:event:5610:2026-08-08T20:00:00
+DESCRIPTION:https://cal.red/?event=5610\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:free clinic
@@ -609,15 +671,6 @@ DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
 LOCATION:Park Slope
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:PORNOCRACY (reading group)
-DTSTART:20260811T230000Z
-DTEND:20260812T000000Z
-DTSTAMP:20260811T230000Z
-UID:event:5651:2026-08-11T19:00:00
-DESCRIPTION:https://cal.red/?event=5651\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Belladonna* Summer Writing Spirals
 DTSTART:20260811T230000Z
 DTEND:20260812T000000Z
@@ -625,6 +678,15 @@ DTSTAMP:20260811T230000Z
 UID:event:5553:2026-08-11T19:00:00
 DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
 LOCATION:925 Bergen St #405\, Crown Heights
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PORNOCRACY (reading group)
+DTSTART:20260811T230000Z
+DTEND:20260812T000000Z
+DTSTAMP:20260811T230000Z
+UID:event:5651:2026-08-11T19:00:00
+DESCRIPTION:https://cal.red/?event=5651\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Conflict Lab: Because Conflict is The Cure
@@ -687,6 +749,16 @@ DTSTAMP:20260815T170000Z
 UID:event:5799:2026-08-15T13:00:00
 DESCRIPTION:https://cal.red/?event=5799\nCost: Free
 LOCATION:Reces | Clinton Hill\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sync & Sequence
+DTSTART:20260816T000000Z
+DTEND:20260816T010000Z
+DTSTAMP:20260816T000000Z
+UID:event:5849:2026-08-15T20:00:00
+DESCRIPTION:https://cal.red/?event=5849\nCost: Free
+LOCATION:The Brooklyn Brewery\, 79 N 11th St\, Brooklyn\, NY 11249 (Willia
+ msburg)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THE FREE BLACK WOMEN'S LIBRARY PRESENTS THE ADULT LITERACY BRIGADE
