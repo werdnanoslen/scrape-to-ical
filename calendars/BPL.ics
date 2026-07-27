@@ -29,31 +29,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260727T150000Z
-DTEND:20260727T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833822
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260727T150000Z
-DTEND:20260727T170000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834584
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20260727T150000Z
-DTEND:20260727T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833219
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:From Scratch to Track: Music Production Essentials with Logic Pro 
  - Day 1
 DTSTART:20260727T160000Z
@@ -63,35 +38,6 @@ DESCRIPTION:Ever wondered how a professional track goes from a simple idea
   studio full of expensive gear to start creating music. Join NYC\n\nhttps:
  //www.bklynlibrary.org/node/826260
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume Hours
-DTSTART:20260727T160000Z
-DTEND:20260727T180000Z
-DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
- ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
- brary.org/node/826860
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260727T160000Z
-DTEND:20260727T180000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828019
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chair Aerobics for Adults
-DTSTART:20260727T170000Z
-DTEND:20260727T180000Z
-DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
- llyanne specializes in senior fitness\, half standing and half sitting. Th
- e class will begin with stretch and breathing exercises. Workouts\n\nhttps
- ://www.bklynlibrary.org/node/833858
-LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -359,13 +305,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260729T140000Z
-DTEND:20260729T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812242
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: Park Slope Library’s Neighbors In Need Care Kits
 DTSTART:20260729T140000Z
 DTEND:20260729T200000Z
@@ -383,5 +322,68 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
  43
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation For Adults
+DTSTART:20260729T140000Z
+DTEND:20260729T153000Z
+DESCRIPTION:All beginners in Hebrew join us to learn\, practice and speak 
+ Hebrew\n\nhttps://www.bklynlibrary.org/node/833721
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260729T140000Z
+DTEND:20260729T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/833753
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Multilingual Business Help
+DTSTART:20260729T140000Z
+DTEND:20260729T160000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/812242
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260729T150000Z
+DTEND:20260729T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library (2
+ nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
+ ps://www.bklynlibrary.org/node/814000
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Ancestry.com Library Edition
+DTSTART:20260729T150000Z
+DTEND:20260729T163000Z
+DESCRIPTION:Did you know that you can access Ancestry.com for FREE at any 
+ branch of Brooklyn Public Library?\n\nhttps://www.bklynlibrary.org/node/83
+ 1628
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask‑A‑Tech: One-on-One Technology Help
+DTSTART:20260729T150000Z
+DTEND:20260729T160000Z
+DESCRIPTION:Need assistance using your laptop\, smartphone\, or tablet?Hav
+ e questions about Microsoft Word\, Excel\, PowerPoint\, or other computer 
+ programs?Visit the Pacific Branch at 11:00 AM for personalized\, one-o\n\n
+ https://www.bklynlibrary.org/node/834444
+LOCATION:Pacific\, Basement Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260729T153000Z
+DTEND:20260729T163000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the Internet? No time to attend a formal class?\n\nht
+ tps://www.bklynlibrary.org/node/837120
+LOCATION:Brooklyn Heights Library\, Gaming Room
 END:VEVENT
 END:VCALENDAR
