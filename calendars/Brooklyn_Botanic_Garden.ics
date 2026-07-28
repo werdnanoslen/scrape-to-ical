@@ -505,4 +505,47 @@ DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbaceous Landscape Plant ID
+DTSTART;VALUE=DATE:20260812T040000Z
+DTEND;VALUE=DATE:20260812T060000Z
+UID:Herbaceous Landscape Plant ID-2026-08-12 04:00:00+00:00
+DESCRIPTION:6 weekly sessions beginning Wednesday\, June 3\; Tuesday\, Ju
+ ly 7\; Thursday\, August 6\; or Wednesday\, August 12\, 2026\n					\n\
+ n\n					\n						| Waitlist Only\n\nThe class will identify and view plant 
+ characteristics during sessions on BBG grounds.Learn More›about Herbaceo
+ us Landscape Plant ID\n\nMore info:\nhttps://www.bbg.org/classes/herbaceou
+ s_landscape_plant_id\n\n<img src="/img/uploads/hero/_list_thumbnail_regula
+ r/cornflower-centaura-cyanus_MS_52203502814_hero.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer First Discoveries
+DTSTART;VALUE=DATE:20260812T040000Z
+DTEND;VALUE=DATE:20260812T060000Z
+UID:Summer First Discoveries-2026-08-12 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | July 8–Augu
+ st 14\, 2026 \n					\n\n\n					\n						\n							| Drop-in\n\nPot up a plan
+ t\, create a craft\, read a story\, and use your senses to explore nature 
+ at activity stations designed for early learners up to 4 years old.Learn M
+ ore›about Summer First Discoveries\n\nMore info:\nhttps://www.bbg.org/vi
+ sit/event/first_discoveries_summer\n\n<img src="/img/uploads/hero/_list_th
+ umbnail_regular/first-discoveries_MS_52895122449.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260812T040000Z
+DTEND;VALUE=DATE:20260812T060000Z
+UID:Members’ Summer Evenings-2026-08-12 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
 END:VCALENDAR
