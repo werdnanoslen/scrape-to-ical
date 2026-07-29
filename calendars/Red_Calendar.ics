@@ -11,56 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:BLACK AUGUST LOOKING FOR DISTRO GROUPS\, COOKS\, SPACES
-DTSTART:20260728T160000Z
-DTEND:20260728T170000Z
-DTSTAMP:20260728T160000Z
-UID:event:5838:2026-07-28T12:00:00
-DESCRIPTION:https://cal.red/?event=5838\nCost: 0
-LOCATION:Throughout the city
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading: Leah Flax Barber\, Hans F. Wagner\, and Tessa Bolsover at
-  Unnameable Books
-DTSTART:20260728T230000Z
-DTEND:20260729T000000Z
-DTSTAMP:20260728T230000Z
-UID:event:5861:2026-07-28T19:00:00
-DESCRIPTION:https://cal.red/?event=5861\n615 Vanderbilt Ave\, Prospect Hei
- ghts\, Brooklyn\nCost: Free
-LOCATION:Unnameable Books
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Conflict Lab: Because Conflict is The Cure
-DTSTART:20260728T230000Z
-DTEND:20260729T000000Z
-DTSTAMP:20260728T230000Z
-UID:event:5822:2026-07-28T19:00:00
-DESCRIPTION:https://cal.red/?event=5822\nThe grassy patch in the middle of
-  the park. You can contact 732.630.5520 for assistance. Sign up for our em
- ails at www.abeautifulmess.org And feel free to join our WhatsApp Group Ch
- at for Updates:  https://luma.com/48ge5sui\nCost: Sliding Scale\, 5-50$
-LOCATION:Tompkins Square Park
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PORNOCRACY (reading group)
-DTSTART:20260728T230000Z
-DTEND:20260729T000000Z
-DTSTAMP:20260728T230000Z
-UID:event:5651:2026-07-28T19:00:00
-DESCRIPTION:https://cal.red/?event=5651\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sam Weinberg\, Sam Lisabeth / Nick Neuberg / Brittany Carlson
-DTSTART:20260729T000000Z
-DTEND:20260729T010000Z
-DTSTAMP:20260729T000000Z
-UID:event:5749:2026-07-28T20:00:00
-DESCRIPTION:https://cal.red/?event=5749\nCost: $20 cash
-LOCATION:@ lava club (all ages)\, downtown bk –– rsvp for address
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Online Workshop: Strengthening Onlline Communities
 DTSTART:20260729T150000Z
 DTEND:20260729T160000Z
@@ -138,15 +88,6 @@ DESCRIPTION:https://cal.red/?event=5828\n226 Marcus Garvey Blvd\nCost: FRE
 LOCATION:The Free Black Women's Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Analog Zine Open Studio
-DTSTART:20260730T220000Z
-DTEND:20260730T230000Z
-DTSTAMP:20260730T220000Z
-UID:event:5816:2026-07-30T18:00:00
-DESCRIPTION:https://cal.red/?event=5816\nCost: Free
-LOCATION:Ugly Duckling Presse in Gowanus
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Open Studio: Hand-making Zines
 DTSTART:20260730T220000Z
 DTEND:20260730T230000Z
@@ -155,6 +96,15 @@ UID:event:5811:2026-07-30T18:00:00
 DESCRIPTION:https://cal.red/?event=5811\n232 3rd St #E-303\nGowanus\, Broo
  klyn\, NY 11215\nCost: $0\, RSVP required
 LOCATION:Ugly Duckling Presse Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Analog Zine Open Studio
+DTSTART:20260730T220000Z
+DTEND:20260730T230000Z
+DTSTAMP:20260730T220000Z
+UID:event:5816:2026-07-30T18:00:00
+DESCRIPTION:https://cal.red/?event=5816\nCost: Free
+LOCATION:Ugly Duckling Presse in Gowanus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MoMI Listening Series: Randall Poster & Lenny Kaye Explore Neil Yo
@@ -231,6 +181,16 @@ DESCRIPTION:https://cal.red/?event=5846\nCost: $15
 LOCATION:Bushwick\, near Myrtle Broadway JMZ
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:★ Made You Look: H2O (Hip-Hop Odyssey) ★
+DTSTART:20260731T230000Z
+DTEND:20260801T000000Z
+DTSTAMP:20260731T230000Z
+UID:event:5827:2026-07-31T19:00:00
+DESCRIPTION:https://cal.red/?event=5827\nMarcus Garvey Park\, BED-STUY\n(1
+ 8 Mount Morris Park Wes). 7 PM / SUNSET.\nCost: FREE
+LOCATION:The Richard Rogers Ampitheater
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Electro Acoustic Improvisations & Harsh Noise: M. Sidnam\, Zach Ro
  wden\, Bentley Anderson\, Karol Konstancia
 DTSTART:20260731T230000Z
@@ -240,16 +200,6 @@ UID:event:5856:2026-07-31T19:00:00
 DESCRIPTION:https://cal.red/?event=5856\nCost: $10-15 sliding scale
 LOCATION:@ fringe records (all ages)\, 6-56 woodward ave\, ridgewood\, que
  ens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:★ Made You Look: H2O (Hip-Hop Odyssey) ★
-DTSTART:20260731T230000Z
-DTEND:20260801T000000Z
-DTSTAMP:20260731T230000Z
-UID:event:5827:2026-07-31T19:00:00
-DESCRIPTION:https://cal.red/?event=5827\nMarcus Garvey Park\, BED-STUY\n(1
- 8 Mount Morris Park Wes). 7 PM / SUNSET.\nCost: FREE
-LOCATION:The Richard Rogers Ampitheater
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music @ The Record Shop
@@ -285,15 +235,6 @@ DESCRIPTION:https://cal.red/?event=5830\nCorner of Ave B and E 7th St\nCos
 LOCATION:Tompkins Sq Park\, Lower East Side
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Practices of Becoming: Assembly Workshop Day
-DTSTART:20260801T160000Z
-DTEND:20260801T170000Z
-DTSTAMP:20260801T160000Z
-UID:event:5797:2026-08-01T12:00:00
-DESCRIPTION:https://cal.red/?event=5797\nCost: Free
-LOCATION:Recess | Clinton Hill\, Brooklyn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Evidence of Becoming
 DTSTART:20260801T160000Z
 DTEND:20260801T170000Z
@@ -301,6 +242,15 @@ DTSTAMP:20260801T160000Z
 UID:event:5698:2026-08-01T12:00:00
 DESCRIPTION:https://cal.red/?event=5698\nCost: 0
 LOCATION:Recess Brooklyn\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Practices of Becoming: Assembly Workshop Day
+DTSTART:20260801T160000Z
+DTEND:20260801T170000Z
+DTSTAMP:20260801T160000Z
+UID:event:5797:2026-08-01T12:00:00
+DESCRIPTION:https://cal.red/?event=5797\nCost: Free
+LOCATION:Recess | Clinton Hill\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MASS FOR THE MAGNETIC FIELD
@@ -333,6 +283,15 @@ LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
  s
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260802T000000Z
+DTEND:20260802T010000Z
+DTSTAMP:20260802T000000Z
+UID:event:5610:2026-08-01T20:00:00
+DESCRIPTION:https://cal.red/?event=5610\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Loove Avant-Kirtan ft. Charlie Burnham
 DTSTART:20260802T000000Z
 DTEND:20260802T010000Z
@@ -341,15 +300,6 @@ UID:event:5800:2026-08-01T20:00:00
 DESCRIPTION:https://cal.red/?event=5800\nWilliamsburg\, Brooklyn NY\nCost:
   $20
 LOCATION:238 N 12th St
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260802T000000Z
-DTEND:20260802T010000Z
-DTSTAMP:20260802T000000Z
-UID:event:5610:2026-08-01T20:00:00
-DESCRIPTION:https://cal.red/?event=5610\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Thunder: Toody Cole (of Dead Moon) & Her Band
@@ -432,14 +382,15 @@ DESCRIPTION:https://cal.red/?event=5862\nCost: $0
 LOCATION:Green Oasis Community Garden\, East Village
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No Lights No Lycra (NLNL)
+SUMMARY:Beautiful Days Press/"Not Guilty" chapbook release: Jeremy Hoevena
+ ar\, Jordana Carlin\, Thom Donovan\, Jacqueline Waters
 DTSTART:20260805T230000Z
 DTEND:20260806T000000Z
 DTSTAMP:20260805T230000Z
-UID:event:5560:2026-08-05T19:00:00
-DESCRIPTION:https://cal.red/?event=5560\nHell's Kitchen\nCost: PWYCA (sugg
- ested $15)
-LOCATION:Prime Produce\, 424 W 54th St
+UID:event:5776:2026-08-05T19:00:00
+DESCRIPTION:https://cal.red/?event=5776\n257 Nassau Ave\nBrooklyn\, NY 112
+ 22\nGreenpoint\nCost: Free
+LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Synth Social
@@ -451,15 +402,14 @@ DESCRIPTION:https://cal.red/?event=5848\nCost: $10
 LOCATION:Dreamsong Music Lab\, 743 DeKalb Ave\, Brooklyn\, NY (Bed-Stuy)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beautiful Days Press/"Not Guilty" chapbook release: Jeremy Hoevena
- ar\, Jordana Carlin\, Thom Donovan\, Jacqueline Waters
+SUMMARY:No Lights No Lycra (NLNL)
 DTSTART:20260805T230000Z
 DTEND:20260806T000000Z
 DTSTAMP:20260805T230000Z
-UID:event:5776:2026-08-05T19:00:00
-DESCRIPTION:https://cal.red/?event=5776\n257 Nassau Ave\nBrooklyn\, NY 112
- 22\nGreenpoint\nCost: Free
-LOCATION:Sunview Acropolis
+UID:event:5560:2026-08-05T19:00:00
+DESCRIPTION:https://cal.red/?event=5560\nHell's Kitchen\nCost: PWYCA (sugg
+ ested $15)
+LOCATION:Prime Produce\, 424 W 54th St
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -509,15 +459,6 @@ DESCRIPTION:https://cal.red/?event=5846\nCost: $15
 LOCATION:Bushwick\, near Myrtle Broadway JMZ
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260808T000000Z
-DTEND:20260808T010000Z
-DTSTAMP:20260808T000000Z
-UID:event:5840:2026-08-07T20:00:00
-DESCRIPTION:https://cal.red/?event=5840\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Singles Dating Matching using Palantir Data
 DTSTART:20260808T000000Z
 DTEND:20260808T010000Z
@@ -526,6 +467,15 @@ UID:event:5860:2026-08-07T20:00:00
 DESCRIPTION:https://cal.red/?event=5860\nCost: 20
 LOCATION:Unofficial Palantir Headquarters (Producers Club)\, 358 W 44th St
  \, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260808T000000Z
+DTEND:20260808T010000Z
+DTSTAMP:20260808T000000Z
+UID:event:5840:2026-08-07T20:00:00
+DESCRIPTION:https://cal.red/?event=5840\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomplons Distro
@@ -547,15 +497,6 @@ DESCRIPTION:https://cal.red/?event=5841\nCost: FREE
 LOCATION:Ridgewood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Evidence of Becoming
-DTSTART:20260808T190000Z
-DTEND:20260808T200000Z
-DTSTAMP:20260808T190000Z
-UID:event:5698:2026-08-08T15:00:00
-DESCRIPTION:https://cal.red/?event=5698\nCost: 0
-LOCATION:Recess Brooklyn\, NY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Expressions of Becoming: Assembly Performance Day
 DTSTART:20260808T190000Z
 DTEND:20260808T200000Z
@@ -563,6 +504,15 @@ DTSTAMP:20260808T190000Z
 UID:event:5798:2026-08-08T15:00:00
 DESCRIPTION:https://cal.red/?event=5798\nCost: Free
 LOCATION:Recess | Clinton Hill\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evidence of Becoming
+DTSTART:20260808T190000Z
+DTEND:20260808T200000Z
+DTSTAMP:20260808T190000Z
+UID:event:5698:2026-08-08T15:00:00
+DESCRIPTION:https://cal.red/?event=5698\nCost: 0
+LOCATION:Recess Brooklyn\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HTML Day
@@ -574,15 +524,6 @@ DESCRIPTION:https://cal.red/?event=5548\nCost: Free
 LOCATION:Valentino Junior Park [Red Hook]
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260809T000000Z
-DTEND:20260809T010000Z
-DTSTAMP:20260809T000000Z
-UID:event:5610:2026-08-08T20:00:00
-DESCRIPTION:https://cal.red/?event=5610\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Experimental Punk in Midtown Manhattan / Ceol Cosmaí
 DTSTART:20260809T000000Z
 DTEND:20260809T010000Z
@@ -591,6 +532,15 @@ UID:event:5802:2026-08-08T20:00:00
 DESCRIPTION:https://cal.red/?event=5802\n140 E 27th St\, New York\, NY 100
  16\nCost: 10
 LOCATION:Ernie O’Malleys (Manhattan)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260809T000000Z
+DTEND:20260809T010000Z
+DTSTAMP:20260809T000000Z
+UID:event:5610:2026-08-08T20:00:00
+DESCRIPTION:https://cal.red/?event=5610\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:free clinic
