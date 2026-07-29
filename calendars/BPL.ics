@@ -31,59 +31,12 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20260729T160000Z
-DTEND:20260729T180000Z
-DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
- over letter\, interview\, and job search questions. All sessions are one-o
- n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
- tps://www.bklynlibrary.org/node/829812
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20260729T170000Z
-DTEND:20260729T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /830940
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260729T170000Z
-DTEND:20260729T180000Z
-DESCRIPTION:Need help navigating one of your tech devices? Come join us an
- d ask a variety of tech questions about your tech devices.\n\nhttps://www.
- bklynlibrary.org/node/833771
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260729T180000Z
-DTEND:20260729T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/833506
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tech Help for Your Job Search
 DTSTART:20260729T180000Z
 DTEND:20260729T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818923
 LOCATION:Central Library\, Business & Career Center\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260729T183000Z
-DTEND:20260729T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/833521
-LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philosophy Discussion Group: Plato's Symposium
@@ -382,5 +335,51 @@ DESCRIPTION:Please join us for a discussion of the selected short story\,
  on Friday\, July 31\, 2026\, from 1-2:00 p.m.\, in the B&CC Classroom.\n\n
  https://www.bklynlibrary.org/node/827412
 LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20260731T170000Z
+DTEND:20260731T180000Z
+DESCRIPTION:Please join us for a discussion of Sherwood Anderson's The Unt
+ old Lie\, on Friday\, July 31\, 2026\, from 1-2:00 p.m.\, in the B&CC Clas
+ sroom.\n\nhttps://www.bklynlibrary.org/node/833404
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260731T170000Z
+DTEND:20260731T190000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8341
+ 11
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260731T180000Z
+DTEND:20260731T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/828677
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Collaging & Tea with Tea Art Master Julia Adams
+DTSTART:20260731T183000Z
+DTEND:20260731T203000Z
+DESCRIPTION:Join us for collage-making followed by a traditional Chinese t
+ ea ceremony by Tea Art Master Julia Adams!\n\nhttps://www.bklynlibrary.org
+ /node/831093
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesbian Library Day: BookMatch Live
+DTSTART:20260801T140000Z
+DTEND:20260801T180000Z
+DESCRIPTION:Looking for your next great read? Come between 10am and 2pm to
+  receive live book recommendations from BookMatch Librarians! Librarians w
+ ill be able to recommend books in all genres and for all ages!Ca\n\nhttps:
+ //www.bklynlibrary.org/node/834352
+LOCATION:Central Library
 END:VEVENT
 END:VCALENDAR
