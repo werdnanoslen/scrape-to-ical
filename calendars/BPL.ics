@@ -11,43 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260729T140000Z
-DTEND:20260729T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/833753
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260729T190000Z
-DTEND:20260729T210000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/828414
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260729T190000Z
-DTEND:20260729T210000Z
-DESCRIPTION:This weekly workshop explores three plays by three American wo
- men to stimulate discussion about culture and context. By reading aloud\, 
- participants will discover and discuss the ways in which actors b\n\nhttps
- ://www.bklynlibrary.org/node/828851
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260729T190000Z
-DTEND:20260729T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/831470
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20260729T200000Z
 DTEND:20260729T230000Z
@@ -382,5 +345,42 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8351
  58
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesbian Library Day: Bingo!
+DTSTART:20260801T143000Z
+DTEND:20260801T153000Z
+DESCRIPTION:Drop in for a game or two of Bingo! We'll be playing our favor
+ ite sapphic music and playing rounds of Bingo! Compete for prizes and hang
+  out with community - it's a win-win!\n\nhttps://www.bklynlibrary.org/node
+ /835615
+LOCATION:Central Library\, Info Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shape Up NYC: Bodyweight Circuit Training
+DTSTART:20260801T143000Z
+DTEND:20260801T151500Z
+DESCRIPTION:A bodyweight circuit class combining cardio\, strength\, and c
+ ore-focused movements for a dynamic full-body workout! This class welcomes
+  all fitness levels.\n\nhttps://www.bklynlibrary.org/node/837230
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Letter Writing Club
+DTSTART:20260801T150000Z
+DTEND:20260801T163000Z
+DESCRIPTION:WRITE A FRIEND. MAKE A FRIEND. UNPLUG. JOIN THE CLUB.\n\nhttps
+ ://www.bklynlibrary.org/node/832932
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jigsaw Puzzle Contest
+DTSTART:20260801T160000Z
+DTEND:20260801T190000Z
+DESCRIPTION:This Jigsaw Puzzle Contest is open to teams of all ages! Every
+  team will be provided with the same 500-piece puzzle\, and the first to f
+ inish wins. All will be allowed to finish.\n\nhttps://www.bklynlibrary.org
+ /node/831965
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 END:VCALENDAR

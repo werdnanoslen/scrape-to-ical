@@ -257,6 +257,15 @@ LOCATION:@ fringe records (all ages)\, 6-56 woodward ave\, ridgewood\, que
  ens
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hot Singles In Your Area: A Local Listening Matchmaking Mixer
+DTSTART:20260731T230000Z
+DTEND:20260801T000000Z
+DTSTAMP:20260731T230000Z
+UID:event:5888:2026-07-31T19:00:00
+DESCRIPTION:https://cal.red/?event=5888\nCost: $8
+LOCATION:Bushwick\, RSVP for Addy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Music @ The Record Shop
 DTSTART:20260731T233000Z
 DTEND:20260801T003000Z
