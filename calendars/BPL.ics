@@ -37,14 +37,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation For Adults
-DTSTART:20260729T140000Z
-DTEND:20260729T153000Z
-DESCRIPTION:All beginners in Hebrew join us to learn\, practice and speak 
- Hebrew\n\nhttps://www.bklynlibrary.org/node/833721
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260729T140000Z
 DTEND:20260729T210000Z
@@ -379,5 +371,14 @@ DESCRIPTION:The Brooklyn Public Library's Business & Career Center invites
  ou with the foresight you'll need to identify opportunities\, mit\n\nhttps
  ://www.bklynlibrary.org/node/832280
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260730T220000Z
+DTEND:20260730T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8359
+ 98
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR

@@ -49,6 +49,15 @@ DESCRIPTION:https://cal.red/?event=5863\nCost: $20
 LOCATION:Rodeo\, Crown Heights
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260730T000000Z
+DTEND:20260730T010000Z
+DTSTAMP:20260730T000000Z
+UID:event:5840:2026-07-29T20:00:00
+DESCRIPTION:https://cal.red/?event=5840\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Neal Todten - Solo Electric Organ / McDaniel\, Bogie - Lush Minima
  l Duo
 DTSTART:20260730T000000Z
@@ -57,15 +66,6 @@ DTSTAMP:20260730T000000Z
 UID:event:5854:2026-07-29T20:00:00
 DESCRIPTION:https://cal.red/?event=5854\nCost: $20.00
 LOCATION:Red Hook
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260730T000000Z
-DTEND:20260730T010000Z
-DTSTAMP:20260730T000000Z
-UID:event:5840:2026-07-29T20:00:00
-DESCRIPTION:https://cal.red/?event=5840\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Waah\, Seraphine's Cleaver\, Misuser
@@ -117,15 +117,6 @@ DESCRIPTION:https://cal.red/?event=5820\nCost: FREE
 LOCATION:Museum of the Moving Image\, Astoria\, Queens\, NYC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Belladonna* Summer Writing Spirals
-DTSTART:20260730T230000Z
-DTEND:20260731T000000Z
-DTSTAMP:20260730T230000Z
-UID:event:5553:2026-07-30T19:00:00
-DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
-LOCATION:925 Bergen St #405\, Crown Heights
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Weeping Icon\, Female Genius\, Reg Bloor
 DTSTART:20260730T230000Z
 DTEND:20260731T000000Z
@@ -136,13 +127,13 @@ LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
  – outdoors in backyard!
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bodyhack: Ballroom Venezuela
-DTSTART:20260731T000000Z
-DTEND:20260731T010000Z
-DTSTAMP:20260731T000000Z
-UID:event:5839:2026-07-30T20:00:00
-DESCRIPTION:https://cal.red/?event=5839\n8 PM–4 AM.\nCost: $20
-LOCATION:Nowadays (56-06 Cooper Ave).
+SUMMARY:Belladonna* Summer Writing Spirals
+DTSTART:20260730T230000Z
+DTEND:20260731T000000Z
+DTSTAMP:20260730T230000Z
+UID:event:5553:2026-07-30T19:00:00
+DESCRIPTION:https://cal.red/?event=5553\nCost: $25-75 NOTAFLOF
+LOCATION:925 Bergen St #405\, Crown Heights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piano Bar at the End of the Universe
@@ -161,6 +152,15 @@ DTSTAMP:20260731T000000Z
 UID:event:5823:2026-07-30T20:00:00
 DESCRIPTION:https://cal.red/?event=5823\nCost: $25
 LOCATION:Silence Please\, Chinatown NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodyhack: Ballroom Venezuela
+DTSTART:20260731T000000Z
+DTEND:20260731T010000Z
+DTSTAMP:20260731T000000Z
+UID:event:5839:2026-07-30T20:00:00
+DESCRIPTION:https://cal.red/?event=5839\n8 PM–4 AM.\nCost: $20
+LOCATION:Nowadays (56-06 Cooper Ave).
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DIY FILM FEST East Coast Season 4 LAUNCH
@@ -272,15 +272,23 @@ DESCRIPTION:https://cal.red/?event=5707\nCost: Free (suggested donation of
 LOCATION:Herbert von King Park (Northeastern Corner)\, Bed-Stuy\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:motion_correct (Album Release)\, Devin Music\, Sage Palm\, Lilian\
- , Juliasblade
+SUMMARY:Poetry Hell
+DTSTART:20260801T210000Z
+DTEND:20260801T220000Z
+DTSTAMP:20260801T210000Z
+UID:event:5864:2026-08-01T17:00:00
+DESCRIPTION:https://cal.red/?event=5864\n131 Chrystie St\, NYC\nCost: 0
+LOCATION:Home Sweet Home Bar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Loove Avant-Kirtan ft. Charlie Burnham
 DTSTART:20260802T000000Z
 DTEND:20260802T010000Z
 DTSTAMP:20260802T000000Z
-UID:event:5752:2026-08-01T20:00:00
-DESCRIPTION:https://cal.red/?event=5752\nCost: $10-15
-LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
- s
+UID:event:5800:2026-08-01T20:00:00
+DESCRIPTION:https://cal.red/?event=5800\nWilliamsburg\, Brooklyn NY\nCost:
+  $20
+LOCATION:238 N 12th St
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -292,14 +300,15 @@ DESCRIPTION:https://cal.red/?event=5610\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Loove Avant-Kirtan ft. Charlie Burnham
+SUMMARY:motion_correct (Album Release)\, Devin Music\, Sage Palm\, Lilian\
+ , Juliasblade
 DTSTART:20260802T000000Z
 DTEND:20260802T010000Z
 DTSTAMP:20260802T000000Z
-UID:event:5800:2026-08-01T20:00:00
-DESCRIPTION:https://cal.red/?event=5800\nWilliamsburg\, Brooklyn NY\nCost:
-  $20
-LOCATION:238 N 12th St
+UID:event:5752:2026-08-01T20:00:00
+DESCRIPTION:https://cal.red/?event=5752\nCost: $10-15
+LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
+ s
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Thunder: Toody Cole (of Dead Moon) & Her Band
@@ -459,6 +468,15 @@ DESCRIPTION:https://cal.red/?event=5846\nCost: $15
 LOCATION:Bushwick\, near Myrtle Broadway JMZ
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260808T000000Z
+DTEND:20260808T010000Z
+DTSTAMP:20260808T000000Z
+UID:event:5840:2026-08-07T20:00:00
+DESCRIPTION:https://cal.red/?event=5840\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Singles Dating Matching using Palantir Data
 DTSTART:20260808T000000Z
 DTEND:20260808T010000Z
@@ -467,15 +485,6 @@ UID:event:5860:2026-08-07T20:00:00
 DESCRIPTION:https://cal.red/?event=5860\nCost: 20
 LOCATION:Unofficial Palantir Headquarters (Producers Club)\, 358 W 44th St
  \, New York\, NY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260808T000000Z
-DTEND:20260808T010000Z
-DTSTAMP:20260808T000000Z
-UID:event:5840:2026-08-07T20:00:00
-DESCRIPTION:https://cal.red/?event=5840\nCost: 0
-LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tomplons Distro
