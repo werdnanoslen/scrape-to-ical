@@ -11,34 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260729T200000Z
-DTEND:20260729T230000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828044
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260729T210000Z
-DTEND:20260729T230000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834593
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260729T220000Z
-DTEND:20260729T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
- 62
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20260730T140000Z
 DTEND:20260730T190000Z
@@ -382,5 +354,34 @@ DESCRIPTION:This Jigsaw Puzzle Contest is open to teams of all ages! Every
  inish wins. All will be allowed to finish.\n\nhttps://www.bklynlibrary.org
  /node/831965
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesbian Library Day: Zine Making with JD Glass and Kris Dresen
+DTSTART:20260801T160000Z
+DTEND:20260801T170000Z
+DESCRIPTION:Join acclaimed graphic novelists JD Glass and Kris Dresen for 
+ a zine making workshop! Learn about how they worked together to write thei
+ r graphic novel Punk Like Me\, hear them talk about zine making b\n\nhttps
+ ://www.bklynlibrary.org/node/834298
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesbian Library Day: Silent Reading Party
+DTSTART:20260801T171500Z
+DTEND:20260801T183000Z
+DESCRIPTION:Ready for a break after browsing our resource fair and getting
+  crafty? Looking to escape the heat and hang out in the AC? Looking to pic
+ k up some free giveaway books? Come and join us for a silent rea\n\nhttps:
+ //www.bklynlibrary.org/node/836073
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260801T173000Z
+DTEND:20260801T193000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/834611
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
