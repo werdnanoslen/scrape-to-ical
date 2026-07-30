@@ -30,24 +30,6 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260730T140000Z
-DTEND:20260730T160000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834602
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260730T143000Z
-DTEND:20260730T163000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8285
- 07
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Motion Graphics with After Effects
 DTSTART:20260730T143000Z
 DTEND:20260730T173000Z
@@ -56,15 +38,6 @@ DESCRIPTION:Adobe After Effects is the industry standard for creating dyna
  rs the basics of the After Effects interface\, text and layer ani\n\nhttps
  ://www.bklynlibrary.org/node/828686
 LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260730T143000Z
-DTEND:20260730T160000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/834765
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
@@ -383,6 +356,37 @@ DESCRIPTION:Come and use our screenprinting materials to create a commemor
  ative Lesbian Library Day souvenir! Two options will be available to print
   and take home. Please bring your own t-shirt\, bag\, or other fab\n\nhttp
  s://www.bklynlibrary.org/node/833012
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
+DTSTART:20260801T183000Z
+DTEND:20260801T203000Z
+DESCRIPTION:Join a social circle where we can learn new skills from each 
+ other based on our own experiences in knitting\, crochet and hand-sewing. 
+ Instructor Margot will be at this session. Please refer to her wit\n\nhttp
+ s://www.bklynlibrary.org/node/837192
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesbian Library Day: Rachel Karp in conversation with Nikke Alleyn
+ e (co-owner of The Bush)
+DTSTART:20260801T200000Z
+DTEND:20260801T210000Z
+DESCRIPTION:At the end of our first Lesbian Library Day\, join us for a co
+ nversation with Rachel Karp\, co-creator of the podcast Cruising and autho
+ r of The Lesbian Bar Chronicles. Rachel will share her experience\n\nhttps
+ ://www.bklynlibrary.org/node/834500
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYC Livecode Meetup
+DTSTART:20260802T173000Z
+DTEND:20260802T203000Z
+DESCRIPTION:LiveCode.NYC is a New York City-based collective that gathers 
+ to discuss\, promote\, and explore real-time programming. Our meetups are 
+ open to all. Come with works in progress to show\, with ideas to bo\n\nhtt
+ ps://www.bklynlibrary.org/node/800664
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
