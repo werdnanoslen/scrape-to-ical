@@ -39,15 +39,6 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Total Body Fitness
-DTSTART:20260730T143000Z
-DTEND:20260730T153000Z
-DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
- ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
- rary.org/node/815933
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260730T143000Z
 DTEND:20260730T163000Z
@@ -346,16 +337,6 @@ DESCRIPTION:WRITE A FRIEND. MAKE A FRIEND. UNPLUG. JOIN THE CLUB.\n\nhttps
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jigsaw Puzzle Contest
-DTSTART:20260801T160000Z
-DTEND:20260801T190000Z
-DESCRIPTION:This Jigsaw Puzzle Contest is open to teams of all ages! Every
-  team will be provided with the same 500-piece puzzle\, and the first to f
- inish wins. All will be allowed to finish.\n\nhttps://www.bklynlibrary.org
- /node/831965
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lesbian Library Day: Zine Making with JD Glass and Kris Dresen
 DTSTART:20260801T160000Z
 DTEND:20260801T170000Z
@@ -364,6 +345,16 @@ DESCRIPTION:Join acclaimed graphic novelists JD Glass and Kris Dresen for
  r graphic novel Punk Like Me\, hear them talk about zine making b\n\nhttps
  ://www.bklynlibrary.org/node/834298
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jigsaw Puzzle Contest
+DTSTART:20260801T160000Z
+DTEND:20260801T190000Z
+DESCRIPTION:This Jigsaw Puzzle Contest is open to teams of all ages! Every
+  team will be provided with the same 500-piece puzzle\, and the first to f
+ inish wins. All will be allowed to finish.\n\nhttps://www.bklynlibrary.org
+ /node/831965
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lesbian Library Day: Silent Reading Party
@@ -383,5 +374,15 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/834611
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesbian Library Day: DIY Screenprinting!
+DTSTART:20260801T183000Z
+DTEND:20260801T193000Z
+DESCRIPTION:Come and use our screenprinting materials to create a commemor
+ ative Lesbian Library Day souvenir! Two options will be available to print
+  and take home. Please bring your own t-shirt\, bag\, or other fab\n\nhttp
+ s://www.bklynlibrary.org/node/833012
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
