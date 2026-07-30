@@ -21,25 +21,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260730T213000Z
-DTEND:20260730T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/816701
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260730T213000Z
-DTEND:20260730T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/819231
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resume Coaching
 DTSTART:20260730T213000Z
 DTEND:20260730T233000Z
@@ -385,5 +366,23 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828020
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260803T180000Z
+DTEND:20260803T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/828112
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260803T190000Z
+DTEND:20260803T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /816846
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
