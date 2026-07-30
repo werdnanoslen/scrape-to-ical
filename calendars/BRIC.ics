@@ -44,16 +44,6 @@ DESCRIPTION:Cost: 15\,00 $\nhttps://bricartsmedia.org/class/intro-to-digit
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mobile Phone Photography \, online
-DTSTART:20260804T180000Z
-DTEND:20260804T200000Z
-DTSTAMP:20260804T180000Z
-UID:Mobile Phone Photography \, online-2026-08-04T18:00:00+00:00
-DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/mobile-phone-p
- hotography/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Art of Video Editing\, online
 DTSTART:20260804T150000Z
 DTEND:20260804T170000Z
@@ -72,6 +62,16 @@ UID:Lightroom Essentials-2026-08-04T18:00:00+00:00
 DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/lightroom-esse
  ntials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobile Phone Photography \, online
+DTSTART:20260804T180000Z
+DTEND:20260804T200000Z
+DTSTAMP:20260804T180000Z
+UID:Mobile Phone Photography \, online-2026-08-04T18:00:00+00:00
+DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/mobile-phone-p
+ hotography/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Make a Podcast on Your Phone
@@ -114,16 +114,6 @@ DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Stop-Motion Animation Techniques\, online
-DTSTART:20260807T150000Z
-DTEND:20260807T170000Z
-DTSTAMP:20260807T150000Z
-UID:Stop-Motion Animation Techniques\, online-2026-08-07T15:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/stop-motion-animat
- ion-techniques/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DSLR Filmmaking - in person
 DTSTART:20260807T220000Z
 DTEND:20260808T000000Z
@@ -148,6 +138,16 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/globalfest-at-bric
  ps://bricartsmedia.org/wp-content/uploads/2026/04/DB22MartaSyrko-200x200.j
  pg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stop-Motion Animation Techniques\, online
+DTSTART:20260807T150000Z
+DTEND:20260807T170000Z
+DTSTAMP:20260807T150000Z
+UID:Stop-Motion Animation Techniques\, online-2026-08-07T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/stop-motion-animat
+ ion-techniques/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marketing Your Podcast\, online
@@ -289,16 +289,6 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/intermediate-p
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Instagram for Small Business\, online
-DTSTART:20260817T180000Z
-DTEND:20260817T200000Z
-DTSTAMP:20260817T180000Z
-UID:Instagram for Small Business\, online-2026-08-17T18:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/instagram-for-smal
- l-businesses/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Motion Graphics with After Effects
 DTSTART:20260817T180000Z
 DTEND:20260817T210000Z
@@ -307,6 +297,16 @@ UID:Motion Graphics with After Effects-2026-08-17T18:00:00+00:00
 DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/motion-graphic
  s-with-after-effects/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Instagram for Small Business\, online
+DTSTART:20260817T180000Z
+DTEND:20260817T200000Z
+DTSTAMP:20260817T180000Z
+UID:Instagram for Small Business\, online-2026-08-17T18:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/instagram-for-smal
+ l-businesses/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
@@ -411,18 +411,6 @@ DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BRIC x Seed&#038\;Spark: Art of the Pitch &#8211\; August 19\, 202
- 6
-DTSTART:20260828T220000Z
-DTEND:20260828T230000Z
-DTSTAMP:20260828T220000Z
-UID:BRIC x Seed&#038\;Spark: Art of the Pitch &#8211\; August 19\, 2026-20
- 26-08-28T22:00:00+00:00
-DESCRIPTION:Cost: Free \nhttps://bricartsmedia.org/class/bric-x-seedspark-
- art-of-the-pitch-august-19-2026/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BRIC Celebrate Brooklyn! and The Action Lab present: Common and Sp
  ecial Guests To Honor the Social Justice Legacy of Harry Belafonte
 DTSTART:20260828T220000Z
@@ -437,6 +425,18 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/bric-celebrate-bro
  KU59\n<img src="https://bricartsmedia.org/wp-content/uploads/2026/04/SOLO-
  200x200.jpg" alt="" />
 LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIC x Seed&#038\;Spark: Art of the Pitch &#8211\; August 19\, 202
+ 6
+DTSTART:20260828T220000Z
+DTEND:20260828T230000Z
+DTSTAMP:20260828T220000Z
+UID:BRIC x Seed&#038\;Spark: Art of the Pitch &#8211\; August 19\, 2026-20
+ 26-08-28T22:00:00+00:00
+DESCRIPTION:Cost: Free \nhttps://bricartsmedia.org/class/bric-x-seedspark-
+ art-of-the-pitch-august-19-2026/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BRIC Celebrate Brooklyn! and Brooklyn Borough President Antonio Re
@@ -464,16 +464,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/how-to-edit-your-p
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Make a Podcast on Your Phone
-DTSTART:20260909T150000Z
-DTEND:20260909T170000Z
-DTSTAMP:20260909T150000Z
-UID:Make a Podcast on Your Phone-2026-09-09T15:00:00+00:00
-DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/make-a-podcast-
- on-your-phone/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fundamentals of Screenwriting\, in-person
 DTSTART:20260909T220000Z
 DTEND:20260910T010000Z
@@ -494,13 +484,13 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shoot Amazing B-Roll\, online
-DTSTART:20260910T180000Z
-DTEND:20260910T200000Z
-DTSTAMP:20260910T180000Z
-UID:Shoot Amazing B-Roll\, online-2026-09-10T18:00:00+00:00
-DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/shoot-amazing-b
- -roll/
+SUMMARY:Make a Podcast on Your Phone
+DTSTART:20260909T150000Z
+DTEND:20260909T170000Z
+DTSTAMP:20260909T150000Z
+UID:Make a Podcast on Your Phone-2026-09-09T15:00:00+00:00
+DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/make-a-podcast-
+ on-your-phone/
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
@@ -511,6 +501,16 @@ DTSTAMP:20260910T143000Z
 UID:Street Photography\, BPL-2026-09-10T14:30:00+00:00
 DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/street-photogr
  aphy/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternatives to Adobe\, BPL
+DTSTART:20260910T180000Z
+DTEND:20260910T200000Z
+DTSTAMP:20260910T180000Z
+UID:Alternatives to Adobe\, BPL-2026-09-10T18:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/alternatives-to-ad
+ obe/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 END:VCALENDAR
