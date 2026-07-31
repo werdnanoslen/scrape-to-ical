@@ -71,64 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sold Out: Block Party
-DTSTART;VALUE=DATE:20260730T040000Z
-DTEND;VALUE=DATE:20260730T060000Z
-UID:Sold Out: Block Party-2026-07-30 04:00:00+00:00
-DESCRIPTION:Thursday\, July 30\, 2026 | DJ & events start at 4 p.m.Free a
- dmission all day\n\nDon’t miss our summer Block Party celebrating 30 yea
- rs of the Greenest Block in Brooklyn! Admission is free all day.Learn More
- ›about Sold Out: Block Party\n\nMore info:\nhttps://www.bbg.org/visit/ev
- ent/block_party\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/las
- t-lap_LL_54507600776.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer Discovery Days
-DTSTART;VALUE=DATE:20260730T040000Z
-DTEND;VALUE=DATE:20260730T060000Z
-UID:Summer Discovery Days-2026-07-30 04:00:00+00:00
-DESCRIPTION:Thursdays\, July 16–August 13\, 2026 | 10:30 a.m.–12:30 p.
- m.\n					\n\n\n					\n						\n							| Drop-in\n\nExperiment\, learn\, and
-  play together in the Discovery Garden! Families\, school groups\, and cam
- p groups welcome.Learn More›about Summer Discovery Days\n\nMore info:\nh
- ttps://www.bbg.org/visit/event/summer_discovery_days\n\n<img src="/img/upl
- oads/hero/_list_thumbnail_regular/discovery-carts-docents-MS-2838112223.jp
- eg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260730T040000Z
-DTEND;VALUE=DATE:20260730T060000Z
-UID:Seasonal Highlights Tour-2026-07-30 04:00:00+00:00
-DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
- a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
- n in this free walk led by trained Garden Guides.Learn More›about Season
- al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
- _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
- ses-summer-JW-54760452942.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Greenest Mocktail in Brooklyn
-DTSTART;VALUE=DATE:20260730T040000Z
-DTEND;VALUE=DATE:20260730T060000Z
-UID:Greenest Mocktail in Brooklyn-2026-07-30 04:00:00+00:00
-DESCRIPTION:Single session on Thursday\, July 16 or July 30\, 2026 | 7:30
- –9 p.m. \n					\n\n\n					\n						\n							| Preregistration Required\n\
- nLearn to make fresh mocktails that incorporate herbs you can easily grow 
- on your stoop\, balcony\, or windowsill.Learn More›about Greenest Mockta
- il in Brooklyn\n\nMore info:\nhttps://www.bbg.org/classes/greenest_mocktai
- l_in_brooklyn\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Green
- est-Mocktails-Arvolyn-Hill.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer First Discoveries
 DTSTART;VALUE=DATE:20260731T040000Z
 DTEND;VALUE=DATE:20260731T060000Z
@@ -548,6 +490,34 @@ DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | July 8–Augu
  ore›about Summer First Discoveries\n\nMore info:\nhttps://www.bbg.org/vi
  sit/event/first_discoveries_summer\n\n<img src="/img/uploads/hero/_list_th
  umbnail_regular/first-discoveries_MS_52895122449.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garden Sketchbook
+DTSTART;VALUE=DATE:20260815T040000Z
+DTEND;VALUE=DATE:20260815T060000Z
+UID:Garden Sketchbook-2026-08-15 04:00:00+00:00
+DESCRIPTION:Saturday\, August 15\, 2026 | 10 a.m.–12 p.m. \n					\n\n\n	
+ 				\n						\n							| Preregistration Required\n\nLearn how to make a bea
+ utiful accordion sketchbook and fill it with nature drawings and notes.Lea
+ rn More›about Garden Sketchbook\n\nMore info:\nhttps://www.bbg.org/class
+ es/garden_sketchbook\n\n<img src="/img/uploads/hero/_list_thumbnail_regula
+ r/21WAEARTSSN.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260815T040000Z
+DTEND;VALUE=DATE:20260815T060000Z
+UID:Seasonal Highlights Tour-2026-08-15 04:00:00+00:00
+DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11 
+ a.m.–12 p.m.\n\nDiscover summer blooms and other highlights of the seaso
+ n in this free walk led by trained Garden Guides.Learn More›about Season
+ al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
+ _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
+ ses-summer-JW-54760452942.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
