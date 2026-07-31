@@ -11,74 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260730T200000Z
-DTEND:20260730T000000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828070
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260730T213000Z
-DTEND:20260730T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/828179
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Make Your First Website
-DTSTART:20260730T213000Z
-DTEND:20260730T233000Z
-DESCRIPTION:Join instructor Richard Green (aka Ragman) to learn the basics
-  of HTML and create your very own custom webpage on Neocities. No prior co
- ding experience is required! Please bring your own laptop if you\n\nhttps
- ://www.bklynlibrary.org/node/831005
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Premiere Screening: The Librarians: The Next Chapter
-DTSTART:20260730T213000Z
-DTEND:20260730T233000Z
-DESCRIPTION:Join stars Bluey Robinson and Jessica Green for a special prem
- iere of season 2\, followed by a meet-and-greet!\n\nhttps://www.bklynlibra
- ry.org/node/836331
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260730T220000Z
-DTEND:20260730T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/830865
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Market Research Simplified! Researching Your Customers
-DTSTART:20260730T220000Z
-DTEND:20260730T233000Z
-DESCRIPTION:The Brooklyn Public Library's Business & Career Center invites
-  you to a webinar series designed to demystify market research and equip y
- ou with the foresight you'll need to identify opportunities\, mit\n\nhttps
- ://www.bklynlibrary.org/node/832280
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260730T220000Z
-DTEND:20260730T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8359
- 98
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movie: The Phoenician Scheme (2025)
 DTSTART:20260731T143000Z
 DTEND:20260731T161000Z
@@ -384,5 +316,70 @@ DTEND:20260803T210000Z
 DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
  /816846
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Yoga
+DTSTART:20260803T200000Z
+DTEND:20260803T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/825136
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260803T203000Z
+DTEND:20260803T220000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8342
+ 37
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class with Chance
+DTSTART:20260803T210000Z
+DTEND:20260803T214500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/820471
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260803T220000Z
+DTEND:20260803T230000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/824879
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Certifications for Government Contracts | SBA Government Contracti
+ ng Series\, Part 2
+DTSTART:20260803T220000Z
+DTEND:20260803T233000Z
+DESCRIPTION:Government certifications aren't just paperwork—they're your
+  strategic key to unlocking exclusive contracting opportunities\, gaining 
+ a serious competitive edge\, and building sustainable revenue from f\n\nht
+ tps://www.bklynlibrary.org/node/829434
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Black Business Month - A’Lelia Bundles Discusses Joy Goddess
+DTSTART:20260803T220000Z
+DTEND:20260803T000000Z
+DESCRIPTION:Brooklyn Public Library presents JOY GODDESS: Black Beauty + T
+ he Harlem Renaissance as a thematic experience exploring how A’Lelia Wa
+ lker (Madam C.J. Walker’s Daughter & Heir) helped define the spirit\n\n
+ https://www.bklynlibrary.org/node/828919
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260804T133000Z
+DTEND:20260804T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/834278
+LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 END:VCALENDAR
