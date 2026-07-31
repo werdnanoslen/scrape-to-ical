@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260731T150000Z
-DTEND:20260731T200000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/833749
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Collaging & Tea with Tea Art Master Julia Adams
-DTSTART:20260731T183000Z
-DTEND:20260731T203000Z
-DESCRIPTION:Join us for collage-making followed by a traditional Chinese t
- ea ceremony by Tea Art Master Julia Adams!\n\nhttps://www.bklynlibrary.org
- /node/831093
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lesbian Library Day: Button Making and Book Exchange
 DTSTART:20260801T140000Z
 DTEND:20260801T200000Z
@@ -384,5 +365,23 @@ DESCRIPTION:Looking to share your current knitting project with others? Co
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
  s://www.bklynlibrary.org/node/825104
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume Hours
+DTSTART:20260804T210000Z
+DTEND:20260804T230000Z
+DESCRIPTION:Come speak with a case manager every Monday from 12-2pm and ev
+ ery Tuesday from 5-7pm for on-the-spot resume help.\n\nhttps://www.bklynli
+ brary.org/node/826882
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DSAIL Study Hall: Digital Skills & AI Literacy
+DTSTART:20260804T213000Z
+DTEND:20260804T233000Z
+DESCRIPTION:For current Digital Skills & AI Literacy participants- and any
+ one interested in getting started. Learn more about the DSAIL program here
+ : bklynlib.org/digital-skills\n\nhttps://www.bklynlibrary.org/node/837994
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
