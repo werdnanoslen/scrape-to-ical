@@ -94,16 +94,6 @@ DESCRIPTION:Join us for collage-making followed by a traditional Chinese t
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lesbian Library Day: BookMatch Live
-DTSTART:20260801T140000Z
-DTEND:20260801T180000Z
-DESCRIPTION:Looking for your next great read? Come between 10am and 2pm to
-  receive live book recommendations from BookMatch Librarians! Librarians w
- ill be able to recommend books in all genres and for all ages!Ca\n\nhttps:
- //www.bklynlibrary.org/node/834352
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lesbian Library Day: Button Making and Book Exchange
 DTSTART:20260801T140000Z
 DTEND:20260801T200000Z
@@ -156,6 +146,16 @@ DTEND:20260801T163000Z
 DESCRIPTION:WRITE A FRIEND. MAKE A FRIEND. UNPLUG. JOIN THE CLUB.\n\nhttps
  ://www.bklynlibrary.org/node/832932
 LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesbian Library Day: BookMatch Live
+DTSTART:20260801T150000Z
+DTEND:20260801T180000Z
+DESCRIPTION:Looking for your next great read? Come between 11am and 2pm to
+  receive live book recommendations from BookMatch Librarians! Librarians w
+ ill be able to recommend books in all genres and for all ages!Ca\n\nhttps:
+ //www.bklynlibrary.org/node/834352
+LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lesbian Library Day: Zine Making with JD Glass and Kris Dresen
