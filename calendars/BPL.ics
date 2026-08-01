@@ -11,17 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Lesbian Library Day: Rachel Karp in conversation with Nikke Alleyn
- e (co-owner of The Bush)
-DTSTART:20260801T200000Z
-DTEND:20260801T210000Z
-DESCRIPTION:At the end of our first Lesbian Library Day\, join us for a co
- nversation with Rachel Karp\, co-creator of the podcast Cruising and autho
- r of The Lesbian Bar Chronicles. Rachel will share her experience\n\nhttps
- ://www.bklynlibrary.org/node/834500
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NYC Livecode Meetup
 DTSTART:20260802T173000Z
 DTEND:20260802T203000Z
@@ -384,5 +373,13 @@ DESCRIPTION:Please join us at our adult coloring session! No registratio
  a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
  /830941
 LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20260805T180000Z
+DTEND:20260805T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818924
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
