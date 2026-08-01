@@ -11,53 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Lesbian Library Day: Resource Fair
-DTSTART:20260801T140000Z
-DTEND:20260801T200000Z
-DESCRIPTION:Join us for our first Lesbian* Library Day!\n\nhttps://www.bkl
- ynlibrary.org/node/831195
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lesbian Library Day: Button Making and Book Exchange
-DTSTART:20260801T140000Z
-DTEND:20260801T200000Z
-DESCRIPTION:While you're browsing our resource fair\, stop by our button m
- aking table! A selection of pre-cut button templates will be available for
-  you to customize. Make a pronoun button\, declare your love of th\n\nhttp
- s://www.bklynlibrary.org/node/834370
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260801T173000Z
-DTEND:20260801T193000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834611
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lesbian Library Day: DIY Screenprinting!
-DTSTART:20260801T183000Z
-DTEND:20260801T193000Z
-DESCRIPTION:Come and use our screenprinting materials to create a commemor
- ative Lesbian Library Day souvenir! Two options will be available to print
-  and take home. Please bring your own t-shirt\, bag\, or other fab\n\nhttp
- s://www.bklynlibrary.org/node/833012
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights) with Margot
-DTSTART:20260801T183000Z
-DTEND:20260801T203000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing. 
- Instructor Margot will be at this session. Please refer to her wit\n\nhttp
- s://www.bklynlibrary.org/node/837192
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lesbian Library Day: Rachel Karp in conversation with Nikke Alleyn
  e (co-owner of The Bush)
 DTSTART:20260801T200000Z
@@ -382,5 +335,54 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/837387
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260805T150000Z
+DTEND:20260805T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library (2
+ nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
+ ps://www.bklynlibrary.org/node/814001
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sound Bath Meditation
+DTSTART:20260805T153000Z
+DTEND:20260805T160000Z
+DESCRIPTION:Join us for a relaxing Sound Bath Meditation\, led by Flutist 
+ Paul Wellington. Give yourself the space to breath\, relax\, and reconnect
+ .\n\nhttps://www.bklynlibrary.org/node/811139
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Stop the Bleed
+DTSTART:20260805T160000Z
+DTEND:20260805T170000Z
+DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
+ nd to emergencies where life-threatening bleeding is present. By learning 
+ just a few simple steps\, you can become trained to save a life in\n\nhttp
+ s://www.bklynlibrary.org/node/807813
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260805T160000Z
+DTEND:20260805T173000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/829813
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20260805T170000Z
+DTEND:20260805T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /830941
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
