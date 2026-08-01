@@ -29,34 +29,6 @@ DESCRIPTION:While you're browsing our resource fair\, stop by our button m
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260801T143000Z
-DTEND:20260801T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8351
- 58
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lesbian Library Day: Bingo!
-DTSTART:20260801T143000Z
-DTEND:20260801T153000Z
-DESCRIPTION:Drop in for a game or two of Bingo! We'll be playing our favor
- ite sapphic music and playing rounds of Bingo! Compete for prizes and hang
-  out with community - it's a win-win!\n\nhttps://www.bklynlibrary.org/node
- /835615
-LOCATION:Central Library\, Info Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shape Up NYC: Bodyweight Circuit Training
-DTSTART:20260801T143000Z
-DTEND:20260801T151500Z
-DESCRIPTION:A bodyweight circuit class combining cardio\, strength\, and c
- ore-focused movements for a dynamic full-body workout! This class welcomes
-  all fitness levels.\n\nhttps://www.bklynlibrary.org/node/837230
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Letter Writing Club
 DTSTART:20260801T150000Z
 DTEND:20260801T163000Z
@@ -383,5 +355,32 @@ DESCRIPTION:For current Digital Skills & AI Literacy participants- and any
  one interested in getting started. Learn more about the DSAIL program here
  : bklynlib.org/digital-skills\n\nhttps://www.bklynlibrary.org/node/837994
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20260804T220000Z
+DTEND:20260804T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826252
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Citizenship Class
+DTSTART:20260804T220000Z
+DTEND:20260804T000000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/834284
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260804T220000Z
+DTEND:20260804T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/834571
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
