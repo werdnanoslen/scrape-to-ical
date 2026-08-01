@@ -29,36 +29,6 @@ DESCRIPTION:While you're browsing our resource fair\, stop by our button m
 LOCATION:Central Library
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Lesbian Library Day: BookMatch Live
-DTSTART:20260801T150000Z
-DTEND:20260801T180000Z
-DESCRIPTION:Looking for your next great read? Come between 11am and 2pm to
-  receive live book recommendations from BookMatch Librarians! Librarians w
- ill be able to recommend books in all genres and for all ages!Ca\n\nhttps:
- //www.bklynlibrary.org/node/834352
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jigsaw Puzzle Contest
-DTSTART:20260801T160000Z
-DTEND:20260801T190000Z
-DESCRIPTION:This Jigsaw Puzzle Contest is open to teams of all ages! Every
-  team will be provided with the same 500-piece puzzle\, and the first to f
- inish wins. All will be allowed to finish.\n\nhttps://www.bklynlibrary.org
- /node/831965
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lesbian Library Day: Silent Reading Party
-DTSTART:20260801T171500Z
-DTEND:20260801T183000Z
-DESCRIPTION:Ready for a break after browsing our resource fair and getting
-  crafty? Looking to escape the heat and hang out in the AC? Looking to pic
- k up some free giveaway books? Come and join us for a silent rea\n\nhttps:
- //www.bklynlibrary.org/node/836073
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260801T173000Z
 DTEND:20260801T193000Z
@@ -385,5 +355,32 @@ DESCRIPTION:Join BPL Heritage ambassador 2023  Peruvian singer  composer
  ts for a meet up introducing  RUNA SIMI —"the people's language" in\n\n
  https://www.bklynlibrary.org/node/836332
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260805T140000Z
+DTEND:20260805T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
+ 44
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation For Adults
+DTSTART:20260805T140000Z
+DTEND:20260805T153000Z
+DESCRIPTION:All beginners in Hebrew join us to learn\, practice and speak 
+ Hebrew\n\nhttps://www.bklynlibrary.org/node/833722
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260805T140000Z
+DTEND:20260805T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/837387
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
