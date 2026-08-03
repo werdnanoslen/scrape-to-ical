@@ -19,22 +19,6 @@ DESCRIPTION:Come play American or Chinese Mahjong!\n\nhttps://www.bklynli
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Free English Class (We Speak NYC)
-DTSTART:20260803T150000Z
-DTEND:20260803T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833220
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Classes (We Speak NYC)
-DTSTART:20260803T150000Z
-DTEND:20260803T170000Z
-DESCRIPTION:The library offers free English classes for beginners learning
-  English.\n\nhttps://www.bklynlibrary.org/node/833823
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260803T150000Z
 DTEND:20260803T170000Z
@@ -54,6 +38,22 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free English Class (We Speak NYC)
+DTSTART:20260803T150000Z
+DTEND:20260803T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/833220
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free English Classes (We Speak NYC)
+DTSTART:20260803T150000Z
+DTEND:20260803T170000Z
+DESCRIPTION:The library offers free English classes for beginners learning
+  English.\n\nhttps://www.bklynlibrary.org/node/833823
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drop-In Resume Hours
 DTSTART:20260803T160000Z
 DTEND:20260803T180000Z
@@ -71,6 +71,16 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828020
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chair Aerobics for Adults
+DTSTART:20260803T170000Z
+DTEND:20260803T180000Z
+DESCRIPTION:Join instructor Kellyanne Drayton Beach for chair aerobics! Ke
+ llyanne specializes in senior fitness\, half standing and half sitting. Th
+ e class will begin with stretch and breathing exercises. Workouts\n\nhttps
+ ://www.bklynlibrary.org/node/838599
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Drop-In Resume & Career Help (Central Library)
@@ -241,16 +251,6 @@ DESCRIPTION:For current Digital Skills & AI Literacy participants- and any
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
-DTSTART:20260804T220000Z
-DTEND:20260804T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/826252
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Citizenship Class
 DTSTART:20260804T220000Z
 DTEND:20260804T000000Z
@@ -287,6 +287,16 @@ DESCRIPTION:Join BPL Heritage ambassador 2023  Peruvian singer  composer
  ts for a meet up introducing  RUNA SIMI —"the people's language" in\n\n
  https://www.bklynlibrary.org/node/836332
 LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Adult Creative Writing Group
+DTSTART:20260804T220000Z
+DTEND:20260804T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826252
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -371,14 +381,5 @@ DTEND:20260805T200000Z
 DESCRIPTION:This is a self-service open lab with support tech in the room 
  to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818924
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Senator Gounardes Office Hours
-DTSTART:20260805T180000Z
-DTEND:20260805T210000Z
-DESCRIPTION:Meet Senator Gournardes' office representatives to talk about 
- the issues and receive in person assistance accessing state social service
- s.\n\nhttps://www.bklynlibrary.org/node/819241
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
 END:VEVENT
 END:VCALENDAR
