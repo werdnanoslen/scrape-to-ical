@@ -21,6 +21,16 @@ DESCRIPTION:One-on-one resume coaching at the library offers individualize
 LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260804T180000Z
+DTEND:20260804T193000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Brooklyn Heights L
+ ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
+ ps://www.bklynlibrary.org/node/831372
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free Online Intermediate English Class (We Speak NYC)
 DTSTART:20260804T180000Z
 DTEND:20260804T200000Z
@@ -30,24 +40,12 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260804T180000Z
-DTEND:20260804T190000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/836395
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260804T180000Z
-DTEND:20260804T193000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Brighton Beach Lib
- rary for help with your resume\, cover letter\, interview\, and job\n\nhtt
- ps://www.bklynlibrary.org/node/831372
-LOCATION:Brooklyn Heights Library
+SUMMARY:Theater Workshop
+DTSTART:20260804T190000Z
+DTEND:20260804T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81702
+ 1
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
@@ -58,14 +56,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/827994
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260804T190000Z
-DTEND:20260804T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81702
- 1
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
@@ -384,5 +374,14 @@ DESCRIPTION:The Pace University Small Business Development Center (SBDC)
  e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
  lynlibrary.org/node/828653
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260806T140000Z
+DTEND:20260806T160000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/834603
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
