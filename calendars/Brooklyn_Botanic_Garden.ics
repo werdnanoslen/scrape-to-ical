@@ -114,6 +114,18 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Members’ Night for Children
+DTSTART;VALUE=DATE:20260805T040000Z
+DTEND;VALUE=DATE:20260805T060000Z
+UID:Members’ Night for Children-2026-08-05 04:00:00+00:00
+DESCRIPTION:Wednesday\, August 5\, 2026 | 6–8:30 p.m.\n\n\n\nMore info:\
+ nhttps://www.bbg.org/visit/event/members_night_for_children\n\n<img src="/
+ img/uploads/hero/_list_thumbnail_regular/members-childrens-night-MS_522791
+ 11331.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Members’ Summer Evenings
 DTSTART;VALUE=DATE:20260805T040000Z
 DTEND;VALUE=DATE:20260805T060000Z
@@ -123,18 +135,6 @@ DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
  about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
  event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
  thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members’ Night for Children
-DTSTART;VALUE=DATE:20260805T040000Z
-DTEND;VALUE=DATE:20260805T060000Z
-UID:Members’ Night for Children-2026-08-05 04:00:00+00:00
-DESCRIPTION:Wednesday\, August 5\, 2026 | 6–8:30 p.m.\n\n\n\nMore info:\
- nhttps://www.bbg.org/visit/event/members_night_for_children\n\n<img src="/
- img/uploads/hero/_list_thumbnail_regular/members-childrens-night-MS_522791
- 11331.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -397,6 +397,33 @@ DESCRIPTION:Thursday\, Saturday & Sunday\, July 2–August 23\, 2026 | 11
  al Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal
  _highlights_tour\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/ro
  ses-summer-JW-54760452942.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260819T040000Z
+DTEND;VALUE=DATE:20260819T060000Z
+UID:Members’ Summer Evenings-2026-08-19 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Movie Night
+DTSTART;VALUE=DATE:20260819T040000Z
+DTEND;VALUE=DATE:20260819T060000Z
+UID:Members’ Movie Night-2026-08-19 04:00:00+00:00
+DESCRIPTION:Wednesday\, August 19\, 2026 (Rain date: Wednesday\, August 26
+ ) | 6–8:30 p.m.\n\nJoin us for a movie under the stars! Bring a blanket\
+ , grab some snacks\, and enjoy the show.Learn More›about Members’ Movi
+ e Night\n\nMore info:\nhttps://www.bbg.org/visit/event/members_movie_night
+ \n\n<img src="/img/uploads/hero/_list_thumbnail_regular/movie-night_MS_523
+ 09584527.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
