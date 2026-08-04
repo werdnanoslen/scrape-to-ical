@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:CANCELLED: Virtual English Conversation Group
-DTSTART:20260803T220000Z
-DTEND:20260803T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/824879
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Business Month - A’Lelia Bundles Discusses Joy Goddess
-DTSTART:20260803T220000Z
-DTEND:20260803T000000Z
-DESCRIPTION:Brooklyn Public Library presents JOY GODDESS: Black Beauty + T
- he Harlem Renaissance as a thematic experience exploring how A’Lelia Wa
- lker (Madam C.J. Walker’s Daughter & Heir) helped define the spirit\n\n
- https://www.bklynlibrary.org/node/828919
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Certifications for Government Contracts | SBA Government Contracti
- ng Series\, Part 2
-DTSTART:20260803T220000Z
-DTEND:20260803T233000Z
-DESCRIPTION:Government certifications aren't just paperwork—they're your
-  strategic key to unlocking exclusive contracting opportunities\, gaining 
- a serious competitive edge\, and building sustainable revenue from f\n\nht
- tps://www.bklynlibrary.org/node/829434
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Citizenship Class
 DTSTART:20260804T133000Z
 DTEND:20260804T163000Z
@@ -385,5 +355,32 @@ DESCRIPTION:How can we make music drawing inspiration from the sounds of o
  ing\, a text message\, a book\, ourselves\, or the world? What lies\n\nhtt
  ps://www.bklynlibrary.org/node/832253
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260805T220000Z
+DTEND:20260805T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
+ 63
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Swingtime Big Band
+DTSTART:20260805T230000Z
+DTEND:20260805T003000Z
+DESCRIPTION:In case of rain\, this concert will relocate to the Dweck Cent
+ er\, located on the lower level of Central Library.\n\nhttps://www.bklynli
+ brary.org/node/824738
+LOCATION:Central Library\, Plaza
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20260806T140000Z
+DTEND:20260806T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
+ 56
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
