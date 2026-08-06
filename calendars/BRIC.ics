@@ -602,4 +602,34 @@ DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/interviewing-f
  or-film-tv/
 LOCATION:Virtual
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audition Essentials\, in-person
+DTSTART:20260917T143000Z
+DTEND:20260917T173000Z
+DTSTAMP:20260917T143000Z
+UID:Audition Essentials\, in-person-2026-09-17T14:30:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/audition-essential
+ s/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pre-Production Essentials\, online
+DTSTART:20260917T220000Z
+DTEND:20260918T000000Z
+DTSTAMP:20260917T220000Z
+UID:Pre-Production Essentials\, online-2026-09-17T22:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/pre-production-ess
+ entials/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3D Modeling with Blender
+DTSTART:20260918T180000Z
+DTEND:20260918T210000Z
+DTSTAMP:20260918T180000Z
+UID:3D Modeling with Blender-2026-09-18T18:00:00+00:00
+DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/3d-modeling-wi
+ th-blender/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
 END:VCALENDAR
