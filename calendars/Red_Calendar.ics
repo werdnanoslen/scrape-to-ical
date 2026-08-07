@@ -256,6 +256,15 @@ DESCRIPTION:https://cal.red/?event=5925\nCost: 0
 LOCATION:Harlem\; RSVP for address
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CITY TAPESTRY
+DTSTART:20260808T180000Z
+DTEND:20260808T190000Z
+DTSTAMP:20260808T180000Z
+UID:event:5949:2026-08-08T14:00:00
+DESCRIPTION:https://cal.red/?event=5949\nCost: free
+LOCATION:Gallery Onetwentyeight - 128 Rivington St. - Lower East Side
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Evidence of Becoming
 DTSTART:20260808T190000Z
 DTEND:20260808T200000Z
@@ -488,6 +497,15 @@ DESCRIPTION:https://cal.red/?event=5935\nCost: $10
 LOCATION:Bed Stuy\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LLVX Album Release Show w/ Scott Congyu Li\, Guuumaqu + More!
+DTSTART:20260809T223000Z
+DTEND:20260809T233000Z
+DTSTAMP:20260809T223000Z
+UID:event:5948:2026-08-09T18:30:00
+DESCRIPTION:https://cal.red/?event=5948\nCost: $15 Donation
+LOCATION:Long Island City\, Queens\, NY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
 DTSTART:20260810T220000Z
 DTEND:20260810T230000Z
@@ -606,6 +624,15 @@ UID:event:5928:2026-08-13T10:00:00
 DESCRIPTION:https://cal.red/?event=5928\nCost: 0
 LOCATION:Downtown Brooklyn across from Bookings/ BK Criminal Court (120 Sc
  hermerhorn St)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DARK DAYS (2000) film screening
+DTSTART:20260814T000000Z
+DTEND:20260814T010000Z
+DTSTAMP:20260814T000000Z
+UID:event:5950:2026-08-13T20:00:00
+DESCRIPTION:https://cal.red/?event=5950\nCost: free
+LOCATION:Gallery Onetwentyeight - 128 Rivington St. - Lower East Side
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brooklyn Jail Support Fest
@@ -762,6 +789,15 @@ DESCRIPTION:https://cal.red/?event=5941\nCost: free
 LOCATION:Gowanus\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LOWER INTESTINE poetry\, prose and zine reading
+DTSTART:20260820T220000Z
+DTEND:20260820T230000Z
+DTSTAMP:20260820T220000Z
+UID:event:5951:2026-08-20T18:00:00
+DESCRIPTION:https://cal.red/?event=5951\nCost: free
+LOCATION:Gallery Onetwentyeight - 128 Rivington St. - Lower East Side
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bbymutha\, Sha Ray + DJ Haram\, Archangel\, JWords + Nappy Nina [T
  hot Daughter Tour]
 DTSTART:20260821T010000Z
@@ -789,6 +825,15 @@ DTSTAMP:20260822T150000Z
 UID:event:5869:2026-08-22T11:00:00
 DESCRIPTION:https://cal.red/?event=5869\nCost: 0
 LOCATION:Tompkins Sq Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LOWER INTESTINE closing reception
+DTSTART:20260822T220000Z
+DTEND:20260822T230000Z
+DTSTAMP:20260822T220000Z
+UID:event:5953:2026-08-22T18:00:00
+DESCRIPTION:https://cal.red/?event=5953\nCost: free
+LOCATION:Gallery Onetwentyeight - 128 Rivington St. - Lower East Side
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cosmos Day
