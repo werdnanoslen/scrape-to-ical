@@ -39,16 +39,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clase de Computación
-DTSTART:20260807T150000Z
-DTEND:20260807T160000Z
-DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
- os conceptos básicos del uso de una computadora? ¿O tal vez ha pasado ti
- empo y desea repasar y mejorar sus habilidades de computación?Puede\n\nht
- tps://www.bklynlibrary.org/node/838948
-LOCATION:Pacific\, Basement Meeting Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260807T170000Z
 DTEND:20260807T190000Z
@@ -375,5 +365,15 @@ DESCRIPTION:Do you have a specific question about how to use computers or
   1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
  //www.bklynlibrary.org/node/836396
 LOCATION:Brooklyn Heights Library\, Orange Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260811T180000Z
+DTEND:20260811T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Brooklyn Heights L
+ ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
+ ps://www.bklynlibrary.org/node/831373
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR
