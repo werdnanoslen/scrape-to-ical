@@ -20,15 +20,6 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Shape Up NYC: Bodyweight Circuit Training
-DTSTART:20260808T143000Z
-DTEND:20260808T151500Z
-DESCRIPTION:A bodyweight circuit class combining cardio\, strength\, and c
- ore-focused movements for a dynamic full-body workout! This class welcomes
-  all fitness levels.\n\nhttps://www.bklynlibrary.org/node/837231
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Know Your Rights Community Meeting
 DTSTART:20260808T170000Z
 DTEND:20260808T190000Z
@@ -377,5 +368,13 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
   Heights.\n\nhttps://www.bklynlibrary.org/node/829367
 LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Citizenship Class
+DTSTART:20260811T220000Z
+DTEND:20260811T000000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/834285
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
