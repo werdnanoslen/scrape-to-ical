@@ -11,15 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Know Your Rights Community Meeting
-DTSTART:20260808T170000Z
-DTEND:20260808T190000Z
-DESCRIPTION:Learn how Constitutional rights apply if you are approached by
-  ICE or witness ICE activity in the neighborhood. All are welcome.\n\nhttp
- s://www.bklynlibrary.org/node/829412
-LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FOSSS Guided Music Production Session: Beginner
 DTSTART:20260808T170000Z
 DTEND:20260808T190000Z
@@ -27,6 +18,15 @@ DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
  ction program\, offering workshops and other instruction at Brooklyn Publi
  c Library.\n\nhttps://www.bklynlibrary.org/node/830290
 LOCATION:Central Library\, Info Commons\, Recording Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Know Your Rights Community Meeting
+DTSTART:20260808T170000Z
+DTEND:20260808T190000Z
+DESCRIPTION:Learn how Constitutional rights apply if you are approached by
+  ICE or witness ICE activity in the neighborhood. All are welcome.\n\nhttp
+ s://www.bklynlibrary.org/node/829412
+LOCATION:Crown Heights\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
