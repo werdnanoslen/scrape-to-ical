@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:FOSSS Guided Music Production Session: Beginner
-DTSTART:20260808T170000Z
-DTEND:20260808T190000Z
-DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
- ction program\, offering workshops and other instruction at Brooklyn Publi
- c Library.\n\nhttps://www.bklynlibrary.org/node/830290
-LOCATION:Central Library\, Info Commons\, Recording Studio
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Know Your Rights Community Meeting
-DTSTART:20260808T170000Z
-DTEND:20260808T190000Z
-DESCRIPTION:Learn how Constitutional rights apply if you are approached by
-  ICE or witness ICE activity in the neighborhood. All are welcome.\n\nhttp
- s://www.bklynlibrary.org/node/829412
-LOCATION:Crown Heights\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260808T173000Z
 DTEND:20260808T193000Z
@@ -57,16 +39,6 @@ DESCRIPTION:Take a well-deserved break from your job search or your work-w
 LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:G-REBELS Skillshare Workshop: Textile Arts!
-DTSTART:20260808T190000Z
-DTEND:20260808T210000Z
-DESCRIPTION:Please join us for the G-REBELS Peoples' Power Network Skillsh
- are Workshop: Textile Arts! We will be teaching how to embroider and how t
- o hand sew for beginners and will talk about the history of text\n\nhttps:
- //www.bklynlibrary.org/node/837709
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Feng Shui and I Ching
 DTSTART:20260808T193000Z
 DTEND:20260808T210000Z
@@ -75,6 +47,16 @@ DESCRIPTION:A Feng Shui course\, based on I-Ching's principles\, particul
  ants will be able to understand the purpose of Feng Shui and how it\n\nhtt
  ps://www.bklynlibrary.org/node/828302
 LOCATION:Hybrid: Virtual / Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:G-REBELS Skillshare Workshop: Textile Arts!
+DTSTART:20260808T193000Z
+DTEND:20260808T210000Z
+DESCRIPTION:Please join us for the G-REBELS Peoples' Power Network Skillsh
+ are Workshop: Textile Arts! We will be teaching how to embroider and how t
+ o hand sew for beginners and will talk about the history of text\n\nhttps:
+ //www.bklynlibrary.org/node/837709
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Getting to School: Making Special Education Busing Work!
@@ -376,5 +358,24 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/834572
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Author Talk: Call Me by Your Name\, The Graphic Novel
+DTSTART:20260811T220000Z
+DTEND:20260811T233000Z
+DESCRIPTION:Author Talk: Join us for a conversation with author André Aci
+ man and illustrator Sarah Maxwell-McNicol to celebrate their new book\, Ca
+ ll Me by Your Name: The Graphic Novel\, the gorgeous graphic novel\n\nhttp
+ s://www.bklynlibrary.org/node/837256
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260812T140000Z
+DTEND:20260812T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
+ 45
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
