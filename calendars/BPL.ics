@@ -30,15 +30,6 @@ DESCRIPTION:FOSSS (Free & Open StudioSonic Sciences) is a free music produ
 LOCATION:Central Library\, Info Commons\, Recording Studio
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Virtual English Conversation Group
-DTSTART:20260824T220000Z
-DTEND:20260824T230000Z
-DESCRIPTION:Practice your English speaking and listening skills with other
-  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
- ps://www.bklynlibrary.org/node/824882
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Learn & Play Mahjong
 DTSTART:20260824T220000Z
 DTEND:20260824T233000Z
@@ -380,6 +371,15 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  hing Corps (FCC) can help you manage your money\, find resources in a fina
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828048
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260826T210000Z
+DTEND:20260826T230000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/834597
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
