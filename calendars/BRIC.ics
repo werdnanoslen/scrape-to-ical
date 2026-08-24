@@ -247,6 +247,16 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ableton Live Essentials
+DTSTART:20260914T180000Z
+DTEND:20260914T210000Z
+DTSTAMP:20260914T180000Z
+UID:Ableton Live Essentials-2026-09-14T18:00:00+00:00
+DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
+ ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TD Financial Literacy for Creatives - Small Business Essentials
 DTSTART:20260914T220000Z
 DTEND:20260915T000000Z
@@ -256,16 +266,6 @@ UID:TD Financial Literacy for Creatives - Small Business Essentials-2026-0
 DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/td-bank-financial-
  literacy-for-creatives-small-business-essentials-2/
 LOCATION:Studio A
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ableton Live Essentials
-DTSTART:20260914T180000Z
-DTEND:20260914T210000Z
-DTSTAMP:20260914T180000Z
-UID:Ableton Live Essentials-2026-09-14T18:00:00+00:00
-DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
- ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marketing Your Podcast\, online
