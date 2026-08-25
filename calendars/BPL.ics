@@ -11,27 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
- siness Solutions Center
-DTSTART:20260825T170000Z
-DTEND:20260825T200000Z
-DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
- ? Join the NYC Business Solutions Brooklyn Center for "The Flower Hour\," 
- a special session of our popular Joint Ventures educational serie\n\nhttps
- ://www.bklynlibrary.org/node/819562
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Resume Coaching
-DTSTART:20260825T180000Z
-DTEND:20260825T200000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/828165
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260825T180000Z
 DTEND:20260825T210000Z
@@ -40,15 +19,6 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
  ps://www.bklynlibrary.org/node/831375
 LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online Intermediate English Class (We Speak NYC)
-DTSTART:20260825T180000Z
-DTEND:20260825T200000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834581
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Theater Workshop
@@ -380,5 +350,32 @@ DESCRIPTION:Learn how to use Adobe Photoshop for photo enhancement\, typog
  raphy\, and graphic design\, in this 4-part course.\n\nhttps://www.bklynli
  brary.org/node/828691
 LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual English Conversation Group
+DTSTART:20260827T143000Z
+DTEND:20260827T160000Z
+DESCRIPTION:Practice your English speaking and listening skills with other
+  adults who are learning English. Our group meets online\, on Zoom.\n\nhtt
+ ps://www.bklynlibrary.org/node/834769
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Total Body Fitness
+DTSTART:20260827T143000Z
+DTEND:20260827T153000Z
+DESCRIPTION:Join Shape Up NYC for a free fitness class at Park Slope Libra
+ ry every Thursday morning from 10:30 to 11:30 am.\n\nhttps://www.bklynlib
+ rary.org/node/839437
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260827T180000Z
+DTEND:20260827T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/837271
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
