@@ -51,14 +51,12 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260825T180000Z
-DTEND:20260825T190000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/836398
-LOCATION:Brooklyn Heights Library\, Orange Meeting Room
+SUMMARY:Theater Workshop
+DTSTART:20260825T190000Z
+DTEND:20260825T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81702
+ 4
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
@@ -69,14 +67,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/827997
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Workshop
-DTSTART:20260825T190000Z
-DTEND:20260825T210000Z
-DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/81702
- 4
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
@@ -381,5 +371,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8285
  11
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photoshop Essentials
+DTSTART:20260827T143000Z
+DTEND:20260827T173000Z
+DESCRIPTION:Learn how to use Adobe Photoshop for photo enhancement\, typog
+ raphy\, and graphic design\, in this 4-part course.\n\nhttps://www.bklynli
+ brary.org/node/828691
+LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 END:VCALENDAR
