@@ -50,6 +50,16 @@ DESCRIPTION:A monthly program at the Brooklyn Public Library where we revi
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: Adult Creative Writing Group
+DTSTART:20260825T220000Z
+DTEND:20260825T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826255
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:English Conversation Group - Brooklyn Heights
 DTSTART:20260825T220000Z
 DTEND:20260825T233000Z
@@ -74,16 +84,6 @@ DTSTART:20260825T220000Z
 DTEND:20260825T234500Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/835549
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Adult Creative Writing Group
-DTSTART:20260825T220000Z
-DTEND:20260825T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/826255
-LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
