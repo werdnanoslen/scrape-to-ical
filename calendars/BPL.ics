@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:1199SEIU Resume Drop-Off Event for Healthcare Professionals
-DTSTART:20260825T140000Z
-DTEND:20260825T180000Z
-DESCRIPTION:Are you a New York State certified or licensed health care pro
- fessional seeking the next step in your career? The Employment and Job Pla
- cement Division of 1199 Service Employees International Union's\n\nhttps:/
- /www.bklynlibrary.org/node/839817
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Flower Hour: Cannabis Business Counseling from the Brooklyn Bu
  siness Solutions Center
 DTSTART:20260825T170000Z
@@ -30,6 +20,26 @@ DESCRIPTION:Are you a budding entrepreneur in New York's cannabis industry
  a special session of our popular Joint Ventures educational serie\n\nhttps
  ://www.bklynlibrary.org/node/819562
 LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Resume Coaching
+DTSTART:20260825T180000Z
+DTEND:20260825T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828165
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260825T180000Z
+DTEND:20260825T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Brooklyn Heights L
+ ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
+ ps://www.bklynlibrary.org/node/831375
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Online Intermediate English Class (We Speak NYC)
@@ -49,26 +59,6 @@ DESCRIPTION:Do you have a specific question about how to use computers or
   1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
  //www.bklynlibrary.org/node/836398
 LOCATION:Brooklyn Heights Library\, Orange Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260825T180000Z
-DTEND:20260825T210000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Brooklyn Heights L
- ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
- ps://www.bklynlibrary.org/node/831375
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Resume Coaching
-DTSTART:20260825T180000Z
-DTEND:20260825T200000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/828165
-LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
@@ -128,16 +118,6 @@ DESCRIPTION:A monthly program at the Brooklyn Public Library where we revi
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
-DTSTART:20260825T220000Z
-DTEND:20260825T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/826255
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group - Brooklyn Heights
 DTSTART:20260825T220000Z
 DTEND:20260825T233000Z
@@ -162,6 +142,16 @@ DTSTART:20260825T220000Z
 DTEND:20260825T234500Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/835549
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Adult Creative Writing Group
+DTSTART:20260825T220000Z
+DTEND:20260825T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826255
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -381,6 +371,15 @@ DTEND:20260827T163000Z
 DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8041
  33
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260827T143000Z
+DTEND:20260827T163000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8285
+ 11
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
