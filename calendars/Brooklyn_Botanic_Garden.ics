@@ -115,6 +115,21 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Urban Garden Maintenance
+DTSTART;VALUE=DATE:20260901T040000Z
+DTEND;VALUE=DATE:20260901T060000Z
+UID:Urban Garden Maintenance-2026-09-01 04:00:00+00:00
+DESCRIPTION:6 weekly sessions beginning Saturday\, August 29 or Tuesday\, 
+ September 1\, 2026\n					\n\n\n					\n						\n							| Preregistration Req
+ uired\n\nBetter understand the practical tools and techniques for plant ca
+ re\, pruning\, transplanting\, and other essential tasks.Learn More›abou
+ t Urban Garden Maintenance\n\nMore info:\nhttps://www.bbg.org/classes/urba
+ n_garden_maintenance\n\n<img src="/img/uploads/hero/_list_thumbnail_regula
+ r/18WAEGARLYB_gardening_container.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Botanical Illustration 1
 DTSTART;VALUE=DATE:20260901T040000Z
 DTEND;VALUE=DATE:20260901T060000Z
@@ -140,21 +155,6 @@ DESCRIPTION:5 Tuesdays: September 1–September 29\, 2026 | 1:30–4 p.m.
  Illustration 2\n\nMore info:\nhttps://www.bbg.org/classes/botanical_illust
  ration_2\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Botanical-
  Illustration-2-White-Pultz.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Urban Garden Maintenance
-DTSTART;VALUE=DATE:20260901T040000Z
-DTEND;VALUE=DATE:20260901T060000Z
-UID:Urban Garden Maintenance-2026-09-01 04:00:00+00:00
-DESCRIPTION:6 weekly sessions beginning Saturday\, August 29 or Tuesday\, 
- September 1\, 2026\n					\n\n\n					\n						\n							| Preregistration Req
- uired\n\nBetter understand the practical tools and techniques for plant ca
- re\, pruning\, transplanting\, and other essential tasks.Learn More›abou
- t Urban Garden Maintenance\n\nMore info:\nhttps://www.bbg.org/classes/urba
- n_garden_maintenance\n\n<img src="/img/uploads/hero/_list_thumbnail_regula
- r/18WAEGARLYB_gardening_container.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -323,6 +323,37 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260908T040000Z
 DTEND;VALUE=DATE:20260908T060000Z
 UID:Seasonal Highlights Tour-2026-09-08 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
+ f the season in this free walk led by trained Garden Guides.Learn More›a
+ bout Seasonal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/eve
+ nt/seasonal_highlights_tour_fall\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/hardy-begonia_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall First Discoveries
+DTSTART;VALUE=DATE:20260909T040000Z
+DTEND;VALUE=DATE:20260909T060000Z
+UID:Fall First Discoveries-2026-09-09 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
+ –November 6\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot 
+ up a plant\, create a craft\, read a story\, and use your senses to explor
+ e nature at special Discovery Garden activity stations designed for toddle
+ rs. This summer\, find First Discoveries stations in both the Discovery Ga
+ rden Pavilion and the Woodland ecosystem.Learn More›about Fall First Dis
+ coveries\n\nMore info:\nhttps://www.bbg.org/visit/event/fall_first_discove
+ ries\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-days
+ _MS_52835703008.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260909T040000Z
+DTEND;VALUE=DATE:20260909T060000Z
+UID:Seasonal Highlights Tour-2026-09-09 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
  \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
  f the season in this free walk led by trained Garden Guides.Learn More›a
