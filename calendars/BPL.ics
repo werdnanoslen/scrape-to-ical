@@ -31,46 +31,6 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Immigrant Job Support (one-on-one) Sessions
-DTSTART:20260826T150000Z
-DTEND:20260826T170000Z
-DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
- nited States or have been here for a while) stop by the Central Library (2
- nd floor) for help with your resume\, cover letter\, interview\, an\n\nhtt
- ps://www.bklynlibrary.org/node/814004
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
-DTSTART:20260826T160000Z
-DTEND:20260826T180000Z
-DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
- over letter\, interview\, and job search questions. All sessions are one-o
- n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
- tps://www.bklynlibrary.org/node/829816
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NYPACE: Entrepreneur Flagship Information Session
-DTSTART:20260826T160000Z
-DTEND:20260826T170000Z
-DESCRIPTION:Learn about NYPACE\, a nonprofit organization that supports en
- trepreneurs with a team of advisors who will work with you on a key busine
- ss challenge through their Flagship program. With support from th\n\nhttp
- s://www.bklynlibrary.org/node/840684
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Coloring for Adults and Teens
-DTSTART:20260826T170000Z
-DTEND:20260826T180000Z
-DESCRIPTION:Please join us at our adult coloring session! No registratio
- n required\, just drop in. We provide the supplies while you partake in 
- a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
- /830944
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Quiet Reading Party
 DTSTART:20260826T173000Z
 DTEND:20260826T190000Z
@@ -81,6 +41,14 @@ DESCRIPTION:Come read with us and stick around to chat books\, tv\, movies
 LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20260826T180000Z
+DTEND:20260826T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818927
+LOCATION:Central Library\, Business & Career Center\, Room 7
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LevelUP Workforce Advancement Program: Fall 2026 Cohort Informatio
  n Session
 DTSTART:20260826T180000Z
@@ -89,23 +57,6 @@ DESCRIPTION:Join the BPL LevelUP Workforce Advancement Program for one of
  our upcoming Fall 2026 Information Sessions to learn more about our next c
  ohort.\n\nhttps://www.bklynlibrary.org/node/834095
 LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260826T180000Z
-DTEND:20260826T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/837270
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20260826T180000Z
-DTEND:20260826T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818927
-LOCATION:Central Library\, Business & Career Center\, Room 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Philosophy Discussion Group: Plato's Symposium
@@ -383,5 +334,51 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
  communication and digital tasks. Ask us if support is available\n\nhttps:/
  /www.bklynlibrary.org/node/837386
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20260828T170000Z
+DTEND:20260828T180000Z
+DESCRIPTION:Please join us for a discussion of the selected short story on
+  Friday\, August 28\, 2026\, from 1-2:00 p.m.\, in the B&CC Classroom.\n\n
+ https://www.bklynlibrary.org/node/833405
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260828T170000Z
+DTEND:20260828T190000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8341
+ 15
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Short Story Discussion Group
+DTSTART:20260828T170000Z
+DTEND:20260828T180000Z
+DESCRIPTION:Please join us for a discussion of "Wednesday is Trash Day" by
+  Vasyl Makhno\, on Friday\, August 28\, 2026\, from 1-2:00 p.m.\, in the B
+ &CC Classroom.\n\nhttps://www.bklynlibrary.org/node/827413
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260828T180000Z
+DTEND:20260828T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/828681
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Reading Closing Festival: Bingo!
+DTSTART:20260829T140000Z
+DTEND:20260829T160000Z
+DESCRIPTION:Join us for drop-in Bingo in the Info Commons! Games will be h
+ appening on a continuous basis from 10am - 12pm. Stay for one game or hang
+  out for longer! Prizes will be awarded for every winner.\n\nhttps://www.b
+ klynlibrary.org/node/825085
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR

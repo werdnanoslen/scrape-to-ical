@@ -878,6 +878,17 @@ DESCRIPTION:https://cal.red/?event=6031\n51 35th St\, Building 5\,\nIndust
 LOCATION:Tom Kane Theater
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Regulars and Spiral Editions present: Kristen Gallagher\, Mark He\
+ , Chucha
+DTSTART:20260912T230000Z
+DTEND:20260913T000000Z
+DTSTAMP:20260912T230000Z
+UID:event:6126:2026-09-12T19:00:00
+DESCRIPTION:https://cal.red/?event=6126\n257 Nassau Ave\nBrooklyn NY 11222
+ \nGreenpoint\nCost: Free
+LOCATION:Sunview Acropolis
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
 DTSTART:20260914T220000Z
 DTEND:20260914T230000Z
@@ -1029,6 +1040,16 @@ DTSTAMP:20260923T210000Z
 UID:event:6091:2026-09-23T17:00:00
 DESCRIPTION:https://cal.red/?event=6091\nCost: $45-$50
 LOCATION:Cordelia Wine Bar and Cafe 942 Bergen St\, Brooklyn\, NY 11238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Regulars #10: Liola Mattheis\, Cecilia Stelzer\, Isabel Boutiette
+DTSTART:20260924T230000Z
+DTEND:20260925T000000Z
+DTSTAMP:20260924T230000Z
+UID:event:6127:2026-09-24T19:00:00
+DESCRIPTION:https://cal.red/?event=6127\n257 Nassau Ave\nBrooklyn NY 11222
+ \nGreenpoint\nCost: Free
+LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
