@@ -11,21 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Beginning Hebrew Conversation For Adults
-DTSTART:20260826T140000Z
-DTEND:20260826T153000Z
-DESCRIPTION:All beginners in Hebrew join us to learn\, practice and speak 
- Hebrew\n\nhttps://www.bklynlibrary.org/node/833725
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Multilingual Business Help
-DTSTART:20260826T140000Z
-DTEND:20260826T160000Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/837444
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
 DTSTART:20260826T140000Z
 DTEND:20260826T200000Z
@@ -34,15 +19,6 @@ DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
   should have to go without the basics! If you or someone you know ne\n\nht
  tps://www.bklynlibrary.org/node/839622
 LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260826T140000Z
-DTEND:20260826T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
- 47
-LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
@@ -379,5 +355,33 @@ DESCRIPTION:BPL Presents welcomes Elizabeth “Lady” Montano back to the
   Dweck Stage to discuss Machel Montano’s Lyrics with Dr. Rudolph Ottley 
  and Melissa Noel.\n\nhttps://www.bklynlibrary.org/node/839480
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Movie: The Big Lebowski (1998)
+DTSTART:20260828T143000Z
+DTEND:20260828T163000Z
+DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
+ ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/831201
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260828T150000Z
+DTEND:20260828T170000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/828148
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260828T150000Z
+DTEND:20260828T200000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/837386
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
