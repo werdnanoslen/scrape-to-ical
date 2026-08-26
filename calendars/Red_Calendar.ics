@@ -204,6 +204,16 @@ DESCRIPTION:https://cal.red/?event=6112\nCost: 0
 LOCATION:Interference Archive
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Live Music: Music for Solidarity
+DTSTART:20260828T233000Z
+DTEND:20260829T003000Z
+DTSTAMP:20260828T233000Z
+UID:event:6118:2026-08-28T19:30:00
+DESCRIPTION:https://cal.red/?event=6118\nCost: $20+\, 100% of proceeds don
+ ated to Immigrant Defense Project
+LOCATION:Brooklyn Artery (1004 Cortelyou Rd\, Brooklyn).
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Growl Arcade
 DTSTART:20260829T000000Z
 DTEND:20260829T010000Z
@@ -322,6 +332,15 @@ UID:event:6094:2026-08-29T17:00:00
 DESCRIPTION:https://cal.red/?event=6094\n131 Chrystie St\, NYC\nLower East
   Side\nCost: free
 LOCATION:Home Sweet Home Bar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seeds for Palestine
+DTSTART:20260829T210000Z
+DTEND:20260829T220000Z
+DTSTAMP:20260829T210000Z
+UID:event:6117:2026-08-29T17:00:00
+DESCRIPTION:https://cal.red/?event=6117\nCost: 0
+LOCATION:Mayday Space
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Revolutionary Women in Puerto Rican Social Movements
