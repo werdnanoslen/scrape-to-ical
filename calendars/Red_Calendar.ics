@@ -38,6 +38,16 @@ DESCRIPTION:https://cal.red/?event=6095\nCost: Donation Based
 LOCATION:East Village
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🚨 DBNY COMMUNITY OUTREACH 🚨 🇵🇸 ICE AND IOF SUPPLIERS O
+ UT OF NYC! 🇵🇸
+DTSTART:20260826T203000Z
+DTEND:20260826T213000Z
+DTSTAMP:20260826T203000Z
+UID:event:6107:2026-08-26T16:30:00
+DESCRIPTION:https://cal.red/?event=6107\nCost: 0
+LOCATION:NYCHA Farragut Houses / Vinegar Hill and Brooklyn Navy Yard
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tenant Circle
 DTSTART:20260826T213000Z
 DTEND:20260826T223000Z
@@ -212,6 +222,15 @@ DESCRIPTION:https://cal.red/?event=6062\nCost: $10
 LOCATION:Supr Omen\, 1 Knickerbocker Ave\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Threads of Resistance: From Puerto Rico to Palestine
+DTSTART:20260828T230000Z
+DTEND:20260829T000000Z
+DTSTAMP:20260828T230000Z
+UID:event:6112:2026-08-28T19:00:00
+DESCRIPTION:https://cal.red/?event=6112\nCost: 0
+LOCATION:Interference Archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Growl Arcade
 DTSTART:20260829T000000Z
 DTEND:20260829T010000Z
@@ -295,6 +314,15 @@ DESCRIPTION:https://cal.red/?event=6026\nCost: 0
 LOCATION:boyfriend
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Past to Present: Black Queer Resistance and the Carceral State
+DTSTART:20260829T200000Z
+DTEND:20260829T210000Z
+DTSTAMP:20260829T200000Z
+UID:event:6110:2026-08-29T16:00:00
+DESCRIPTION:https://cal.red/?event=6110\nCost: 0
+LOCATION:Lesbian Herstory Archives
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NYC! After a small summer break\, we are back! 🍎🏙️
 DTSTART:20260829T210000Z
 DTEND:20260829T220000Z
@@ -369,6 +397,15 @@ DESCRIPTION:https://cal.red/?event=6093\n615 Vanderbilt Ave\nBrooklyn\nCos
 LOCATION:Unnameable Books
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:We’re Alive - Screening
+DTSTART:20260829T230000Z
+DTEND:20260830T000000Z
+DTSTAMP:20260829T230000Z
+UID:event:6111:2026-08-29T19:00:00
+DESCRIPTION:https://cal.red/?event=6111\nCost: 0
+LOCATION:Fort Greene Park
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Moon and Magic Ride
 DTSTART:20260829T231500Z
 DTEND:20260830T001500Z
@@ -394,6 +431,16 @@ DTSTAMP:20260830T160000Z
 UID:event:6068:2026-08-30T12:00:00
 DESCRIPTION:https://cal.red/?event=6068\nCost: Free
 LOCATION:Flux IV\, 56-21 2nd Street\, Long Island City\, NY 11101
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us in the autonomous zone!
+DTSTART:20260830T160000Z
+DTEND:20260830T170000Z
+DTSTAMP:20260830T160000Z
+UID:event:6105:2026-08-30T12:00:00
+DESCRIPTION:https://cal.red/?event=6105\n56-21 2nd St\, Long Island City\,
+  NY 11101\nCost: Free
+LOCATION:At Flux IV in Hunter's Point:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chill Out | Hidden City Fest
@@ -461,6 +508,15 @@ DTSTAMP:20260830T230000Z
 UID:event:6021:2026-08-30T19:00:00
 DESCRIPTION:https://cal.red/?event=6021\nCost: 0
 LOCATION:Various locations
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palaver People’s Corps Meeting
+DTSTART:20260831T223000Z
+DTEND:20260831T233000Z
+DTSTAMP:20260831T223000Z
+UID:event:6108:2026-08-31T18:30:00
+DESCRIPTION:https://cal.red/?event=6108\nCost: 0
+LOCATION:Another World
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clown Rebellion
@@ -557,6 +613,15 @@ DTSTAMP:20260903T230000Z
 UID:event:6092:2026-09-03T19:00:00
 DESCRIPTION:https://cal.red/?event=6092\nGreenpoint\, NY\nCost: $10-$20
 LOCATION:698 Manhattan ave\, Floors 2 & 3.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:poetry reading + zine swap!!!
+DTSTART:20260903T230000Z
+DTEND:20260904T000000Z
+DTSTAMP:20260903T230000Z
+UID:event:6109:2026-09-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6109\nCost: 0
+LOCATION:honey moon coffee shop
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Share a Meal!
@@ -679,6 +744,15 @@ UID:event:6098:2026-09-09T18:00:00
 DESCRIPTION:https://cal.red/?event=6098\nLos Sures\, Williamsburg.\nBrookl
  yn\, NY 11211)\nCost: Free
 LOCATION:P.I.T. (411 South 5th St\,
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ground Zero Plus 25
+DTSTART:20260909T230000Z
+DTEND:20260910T000000Z
+DTSTAMP:20260909T230000Z
+UID:event:6104:2026-09-09T19:00:00
+DESCRIPTION:https://cal.red/?event=6104\nCost: $14
+LOCATION:Great Hall at Cooper Union\, East Village
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Share a Meal!
@@ -820,6 +894,16 @@ UID:event:5977:2026-09-18T20:00:00
 DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
  h event on website.\nCost: Variable
 LOCATION:Pageant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Punk Rock Karaoke: A Benefit for the Non-Cooperating Prairieland D
+ efendants
+DTSTART:20260919T003000Z
+DTEND:20260919T013000Z
+DTSTAMP:20260919T003000Z
+UID:event:6102:2026-09-18T20:30:00
+DESCRIPTION:https://cal.red/?event=6102\nCost: $20 Suggested Donation
+LOCATION:Pine Box Rock Shop\, Bushwick\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
@@ -1043,6 +1127,16 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heartland Marimba Quartet NYC Concert
+DTSTART:20261103T230000Z
+DTEND:20261104T000000Z
+DTSTAMP:20261103T230000Z
+UID:event:6103:2026-11-03T18:00:00
+DESCRIPTION:https://cal.red/?event=6103\nCost: $40
+LOCATION:Players Theatre - 115 MacDougal Street\, New York\, NY\, United S
+ tates\, 10012.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
