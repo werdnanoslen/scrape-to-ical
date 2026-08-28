@@ -11,79 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Movie: The Big Lebowski (1998)
-DTSTART:20260828T143000Z
-DTEND:20260828T163000Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
- ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/831201
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caregiver Coffee Hour
-DTSTART:20260828T143000Z
-DTEND:20260828T153000Z
-DESCRIPTION:Caregiver Coffee Hour is a new program for nannies and non-par
- ent caregivers. For our first session\, come meet other caregivers and cha
- t over coffee!\n\nhttps://www.bklynlibrary.org/node/842140
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260828T150000Z
-DTEND:20260828T170000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/828148
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260828T150000Z
-DTEND:20260828T200000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/837386
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Short Story Discussion Group
-DTSTART:20260828T170000Z
-DTEND:20260828T180000Z
-DESCRIPTION:Please join us for a discussion of the selected short story on
-  Friday\, August 28\, 2026\, from 1-2:00 p.m.\, in the B&CC Classroom.\n\n
- https://www.bklynlibrary.org/node/833405
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260828T170000Z
-DTEND:20260828T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8341
- 15
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Short Story Discussion Group
-DTSTART:20260828T170000Z
-DTEND:20260828T180000Z
-DESCRIPTION:Please join us for a discussion of "Wednesday is Trash Day" by
-  Vasyl Makhno\, on Friday\, August 28\, 2026\, from 1-2:00 p.m.\, in the B
- &CC Classroom.\n\nhttps://www.bklynlibrary.org/node/827413
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260828T180000Z
-DTEND:20260828T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/828681
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Reading Closing Festival: Bingo!
 DTSTART:20260829T140000Z
 DTEND:20260829T160000Z
@@ -120,15 +47,6 @@ DESCRIPTION:Sashiko is the Japanese art of decorative\, visible clothing m
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer Reading Closing Festival
-DTSTART:20260829T150000Z
-DTEND:20260829T200000Z
-DESCRIPTION:Summer at the Library isn’t just for kids! Adult readers can
-  join in on the fun at exciting events and activities across Brooklyn\, al
- l summer long.\n\nhttps://www.bklynlibrary.org/node/824860
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Reading for Adults: Book Exchange
 DTSTART:20260829T150000Z
 DTEND:20260829T200000Z
@@ -139,12 +57,20 @@ DESCRIPTION:Exchange your gently used books at our first Summer Reading Bo
 LOCATION:Central Library\, Plaza
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Summer Reading Closing Festival
+DTSTART:20260829T150000Z
+DTEND:20260829T200000Z
+DESCRIPTION:Summer at the Library isn’t just for kids! Adult readers can
+  join in on the fun at exciting events and activities across Brooklyn\, al
+ l summer long.\n\nhttps://www.bklynlibrary.org/node/824860
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Summer Reading Closing Festival: Drop-in Crafting
 DTSTART:20260829T150000Z
 DTEND:20260829T200000Z
-DESCRIPTION:Stop in and craft with us in the Business & Career Center Clas
- sroom. Supplies will be provided!\n\nhttps://www.bklynlibrary.org/node/825
- 086
+DESCRIPTION:Stop in and craft with us in Info Commons Rooms 5\, 6\, and 7.
+  Supplies will be provided!\n\nhttps://www.bklynlibrary.org/node/825086
 LOCATION:Central Library\, Info Commons
 END:VEVENT
 BEGIN:VEVENT
@@ -378,5 +304,80 @@ DTEND:20260901T180000Z
 DESCRIPTION:Day 2 - Recording Session\n\nhttps://www.bklynlibrary.org/node
  /837849
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260901T150000Z
+DTEND:20260901T170000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/842331
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260901T180000Z
+DTEND:20260901T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828166
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online Intermediate English Class (We Speak NYC)
+DTSTART:20260901T180000Z
+DTEND:20260901T200000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/834582
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260901T180000Z
+DTEND:20260901T190000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/836399
+LOCATION:Brooklyn Heights Library\, Orange Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260901T180000Z
+DTEND:20260901T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Brooklyn Heights L
+ ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
+ ps://www.bklynlibrary.org/node/831376
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260901T190000Z
+DTEND:20260901T210000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/827998
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260901T190000Z
+DTEND:20260901T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/84243
+ 6
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20260901T210000Z
+DTEND:20260901T223000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/825108
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
