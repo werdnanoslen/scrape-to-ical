@@ -101,20 +101,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Botanical Illustration 1
-DTSTART;VALUE=DATE:20260901T040000Z
-DTEND;VALUE=DATE:20260901T060000Z
-UID:Botanical Illustration 1-2026-09-01 04:00:00+00:00
-DESCRIPTION:5 Tuesdays: September 1–29\, 2026 | 10 a.m.–12:30 p.m. \n	
- 				\n\n\n					\n						| Waitlist Only\n\nCapture the true beauty of plant
- s and flowers in this beginner-friendly botanical art class.Learn More›a
- bout Botanical Illustration 1\n\nMore info:\nhttps://www.bbg.org/classes/b
- otanical_illustration_1\n\n<img src="/img/uploads/hero/_list_thumbnail_reg
- ular/E.White-Pultz_trout-lily_Botanical-Illustration_.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Botanical Illustration 2
 DTSTART;VALUE=DATE:20260901T040000Z
 DTEND;VALUE=DATE:20260901T060000Z
@@ -126,6 +112,20 @@ DESCRIPTION:5 Tuesdays: September 1–September 29\, 2026 | 1:30–4 p.m.
  Illustration 2\n\nMore info:\nhttps://www.bbg.org/classes/botanical_illust
  ration_2\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Botanical-
  Illustration-2-White-Pultz.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Botanical Illustration 1
+DTSTART;VALUE=DATE:20260901T040000Z
+DTEND;VALUE=DATE:20260901T060000Z
+UID:Botanical Illustration 1-2026-09-01 04:00:00+00:00
+DESCRIPTION:5 Tuesdays: September 1–29\, 2026 | 10 a.m.–12:30 p.m. \n	
+ 				\n\n\n					\n						| Waitlist Only\n\nCapture the true beauty of plant
+ s and flowers in this beginner-friendly botanical art class.Learn More›a
+ bout Botanical Illustration 1\n\nMore info:\nhttps://www.bbg.org/classes/b
+ otanical_illustration_1\n\n<img src="/img/uploads/hero/_list_thumbnail_reg
+ ular/E.White-Pultz_trout-lily_Botanical-Illustration_.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -159,22 +159,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Woody Landscape Plant ID
-DTSTART;VALUE=DATE:20260902T040000Z
-DTEND;VALUE=DATE:20260902T060000Z
-UID:Woody Landscape Plant ID-2026-09-02 04:00:00+00:00
-DESCRIPTION:6 weekly sessions beginning Wednesday\, September 2 or Saturda
- y\, September 19\, 2026\n					\n\n\n					\n						\n							| Preregistratio
- n Required\n\nWoody plants—including shade trees\, ornamental trees\, an
- d evergreen and deciduous shrubs—form the backbone of a well-planned lan
- dscape design.Learn More›about Woody Landscape Plant ID\n\nMore info:\nh
- ttps://www.bbg.org/classes/woody_landscape_plant_id_fall\n\n<img src="/img
- /uploads/hero/_list_thumbnail_regular/oriental_beech-MS_52338490377.jpg" a
- lt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Botany for Horticulturists
 DTSTART;VALUE=DATE:20260902T040000Z
 DTEND;VALUE=DATE:20260902T060000Z
@@ -187,6 +171,22 @@ DESCRIPTION:10 sessions beginning Wednesday\, September 2 or 8 sessions be
  ›about Botany for Horticulturists\n\nMore info:\nhttps://www.bbg.org/cla
  sses/botany_for_horticulturists\n\n<img src="/img/uploads/hero/_list_thumb
  nail_regular/20WAEGARBB.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Woody Landscape Plant ID
+DTSTART;VALUE=DATE:20260902T040000Z
+DTEND;VALUE=DATE:20260902T060000Z
+UID:Woody Landscape Plant ID-2026-09-02 04:00:00+00:00
+DESCRIPTION:6 weekly sessions beginning Wednesday\, September 2 or Saturda
+ y\, September 19\, 2026\n					\n\n\n					\n						\n							| Preregistratio
+ n Required\n\nWoody plants—including shade trees\, ornamental trees\, an
+ d evergreen and deciduous shrubs—form the backbone of a well-planned lan
+ dscape design.Learn More›about Woody Landscape Plant ID\n\nMore info:\nh
+ ttps://www.bbg.org/classes/woody_landscape_plant_id_fall\n\n<img src="/img
+ /uploads/hero/_list_thumbnail_regular/oriental_beech-MS_52338490377.jpg" a
+ lt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -536,6 +536,48 @@ DESCRIPTION:Saturday September 12\, 2026 |  1:30–2:30 p.m.  \n					\n\n\
  ww.bbg.org/visit/event/drop_in_bonsai_visits\n\n<img src="/img/uploads/her
  o/_list_thumbnail_regular/Bonsai-Museum_JW_260526-003-2800x1200-c.jpg" alt
  ="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbs 101
+DTSTART;VALUE=DATE:20260913T040000Z
+DTEND;VALUE=DATE:20260913T060000Z
+UID:Herbs 101-2026-09-13 04:00:00+00:00
+DESCRIPTION:Single session on Sunday\, September 13 or Tuesday\, September
+  15\, 2026 \n					\n\n\n					\n						\n							| Preregistration Required\n
+ \nUse your five senses to learn basic herb botany.Learn More›about Herbs
+  101\n\nMore info:\nhttps://www.bbg.org/classes/herbs_101\n\n<img src="/im
+ g/uploads/hero/_list_thumbnail_regular/49860615921-2800x1200-c.jpg" alt=""
+  />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Fall Mornings
+DTSTART;VALUE=DATE:20260913T040000Z
+DTEND;VALUE=DATE:20260913T060000Z
+UID:Members’ Fall Mornings-2026-09-13 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
+  October 24) | 9–10 a.m.\n\nOn weekend mornings from September 12 to Oc
+ tober 25\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
+ rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
+ g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
+ humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260913T040000Z
+DTEND;VALUE=DATE:20260913T060000Z
+UID:Seasonal Highlights Tour-2026-09-13 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
+ f the season in this free walk led by trained Garden Guides.Learn More›a
+ bout Seasonal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/eve
+ nt/seasonal_highlights_tour_fall\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/hardy-begonia_MS_52371474767.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
