@@ -519,6 +519,15 @@ DESCRIPTION:https://cal.red/?event=6130\nCost: General Admission: $14\; Me
 LOCATION:Anthology Film Archives\, Noho\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cyberplasm / Deli Girls / Haram / No Knock / Jack Propane
+DTSTART:20260904T230000Z
+DTEND:20260905T000000Z
+DTSTAMP:20260904T230000Z
+UID:event:6134:2026-09-04T19:00:00
+DESCRIPTION:https://cal.red/?event=6134\nCost: 20
+LOCATION:314 Scholes St.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Share a Meal!
 DTSTART:20260905T150000Z
 DTEND:20260905T160000Z
@@ -601,6 +610,15 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Forgotten Release Party
+DTSTART:20260908T010000Z
+DTEND:20260908T020000Z
+DTSTAMP:20260908T010000Z
+UID:event:6138:2026-09-07T21:00:00
+DESCRIPTION:https://cal.red/?event=6138\nCost: $15 Adv. / $20 at Door
+LOCATION:CASSETTE in Ridgewood\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Permacomputing NYC: Gameboy Hacking
@@ -725,6 +743,18 @@ DTSTAMP:20260912T230000Z
 UID:event:6136:2026-09-12T19:00:00
 DESCRIPTION:https://cal.red/?event=6136\nCost: Sliding Scale
 LOCATION:East Village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOUSE OF SCORPIO SINEMA CLUB: MOVIE TRIVIA + Screening of THE PILL
+ OW BOOK (1996)
+DTSTART:20260913T230000Z
+DTEND:20260914T000000Z
+DTSTAMP:20260913T230000Z
+UID:event:6137:2026-09-13T19:00:00
+DESCRIPTION:https://cal.red/?event=6137\nCost: $10 for existing members / 
+ $12 for non-members
+LOCATION:Gemini and Scorpio Loft\, 267 Douglass St\, 3rd fl (ADA accessibl
+ e)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
@@ -859,6 +889,15 @@ DESCRIPTION:https://cal.red/?event=6102\nCost: $20 Suggested Donation
 LOCATION:Pine Box Rock Shop\, Bushwick\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CyPurr Session: AI and You
+DTSTART:20260919T160000Z
+DTEND:20260919T170000Z
+DTSTAMP:20260919T160000Z
+UID:event:6133:2026-09-19T12:00:00
+DESCRIPTION:https://cal.red/?event=6133\nCost: Free!
+LOCATION:Grand Army Plaza\, Brooklyn Public Library\, Infocommons
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20260922T000000Z
@@ -905,6 +944,15 @@ UID:event:5977:2026-09-24T20:00:00
 DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
  h event on website.\nCost: Variable
 LOCATION:Pageant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260925T223000Z
+DTEND:20260925T233000Z
+DTSTAMP:20260925T223000Z
+UID:event:6135:2026-09-25T18:30:00
+DESCRIPTION:https://cal.red/?event=6135\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
@@ -964,6 +1012,26 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pangea: Unleashed
+DTSTART:20261010T233000Z
+DTEND:20261011T003000Z
+DTSTAMP:20261010T233000Z
+UID:event:6141:2026-10-10T19:30:00
+DESCRIPTION:https://cal.red/?event=6141\n126 E. 13th St.\nNew York\, NY 10
+ 003\nCost: $20-45
+LOCATION:Peridance KnJ Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pangea: Unleashed
+DTSTART:20261011T200000Z
+DTEND:20261011T210000Z
+DTSTAMP:20261011T200000Z
+UID:event:6142:2026-10-11T16:00:00
+DESCRIPTION:https://cal.red/?event=6142\n126 E. 13th St.\nNew York\, NY 10
+ 003\nCost: $20-45
+LOCATION:Peridance KnJ Theater
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]

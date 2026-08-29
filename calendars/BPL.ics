@@ -11,33 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Summer Reading Closing Festival: Bingo!
-DTSTART:20260829T140000Z
-DTEND:20260829T160000Z
-DESCRIPTION:Join us for drop-in Bingo in the Info Commons! Games will be h
- appening on a continuous basis from 10am - 12pm. Stay for one game or hang
-  out for longer! Prizes will be awarded for every winner.\n\nhttps://www.b
- klynlibrary.org/node/825085
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Japanese Sashiko Basics for Adults with Althea
-DTSTART:20260829T143000Z
-DTEND:20260829T163000Z
-DESCRIPTION:Sashiko is the Japanese art of decorative\, visible clothing m
- ending.\n\nhttps://www.bklynlibrary.org/node/834818
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260829T143000Z
-DTEND:20260829T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8351
- 62
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Summer Reading Closing Festival
 DTSTART:20260829T150000Z
 DTEND:20260829T200000Z
@@ -65,16 +38,6 @@ DESCRIPTION:Exchange your gently used books at our first Summer Reading Bo
 LOCATION:Central Library\, Plaza
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer Reading Closing Festival: Bookbinding Workshop
-DTSTART:20260829T170000Z
-DTEND:20260829T190000Z
-DESCRIPTION:Bind your own book at this two-hour\, step-by-step introducti
- on to the art of hand bookbinding. Learn how to use basic bookbinding to
- ols as well as fundamental techniques like folding and sewing. Parti\n\n
- https://www.bklynlibrary.org/node/825274
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
 DTSTART:20260829T173000Z
 DTEND:20260829T193000Z
@@ -94,6 +57,14 @@ DESCRIPTION:Take a break from the day during our silent reading party. Dro
 LOCATION:Central Library\, Business & Career Center\, Classroom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Pacific Library's "New Adult" Book Club: The Coin by Yasmin Zaher
+DTSTART:20260829T183000Z
+DTEND:20260829T193000Z
+DESCRIPTION:This month's read is The Coin by Yasmin Zaher.\n\nhttps://www.
+ bklynlibrary.org/node/836648
+LOCATION:Pacific Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
 DTSTART:20260829T183000Z
 DTEND:20260829T203000Z
@@ -101,14 +72,6 @@ DESCRIPTION:Join a social circle where we can learn new skills from each
  other based on our own experiences in knitting\, crochet and hand-sewing.\
  n\nhttps://www.bklynlibrary.org/node/837196
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pacific Library's "New Adult" Book Club: The Coin by Yasmin Zaher
-DTSTART:20260829T183000Z
-DTEND:20260829T193000Z
-DESCRIPTION:This month's read is The Coin by Yasmin Zaher.\n\nhttps://www.
- bklynlibrary.org/node/836648
-LOCATION:Pacific Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freestyle Lab with New York Shakespeare Exchange
@@ -380,5 +343,40 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
  nlibrary.org/node/826256
 LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group - Brooklyn Heights
+DTSTART:20260901T220000Z
+DTEND:20260901T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
+  Heights.\n\nhttps://www.bklynlibrary.org/node/829370
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free Online English Class (We Speak NYC)
+DTSTART:20260901T220000Z
+DTEND:20260901T000000Z
+DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
+ deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
+ e/834575
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polish Language for Beginners: From “Dzień Dobry” to Pierogi 
+ Conversations
+DTSTART:20260901T220000Z
+DTEND:20260901T234500Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/835551
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎓 Finish Your High School Equivalency (HSE) Diploma & Take the 
+ GED® Exam With Us! 📚
+DTSTART:20260901T223000Z
+DTEND:20260901T233000Z
+DESCRIPTION:🎓 Finish Your High School Equivalency (HSE) Diploma & Take 
+ the GED® Exam With Us! 📚\n\nhttps://www.bklynlibrary.org/node/840760
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
