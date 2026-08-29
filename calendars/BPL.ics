@@ -11,99 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Summer Reading Closing Festival
-DTSTART:20260829T150000Z
-DTEND:20260829T200000Z
-DESCRIPTION:Summer at the Library isn’t just for kids! Adult readers can
-  join in on the fun at exciting events and activities across Brooklyn\, al
- l summer long.\n\nhttps://www.bklynlibrary.org/node/824860
-LOCATION:Central Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer Reading Closing Festival: Drop-in Crafting
-DTSTART:20260829T150000Z
-DTEND:20260829T200000Z
-DESCRIPTION:Stop in and craft with us in Info Commons Rooms 5\, 6\, and 7.
-  Supplies will be provided!\n\nhttps://www.bklynlibrary.org/node/825086
-LOCATION:Central Library\, Info Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer Reading for Adults: Book Exchange
-DTSTART:20260829T150000Z
-DTEND:20260829T200000Z
-DESCRIPTION:Exchange your gently used books at our first Summer Reading Bo
- ok Exchange! Come browse our bring-a-book\, take-a-book table and swap boo
- ks with other patrons. You may bring up to 5 books to exchange at\n\nhttps
- ://www.bklynlibrary.org/node/839332
-LOCATION:Central Library\, Plaza
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260829T173000Z
-DTEND:20260829T193000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834615
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer Reading Closing Festival: Silent Reading Party
-DTSTART:20260829T180000Z
-DTEND:20260829T200000Z
-DESCRIPTION:Take a break from the day during our silent reading party. Dro
- p in and spend some quiet time with your current read. Participants will a
- lso be entered in a raffle for a tote bag!\n\nhttps://www.bklynlibrary.org
- /node/825122
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pacific Library's "New Adult" Book Club: The Coin by Yasmin Zaher
-DTSTART:20260829T183000Z
-DTEND:20260829T193000Z
-DESCRIPTION:This month's read is The Coin by Yasmin Zaher.\n\nhttps://www.
- bklynlibrary.org/node/836648
-LOCATION:Pacific Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Knitting Circle (Brooklyn Heights)
-DTSTART:20260829T183000Z
-DTEND:20260829T203000Z
-DESCRIPTION:Join a social circle where we can learn new skills from each 
- other based on our own experiences in knitting\, crochet and hand-sewing.\
- n\nhttps://www.bklynlibrary.org/node/837196
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freestyle Lab with New York Shakespeare Exchange
-DTSTART:20260829T183000Z
-DTEND:20260829T200000Z
-DESCRIPTION:Freestyle Labs are community conversations hosted by New York 
- Shakespeare Exchange (NYSX) on a variety of topics. Each lab begins with a
-  brief performance of excerpts from Shakespeare that highlight t\n\nhttps:
- //www.bklynlibrary.org/node/837403
-LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer Reading Closing Festival: Linocut and Block Printing Statio
- n
-DTSTART:20260829T200000Z
-DTEND:20260829T213000Z
-DESCRIPTION:Join us for a special summer reading themed block printing ses
- sion. We will have a limited number of t-shirts and tote bags you can have
-  printed with Adult Summer Reading linocut artwork. You're also\n\nhttps:/
- /www.bklynlibrary.org/node/825276
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bars & Books: Maiya the Don's Precious Cargo (2026)
-DTSTART:20260829T203000Z
-DTEND:20260829T220000Z
-DESCRIPTION:Join us for a Bars & Books record listening party and conversa
- tion with Brooklyn rapper and reader Maiya the Don exploring her new album
-  Precious Cargo (2026).\n\nhttps://www.bklynlibrary.org/node/838187
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BKLYN In Conversation: Portraits of Summer
 DTSTART:20260829T223000Z
 DTEND:20260829T000000Z
@@ -378,5 +285,97 @@ DTEND:20260901T233000Z
 DESCRIPTION:🎓 Finish Your High School Equivalency (HSE) Diploma & Take 
  the GED® Exam With Us! 📚\n\nhttps://www.bklynlibrary.org/node/840760
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260902T140000Z
+DTEND:20260902T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
+ 48
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Multilingual Business Help
+DTSTART:20260902T140000Z
+DTEND:20260902T160000Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/837445
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
+DTSTART:20260902T140000Z
+DTEND:20260902T200000Z
+DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
+ cated to ensuring everyone has access to essential hygiene products.No one
+  should have to go without the basics! If you or someone you know ne\n\nht
+ tps://www.bklynlibrary.org/node/839623
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Neighborhood Tech Help
+DTSTART:20260902T140000Z
+DTEND:20260902T210000Z
+DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
+ y questions you may have about getting online and using digital tools for 
+ communication and digital tasks. Ask us if support is available\n\nhttps:/
+ /www.bklynlibrary.org/node/841617
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From Idea to Demo: A Songwriting Intensive & Song Showcase (Day 3 
+ - Song Showcase)
+DTSTART:20260902T150000Z
+DTEND:20260902T170000Z
+DESCRIPTION:Day 3 - Song Showcase & Community Celebration Gathering\n\nhtt
+ ps://www.bklynlibrary.org/node/837852
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260902T150000Z
+DTEND:20260902T170000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Central Library (2
+ nd floor) in the Business and Career Center for help with your r\n\nhttps:
+ //www.bklynlibrary.org/node/841789
+LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sound Bath Meditation
+DTSTART:20260902T153000Z
+DTEND:20260902T160000Z
+DESCRIPTION:Join us for a relaxing Sound Bath Meditation\, led by Flutist 
+ Paul Wellington. Give yourself the space to breath\, relax\, and reconnect
+ .\n\nhttps://www.bklynlibrary.org/node/811140
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Stop the Bleed
+DTSTART:20260902T160000Z
+DTEND:20260902T170000Z
+DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
+ nd to emergencies where life-threatening bleeding is present. By learning 
+ just a few simple steps\, you can become trained to save a life in\n\nhttp
+ s://www.bklynlibrary.org/node/807814
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260902T160000Z
+DTEND:20260902T180000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/829817
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20260902T180000Z
+DTEND:20260902T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818928
+LOCATION:Central Library\, Business & Career Center
 END:VEVENT
 END:VCALENDAR
