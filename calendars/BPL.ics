@@ -21,24 +21,6 @@ DESCRIPTION:Join us for drop-in Bingo in the Info Commons! Games will be h
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260829T143000Z
-DTEND:20260829T160000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8351
- 62
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shape Up NYC: Bodyweight Circuit Training
-DTSTART:20260829T143000Z
-DTEND:20260829T151500Z
-DESCRIPTION:A bodyweight circuit class combining cardio\, strength\, and c
- ore-focused movements for a dynamic full-body workout! This class welcomes
-  all fitness levels.\n\nhttps://www.bklynlibrary.org/node/837234
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Japanese Sashiko Basics for Adults with Althea
 DTSTART:20260829T143000Z
 DTEND:20260829T163000Z
@@ -47,14 +29,13 @@ DESCRIPTION:Sashiko is the Japanese art of decorative\, visible clothing m
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Summer Reading for Adults: Book Exchange
-DTSTART:20260829T150000Z
-DTEND:20260829T200000Z
-DESCRIPTION:Exchange your gently used books at our first Summer Reading Bo
- ok Exchange! Come browse our bring-a-book\, take-a-book table and swap boo
- ks with other patrons. You may bring up to 5 books to exchange at\n\nhttps
- ://www.bklynlibrary.org/node/839332
-LOCATION:Central Library\, Plaza
+SUMMARY:English Conversation Group
+DTSTART:20260829T143000Z
+DTEND:20260829T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8351
+ 62
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Reading Closing Festival
@@ -72,6 +53,16 @@ DTEND:20260829T200000Z
 DESCRIPTION:Stop in and craft with us in Info Commons Rooms 5\, 6\, and 7.
   Supplies will be provided!\n\nhttps://www.bklynlibrary.org/node/825086
 LOCATION:Central Library\, Info Commons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer Reading for Adults: Book Exchange
+DTSTART:20260829T150000Z
+DTEND:20260829T200000Z
+DESCRIPTION:Exchange your gently used books at our first Summer Reading Bo
+ ok Exchange! Come browse our bring-a-book\, take-a-book table and swap boo
+ ks with other patrons. You may bring up to 5 books to exchange at\n\nhttps
+ ://www.bklynlibrary.org/node/839332
+LOCATION:Central Library\, Plaza
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Reading Closing Festival: Bookbinding Workshop
@@ -379,5 +370,15 @@ DESCRIPTION:Looking to share your current knitting project with others? Co
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
  s://www.bklynlibrary.org/node/825108
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20260901T220000Z
+DTEND:20260901T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826256
+LOCATION:Crown Heights Library
 END:VEVENT
 END:VCALENDAR
