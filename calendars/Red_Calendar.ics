@@ -154,17 +154,6 @@ DESCRIPTION:https://cal.red/?event=6114\nCost: 0
 LOCATION:14 Jefferson street
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Segue Foundation’s Inter Poets Theater presents: The Dust
-DTSTART:20260901T230000Z
-DTEND:20260902T000000Z
-DTSTAMP:20260901T230000Z
-UID:event:6124:2026-09-01T19:00:00
-DESCRIPTION:https://cal.red/?event=6124\n308 Bowery\, NYC\nCost: This even
- t is not ticketed. Suggested donation $10-20 will go entirely to the perfo
- rmers.
-LOCATION:Bowery Poetry Club
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Dust
 DTSTART:20260901T230000Z
 DTEND:20260902T000000Z
@@ -695,6 +684,15 @@ DTSTAMP:20260919T160000Z
 UID:event:6133:2026-09-19T12:00:00
 DESCRIPTION:https://cal.red/?event=6133\nCost: Free!
 LOCATION:Grand Army Plaza\, Brooklyn Public Library\, Infocommons
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Verse4Verse: Drag + Poetry
+DTSTART:20260921T010000Z
+DTEND:20260921T020000Z
+DTSTAMP:20260921T010000Z
+UID:event:6145:2026-09-20T21:00:00
+DESCRIPTION:https://cal.red/?event=6145\nCost: NOTAFLOF
+LOCATION:60-47 Myrtle Ave Ridgewood NY 11385
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
