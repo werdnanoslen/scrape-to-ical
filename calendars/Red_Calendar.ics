@@ -1090,13 +1090,4 @@ DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
  elps keep IA’s doors open and lights on\, quite literally): $5-$10
 LOCATION:Park Slope
 END:VEVENT
-BEGIN:VEVENT
-SUMMARY:FILM SCREENING: May the Soil Be Everywhere
-DTSTART:20270117T190000Z
-DTEND:20270117T200000Z
-DTSTAMP:20270117T190000Z
-UID:event:4084:2027-01-17T14:00:00
-DESCRIPTION:https://cal.red/?event=4084\nCost: Free
-LOCATION:The People's Forum
-END:VEVENT
 END:VCALENDAR
