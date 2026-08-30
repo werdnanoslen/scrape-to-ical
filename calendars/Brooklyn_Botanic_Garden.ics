@@ -72,9 +72,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Urban Garden Maintenance
-DTSTART;VALUE=DATE:20260829T040000Z
-DTEND;VALUE=DATE:20260829T060000Z
-UID:Urban Garden Maintenance-2026-08-29 04:00:00+00:00
+DTSTART;VALUE=DATE:20260901T040000Z
+DTEND;VALUE=DATE:20260901T060000Z
+UID:Urban Garden Maintenance-2026-09-01 04:00:00+00:00
 DESCRIPTION:6 weekly sessions beginning Saturday\, August 29 or Tuesday\, 
  September 1\, 2026\n					\n\n\n					\n						\n							| Preregistration Req
  uired\n\nBetter understand the practical tools and techniques for plant ca
@@ -86,17 +86,16 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Urban Garden Maintenance
+SUMMARY:Botanical Illustration 1
 DTSTART;VALUE=DATE:20260901T040000Z
 DTEND;VALUE=DATE:20260901T060000Z
-UID:Urban Garden Maintenance-2026-09-01 04:00:00+00:00
-DESCRIPTION:6 weekly sessions beginning Saturday\, August 29 or Tuesday\, 
- September 1\, 2026\n					\n\n\n					\n						\n							| Preregistration Req
- uired\n\nBetter understand the practical tools and techniques for plant ca
- re\, pruning\, transplanting\, and other essential tasks.Learn More›abou
- t Urban Garden Maintenance\n\nMore info:\nhttps://www.bbg.org/classes/urba
- n_garden_maintenance\n\n<img src="/img/uploads/hero/_list_thumbnail_regula
- r/18WAEGARLYB_gardening_container.jpg" alt="" />
+UID:Botanical Illustration 1-2026-09-01 04:00:00+00:00
+DESCRIPTION:5 Tuesdays: September 1–29\, 2026 | 10 a.m.–12:30 p.m. \n	
+ 				\n\n\n					\n						| Waitlist Only\n\nCapture the true beauty of plant
+ s and flowers in this beginner-friendly botanical art class.Learn More›a
+ bout Botanical Illustration 1\n\nMore info:\nhttps://www.bbg.org/classes/b
+ otanical_illustration_1\n\n<img src="/img/uploads/hero/_list_thumbnail_reg
+ ular/E.White-Pultz_trout-lily_Botanical-Illustration_.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -112,20 +111,6 @@ DESCRIPTION:5 Tuesdays: September 1–September 29\, 2026 | 1:30–4 p.m.
  Illustration 2\n\nMore info:\nhttps://www.bbg.org/classes/botanical_illust
  ration_2\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Botanical-
  Illustration-2-White-Pultz.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Botanical Illustration 1
-DTSTART;VALUE=DATE:20260901T040000Z
-DTEND;VALUE=DATE:20260901T060000Z
-UID:Botanical Illustration 1-2026-09-01 04:00:00+00:00
-DESCRIPTION:5 Tuesdays: September 1–29\, 2026 | 10 a.m.–12:30 p.m. \n	
- 				\n\n\n					\n						| Waitlist Only\n\nCapture the true beauty of plant
- s and flowers in this beginner-friendly botanical art class.Learn More›a
- bout Botanical Illustration 1\n\nMore info:\nhttps://www.bbg.org/classes/b
- otanical_illustration_1\n\n<img src="/img/uploads/hero/_list_thumbnail_reg
- ular/E.White-Pultz_trout-lily_Botanical-Illustration_.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -191,6 +176,19 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260902T040000Z
+DTEND;VALUE=DATE:20260902T060000Z
+UID:Members’ Summer Evenings-2026-09-02 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Members’ Glow Party
 DTSTART;VALUE=DATE:20260902T040000Z
 DTEND;VALUE=DATE:20260902T060000Z
@@ -201,19 +199,6 @@ DESCRIPTION:Wednesday\, September 2\, 2026 | 6–8:30 p.m.\n\nCelebrate Br
  Party\n\nMore info:\nhttps://www.bbg.org/visit/event/members_glow_party\n\
  n<img src="/img/uploads/hero/_list_thumbnail_regular/caribbean-night_MS_52
  324819506.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members’ Summer Evenings
-DTSTART;VALUE=DATE:20260902T040000Z
-DTEND;VALUE=DATE:20260902T060000Z
-UID:Members’ Summer Evenings-2026-09-02 04:00:00+00:00
-DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
- avor the Garden during the twilight hours—just for members!Learn More›
- about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
- event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
- thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
