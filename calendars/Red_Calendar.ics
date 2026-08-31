@@ -154,22 +154,14 @@ DESCRIPTION:https://cal.red/?event=6122\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Still searching for a summer fling?
+SUMMARY:In Common(s): A screening of the documentary “L’Asilo\, Creati
+ ng Space for Care” with 8-Ball Community
 DTSTART:20260903T230000Z
 DTEND:20260904T000000Z
 DTSTAMP:20260903T230000Z
-UID:event:6115:2026-09-03T19:00:00
-DESCRIPTION:https://cal.red/?event=6115\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:poetry reading + zine swap!!!
-DTSTART:20260903T230000Z
-DTEND:20260904T000000Z
-DTSTAMP:20260903T230000Z
-UID:event:6109:2026-09-03T19:00:00
-DESCRIPTION:https://cal.red/?event=6109\nCost: 0
-LOCATION:honey moon coffee shop
+UID:event:6048:2026-09-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6048\nCost: 20 suggested
+LOCATION:Index Space
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In Common(s) Screening of documentary "L'Asilo\, Creating Space fo
@@ -191,14 +183,22 @@ DESCRIPTION:https://cal.red/?event=6143\nCost: Free
 LOCATION:109 Ludlow Street\, New York\, New York
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:In Common(s): A screening of the documentary “L’Asilo\, Creati
- ng Space for Care” with 8-Ball Community
+SUMMARY:poetry reading + zine swap!!!
 DTSTART:20260903T230000Z
 DTEND:20260904T000000Z
 DTSTAMP:20260903T230000Z
-UID:event:6048:2026-09-03T19:00:00
-DESCRIPTION:https://cal.red/?event=6048\nCost: 20 suggested
-LOCATION:Index Space
+UID:event:6109:2026-09-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6109\nCost: 0
+LOCATION:honey moon coffee shop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Still searching for a summer fling?
+DTSTART:20260903T230000Z
+DTEND:20260904T000000Z
+DTSTAMP:20260903T230000Z
+UID:event:6115:2026-09-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6115\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MIX NYC presents Early Interiority: Vintage Trans Cinema
@@ -293,13 +293,13 @@ DESCRIPTION:https://cal.red/?event=5933\nCost: Free
 LOCATION:Ridgewood\, Queens
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clown Rebellion
-DTSTART:20260908T000000Z
-DTEND:20260908T010000Z
-DTSTAMP:20260908T000000Z
-UID:event:5924:2026-09-07T20:00:00
-DESCRIPTION:https://cal.red/?event=5924\nCost: Donation Based
-LOCATION:Location Varies\, 68 Jay St Suite #713
+SUMMARY:Backyard Asians
+DTSTART:20260906T210000Z
+DTEND:20260906T220000Z
+DTSTAMP:20260906T210000Z
+UID:event:6148:2026-09-06T17:00:00
+DESCRIPTION:https://cal.red/?event=6148\nCost: 0
+LOCATION:Columbia Waterfront
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
@@ -312,6 +312,15 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clown Rebellion
+DTSTART:20260908T000000Z
+DTEND:20260908T010000Z
+DTSTAMP:20260908T000000Z
+UID:event:5924:2026-09-07T20:00:00
+DESCRIPTION:https://cal.red/?event=5924\nCost: Donation Based
+LOCATION:Location Varies\, 68 Jay St Suite #713
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Forgotten Release Party
@@ -342,6 +351,15 @@ LOCATION:Caveat\, 21A Clinton Street in the Lower East Side of Manhattan\,
   NYC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Conflict Lab
+DTSTART:20260909T000000Z
+DTEND:20260909T010000Z
+DTSTAMP:20260909T000000Z
+UID:event:6095:2026-09-08T20:00:00
+DESCRIPTION:https://cal.red/?event=6095\nCost: Donation Based
+LOCATION:East Village
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Figure Eighty\, Two Headed Girl\, Illustrator & Salem Moon
 DTSTART:20260909T000000Z
 DTEND:20260909T010000Z
@@ -352,13 +370,13 @@ DESCRIPTION:https://cal.red/?event=6099\nCost: Free entry\; $10 suggested
 LOCATION:Wonderville\, 1186 Broadway\, Bushwick\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Conflict Lab
-DTSTART:20260909T000000Z
-DTEND:20260909T010000Z
-DTSTAMP:20260909T000000Z
-UID:event:6095:2026-09-08T20:00:00
-DESCRIPTION:https://cal.red/?event=6095\nCost: Donation Based
-LOCATION:East Village
+SUMMARY:Intro to Self-Defense Workshop
+DTSTART:20260909T220000Z
+DTEND:20260909T230000Z
+DTSTAMP:20260909T220000Z
+UID:event:5932:2026-09-09T18:00:00
+DESCRIPTION:https://cal.red/?event=5932\nCost: Free
+LOCATION:Williamsburg\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Self Defense
@@ -369,15 +387,6 @@ UID:event:6098:2026-09-09T18:00:00
 DESCRIPTION:https://cal.red/?event=6098\nLos Sures\, Williamsburg.\nBrookl
  yn\, NY 11211)\nCost: Free
 LOCATION:P.I.T. (411 South 5th St\,
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intro to Self-Defense Workshop
-DTSTART:20260909T220000Z
-DTEND:20260909T230000Z
-DTSTAMP:20260909T220000Z
-UID:event:5932:2026-09-09T18:00:00
-DESCRIPTION:https://cal.red/?event=5932\nCost: Free
-LOCATION:Williamsburg\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ground Zero Plus 25
@@ -468,6 +477,15 @@ LOCATION:Gemini and Scorpio Loft\, 267 Douglass St\, 3rd fl (ADA accessibl
  e)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Intro to Self-Defense Workshop
+DTSTART:20260914T220000Z
+DTEND:20260914T230000Z
+DTSTAMP:20260914T220000Z
+UID:event:6017:2026-09-14T18:00:00
+DESCRIPTION:https://cal.red/?event=6017\nCost: Free
+LOCATION:Brooklyn Pride Community Center (Crown Heights)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
 DTSTART:20260914T220000Z
 DTEND:20260914T230000Z
@@ -476,15 +494,6 @@ UID:event:4537:2026-09-14T18:00:00
 DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
  elps keep IA’s doors open and lights on\, quite literally): $5-$10
 LOCATION:Park Slope
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intro to Self-Defense Workshop
-DTSTART:20260914T220000Z
-DTEND:20260914T230000Z
-DTSTAMP:20260914T220000Z
-UID:event:6017:2026-09-14T18:00:00
-DESCRIPTION:https://cal.red/?event=6017\nCost: Free
-LOCATION:Brooklyn Pride Community Center (Crown Heights)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Ideas Reading Group
