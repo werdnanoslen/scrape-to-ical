@@ -86,20 +86,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Botanical Illustration 1
-DTSTART;VALUE=DATE:20260901T040000Z
-DTEND;VALUE=DATE:20260901T060000Z
-UID:Botanical Illustration 1-2026-09-01 04:00:00+00:00
-DESCRIPTION:5 Tuesdays: September 1–29\, 2026 | 10 a.m.–12:30 p.m. \n	
- 				\n\n\n					\n						| Waitlist Only\n\nCapture the true beauty of plant
- s and flowers in this beginner-friendly botanical art class.Learn More›a
- bout Botanical Illustration 1\n\nMore info:\nhttps://www.bbg.org/classes/b
- otanical_illustration_1\n\n<img src="/img/uploads/hero/_list_thumbnail_reg
- ular/E.White-Pultz_trout-lily_Botanical-Illustration_.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Botanical Illustration 2
 DTSTART;VALUE=DATE:20260901T040000Z
 DTEND;VALUE=DATE:20260901T060000Z
@@ -111,6 +97,20 @@ DESCRIPTION:5 Tuesdays: September 1–September 29\, 2026 | 1:30–4 p.m.
  Illustration 2\n\nMore info:\nhttps://www.bbg.org/classes/botanical_illust
  ration_2\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Botanical-
  Illustration-2-White-Pultz.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Botanical Illustration 1
+DTSTART;VALUE=DATE:20260901T040000Z
+DTEND;VALUE=DATE:20260901T060000Z
+UID:Botanical Illustration 1-2026-09-01 04:00:00+00:00
+DESCRIPTION:5 Tuesdays: September 1–29\, 2026 | 10 a.m.–12:30 p.m. \n	
+ 				\n\n\n					\n						| Waitlist Only\n\nCapture the true beauty of plant
+ s and flowers in this beginner-friendly botanical art class.Learn More›a
+ bout Botanical Illustration 1\n\nMore info:\nhttps://www.bbg.org/classes/b
+ otanical_illustration_1\n\n<img src="/img/uploads/hero/_list_thumbnail_reg
+ ular/E.White-Pultz_trout-lily_Botanical-Illustration_.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -176,19 +176,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Summer Evenings
-DTSTART;VALUE=DATE:20260902T040000Z
-DTEND;VALUE=DATE:20260902T060000Z
-UID:Members’ Summer Evenings-2026-09-02 04:00:00+00:00
-DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
- avor the Garden during the twilight hours—just for members!Learn More›
- about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
- event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
- thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members’ Glow Party
 DTSTART;VALUE=DATE:20260902T040000Z
 DTEND;VALUE=DATE:20260902T060000Z
@@ -199,6 +186,19 @@ DESCRIPTION:Wednesday\, September 2\, 2026 | 6–8:30 p.m.\n\nCelebrate Br
  Party\n\nMore info:\nhttps://www.bbg.org/visit/event/members_glow_party\n\
  n<img src="/img/uploads/hero/_list_thumbnail_regular/caribbean-night_MS_52
  324819506.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Summer Evenings
+DTSTART;VALUE=DATE:20260902T040000Z
+DTEND;VALUE=DATE:20260902T060000Z
+UID:Members’ Summer Evenings-2026-09-02 04:00:00+00:00
+DESCRIPTION:Wednesdays\, May 27–September 2 \, 2026 | 6–8:30 p.m.\n\nS
+ avor the Garden during the twilight hours—just for members!Learn More›
+ about Members’ Summer Evenings\n\nMore info:\nhttps://www.bbg.org/visit/
+ event/members_summer_evenings\n\n<img src="/img/uploads/manual/hero/_list_
+ thumbnail_regular/discovery-garden-family_LP.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -366,20 +366,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Design 101
-DTSTART;VALUE=DATE:20260912T040000Z
-DTEND;VALUE=DATE:20260912T060000Z
-UID:Garden Design 101-2026-09-12 04:00:00+00:00
-DESCRIPTION:Saturday\, September 12\, 2026 | 10 a.m.–3:30 p.m.\n					\n\
- n\n					\n						\n							| Preregistration Required\n\nLearn how to take y
- our garden design from concept to success.Learn More›about Garden Design
-  101\n\nMore info:\nhttps://www.bbg.org/classes/garden_design_101\n\n<img 
- src="/img/uploads/hero/_list_thumbnail_regular/GBB-Judging_JW_260615-009-2
- 800x1200-c.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Plant ID: Grasses
 DTSTART;VALUE=DATE:20260912T040000Z
 DTEND;VALUE=DATE:20260912T060000Z
@@ -390,6 +376,20 @@ DESCRIPTION:Saturday\, September 12\, 2026 | 10 a.m.–2:30 p.m. \n					\n
  nMore info:\nhttps://www.bbg.org/classes/plant_id_grasses\n\n<img src="/im
  g/uploads/hero/_list_thumbnail_regular/37366698844-2800x1200-c.jpg" alt=""
   />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Garden Design 101
+DTSTART;VALUE=DATE:20260912T040000Z
+DTEND;VALUE=DATE:20260912T060000Z
+UID:Garden Design 101-2026-09-12 04:00:00+00:00
+DESCRIPTION:Saturday\, September 12\, 2026 | 10 a.m.–3:30 p.m.\n					\n\
+ n\n					\n						\n							| Preregistration Required\n\nLearn how to take y
+ our garden design from concept to success.Learn More›about Garden Design
+  101\n\nMore info:\nhttps://www.bbg.org/classes/garden_design_101\n\n<img 
+ src="/img/uploads/hero/_list_thumbnail_regular/GBB-Judging_JW_260615-009-2
+ 800x1200-c.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -528,6 +528,48 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260913T040000Z
 DTEND;VALUE=DATE:20260913T060000Z
 UID:Seasonal Highlights Tour-2026-09-13 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
+ f the season in this free walk led by trained Garden Guides.Learn More›a
+ bout Seasonal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/eve
+ nt/seasonal_highlights_tour_fall\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/hardy-begonia_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban Garden Design (blended)
+DTSTART;VALUE=DATE:20260915T040000Z
+DTEND;VALUE=DATE:20260915T060000Z
+UID:Urban Garden Design (blended)-2026-09-15 04:00:00+00:00
+DESCRIPTION:7 sessions beginning Tuesday\, September 15 or Monday\, Novemb
+ er 9\, 2026 \n					\n\n\n					\n						\n							| Preregistration Required\
+ n\nThis course acquaints students with the field of landscape design.Learn
+  More›about Urban Garden Design (blended)\n\nMore info:\nhttps://www.bbg
+ .org/classes/urban_garden_design\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/19WAEGARDSU_urban_garden_design.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbs 101
+DTSTART;VALUE=DATE:20260915T040000Z
+DTEND;VALUE=DATE:20260915T060000Z
+UID:Herbs 101-2026-09-15 04:00:00+00:00
+DESCRIPTION:Single session on Sunday\, September 13 or Tuesday\, September
+  15\, 2026 \n					\n\n\n					\n						\n							| Preregistration Required\n
+ \nUse your five senses to learn basic herb botany.Learn More›about Herbs
+  101\n\nMore info:\nhttps://www.bbg.org/classes/herbs_101\n\n<img src="/im
+ g/uploads/hero/_list_thumbnail_regular/49860615921-2800x1200-c.jpg" alt=""
+  />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260915T040000Z
+DTEND;VALUE=DATE:20260915T060000Z
+UID:Seasonal Highlights Tour-2026-09-15 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
  \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
  f the season in this free walk led by trained Garden Guides.Learn More›a
