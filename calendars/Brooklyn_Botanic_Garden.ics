@@ -144,22 +144,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Botany for Horticulturists
-DTSTART;VALUE=DATE:20260902T040000Z
-DTEND;VALUE=DATE:20260902T060000Z
-UID:Botany for Horticulturists-2026-09-02 04:00:00+00:00
-DESCRIPTION:10 sessions beginning Wednesday\, September 2 or 8 sessions be
- ginning Thursday\, October 1\, 2026 or 8 sessions beginning Tuesday\, Octo
- ber 20\, 2026\n					\n\n\n					\n						\n							| Preregistration Required
- \n\nThis course requires no previous knowledge of botany and is recommende
- d as a first course in the Certificate in Horticulture program.Learn More
- ›about Botany for Horticulturists\n\nMore info:\nhttps://www.bbg.org/cla
- sses/botany_for_horticulturists\n\n<img src="/img/uploads/hero/_list_thumb
- nail_regular/20WAEGARBB.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Woody Landscape Plant ID
 DTSTART;VALUE=DATE:20260902T040000Z
 DTEND;VALUE=DATE:20260902T060000Z
@@ -172,6 +156,22 @@ DESCRIPTION:6 weekly sessions beginning Wednesday\, September 2 or Saturda
  ttps://www.bbg.org/classes/woody_landscape_plant_id_fall\n\n<img src="/img
  /uploads/hero/_list_thumbnail_regular/oriental_beech-MS_52338490377.jpg" a
  lt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Botany for Horticulturists
+DTSTART;VALUE=DATE:20260902T040000Z
+DTEND;VALUE=DATE:20260902T060000Z
+UID:Botany for Horticulturists-2026-09-02 04:00:00+00:00
+DESCRIPTION:10 sessions beginning Wednesday\, September 2 or 8 sessions be
+ ginning Thursday\, October 1\, 2026 or 8 sessions beginning Tuesday\, Octo
+ ber 20\, 2026\n					\n\n\n					\n						\n							| Preregistration Required
+ \n\nThis course requires no previous knowledge of botany and is recommende
+ d as a first course in the Certificate in Horticulture program.Learn More
+ ›about Botany for Horticulturists\n\nMore info:\nhttps://www.bbg.org/cla
+ sses/botany_for_horticulturists\n\n<img src="/img/uploads/hero/_list_thumb
+ nail_regular/20WAEGARBB.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -218,45 +218,16 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garden Circle September Early-Morning Hours
-DTSTART;VALUE=DATE:20260905T040000Z
-DTEND;VALUE=DATE:20260905T060000Z
-UID:Garden Circle September Early-Morning Hours-2026-09-05 04:00:00+00:00
-DESCRIPTION:Saturday\, September 5 & Sunday\, September 6\, 2026 | 9–10 
- a.m.\n					\n\n\n					\n						\n							| Preregistration Required\n\nMembe
- rs of the Garden Circle and higher levels can enjoy exclusive access to th
- e Garden from 9 to 10 a.m.Learn More›about Garden Circle September Early
- -Morning Hours\n\nMore info:\nhttps://www.bbg.org/visit/event/september_ea
- rly_morning_hours\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/v
- isitor-water-garden_34871571975_bb.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cyanotype Printmaking
-DTSTART;VALUE=DATE:20260905T040000Z
-DTEND;VALUE=DATE:20260905T060000Z
-UID:Cyanotype Printmaking-2026-09-05 04:00:00+00:00
-DESCRIPTION:Saturday\, September 5\, 2026 (Rain date: September 12) | 12:3
- 0–3:30 p.m. \n					\n\n\n					\n						| Waitlist Only\n\nCreate handmad
- e botanical cyanotype prints using the grounds of BBG as our studio.Learn 
- More›about Cyanotype Printmaking\n\nMore info:\nhttps://www.bbg.org/clas
- ses/cyanotype_printmaking\n\n<img src="/img/uploads/hero/_list_thumbnail_r
- egular/Cyanotype-Printmaking-LandonBBG_Milkweed_LN.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Garden Circle September Early-Morning Hours
 DTSTART;VALUE=DATE:20260906T040000Z
 DTEND;VALUE=DATE:20260906T060000Z
 UID:Garden Circle September Early-Morning Hours-2026-09-06 04:00:00+00:00
-DESCRIPTION:Saturday\, September 5 & Sunday\, September 6\, 2026 | 9–10 
- a.m.\n					\n\n\n					\n						\n							| Preregistration Required\n\nMembe
- rs of the Garden Circle and higher levels can enjoy exclusive access to th
- e Garden from 9 to 10 a.m.Learn More›about Garden Circle September Early
- -Morning Hours\n\nMore info:\nhttps://www.bbg.org/visit/event/september_ea
- rly_morning_hours\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/v
- isitor-water-garden_34871571975_bb.jpg" alt="" />
+DESCRIPTION:Sunday\, September 6\, 2026 | 9–10 a.m.\n					\n\n\n					\n	
+ 					\n							| Preregistration Required\n\nMembers of the Garden Circle a
+ nd higher levels can enjoy exclusive access to the Garden from 9 to 10 a.m
+ .Learn More›about Garden Circle September Early-Morning Hours\n\nMore in
+ fo:\nhttps://www.bbg.org/visit/event/september_early_morning_hours\n\n<img
+  src="/img/uploads/hero/_list_thumbnail_regular/visitor-water-garden_34871
+ 571975_bb.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
