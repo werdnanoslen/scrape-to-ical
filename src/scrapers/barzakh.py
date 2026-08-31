@@ -24,18 +24,14 @@ class BarzakhScraper(AbstractScraper):
                 "div",
                 attrs={'data-sentry-component': 'EventCard'}
             )
-            soup = BeautifulSoup(content, "lxml", parse_only=strainer)
+            soup = BeautifulSoup(content, "html.parser", parse_only=strainer)
             for result in soup:
                 if not isinstance(result, Tag):
                     continue
                 title = result.find('h3')
                 summary = title.get_text() if isinstance(title, Tag) else ''
-
                 # datetime, looks like "Jun 13, 2025 • 8:00 PM EDT"
-                datetime_div = result.find(
-                    'div',
-                    class_=lambda c: bool(c and 'styles_dates' in c)
-                )
+                datetime_div = result.select_one('div[class*="dates"]')
                 if not isinstance(datetime_div, Tag):
                     continue
                 div_text = datetime_div.get_text(strip=True)
