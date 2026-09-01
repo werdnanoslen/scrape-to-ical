@@ -88,15 +88,6 @@ DESCRIPTION:https://cal.red/?event=6139\n360 Van Brunt St\, Red Hook\, Bro
 LOCATION:Record Shop
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:'Uneven Geographies' exhibition
-DTSTART:20260903T220000Z
-DTEND:20260903T230000Z
-DTSTAMP:20260903T220000Z
-UID:event:6015:2026-09-03T18:00:00
-DESCRIPTION:https://cal.red/?event=6015\nCost: free
-LOCATION:Upper West Side (John Jay College\, CUNY)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:
 DTSTART:20260903T220000Z
 DTEND:20260903T230000Z
@@ -106,6 +97,15 @@ DESCRIPTION:https://cal.red/?event=6122\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:'Uneven Geographies' exhibition
+DTSTART:20260903T220000Z
+DTEND:20260903T230000Z
+DTSTAMP:20260903T220000Z
+UID:event:6015:2026-09-03T18:00:00
+DESCRIPTION:https://cal.red/?event=6015\nCost: free
+LOCATION:Upper West Side (John Jay College\, CUNY)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Dinner at the People’s Forum
 DTSTART:20260903T220000Z
 DTEND:20260903T230000Z
@@ -113,16 +113,6 @@ DTSTAMP:20260903T220000Z
 UID:event:6070:2026-09-03T18:00:00
 DESCRIPTION:https://cal.red/?event=6070\nCost: 0
 LOCATION:People’s Forum
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In Common(s) Screening of documentary "L'Asilo\, Creating Space fo
- r Care"
-DTSTART:20260903T230000Z
-DTEND:20260904T000000Z
-DTSTAMP:20260903T230000Z
-UID:event:6092:2026-09-03T19:00:00
-DESCRIPTION:https://cal.red/?event=6092\nGreenpoint\, NY\nCost: $10-$20
-LOCATION:698 Manhattan ave\, Floors 2 & 3.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:History of Chai
@@ -160,6 +150,16 @@ DTSTAMP:20260903T230000Z
 UID:event:6109:2026-09-03T19:00:00
 DESCRIPTION:https://cal.red/?event=6109\nCost: 0
 LOCATION:honey moon coffee shop
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:In Common(s) Screening of documentary "L'Asilo\, Creating Space fo
+ r Care"
+DTSTART:20260903T230000Z
+DTEND:20260904T000000Z
+DTSTAMP:20260903T230000Z
+UID:event:6092:2026-09-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6092\nGreenpoint\, NY\nCost: $10-$20
+LOCATION:698 Manhattan ave\, Floors 2 & 3.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MIX NYC presents Early Interiority: Vintage Trans Cinema
@@ -302,6 +302,15 @@ DESCRIPTION:https://cal.red/?event=6138\nCost: $15 Adv. / $20 at Door
 LOCATION:CASSETTE in Ridgewood\, NY
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Hardware Hacking - Permacomputing NYC
+DTSTART:20260908T220000Z
+DTEND:20260908T230000Z
+DTSTAMP:20260908T220000Z
+UID:event:6153:2026-09-08T18:00:00
+DESCRIPTION:https://cal.red/?event=6153\nCost: 0
+LOCATION:Ridgewood Commons 585 Woodward Avenue Ridgewood\, Queens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Permacomputing NYC: Gameboy Hacking
 DTSTART:20260908T220000Z
 DTEND:20260908T230000Z
@@ -386,16 +395,6 @@ DESCRIPTION:https://cal.red/?event=5869\nCost: 0
 LOCATION:Tompkins Sq Park
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linocut 102: Learn 2-Color Printmaking
-DTSTART:20260912T160000Z
-DTEND:20260912T170000Z
-DTSTAMP:20260912T160000Z
-UID:event:5995:2026-09-12T12:00:00
-DESCRIPTION:https://cal.red/?event=5995\nCost: $70–90 Sliding Scale
-LOCATION:Queens Collaboratory\, 21-07 41st Ave\, Unit 213\, Long Island Ci
- ty\, NY
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Anthros NYC
 DTSTART:20260912T160000Z
 DTEND:20260912T170000Z
@@ -404,6 +403,16 @@ UID:event:6031:2026-09-12T12:00:00
 DESCRIPTION:https://cal.red/?event=6031\n51 35th St\, Building 5\,\nIndust
  ry City\, Brooklyn\,\nNew York City\nCost: free
 LOCATION:Tom Kane Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linocut 102: Learn 2-Color Printmaking
+DTSTART:20260912T160000Z
+DTEND:20260912T170000Z
+DTSTAMP:20260912T160000Z
+UID:event:5995:2026-09-12T12:00:00
+DESCRIPTION:https://cal.red/?event=5995\nCost: $70–90 Sliding Scale
+LOCATION:Queens Collaboratory\, 21-07 41st Ave\, Unit 213\, Long Island Ci
+ ty\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regulars and Spiral Editions present: Kristen Gallagher\, Mark He\
@@ -447,15 +456,6 @@ LOCATION:Gemini and Scorpio Loft\, 267 Douglass St\, 3rd fl (ADA accessibl
  e)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Self-Defense Workshop
-DTSTART:20260914T220000Z
-DTEND:20260914T230000Z
-DTSTAMP:20260914T220000Z
-UID:event:6017:2026-09-14T18:00:00
-DESCRIPTION:https://cal.red/?event=6017\nCost: Free
-LOCATION:Brooklyn Pride Community Center (Crown Heights)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
 DTSTART:20260914T220000Z
 DTEND:20260914T230000Z
@@ -464,6 +464,15 @@ UID:event:4537:2026-09-14T18:00:00
 DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
  elps keep IA’s doors open and lights on\, quite literally): $5-$10
 LOCATION:Park Slope
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Self-Defense Workshop
+DTSTART:20260914T220000Z
+DTEND:20260914T230000Z
+DTSTAMP:20260914T220000Z
+UID:event:6017:2026-09-14T18:00:00
+DESCRIPTION:https://cal.red/?event=6017\nCost: Free
+LOCATION:Brooklyn Pride Community Center (Crown Heights)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:General Ideas Reading Group
