@@ -20,14 +20,6 @@ DESCRIPTION:Day 2 - Recording Session\n\nhttps://www.bklynlibrary.org/node
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Community Hour
-DTSTART:20260901T150000Z
-DTEND:20260901T170000Z
-DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
- rg/node/842331
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Resume Coaching
 DTSTART:20260901T180000Z
 DTEND:20260901T200000Z
@@ -87,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slip Stitch Knitting & Crocheting Group
 DTSTART:20260901T210000Z
-DTEND:20260901T223000Z
+DTEND:20260901T000000Z
 DESCRIPTION:Looking to share your current knitting project with others? Co
  me join like-minded folks on their yarn journey in the Info Commons. Brin
  g your own yarn and tools and meet with other fiber artists for a\n\nhttp
@@ -379,5 +371,14 @@ DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
  deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
  e/834607
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260903T143000Z
+DTEND:20260903T163000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8285
+ 12
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
