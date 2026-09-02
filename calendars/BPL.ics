@@ -11,98 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Park Slope Library’s Neighbors In Need Care Kits
-DTSTART:20260902T140000Z
-DTEND:20260902T200000Z
-DESCRIPTION:Park Slope Library’s Neighbors In Need Care KitsWe’re dedi
- cated to ensuring everyone has access to essential hygiene products.No one
-  should have to go without the basics! If you or someone you know ne\n\nht
- tps://www.bklynlibrary.org/node/839623
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260902T140000Z
-DTEND:20260902T210000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/841617
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tech Help for Your Job Search
-DTSTART:20260902T180000Z
-DTEND:20260902T200000Z
-DESCRIPTION:This is a self-service open lab with support tech in the room 
- to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818928
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Senator Gounardes Office Hours
-DTSTART:20260902T180000Z
-DTEND:20260902T210000Z
-DESCRIPTION:Meet Senator Gournardes' office representatives to talk about 
- the issues and receive in person assistance accessing state social service
- s.\n\nhttps://www.bklynlibrary.org/node/819242
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NYC Health Equity Runway Show Community Meet & Greet
-DTSTART:20260902T180000Z
-DTEND:20260902T200000Z
-DESCRIPTION:Alopecian Beauty Co. invites the community to their NYC Health
-  Equity Runway Show Community Meet & Greet. This special Brooklyn gatherin
- g introduces their growing network of community programs and par\n\nhttps:
- //www.bklynlibrary.org/node/840508
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260902T180000Z
-DTEND:20260902T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/841697
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260902T183000Z
-DTEND:20260902T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/841718
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260902T190000Z
-DTEND:20260902T210000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/828419
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free English Class
-DTSTART:20260902T190000Z
-DTEND:20260902T210000Z
-DESCRIPTION:We offer:\n\nhttps://www.bklynlibrary.org/node/831475
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Stop the Bleed
-DTSTART:20260902T200000Z
-DTEND:20260902T210000Z
-DESCRIPTION:Stop the Bleed is a campaign that teaches people how to respo
- nd to emergencies where life-threatening bleeding is present. By learning 
- just a few simple steps\, you can become trained to save a life in\n\nhttp
- s://www.bklynlibrary.org/node/807819
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20260902T200000Z
 DTEND:20260902T230000Z
@@ -111,24 +19,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828049
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bingo For All Ages
-DTSTART:20260902T200000Z
-DTEND:20260902T210000Z
-DESCRIPTION:Join us for Bingo at the library for all ages every first Wedn
- esday of the month!\n\nhttps://www.bklynlibrary.org/node/842384
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Digital Skills & AI Literacy: Info Session
-DTSTART:20260902T200000Z
-DTEND:20260902T213000Z
-DESCRIPTION:Brooklyn Public Library is offering Brooklyn residents free ac
- cess to Google Career Certificates- online\, self-paced programs designed 
- to help you prepare for careers in IT Support\, Data Analytics\, Pr\n\nhtt
- ps://www.bklynlibrary.org/node/838677
-LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Free Online English Class (We Speak NYC)
@@ -383,5 +273,116 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8341
  16
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Film Club: All That Jazz (1979)
+DTSTART:20260904T180000Z
+DTEND:20260904T203000Z
+DESCRIPTION:All That Jazz (1979)\n\nhttps://www.bklynlibrary.org/node/8422
+ 98
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual French Conversation Group
+DTSTART:20260904T180000Z
+DTEND:20260904T190000Z
+DESCRIPTION:Practice your French speaking and listening skills with other 
+ adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
+ ://www.bklynlibrary.org/node/842464
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
+DTSTART:20260908T140000Z
+DTEND:20260908T170000Z
+DESCRIPTION:Minority and Women-owned Business Enterprises (MWBE)\n\nhttps:
+ //www.bklynlibrary.org/node/808031
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Community Hour
+DTSTART:20260908T150000Z
+DTEND:20260908T170000Z
+DESCRIPTION:Do you want to learn more about:\n\nhttps://www.bklynlibrary.o
+ rg/node/842332
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260908T180000Z
+DTEND:20260908T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828167
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech
+DTSTART:20260908T180000Z
+DTEND:20260908T190000Z
+DESCRIPTION:Do you have a specific question about how to use computers or 
+ find your way around the internet? Come join us for Ask A Tech program for
+  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
+ //www.bklynlibrary.org/node/836400
+LOCATION:Brooklyn Heights Library\, Orange Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260908T180000Z
+DTEND:20260908T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Brooklyn Heights L
+ ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
+ ps://www.bklynlibrary.org/node/831377
+LOCATION:Brooklyn Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/827999
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Theater Workshop
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+DESCRIPTION:DRAMATIC LITERATURE\n\nhttps://www.bklynlibrary.org/node/84243
+ 7
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Slip Stitch Knitting & Crocheting Group
+DTSTART:20260908T210000Z
+DTEND:20260908T000000Z
+DESCRIPTION:Looking to share your current knitting project with others? Co
+ me join like-minded folks on their yarn journey in the Info Commons. Brin
+ g your own yarn and tools and meet with other fiber artists for a\n\nhttp
+ s://www.bklynlibrary.org/node/825109
+LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ken Siegelman’s Brooklyn Poetry Outreach featuring Joshua Meande
+ r
+DTSTART:20260908T213000Z
+DTEND:20260908T233000Z
+DESCRIPTION:Joshua Meander is best known for both the poetry journal and o
+ pen mic of 30 years called Nomad's Choir.\n\nhttps://www.bklynlibrary.org/
+ node/839557
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:B-Horror in Brooklyn! (Eight Legged Freaks)
+DTSTART:20260908T214500Z
+DTEND:20260908T234500Z
+DESCRIPTION:A monthly program at the Brooklyn Public Library where we revi
+ sit some of the best (and worst) horror films ever shown at drive-ins\, do
+ uble features\, and midnight screenings.\n\nhttps://www.bklynlibrary.org/n
+ ode/841736
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
