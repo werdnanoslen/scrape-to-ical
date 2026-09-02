@@ -810,6 +810,16 @@ LOCATION:@ p.i.t. (property is theft) (all ages)\, 411 s. 5th\, los sures
  / williamsburg\, bklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Show with Doolittle\, Cicada School\, Shyness
+DTSTART:20260912T230000Z
+DTEND:20260913T000000Z
+DTSTAMP:20260912T230000Z
+UID:event:6207:2026-09-12T19:00:00
+DESCRIPTION:https://cal.red/?event=6207\nCost: Free/Donations
+LOCATION:King Killer Studios\, 234 6th St Brooklyn\, border of Gowanus & P
+ ark Slope
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🎉 REPAIR CAFÉ EL BARRIO’S 4TH ANNIVERSARY CELEBRATION 🥳
  🥳🥳🥳🥳
 DTSTART:20260913T150000Z
@@ -879,6 +889,18 @@ DTSTAMP:20260913T230000Z
 UID:event:6178:2026-09-13T19:00:00
 DESCRIPTION:https://cal.red/?event=6178\nCost: 🌀 free w/ rsvp
 LOCATION:@ pianos (21+)\, 158 ludlow st.\, lower east side\, mnhtn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HOUSE OF SCORPIO SINEMA CLUB: MOVIE TRIVIA + Screening of THE PILL
+ OW BOOK (1996)
+DTSTART:20260913T230000Z
+DTEND:20260914T000000Z
+DTSTAMP:20260913T230000Z
+UID:event:6208:2026-09-13T19:00:00
+DESCRIPTION:https://cal.red/?event=6208\nCost: $10 for existing members / 
+ $12 for non-members
+LOCATION:Gemini and Scorpio Loft\, 267 Douglass St\, 3rd fl (ADA accessibl
+ e)\, Gowanus\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Music at the Record Shop
@@ -1173,6 +1195,16 @@ DTSTAMP:20260920T230000Z
 UID:event:6179:2026-09-20T19:00:00
 DESCRIPTION:https://cal.red/?event=6179\nCost: 🌀 free w/ rsvp
 LOCATION:@ pianos (21+)\, 158 ludlow st.\, lower east side\, mnhtn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artifact #28
+DTSTART:20260920T233000Z
+DTEND:20260921T003000Z
+DTSTAMP:20260920T233000Z
+UID:event:6206:2026-09-20T19:30:00
+DESCRIPTION:https://cal.red/?event=6206\nEast Williamsburg\nBrooklyn\, New
+  York 11206\nCost: $15 – $20
+LOCATION:251 Bushwick Avenue
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Verse4Verse: Drag + Poetry

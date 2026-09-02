@@ -11,25 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260902T200000Z
-DTEND:20260902T230000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828049
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free Online English Class (We Speak NYC)
-DTSTART:20260902T210000Z
-DTEND:20260902T230000Z
-DESCRIPTION:Practice English with other adults by watching We Speak NYC vi
- deos and learning about City services.\n\nhttps://www.bklynlibrary.org/nod
- e/834598
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260902T220000Z
 DTEND:20260902T000000Z
@@ -384,5 +365,23 @@ DESCRIPTION:A monthly program at the Brooklyn Public Library where we revi
  uble features\, and midnight screenings.\n\nhttps://www.bklynlibrary.org/n
  ode/841736
 LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adult Creative Writing Group
+DTSTART:20260908T220000Z
+DTEND:20260908T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826257
+LOCATION:Crown Heights Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polish Language for Beginners: From “Dzień Dobry” to Pierogi 
+ Conversations
+DTSTART:20260908T220000Z
+DTEND:20260908T234500Z
+DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/835552
+LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR
