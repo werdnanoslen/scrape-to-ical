@@ -58,6 +58,15 @@ DESCRIPTION:https://cal.red/?event=6091\nCost: $45-$50
 LOCATION:Cordelia Wine Bar and Cafe 942 Bergen St\, Brooklyn\, NY 11238
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brooklyn Rail Launch
+DTSTART:20260902T220000Z
+DTEND:20260902T230000Z
+DTSTAMP:20260902T220000Z
+UID:event:6159:2026-09-02T18:00:00
+DESCRIPTION:https://cal.red/?event=6159\nCost: 0
+LOCATION:Industry City (@industrycity) in Courtyard 5/6
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (NLNL)
 DTSTART:20260902T230000Z
 DTEND:20260903T000000Z
@@ -88,13 +97,13 @@ DESCRIPTION:https://cal.red/?event=6139\n360 Van Brunt St\, Red Hook\, Bro
 LOCATION:Record Shop
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260903T220000Z
-DTEND:20260903T230000Z
-DTSTAMP:20260903T220000Z
-UID:event:6122:2026-09-03T18:00:00
-DESCRIPTION:https://cal.red/?event=6122\nCost: 0
-LOCATION:
+SUMMARY:Short Movies by Local People
+DTSTART:20260902T233000Z
+DTEND:20260903T003000Z
+DTSTAMP:20260902T233000Z
+UID:event:6161:2026-09-02T19:30:00
+DESCRIPTION:https://cal.red/?event=6161\nCost: 0
+LOCATION:Ridgewood Commons
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:'Uneven Geographies' exhibition
@@ -115,13 +124,13 @@ DESCRIPTION:https://cal.red/?event=6070\nCost: 0
 LOCATION:People’s Forum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:History of Chai
-DTSTART:20260903T230000Z
-DTEND:20260904T000000Z
-DTSTAMP:20260903T230000Z
-UID:event:6143:2026-09-03T19:00:00
-DESCRIPTION:https://cal.red/?event=6143\nCost: Free
-LOCATION:109 Ludlow Street\, New York\, New York
+SUMMARY:
+DTSTART:20260903T220000Z
+DTEND:20260903T230000Z
+DTSTAMP:20260903T220000Z
+UID:event:6122:2026-09-03T18:00:00
+DESCRIPTION:https://cal.red/?event=6122\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:In Common(s): A screening of the documentary “L’Asilo\, Creati
@@ -134,13 +143,14 @@ DESCRIPTION:https://cal.red/?event=6048\nCost: 20 suggested
 LOCATION:Index Space
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Still searching for a summer fling?
+SUMMARY:In Common(s) Screening of documentary "L'Asilo\, Creating Space fo
+ r Care"
 DTSTART:20260903T230000Z
 DTEND:20260904T000000Z
 DTSTAMP:20260903T230000Z
-UID:event:6115:2026-09-03T19:00:00
-DESCRIPTION:https://cal.red/?event=6115\nCost: 0
-LOCATION:
+UID:event:6092:2026-09-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6092\nGreenpoint\, NY\nCost: $10-$20
+LOCATION:698 Manhattan ave\, Floors 2 & 3.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:poetry reading + zine swap!!!
@@ -152,14 +162,33 @@ DESCRIPTION:https://cal.red/?event=6109\nCost: 0
 LOCATION:honey moon coffee shop
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:In Common(s) Screening of documentary "L'Asilo\, Creating Space fo
- r Care"
+SUMMARY:Still searching for a summer fling?
 DTSTART:20260903T230000Z
 DTEND:20260904T000000Z
 DTSTAMP:20260903T230000Z
-UID:event:6092:2026-09-03T19:00:00
-DESCRIPTION:https://cal.red/?event=6092\nGreenpoint\, NY\nCost: $10-$20
-LOCATION:698 Manhattan ave\, Floors 2 & 3.
+UID:event:6115:2026-09-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6115\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:History of Chai
+DTSTART:20260903T230000Z
+DTEND:20260904T000000Z
+DTSTAMP:20260903T230000Z
+UID:event:6143:2026-09-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6143\nCost: Free
+LOCATION:109 Ludlow Street\, New York\, New York
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOPOS TOO: 𝙎𝙀𝙋𝙏𝙀𝙈𝘽𝙀𝙍 𝙀𝙑𝙀𝙉
+ 𝙏𝙎
+DTSTART:20260903T230000Z
+DTEND:20260904T000000Z
+DTSTAMP:20260903T230000Z
+UID:event:6164:2026-09-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6164\nCost: 0
+LOCATION:All events are at Topos Too - 5922 Myrtle Ave. Ridgewood\, NY and
+  are free and open to the public!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MIX NYC presents Early Interiority: Vintage Trans Cinema
@@ -172,6 +201,15 @@ DESCRIPTION:https://cal.red/?event=6130\nCost: General Admission: $14\; Me
 LOCATION:Anthology Film Archives\, Noho\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cyberplasm / Deli Girls / Haram / No Knock / Jack Propane
+DTSTART:20260904T230000Z
+DTEND:20260905T000000Z
+DTSTAMP:20260904T230000Z
+UID:event:6134:2026-09-04T19:00:00
+DESCRIPTION:https://cal.red/?event=6134\nCost: 20
+LOCATION:314 Scholes St.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:
 DTSTART:20260904T230000Z
 DTEND:20260905T000000Z
@@ -181,13 +219,47 @@ DESCRIPTION:https://cal.red/?event=6152\nCost: 10$ notaflof
 LOCATION:Otion front studios\, 1196 Myrtle Ave. Bushwick.
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Cyberplasm / Deli Girls / Haram / No Knock / Jack Propane
+SUMMARY:🔮 Interested in reading tarot\, but don’t know where to start
+ ? Leap\, and the net shall appear: in this case\, in the form of Intuitive
+  Interpretation\, A Tarot Reading Workshop!
 DTSTART:20260904T230000Z
 DTEND:20260905T000000Z
 DTSTAMP:20260904T230000Z
-UID:event:6134:2026-09-04T19:00:00
-DESCRIPTION:https://cal.red/?event=6134\nCost: 20
-LOCATION:314 Scholes St.
+UID:event:6156:2026-09-04T19:00:00
+DESCRIPTION:https://cal.red/?event=6156\n\nHive Mind Books\nQueer Bookstor
+ e & Coffee Shop\n219 Irving Avenue\nBushwick\n\n(L) Dekalb\n(M/L) Myrtle-W
+ yckoff\n(M) Knickerbocker\nCost: 0
+LOCATION:🔮 ✨ 🔮 ✨ 🔮 ✨ 🔮 🔮 ✨ 🔮 ✨ 🔮 ✨ 🔮
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nathan's NYC Migrant Solidarity Fundraiser: Nathan Chamberlain / K
+ wami Winfield / Charles Chatman\, alana amore colvin\, Hans Young Binter &
+  Josh Mathews
+DTSTART:20260905T000000Z
+DTEND:20260905T010000Z
+DTSTAMP:20260905T000000Z
+UID:event:6160:2026-09-04T20:00:00
+DESCRIPTION:https://cal.red/?event=6160\nCost: 🌀 notaflof $10-20
+LOCATION:@ the laundromat (all ages)\, ask a pal\, maspeth\, queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Bias: bastiengoat\, WTCHCRFT\, RITCHRD\, Lonald J. Bandz
+DTSTART:20260905T020000Z
+DTEND:20260905T030000Z
+DTSTAMP:20260905T020000Z
+UID:event:6166:2026-09-04T22:00:00
+DESCRIPTION:https://cal.red/?event=6166\nCost: prolly $10
+LOCATION:@ bossa nova civic club (21+)\, 1271 myrtle ave\, bushwick\, bkly
+ n
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DJ Rozwell\, Kill Alters\, XXhardbit3s\, Dani Rev\, Soo Intoit
+DTSTART:20260905T030000Z
+DTEND:20260905T040000Z
+DTSTAMP:20260905T030000Z
+UID:event:6162:2026-09-04T23:00:00
+DESCRIPTION:https://cal.red/?event=6162\nCost: $11
+LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Share a Meal!
@@ -272,6 +344,26 @@ DESCRIPTION:https://cal.red/?event=6148\nCost: 0
 LOCATION:Columbia Waterfront
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TOPOS TOO: 𝙎𝙀𝙋𝙏𝙀𝙈𝘽𝙀𝙍 𝙀𝙑𝙀𝙉
+ 𝙏𝙎
+DTSTART:20260906T230000Z
+DTEND:20260907T000000Z
+DTSTAMP:20260906T230000Z
+UID:event:6164:2026-09-06T19:00:00
+DESCRIPTION:https://cal.red/?event=6164\nCost: 0
+LOCATION:All events are at Topos Too - 5922 Myrtle Ave. Ridgewood\, NY and
+  are free and open to the public!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clown Rebellion
+DTSTART:20260908T000000Z
+DTEND:20260908T010000Z
+DTSTAMP:20260908T000000Z
+UID:event:5924:2026-09-07T20:00:00
+DESCRIPTION:https://cal.red/?event=5924\nCost: Donation Based
+LOCATION:Location Varies\, 68 Jay St Suite #713
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20260908T000000Z
@@ -284,15 +376,6 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Clown Rebellion
-DTSTART:20260908T000000Z
-DTEND:20260908T010000Z
-DTSTAMP:20260908T000000Z
-UID:event:5924:2026-09-07T20:00:00
-DESCRIPTION:https://cal.red/?event=5924\nCost: Donation Based
-LOCATION:Location Varies\, 68 Jay St Suite #713
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Forgotten Release Party
 DTSTART:20260908T010000Z
 DTEND:20260908T020000Z
@@ -302,15 +385,6 @@ DESCRIPTION:https://cal.red/?event=6138\nCost: $15 Adv. / $20 at Door
 LOCATION:CASSETTE in Ridgewood\, NY
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Hardware Hacking - Permacomputing NYC
-DTSTART:20260908T220000Z
-DTEND:20260908T230000Z
-DTSTAMP:20260908T220000Z
-UID:event:6153:2026-09-08T18:00:00
-DESCRIPTION:https://cal.red/?event=6153\nCost: 0
-LOCATION:Ridgewood Commons 585 Woodward Avenue Ridgewood\, Queens
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Permacomputing NYC: Gameboy Hacking
 DTSTART:20260908T220000Z
 DTEND:20260908T230000Z
@@ -318,6 +392,15 @@ DTSTAMP:20260908T220000Z
 UID:event:5942:2026-09-08T18:00:00
 DESCRIPTION:https://cal.red/?event=5942\nCost: FREE
 LOCATION:Ridgewood Commons\, Queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hardware Hacking - Permacomputing NYC
+DTSTART:20260908T220000Z
+DTEND:20260908T230000Z
+DTSTAMP:20260908T220000Z
+UID:event:6153:2026-09-08T18:00:00
+DESCRIPTION:https://cal.red/?event=6153\nCost: 0
+LOCATION:Ridgewood Commons 585 Woodward Avenue Ridgewood\, Queens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:RISK! live true storytelling show
@@ -330,14 +413,15 @@ LOCATION:Caveat\, 21A Clinton Street in the Lower East Side of Manhattan\,
   NYC
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Figure Eighty\, Two Headed Girl\, Illustrator & Salem Moon
-DTSTART:20260909T000000Z
-DTEND:20260909T010000Z
-DTSTAMP:20260909T000000Z
-UID:event:6099:2026-09-08T20:00:00
-DESCRIPTION:https://cal.red/?event=6099\nCost: Free entry\; $10 suggested 
- donation
-LOCATION:Wonderville\, 1186 Broadway\, Bushwick\, Brooklyn
+SUMMARY:TOPOS TOO: 𝙎𝙀𝙋𝙏𝙀𝙈𝘽𝙀𝙍 𝙀𝙑𝙀𝙉
+ 𝙏𝙎
+DTSTART:20260908T230000Z
+DTEND:20260909T000000Z
+DTSTAMP:20260908T230000Z
+UID:event:6164:2026-09-08T19:00:00
+DESCRIPTION:https://cal.red/?event=6164\nCost: 0
+LOCATION:All events are at Topos Too - 5922 Myrtle Ave. Ridgewood\, NY and
+  are free and open to the public!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Conflict Lab
@@ -347,6 +431,16 @@ DTSTAMP:20260909T000000Z
 UID:event:6095:2026-09-08T20:00:00
 DESCRIPTION:https://cal.red/?event=6095\nCost: Donation Based
 LOCATION:East Village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Figure Eighty\, Two Headed Girl\, Illustrator & Salem Moon
+DTSTART:20260909T000000Z
+DTEND:20260909T010000Z
+DTSTAMP:20260909T000000Z
+UID:event:6099:2026-09-08T20:00:00
+DESCRIPTION:https://cal.red/?event=6099\nCost: Free entry\; $10 suggested 
+ donation
+LOCATION:Wonderville\, 1186 Broadway\, Bushwick\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Self-Defense Workshop
@@ -368,13 +462,15 @@ DESCRIPTION:https://cal.red/?event=6098\nLos Sures\, Williamsburg.\nBrookl
 LOCATION:P.I.T. (411 South 5th St\,
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ground Zero Plus 25
-DTSTART:20260909T230000Z
-DTEND:20260910T000000Z
-DTSTAMP:20260909T230000Z
-UID:event:6116:2026-09-09T19:00:00
-DESCRIPTION:https://cal.red/?event=6116\nCost: $14
-LOCATION:Great Hall at Cooper Union\, East Village
+SUMMARY:Join CLSJ and listen to the voices of the 1960s Black Montreal ris
+ e through historical archives in the documentary\, "True North".
+DTSTART:20260909T220000Z
+DTEND:20260909T230000Z
+DTSTAMP:20260909T220000Z
+UID:event:6163:2026-09-09T18:00:00
+DESCRIPTION:https://cal.red/?event=6163\n🗺️ 1637 Bedford Avenue #1st 
+ Fl (Room S122) Brooklyn\, NY 11225\nCost: 0
+LOCATION:📍 Medgar Evers College
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ground Zero Plus 25
@@ -386,6 +482,35 @@ DESCRIPTION:https://cal.red/?event=6104\nCost: $14
 LOCATION:Great Hall at Cooper Union\, East Village
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ground Zero Plus 25
+DTSTART:20260909T230000Z
+DTEND:20260910T000000Z
+DTSTAMP:20260909T230000Z
+UID:event:6116:2026-09-09T19:00:00
+DESCRIPTION:https://cal.red/?event=6116\nCost: $14
+LOCATION:Great Hall at Cooper Union\, East Village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20260910T230000Z
+DTEND:20260911T000000Z
+DTSTAMP:20260910T230000Z
+UID:event:6157:2026-09-10T19:00:00
+DESCRIPTION:https://cal.red/?event=6157\nCost: 0
+LOCATION:Studio Sabek
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOPOS TOO: 𝙎𝙀𝙋𝙏𝙀𝙈𝘽𝙀𝙍 𝙀𝙑𝙀𝙉
+ 𝙏𝙎
+DTSTART:20260911T000000Z
+DTEND:20260911T010000Z
+DTSTAMP:20260911T000000Z
+UID:event:6164:2026-09-10T20:00:00
+DESCRIPTION:https://cal.red/?event=6164\nCost: 0
+LOCATION:All events are at Topos Too - 5922 Myrtle Ave. Ridgewood\, NY and
+  are free and open to the public!
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Share a Meal!
 DTSTART:20260912T150000Z
 DTEND:20260912T160000Z
@@ -393,6 +518,16 @@ DTSTAMP:20260912T150000Z
 UID:event:5869:2026-09-12T11:00:00
 DESCRIPTION:https://cal.red/?event=5869\nCost: 0
 LOCATION:Tompkins Sq Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Linocut 102: Learn 2-Color Printmaking
+DTSTART:20260912T160000Z
+DTEND:20260912T170000Z
+DTSTAMP:20260912T160000Z
+UID:event:5995:2026-09-12T12:00:00
+DESCRIPTION:https://cal.red/?event=5995\nCost: $70–90 Sliding Scale
+LOCATION:Queens Collaboratory\, 21-07 41st Ave\, Unit 213\, Long Island Ci
+ ty\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Anthros NYC
@@ -405,14 +540,16 @@ DESCRIPTION:https://cal.red/?event=6031\n51 35th St\, Building 5\,\nIndust
 LOCATION:Tom Kane Theater
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Linocut 102: Learn 2-Color Printmaking
-DTSTART:20260912T160000Z
-DTEND:20260912T170000Z
-DTSTAMP:20260912T160000Z
-UID:event:5995:2026-09-12T12:00:00
-DESCRIPTION:https://cal.red/?event=5995\nCost: $70–90 Sliding Scale
-LOCATION:Queens Collaboratory\, 21-07 41st Ave\, Unit 213\, Long Island Ci
- ty\, NY
+SUMMARY:Come join us on Sat\, Sept 12th for Session 2 of our Sounds of Glo
+ bal Liberation series 🪘💓
+DTSTART:20260912T200000Z
+DTEND:20260912T210000Z
+DTSTAMP:20260912T200000Z
+UID:event:6167:2026-09-12T16:00:00
+DESCRIPTION:https://cal.red/?event=6167\nCost: $5-25 suggested donation (n
+ otaflof) — all proceeds help sustain the work of the artists\, the garde
+ n & the organizers
+LOCATION:The People’s Garden BK (1237 Broadway)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Regulars and Spiral Editions present: Kristen Gallagher\, Mark He\
@@ -435,6 +572,16 @@ DESCRIPTION:https://cal.red/?event=6136\nCost: Sliding Scale
 LOCATION:East Village
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🎉 REPAIR CAFÉ EL BARRIO’S 4TH ANNIVERSARY CELEBRATION 🥳
+ 🥳🥳🥳🥳
+DTSTART:20260913T150000Z
+DTEND:20260913T160000Z
+DTSTAMP:20260913T150000Z
+UID:event:6155:2026-09-13T11:00:00
+DESCRIPTION:https://cal.red/?event=6155\nCost: 0
+LOCATION:📍 El Barrio’s Artspace PS109
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:boshi's spontaneous orchestra - open jam (sep 2026)
 DTSTART:20260913T180000Z
 DTEND:20260913T190000Z
@@ -442,6 +589,15 @@ DTSTAMP:20260913T180000Z
 UID:event:6146:2026-09-13T14:00:00
 DESCRIPTION:https://cal.red/?event=6146\nCost: 0
 LOCATION:east wburg - 1002 metropolitan ave
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:dirt child presents 🤹 PRACTICE
+DTSTART:20260913T200000Z
+DTEND:20260913T210000Z
+DTSTAMP:20260913T200000Z
+UID:event:6165:2026-09-13T16:00:00
+DESCRIPTION:https://cal.red/?event=6165\nCost: FREE\, donations welcome.
+LOCATION:Bar Freda\, 801 Seneca in Ridgewood.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HOUSE OF SCORPIO SINEMA CLUB: MOVIE TRIVIA + Screening of THE PILL
@@ -534,6 +690,17 @@ DESCRIPTION:https://cal.red/?event=6091\nCost: $45-$50
 LOCATION:Cordelia Wine Bar and Cafe 942 Bergen St\, Brooklyn\, NY 11238
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:TOPOS TOO: 𝙎𝙀𝙋𝙏𝙀𝙈𝘽𝙀𝙍 𝙀𝙑𝙀𝙉
+ 𝙏𝙎
+DTSTART:20260916T230000Z
+DTEND:20260917T000000Z
+DTSTAMP:20260916T230000Z
+UID:event:6164:2026-09-16T19:00:00
+DESCRIPTION:https://cal.red/?event=6164\nCost: 0
+LOCATION:All events are at Topos Too - 5922 Myrtle Ave. Ridgewood\, NY and
+  are free and open to the public!
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:2026 Blaney Lecture: Poetry\, Movies\, and Identity with John Yau
 DTSTART:20260917T230000Z
 DTEND:20260918T000000Z
@@ -542,6 +709,17 @@ UID:event:6067:2026-09-17T19:00:00
 DESCRIPTION:https://cal.red/?event=6067\n63 5th Avenue New York NY 10003\n
  Cost: Free
 LOCATION:Starr Foundation Hall
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOPOS TOO: 𝙎𝙀𝙋𝙏𝙀𝙈𝘽𝙀𝙍 𝙀𝙑𝙀𝙉
+ 𝙏𝙎
+DTSTART:20260917T230000Z
+DTEND:20260918T000000Z
+DTSTAMP:20260917T230000Z
+UID:event:6164:2026-09-17T19:00:00
+DESCRIPTION:https://cal.red/?event=6164\nCost: 0
+LOCATION:All events are at Topos Too - 5922 Myrtle Ave. Ridgewood\, NY and
+  are free and open to the public!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
@@ -604,6 +782,17 @@ DTSTAMP:20260919T180000Z
 UID:event:6149:2026-09-19T14:00:00
 DESCRIPTION:https://cal.red/?event=6149\nCost: FREE
 LOCATION:Mil Mundos Books in Bushwick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOPOS TOO: 𝙎𝙀𝙋𝙏𝙀𝙈𝘽𝙀𝙍 𝙀𝙑𝙀𝙉
+ 𝙏𝙎
+DTSTART:20260920T230000Z
+DTEND:20260921T000000Z
+DTSTAMP:20260920T230000Z
+UID:event:6164:2026-09-20T19:00:00
+DESCRIPTION:https://cal.red/?event=6164\nCost: 0
+LOCATION:All events are at Topos Too - 5922 Myrtle Ave. Ridgewood\, NY and
+  are free and open to the public!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Verse4Verse: Drag + Poetry
@@ -696,6 +885,17 @@ DTSTAMP:20260927T210000Z
 UID:event:6016:2026-09-27T17:00:00
 DESCRIPTION:https://cal.red/?event=6016\nCost: Free
 LOCATION:Purgatory (Bushwick)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOPOS TOO: 𝙎𝙀𝙋𝙏𝙀𝙈𝘽𝙀𝙍 𝙀𝙑𝙀𝙉
+ 𝙏𝙎
+DTSTART:20260927T230000Z
+DTEND:20260928T000000Z
+DTSTAMP:20260927T230000Z
+UID:event:6164:2026-09-27T19:00:00
+DESCRIPTION:https://cal.red/?event=6164\nCost: 0
+LOCATION:All events are at Topos Too - 5922 Myrtle Ave. Ridgewood\, NY and
+  are free and open to the public!
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
