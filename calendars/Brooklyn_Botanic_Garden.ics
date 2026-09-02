@@ -71,36 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plant Health Care
-DTSTART;VALUE=DATE:20260901T040000Z
-DTEND;VALUE=DATE:20260901T060000Z
-UID:Plant Health Care-2026-09-01 04:00:00+00:00
-DESCRIPTION:6 weekly sessions beginning Tuesday\, September 1 or Wednesday
- \, September 16\, 2026 | 5–8 p.m.\n					\n\n\n					\n						\n							| Pr
- eregistration Required\n\nThis class offers an in-depth examination of cul
- tural management practices to support plant health and biodiversity in urb
- an gardens.Learn More›about Plant Health Care\n\nMore info:\nhttps://www
- .bbg.org/classes/plant_health_care\n\n<img src="/img/uploads/hero/_list_th
- umbnail_regular/ladybug-aphid_JF.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Canceled: Little Caribbean Last Lap Garden Fête
-DTSTART;VALUE=DATE:20260901T040000Z
-DTEND;VALUE=DATE:20260901T060000Z
-UID:Canceled: Little Caribbean Last Lap Garden Fête-2026-09-01 04:00:00+0
- 0:00
-DESCRIPTION:Canceled\n\nCelebrate Brooklyn’s West Indian community with 
- a Tuesday Night Fête at the Garden featuring live DJs.Learn More›about 
- Canceled: Little Caribbean Last Lap Garden Fête\n\nMore info:\nhttps://ww
- w.bbg.org/visit/event/little_caribbean_last_lap\n\n<img src="/img/uploads/
- manual/hero/_list_thumbnail_regular/caribbean-fete-visitors_MS_52325262905
- -1120.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Botany for Horticulturists
 DTSTART;VALUE=DATE:20260902T040000Z
 DTEND;VALUE=DATE:20260902T060000Z
@@ -366,6 +336,21 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gardens for Peace
+DTSTART;VALUE=DATE:20260912T040000Z
+DTEND;VALUE=DATE:20260912T060000Z
+UID:Gardens for Peace-2026-09-12 04:00:00+00:00
+DESCRIPTION:Saturday\, September 12\, 2026 | 11 a.m.–2:30 p.m.\n\nAs p
+ art of the North American Japanese Garden Association’s annual Gardens f
+ or Peace project\, BBG presents free public programming in and around its 
+ Japanese Hill-and-Pond Garden.Learn More›about Gardens for Peace\n\nMore
+  info:\nhttps://www.bbg.org/visit/event/gardens_for_peace\n\n<img src="/im
+ g/uploads/hero/_list_thumbnail_regular/54775374392-2800x1200-c.jpg" alt=""
+  />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drop-In Japanese Woodblock Printing
 DTSTART;VALUE=DATE:20260912T040000Z
 DTEND;VALUE=DATE:20260912T060000Z
@@ -405,21 +390,6 @@ DESCRIPTION:Saturday\, September 12\, 2026 |  11 a.m.–12 p.m.Tours run
  More›about Japanese Hill-and-Pond Garden Mini Tours\n\nMore info:\nhttps
  ://www.bbg.org/visit/event/japanese_garden_mini_tours\n\n<img src="/img/up
  loads/hero/_list_thumbnail_regular/54776563545-2800x1200-c.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gardens for Peace
-DTSTART;VALUE=DATE:20260912T040000Z
-DTEND;VALUE=DATE:20260912T060000Z
-UID:Gardens for Peace-2026-09-12 04:00:00+00:00
-DESCRIPTION:Saturday\, September 12\, 2026 | 11 a.m.–2:30 p.m.\n\nAs p
- art of the North American Japanese Garden Association’s annual Gardens f
- or Peace project\, BBG presents free public programming in and around its 
- Japanese Hill-and-Pond Garden.Learn More›about Gardens for Peace\n\nMore
-  info:\nhttps://www.bbg.org/visit/event/gardens_for_peace\n\n<img src="/im
- g/uploads/hero/_list_thumbnail_regular/54775374392-2800x1200-c.jpg" alt=""
-  />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -579,6 +549,34 @@ DESCRIPTION:6 weekly sessions beginning Tuesday\, September 1 or Wednesday
  an gardens.Learn More›about Plant Health Care\n\nMore info:\nhttps://www
  .bbg.org/classes/plant_health_care\n\n<img src="/img/uploads/hero/_list_th
  umbnail_regular/ladybug-aphid_JF.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260917T040000Z
+DTEND;VALUE=DATE:20260917T060000Z
+UID:Seasonal Highlights Tour-2026-09-17 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
+ f the season in this free walk led by trained Garden Guides.Learn More›a
+ bout Seasonal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/eve
+ nt/seasonal_highlights_tour_fall\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/hardy-begonia_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Designing With Dahlias
+DTSTART;VALUE=DATE:20260917T040000Z
+DTEND;VALUE=DATE:20260917T060000Z
+UID:Designing With Dahlias-2026-09-17 04:00:00+00:00
+DESCRIPTION:Thursday\, September 17\, 2026 | 5:30–8:30 p.m.  \n					\n\n
+ \n					\n						\n							| Preregistration Required\n\nLearn to design with
+  these late-summer blooms.Learn More›about Designing With Dahlias\n\nMor
+ e info:\nhttps://www.bbg.org/classes/designing_with_dahlias\n\n<img src="/
+ img/uploads/hero/_list_thumbnail_regular/Nsombi-Designing-With-Dahlias.jpe
+ g" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
