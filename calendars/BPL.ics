@@ -11,26 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260902T220000Z
-DTEND:20260902T000000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
- 67
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Journey of a Soca King: Elizabeth “Lady” Montano Discusses Mac
- hel Montano’s Musical Collaborations with Dr. Rudolph Ottley & Melissa N
- oel
-DTSTART:20260902T230000Z
-DTEND:20260902T010000Z
-DESCRIPTION:BPL Presents welcomes Elizabeth “Lady” Montano back to the
-  Dweck Stage to discuss Machel Montano’s Lyrics with Dr. Rudolph Ottley 
- and Melissa Noel.\n\nhttps://www.bklynlibrary.org/node/839482
-LOCATION:Central Library\, Dweck Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Social Work Walk-In Hours
 DTSTART:20260903T140000Z
 DTEND:20260903T190000Z
@@ -383,5 +363,23 @@ DTSTART:20260908T220000Z
 DTEND:20260908T234500Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/835552
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
+DTSTART:20260908T220000Z
+DTEND:20260908T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
+  Heights.\n\nhttps://www.bklynlibrary.org/node/829371
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260909T140000Z
+DTEND:20260909T160000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
+ 49
+LOCATION:Central Library\, Info Commons\, Room 4
 END:VEVENT
 END:VCALENDAR
