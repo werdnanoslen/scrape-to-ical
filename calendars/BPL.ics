@@ -11,54 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20260903T140000Z
-DTEND:20260903T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/828657
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Haircare & Wellness Hub
-DTSTART:20260903T180000Z
-DTEND:20260903T200000Z
-DESCRIPTION:Join Alopecian Beauty Co. as they re-introduce their Haircare 
- & Wellness Hub Program\, which is a community centered initiative providin
- g education\, support and resources for scalp health\, autoimmune a\n\nhtt
- ps://www.bklynlibrary.org/node/840679
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DSAIL Study Hall: Digital Skills & AI Literacy
-DTSTART:20260903T183000Z
-DTEND:20260903T203000Z
-DESCRIPTION:For current Digital Skills & AI Literacy participants- and any
- one interested in getting started. Learn more about the DSAIL program here
- : bklynlib.org/digital-skills\n\nhttps://www.bklynlibrary.org/node/839727
-LOCATION:Central Library\, Business & Career Center\, Event Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260903T190000Z
-DTEND:20260903T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/839680
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Interviewing Basics
-DTSTART:20260903T190000Z
-DTEND:20260903T200000Z
-DESCRIPTION:Are you nervous about the interview process?  Do you need hel
- p with tactics on how to approach your next job interview?  Join us to di
- scuss the whole job interview process.  We will discuss ways to an\n\nhtt
- ps://www.bklynlibrary.org/node/840256
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20260903T200000Z
 DTEND:20260903T000000Z
@@ -89,6 +41,15 @@ DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
 LOCATION:Park Slope\, Auditorium
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:CANCELLED: English Conversation Group
+DTSTART:20260903T220000Z
+DTEND:20260903T233000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8360
+ 03
+LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Singing Event
 DTSTART:20260903T220000Z
 DTEND:20260903T233000Z
@@ -105,15 +66,6 @@ DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
  ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
  ynlibrary.org/node/830870
 LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20260903T220000Z
-DTEND:20260903T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8360
- 03
-LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LGBTQ+ Book Discussion: Cannon
@@ -284,16 +236,6 @@ DESCRIPTION:A monthly program at the Brooklyn Public Library where we revi
 LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adult Creative Writing Group
-DTSTART:20260908T220000Z
-DTEND:20260908T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/826257
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
 DTSTART:20260908T220000Z
 DTEND:20260908T233000Z
@@ -309,6 +251,16 @@ DTSTART:20260908T220000Z
 DTEND:20260908T234500Z
 DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/835552
 LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Adult Creative Writing Group
+DTSTART:20260908T220000Z
+DTEND:20260908T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
+ nlibrary.org/node/826257
+LOCATION:Crown Heights Library
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:English Conversation Group
@@ -382,5 +334,52 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  nd floor) in the Business and Career Center for help with your r\n\nhttps:
  //www.bklynlibrary.org/node/841790
 LOCATION:Central Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Embodying Resilience-Burn Bright\, Not Out: Preventing Burnout
+DTSTART:20260909T160000Z
+DTEND:20260909T170000Z
+DESCRIPTION:Join Rooted in Radiance for this 6-part virtual series designe
+ d to equip you with practical\, mindful strategies to navigate stress\, em
+ body resilience\, and achieve sustainable well-being. It is structu\n\nhtt
+ ps://www.bklynlibrary.org/node/813105
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Drop-In Resume & Career Help (Brooklyn Heights)
+DTSTART:20260909T160000Z
+DTEND:20260909T173000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/829818
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mindful Coloring for Adults and Teens
+DTSTART:20260909T170000Z
+DTEND:20260909T180000Z
+DESCRIPTION:Please join us at our adult coloring session! No registratio
+ n required\, just drop in. We provide the supplies while you partake in 
+ a relaxing way to exercise your mind.\n\nhttps://www.bklynlibrary.org/node
+ /843635
+LOCATION:Brooklyn Heights Library\, Craft Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tech Help for Your Job Search
+DTSTART:20260909T180000Z
+DTEND:20260909T200000Z
+DESCRIPTION:This is a self-service open lab with support tech in the room 
+ to answer questions about:\n\nhttps://www.bklynlibrary.org/node/818929
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260909T180000Z
+DTEND:20260909T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/841699
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
