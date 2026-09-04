@@ -222,6 +222,14 @@ DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
 LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beginning Hebrew Conversation For Adults
+DTSTART:20260909T140000Z
+DTEND:20260909T153000Z
+DESCRIPTION:All beginners in Hebrew join us to learn\, practice and speak 
+ Hebrew\n\nhttps://www.bklynlibrary.org/node/844009
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Virtual Book Discussion Group for English Language Learners
 DTSTART:20260909T143000Z
 DTEND:20260909T160000Z
@@ -371,16 +379,5 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
  68
 LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Journey of a Soca King Exhibition Conversation with Elizabeth “L
- ady” Montano and Maxine Williams on King of Soca (Book)
-DTSTART:20260909T230000Z
-DTEND:20260909T010000Z
-DESCRIPTION:Join Brooklyn Public Library and the Machel Montano Foundation
-  for Greatness for the Journey of a Soca King Exhibition winds down with t
- his conversation with the author of the definitive insider accou\n\nhttps:
- //www.bklynlibrary.org/node/839484
-LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR
