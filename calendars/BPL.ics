@@ -11,72 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Virtual Financial Coaching
-DTSTART:20260903T200000Z
-DTEND:20260903T000000Z
-DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
- hing Corps (FCC) can help you manage your money\, find resources in a fina
- ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
- ww.bklynlibrary.org/node/828075
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Resume Coaching
-DTSTART:20260903T213000Z
-DTEND:20260903T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/828184
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260903T213000Z
-DTEND:20260903T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/839387
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group
-DTSTART:20260903T220000Z
-DTEND:20260903T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8360
- 03
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Community Singing Event
-DTSTART:20260903T220000Z
-DTEND:20260903T233000Z
-DESCRIPTION:Join us for our Community Songshare singing circle at the Broo
- klyn Heights Library!\n\nhttps://www.bklynlibrary.org/node/829115
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260903T220000Z
-DTEND:20260903T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/830870
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:LGBTQ+ Book Discussion: Cannon
-DTSTART:20260903T223000Z
-DTEND:20260903T233000Z
-DESCRIPTION:Looking to meet other LGBTQ+ folks? We meet the first Thursday
-  of every month to discuss an LGBTQ+ work.\n\nhttps://www.bklynlibrary.org
- /node/840577
-LOCATION:Brooklyn Heights Library\, Gaming Room
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Journey of a Soca King: Like Ah Boss Screening\, with Music on the
   Plaza
 DTSTART:20260903T230000Z
@@ -381,5 +315,72 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
  ter\, or other technology? Schedule a one-on-one section for personalized 
  assistance.\n\nhttps://www.bklynlibrary.org/node/841699
 LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260909T183000Z
+DTEND:20260909T190000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/841720
+LOCATION:Park Slope Library
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/828420
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260909T200000Z
+DTEND:20260909T230000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828050
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NELP Remote One-on-One Small Business Legal Clinic
+DTSTART:20260909T203000Z
+DTEND:20260909T223000Z
+DESCRIPTION:The Business & Career Center is partnering with the City Bar J
+ ustice Center’s Neighborhood Entrepreneur Law Project (NELP) and Pace SB
+ DC to offer a virtual small business legal clinic. This clinic\, co\n\nhtt
+ ps://www.bklynlibrary.org/node/839150
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making Music from Our Surroundings
+DTSTART:20260909T213000Z
+DTEND:20260909T233000Z
+DESCRIPTION:How can we make music drawing inspiration from the sounds of o
+ ur daily lives? How can we translate into sound what we observe in a paint
+ ing\, a text message\, a book\, ourselves\, or the world? What lies\n\nhtt
+ ps://www.bklynlibrary.org/node/832255
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI made simple for Entrepreneurs
+DTSTART:20260909T213000Z
+DTEND:20260909T233000Z
+DESCRIPTION:Discover practical AI tools that can make your entrepreneurshi
+ p journey smoother\, not harder.\n\nhttps://www.bklynlibrary.org/node/8404
+ 82
+LOCATION:Central Library\, Business & Career Center\, Event Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260909T220000Z
+DTEND:20260909T000000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
+ 68
+LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 END:VCALENDAR
