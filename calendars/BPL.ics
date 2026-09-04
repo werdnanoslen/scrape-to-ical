@@ -11,17 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Journey of a Soca King: Like Ah Boss Screening\, with Music on the
-  Plaza
-DTSTART:20260903T230000Z
-DTEND:20260903T013000Z
-DESCRIPTION:As part of the Journey of a Soca King Exhibition\, join us on 
- the Plaza for a screening of Like Ah Boss on the façade of the Brooklyn P
- ublic Library. In the event of rain\, this event will be held on Tu\n\nhtt
- ps://www.bklynlibrary.org/node/839483
-LOCATION:Central Library\, Plaza
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Movie: The Station Agent (2003)
 DTSTART:20260904T143000Z
 DTEND:20260904T160000Z
@@ -382,5 +371,16 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
  68
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journey of a Soca King Exhibition Conversation with Elizabeth “L
+ ady” Montano and Maxine Williams on King of Soca (Book)
+DTSTART:20260909T230000Z
+DTEND:20260909T010000Z
+DESCRIPTION:Join Brooklyn Public Library and the Machel Montano Foundation
+  for Greatness for the Journey of a Soca King Exhibition winds down with t
+ his conversation with the author of the definitive insider accou\n\nhttps:
+ //www.bklynlibrary.org/node/839484
+LOCATION:Central Library\, Dweck Center
 END:VEVENT
 END:VCALENDAR

@@ -71,20 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fall Container Gardening
-DTSTART;VALUE=DATE:20260903T040000Z
-DTEND;VALUE=DATE:20260903T060000Z
-UID:Fall Container Gardening-2026-09-03 04:00:00+00:00
-DESCRIPTION:Thursday\, September 3\, 2026 | 5:30–8:30 p.m.\n					\n\n\n	
- 				\n						\n							| Preregistration Required\n\nExplore the art and sci
- ence of fall container gardening.Learn More›about Fall Container Gardeni
- ng\n\nMore info:\nhttps://www.bbg.org/classes/fall_container_gardening\n\n
- <img src="/img/uploads/hero/_list_thumbnail_regular/gardening_RB_587757777
- 7.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Garden Circle September Early-Morning Hours
 DTSTART;VALUE=DATE:20260906T040000Z
 DTEND;VALUE=DATE:20260906T060000Z
@@ -276,20 +262,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Japanese Hill-and-Pond Garden Mini Tours
-DTSTART;VALUE=DATE:20260912T040000Z
-DTEND;VALUE=DATE:20260912T060000Z
-UID:Japanese Hill-and-Pond Garden Mini Tours-2026-09-12 04:00:00+00:00
-DESCRIPTION:Saturday\, September 12\, 2026 |  11 a.m.–12 p.m.Tours run
-  every 15 minutes.\n					\n\n\n					\n						\n							| Drop-in\n\nEnjoy a 
- peaceful stroll through one of BBG’s best-known specialty gardens.Learn 
- More›about Japanese Hill-and-Pond Garden Mini Tours\n\nMore info:\nhttps
- ://www.bbg.org/visit/event/japanese_garden_mini_tours\n\n<img src="/img/up
- loads/hero/_list_thumbnail_regular/54776563545-2800x1200-c.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Hudson Valley Shakuhachi Choir
 DTSTART;VALUE=DATE:20260912T040000Z
 DTEND;VALUE=DATE:20260912T060000Z
@@ -301,6 +273,20 @@ DESCRIPTION:Saturday\, September 12\, 2026 | 12 p.m. and 1 p.m.\n					\n
  n\nMore info:\nhttps://www.bbg.org/visit/event/the_hudson_valley_shakuhach
  i_choir\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/Shak
  uhachi-Photo-1.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Japanese Hill-and-Pond Garden Mini Tours
+DTSTART;VALUE=DATE:20260912T040000Z
+DTEND;VALUE=DATE:20260912T060000Z
+UID:Japanese Hill-and-Pond Garden Mini Tours-2026-09-12 04:00:00+00:00
+DESCRIPTION:Saturday\, September 12\, 2026 |  11 a.m.–12 p.m.Tours run
+  every 15 minutes.\n					\n\n\n					\n						\n							| Drop-in\n\nEnjoy a 
+ peaceful stroll through one of BBG’s best-known specialty gardens.Learn 
+ More›about Japanese Hill-and-Pond Garden Mini Tours\n\nMore info:\nhttps
+ ://www.bbg.org/visit/event/japanese_garden_mini_tours\n\n<img src="/img/up
+ loads/hero/_list_thumbnail_regular/54776563545-2800x1200-c.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -407,20 +393,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Urban Garden Design (blended)
-DTSTART;VALUE=DATE:20260915T040000Z
-DTEND;VALUE=DATE:20260915T060000Z
-UID:Urban Garden Design (blended)-2026-09-15 04:00:00+00:00
-DESCRIPTION:7 sessions beginning Tuesday\, September 15 or Monday\, Novemb
- er 9\, 2026 \n					\n\n\n					\n						\n							| Preregistration Required\
- n\nThis course acquaints students with the field of landscape design.Learn
-  More›about Urban Garden Design (blended)\n\nMore info:\nhttps://www.bbg
- .org/classes/urban_garden_design\n\n<img src="/img/uploads/hero/_list_thum
- bnail_regular/19WAEGARDSU_urban_garden_design.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herbs 101
 DTSTART;VALUE=DATE:20260915T040000Z
 DTEND;VALUE=DATE:20260915T060000Z
@@ -431,6 +403,20 @@ DESCRIPTION:Single session on Sunday\, September 13 or Tuesday\, September
   101\n\nMore info:\nhttps://www.bbg.org/classes/herbs_101\n\n<img src="/im
  g/uploads/hero/_list_thumbnail_regular/49860615921-2800x1200-c.jpg" alt=""
   />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban Garden Design (blended)
+DTSTART;VALUE=DATE:20260915T040000Z
+DTEND;VALUE=DATE:20260915T060000Z
+UID:Urban Garden Design (blended)-2026-09-15 04:00:00+00:00
+DESCRIPTION:7 sessions beginning Tuesday\, September 15 or Monday\, Novemb
+ er 9\, 2026 \n					\n\n\n					\n						\n							| Preregistration Required\
+ n\nThis course acquaints students with the field of landscape design.Learn
+  More›about Urban Garden Design (blended)\n\nMore info:\nhttps://www.bbg
+ .org/classes/urban_garden_design\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/19WAEGARDSU_urban_garden_design.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -544,6 +530,110 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260918T040000Z
 DTEND;VALUE=DATE:20260918T060000Z
 UID:Seasonal Highlights Tour-2026-09-18 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
+ f the season in this free walk led by trained Garden Guides.Learn More›a
+ bout Seasonal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/eve
+ nt/seasonal_highlights_tour_fall\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/hardy-begonia_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Woody Landscape Plant ID
+DTSTART;VALUE=DATE:20260919T040000Z
+DTEND;VALUE=DATE:20260919T060000Z
+UID:Woody Landscape Plant ID-2026-09-19 04:00:00+00:00
+DESCRIPTION:6 weekly sessions beginning Wednesday\, September 2 or Saturda
+ y\, September 19\, 2026\n					\n\n\n					\n						\n							| Preregistratio
+ n Required\n\nWoody plants—including shade trees\, ornamental trees\, an
+ d evergreen and deciduous shrubs—form the backbone of a well-planned lan
+ dscape design.Learn More›about Woody Landscape Plant ID\n\nMore info:\nh
+ ttps://www.bbg.org/classes/woody_landscape_plant_id_fall\n\n<img src="/img
+ /uploads/hero/_list_thumbnail_regular/oriental_beech-MS_52338490377.jpg" a
+ lt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Birding
+DTSTART;VALUE=DATE:20260919T040000Z
+DTEND;VALUE=DATE:20260919T060000Z
+UID:Birding-2026-09-19 04:00:00+00:00
+DESCRIPTION:6 Saturdays: September 19–October 24\, 2026 | 8:30 a.m.–1 
+ p.m. \n					\n\n\n					\n						| Waitlist Only\n\nMeet at natural location
+ s in NYC to learn how to find and identify birds living in the area or pas
+ sing through on their fall migrations.Learn More›about Birding\n\nMore i
+ nfo:\nhttps://www.bbg.org/classes/birding\n\n<img src="/img/uploads/hero/_
+ list_thumbnail_regular/55028129525-2800x1200-c.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Fall Mornings
+DTSTART;VALUE=DATE:20260919T040000Z
+DTEND;VALUE=DATE:20260919T060000Z
+UID:Members’ Fall Mornings-2026-09-19 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
+  October 24) | 9–10 a.m.\n\nOn weekend mornings from September 12 to Oc
+ tober 25\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
+ rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
+ g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
+ humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Native Gardening Intensive
+DTSTART;VALUE=DATE:20260919T040000Z
+DTEND;VALUE=DATE:20260919T060000Z
+UID:Native Gardening Intensive-2026-09-19 04:00:00+00:00
+DESCRIPTION:Saturday\, September 19\, 2026 | 10 a.m.–4 p.m. \n					\n\n\
+ n					\n						\n							| Preregistration Required\n\nImmerse yourself in a
+  full day of native gardening instruction in this indoor/outdoor class at 
+ BBG.Learn More›about Native Gardening Intensive\n\nMore info:\nhttps://w
+ ww.bbg.org/classes/native_gardening_intensive\n\n<img src="/img/uploads/he
+ ro/_list_thumbnail_regular/f-48-167-23260770_M2Vy6cqO_Native_Gardening_Eas
+ tern_Tiger_Swallowtail_on_Joe_Pye_weed_Kim_Eierman.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Family Discovery Weekends
+DTSTART;VALUE=DATE:20260919T040000Z
+DTEND;VALUE=DATE:20260919T060000Z
+UID:Fall Family Discovery Weekends-2026-09-19 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | September 1
+ 9–October 31\, 2026  (except October 10–11 and October 24)\n					\n\n
+ \n					\n						\n							| Drop-in\n\nLearn and play together in the Discov
+ ery Garden. This is a drop-in program for families with children of all ag
+ es.Learn More›about Fall Family Discovery Weekends\n\nMore info:\nhttps:
+ //www.bbg.org/visit/event/fall_family_discovery_weekends\n\n<img src="/img
+ /uploads/manual/hero/_list_thumbnail_regular/custom_weekend-MS-20146021173
+ .jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shinnecock Oral History Plant Tour
+DTSTART;VALUE=DATE:20260919T040000Z
+DTEND;VALUE=DATE:20260919T060000Z
+UID:Shinnecock Oral History Plant Tour-2026-09-19 04:00:00+00:00
+DESCRIPTION:May 30\, September 19\, October 10\, 2026 | 11 a.m.–12 p.m.\
+ n\nJoin Chenae Bullock\, a member of the Shinnecock Nation\, for a Native 
+ Flora Garden tour and talk based on Indigenous traditional ecological know
+ ledge.Learn More›about Shinnecock Oral History Plant Tour\n\nMore info:\
+ nhttps://www.bbg.org/visit/event/shinnecock_plant_oral_history_tour\n\n<im
+ g src="/img/uploads/hero/_list_thumbnail_regular/fall-visitors_MS_52456603
+ 611.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260919T040000Z
+DTEND;VALUE=DATE:20260919T060000Z
+UID:Seasonal Highlights Tour-2026-09-19 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
  \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
  f the season in this free walk led by trained Garden Guides.Learn More›a
