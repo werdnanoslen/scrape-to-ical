@@ -87,20 +87,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260906T040000Z
-DTEND;VALUE=DATE:20260906T060000Z
-UID:Seasonal Highlights Tour-2026-09-06 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
- \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
- f the season in this free walk led by trained Garden Guides.Learn More›a
- bout Seasonal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/eve
- nt/seasonal_highlights_tour_fall\n\n<img src="/img/uploads/hero/_list_thum
- bnail_regular/hardy-begonia_MS_52371474767.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260908T040000Z
 DTEND;VALUE=DATE:20260908T060000Z
 UID:Seasonal Highlights Tour-2026-09-08 04:00:00+00:00
@@ -248,6 +234,22 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Library Open Hours
+DTSTART;VALUE=DATE:20260912T040000Z
+DTEND;VALUE=DATE:20260912T060000Z
+UID:Library Open Hours-2026-09-12 04:00:00+00:00
+DESCRIPTION:Saturdays\, August 1\, September 12\, October 3\, 2026 | 11 a
+ .m.–5 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nDrop by the G
+ arden’s Library on select Saturdays this season to browse our extensive 
+ collection of books\, see highlights from our collections\, or play a scav
+ enger hunt with kids.Learn More›about Library Open Hours\n\nMore info:\n
+ https://www.bbg.org/visit/event/library_saturday\n\n<img src="/img/uploads
+ /hero/_list_thumbnail_regular/library-visitors_SC_54395474703.jpg" alt="" 
+ />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drop-In Japanese Woodblock Printing
 DTSTART;VALUE=DATE:20260912T040000Z
 DTEND;VALUE=DATE:20260912T060000Z
@@ -302,22 +304,6 @@ DESCRIPTION:Saturday\, September 12\, 2026 | 11 a.m.–2:30 p.m.\n\nAs p
   info:\nhttps://www.bbg.org/visit/event/gardens_for_peace\n\n<img src="/im
  g/uploads/hero/_list_thumbnail_regular/54775374392-2800x1200-c.jpg" alt=""
   />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Library Open Hours
-DTSTART;VALUE=DATE:20260912T040000Z
-DTEND;VALUE=DATE:20260912T060000Z
-UID:Library Open Hours-2026-09-12 04:00:00+00:00
-DESCRIPTION:Saturdays\, August 1\, September 12\, October 3\, 2026 | 11 a
- .m.–5 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nDrop by the G
- arden’s Library on select Saturdays this season to browse our extensive 
- collection of books\, see highlights from our collections\, or play a scav
- enger hunt with kids.Learn More›about Library Open Hours\n\nMore info:\n
- https://www.bbg.org/visit/event/library_saturday\n\n<img src="/img/uploads
- /hero/_list_thumbnail_regular/library-visitors_SC_54395474703.jpg" alt="" 
- />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -393,20 +379,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Herbs 101
-DTSTART;VALUE=DATE:20260915T040000Z
-DTEND;VALUE=DATE:20260915T060000Z
-UID:Herbs 101-2026-09-15 04:00:00+00:00
-DESCRIPTION:Single session on Sunday\, September 13 or Tuesday\, September
-  15\, 2026 \n					\n\n\n					\n						\n							| Preregistration Required\n
- \nUse your five senses to learn basic herb botany.Learn More›about Herbs
-  101\n\nMore info:\nhttps://www.bbg.org/classes/herbs_101\n\n<img src="/im
- g/uploads/hero/_list_thumbnail_regular/49860615921-2800x1200-c.jpg" alt=""
-  />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Urban Garden Design (blended)
 DTSTART;VALUE=DATE:20260915T040000Z
 DTEND;VALUE=DATE:20260915T060000Z
@@ -417,6 +389,20 @@ DESCRIPTION:7 sessions beginning Tuesday\, September 15 or Monday\, Novemb
   More›about Urban Garden Design (blended)\n\nMore info:\nhttps://www.bbg
  .org/classes/urban_garden_design\n\n<img src="/img/uploads/hero/_list_thum
  bnail_regular/19WAEGARDSU_urban_garden_design.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herbs 101
+DTSTART;VALUE=DATE:20260915T040000Z
+DTEND;VALUE=DATE:20260915T060000Z
+UID:Herbs 101-2026-09-15 04:00:00+00:00
+DESCRIPTION:Single session on Sunday\, September 13 or Tuesday\, September
+  15\, 2026 \n					\n\n\n					\n						\n							| Preregistration Required\n
+ \nUse your five senses to learn basic herb botany.Learn More›about Herbs
+  101\n\nMore info:\nhttps://www.bbg.org/classes/herbs_101\n\n<img src="/im
+ g/uploads/hero/_list_thumbnail_regular/49860615921-2800x1200-c.jpg" alt=""
+  />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

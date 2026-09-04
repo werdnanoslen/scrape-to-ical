@@ -11,42 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Neighborhood Tech Help
-DTSTART:20260904T150000Z
-DTEND:20260904T200000Z
-DESCRIPTION:Our team of Digital Navigators are eager to assist you with an
- y questions you may have about getting online and using digital tools for 
- communication and digital tasks. Ask us if support is available\n\nhttps:/
- /www.bklynlibrary.org/node/841609
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260904T170000Z
-DTEND:20260904T190000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8341
- 16
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Film Club: All That Jazz (1979)
-DTSTART:20260904T180000Z
-DTEND:20260904T203000Z
-DESCRIPTION:All That Jazz (1979)\n\nhttps://www.bklynlibrary.org/node/8422
- 98
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual French Conversation Group
-DTSTART:20260904T180000Z
-DTEND:20260904T190000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
- ://www.bklynlibrary.org/node/842464
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
 DTSTART:20260908T140000Z
 DTEND:20260908T170000Z
@@ -91,6 +55,16 @@ DESCRIPTION:Do you have a specific question about how to use computers or
   1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
  //www.bklynlibrary.org/node/836400
 LOCATION:Brooklyn Heights Library\, Orange Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Crafting Circle
+DTSTART:20260908T180000Z
+DTEND:20260908T190000Z
+DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
+ Join our virtual crafting circle! Every 2nd and 4th Tuesday of the month\,
+  get together with fellow crafters to chat and discuss what you'r\n\nhttps
+ ://www.bklynlibrary.org/node/844124
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
@@ -296,6 +270,15 @@ DESCRIPTION:Experiencing issues or have questions about your phone\, compu
 LOCATION:Park Slope Library
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Microsoft Power Point
+DTSTART:20260909T180000Z
+DTEND:20260909T190000Z
+DESCRIPTION:Need help navigating one of your tech devices? Come join us an
+ d ask a variety of tech questions about your tech devices.\n\nhttps://www.
+ bklynlibrary.org/node/844087
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ask A Tech: By Appointment (Park Slope)
 DTSTART:20260909T183000Z
 DTEND:20260909T190000Z
@@ -381,5 +364,25 @@ DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
  le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
  61
 LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pace SBDC Business Counseling @ BPL
+DTSTART:20260910T140000Z
+DTEND:20260910T210000Z
+DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
+ is offering weekly\, free\, in-person one-to-one business advisement at th
+ e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
+ lynlibrary.org/node/828658
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Street Photography
+DTSTART:20260910T143000Z
+DTEND:20260910T173000Z
+DESCRIPTION:Dive into street photography in a class open to all skill leve
+ ls and learn from a seasoned pro. Explore iconic photographers while maste
+ ring both historical context and practical street shooting techn\n\nhttps:
+ //www.bklynlibrary.org/node/828692
+LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 END:VCALENDAR
