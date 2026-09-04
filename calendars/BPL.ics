@@ -11,24 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Movie: The Station Agent (2003)
-DTSTART:20260904T143000Z
-DTEND:20260904T160000Z
-DESCRIPTION:Join us on Fridays at 10:30 am for a movie screening in our Mu
- ltipurpose Room.\n\nhttps://www.bklynlibrary.org/node/831202
-LOCATION:Brooklyn Heights Library\, Multipurpose Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drop-In Resume & Career Help (Central Library)
-DTSTART:20260904T150000Z
-DTEND:20260904T170000Z
-DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
- th questions about your resume\, cover letter\, interview\, and job search
- . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
- ps://www.bklynlibrary.org/node/828149
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Neighborhood Tech Help
 DTSTART:20260904T150000Z
 DTEND:20260904T200000Z
@@ -48,6 +30,14 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
 LOCATION:Central Library\, Info Commons\, Room 7
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Friday Film Club: All That Jazz (1979)
+DTSTART:20260904T180000Z
+DTEND:20260904T203000Z
+DESCRIPTION:All That Jazz (1979)\n\nhttps://www.bklynlibrary.org/node/8422
+ 98
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Virtual French Conversation Group
 DTSTART:20260904T180000Z
 DTEND:20260904T190000Z
@@ -55,14 +45,6 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. Our group meets online\, on Zoom.\n\nhttps
  ://www.bklynlibrary.org/node/842464
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Friday Film Club: All That Jazz (1979)
-DTSTART:20260904T180000Z
-DTEND:20260904T203000Z
-DESCRIPTION:All That Jazz (1979)\n\nhttps://www.bklynlibrary.org/node/8422
- 98
-LOCATION:Central Library\, Info Commons Lab
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Want to Become MWBE Certified? Join Our Office Hours!
@@ -379,5 +361,25 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8317
  68
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Journey of a Soca King Exhibition Conversation with Elizabeth “L
+ ady” Montano and Maxine Williams on King of Soca (Book)
+DTSTART:20260909T230000Z
+DTEND:20260909T010000Z
+DESCRIPTION:Join Brooklyn Public Library and the Machel Montano Foundation
+  for Greatness for the Journey of a Soca King Exhibition winds down with t
+ his conversation with the author of the definitive insider accou\n\nhttps:
+ //www.bklynlibrary.org/node/839484
+LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Work Walk-In Hours
+DTSTART:20260910T140000Z
+DTEND:20260910T190000Z
+DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
+ le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
+ 61
+LOCATION:Central Library\, Civic Commons Partner Office
 END:VEVENT
 END:VCALENDAR
