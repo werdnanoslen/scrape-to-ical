@@ -422,6 +422,16 @@ LOCATION:@ children’s magical garden (all ages)\, 129 stanton st.\, lowe
  r east side\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Earth Building with Rose Malenfant
+DTSTART:20260912T190000Z
+DTEND:20260912T200000Z
+DTSTAMP:20260912T190000Z
+UID:event:6217:2026-09-12T15:00:00
+DESCRIPTION:https://cal.red/?event=6217\nGovernor's Island\, NY\nCost: $10
+ -$20
+LOCATION:Colonel's Row
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Come join us on Sat\, Sept 12th for Session 2 of our Sounds of Glo
  bal Liberation series 🪘💓
 DTSTART:20260912T200000Z
@@ -704,6 +714,15 @@ DTSTAMP:20260916T230000Z
 UID:event:6192:2026-09-16T19:00:00
 DESCRIPTION:https://cal.red/?event=6192\nCost: $15
 LOCATION:@ trans-pecos (all ages)\, 9-15 wyckoff ave\, ridgewood\, queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artifacts of the Black Radical Tradition
+DTSTART:20260917T220000Z
+DTEND:20260917T230000Z
+DTSTAMP:20260917T220000Z
+UID:event:6218:2026-09-17T18:00:00
+DESCRIPTION:https://cal.red/?event=6218\nCost: 0
+LOCATION:410 Marcus Garvey Blvd. Brooklyn\, NY. Bedstuy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2026 Blaney Lecture: Poetry\, Movies\, and Identity with John Yau
