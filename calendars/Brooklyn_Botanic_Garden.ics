@@ -71,21 +71,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Garden Circle September Early-Morning Hours
-DTSTART;VALUE=DATE:20260906T040000Z
-DTEND;VALUE=DATE:20260906T060000Z
-UID:Garden Circle September Early-Morning Hours-2026-09-06 04:00:00+00:00
-DESCRIPTION:Sunday\, September 6\, 2026 | 9–10 a.m.\n					\n\n\n					\n	
- 					\n							| Preregistration Required\n\nMembers of the Garden Circle a
- nd higher levels can enjoy exclusive access to the Garden from 9 to 10 a.m
- .Learn More›about Garden Circle September Early-Morning Hours\n\nMore in
- fo:\nhttps://www.bbg.org/visit/event/september_early_morning_hours\n\n<img
-  src="/img/uploads/hero/_list_thumbnail_regular/visitor-water-garden_34871
- 571975_bb.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260908T040000Z
 DTEND;VALUE=DATE:20260908T060000Z
@@ -665,6 +650,20 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20260920T040000Z
 DTEND;VALUE=DATE:20260920T060000Z
 UID:Seasonal Highlights Tour-2026-09-20 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
+ f the season in this free walk led by trained Garden Guides.Learn More›a
+ bout Seasonal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/eve
+ nt/seasonal_highlights_tour_fall\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/hardy-begonia_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260922T040000Z
+DTEND;VALUE=DATE:20260922T060000Z
+UID:Seasonal Highlights Tour-2026-09-22 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
  \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
  f the season in this free walk led by trained Garden Guides.Learn More›a
