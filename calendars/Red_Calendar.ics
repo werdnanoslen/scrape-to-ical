@@ -735,6 +735,16 @@ DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
 LOCATION:Pageant
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Drone Lab + Open Projector
+DTSTART:20260919T000000Z
+DTEND:20260919T010000Z
+DTSTAMP:20260919T000000Z
+UID:event:6219:2026-09-18T20:00:00
+DESCRIPTION:https://cal.red/?event=6219\nOcean Hill / Brownsville\nCost: s
+ uggested donation $20
+LOCATION:303 Saratoga Ave\, Brooklyn NY 11233
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Punk Rock Karaoke: A Benefit for the Non-Cooperating Prairieland D
  efendants
 DTSTART:20260919T003000Z
