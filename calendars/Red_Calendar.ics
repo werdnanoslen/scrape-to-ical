@@ -448,6 +448,15 @@ DESCRIPTION:https://cal.red/?event=6165\nCost: FREE\, donations welcome.
 LOCATION:Bar Freda\, 801 Seneca in Ridgewood.
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Star Trek 60th Anniversary Party
+DTSTART:20260913T220000Z
+DTEND:20260913T230000Z
+DTSTAMP:20260913T220000Z
+UID:event:6225:2026-09-13T18:00:00
+DESCRIPTION:https://cal.red/?event=6225\nCost: 0
+LOCATION:East Williamsburg
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Underground Underwater
 DTSTART:20260913T223000Z
 DTEND:20260913T233000Z
@@ -874,6 +883,16 @@ DESCRIPTION:https://cal.red/?event=6127\n257 Nassau Ave\nBrooklyn NY 11222
 LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:INFRASTRUCTURE PARTY 🕺💃🛜☎️🅿️
+DTSTART:20260924T230000Z
+DTEND:20260925T000000Z
+DTSTAMP:20260924T230000Z
+UID:event:6227:2026-09-24T19:00:00
+DESCRIPTION:https://cal.red/?event=6227\nemail wired.roots@proton.me for l
+ ocation details\nCost: 0
+LOCATION:Crown Heights\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
  𝘛 𝘐𝘚𝘕’𝘛 𝘛𝘏𝘌 𝘛𝘖𝘔 𝘍𝘖𝘖𝘓𝘌
  𝘙𝘠 𝘖𝘍 𝘍𝘈𝘓𝘓. 𝐒𝐇𝐀𝐑𝐏𝐄𝐍 𝐘𝐎
@@ -1178,6 +1197,15 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Masma Dream World\, The Human Dream Project\, 'nguento\, Aeonium
+DTSTART:20261030T230000Z
+DTEND:20261031T000000Z
+DTSTAMP:20261030T230000Z
+UID:event:6226:2026-10-30T19:00:00
+DESCRIPTION:https://cal.red/?event=6226\nCost: 20
+LOCATION:Stone Circle Theatre Sanctuary\, Ridgewood\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
