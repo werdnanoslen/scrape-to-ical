@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260908T180000Z
-DTEND:20260908T200000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/828167
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Immigrant Job Support (one-on-one) Sessions
 DTSTART:20260908T180000Z
 DTEND:20260908T210000Z
@@ -29,26 +19,6 @@ DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
  ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
  ps://www.bklynlibrary.org/node/831377
 LOCATION:Brooklyn Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech
-DTSTART:20260908T180000Z
-DTEND:20260908T190000Z
-DESCRIPTION:Do you have a specific question about how to use computers or 
- find your way around the internet? Come join us for Ask A Tech program for
-  1 on 1 assistance. We're here to help you every step of the way\n\nhttps:
- //www.bklynlibrary.org/node/836400
-LOCATION:Brooklyn Heights Library\, Orange Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Virtual Crafting Circle
-DTSTART:20260908T180000Z
-DTEND:20260908T190000Z
-DESCRIPTION:Do you like to craft? Looking for other people to craft with? 
- Join our virtual crafting circle! Every 2nd and 4th Tuesday of the month\,
-  get together with fellow crafters to chat and discuss what you'r\n\nhttps
- ://www.bklynlibrary.org/node/844124
-LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
@@ -386,5 +356,35 @@ DESCRIPTION:Join other adults who are learning to speak English in this we
  ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8403
  56
 LOCATION:Central Library\, Info Commons\, Room 7
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Brooklyn Heights) **ONE-TIME DATE CH
+ ANGE**
+DTSTART:20260910T160000Z
+DTEND:20260910T173000Z
+DESCRIPTION:Stop by Brooklyn Heights Library for help with your resume\, c
+ over letter\, interview\, and job search questions. All sessions are one-o
+ n-one on a first come\, first served basis. Please sign up for a 30-\n\nht
+ tps://www.bklynlibrary.org/node/840804
+LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternatives to Adobe
+DTSTART:20260910T180000Z
+DTEND:20260910T200000Z
+DESCRIPTION:We all know of Adobe’s huge array of products and services r
+ elated to graphic design\, animation\, video and audio editing (among many
+  others!). Did you know that there are many alternatives to Adobe ap\n\nht
+ tps://www.bklynlibrary.org/node/828693
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ask A Tech: By Appointment (Park Slope)
+DTSTART:20260910T180000Z
+DTEND:20260910T183000Z
+DESCRIPTION:Experiencing issues or have questions about your phone\, compu
+ ter\, or other technology? Schedule a one-on-one section for personalized 
+ assistance.\n\nhttps://www.bklynlibrary.org/node/841700
+LOCATION:Park Slope Library
 END:VEVENT
 END:VCALENDAR
