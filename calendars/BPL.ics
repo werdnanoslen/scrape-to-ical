@@ -11,63 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Slip Stitch Knitting & Crocheting Group
-DTSTART:20260908T210000Z
-DTEND:20260908T000000Z
-DESCRIPTION:Looking to share your current knitting project with others? Co
- me join like-minded folks on their yarn journey in the Info Commons. Brin
- g your own yarn and tools and meet with other fiber artists for a\n\nhttp
- s://www.bklynlibrary.org/node/825109
-LOCATION:Central Library\, Info Commons\, Room 4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ken Siegelman’s Brooklyn Poetry Outreach featuring Joshua Meande
- r
-DTSTART:20260908T213000Z
-DTEND:20260908T233000Z
-DESCRIPTION:Joshua Meander is best known for both the poetry journal and o
- pen mic of 30 years called Nomad's Choir.\n\nhttps://www.bklynlibrary.org/
- node/839557
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:B-Horror in Brooklyn! (Eight Legged Freaks)
-DTSTART:20260908T214500Z
-DTEND:20260908T234500Z
-DESCRIPTION:A monthly program at the Brooklyn Public Library where we revi
- sit some of the best (and worst) horror films ever shown at drive-ins\, do
- uble features\, and midnight screenings.\n\nhttps://www.bklynlibrary.org/n
- ode/841736
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: English Conversation Group - Brooklyn Heights
-DTSTART:20260908T220000Z
-DTEND:20260908T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Class every Tuesday from 6 - 7:30 pm at Brooklyn
-  Heights.\n\nhttps://www.bklynlibrary.org/node/829371
-LOCATION:Brooklyn Heights Library\, Pineapple Meeting Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CANCELLED: Adult Creative Writing Group
-DTSTART:20260908T220000Z
-DTEND:20260908T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Tuesday evenings.\n\nhttps://www.bkly
- nlibrary.org/node/826257
-LOCATION:Crown Heights Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polish Language for Beginners: From “Dzień Dobry” to Pierogi 
- Conversations
-DTSTART:20260908T220000Z
-DTEND:20260908T234500Z
-DESCRIPTION:\n\nhttps://www.bklynlibrary.org/node/835552
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:English Conversation Group
 DTSTART:20260909T140000Z
 DTEND:20260909T160000Z
@@ -385,5 +328,64 @@ DESCRIPTION:Practice your French speaking and listening skills with other
  adults who are learning French. This group is for high intermediate speake
  rs.\n\nhttps://www.bklynlibrary.org/node/839681
 LOCATION:Central Library\, Info Commons\, Room 4
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Virtual Financial Coaching
+DTSTART:20260910T200000Z
+DTEND:20260910T000000Z
+DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
+ hing Corps (FCC) can help you manage your money\, find resources in a fina
+ ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
+ ww.bklynlibrary.org/node/828076
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Interviewing Basics
+DTSTART:20260910T200000Z
+DTEND:20260910T210000Z
+DESCRIPTION:Are you nervous about the interview process?  Do you need hel
+ p with tactics on how to approach your next job interview?  Join us to di
+ scuss the whole job interview process.  We will discuss ways to an\n\nhtt
+ ps://www.bklynlibrary.org/node/839104
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260910T213000Z
+DTEND:20260910T233000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828185
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zumba
+DTSTART:20260910T213000Z
+DTEND:20260910T223000Z
+DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
+ ise.  While listening to upbeat music\, you will get a full-body workout
+ \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
+ lynlibrary.org/node/839388
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Climate Café Fall Session: Balancing the Grid: Thinking in Energy
+  Systems for Ecological Harmony
+DTSTART:20260910T213000Z
+DTEND:20260910T233000Z
+DESCRIPTION:Climate Cafés: Navigating Climate Emotions and Action\n\nhttp
+ s://www.bklynlibrary.org/node/842263
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
+DTSTART:20260910T220000Z
+DTEND:20260910T233000Z
+DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
+ e discovered that it’s strikingly helpful to write with other writers. S
+ ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
+ ynlibrary.org/node/830871
+LOCATION:Brooklyn Heights Library\, Craft Room
 END:VEVENT
 END:VCALENDAR
