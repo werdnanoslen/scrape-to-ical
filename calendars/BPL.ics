@@ -11,71 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BPL
 BEGIN:VEVENT
-SUMMARY:Social Work Walk-In Hours
-DTSTART:20260910T140000Z
-DTEND:20260910T190000Z
-DESCRIPTION:Brooklyn Public Library's Social Work Program will be availab
- le to assist with referrals for:\n\nhttps://www.bklynlibrary.org/node/8197
- 61
-LOCATION:Central Library\, Civic Commons Partner Office
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pace SBDC Business Counseling @ BPL
-DTSTART:20260910T140000Z
-DTEND:20260910T210000Z
-DESCRIPTION:The Pace University Small Business Development Center (SBDC) 
- is offering weekly\, free\, in-person one-to-one business advisement at th
- e Brooklyn Public Library’s Business & Career Center!\n\nhttps://www.bk
- lynlibrary.org/node/828658
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alternatives to Adobe
-DTSTART:20260910T180000Z
-DTEND:20260910T200000Z
-DESCRIPTION:We all know of Adobe’s huge array of products and services r
- elated to graphic design\, animation\, video and audio editing (among many
-  others!). Did you know that there are many alternatives to Adobe ap\n\nht
- tps://www.bklynlibrary.org/node/828693
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260910T180000Z
-DTEND:20260910T183000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/841700
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts and Crafts Circle
-DTSTART:20260910T183000Z
-DTEND:20260910T200000Z
-DESCRIPTION:A casual\, bi-weekly arts and crafts meet-up for adults. Join 
- us to work on projects\, trade skills\, and socialize with other makers!\n
- \nhttps://www.bklynlibrary.org/node/818740
-LOCATION:Central Library\, Business & Career Center\, Classroom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ask A Tech: By Appointment (Park Slope)
-DTSTART:20260910T183000Z
-DTEND:20260910T190000Z
-DESCRIPTION:Experiencing issues or have questions about your phone\, compu
- ter\, or other technology? Schedule a one-on-one section for personalized 
- assistance.\n\nhttps://www.bklynlibrary.org/node/841721
-LOCATION:Park Slope Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:French Conversation Group
-DTSTART:20260910T190000Z
-DTEND:20260910T200000Z
-DESCRIPTION:Practice your French speaking and listening skills with other 
- adults who are learning French. This group is for high intermediate speake
- rs.\n\nhttps://www.bklynlibrary.org/node/839681
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Virtual Financial Coaching
 DTSTART:20260910T200000Z
 DTEND:20260910T000000Z
@@ -84,16 +19,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
  ncial crisis\, and make progress toward your financial goals.\n\nhttps://w
  ww.bklynlibrary.org/node/828076
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Interviewing Basics
-DTSTART:20260910T200000Z
-DTEND:20260910T210000Z
-DESCRIPTION:Are you nervous about the interview process?  Do you need hel
- p with tactics on how to approach your next job interview?  Join us to di
- scuss the whole job interview process.  We will discuss ways to an\n\nhtt
- ps://www.bklynlibrary.org/node/839104
-LOCATION:Central Library\, Business & Career Center\, Event Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Resume Coaching
@@ -161,6 +86,16 @@ DESCRIPTION:After the smoke cleared\, there was a city to rebuild. BPL Pre
  mentary\, 9/11: Reclaiming Ground Zero\, with director Josh Sabey\,\n\nhtt
  ps://www.bklynlibrary.org/node/839570
 LOCATION:Central Library\, Dweck Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Clase de Computación
+DTSTART:20260911T140000Z
+DTEND:20260911T150000Z
+DESCRIPTION:Viernes de 11 a.m. a 12 p.m.¿Necesita ayuda para comprender l
+ os conceptos básicos del uso de una computadora? ¿O tal vez ha pasado ti
+ empo y desea repasar y mejorar sus habilidades de computación?Puede\n\nht
+ tps://www.bklynlibrary.org/node/844681
+LOCATION:Pacific\, Basement Meeting Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Movie: Roofman (2025)
@@ -386,5 +321,67 @@ DTEND:20260914T200000Z
 DESCRIPTION:Come play American Mahjong!\n\nhttps://www.bklynlibrary.org/no
  de/841191
 LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Resume & Career Help (Central Library)
+DTSTART:20260914T180000Z
+DTEND:20260914T200000Z
+DESCRIPTION:Stop by Central Library's Business & Career Center for help wi
+ th questions about your resume\, cover letter\, interview\, and job search
+ . All sessions are one-on-one on a first come\, first served basis.\n\nhtt
+ ps://www.bklynlibrary.org/node/828117
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Jigsaw Puzzle Hour
+DTSTART:20260914T190000Z
+DTEND:20260914T210000Z
+DESCRIPTION:Drop in for socializing and jigsaw puzzle fun! Come try out a 
+ variety of new and vintage puzzles with other puzzle enthusiasts.\n\nhttps
+ ://www.bklynlibrary.org/node/832057
+LOCATION:Brooklyn Heights Library\, Cranberry Meeting Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creative Writing Workshop
+DTSTART:20260914T190000Z
+DTEND:20260914T210000Z
+DESCRIPTION:CREATIVE WRITING WORKSHOP\n\nhttps://www.bklynlibrary.org/node
+ /816852
+LOCATION:Central Library\, Art Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Yoga
+DTSTART:20260914T200000Z
+DTEND:20260914T210000Z
+DESCRIPTION:Share in the benefits of yoga. Park Slope Library invites you
+  to join this free group yoga class. Led by a certified instructor who ha
+ s practiced yoga for 20 years\, this class is designed to be access\n\nhtt
+ ps://www.bklynlibrary.org/node/839368
+LOCATION:Park Slope\, Auditorium
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:English Conversation Group
+DTSTART:20260914T203000Z
+DTEND:20260914T213000Z
+DESCRIPTION:Join other adults who are learning to speak English in this we
+ ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8342
+ 42
+LOCATION:Central Library\, Civic Commons Partner Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Drop-In Meditation Class with Chance
+DTSTART:20260914T210000Z
+DTEND:20260914T214500Z
+DESCRIPTION:Please join us for a 45-minute guided meditation and self-care
+  class with Chance Krempasky.\n\nhttps://www.bklynlibrary.org/node/837216
+LOCATION:Brooklyn Heights Library\, Multipurpose Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANCELLED: Learn & Play Mahjong
+DTSTART:20260914T220000Z
+DTEND:20260914T233000Z
+DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/837
+ 961
+LOCATION:Central Library\, Art Studio
 END:VEVENT
 END:VCALENDAR
