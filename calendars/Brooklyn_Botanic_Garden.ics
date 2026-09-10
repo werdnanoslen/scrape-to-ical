@@ -72,46 +72,15 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20260910T044808Z
-DTEND;VALUE=DATE:20260910T064808Z
-UID:We Can’t Dream Alone-2026-09-10 04:48:08.798983+00:00
+DTSTART;VALUE=DATE:20260910T093237Z
+DTEND;VALUE=DATE:20260910T113237Z
+UID:We Can’t Dream Alone-2026-09-10 09:32:37.238822+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
  We Can’t Dream Alone\n\nMore info:\nhttps://www.bbg.org/visit/event/we_c
  ant_dream_alone\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/202
  60902_WeCantDreamAlone_SariGoodfriend48.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall First Discoveries
-DTSTART;VALUE=DATE:20260909T040000Z
-DTEND;VALUE=DATE:20260909T060000Z
-UID:Fall First Discoveries-2026-09-09 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
- –November 6\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot 
- up a plant\, create a craft\, read a story\, and use your senses to explor
- e nature at special Discovery Garden activity stations designed for toddle
- rs. This summer\, find First Discoveries stations in both the Discovery Ga
- rden Pavilion and the Woodland ecosystem.Learn More›about Fall First Dis
- coveries\n\nMore info:\nhttps://www.bbg.org/visit/event/fall_first_discove
- ries\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-days
- _MS_52835703008.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260909T040000Z
-DTEND;VALUE=DATE:20260909T060000Z
-UID:Seasonal Highlights Tour-2026-09-09 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
- \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
- f the season in this free walk led by trained Garden Guides.Learn More›a
- bout Seasonal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/eve
- nt/seasonal_highlights_tour_fall\n\n<img src="/img/uploads/hero/_list_thum
- bnail_regular/hardy-begonia_MS_52371474767.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -191,6 +160,20 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Plant ID: Grasses
+DTSTART;VALUE=DATE:20260912T040000Z
+DTEND;VALUE=DATE:20260912T060000Z
+UID:Plant ID: Grasses-2026-09-12 04:00:00+00:00
+DESCRIPTION:Saturday\, September 12\, 2026 | 10 a.m.–2:30 p.m. \n					\n
+ \n\n					\n						\n							| Preregistration Required\n\nLearn key identifi
+ cation characteristics for grasses.Learn More›about Plant ID: Grasses\n\
+ nMore info:\nhttps://www.bbg.org/classes/plant_id_grasses\n\n<img src="/im
+ g/uploads/hero/_list_thumbnail_regular/37366698844-2800x1200-c.jpg" alt=""
+  />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Garden Design 101
 DTSTART;VALUE=DATE:20260912T040000Z
 DTEND;VALUE=DATE:20260912T060000Z
@@ -205,16 +188,18 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Plant ID: Grasses
+SUMMARY:Library Open Hours
 DTSTART;VALUE=DATE:20260912T040000Z
 DTEND;VALUE=DATE:20260912T060000Z
-UID:Plant ID: Grasses-2026-09-12 04:00:00+00:00
-DESCRIPTION:Saturday\, September 12\, 2026 | 10 a.m.–2:30 p.m. \n					\n
- \n\n					\n						\n							| Preregistration Required\n\nLearn key identifi
- cation characteristics for grasses.Learn More›about Plant ID: Grasses\n\
- nMore info:\nhttps://www.bbg.org/classes/plant_id_grasses\n\n<img src="/im
- g/uploads/hero/_list_thumbnail_regular/37366698844-2800x1200-c.jpg" alt=""
-  />
+UID:Library Open Hours-2026-09-12 04:00:00+00:00
+DESCRIPTION:Saturdays\, August 1\, September 12\, October 3\, 2026 | 11 a
+ .m.–5 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nDrop by the G
+ arden’s Library on select Saturdays this season to browse our extensive 
+ collection of books\, see highlights from our collections\, or play a scav
+ enger hunt with kids.Learn More›about Library Open Hours\n\nMore info:\n
+ https://www.bbg.org/visit/event/library_saturday\n\n<img src="/img/uploads
+ /hero/_list_thumbnail_regular/library-visitors_SC_54395474703.jpg" alt="" 
+ />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -273,22 +258,6 @@ DESCRIPTION:Saturday\, September 12\, 2026 | 12 p.m. and 1 p.m.\n					\n
  n\nMore info:\nhttps://www.bbg.org/visit/event/the_hudson_valley_shakuhach
  i_choir\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regular/Shak
  uhachi-Photo-1.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Library Open Hours
-DTSTART;VALUE=DATE:20260912T040000Z
-DTEND;VALUE=DATE:20260912T060000Z
-UID:Library Open Hours-2026-09-12 04:00:00+00:00
-DESCRIPTION:Saturdays\, August 1\, September 12\, October 3\, 2026 | 11 a
- .m.–5 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nDrop by the G
- arden’s Library on select Saturdays this season to browse our extensive 
- collection of books\, see highlights from our collections\, or play a scav
- enger hunt with kids.Learn More›about Library Open Hours\n\nMore info:\n
- https://www.bbg.org/visit/event/library_saturday\n\n<img src="/img/uploads
- /hero/_list_thumbnail_regular/library-visitors_SC_54395474703.jpg" alt="" 
- />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -773,6 +742,67 @@ DESCRIPTION:Thursday\, September 24\, 2026 | 6–9 p.m.  \n					\n\n\n
  e›about Art of Ikebana\n\nMore info:\nhttps://www.bbg.org/classes/fall_m
  editation_art_of_ikebana_workshop\n\n<img src="/img/uploads/hero/_list_thu
  mbnail_regular/kaya-magee-3.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall First Discoveries
+DTSTART;VALUE=DATE:20260925T040000Z
+DTEND;VALUE=DATE:20260925T060000Z
+UID:Fall First Discoveries-2026-09-25 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
+ –November 6\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot 
+ up a plant\, create a craft\, read a story\, and use your senses to explor
+ e nature at special Discovery Garden activity stations designed for toddle
+ rs. This summer\, find First Discoveries stations in both the Discovery Ga
+ rden Pavilion and the Woodland ecosystem.Learn More›about Fall First Dis
+ coveries\n\nMore info:\nhttps://www.bbg.org/visit/event/fall_first_discove
+ ries\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-days
+ _MS_52835703008.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tai Chi & Qigong for Beginners
+DTSTART;VALUE=DATE:20260925T040000Z
+DTEND;VALUE=DATE:20260925T060000Z
+UID:Tai Chi & Qigong for Beginners-2026-09-25 04:00:00+00:00
+DESCRIPTION:5 Fridays: September 25–October 23\, 2026 | 11 a.m.–12 p.m
+ .\n					\n\n\n					\n						| Waitlist Only\n\nTai chi and qigong exercises
+  improve balance\, increase blood circulation\, relax your mind and body\,
+  and increase your internal energy.Learn More›about Tai Chi & Qigong for
+  Beginners\n\nMore info:\nhttps://www.bbg.org/classes/tai_chi_qigong_for_b
+ eginners_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/21FAE
+ HWTCQBA_1.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tai Chi & Qigong Intermediate Class
+DTSTART;VALUE=DATE:20260925T040000Z
+DTEND;VALUE=DATE:20260925T060000Z
+UID:Tai Chi & Qigong Intermediate Class-2026-09-25 04:00:00+00:00
+DESCRIPTION:5 Fridays: September 25–October 23\, 2026 | 1–2 p.m.\n				
+ 	\n\n\n					\n						| Waitlist Only\n\nTai chi and qigong exercises improv
+ e balance\, increase blood circulation\, relax your mind and body\, and in
+ crease your internal energy.Learn More›about Tai Chi & Qigong Intermedia
+ te Class\n\nMore info:\nhttps://www.bbg.org/classes/tai_chi_qigong_interme
+ diate_class_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/21
+ FAEHWTCQBA_1.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20260925T040000Z
+DTEND;VALUE=DATE:20260925T060000Z
+UID:Seasonal Highlights Tour-2026-09-25 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s plants and gardens in peak bloom and other highlights o
+ f the season in this free walk led by trained Garden Guides.Learn More›a
+ bout Seasonal Highlights Tour\n\nMore info:\nhttps://www.bbg.org/visit/eve
+ nt/seasonal_highlights_tour_fall\n\n<img src="/img/uploads/hero/_list_thum
+ bnail_regular/hardy-begonia_MS_52371474767.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
