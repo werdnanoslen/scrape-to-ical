@@ -21,62 +21,6 @@ DESCRIPTION:Do you have questions about credit or debt? The Financial Coac
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Resume Coaching
-DTSTART:20260910T213000Z
-DTEND:20260910T233000Z
-DESCRIPTION:One-on-one resume coaching at the library offers individualize
- d support to job seekers in crafting and enhancing their resumes. Join us
-  for assistance including feedback and suggestions regarding form\n\nht
- tps://www.bklynlibrary.org/node/828185
-LOCATION:Central Library\, Business & Career Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zumba
-DTSTART:20260910T213000Z
-DTEND:20260910T223000Z
-DESCRIPTION:Zumba is dance fitness that feels more like a party than exerc
- ise.  While listening to upbeat music\, you will get a full-body workout
- \, learn some moves and grooves\, and have a lot of fun!\n\nhttps://www.bk
- lynlibrary.org/node/839388
-LOCATION:Park Slope\, Auditorium
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Climate Café Fall Session: Balancing the Grid: Thinking in Energy
-  Systems for Ecological Harmony
-DTSTART:20260910T213000Z
-DTEND:20260910T233000Z
-DESCRIPTION:Climate Cafés: Navigating Climate Emotions and Action\n\nhttp
- s://www.bklynlibrary.org/node/842263
-LOCATION:Central Library\, Info Commons Lab
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brooklyn Writers' Exchange at Brooklyn Heights
-DTSTART:20260910T220000Z
-DTEND:20260910T233000Z
-DESCRIPTION:Join us for an hour of writing with our writers' group! We’v
- e discovered that it’s strikingly helpful to write with other writers. S
- ee if it’s true for you at 6 pm on Thursday evenings.\n\nhttps://www.bkl
- ynlibrary.org/node/830871
-LOCATION:Brooklyn Heights Library\, Craft Room
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Conversation Group
-DTSTART:20260910T220000Z
-DTEND:20260910T233000Z
-DESCRIPTION:Join other adults who are learning to speak English in this we
- ekly English Conversation Group.\n\nhttps://www.bklynlibrary.org/node/8360
- 04
-LOCATION:Central Library\, Info Commons\, Room 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:From Plan to Plate: Your First Hire Starts With You
-DTSTART:20260910T220000Z
-DTEND:20260910T231500Z
-DESCRIPTION:Lead with purpose. Hire with confidence. Grow with intention.\
- n\nhttps://www.bklynlibrary.org/node/839068
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:9/11: Reclaiming Ground Zero & Talkback with with Josh Sabey\, Car
  olyn Lukensmeyer\, Dr. Sarah Sayeed\, and Michael Kimmelman
 DTSTART:20260910T230000Z
@@ -383,5 +327,63 @@ DTEND:20260914T233000Z
 DESCRIPTION:Learn & Play Mahjong!\n\nhttps://www.bklynlibrary.org/node/837
  961
 LOCATION:Central Library\, Art Studio
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Colin Kaepernick Discusses "The Perilous Fight" with Nikole Hannah
+ -Jones
+DTSTART:20260914T230000Z
+DTEND:20260914T010000Z
+DESCRIPTION:Brooklyn Public Library welcomes Colin Kaepernick for the nati
+ onal launch of The Perilous Fight\, a defining and uncompromising memoir f
+ rom the Super Bowl quarterback and renowned civil rights activist\n\nhttps
+ ://www.bklynlibrary.org/node/840410
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Citizenship Class
+DTSTART:20260915T133000Z
+DTEND:20260915T163000Z
+DESCRIPTION:Prepare for Citizenship Program\n\nhttps://www.bklynlibrary.or
+ g/node/841399
+LOCATION:Central Library\, Business & Career Center\, Classroom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brooklyn Vet Center Tabling
+DTSTART:20260915T140000Z
+DTEND:20260915T180000Z
+DESCRIPTION:Join the Brooklyn Vet Center every month as they provide confi
+ dential and free help to Veterans\, service members\, and their families. 
+ Staff from the Vet Center will assist with information on health a\n\nhttp
+ s://www.bklynlibrary.org/node/831968
+LOCATION:Central Library\, Lobby Gallery
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Computer Basics
+DTSTART:20260915T170000Z
+DTEND:20260915T180000Z
+DESCRIPTION:Need help navigating one of your tech devices? Come join us an
+ d ask a variety of tech questions about your tech devices.\n\nhttps://www.
+ bklynlibrary.org/node/844088
+LOCATION:Central Library\, Info Commons Lab
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Resume Coaching
+DTSTART:20260915T180000Z
+DTEND:20260915T200000Z
+DESCRIPTION:One-on-one resume coaching at the library offers individualize
+ d support to job seekers in crafting and enhancing their resumes. Join us
+  for assistance including feedback and suggestions regarding form\n\nht
+ tps://www.bklynlibrary.org/node/828168
+LOCATION:Central Library\, Business & Career Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Immigrant Job Support (one-on-one) Sessions
+DTSTART:20260915T180000Z
+DTEND:20260915T210000Z
+DESCRIPTION:If you are an immigrant (whether you recently arrived to the U
+ nited States or have been here for a while) stop by the Brooklyn Heights L
+ ibrary for help with your resume\, cover letter\, interview\, and j\n\nhtt
+ ps://www.bklynlibrary.org/node/831378
+LOCATION:Brooklyn Heights Library
 END:VEVENT
 END:VCALENDAR

@@ -48,39 +48,6 @@ DESCRIPTION:https://www.viewcy.com/event/french_moment_at_barz_8\n<p><img
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Judette Elliston Trio
-DTSTART:20260910T220000Z
-DTEND:20260911T000000Z
-DTSTAMP:20260910T220000Z
-UID:Judette Elliston Trio
-DESCRIPTION:https://www.viewcy.com/event/judette_elliston_trio\n<p><img al
- t="Judette Elliston Trio thumbnail" class="styles-module-scss-module__9kmP
- KW__coverImg" data-nimg="1" data-sentry-component="ImageWithFallback" data
- -sentry-element="Image" data-sentry-source-file="index.tsx" decoding="asyn
- c" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url
- =https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2
- Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjg4NDI4LCJwdXIiOiJibG9iX2lkIn19--366b
- 983b26eba72e4fd558ee8ae195ce32d12df4%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQ
- iOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRyd
- WUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn1
- 9--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=6
- 40&amp\;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frail
- s%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6
- Mjg4NDI4LCJwdXIiOiJibG9iX2lkIn19--366b983b26eba72e4fd558ee8ae195ce32d12df4
- %2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzE
- xMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiO
- iJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b429
- 48a4e89%2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?url=h
- ttps%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fr
- edirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjg4NDI4LCJwdXIiOiJibG9iX2lkIn19--366b98
- 3b26eba72e4fd558ee8ae195ce32d12df4%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiO
- iJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWU
- sInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19-
- -af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640
- &amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:CELEBRATING JOHN MCLAUGHLIN & SHAKTI: BRM Concert & Jam
 DTSTART:20260910T233000Z
 DTEND:20260911T013000Z
@@ -1017,6 +984,39 @@ DESCRIPTION:https://www.viewcy.com/event/candombe_1\n<p><img alt="Candombe
  lcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141
  458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75 2x" style="co
  lor: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Makadam Jazz
+DTSTART:20260927T020000Z
+DTEND:20260927T040000Z
+DTSTAMP:20260927T020000Z
+UID:Makadam Jazz
+DESCRIPTION:https://www.viewcy.com/event/makadam_jazz\n<p><img alt="Makada
+ m Jazz thumbnail" class="styles-module-scss-module__9kmPKW__coverImg" data
+ -nimg="1" data-sentry-component="ImageWithFallback" data-sentry-element="I
+ mage" data-sentry-source-file="index.tsx" decoding="async" height="186" lo
+ ading="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww
+ .viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcm
+ FpbHMiOnsiZGF0YSI6MjkzOTg5LCJwdXIiOiJibG9iX2lkIn19--183f66f7bad6478c9935fe
+ 067087531a296583e4%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpe
+ mVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg
+ 1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1
+ 120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75" srcs
+ et="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage
+ %2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MjkzOTg5LCJwdXIiOi
+ JibG9iX2lkIn19--183f66f7bad6478c9935fe067087531a296583e4%2FeyJfcmFpbHMiOns
+ iZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2Z
+ XIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHV
+ yIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520
+ Designs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?url=https%3A%2F%2Fwww.v
+ iewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFp
+ bHMiOnsiZGF0YSI6MjkzOTg5LCJwdXIiOiJibG9iX2lkIn19--183f66f7bad6478c9935fe06
+ 7087531a296583e4%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemV
+ fdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1L
+ CJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d112
+ 0fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75 2x" sty
+ le="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR

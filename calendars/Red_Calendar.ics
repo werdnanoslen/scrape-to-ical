@@ -383,6 +383,17 @@ LOCATION:@ the living gallery (all ages)\, 1094 broadway\, bushwick\, bkly
  n
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Book Launch: Saying No to New by Eric Athas in conversation with M
+ elissa Kirsch
+DTSTART:20260914T230000Z
+DTEND:20260915T000000Z
+DTSTAMP:20260914T230000Z
+UID:event:6234:2026-09-14T19:00:00
+DESCRIPTION:https://cal.red/?event=6234\n28 Adams Street\nBrooklyn\, NY\, 
+ 11201\nCost: $5.49
+LOCATION:POWERHOUSE Arena\, Dumbo\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Shelly Hirsch & Lori Goldston\, Invisible Scissors\, Jeanne Liotta
 DTSTART:20260914T233000Z
 DTEND:20260915T003000Z
@@ -906,6 +917,15 @@ DESCRIPTION:https://cal.red/?event=6070\nCost: 0
 LOCATION:People’s Forum
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:PSNY Virtual Workshop: Steal\, Wield\, Wild\, Transform
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+DTSTAMP:20261001T230000Z
+UID:event:6232:2026-10-01T19:00:00
+DESCRIPTION:https://cal.red/?event=6232\nCost: $28.52
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:
 DTSTART:20261003T210000Z
 DTEND:20261003T220000Z
@@ -925,6 +945,15 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSNY Virtual Workshop: House of Stanzas
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+DTSTAMP:20261008T230000Z
+UID:event:6233:2026-10-08T19:00:00
+DESCRIPTION:https://cal.red/?event=6233\nCost: $28.52
+LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pangea: Unleashed
