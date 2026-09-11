@@ -570,6 +570,16 @@ DESCRIPTION:https://cal.red/?event=6133\nCost: Free!
 LOCATION:Grand Army Plaza\, Brooklyn Public Library\, Infocommons
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:High Tea with Khajistan
+DTSTART:20260919T170000Z
+DTEND:20260919T180000Z
+DTSTAMP:20260919T170000Z
+UID:event:6247:2026-09-19T13:00:00
+DESCRIPTION:https://cal.red/?event=6247\n46 Washington Avenue Brooklyn\, N
+ Y 11205\nCost: Free
+LOCATION:Recess in Clinton Hill
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Out Loud Reading Series: Juan Rulfo's "Gallo De Oro"
 DTSTART:20260919T180000Z
 DTEND:20260919T190000Z
