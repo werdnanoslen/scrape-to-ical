@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Ángela Varo & Friends
-DTSTART:20260911T220000Z
-DTEND:20260912T000000Z
-DTSTAMP:20260911T220000Z
-UID:Ángela Varo & Friends
-DESCRIPTION:https://www.viewcy.com/event/ngela_varo__friends\n<p><img alt=
- "Ángela Varo &amp\; Friends thumbnail" class="styles-module-scss-module__
- 9kmPKW__coverImg" data-nimg="1" data-sentry-component="ImageWithFallback" 
- data-sentry-element="Image" data-sentry-source-file="index.tsx" decoding="
- async" height="186" loading="lazy" src="https://www.viewcy.com/_next/image
- ?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentatio
- ns%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjg2NDk1LCJwdXIiOiJibG9iX2lkIn19--
- a9a19defef14e7ba712ad8241e5f9fc65aa0a8f3%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3J
- tYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiO
- nRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9
- uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\
- ;w=640&amp\;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2F
- rails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0
- YSI6Mjg2NDk1LCJwdXIiOiJibG9iX2lkIn19--a9a19defef14e7ba712ad8241e5f9fc65aa0
- a8f3%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI
- 6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY
- 2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8
- b42948a4e89%2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?u
- rl=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations
- %2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjg2NDk1LCJwdXIiOiJibG9iX2lkIn19--a9
- a19defef14e7ba712ad8241e5f9fc65aa0a8f3%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtY
- XQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnR
- ydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uI
- n19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w
- =640&amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Disco Dreams: An evening with Theodora
 DTSTART:20260912T000000Z
 DTEND:20260912T020000Z
@@ -1010,6 +977,39 @@ DESCRIPTION:https://www.viewcy.com/event/psychedelic_cumbia_ni_7\n<p><img
  RydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9u
  In19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;
  w=640&amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fake Shaadi
+DTSTART:20261002T000000Z
+DTEND:20261002T020000Z
+DTSTAMP:20261002T000000Z
+UID:Fake Shaadi
+DESCRIPTION:https://www.viewcy.com/event/fake_shaadi\n<p><img alt="Fake Sh
+ aadi thumbnail" class="styles-module-scss-module__9kmPKW__coverImg" data-n
+ img="1" data-sentry-component="ImageWithFallback" data-sentry-element="Ima
+ ge" data-sentry-source-file="index.tsx" decoding="async" height="186" load
+ ing="lazy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.v
+ iewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFp
+ bHMiOnsiZGF0YSI6MjkzNTEzLCJwdXIiOiJibG9iX2lkIn19--de02af28c044ee64e8e4dc76
+ d7bb3bd224f43c1c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemV
+ fdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1L
+ CJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d112
+ 0fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75" srcset
+ ="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2
+ Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MjkzNTEzLCJwdXIiOiJi
+ bG9iX2lkIn19--de02af28c044ee64e8e4dc76d7bb3bd224f43c1c%2FeyJfcmFpbHMiOnsiZ
+ GF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXI
+ iOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyI
+ joidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520De
+ signs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?url=https%3A%2F%2Fwww.vie
+ wcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbH
+ MiOnsiZGF0YSI6MjkzNTEzLCJwdXIiOiJibG9iX2lkIn19--de02af28c044ee64e8e4dc76d7
+ bb3bd224f43c1c%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfd
+ G9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJ
+ pbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120f
+ b141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75 2x" style
+ ="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
