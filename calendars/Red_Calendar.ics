@@ -575,6 +575,15 @@ LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
  yn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Fifth Place
+DTSTART:20260920T000000Z
+DTEND:20260920T010000Z
+DTSTAMP:20260920T000000Z
+UID:event:6251:2026-09-19T20:00:00
+DESCRIPTION:https://cal.red/?event=6251\nCost: 20
+LOCATION:Manhattan location disclosed upon invitation
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arts For Arts InGardens Weekend
 DTSTART:20260920T180000Z
 DTEND:20260920T190000Z
@@ -863,6 +872,16 @@ DESCRIPTION:https://cal.red/?event=6232\nCost: $28.52
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Khajistan Portal Test: Day One
+DTSTART:20261003T170000Z
+DTEND:20261003T180000Z
+DTSTAMP:20261003T170000Z
+UID:event:6248:2026-10-03T13:00:00
+DESCRIPTION:https://cal.red/?event=6248\n46 Washington Avenue Brooklyn\, N
+ Y 11205\nCost: Free
+LOCATION:Recess in Clinton Hill
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:
 DTSTART:20261003T210000Z
 DTEND:20261003T220000Z
@@ -884,6 +903,16 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Too Fat for China
+DTSTART:20261006T223000Z
+DTEND:20261006T233000Z
+DTSTAMP:20261006T223000Z
+UID:event:6245:2026-10-06T18:30:00
+DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
+ nCost: 25.00
+LOCATION:The RAT NYC (DUMBO)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PSNY BIPOC Free Verse Workshop: Getting the Right Angle
 DTSTART:20261006T230000Z
 DTEND:20261007T000000Z
@@ -900,6 +929,16 @@ DTSTAMP:20261008T230000Z
 UID:event:6233:2026-10-08T19:00:00
 DESCRIPTION:https://cal.red/?event=6233\nCost: $28.52
 LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Film Screening: Javaid Shampoo (2004) Director's Cut
+DTSTART:20261010T170000Z
+DTEND:20261010T180000Z
+DTSTAMP:20261010T170000Z
+UID:event:6249:2026-10-10T13:00:00
+DESCRIPTION:https://cal.red/?event=6249\n46 Washington Avenue Brooklyn\, N
+ Y 11205\nCost: Free
+LOCATION:Recess in Clinton Hill
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pangea: Unleashed
@@ -942,6 +981,25 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Too Fat for China
+DTSTART:20261013T223000Z
+DTEND:20261013T233000Z
+DTSTAMP:20261013T223000Z
+UID:event:6245:2026-10-13T18:30:00
+DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
+ nCost: 25.00
+LOCATION:The RAT NYC (DUMBO)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSNY LGBTQIA+ Free Verse Workshop: The Spirit Game
+DTSTART:20261013T230000Z
+DTEND:20261014T000000Z
+DTSTAMP:20261013T230000Z
+UID:event:6243:2026-10-13T19:00:00
+DESCRIPTION:https://cal.red/?event=6243\nCost: Free!
+LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: Mourning the Unmentionable
@@ -999,6 +1057,26 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Too Fat for China
+DTSTART:20261020T223000Z
+DTEND:20261020T233000Z
+DTSTAMP:20261020T223000Z
+UID:event:6245:2026-10-20T18:30:00
+DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
+ nCost: 25.00
+LOCATION:The RAT NYC (DUMBO)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PSNY Free Verse Workshop for Immigrant Writers: Ekphrasis as Irrev
+ erence
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+DTSTAMP:20261020T230000Z
+UID:event:6244:2026-10-20T19:00:00
+DESCRIPTION:https://cal.red/?event=6244\nCost: Free!
+LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: Poems that Fly
 DTSTART:20261022T230000Z
 DTEND:20261023T000000Z
@@ -1042,6 +1120,16 @@ DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
 LOCATION:Pageant
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Khajistan Portal Test: Day Two & Closing Party
+DTSTART:20261024T170000Z
+DTEND:20261024T180000Z
+DTSTAMP:20261024T170000Z
+UID:event:6250:2026-10-24T13:00:00
+DESCRIPTION:https://cal.red/?event=6250\n46 Washington Avenue Brooklyn\, N
+ Y 11205\nCost: Free
+LOCATION:Recess in Clinton Hill
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20261027T000000Z
@@ -1052,6 +1140,16 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Too Fat for China
+DTSTART:20261027T223000Z
+DTEND:20261027T233000Z
+DTSTAMP:20261027T223000Z
+UID:event:6245:2026-10-27T18:30:00
+DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
+ nCost: 25.00
+LOCATION:The RAT NYC (DUMBO)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSNY Fall Virtual Poetry Intensive: Unreadable Poetry
@@ -1101,6 +1199,16 @@ UID:event:6103:2026-11-03T18:00:00
 DESCRIPTION:https://cal.red/?event=6103\nCost: $40
 LOCATION:Players Theatre - 115 MacDougal Street\, New York\, NY\, United S
  tates\, 10012.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Too Fat for China
+DTSTART:20261103T233000Z
+DTEND:20261104T003000Z
+DTSTAMP:20261103T233000Z
+UID:event:6245:2026-11-03T18:30:00
+DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
+ nCost: 25.00
+LOCATION:The RAT NYC (DUMBO)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
@@ -1159,6 +1267,16 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Too Fat for China
+DTSTART:20261110T233000Z
+DTEND:20261111T003000Z
+DTSTAMP:20261110T233000Z
+UID:event:6245:2026-11-10T18:30:00
+DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
+ nCost: 25.00
+LOCATION:The RAT NYC (DUMBO)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20261117T010000Z
@@ -1169,6 +1287,16 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Too Fat for China
+DTSTART:20261117T233000Z
+DTEND:20261118T003000Z
+DTSTAMP:20261117T233000Z
+UID:event:6245:2026-11-17T18:30:00
+DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
+ nCost: 25.00
+LOCATION:The RAT NYC (DUMBO)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
@@ -1215,6 +1343,16 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Too Fat for China
+DTSTART:20261124T233000Z
+DTEND:20261125T003000Z
+DTSTAMP:20261124T233000Z
+UID:event:6245:2026-11-24T18:30:00
+DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
+ nCost: 25.00
+LOCATION:The RAT NYC (DUMBO)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
