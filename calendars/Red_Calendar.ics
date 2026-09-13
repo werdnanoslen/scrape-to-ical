@@ -769,6 +769,15 @@ DESCRIPTION:https://cal.red/?event=6147\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New York Modular Society 7th Anniversary Show
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+DTSTAMP:20261005T230000Z
+UID:event:6252:2026-10-05T19:00:00
+DESCRIPTION:https://cal.red/?event=6252\nCost: $13.91 Adv // $15 Door
+LOCATION:The Sultan Room Rooftop\, 234 Starr St.\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20261006T000000Z
