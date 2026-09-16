@@ -21,6 +21,16 @@ DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/interviewing-f
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Audition Essentials\, in-person
+DTSTART:20260917T143000Z
+DTEND:20260917T173000Z
+DTSTAMP:20260917T143000Z
+UID:Audition Essentials\, in-person-2026-09-17T14:30:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/audition-essential
+ s/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:BRIC Documentary Intensive Screening: 2026 Cohort
 DTSTART:20260917T230000Z
 DTEND:20260918T010000Z
@@ -44,14 +54,14 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/pre-production-ess
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Audition Essentials\, in-person
-DTSTART:20260917T143000Z
-DTEND:20260917T173000Z
-DTSTAMP:20260917T143000Z
-UID:Audition Essentials\, in-person-2026-09-17T14:30:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/audition-essential
- s/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
+SUMMARY:Mobile Phone Photography
+DTSTART:20260918T220000Z
+DTEND:20260919T000000Z
+DTSTAMP:20260918T220000Z
+UID:Mobile Phone Photography-2026-09-18T22:00:00+00:00
+DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/mobile-phone-p
+ hotography/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3D Modeling with Blender
@@ -64,16 +74,6 @@ DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/3d-modeling-wi
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mobile Phone Photography
-DTSTART:20260918T220000Z
-DTEND:20260919T000000Z
-DTSTAMP:20260918T220000Z
-UID:Mobile Phone Photography-2026-09-18T22:00:00+00:00
-DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/mobile-phone-p
- hotography/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Make a Movie On Your Phone\, online
 DTSTART:20260918T180000Z
 DTEND:20260918T200000Z
@@ -82,21 +82,6 @@ UID:Make a Movie On Your Phone\, online-2026-09-18T18:00:00+00:00
 DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-movie-on-yo
  ur-phone/
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Benefit Show: Liz Phair & Sleater-Kinney | The Flannel and The Fur
- y 2026
-DTSTART:20260919T220000Z
-DTEND:20260920T000000Z
-DTSTAMP:20260919T220000Z
-UID:Benefit Show: Liz Phair & Sleater-Kinney | The Flannel and The Fury 20
- 26-2026-09-19T22:00:00+00:00
-DESCRIPTION:Cost: See ticket page\nhttps://bricartsmedia.org/event/benefit
- -show-liz-phair-sleater-kinney-the-flannel-and-the-fury-2026/\nhttps://goo
- .gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-content
- /uploads/2026/04/LizPhair_SleaterKinney_TM_2426x1365_R1-200x200.jpg" alt="
- " />
-LOCATION:Lena Horne Bandshell
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DSLR Filmmaking - online
@@ -119,6 +104,21 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Benefit Show: Liz Phair & Sleater-Kinney | The Flannel and The Fur
+ y 2026
+DTSTART:20260919T220000Z
+DTEND:20260920T000000Z
+DTSTAMP:20260919T220000Z
+UID:Benefit Show: Liz Phair & Sleater-Kinney | The Flannel and The Fury 20
+ 26-2026-09-19T22:00:00+00:00
+DESCRIPTION:Cost: See ticket page\nhttps://bricartsmedia.org/event/benefit
+ -show-liz-phair-sleater-kinney-the-flannel-and-the-fury-2026/\nhttps://goo
+ .gl/maps/SYiFoJRiWZJKgKU59\n<img src="https://bricartsmedia.org/wp-content
+ /uploads/2026/04/LizPhair_SleaterKinney_TM_2426x1365_R1-200x200.jpg" alt="
+ " />
+LOCATION:Lena Horne Bandshell
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere
 DTSTART:20260921T220000Z
 DTEND:20260922T010000Z
@@ -136,6 +136,16 @@ DTSTAMP:20260921T220000Z
 UID:TV Studio Intensive-2026-09-21T22:00:00+00:00
 DESCRIPTION:Cost: 120\,00 $\nhttps://bricartsmedia.org/class/tv-studio-pro
  duction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Video Production in the Field
+DTSTART:20260922T220000Z
+DTEND:20260923T010000Z
+DTSTAMP:20260922T220000Z
+UID:Video Production in the Field-2026-09-22T22:00:00+00:00
+DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
+ on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -161,16 +171,6 @@ DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Video Production in the Field
-DTSTART:20260922T220000Z
-DTEND:20260923T010000Z
-DTSTAMP:20260922T220000Z
-UID:Video Production in the Field-2026-09-22T22:00:00+00:00
-DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
- on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Intro to Radio Podcasting
 DTSTART:20260922T220000Z
 DTEND:20260923T010000Z
@@ -178,6 +178,16 @@ DTSTAMP:20260922T220000Z
 UID:Intro to Radio Podcasting-2026-09-22T22:00:00+00:00
 DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/intro-to-radio
  -podcasting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Field Audio Equipment Certification
+DTSTART:20260925T220000Z
+DTEND:20260926T010000Z
+DTSTAMP:20260925T220000Z
+UID:Field Audio Equipment Certification-2026-09-25T22:00:00+00:00
+DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/field-audio-eq
+ uipment-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -191,14 +201,18 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Field Audio Equipment Certification
-DTSTART:20260925T220000Z
-DTEND:20260926T010000Z
-DTSTAMP:20260925T220000Z
-UID:Field Audio Equipment Certification-2026-09-25T22:00:00+00:00
-DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/field-audio-eq
- uipment-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
+SUMMARY:BRIC House Party presents Brooklyn Brujeria Day II: Magic Market +
+  Fair &#038\; Noche de Salsa + Fiesta
+DTSTART:20260926T160000Z
+DTEND:20260926T210000Z
+DTSTAMP:20260926T160000Z
+UID:BRIC House Party presents Brooklyn Brujeria Day II: Magic Market + Fai
+ r &#038\; Noche de Salsa + Fiesta-2026-09-26T16:00:00+00:00
+DESCRIPTION:Cost: $19.93\nhttps://bricartsmedia.org/event/bric-house-party
+ -presents-brooklyn-brujeria-day-ii-magic-market-fair-noche-de-salsa-fiesta
+ /\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.
+ org/wp-content/uploads/2025/08/IMG_1648-200x200.jpg" alt="" />
+LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere
@@ -263,16 +277,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/instagram-for-smal
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Color Grading with DaVinci Resolve
-DTSTART:20261006T180000Z
-DTEND:20261006T210000Z
-DTSTAMP:20261006T180000Z
-UID:Color Grading with DaVinci Resolve-2026-10-06T18:00:00+00:00
-DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/color-grading-
- with-davinci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Brooklyn Poetry Slam | October 6\, 2026
 DTSTART:20261006T223000Z
 DTEND:20261007T010000Z
@@ -285,6 +289,16 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/brooklyn-poetry-sl
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20261006T220000Z
+DTEND:20261007T010000Z
+DTSTAMP:20261006T220000Z
+UID:Mini Studio Production-2026-10-06T22:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
+ oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to Digital Photography
 DTSTART:20261006T220000Z
 DTEND:20261007T010000Z
@@ -295,13 +309,13 @@ DESCRIPTION:Cost: 15\,00 $\nhttps://bricartsmedia.org/class/intro-to-digit
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20261006T220000Z
-DTEND:20261007T010000Z
-DTSTAMP:20261006T220000Z
-UID:Mini Studio Production-2026-10-06T22:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
- oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Color Grading with DaVinci Resolve
+DTSTART:20261006T180000Z
+DTEND:20261006T210000Z
+DTSTAMP:20261006T180000Z
+UID:Color Grading with DaVinci Resolve-2026-10-06T18:00:00+00:00
+DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/color-grading-
+ with-davinci-resolve/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -313,6 +327,26 @@ UID:Fall 2026 Exhibitions: Preview & Reception-2026-10-08T22:30:00+00:00
 DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/fall-2026-exhibiti
  ons-preview-reception/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Photoshop Essentials\, in-person
+DTSTART:20261008T220000Z
+DTEND:20261009T010000Z
+DTSTAMP:20261008T220000Z
+UID:Photoshop Essentials\, in-person-2026-10-08T22:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/photoshop-esse
+ ntials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ableton Move Certification
+DTSTART:20261008T180000Z
+DTEND:20261008T210000Z
+DTSTAMP:20261008T180000Z
+UID:Ableton Move Certification-2026-10-08T18:00:00+00:00
+DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
+ ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Capture Your World: Teen Photography Bootcamp - Cycle 4
@@ -328,26 +362,6 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/capture-your-world
  d-73.9477896!16s%2Fg%2F1tqtysw9?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAF
  QAw%3D%3D
 LOCATION:Clarendon Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ableton Move Certification
-DTSTART:20261008T180000Z
-DTEND:20261008T210000Z
-DTSTAMP:20261008T180000Z
-UID:Ableton Move Certification-2026-10-08T18:00:00+00:00
-DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
- ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Photoshop Essentials\, in-person
-DTSTART:20261008T220000Z
-DTEND:20261009T010000Z
-DTSTAMP:20261008T220000Z
-UID:Photoshop Essentials\, in-person-2026-10-08T22:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/photoshop-esse
- ntials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stop-Motion Animation Techniques\, online
@@ -368,17 +382,6 @@ UID:The Art of Video Editing\, online-2026-10-10T15:00:00+00:00
 DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
  ng-online-course/
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teen Filmmaking Bootcamp Cycle 9 (Fall 2026)
-DTSTART:20261013T200000Z
-DTEND:20261013T220000Z
-DTSTAMP:20261013T200000Z
-UID:Teen Filmmaking Bootcamp Cycle 9 (Fall 2026)-2026-10-13T20:00:00+00:00
-DESCRIPTION:Cost: free / application \nhttps://bricartsmedia.org/class/tee
- n-filmmaking-bootcamp-cycle-9-fall-2026/\nhttps://goo.gl/maps/vX4YR8kcVXHm
- bBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fundamentals of Screenwriting\, online
@@ -413,6 +416,17 @@ DESCRIPTION:https://bricartsmedia.org/class/bric-x-seedspark-art-of-the-pi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Teen Filmmaking Bootcamp Cycle 9 (Fall 2026)
+DTSTART:20261013T200000Z
+DTEND:20261013T220000Z
+DTSTAMP:20261013T200000Z
+UID:Teen Filmmaking Bootcamp Cycle 9 (Fall 2026)-2026-10-13T20:00:00+00:00
+DESCRIPTION:Cost: free / application \nhttps://bricartsmedia.org/class/tee
+ n-filmmaking-bootcamp-cycle-9-fall-2026/\nhttps://goo.gl/maps/vX4YR8kcVXHm
+ bBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to DaVinci Resolve
 DTSTART:20261013T220000Z
 DTEND:20261014T010000Z
@@ -443,13 +457,13 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/alternatives-to-ad
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Make a Digital Story\, BPL
-DTSTART:20261015T150000Z
-DTEND:20261015T170000Z
-DTSTAMP:20261015T150000Z
-UID:Make a Digital Story\, BPL-2026-10-15T15:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-digital-sto
- ry/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+SUMMARY:Make a Movie On Your Phone\, BPL
+DTSTART:20261015T180000Z
+DTEND:20261015T200000Z
+DTSTAMP:20261015T180000Z
+UID:Make a Movie On Your Phone\, BPL-2026-10-15T18:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-movie-on-yo
+ ur-phone/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
@@ -463,13 +477,13 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Make a Movie On Your Phone\, BPL
-DTSTART:20261015T180000Z
-DTEND:20261015T200000Z
-DTSTAMP:20261015T180000Z
-UID:Make a Movie On Your Phone\, BPL-2026-10-15T18:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-movie-on-yo
- ur-phone/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+SUMMARY:Make a Digital Story\, BPL
+DTSTART:20261015T150000Z
+DTEND:20261015T170000Z
+DTSTAMP:20261015T150000Z
+UID:Make a Digital Story\, BPL-2026-10-15T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-digital-sto
+ ry/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
@@ -494,17 +508,6 @@ DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/lightroom-esse
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:JazzFest 2026
-DTSTART:20261017T220000Z
-DTEND:20261017T070000Z
-DTSTAMP:20261017T220000Z
-UID:JazzFest 2026-2026-10-17T22:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/event/jazzfest-2026/\n<img src="http
- s://bricartsmedia.org/wp-content/uploads/2026/07/BJF26_Announcement_Graphi
- c_Mohini_without_Bilal_V2-200x200.png" alt="" />
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mobile Phone Photography \, online
 DTSTART:20261017T150000Z
 DTEND:20261017T170000Z
@@ -515,14 +518,15 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/mobile-phone-photo
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20261019T180000Z
-DTEND:20261019T210000Z
-DTSTAMP:20261019T180000Z
-UID:Mini Studio Production-2026-10-19T18:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
- oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
+SUMMARY:JazzFest 2026
+DTSTART:20261017T220000Z
+DTEND:20261017T070000Z
+DTSTAMP:20261017T220000Z
+UID:JazzFest 2026-2026-10-17T22:00:00+00:00
+DESCRIPTION:https://bricartsmedia.org/event/jazzfest-2026/\n<img src="http
+ s://bricartsmedia.org/wp-content/uploads/2026/07/BJF26_Announcement_Graphi
+ c_Mohini_without_Bilal_V2-200x200.png" alt="" />
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Audition Essentials\, in-person
@@ -535,12 +539,13 @@ DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/audition-essen
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ORIENTATION\, online (BME2)
-DTSTART:20261020T210000Z
-DTEND:20261020T223000Z
-DTSTAMP:20261020T210000Z
-UID:ORIENTATION\, online (BME2)-2026-10-20T21:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/media-orientation/
-LOCATION:Virtual
+SUMMARY:Mini Studio Production
+DTSTART:20261019T180000Z
+DTEND:20261019T210000Z
+DTSTAMP:20261019T180000Z
+UID:Mini Studio Production-2026-10-19T18:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
+ oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
