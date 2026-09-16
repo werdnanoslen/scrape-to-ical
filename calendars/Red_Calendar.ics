@@ -88,6 +88,15 @@ DESCRIPTION:https://cal.red/?event=6261\nCost: 🌀 free
 LOCATION:@ ergot records (all ages)\, 32 e. 2nd st.\, east village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bryce Wilner scutinizes Joyce Wieland’s True Patriot Love
+DTSTART:20260917T230000Z
+DTEND:20260918T000000Z
+DTSTAMP:20260917T230000Z
+UID:event:6275:2026-09-17T19:00:00
+DESCRIPTION:https://cal.red/?event=6275\nCost: 0
+LOCATION:Bowery
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
  𝘛 𝘐𝘚𝘕’𝘛 𝘛𝘏𝘌 𝘛𝘖𝘔 𝘍𝘖𝘖𝘓𝘌
  𝘙𝘠 𝘖𝘍 𝘍𝘈𝘓𝘓. 𝐒𝐇𝐀𝐑𝐏𝐄𝐍 𝐘𝐎
@@ -239,6 +248,15 @@ DESCRIPTION:https://cal.red/?event=6251\nCost: 20
 LOCATION:Manhattan location disclosed upon invitation
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Song Night 3
+DTSTART:20260920T000000Z
+DTEND:20260920T010000Z
+DTSTAMP:20260920T000000Z
+UID:event:6276:2026-09-19T20:00:00
+DESCRIPTION:https://cal.red/?event=6276\nCost: $10 advance/$15 at door
+LOCATION:WIP Studio (Gowanus//59 9th St\, Brooklyn\, NY 11215)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arts For Arts InGardens Weekend
 DTSTART:20260920T180000Z
 DTEND:20260920T190000Z
@@ -247,6 +265,16 @@ UID:event:6197:2026-09-20T14:00:00
 DESCRIPTION:https://cal.red/?event=6197\nCost: 🌀free
 LOCATION:@ children’s magical garden (all ages)\, 129 stanton st.\, lowe
  r east side\, mnhtn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:North Brooklyn Fossil Fuel Walking Tour + Puppet Performance
+DTSTART:20260920T190000Z
+DTEND:20260920T200000Z
+DTSTAMP:20260920T190000Z
+UID:event:6278:2026-09-20T15:00:00
+DESCRIPTION:https://cal.red/?event=6278\nCost: Sane Energy Project + Boxcu
+ tter Collective
+LOCATION:McGorlick Park\, Greenpoint\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:end of summer show at fort tilden
@@ -386,6 +414,15 @@ DESCRIPTION:https://cal.red/?event=6236\nCost: $28.52
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Scout @ Film Forum with Special Guest Moderators
+DTSTART:20260924T234500Z
+DTEND:20260925T004500Z
+DTSTAMP:20260924T234500Z
+UID:event:6279:2026-09-24T19:45:00
+DESCRIPTION:https://cal.red/?event=6279\nCost: $18
+LOCATION:Film Forum\, Greenwich Village
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
  𝘛 𝘐𝘚𝘕’𝘛 𝘛𝘏𝘌 𝘛𝘖𝘔 𝘍𝘖𝘖𝘓𝘌
  𝘙𝘠 𝘖𝘍 𝘍𝘈𝘓𝘓. 𝐒𝐇𝐀𝐑𝐏𝐄𝐍 𝐘𝐎
@@ -434,6 +471,24 @@ DESCRIPTION:https://cal.red/?event=6135\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Scout @ Film Forum with Special Guest Moderators
+DTSTART:20260925T223000Z
+DTEND:20260925T233000Z
+DTSTAMP:20260925T223000Z
+UID:event:6279:2026-09-25T18:30:00
+DESCRIPTION:https://cal.red/?event=6279\nCost: $18
+LOCATION:Film Forum\, Greenwich Village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Figure Drawing and Jazz at Skewville
+DTSTART:20260925T230000Z
+DTEND:20260926T000000Z
+DTSTAMP:20260925T230000Z
+UID:event:6277:2026-09-25T19:00:00
+DESCRIPTION:https://cal.red/?event=6277\nCost: 30
+LOCATION:Starr st\, Bushwick
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
  𝘛 𝘐𝘚𝘕’𝘛 𝘛𝘏𝘌 𝘛𝘖𝘔 𝘍𝘖𝘖𝘓𝘌
  𝘙𝘠 𝘖𝘍 𝘍𝘈𝘓𝘓. 𝐒𝐇𝐀𝐑𝐏𝐄𝐍 𝐘𝐎
@@ -476,6 +531,15 @@ DTSTAMP:20260926T180000Z
 UID:event:6255:2026-09-26T14:00:00
 DESCRIPTION:https://cal.red/?event=6255\nCost: 0
 LOCATION:Washington Square Park
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Scout @ Film Forum with Special Guest Moderators
+DTSTART:20260926T223000Z
+DTEND:20260926T233000Z
+DTSTAMP:20260926T223000Z
+UID:event:6279:2026-09-26T18:30:00
+DESCRIPTION:https://cal.red/?event=6279\nCost: $18
+LOCATION:Film Forum\, Greenwich Village
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts For Arts InGardens Weekend
@@ -653,6 +717,15 @@ DTSTAMP:20261003T210000Z
 UID:event:6147:2026-10-03T17:00:00
 DESCRIPTION:https://cal.red/?event=6147\nCost: 0
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Staged Reading of Ghost Gravity: A Ballet Poem
+DTSTART:20261004T000000Z
+DTEND:20261004T010000Z
+DTSTAMP:20261004T000000Z
+UID:event:6280:2026-10-03T20:00:00
+DESCRIPTION:https://cal.red/?event=6280\nCost: 0
+LOCATION:Greenpoint\, Sunview Luncheonette
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts For Art Free InGardens Shows
