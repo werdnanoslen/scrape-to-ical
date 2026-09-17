@@ -383,6 +383,15 @@ DESCRIPTION:https://cal.red/?event=6195\nCost: $17
 LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Salvador & Honduras Solidarity & Food Sovereignty Delegation
+DTSTART:20260924T223000Z
+DTEND:20260924T233000Z
+DTSTAMP:20260924T223000Z
+UID:event:6284:2026-09-24T18:30:00
+DESCRIPTION:https://cal.red/?event=6284\nCost: 0
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Regulars #10: Liola Mattheis\, Cecilia Stelzer\, Isabel Boutiette
 DTSTART:20260924T230000Z
 DTEND:20260925T000000Z
@@ -565,6 +574,15 @@ DTSTAMP:20260927T210000Z
 UID:event:6016:2026-09-27T17:00:00
 DESCRIPTION:https://cal.red/?event=6016\nCost: Free
 LOCATION:Purgatory (Bushwick)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Climate Week closing celebration at Kingsland Wildflowers
+DTSTART:20260927T220000Z
+DTEND:20260927T230000Z
+DTSTAMP:20260927T220000Z
+UID:event:6287:2026-09-27T18:00:00
+DESCRIPTION:https://cal.red/?event=6287\nCost: $7-25
+LOCATION:Kingsland Wildflowers\, 520 Kingsland Ave\, Greenpoint\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOPOS TOO: 𝙎𝙀𝙋𝙏𝙀𝙈𝘽𝙀𝙍 𝙀𝙑𝙀𝙉
