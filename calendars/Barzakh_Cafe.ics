@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:A Night of Rancheras
-DTSTART:20260918T220000Z
-DTEND:20260919T000000Z
-DTSTAMP:20260918T220000Z
-UID:A Night of Rancheras
-DESCRIPTION:https://www.viewcy.com/event/a_night_of_rancheras_3\n<p><img a
- lt="A Night of Rancheras thumbnail" class="styles-module-scss-module__9kmP
- KW__coverImg" data-nimg="1" data-sentry-component="ImageWithFallback" data
- -sentry-element="Image" data-sentry-source-file="index.tsx" decoding="asyn
- c" height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url
- =https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2
- Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjg4NzQyLCJwdXIiOiJibG9iX2lkIn19--cc89
- 2f7cc4891fed7f1642b32a90a286c7cdc75d%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQ
- iOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRyd
- WUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn1
- 9--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=6
- 40&amp\;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frail
- s%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6
- Mjg4NzQyLCJwdXIiOiJibG9iX2lkIn19--cc892f7cc4891fed7f1642b32a90a286c7cdc75d
- %2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzE
- xMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiO
- iJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b429
- 48a4e89%2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?url=h
- ttps%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fr
- edirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjg4NzQyLCJwdXIiOiJibG9iX2lkIn19--cc892f
- 7cc4891fed7f1642b32a90a286c7cdc75d%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiO
- iJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWU
- sInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19-
- -af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640
- &amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Baklava Express at Barzakh
 DTSTART:20260919T000000Z
 DTEND:20260919T020000Z
@@ -1011,6 +978,39 @@ DESCRIPTION:https://www.viewcy.com/event/brooklyn_baithak_open_1\n<p><img
  nRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9
  uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\
  ;w=640&amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HERE WHERE WE LIVE IS OUR COUNTRY
+DTSTART:20261019T000000Z
+DTEND:20261019T020000Z
+DTSTAMP:20261019T000000Z
+UID:HERE WHERE WE LIVE IS OUR COUNTRY
+DESCRIPTION:https://www.viewcy.com/event/here_where_we_live_is\n<p><img al
+ t="HERE WHERE WE LIVE IS OUR COUNTRY thumbnail" class="styles-module-scss-
+ module__9kmPKW__coverImg" data-nimg="1" data-sentry-component="ImageWithFa
+ llback" data-sentry-element="Image" data-sentry-source-file="index.tsx" de
+ coding="async" height="186" loading="lazy" src="https://www.viewcy.com/_ne
+ xt/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepre
+ sentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk1NzM3LCJwdXIiOiJibG9iX2
+ lkIn19--66a8133bceeb4f95346196cacbe9f802a03c5c47%2FeyJfcmFpbHMiOnsiZGF0YSI
+ 6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic
+ 3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmF
+ yaWF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.
+ png&amp\;w=640&amp\;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.viewc
+ y.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMi
+ OnsiZGF0YSI6Mjk1NzM3LCJwdXIiOiJibG9iX2lkIn19--66a8133bceeb4f95346196cacbe9
+ f802a03c5c47%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9
+ fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpb
+ nRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb1
+ 41458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_next
+ /image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Freprese
+ ntations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk1NzM3LCJwdXIiOiJibG9iX2lk
+ In19--66a8133bceeb4f95346196cacbe9f802a03c5c47%2FeyJfcmFpbHMiOnsiZGF0YSI6e
+ yJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3R
+ yaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFya
+ WF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.pn
+ g&amp\;w=640&amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
