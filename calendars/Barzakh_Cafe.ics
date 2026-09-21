@@ -182,39 +182,6 @@ DESCRIPTION:https://www.viewcy.com/event/abundance__an_evenin\n<p><img alt
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Pizza Pop-up by Za4Za
-DTSTART:20260925T220000Z
-DTEND:20260926T000000Z
-DTSTAMP:20260925T220000Z
-UID:Pizza Pop-up by Za4Za
-DESCRIPTION:https://www.viewcy.com/event/pizza_popup_by_za4za\n<p><img alt
- ="Pizza Pop-up by Za4Za thumbnail" class="styles-module-scss-module__9kmPK
- W__coverImg" data-nimg="1" data-sentry-component="ImageWithFallback" data-
- sentry-element="Image" data-sentry-source-file="index.tsx" decoding="async
- " height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=
- https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2F
- redirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk2MzIwLCJwdXIiOiJibG9iX2lkIn19--d8792
- 23dfa2767fd0d70826cc4b30ab98a52294b%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQi
- OiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydW
- UsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19
- --af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=64
- 0&amp\;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails
- %2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6M
- jk2MzIwLCJwdXIiOiJibG9iX2lkIn19--d879223dfa2767fd0d70826cc4b30ab98a52294b%
- 2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzEx
- MjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOi
- JQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b4294
- 8a4e89%2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?url=ht
- tps%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fre
- direct%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk2MzIwLCJwdXIiOiJibG9iX2lkIn19--d879223
- dfa2767fd0d70826cc4b30ab98a52294b%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOi
- JqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUs
- InF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--
- af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&
- amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Song of the Reed
 DTSTART:20260926T003000Z
 DTEND:20260926T023000Z
@@ -245,6 +212,39 @@ DESCRIPTION:https://www.viewcy.com/event/song_of_the_reed\n<p><img alt="So
  HkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c489
  3032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75
   2x" style="color: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pizza Pop-up by Za4Za
+DTSTART:20260926T003000Z
+DTEND:20260926T023000Z
+DTSTAMP:20260926T003000Z
+UID:Pizza Pop-up by Za4Za
+DESCRIPTION:https://www.viewcy.com/event/pizza_popup_by_za4za\n<p><img alt
+ ="Pizza Pop-up by Za4Za thumbnail" class="styles-module-scss-module__9kmPK
+ W__coverImg" data-nimg="1" data-sentry-component="ImageWithFallback" data-
+ sentry-element="Image" data-sentry-source-file="index.tsx" decoding="async
+ " height="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=
+ https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2F
+ redirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk4ODY0LCJwdXIiOiJibG9iX2lkIn19--ea9f8
+ c14f487ad70b606f575db875d7d6600d0b8%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQi
+ OiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydW
+ UsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19
+ --af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=64
+ 0&amp\;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails
+ %2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6M
+ jk4ODY0LCJwdXIiOiJibG9iX2lkIn19--ea9f8c14f487ad70b606f575db875d7d6600d0b8%
+ 2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzEx
+ MjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOi
+ JQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b4294
+ 8a4e89%2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?url=ht
+ tps%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fre
+ direct%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk4ODY0LCJwdXIiOiJibG9iX2lkIn19--ea9f8c1
+ 4f487ad70b606f575db875d7d6600d0b8%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOi
+ JqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUs
+ InF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--
+ af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&
+ amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
@@ -413,36 +413,37 @@ DESCRIPTION:https://www.viewcy.com/event/an_evening_of_carnati\n<p><img al
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Psychedelic Cumbia Night
+SUMMARY:Psychedelic Cumbia Night + DJ Set
 DTSTART:20260928T000000Z
 DTEND:20260928T020000Z
 DTSTAMP:20260928T000000Z
-UID:Psychedelic Cumbia Night
+UID:Psychedelic Cumbia Night + DJ Set
 DESCRIPTION:https://www.viewcy.com/event/psychedelic_cumbia_ni_7\n<p><img 
- alt="Psychedelic Cumbia Night thumbnail" class="styles-module-scss-module_
- _9kmPKW__coverImg" data-nimg="1" data-sentry-component="ImageWithFallback"
-  data-sentry-element="Image" data-sentry-source-file="index.tsx" decoding=
- "async" height="186" loading="lazy" src="https://www.viewcy.com/_next/imag
- e?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentati
- ons%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk1NTg5LCJwdXIiOiJibG9iX2lkIn19-
- -8007727fd28a35cbce4c6f7fda53433d1d9a1de5%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3
- JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAi
- OnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW
- 9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp
- \;w=640&amp\;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2
- Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF
- 0YSI6Mjk1NTg5LCJwdXIiOiJibG9iX2lkIn19--8007727fd28a35cbce4c6f7fda53433d1d9
- a1de5%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbC
- I6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxh
- Y2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db
- 8b42948a4e89%2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?
- url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentation
- s%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk1NTg5LCJwdXIiOiJibG9iX2lkIn19--8
- 007727fd28a35cbce4c6f7fda53433d1d9a1de5%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3Jt
- YXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOn
- RydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9u
- In19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;
- w=640&amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
+ alt="Psychedelic Cumbia Night + DJ Set thumbnail" class="styles-module-scs
+ s-module__9kmPKW__coverImg" data-nimg="1" data-sentry-component="ImageWith
+ Fallback" data-sentry-element="Image" data-sentry-source-file="index.tsx" 
+ decoding="async" height="186" loading="lazy" src="https://www.viewcy.com/_
+ next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frep
+ resentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk4ODQ4LCJwdXIiOiJibG9i
+ X2lkIn19--13d445b106170e0df2b138a9471951506d16ca73%2FeyJfcmFpbHMiOnsiZGF0Y
+ SI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOns
+ ic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoid
+ mFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Design
+ s.png&amp\;w=640&amp\;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.vie
+ wcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbH
+ MiOnsiZGF0YSI6Mjk4ODQ4LCJwdXIiOiJibG9iX2lkIn19--13d445b106170e0df2b138a947
+ 1951506d16ca73%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfd
+ G9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJ
+ pbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120f
+ b141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_ne
+ xt/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepre
+ sentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6Mjk4ODQ4LCJwdXIiOiJibG9iX2
+ lkIn19--13d445b106170e0df2b138a9471951506d16ca73%2FeyJfcmFpbHMiOnsiZGF0YSI
+ 6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic
+ 3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmF
+ yaWF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.
+ png&amp\;w=640&amp\;q=75 2x" style="color: transparent\;" width="308"/></p
+ >
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 BEGIN:VEVENT

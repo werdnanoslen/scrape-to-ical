@@ -279,6 +279,15 @@ DESCRIPTION:https://cal.red/?event=6196\nCost: $15
 LOCATION:@ hart bar (21+)\, 538 hart st.\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:lil soda boi +more LIVE @ GOLD SOUNDS
+DTSTART:20260925T010000Z
+DTEND:20260925T020000Z
+DTSTAMP:20260925T010000Z
+UID:event:6328:2026-09-24T21:00:00
+DESCRIPTION:https://cal.red/?event=6328\nCost: 15
+LOCATION:bushwick\, brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:NY Anarchist Book Fair Music Fest: SSAJ Big Band plays Massey's 'B
  lack Liberation Movement Suite\,' Brandon Lopéz\, Caroline Davis\, Recao 
  Rulé\, Tongo Eisen-Martin
@@ -423,6 +432,15 @@ DTSTAMP:20260926T223000Z
 UID:event:6279:2026-09-26T18:30:00
 DESCRIPTION:https://cal.red/?event=6279\nCost: $18
 LOCATION:Film Forum\, Greenwich Village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electric Moon Cabaret
+DTSTART:20260927T020000Z
+DTEND:20260927T030000Z
+DTSTAMP:20260927T020000Z
+UID:event:6327:2026-09-26T22:00:00
+DESCRIPTION:https://cal.red/?event=6327\nCost: $7-25 sliding scale
+LOCATION:Under St Marks Theater\, 94 St Marks Place\, East Village\, NYC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:#ShutDownAfricom Political Education Series
