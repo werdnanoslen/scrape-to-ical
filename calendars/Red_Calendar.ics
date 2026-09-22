@@ -12,58 +12,6 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
 SUMMARY:
-DTSTART:20260921T230000Z
-DTEND:20260922T000000Z
-DTSTAMP:20260921T230000Z
-UID:event:6297:2026-09-21T19:00:00
-DESCRIPTION:https://cal.red/?event=6297\nCost: 0
-LOCATION:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
-DTSTART:20260921T230000Z
-DTEND:20260922T000000Z
-DTSTAMP:20260921T230000Z
-UID:event:6311:2026-09-21T19:00:00
-DESCRIPTION:https://cal.red/?event=6311\nCost: 0
-LOCATION:Church of the Village (201 W 13th St\, New York\, NY 10011
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:big guitar bellcave: Early Worm\, Aaron Rubinstein / Sergio Tabani
- co / +1\, alana amore colvin / Judette Elliston / Jojo Mann / Noah Amick /
-  Alex Yoo
-DTSTART:20260921T230000Z
-DTEND:20260922T000000Z
-DTSTAMP:20260921T230000Z
-UID:event:6326:2026-09-21T19:00:00
-DESCRIPTION:https://cal.red/?event=6326\nCost: 🌀 notaflof
-LOCATION:@ bellcave (all ages)\, ridgewood\, queens –– email nnakalee 
- at gmail for address
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
-   🅲🅰🅻.🆁🅴🅳
-DTSTART:20260922T000000Z
-DTEND:20260922T010000Z
-DTSTAMP:20260922T000000Z
-UID:event:6054:2026-09-21T20:00:00
-DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
- e 30)
-LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
- n ur love's arms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gates Residency: Sally Gates / Caroline Davis / Trevor Dunn / Greg
-  Fox\, Aliya Ultan
-DTSTART:20260922T000000Z
-DTEND:20260922T010000Z
-DTSTAMP:20260922T000000Z
-UID:event:6200:2026-09-21T20:00:00
-DESCRIPTION:https://cal.red/?event=6200\nCost: $20 🌀 notaflof
-LOCATION:@ sisters (all ages)\, 900 fulton st\, clinton hill\, bklyn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:
 DTSTART:20260922T210000Z
 DTEND:20260922T220000Z
 DTSTAMP:20260922T210000Z
@@ -99,16 +47,6 @@ UID:event:6230:2026-09-22T19:00:00
 DESCRIPTION:https://cal.red/?event=6230\n495 Flatbush Ave\, Brooklyn\, NY 
  11225\nCost: 0
 LOCATION:BKLYN Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:September 2026 Event Organizer Meetup
-DTSTART:20260922T230000Z
-DTEND:20260923T000000Z
-DTSTAMP:20260922T230000Z
-UID:event:6295:2026-09-22T19:00:00
-DESCRIPTION:https://cal.red/?event=6295\nCost: Free with suggested donatio
- n
-LOCATION:BKLYN Commons\, 495 Flatbush Avenue\, Flatbush\, Brooklyn\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hand Sewing Workshop
@@ -472,6 +410,16 @@ DESCRIPTION:https://cal.red/?event=6315\n201 W. 13th St.\, New York\, NY 1
 LOCATION:Church of the Village
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fundraising Concert: Pasatono Trio
+DTSTART:20260927T203000Z
+DTEND:20260927T213000Z
+DTSTAMP:20260927T203000Z
+UID:event:6330:2026-09-27T16:30:00
+DESCRIPTION:https://cal.red/?event=6330\nCost: $30
+LOCATION:Fourth Universalist Society (160 Central Park West\, New York\, N
+ Y 10023)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Intro to Self-Defense Workshop
 DTSTART:20260927T210000Z
 DTEND:20260927T220000Z
@@ -542,6 +490,15 @@ LOCATION:@ downtown music gallery (all ages)\, 13 monroe st.\, chinatown\,
   mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Image-making workshop
+DTSTART:20260929T230000Z
+DTEND:20260930T000000Z
+DTSTAMP:20260929T230000Z
+UID:event:6329:2026-09-29T19:00:00
+DESCRIPTION:https://cal.red/?event=6329\nCost: 35-55 sliding scale
+LOCATION:Bedstuy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:L'Rain Presents: Tony Seltzer\, Wadari\, Doula
 DTSTART:20260930T020000Z
 DTEND:20260930T030000Z
@@ -607,6 +564,17 @@ DTSTAMP:20261001T230000Z
 UID:event:6314:2026-10-01T19:00:00
 DESCRIPTION:https://cal.red/?event=6314\nCost: 0
 LOCATION:Singers
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🐉 Book launch for B-Dragon Suite by Stine An w/ Rosanna Young O
+ h @ Accent Sisters
+DTSTART:20261002T223000Z
+DTEND:20261002T233000Z
+DTSTAMP:20261002T223000Z
+UID:event:6325:2026-10-02T18:30:00
+DESCRIPTION:https://cal.red/?event=6325\n\n89 5th Ave #702\, New York\, NY
+  10002\nCost: $5.38 Pay what you want
+LOCATION:Near Union Square / Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Works
