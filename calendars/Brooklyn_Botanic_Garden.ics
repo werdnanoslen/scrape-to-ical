@@ -72,29 +72,15 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20260923T051241Z
-DTEND;VALUE=DATE:20260923T071241Z
-UID:We Can’t Dream Alone-2026-09-23 05:12:41.940532+00:00
+DTSTART;VALUE=DATE:20260923T111539Z
+DTEND;VALUE=DATE:20260923T131539Z
+UID:We Can’t Dream Alone-2026-09-23 11:15:39.182988+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
  We Can’t Dream Alone\n\nMore info:\nhttps://www.bbg.org/visit/event/we_c
  ant_dream_alone\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/202
  60902_WeCantDreamAlone_SariGoodfriend48.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260922T040000Z
-DTEND;VALUE=DATE:20260922T060000Z
-UID:Seasonal Highlights Tour-2026-09-22 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
- \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
- walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
- our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
- r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
- a_MS_52371474767.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -173,6 +159,19 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Art of Ikebana
+DTSTART;VALUE=DATE:20260924T040000Z
+DTEND;VALUE=DATE:20260924T060000Z
+UID:Art of Ikebana-2026-09-24 04:00:00+00:00
+DESCRIPTION:Thursday\, September 24\, 2026 | 6–9 p.m.  \n					\n\n\n				
+ 	\n						| Waitlist Only\n\nCreate a classic ikebana arrangement.Learn Mor
+ e›about Art of Ikebana\n\nMore info:\nhttps://www.bbg.org/classes/fall_m
+ editation_art_of_ikebana_workshop\n\n<img src="/img/uploads/hero/_list_thu
+ mbnail_regular/kaya-magee-3.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Plant Propagation
 DTSTART;VALUE=DATE:20260924T040000Z
 DTEND;VALUE=DATE:20260924T060000Z
@@ -184,19 +183,6 @@ DESCRIPTION:6 weekly sessions beginning Thursday\, September 24 or Wednesd
  earn More›about Plant Propagation\n\nMore info:\nhttps://www.bbg.org/cla
  sses/plant_propagation\n\n<img src="/img/uploads/hero/_list_thumbnail_regu
  lar/plant-propagation_BB_37500311800.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Art of Ikebana
-DTSTART;VALUE=DATE:20260924T040000Z
-DTEND;VALUE=DATE:20260924T060000Z
-UID:Art of Ikebana-2026-09-24 04:00:00+00:00
-DESCRIPTION:Thursday\, September 24\, 2026 | 6–9 p.m.  \n					\n\n\n				
- 	\n						| Waitlist Only\n\nCreate a classic ikebana arrangement.Learn Mor
- e›about Art of Ikebana\n\nMore info:\nhttps://www.bbg.org/classes/fall_m
- editation_art_of_ikebana_workshop\n\n<img src="/img/uploads/hero/_list_thu
- mbnail_regular/kaya-magee-3.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -619,6 +605,21 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Library Open Hours
+DTSTART;VALUE=DATE:20261003T040000Z
+DTEND;VALUE=DATE:20261003T060000Z
+UID:Library Open Hours-2026-10-03 04:00:00+00:00
+DESCRIPTION:Saturdays\, August 1\, September 12\, October 3\, 2026 | 11 a
+ .m.–5 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nDrop by the G
+ arden’s Library on select Saturdays to browse our extensive collection o
+ f books\, see highlights from our collections\, or play a scavenger hunt w
+ ith kids.Learn More›about Library Open Hours\n\nMore info:\nhttps://www.
+ bbg.org/visit/event/library_saturday\n\n<img src="/img/uploads/hero/_list_
+ thumbnail_regular/library-visitors_SC_54395474703.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Seeing the Forest in Your Street Tree
 DTSTART;VALUE=DATE:20261003T040000Z
 DTEND;VALUE=DATE:20261003T060000Z
@@ -631,21 +632,6 @@ DESCRIPTION:Saturday\, October 3\, 2026 | 11 a.m.–1 p.m.\n					\n\n\n
  s://www.bbg.org/classes/seeing_the_forest_in_your_street_tree\n\n<img src=
  "/img/uploads/hero/_list_thumbnail_regular/street-tree-SS-7139876997.jpg" 
  alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Library Open Hours
-DTSTART;VALUE=DATE:20261003T040000Z
-DTEND;VALUE=DATE:20261003T060000Z
-UID:Library Open Hours-2026-10-03 04:00:00+00:00
-DESCRIPTION:Saturdays\, August 1\, September 12\, October 3\, 2026 | 11 a
- .m.–5 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nDrop by the G
- arden’s Library on select Saturdays to browse our extensive collection o
- f books\, see highlights from our collections\, or play a scavenger hunt w
- ith kids.Learn More›about Library Open Hours\n\nMore info:\nhttps://www.
- bbg.org/visit/event/library_saturday\n\n<img src="/img/uploads/hero/_list_
- thumbnail_regular/library-visitors_SC_54395474703.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -835,6 +821,52 @@ DESCRIPTION:Wednesday\, October 7\, 2026 | 6–8 p.m.\n					\n\n\n					\n
  Tree Gardening\n\nMore info:\nhttps://www.bbg.org/classes/seasonal_street_
  tree_gardening\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/stre
  et-tree-MS-52972223239.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20261008T040000Z
+DTEND;VALUE=DATE:20261008T060000Z
+UID:School Group Visits: Discovery Trail-2026-10-08 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | September 29
+ –November 5\, 2026 (except November 3) \n					\n\n\n					\n						\n					
+ 		| Preregistration Required\n\nUse real science tools as you explore plan
+ ts alongside Discovery Docents at our hands-on activity stations throughou
+ t the Discovery Garden.Learn More›about School Group Visits: Discovery T
+ rail\n\nMore info:\nhttps://www.bbg.org/visit/event/school_group_visits_di
+ scovery_trail\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regula
+ r/discovery-cart_BB_42604393462-1120.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20261008T040000Z
+DTEND;VALUE=DATE:20261008T060000Z
+UID:Seasonal Highlights Tour-2026-10-08 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
+ walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
+ our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
+ r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
+ a_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archtober: Ancestral Ecologies Sunset Tour
+DTSTART;VALUE=DATE:20261008T040000Z
+DTEND;VALUE=DATE:20261008T060000Z
+UID:Archtober: Ancestral Ecologies Sunset Tour-2026-10-08 04:00:00+00:00
+DESCRIPTION:Thursday\, October 8\, 2026 | 5–6 p.m.\n\nJoin BBG’s curat
+ orial team for a special tour of Ancestral Ecologies\, a site-specific exh
+ ibition by the inaugural fellows of BBG’s new Heidi Nitze Art × Environ
+ ment Fellowship\, presented in conjunction with the 2026 Archtober festiva
+ l.Learn More›about Archtober: Ancestral Ecologies Sunset Tour\n\nMore in
+ fo:\nhttps://www.bbg.org/visit/event/ancestral_ecologies_sunset_tour_archt
+ ober\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Nitze-Fellows_
+ JW_260515-002-2800x1200-c.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
