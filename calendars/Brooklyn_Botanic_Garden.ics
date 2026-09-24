@@ -72,61 +72,15 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20260924T042305Z
-DTEND;VALUE=DATE:20260924T062305Z
-UID:We Can’t Dream Alone-2026-09-24 04:23:05.552247+00:00
+DTSTART;VALUE=DATE:20260924T094929Z
+DTEND;VALUE=DATE:20260924T114929Z
+UID:We Can’t Dream Alone-2026-09-24 09:49:29.108880+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
  We Can’t Dream Alone\n\nMore info:\nhttps://www.bbg.org/visit/event/we_c
  ant_dream_alone\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/202
  60902_WeCantDreamAlone_SariGoodfriend48.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall First Discoveries
-DTSTART;VALUE=DATE:20260923T040000Z
-DTEND;VALUE=DATE:20260923T060000Z
-UID:Fall First Discoveries-2026-09-23 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
- –November 6\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot 
- up a plant\, create a craft\, read a story\, and use your senses to explor
- e nature at special Discovery Garden activity stations designed for toddle
- rs.Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bb
- g.org/visit/event/fall_first_discoveries\n\n<img src="/img/uploads/hero/_l
- ist_thumbnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260923T040000Z
-DTEND;VALUE=DATE:20260923T060000Z
-UID:Seasonal Highlights Tour-2026-09-23 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
- \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
- walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
- our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
- r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
- a_MS_52371474767.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Climate Week NYC: What Can You Do to Mitigate Climate Change?
-DTSTART;VALUE=DATE:20260923T040000Z
-DTEND;VALUE=DATE:20260923T060000Z
-UID:Climate Week NYC: What Can You Do to Mitigate Climate Change?-2026-09-
- 23 04:00:00+00:00
-DESCRIPTION:Wednesday\, September 23\, 2026 | 6–7:30 p.m.\n					\n\n\n	
- 				\n						\n							| Preregistration Required\n\nJoin us for a panel dis
- cussion during Climate Week NYC as we look at neighborhood gardening as a 
- vital climate solution and source of inspiration.Learn More›about Climat
- e Week NYC: What Can You Do to Mitigate Climate Change?\n\nMore info:\nhtt
- ps://www.bbg.org/visit/event/climate_week_nyc_2026\n\n<img src="/img/uploa
- ds/hero/_list_thumbnail_regular/GBB-Press-Conference_JW_260804-001.jpg" al
- t="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -246,20 +200,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Birding
-DTSTART;VALUE=DATE:20260926T040000Z
-DTEND;VALUE=DATE:20260926T060000Z
-UID:Beginning Birding-2026-09-26 04:00:00+00:00
-DESCRIPTION:5 Saturdays: September 26–October 24\, 2026 | 9–11 a.m. \n
- 					\n\n\n					\n						\n							| Preregistration Required\n\nLearn how t
- o find and identify birds at the height of fall migration!Learn More›abo
- ut Beginning Birding\n\nMore info:\nhttps://www.bbg.org/classes/beginning_
- birding\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/beginner-bi
- rding-LL-54439291243.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Members’ Fall Mornings
 DTSTART;VALUE=DATE:20260926T040000Z
 DTEND;VALUE=DATE:20260926T060000Z
@@ -270,6 +210,20 @@ DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
  rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
  g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
  humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beginning Birding
+DTSTART;VALUE=DATE:20260926T040000Z
+DTEND;VALUE=DATE:20260926T060000Z
+UID:Beginning Birding-2026-09-26 04:00:00+00:00
+DESCRIPTION:5 Saturdays: September 26–October 24\, 2026 | 9–11 a.m. \n
+ 					\n\n\n					\n						\n							| Preregistration Required\n\nLearn how t
+ o find and identify birds at the height of fall migration!Learn More›abo
+ ut Beginning Birding\n\nMore info:\nhttps://www.bbg.org/classes/beginning_
+ birding\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/beginner-bi
+ rding-LL-54439291243.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -335,20 +289,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Members’ Fall Mornings
-DTSTART;VALUE=DATE:20260927T040000Z
-DTEND;VALUE=DATE:20260927T060000Z
-UID:Members’ Fall Mornings-2026-09-27 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
-  October 24) | 9–10 a.m.\n\nOn weekend mornings from September 12 to Oc
- tober 25\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
- rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
- g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
- humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:All-Abilities Discovery Morning
 DTSTART;VALUE=DATE:20260927T040000Z
 DTEND;VALUE=DATE:20260927T060000Z
@@ -360,6 +300,20 @@ DESCRIPTION:Sunday\, September 27\, 2026 | 9–11 a.m. \n					\n\n\n					\
  ery Morning\n\nMore info:\nhttps://www.bbg.org/visit/event/all_abilities_d
  iscovery_morning_september\n\n<img src="/img/uploads/hero/_list_thumbnail_
  regular/discovery-garden-child-adult_mc.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Fall Mornings
+DTSTART;VALUE=DATE:20260927T040000Z
+DTEND;VALUE=DATE:20260927T060000Z
+UID:Members’ Fall Mornings-2026-09-27 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
+  October 24) | 9–10 a.m.\n\nOn weekend mornings from September 12 to Oc
+ tober 25\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
+ rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
+ g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
+ humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -453,22 +407,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Botany for Horticulturists
-DTSTART;VALUE=DATE:20261001T040000Z
-DTEND;VALUE=DATE:20261001T060000Z
-UID:Botany for Horticulturists-2026-10-01 04:00:00+00:00
-DESCRIPTION:10 sessions beginning Wednesday\, September 2\; or 8 sessions 
- beginning Thursday\, October 1 or Tuesday\, October 20\n					\n\n\n					\n
- 						\n							| Preregistration Required\n\nThis course requires no previ
- ous knowledge of botany and is recommended as a first course in the Certif
- icate in Horticulture program.Learn More›about Botany for Horticulturist
- s\n\nMore info:\nhttps://www.bbg.org/classes/botany_for_horticulturists\n\
- n<img src="/img/uploads/hero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="
- " />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Soil Management (blended)
 DTSTART;VALUE=DATE:20261001T040000Z
 DTEND;VALUE=DATE:20261001T060000Z
@@ -481,6 +419,22 @@ DESCRIPTION:6 weekly sessions beginning Thursday\, October 1 or Tuesday\,
  arn More›about Soil Management (blended)\n\nMore info:\nhttps://www.bbg.
  org/classes/soil_management\n\n<img src="/img/uploads/hero/_list_thumbnail
  _regular/soil_management_class-JW-54770173869.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Botany for Horticulturists
+DTSTART;VALUE=DATE:20261001T040000Z
+DTEND;VALUE=DATE:20261001T060000Z
+UID:Botany for Horticulturists-2026-10-01 04:00:00+00:00
+DESCRIPTION:10 sessions beginning Wednesday\, September 2\; or 8 sessions 
+ beginning Thursday\, October 1 or Tuesday\, October 20\n					\n\n\n					\n
+ 						\n							| Preregistration Required\n\nThis course requires no previ
+ ous knowledge of botany and is recommended as a first course in the Certif
+ icate in Horticulture program.Learn More›about Botany for Horticulturist
+ s\n\nMore info:\nhttps://www.bbg.org/classes/botany_for_horticulturists\n\
+ n<img src="/img/uploads/hero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="
+ " />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -605,21 +559,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Library Open Hours
-DTSTART;VALUE=DATE:20261003T040000Z
-DTEND;VALUE=DATE:20261003T060000Z
-UID:Library Open Hours-2026-10-03 04:00:00+00:00
-DESCRIPTION:Saturdays\, August 1\, September 12\, October 3\, 2026 | 11 a
- .m.–5 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nDrop by the G
- arden’s Library on select Saturdays to browse our extensive collection o
- f books\, see highlights from our collections\, or play a scavenger hunt w
- ith kids.Learn More›about Library Open Hours\n\nMore info:\nhttps://www.
- bbg.org/visit/event/library_saturday\n\n<img src="/img/uploads/hero/_list_
- thumbnail_regular/library-visitors_SC_54395474703.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Seeing the Forest in Your Street Tree
 DTSTART;VALUE=DATE:20261003T040000Z
 DTEND;VALUE=DATE:20261003T060000Z
@@ -632,6 +571,21 @@ DESCRIPTION:Saturday\, October 3\, 2026 | 11 a.m.–1 p.m.Free\n					\n\n\
  https://www.bbg.org/classes/seeing_the_forest_in_your_street_tree\n\n<img 
  src="/img/uploads/hero/_list_thumbnail_regular/street-tree-SS-7139876997.j
  pg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Library Open Hours
+DTSTART;VALUE=DATE:20261003T040000Z
+DTEND;VALUE=DATE:20261003T060000Z
+UID:Library Open Hours-2026-10-03 04:00:00+00:00
+DESCRIPTION:Saturdays\, August 1\, September 12\, October 3\, 2026 | 11 a
+ .m.–5 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nDrop by the G
+ arden’s Library on select Saturdays to browse our extensive collection o
+ f books\, see highlights from our collections\, or play a scavenger hunt w
+ ith kids.Learn More›about Library Open Hours\n\nMore info:\nhttps://www.
+ bbg.org/visit/event/library_saturday\n\n<img src="/img/uploads/hero/_list_
+ thumbnail_regular/library-visitors_SC_54395474703.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -867,6 +821,51 @@ DESCRIPTION:Thursday\, October 8\, 2026 | 5–6 p.m.\n\nJoin BBG’s curat
  fo:\nhttps://www.bbg.org/visit/event/ancestral_ecologies_sunset_tour_archt
  ober\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Nitze-Fellows_
  JW_260515-002-2800x1200-c.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall First Discoveries
+DTSTART;VALUE=DATE:20261009T040000Z
+DTEND;VALUE=DATE:20261009T060000Z
+UID:Fall First Discoveries-2026-10-09 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
+ –November 6\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot 
+ up a plant\, create a craft\, read a story\, and use your senses to explor
+ e nature at special Discovery Garden activity stations designed for toddle
+ rs.Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bb
+ g.org/visit/event/fall_first_discoveries\n\n<img src="/img/uploads/hero/_l
+ ist_thumbnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20261009T040000Z
+DTEND;VALUE=DATE:20261009T060000Z
+UID:Seasonal Highlights Tour-2026-10-09 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
+ walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
+ our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
+ r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
+ a_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:October Memory Program
+DTSTART;VALUE=DATE:20261009T040000Z
+DTEND;VALUE=DATE:20261009T060000Z
+UID:October Memory Program-2026-10-09 04:00:00+00:00
+DESCRIPTION:Friday\, October 9\, 2026 | 1:30–3:30 p.m.\n					\n\n\n					
+ \n						\n							| Preregistration Required\n\nEnjoy a gentle\, tai chi–
+ inspired movement activity\, followed by a stroll around Lily Pool Terrace
+ . This is a drop-in program designed for people with memory loss and their
+  caregivers.Learn More›about October Memory Program\n\nMore info:\nhttps
+ ://www.bbg.org/visit/event/memory_programs_october_2026\n\n<img src="/img/
+ uploads/hero/_list_thumbnail_regular/48900344952-2800x1200-c.jpg" alt="" /
+ >
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
