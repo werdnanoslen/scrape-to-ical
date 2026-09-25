@@ -72,9 +72,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20260925T132002Z
-DTEND;VALUE=DATE:20260925T152002Z
-UID:We Can’t Dream Alone-2026-09-25 13:20:02.227457+00:00
+DTSTART;VALUE=DATE:20260925T185811Z
+DTEND;VALUE=DATE:20260925T205811Z
+UID:We Can’t Dream Alone-2026-09-25 18:58:11.457538+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
@@ -144,6 +144,20 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beginning Birding
+DTSTART;VALUE=DATE:20260926T040000Z
+DTEND;VALUE=DATE:20260926T060000Z
+UID:Beginning Birding-2026-09-26 04:00:00+00:00
+DESCRIPTION:5 Saturdays: September 26–October 24\, 2026 | 9–11 a.m. \n
+ 					\n\n\n					\n						\n							| Preregistration Required\n\nLearn how t
+ o find and identify birds at the height of fall migration!Learn More›abo
+ ut Beginning Birding\n\nMore info:\nhttps://www.bbg.org/classes/beginning_
+ birding\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/beginner-bi
+ rding-LL-54439291243.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Garden Circle Event: Fall Migration Bird Walk
 DTSTART;VALUE=DATE:20260926T040000Z
 DTEND;VALUE=DATE:20260926T060000Z
@@ -174,31 +188,17 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Beginning Birding
-DTSTART;VALUE=DATE:20260926T040000Z
-DTEND;VALUE=DATE:20260926T060000Z
-UID:Beginning Birding-2026-09-26 04:00:00+00:00
-DESCRIPTION:5 Saturdays: September 26–October 24\, 2026 | 9–11 a.m. \n
- 					\n\n\n					\n						\n							| Preregistration Required\n\nLearn how t
- o find and identify birds at the height of fall migration!Learn More›abo
- ut Beginning Birding\n\nMore info:\nhttps://www.bbg.org/classes/beginning_
- birding\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/beginner-bi
- rding-LL-54439291243.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Capital One Family Day at Brooklyn Botanic Garden
 DTSTART;VALUE=DATE:20260926T040000Z
 DTEND;VALUE=DATE:20260926T060000Z
 UID:Capital One Family Day at Brooklyn Botanic Garden-2026-09-26 04:00:00+
  00:00
-DESCRIPTION:Saturday\, September 26\, 2026 | 10 a.m.–2 p.m.\n\nSpend t
- he day with your family and connect with colleagues at the Garden.Learn Mo
- re›about Capital One Family Day at Brooklyn Botanic Garden\n\nMore info:
- \nhttps://www.bbg.org/visit/event/capital_one_family_day_brooklyn_botanic_
- garden\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/discovery-JW
- -54496562894.jpeg" alt="" />
+DESCRIPTION:New date: Saturday\, October 3\, 2026 | 10 a.m.–2 p.m.\n\n
+ Spend the day with your family and connect with colleagues at the Garden.L
+ earn More›about Capital One Family Day at Brooklyn Botanic Garden\n\nMor
+ e info:\nhttps://www.bbg.org/visit/event/capital_one_family_day_brooklyn_b
+ otanic_garden\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/disco
+ very-JW-54496562894.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -243,21 +243,6 @@ DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
  rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
  g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
  humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All-Abilities Discovery Morning
-DTSTART;VALUE=DATE:20260927T040000Z
-DTEND;VALUE=DATE:20260927T060000Z
-UID:All-Abilities Discovery Morning-2026-09-27 04:00:00+00:00
-DESCRIPTION:Sunday\, September 27\, 2026 | 9–11 a.m. \n					\n\n\n					\
- n						\n							| Preregistration Required\n\nVisitors with disabilities a
- nd their families can explore and play in the Discovery Garden alongside t
- rained volunteer Discovery Docents.Learn More›about All-Abilities Discov
- ery Morning\n\nMore info:\nhttps://www.bbg.org/visit/event/all_abilities_d
- iscovery_morning_september\n\n<img src="/img/uploads/hero/_list_thumbnail_
- regular/discovery-garden-child-adult_mc.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -351,22 +336,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Soil Management (blended)
-DTSTART;VALUE=DATE:20261001T040000Z
-DTEND;VALUE=DATE:20261001T060000Z
-UID:Soil Management (blended)-2026-10-01 04:00:00+00:00
-DESCRIPTION:6 weekly sessions beginning Thursday\, October 1 or Tuesday\, 
- October 13\, 2026 \n					\n\n\n					\n						\n							| Preregistration Req
- uired\n\nHealthy soil is the foundation for a healthy garden ecosystem and
-  abundant crops. Learn about soil’s contents and physical and chemical p
- roperties\, soil fertility management\, and soil cultivation techniques.Le
- arn More›about Soil Management (blended)\n\nMore info:\nhttps://www.bbg.
- org/classes/soil_management\n\n<img src="/img/uploads/hero/_list_thumbnail
- _regular/soil_management_class-JW-54770173869.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Botany for Horticulturists
 DTSTART;VALUE=DATE:20261001T040000Z
 DTEND;VALUE=DATE:20261001T060000Z
@@ -379,6 +348,22 @@ DESCRIPTION:10 sessions beginning Wednesday\, September 2\; or 8 sessions
  s\n\nMore info:\nhttps://www.bbg.org/classes/botany_for_horticulturists\n\
  n<img src="/img/uploads/hero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="
  " />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Soil Management (blended)
+DTSTART;VALUE=DATE:20261001T040000Z
+DTEND;VALUE=DATE:20261001T060000Z
+UID:Soil Management (blended)-2026-10-01 04:00:00+00:00
+DESCRIPTION:6 weekly sessions beginning Thursday\, October 1 or Tuesday\, 
+ October 13\, 2026 \n					\n\n\n					\n						\n							| Preregistration Req
+ uired\n\nHealthy soil is the foundation for a healthy garden ecosystem and
+  abundant crops. Learn about soil’s contents and physical and chemical p
+ roperties\, soil fertility management\, and soil cultivation techniques.Le
+ arn More›about Soil Management (blended)\n\nMore info:\nhttps://www.bbg.
+ org/classes/soil_management\n\n<img src="/img/uploads/hero/_list_thumbnail
+ _regular/soil_management_class-JW-54770173869.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
