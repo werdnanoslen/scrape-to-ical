@@ -72,9 +72,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20260926T071609Z
-DTEND;VALUE=DATE:20260926T091609Z
-UID:We Can’t Dream Alone-2026-09-26 07:16:09.726842+00:00
+DTSTART;VALUE=DATE:20260926T130220Z
+DTEND;VALUE=DATE:20260926T150220Z
+UID:We Can’t Dream Alone-2026-09-26 13:02:20.786604+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
@@ -85,61 +85,16 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fall First Discoveries
-DTSTART;VALUE=DATE:20260925T040000Z
-DTEND;VALUE=DATE:20260925T060000Z
-UID:Fall First Discoveries-2026-09-25 04:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
- –November 6\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot 
- up a plant\, create a craft\, read a story\, and use your senses to explor
- e nature at special Discovery Garden activity stations designed for toddle
- rs.Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bb
- g.org/visit/event/fall_first_discoveries\n\n<img src="/img/uploads/hero/_l
- ist_thumbnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tai Chi & Qigong for Beginners
-DTSTART;VALUE=DATE:20260925T040000Z
-DTEND;VALUE=DATE:20260925T060000Z
-UID:Tai Chi & Qigong for Beginners-2026-09-25 04:00:00+00:00
-DESCRIPTION:5 Fridays: September 25–October 23\, 2026 | 11 a.m.–12 p.m
- .\n					\n\n\n					\n						| Waitlist Only\n\nTai chi and qigong exercises
-  improve balance\, increase blood circulation\, relax your mind and body\,
-  and increase your internal energy.Learn More›about Tai Chi & Qigong for
-  Beginners\n\nMore info:\nhttps://www.bbg.org/classes/tai_chi_qigong_for_b
- eginners_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/21FAE
- HWTCQBA_1.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20260925T040000Z
-DTEND;VALUE=DATE:20260925T060000Z
-UID:Seasonal Highlights Tour-2026-09-25 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
- \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
- walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
- our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
- r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
- a_MS_52371474767.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tai Chi & Qigong Intermediate Class
-DTSTART;VALUE=DATE:20260925T040000Z
-DTEND;VALUE=DATE:20260925T060000Z
-UID:Tai Chi & Qigong Intermediate Class-2026-09-25 04:00:00+00:00
-DESCRIPTION:5 Fridays: September 25–October 23\, 2026 | 1–2 p.m.\n				
- 	\n\n\n					\n						\n							| Preregistration Required\n\nTai chi and qig
- ong exercises improve balance\, increase blood circulation\, relax your mi
- nd and body\, and increase your internal energy.Learn More›about Tai Chi
-  & Qigong Intermediate Class\n\nMore info:\nhttps://www.bbg.org/classes/ta
- i_chi_qigong_intermediate_class_fall\n\n<img src="/img/uploads/hero/_list_
- thumbnail_regular/21FAEHWTCQBA_1.jpg" alt="" />
+SUMMARY:Beginning Birding
+DTSTART;VALUE=DATE:20260926T040000Z
+DTEND;VALUE=DATE:20260926T060000Z
+UID:Beginning Birding-2026-09-26 04:00:00+00:00
+DESCRIPTION:5 Saturdays: September 26–October 24\, 2026 | 9–11 a.m. \n
+ 					\n\n\n					\n						\n							| Preregistration Required\n\nLearn how t
+ o find and identify birds at the height of fall migration!Learn More›abo
+ ut Beginning Birding\n\nMore info:\nhttps://www.bbg.org/classes/beginning_
+ birding\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/beginner-bi
+ rding-LL-54439291243.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -171,20 +126,6 @@ DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
  rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
  g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
  humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Birding
-DTSTART;VALUE=DATE:20260926T040000Z
-DTEND;VALUE=DATE:20260926T060000Z
-UID:Beginning Birding-2026-09-26 04:00:00+00:00
-DESCRIPTION:5 Saturdays: September 26–October 24\, 2026 | 9–11 a.m. \n
- 					\n\n\n					\n						\n							| Preregistration Required\n\nLearn how t
- o find and identify birds at the height of fall migration!Learn More›abo
- ut Beginning Birding\n\nMore info:\nhttps://www.bbg.org/classes/beginning_
- birding\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/beginner-bi
- rding-LL-54439291243.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -772,6 +713,34 @@ SUMMARY:Seasonal Highlights Tour
 DTSTART;VALUE=DATE:20261010T040000Z
 DTEND;VALUE=DATE:20261010T060000Z
 UID:Seasonal Highlights Tour-2026-10-10 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
+ walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
+ our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
+ r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
+ a_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Members’ Fall Mornings
+DTSTART;VALUE=DATE:20261011T040000Z
+DTEND;VALUE=DATE:20261011T060000Z
+UID:Members’ Fall Mornings-2026-10-11 04:00:00+00:00
+DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
+  October 24) | 9–10 a.m.\n\nOn weekend mornings from September 12 to Oc
+ tober 25\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
+ rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
+ g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
+ humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20261011T040000Z
+DTEND;VALUE=DATE:20261011T060000Z
+UID:Seasonal Highlights Tour-2026-10-11 04:00:00+00:00
 DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
  \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
  walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
