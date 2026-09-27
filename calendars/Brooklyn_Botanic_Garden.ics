@@ -72,75 +72,15 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20260927T040958Z
-DTEND;VALUE=DATE:20260927T060958Z
-UID:We Can’t Dream Alone-2026-09-27 04:09:58.831281+00:00
+DTSTART;VALUE=DATE:20260927T100815Z
+DTEND;VALUE=DATE:20260927T120815Z
+UID:We Can’t Dream Alone-2026-09-27 10:08:15.246361+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
  We Can’t Dream Alone\n\nMore info:\nhttps://www.bbg.org/visit/event/we_c
  ant_dream_alone\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/202
  60902_WeCantDreamAlone_SariGoodfriend48.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beginning Birding
-DTSTART;VALUE=DATE:20260926T040000Z
-DTEND;VALUE=DATE:20260926T060000Z
-UID:Beginning Birding-2026-09-26 04:00:00+00:00
-DESCRIPTION:5 Saturdays: September 26–October 24\, 2026 | 9–11 a.m. \n
- 					\n\n\n					\n						\n							| Preregistration Required\n\nLearn how t
- o find and identify birds at the height of fall migration!Learn More›abo
- ut Beginning Birding\n\nMore info:\nhttps://www.bbg.org/classes/beginning_
- birding\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/beginner-bi
- rding-LL-54439291243.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POSTPONED: Garden Circle Event: Fall Migration Bird Walk
-DTSTART;VALUE=DATE:20260926T040000Z
-DTEND;VALUE=DATE:20260926T060000Z
-UID:POSTPONED: Garden Circle Event: Fall Migration Bird Walk-2026-09-26 04
- :00:00+00:00
-DESCRIPTION:Rain date: Saturday\, November 7\, 2026 | 9–10 a.m.(Original
- ly September 26)\n					\n\n\n					\n						\n							| Preregistration Requi
- red\n\nMembers of the Garden Circle and President’s Circle are invited t
- o join us for a fall migration bird walk.Learn More›about POSTPONED: Gar
- den Circle Event: Fall Migration Bird Walk\n\nMore info:\nhttps://www.bbg.
- org/visit/event/garden_circle_event_fall_migration_bird_walk\n\n<img src="
- /img/uploads/hero/_list_thumbnail_regular/bird-watching-LL-54244428618.jpe
- g" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members’ Fall Mornings
-DTSTART;VALUE=DATE:20260926T040000Z
-DTEND;VALUE=DATE:20260926T060000Z
-UID:Members’ Fall Mornings-2026-09-26 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
-  October 24) | 9–10 a.m.\n\nOn weekend mornings from September 12 to Oc
- tober 25\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
- rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
- g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
- humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:POSTPONED: Capital One Family Day at Brooklyn Botanic Garden
-DTSTART;VALUE=DATE:20260926T040000Z
-DTEND;VALUE=DATE:20260926T060000Z
-UID:POSTPONED: Capital One Family Day at Brooklyn Botanic Garden-2026-09-2
- 6 04:00:00+00:00
-DESCRIPTION:New date: Saturday\, October 3\, 2026 | 10 a.m.–2 p.m.\n\n
- Spend the day with your family and connect with colleagues at the Garden.L
- earn More›about POSTPONED: Capital One Family Day at Brooklyn Botanic Ga
- rden\n\nMore info:\nhttps://www.bbg.org/visit/event/capital_one_family_day
- _brooklyn_botanic_garden\n\n<img src="/img/uploads/hero/_list_thumbnail_re
- gular/discovery-JW-54496562894.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -218,6 +158,21 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Botany for Horticulturists
+DTSTART;VALUE=DATE:20261001T040000Z
+DTEND;VALUE=DATE:20261001T060000Z
+UID:Botany for Horticulturists-2026-10-01 04:00:00+00:00
+DESCRIPTION:10 sessions beginning Wednesday\, September 2\; or 8 sessions 
+ beginning Thursday\, October 1 or Tuesday\, October 20\n					\n\n\n					\n
+ 						| Waitlist Only\n\nThis course requires no previous knowledge of bot
+ any and is recommended as a first course in the Certificate in Horticultur
+ e program.Learn More›about Botany for Horticulturists\n\nMore info:\nhtt
+ ps://www.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uplo
+ ads/hero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Soil Management (blended)
 DTSTART;VALUE=DATE:20261001T040000Z
 DTEND;VALUE=DATE:20261001T060000Z
@@ -230,21 +185,6 @@ DESCRIPTION:6 weekly sessions beginning Thursday\, October 1 or Tuesday\,
  arn More›about Soil Management (blended)\n\nMore info:\nhttps://www.bbg.
  org/classes/soil_management\n\n<img src="/img/uploads/hero/_list_thumbnail
  _regular/soil_management_class-JW-54770173869.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Botany for Horticulturists
-DTSTART;VALUE=DATE:20261001T040000Z
-DTEND;VALUE=DATE:20261001T060000Z
-UID:Botany for Horticulturists-2026-10-01 04:00:00+00:00
-DESCRIPTION:10 sessions beginning Wednesday\, September 2\; or 8 sessions 
- beginning Thursday\, October 1 or Tuesday\, October 20\n					\n\n\n					\n
- 						| Waitlist Only\n\nThis course requires no previous knowledge of bot
- any and is recommended as a first course in the Certificate in Horticultur
- e program.Learn More›about Botany for Horticulturists\n\nMore info:\nhtt
- ps://www.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uplo
- ads/hero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
