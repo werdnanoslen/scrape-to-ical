@@ -599,6 +599,16 @@ LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
  – usually outdoors in backyard
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Surrealist Ball - Performance Art by Rute Ventura with Orchid McRa
+ e
+DTSTART:20261011T003000Z
+DTEND:20261011T013000Z
+DTSTAMP:20261011T003000Z
+UID:event:6350:2026-10-10T20:30:00
+DESCRIPTION:https://cal.red/?event=6350\nCost: $30
+LOCATION:Dada Bar in Ridgewood Queens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arts For Art Free InGardens Shows
 DTSTART:20261011T180000Z
 DTEND:20261011T190000Z
