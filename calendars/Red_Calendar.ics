@@ -20,6 +20,15 @@ DESCRIPTION:https://cal.red/?event=6319\nCost: 0
 LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Palestinian Resilience Fair\, hosted by Columbia SJP!
+DTSTART:20260927T160000Z
+DTEND:20260927T170000Z
+DTSTAMP:20260927T160000Z
+UID:event:6370:2026-09-27T12:00:00
+DESCRIPTION:https://cal.red/?event=6370\nCost: 0
+LOCATION:Morningside Park
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arts For Arts InGardens Weekend
 DTSTART:20260927T180000Z
 DTEND:20260927T190000Z
@@ -27,16 +36,6 @@ DTSTAMP:20260927T180000Z
 UID:event:6198:2026-09-27T14:00:00
 DESCRIPTION:https://cal.red/?event=6198\nCost: 🌀 free
 LOCATION:@ first street green (all ages)\, 33 e. 1st st.\, bowery\, mnhtn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fundraising Concert: Pasatono Trio
-DTSTART:20260927T203000Z
-DTEND:20260927T213000Z
-DTSTAMP:20260927T203000Z
-UID:event:6330:2026-09-27T16:30:00
-DESCRIPTION:https://cal.red/?event=6330\nCost: $30
-LOCATION:Fourth Universalist Society (160 Central Park West\, New York\, N
- Y 10023)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Discussion between caregivers and feminist author and activist Sil
@@ -48,6 +47,16 @@ UID:event:6315:2026-09-27T16:30:00
 DESCRIPTION:https://cal.red/?event=6315\n201 W. 13th St.\, New York\, NY 1
  0011\nCost: 0
 LOCATION:Church of the Village
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fundraising Concert: Pasatono Trio
+DTSTART:20260927T203000Z
+DTEND:20260927T213000Z
+DTSTAMP:20260927T203000Z
+UID:event:6330:2026-09-27T16:30:00
+DESCRIPTION:https://cal.red/?event=6330\nCost: $30
+LOCATION:Fourth Universalist Society (160 Central Park West\, New York\, N
+ Y 10023)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Self-Defense Workshop
@@ -87,6 +96,17 @@ UID:event:6336:2026-09-28T13:30:00
 DESCRIPTION:https://cal.red/?event=6336\nCost: 295.00
 LOCATION:Art Students League New York\, 215 West 57th Street\, Manhattan (
  Studio 11)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Experiments Reading: Miss dalloway
+DTSTART:20260928T233000Z
+DTEND:20260929T003000Z
+DTSTAMP:20260928T233000Z
+UID:event:6378:2026-09-28T19:30:00
+DESCRIPTION:https://cal.red/?event=6378\n📍 Community Arts Space at La M
+ aMa | 74 East 4th Street\, NYC 10003\nCost: 🎟️ Admission is FREE (RSV
+ P required).
+LOCATION:ㅤ
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
@@ -130,6 +150,15 @@ DESCRIPTION:https://cal.red/?event=6257\nCost: $20
 LOCATION:Saturn Road\, 276 Court St\, Brooklyn\, NY 11231 (Cobble Hill)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New York War Crimes
+DTSTART:20260929T221500Z
+DTEND:20260929T231500Z
+DTSTAMP:20260929T221500Z
+UID:event:6360:2026-09-29T18:15:00
+DESCRIPTION:https://cal.red/?event=6360\nCost: 0
+LOCATION:Healing Bean Cafe in Bay Ridge (7904 3rd Ave\, Brooklyn)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:DMG Free Tuesdays
 DTSTART:20260929T223000Z
 DTEND:20260929T233000Z
@@ -147,6 +176,35 @@ DTSTAMP:20260929T230000Z
 UID:event:6329:2026-09-29T19:00:00
 DESCRIPTION:https://cal.red/?event=6329\nCost: 35-55 sliding scale
 LOCATION:Bedstuy
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎤 Open Mic for Trans & Nonbinary Poets
+DTSTART:20260929T230000Z
+DTEND:20260930T000000Z
+DTSTAMP:20260929T230000Z
+UID:event:6354:2026-09-29T19:00:00
+DESCRIPTION:https://cal.red/?event=6354\n\n🎤 🪼 💫\nCost: 0
+LOCATION:Hive Mind Books
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Andy Beta in conversation with Hank Shteamer for COSMIC MUSIC: The
+  Life\, Art\, and Transcendence of ALICE COLTRANE
+DTSTART:20260929T230000Z
+DTEND:20260930T000000Z
+DTSTAMP:20260929T230000Z
+UID:event:6363:2026-09-29T19:00:00
+DESCRIPTION:https://cal.red/?event=6363\nCost: 0
+LOCATION:Unnameable Books
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Readings at Parkside:   Amra Brooks
+DTSTART:20260929T230000Z
+DTEND:20260930T000000Z
+DTSTAMP:20260929T230000Z
+UID:event:6375:2026-09-29T19:00:00
+DESCRIPTION:https://cal.red/?event=6375\n317 East Houston Street\nNew York
+  City\nCost: 5-25 sliding scale
+LOCATION:The Parkside Lounge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:L'Rain Presents: Tony Seltzer\, Wadari\, Doula
@@ -188,6 +246,26 @@ DESCRIPTION:https://cal.red/?event=6305\nCost: 0
 LOCATION:Arts at the Armory
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A collaboration between Jo Shane\, Maya Martinez\, and Riley Mac\,
+  accompanied by Jo Shane’s video work “SEEN / UNSEEN”
+DTSTART:20260930T233000Z
+DTEND:20261001T003000Z
+DTSTAMP:20260930T233000Z
+UID:event:6359:2026-09-30T19:30:00
+DESCRIPTION:https://cal.red/?event=6359\nCost: 0
+LOCATION:602 E. 9th Street (Serving the People)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:~opening pathways for revolutionary dreaming this wednesday septem
+ ber 30th
+DTSTART:20261001T003000Z
+DTEND:20261001T013000Z
+DTSTAMP:20261001T003000Z
+UID:event:6380:2026-09-30T20:30:00
+DESCRIPTION:https://cal.red/?event=6380\nCost: $15 notaflof
+LOCATION:hex house
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Community Dinner at the People’s Forum
 DTSTART:20261001T220000Z
 DTEND:20261001T230000Z
@@ -197,13 +275,13 @@ DESCRIPTION:https://cal.red/?event=6070\nCost: 0
 LOCATION:People’s Forum
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:⭐️ CHOO CHOO FOREVER ⭐️
+SUMMARY:PSNY Virtual Workshop: Steal\, Wield\, Wild\, Transform
 DTSTART:20261001T230000Z
 DTEND:20261002T000000Z
 DTSTAMP:20261001T230000Z
-UID:event:6314:2026-10-01T19:00:00
-DESCRIPTION:https://cal.red/?event=6314\nCost: 0
-LOCATION:Singers
+UID:event:6232:2026-10-01T19:00:00
+DESCRIPTION:https://cal.red/?event=6232\nCost: $28.52
+LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sally Gates / Tim Berne / Kenny Grohowski\, Miss Ambivalent (Jeong
@@ -217,6 +295,15 @@ LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
  – usually outdoors in backyard
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:⭐️ CHOO CHOO FOREVER ⭐️
+DTSTART:20261001T230000Z
+DTEND:20261002T000000Z
+DTSTAMP:20261001T230000Z
+UID:event:6314:2026-10-01T19:00:00
+DESCRIPTION:https://cal.red/?event=6314\nCost: 0
+LOCATION:Singers
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Society of the Screen: Vilém Flusser’s Radical Prescience
 DTSTART:20261001T230000Z
 DTEND:20261002T000000Z
@@ -225,15 +312,6 @@ UID:event:6343:2026-10-01T19:00:00
 DESCRIPTION:https://cal.red/?event=6343\n88 Eldridge Street\, LES\nCost: F
  REE
 LOCATION:Miguel Abreu Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PSNY Virtual Workshop: Steal\, Wield\, Wild\, Transform
-DTSTART:20261001T230000Z
-DTEND:20261002T000000Z
-DTSTAMP:20261001T230000Z
-UID:event:6232:2026-10-01T19:00:00
-DESCRIPTION:https://cal.red/?event=6232\nCost: $28.52
-LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🐉 Book launch for B-Dragon Suite by Stine An w/ Rosanna Young O
@@ -245,6 +323,16 @@ UID:event:6325:2026-10-02T18:30:00
 DESCRIPTION:https://cal.red/?event=6325\n\n89 5th Ave #702\, New York\, NY
   10002\nCost: $5.38 Pay what you want
 LOCATION:Near Union Square / Manhattan
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shadowbanned Cultural Workers Lab presents our next event: Our Ima
+ ges Under Imperialism (2026)
+DTSTART:20261002T223000Z
+DTEND:20261002T233000Z
+DTSTAMP:20261002T223000Z
+UID:event:6366:2026-10-02T18:30:00
+DESCRIPTION:https://cal.red/?event=6366\nCost: 0
+LOCATION:281 N. 7th St. 11211
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Works
@@ -272,6 +360,16 @@ DTSTAMP:20261003T140000Z
 UID:event:6256:2026-10-03T10:00:00
 DESCRIPTION:https://cal.red/?event=6256\nCost: 0
 LOCATION:Harlem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Processing Community Day 2026
+DTSTART:20261003T140000Z
+DTEND:20261003T150000Z
+DTSTAMP:20261003T140000Z
+UID:event:6377:2026-10-03T10:00:00
+DESCRIPTION:https://cal.red/?event=6377\nBrooklyn\, NY\nCost: Sliding scal
+ e 0-30
+LOCATION:ITP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Khajistan Portal Test: Day One
@@ -314,6 +412,25 @@ DESCRIPTION:https://cal.red/?event=6147\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
+DTSTART:20261003T210000Z
+DTEND:20261003T220000Z
+DTSTAMP:20261003T210000Z
+UID:event:6369:2026-10-03T17:00:00
+DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
+ aypal\, Venmo or Zelle. Proceeds go directly to the readers.
+LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palestinian films curated by CSP & a communal dinner
+DTSTART:20261003T220000Z
+DTEND:20261003T230000Z
+DTSTAMP:20261003T220000Z
+UID:event:6367:2026-10-03T18:00:00
+DESCRIPTION:https://cal.red/?event=6367\nCost: 0
+LOCATION:Walt L. Shamel Community Garden @waltlshamelgarden
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:A Staged Reading of Ghost Gravity: A Ballet Poem
 DTSTART:20261004T000000Z
 DTEND:20261004T010000Z
@@ -321,6 +438,25 @@ DTSTAMP:20261004T000000Z
 UID:event:6280:2026-10-03T20:00:00
 DESCRIPTION:https://cal.red/?event=6280\nCost: 0
 LOCATION:Greenpoint\, Sunview Luncheonette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:community health initiative (CHI) free clinic!
+DTSTART:20261004T160000Z
+DTEND:20261004T170000Z
+DTSTAMP:20261004T160000Z
+UID:event:6355:2026-10-04T12:00:00
+DESCRIPTION:https://cal.red/?event=6355\nCost: free
+LOCATION:another world
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pull up to our next outreach and skill share day! Another beautifu
+ l scheduled day of amazing people sharing skills with the community!
+DTSTART:20261004T160000Z
+DTEND:20261004T170000Z
+DTSTAMP:20261004T160000Z
+UID:event:6364:2026-10-04T12:00:00
+DESCRIPTION:https://cal.red/?event=6364\nCost: 0
+LOCATION:Herbert von King Park
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts For Art Free InGardens Shows
@@ -331,6 +467,16 @@ UID:event:6268:2026-10-04T14:00:00
 DESCRIPTION:https://cal.red/?event=6268\nCost: 🌀 free
 LOCATION:@ first street green (all ages)\, 33 e. 1st st.\, bowery\, mnhtn 
  –– outdoors
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tom Cole’s CHIMES
+DTSTART:20261004T200400Z
+DTEND:20261004T210400Z
+DTSTAMP:20261004T200400Z
+UID:event:6374:2026-10-04T16:04:00
+DESCRIPTION:https://cal.red/?event=6374\n317 East Houston Street\nNew York
+  City\nCost: 5-25 sliding scale
+LOCATION:The Parkside Lounge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New York Modular Society 7th Anniversary Show
@@ -353,6 +499,34 @@ LOCATION:@ judson church (all ages)\, 239 thompson st. entrance\, greenwic
  h village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:First Mondays at Performance Space New York
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+DTSTAMP:20261005T230000Z
+UID:event:6356:2026-10-05T19:00:00
+DESCRIPTION:https://cal.red/?event=6356\nCost: 🖤Always FREE with RSVP!
+LOCATION:Performance Space New York
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SMILE! 😃
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+DTSTAMP:20261005T230000Z
+UID:event:6358:2026-10-05T19:00:00
+DESCRIPTION:https://cal.red/?event=6358\nCost: 0
+LOCATION:@pietroalexandernyc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ARTIFICIAL INQUIRIES: A LIVE WORLDBUILDING GAME WITH MORE&MORE
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+DTSTAMP:20261005T230000Z
+UID:event:6379:2026-10-05T19:00:00
+DESCRIPTION:https://cal.red/?event=6379\n\n370 Jay Street\, Brooklyn\, NY\
+ nCost: Free with RSVP. Capacity is limited.
+LOCATION:The Garage at NYU
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20261006T000000Z
@@ -363,6 +537,24 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Thinking from Black
+DTSTART:20261006T000000Z
+DTEND:20261006T010000Z
+DTSTAMP:20261006T000000Z
+UID:event:6365:2026-10-05T20:00:00
+DESCRIPTION:https://cal.red/?event=6365\nCost: 0
+LOCATION:St Mark's Church
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:No Contract? No Code!
+DTSTART:20261006T000000Z
+DTEND:20261006T010000Z
+DTSTAMP:20261006T000000Z
+UID:event:6368:2026-10-05T20:00:00
+DESCRIPTION:https://cal.red/?event=6368\nCost: 0
+LOCATION:Online
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Too Fat for China
@@ -384,6 +576,16 @@ DESCRIPTION:https://cal.red/?event=6241\nCost: Free!
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Beauty\, brains\, brawn\, freaky gay vibes- what more could you as
+ k for really?
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+DTSTAMP:20261006T230000Z
+UID:event:6372:2026-10-06T19:00:00
+DESCRIPTION:https://cal.red/?event=6372\nCost: 0
+LOCATION:@seventhheaven.bar
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Morning Drifts\, William DeLee\, Nathan O’Flynn-Pruitt
 DTSTART:20261007T223000Z
 DTEND:20261007T233000Z
@@ -403,6 +605,17 @@ DESCRIPTION:https://cal.red/?event=6233\nCost: $28.52
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Join us on October 8 at Tavern 29 starting at 7 p.m. to celebrate 
+ the launch of Issue Eighteen! Print subscribers get in free.
+DTSTART:20261008T230000Z
+DTEND:20261009T000000Z
+DTSTAMP:20261008T230000Z
+UID:event:6371:2026-10-08T19:00:00
+DESCRIPTION:https://cal.red/?event=6371\nCost: $20 if you're not a subscri
+ ber
+LOCATION:Tavern 29
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Total Recall
 DTSTART:20261009T220000Z
 DTEND:20261009T230000Z
@@ -410,6 +623,34 @@ DTSTAMP:20261009T220000Z
 UID:event:6292:2026-10-09T18:00:00
 DESCRIPTION:https://cal.red/?event=6292\nCost: 5-10
 LOCATION:Williamsburg (location drop day of)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🪆 Solidarity Across Time: A Conversation with Molly Crabapple
+DTSTART:20261009T223000Z
+DTEND:20261009T233000Z
+DTSTAMP:20261009T223000Z
+UID:event:6357:2026-10-09T18:30:00
+DESCRIPTION:https://cal.red/?event=6357\nCost: 🎟️ $15 suggested donat
+ ion
+LOCATION:📍 Harlem (exact location TBA)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:IN A COLLAPSE OF THE EARTH
+DTSTART:20261009T230000Z
+DTEND:20261010T000000Z
+DTSTAMP:20261009T230000Z
+UID:event:6362:2026-10-09T19:00:00
+DESCRIPTION:https://cal.red/?event=6362\nCost: 0
+LOCATION:Accent Sisters
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Experience and Internet Museum 📲👩🏻‍🔬
+DTSTART:20261010T000000Z
+DTEND:20261010T010000Z
+DTSTAMP:20261010T000000Z
+UID:event:6373:2026-10-09T20:00:00
+DESCRIPTION:https://cal.red/?event=6373\nCost: 0
+LOCATION:@come.to.life.world 🌐
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Film Screening: Javaid Shampoo (2004) Director's Cut
@@ -430,6 +671,16 @@ UID:event:6269:2026-10-10T14:00:00
 DESCRIPTION:https://cal.red/?event=6269\nCost: 🌀 free
 LOCATION:@ first street green (all ages)\, 33 e. 1st st.\, bowery\, mnhtn 
  –– outdoors
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
+DTSTART:20261010T210000Z
+DTEND:20261010T220000Z
+DTSTAMP:20261010T210000Z
+UID:event:6369:2026-10-10T17:00:00
+DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
+ aypal\, Venmo or Zelle. Proceeds go directly to the readers.
+LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pangea: Unleashed
@@ -481,15 +732,6 @@ DESCRIPTION:https://cal.red/?event=6333\nCost: 15-30
 LOCATION:Rubulad\, Bushwick BK
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:dirt child presents HARVEST
-DTSTART:20261011T200000Z
-DTEND:20261011T210000Z
-DTSTAMP:20261011T200000Z
-UID:event:6353:2026-10-11T16:00:00
-DESCRIPTION:https://cal.red/?event=6353\nCost: FREE/$3-5 suggested
-LOCATION:Bar Freda: 8-01 Seneca in Ridgewood\, Queens
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pangea: Unleashed
 DTSTART:20261011T200000Z
 DTEND:20261011T210000Z
@@ -498,6 +740,15 @@ UID:event:6142:2026-10-11T16:00:00
 DESCRIPTION:https://cal.red/?event=6142\n126 E. 13th St.\nNew York\, NY 10
  003\nCost: $20-45
 LOCATION:Peridance KnJ Theater
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:dirt child presents HARVEST
+DTSTART:20261011T200000Z
+DTEND:20261011T210000Z
+DTSTAMP:20261011T200000Z
+UID:event:6353:2026-10-11T16:00:00
+DESCRIPTION:https://cal.red/?event=6353\nCost: FREE/$3-5 suggested
+LOCATION:Bar Freda: 8-01 Seneca in Ridgewood\, Queens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts For Art Free InGardens Shows
@@ -561,14 +812,14 @@ DESCRIPTION:https://cal.red/?event=6243\nCost: Free!
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Chaser\, Ewen / Dahl / Chase
-DTSTART:20261015T230000Z
-DTEND:20261016T000000Z
-DTSTAMP:20261015T230000Z
-UID:event:6274:2026-10-15T19:00:00
-DESCRIPTION:https://cal.red/?event=6274\nCost: 🌀 free / notaflof
-LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
- – usually outdoors in backyard
+SUMMARY:Reading!
+DTSTART:20261013T230000Z
+DTEND:20261014T000000Z
+DTSTAMP:20261013T230000Z
+UID:event:6361:2026-10-13T19:00:00
+DESCRIPTION:https://cal.red/?event=6361\n44-19 Purves St\nLong Island City
+ \nCost: 0
+LOCATION:Sculpture Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: Mourning the Unmentionable
@@ -578,6 +829,16 @@ DTSTAMP:20261015T230000Z
 UID:event:6237:2026-10-15T19:00:00
 DESCRIPTION:https://cal.red/?event=6237\nCost: $28.52
 LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chaser\, Ewen / Dahl / Chase
+DTSTART:20261015T230000Z
+DTEND:20261016T000000Z
+DTSTAMP:20261015T230000Z
+UID:event:6274:2026-10-15T19:00:00
+DESCRIPTION:https://cal.red/?event=6274\nCost: 🌀 free / notaflof
+LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
+ – usually outdoors in backyard
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
@@ -612,6 +873,16 @@ UID:event:5977:2026-10-16T20:00:00
 DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
  h event on website.\nCost: Variable
 LOCATION:Pageant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
+DTSTART:20261017T210000Z
+DTEND:20261017T220000Z
+DTSTAMP:20261017T210000Z
+UID:event:6369:2026-10-17T17:00:00
+DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
+ aypal\, Venmo or Zelle. Proceeds go directly to the readers.
+LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Entomology of a Human Zine Release Party & Exhibition
@@ -683,6 +954,16 @@ DTSTAMP:20261020T230000Z
 UID:event:6244:2026-10-20T19:00:00
 DESCRIPTION:https://cal.red/?event=6244\nCost: Free!
 LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Readings at Parkside:   Nate Lippens
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+DTSTAMP:20261020T230000Z
+UID:event:6376:2026-10-20T19:00:00
+DESCRIPTION:https://cal.red/?event=6376\n317 East Houston Street\nNew York
+  City\nCost: 5-25 sliding scale
+LOCATION:The Parkside Lounge
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (NLNL)
@@ -768,6 +1049,16 @@ DESCRIPTION:https://cal.red/?event=6250\n46 Washington Avenue Brooklyn\, N
 LOCATION:Recess in Clinton Hill
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+DTSTAMP:20261024T210000Z
+UID:event:6369:2026-10-24T17:00:00
+DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
+ aypal\, Venmo or Zelle. Proceeds go directly to the readers.
+LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:First President of Japan\, Qween Kong\, AFK\, Ultra Deluxe
 DTSTART:20261024T230000Z
 DTEND:20261025T000000Z
@@ -825,6 +1116,34 @@ DTSTAMP:20261030T230000Z
 UID:event:6226:2026-10-30T19:00:00
 DESCRIPTION:https://cal.red/?event=6226\nCost: 20
 LOCATION:Stone Circle Theatre Sanctuary\, Ridgewood\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+DTSTAMP:20261031T210000Z
+UID:event:6369:2026-10-31T17:00:00
+DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
+ aypal\, Venmo or Zelle. Proceeds go directly to the readers.
+LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:community health initiative (CHI) free clinic!
+DTSTART:20261101T170000Z
+DTEND:20261101T180000Z
+DTSTAMP:20261101T170000Z
+UID:event:6355:2026-11-01T12:00:00
+DESCRIPTION:https://cal.red/?event=6355\nCost: free
+LOCATION:another world
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Mondays at Performance Space New York
+DTSTART:20261103T000000Z
+DTEND:20261103T010000Z
+DTSTAMP:20261103T000000Z
+UID:event:6356:2026-11-02T19:00:00
+DESCRIPTION:https://cal.red/?event=6356\nCost: 🖤Always FREE with RSVP!
+LOCATION:Performance Space New York
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
@@ -903,6 +1222,16 @@ DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
 LOCATION:Pageant
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
+DTSTART:20261107T220000Z
+DTEND:20261107T230000Z
+DTSTAMP:20261107T220000Z
+UID:event:6369:2026-11-07T17:00:00
+DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
+ aypal\, Venmo or Zelle. Proceeds go directly to the readers.
+LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Common Resonance presents Koe (聲): flute and cello
 DTSTART:20261108T220000Z
 DTEND:20261108T230000Z
@@ -943,6 +1272,16 @@ UID:event:6245:2026-11-10T18:30:00
 DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
  nCost: 25.00
 LOCATION:The RAT NYC (DUMBO)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
+DTSTART:20261114T220000Z
+DTEND:20261114T230000Z
+DTSTAMP:20261114T220000Z
+UID:event:6369:2026-11-14T17:00:00
+DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
+ aypal\, Venmo or Zelle. Proceeds go directly to the readers.
+LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
@@ -1010,6 +1349,16 @@ DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
 LOCATION:Pageant
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
+DTSTART:20261121T220000Z
+DTEND:20261121T230000Z
+DTSTAMP:20261121T220000Z
+UID:event:6369:2026-11-21T17:00:00
+DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
+ aypal\, Venmo or Zelle. Proceeds go directly to the readers.
+LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20261124T010000Z
@@ -1040,6 +1389,24 @@ UID:event:6332:2026-11-27T18:00:00
 DESCRIPTION:https://cal.red/?event=6332\n506 5th Ave\, Brooklyn\, NY 11215
  \nSouth Slope\nCost: 0
 LOCATION:Young Ethel's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:community health initiative (CHI) free clinic!
+DTSTART:20261206T170000Z
+DTEND:20261206T180000Z
+DTSTAMP:20261206T170000Z
+UID:event:6355:2026-12-06T12:00:00
+DESCRIPTION:https://cal.red/?event=6355\nCost: free
+LOCATION:another world
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:First Mondays at Performance Space New York
+DTSTART:20261208T000000Z
+DTEND:20261208T010000Z
+DTSTAMP:20261208T000000Z
+UID:event:6356:2026-12-07T19:00:00
+DESCRIPTION:https://cal.red/?event=6356\nCost: 🖤Always FREE with RSVP!
+LOCATION:Performance Space New York
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ménage à Trois IV: HOME
