@@ -173,6 +173,16 @@ DESCRIPTION:https://cal.red/?event=6388\nCost: Free
 LOCATION:56-21 2nd Street\, Long Island City\, NY 11101
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wild Thing Flow
+DTSTART:20261001T223000Z
+DTEND:20261001T233000Z
+DTSTAMP:20261001T223000Z
+UID:event:6395:2026-10-01T18:30:00
+DESCRIPTION:https://cal.red/?event=6395\nCost: Free!
+LOCATION:Rockaway Beach 84 \, Near the “Rockaway Playground M” \, coul
+ d be found on maps!
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: Steal\, Wield\, Wild\, Transform
 DTSTART:20261001T230000Z
 DTEND:20261002T000000Z
@@ -306,6 +316,15 @@ UID:event:6268:2026-10-03T14:00:00
 DESCRIPTION:https://cal.red/?event=6268\nCost: 🌀 free
 LOCATION:@ first street green (all ages)\, 33 e. 1st st.\, bowery\, mnhtn 
  –– outdoors
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pop Gym x Another World Intro to Self-Defense Series
+DTSTART:20261003T190000Z
+DTEND:20261003T200000Z
+DTSTAMP:20261003T190000Z
+UID:event:6396:2026-10-03T15:00:00
+DESCRIPTION:https://cal.red/?event=6396\nCost: 0
+LOCATION:Crown Heights\, Brower Park Lawn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friel Selects: Kyp Malone\, MV Carbon\, Sinead Youth (Clara Latham
@@ -549,6 +568,19 @@ DESCRIPTION:https://cal.red/?event=6394\nCost: $10
 LOCATION:743 Dekalbe Avenue (Dreamsong Music Lab) Bed-Stuy
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Brendan Mahan discusses and signs OVERCOMING THE WALL OF AWFUL wit
+ h Dr. Zach Gershon
+DTSTART:20261007T230000Z
+DTEND:20261008T000000Z
+DTSTAMP:20261007T230000Z
+UID:event:6397:2026-10-07T19:00:00
+DESCRIPTION:https://cal.red/?event=6397\n\n82nd & Broadway\n\n2289 Broadwa
+ y\n\nNew York\, NY\nCost: A purchase of OVERCOMING THE WALL OF AWFUL  from
+  Barnes & Noble Upper West Side is required to join the signing line at th
+ is event.
+LOCATION:Upper West Side (82nd & Broadway)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: House of Stanzas
 DTSTART:20261008T230000Z
 DTEND:20261009T000000Z
@@ -633,6 +665,15 @@ UID:event:6269:2026-10-10T14:00:00
 DESCRIPTION:https://cal.red/?event=6269\nCost: 🌀 free
 LOCATION:@ first street green (all ages)\, 33 e. 1st st.\, bowery\, mnhtn 
  –– outdoors
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pop Gym x Another World Intro to Self-Defense Series
+DTSTART:20261010T190000Z
+DTEND:20261010T200000Z
+DTSTAMP:20261010T190000Z
+UID:event:6396:2026-10-10T15:00:00
+DESCRIPTION:https://cal.red/?event=6396\nCost: 0
+LOCATION:Crown Heights\, Brower Park Lawn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
@@ -901,6 +942,15 @@ UID:event:5977:2026-10-16T20:00:00
 DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
  h event on website.\nCost: Variable
 LOCATION:Pageant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pop Gym x Another World Intro to Self-Defense Series
+DTSTART:20261017T190000Z
+DTEND:20261017T200000Z
+DTSTAMP:20261017T190000Z
+UID:event:6396:2026-10-17T15:00:00
+DESCRIPTION:https://cal.red/?event=6396\nCost: 0
+LOCATION:Crown Heights\, Brower Park Lawn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
