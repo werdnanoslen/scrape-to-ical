@@ -725,6 +725,15 @@ DESCRIPTION:https://cal.red/?event=6350\nCost: $30
 LOCATION:Dada Bar in Ridgewood Queens
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:How to Look at Plants: Observing your Urban Ecosystem
+DTSTART:20261011T150000Z
+DTEND:20261011T160000Z
+DTSTAMP:20261011T150000Z
+UID:event:6398:2026-10-11T11:00:00
+DESCRIPTION:https://cal.red/?event=6398\nCost: 0
+LOCATION:Green Oasis Community Garden\, 372 E 8th Street\, East Village
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arts For Art Free InGardens Shows
 DTSTART:20261011T180000Z
 DTEND:20261011T190000Z
