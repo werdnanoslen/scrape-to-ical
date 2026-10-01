@@ -11,56 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:Workshop Conceptual Art
-DTSTART:20260930T173000Z
-DTEND:20260930T183000Z
-DTSTAMP:20260930T173000Z
-UID:event:6336:2026-09-30T13:30:00
-DESCRIPTION:https://cal.red/?event=6336\nCost: 295.00
-LOCATION:Art Students League New York\, 215 West 57th Street\, Manhattan (
- Studio 11)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music at the Record Shop
-DTSTART:20260930T233000Z
-DTEND:20261001T003000Z
-DTSTAMP:20260930T233000Z
-UID:event:6188:2026-09-30T19:30:00
-DESCRIPTION:https://cal.red/?event=6188\nCost: 🌀 notaflof\, $10+ donati
- ons
-LOCATION:@ the record shop (all ages)\, 360 van brunt st.\, red hook\, bkl
- yn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NO LAND TO STAND ON
-DTSTART:20260930T233000Z
-DTEND:20261001T003000Z
-DTSTAMP:20260930T233000Z
-UID:event:6305:2026-09-30T19:30:00
-DESCRIPTION:https://cal.red/?event=6305\nCost: 0
-LOCATION:Arts at the Armory
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A collaboration between Jo Shane\, Maya Martinez\, and Riley Mac\,
-  accompanied by Jo Shane’s video work “SEEN / UNSEEN”
-DTSTART:20260930T233000Z
-DTEND:20261001T003000Z
-DTSTAMP:20260930T233000Z
-UID:event:6359:2026-09-30T19:30:00
-DESCRIPTION:https://cal.red/?event=6359\nCost: 0
-LOCATION:602 E. 9th Street (Serving the People)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:~opening pathways for revolutionary dreaming this wednesday septem
- ber 30th
-DTSTART:20261001T003000Z
-DTEND:20261001T013000Z
-DTSTAMP:20261001T003000Z
-UID:event:6380:2026-09-30T20:30:00
-DESCRIPTION:https://cal.red/?event=6380\nCost: $15 notaflof
-LOCATION:hex house
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Community Dinner at the People’s Forum
 DTSTART:20261001T220000Z
 DTEND:20261001T230000Z
@@ -87,6 +37,17 @@ UID:event:6395:2026-10-01T18:30:00
 DESCRIPTION:https://cal.red/?event=6395\nCost: Free!
 LOCATION:Rockaway Beach 84 \, Near the “Rockaway Playground M” \, coul
  d be found on maps!
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sprint Wireless\, MSHR (live in quad)\, Ka Baird / Chris Cochrane 
+ / Mike Pride\, Theatre of Divine Resonance (Album Release)
+DTSTART:20261001T223000Z
+DTEND:20261001T233000Z
+DTSTAMP:20261001T223000Z
+UID:event:6404:2026-10-01T18:30:00
+DESCRIPTION:https://cal.red/?event=6404\nCost: $15-20 suggested
+LOCATION:@ the living gallery (all ages)\, 1094 broadway\, bushwick\, bkly
+ n
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: Steal\, Wield\, Wild\, Transform
@@ -807,6 +768,16 @@ DESCRIPTION:https://cal.red/?event=6386\nCost: 10
 LOCATION:Chinatown
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Word Play Social: Things That Go Boggle in the Night
+DTSTART:20261014T223000Z
+DTEND:20261014T233000Z
+DTSTAMP:20261014T223000Z
+UID:event:6402:2026-10-14T18:30:00
+DESCRIPTION:https://cal.red/?event=6402\nCost: 0
+LOCATION:Antler Accelerator\, 33 W. 17th Street\, 6th Floor\, New York\, N
+ Y 10011 (Flatiron)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Conversation & Screening
 DTSTART:20261015T213000Z
 DTEND:20261015T223000Z
@@ -815,6 +786,16 @@ UID:event:6401:2026-10-15T17:30:00
 DESCRIPTION:https://cal.red/?event=6401\n23 Marcus Garvey Blvd\, Brooklyn\
  nCost: 0
 LOCATION:Brooklyn Peace Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SALON CREATIVES VOL. VIII
+DTSTART:20261015T223000Z
+DTEND:20261015T233000Z
+DTSTAMP:20261015T223000Z
+UID:event:6403:2026-10-15T18:30:00
+DESCRIPTION:https://cal.red/?event=6403\nCost: 0
+LOCATION:Casa La Femme\, 140 Charles St\, New York\, NY 10014 (West Villag
+ e)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: Mourning the Unmentionable
