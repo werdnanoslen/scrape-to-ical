@@ -177,6 +177,15 @@ DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
 LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Abolition Teach In: Liberatory Economics
+DTSTART:20261003T213000Z
+DTEND:20261003T223000Z
+DTSTAMP:20261003T213000Z
+UID:event:6420:2026-10-03T17:30:00
+DESCRIPTION:https://cal.red/?event=6420\nCost: Free
+LOCATION:Recess | 46 Washington Ave. Brooklyn\, NY | Clinton Hill
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Palestinian films curated by CSP & a communal dinner
 DTSTART:20261003T220000Z
 DTEND:20261003T230000Z
@@ -896,6 +905,15 @@ DTSTAMP:20261017T190000Z
 UID:event:6396:2026-10-17T15:00:00
 DESCRIPTION:https://cal.red/?event=6396\nCost: 0
 LOCATION:Crown Heights\, Brower Park Lawn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Larry Heard and Ross Devlin’s “On My Way” book party
+DTSTART:20261017T200000Z
+DTEND:20261017T210000Z
+DTSTAMP:20261017T200000Z
+UID:event:6421:2026-10-17T16:00:00
+DESCRIPTION:https://cal.red/?event=6421\nCost: 0
+LOCATION:400 S 2nd Street\, Brooklyn\, NY 11211
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
