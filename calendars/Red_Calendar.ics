@@ -11,75 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:Gaza Forever: An Art Market for the Sameer Project
-DTSTART:20261002T220000Z
-DTEND:20261002T230000Z
-DTSTAMP:20261002T220000Z
-UID:event:6416:2026-10-02T18:00:00
-DESCRIPTION:https://cal.red/?event=6416\nCost: $10-15 suggested donation
-LOCATION:Another World\, 629 Nostrand Ave\, Crown Heights
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🐉 Book launch for B-Dragon Suite by Stine An w/ Rosanna Young O
- h @ Accent Sisters
-DTSTART:20261002T223000Z
-DTEND:20261002T233000Z
-DTSTAMP:20261002T223000Z
-UID:event:6325:2026-10-02T18:30:00
-DESCRIPTION:https://cal.red/?event=6325\n\n89 5th Ave #702\, New York\, NY
-  10002\nCost: $5.38 Pay what you want
-LOCATION:Near Union Square / Manhattan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Shadowbanned Cultural Workers Lab presents our next event: Our Ima
- ges Under Imperialism (2026)
-DTSTART:20261002T223000Z
-DTEND:20261002T233000Z
-DTSTAMP:20261002T223000Z
-UID:event:6366:2026-10-02T18:30:00
-DESCRIPTION:https://cal.red/?event=6366\nCost: 0
-LOCATION:281 N. 7th St. 11211
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:New Works
-DTSTART:20261002T230000Z
-DTEND:20261003T000000Z
-DTSTAMP:20261002T230000Z
-UID:event:6313:2026-10-02T19:00:00
-DESCRIPTION:https://cal.red/?event=6313\nCost: 0
-LOCATION:Poets House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dil Se presents..
-DTSTART:20261002T230000Z
-DTEND:20261003T000000Z
-DTSTAMP:20261002T230000Z
-UID:event:6390:2026-10-02T19:00:00
-DESCRIPTION:https://cal.red/?event=6390\nCost: 0
-LOCATION:Mood Ring - Bushwick
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chuck Bettis / Killick Hinds / Jerry Lim\, Jeremiah Cymerman\, Loo
- mtone\, Sam Weinberg / Jules Gardener / Thorbjørn Stefansson / Henry Merm
- er
-DTSTART:20261002T233000Z
-DTEND:20261003T003000Z
-DTSTAMP:20261002T233000Z
-UID:event:6418:2026-10-02T19:30:00
-DESCRIPTION:https://cal.red/?event=6418\nCost: $20 suggested
-LOCATION:@ prospect series apt (all ages)\, 1923 8th ave\, south slope\, b
- klyn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Love Free Spirit\, Julia Santoli\, Kitchenette\, Axine M
-DTSTART:20261003T000000Z
-DTEND:20261003T010000Z
-DTSTAMP:20261003T000000Z
-UID:event:6267:2026-10-02T20:00:00
-DESCRIPTION:https://cal.red/?event=6267\nCost: $15
-LOCATION:@ hart bar (21+)\, 538 hart st.\, bushwick\, bklyn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Trickster Salon
 DTSTART:20261003T140000Z
 DTEND:20261003T150000Z
@@ -1043,6 +974,16 @@ UID:event:6376:2026-10-20T19:00:00
 DESCRIPTION:https://cal.red/?event=6376\n317 East Houston Street\nNew York
   City\nCost: 5-25 sliding scale
 LOCATION:The Parkside Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joshua Lodge #890 Charity Canadian Whiskey Tasting Event
+DTSTART:20261021T223000Z
+DTEND:20261021T233000Z
+DTSTAMP:20261021T223000Z
+UID:event:6415:2026-10-21T18:30:00
+DESCRIPTION:https://cal.red/?event=6415\nCost: 75
+LOCATION:71 West 23rd Street (Grand Lodge of New York) Flat Iron District\
+ , Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (NLNL)

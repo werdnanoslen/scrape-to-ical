@@ -513,16 +513,6 @@ DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-editing-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20261103T230000Z
-DTEND:20261104T020000Z
-DTSTAMP:20261103T230000Z
-UID:Mini Studio Production-2026-11-03T23:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
- oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Premiere Interface
 DTSTART:20261103T230000Z
 DTEND:20261104T010000Z
@@ -530,6 +520,16 @@ DTSTAMP:20261103T230000Z
 UID:The Premiere Interface-2026-11-03T23:00:00+00:00
 DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/the-premiere-i
  nterface-2/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20261103T230000Z
+DTEND:20261104T020000Z
+DTSTAMP:20261103T230000Z
+UID:Mini Studio Production-2026-11-03T23:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
+ oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
