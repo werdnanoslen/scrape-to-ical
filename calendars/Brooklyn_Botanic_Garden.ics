@@ -72,74 +72,15 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20261005T053301Z
-DTEND;VALUE=DATE:20261005T073301Z
-UID:We Can’t Dream Alone-2026-10-05 05:33:01.009325+00:00
+DTSTART;VALUE=DATE:20261005T121305Z
+DTEND;VALUE=DATE:20261005T141305Z
+UID:We Can’t Dream Alone-2026-10-05 12:13:05.298132+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
  We Can’t Dream Alone\n\nMore info:\nhttps://www.bbg.org/visit/event/we_c
  ant_dream_alone\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/202
  60902_WeCantDreamAlone_SariGoodfriend48.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Members’ Fall Mornings
-DTSTART;VALUE=DATE:20261004T040000Z
-DTEND;VALUE=DATE:20261004T060000Z
-UID:Members’ Fall Mornings-2026-10-04 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
-  October 24) | 9–10 a.m.\n\nOn weekend mornings from September 12 to Oc
- tober 25\, the Garden is open exclusively to members from 9 to 10 a.m.Lea
- rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
- g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
- humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Family Discovery Weekends
-DTSTART;VALUE=DATE:20261004T040000Z
-DTEND;VALUE=DATE:20261004T060000Z
-UID:Fall Family Discovery Weekends-2026-10-04 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | September 1
- 9–October 31\, 2026  (except October 10–11 and October 24)\n					\n\n
- \n					\n						\n							| Drop-in\n\nLearn and play together in the Discov
- ery Garden. This is a drop-in program for families with children of all ag
- es.Learn More›about Fall Family Discovery Weekends\n\nMore info:\nhttps:
- //www.bbg.org/visit/event/fall_family_discovery_weekends\n\n<img src="/img
- /uploads/manual/hero/_list_thumbnail_regular/custom_weekend-MS-20146021173
- .jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Family Story Time
-DTSTART;VALUE=DATE:20261004T040000Z
-DTEND;VALUE=DATE:20261004T060000Z
-UID:Fall Family Story Time-2026-10-04 04:00:00+00:00
-DESCRIPTION:Sunday\, October 4\; Saturdays\, October 17 & October 31\, 202
- 6 | 11 a.m.–12 p.m.\n					\n\n\n					\n						\n							| Drop-in\n\nRea
- d garden-inspired stories alongside BBG volunteers. Drop in anytime during
-  program hours to join in.Learn More›about Fall Family Story Time\n\nMor
- e info:\nhttps://www.bbg.org/visit/event/family_storytime\n\n<img src="/im
- g/uploads/manual/hero/_list_thumbnail_regular/storytime-custom-MS-49001587
- 152.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20261004T040000Z
-DTEND;VALUE=DATE:20261004T060000Z
-UID:Seasonal Highlights Tour-2026-10-04 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
- \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
- walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
- our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
- r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
- a_MS_52371474767.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -646,6 +587,19 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:GAP Information Session
+DTSTART;VALUE=DATE:20261017T040000Z
+DTEND;VALUE=DATE:20261017T060000Z
+UID:GAP Information Session-2026-10-17 04:00:00+00:00
+DESCRIPTION:Saturday\, October 17\, 2026\n					\n\n					\n					| 11 a.m.
+ –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
+ ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
+ ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
+ egular/gap2015.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall Family Story Time
 DTSTART;VALUE=DATE:20261017T040000Z
 DTEND;VALUE=DATE:20261017T060000Z
@@ -657,19 +611,6 @@ DESCRIPTION:Sunday\, October 4\; Saturdays\, October 17 & October 31\, 202
  e info:\nhttps://www.bbg.org/visit/event/family_storytime\n\n<img src="/im
  g/uploads/manual/hero/_list_thumbnail_regular/storytime-custom-MS-49001587
  152.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GAP Information Session
-DTSTART;VALUE=DATE:20261017T040000Z
-DTEND;VALUE=DATE:20261017T060000Z
-UID:GAP Information Session-2026-10-17 04:00:00+00:00
-DESCRIPTION:Saturday\, October 17\, 2026\n					\n\n					\n					| 11 a.m.
- –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
- ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
- ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
- egular/gap2015.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -732,6 +673,22 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:All-Abilities Discovery Afternoon (with VISIONS)
+DTSTART;VALUE=DATE:20261018T040000Z
+DTEND;VALUE=DATE:20261018T060000Z
+UID:All-Abilities Discovery Afternoon (with VISIONS)-2026-10-18 04:00:00+0
+ 0:00
+DESCRIPTION:Sunday\, October 18\, 2026 | 2–4 p.m.\n					\n\n\n					\n			
+ 			\n							| Preregistration Required\n\nVisitors with disabilities and t
+ heir families can explore and play in the Discovery Garden alongside train
+ ed volunteer Discovery Docents.Learn More›about All-Abilities Discovery 
+ Afternoon (with VISIONS)\n\nMore info:\nhttps://www.bbg.org/visit/event/al
+ l_abilities_discovery_afternoon_with_visions\n\n<img src="/img/uploads/her
+ o/_list_thumbnail_regular/all-abilities_LL_54410423764.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Putting Your Garden to Bed for Winter
 DTSTART;VALUE=DATE:20261018T040000Z
 DTEND;VALUE=DATE:20261018T060000Z
@@ -747,18 +704,47 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:All-Abilities Discovery Afternoon (with VISIONS)
-DTSTART;VALUE=DATE:20261018T040000Z
-DTEND;VALUE=DATE:20261018T060000Z
-UID:All-Abilities Discovery Afternoon (with VISIONS)-2026-10-18 04:00:00+0
- 0:00
-DESCRIPTION:Sunday\, October 18\, 2026 | 2–4 p.m.\n					\n\n\n					\n			
- 			\n							| Preregistration Required\n\nVisitors with disabilities and t
- heir families can explore and play in the Discovery Garden alongside train
- ed volunteer Discovery Docents.Learn More›about All-Abilities Discovery 
- Afternoon (with VISIONS)\n\nMore info:\nhttps://www.bbg.org/visit/event/al
- l_abilities_discovery_afternoon_with_visions\n\n<img src="/img/uploads/her
- o/_list_thumbnail_regular/all-abilities_LL_54410423764.jpeg" alt="" />
+SUMMARY:Botany for Horticulturists
+DTSTART;VALUE=DATE:20261020T040000Z
+DTEND;VALUE=DATE:20261020T060000Z
+UID:Botany for Horticulturists-2026-10-20 04:00:00+00:00
+DESCRIPTION:10 sessions beginning Wednesday\, September 2\; or 8 sessions 
+ beginning Thursday\, October 1 or Tuesday\, October 20\n					\n\n\n					\n
+ 						| Waitlist Only\n\nThis course requires no previous knowledge of bot
+ any and is recommended as a first course in the Certificate in Horticultur
+ e program.Learn More›about Botany for Horticulturists\n\nMore info:\nhtt
+ ps://www.bbg.org/classes/botany_for_horticulturists\n\n<img src="/img/uplo
+ ads/hero/_list_thumbnail_regular/20WAEGARBB.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:School Group Visits: Discovery Trail
+DTSTART;VALUE=DATE:20261020T040000Z
+DTEND;VALUE=DATE:20261020T060000Z
+UID:School Group Visits: Discovery Trail-2026-10-20 04:00:00+00:00
+DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | September 29
+ –November 5\, 2026 (except November 3) \n					\n\n\n					\n						\n					
+ 		| Preregistration Required\n\nUse real science tools as you explore plan
+ ts alongside Discovery Docents at our hands-on activity stations throughou
+ t the Discovery Garden.Learn More›about School Group Visits: Discovery T
+ rail\n\nMore info:\nhttps://www.bbg.org/visit/event/school_group_visits_di
+ scovery_trail\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regula
+ r/discovery-cart_BB_42604393462-1120.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20261020T040000Z
+DTEND;VALUE=DATE:20261020T060000Z
+UID:Seasonal Highlights Tour-2026-10-20 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
+ walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
+ our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
+ r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
+ a_MS_52371474767.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

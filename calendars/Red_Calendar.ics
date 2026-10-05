@@ -11,81 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:community health initiative (CHI) free clinic!
-DTSTART:20261004T160000Z
-DTEND:20261004T170000Z
-DTSTAMP:20261004T160000Z
-UID:event:6355:2026-10-04T12:00:00
-DESCRIPTION:https://cal.red/?event=6355\nCost: free
-LOCATION:another world
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pull up to our next outreach and skill share day! Another beautifu
- l scheduled day of amazing people sharing skills with the community!
-DTSTART:20261004T160000Z
-DTEND:20261004T170000Z
-DTSTAMP:20261004T160000Z
-UID:event:6364:2026-10-04T12:00:00
-DESCRIPTION:https://cal.red/?event=6364\nCost: 0
-LOCATION:Herbert von King Park
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Free clothing repair
-DTSTART:20261004T160000Z
-DTEND:20261004T170000Z
-DTSTAMP:20261004T160000Z
-UID:event:6399:2026-10-04T12:00:00
-DESCRIPTION:https://cal.red/?event=6399\nBushwick\nCost: Free
-LOCATION:1581 dekalb ave
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts For Art Free InGardens Shows
-DTSTART:20261004T180000Z
-DTEND:20261004T190000Z
-DTSTAMP:20261004T180000Z
-UID:event:6268:2026-10-04T14:00:00
-DESCRIPTION:https://cal.red/?event=6268\nCost: 🌀 free
-LOCATION:@ first street green (all ages)\, 33 e. 1st st.\, bowery\, mnhtn 
- –– outdoors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Art of Leonard Peltier Comes to NYC
-DTSTART:20261004T180000Z
-DTEND:20261004T190000Z
-DTSTAMP:20261004T180000Z
-UID:event:6409:2026-10-04T14:00:00
-DESCRIPTION:https://cal.red/?event=6409\nCost: 0
-LOCATION:Quaker Meeting House• 15 Rutherford Place\, New York\, NY 10003
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ludd club
-DTSTART:20261004T180000Z
-DTEND:20261004T190000Z
-DTSTAMP:20261004T180000Z
-UID:event:6423:2026-10-04T14:00:00
-DESCRIPTION:https://cal.red/?event=6423\nCost: 0
-LOCATION:Tompkins square park\, north side between the bathrooms.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tom Cole’s CHIMES
-DTSTART:20261004T200400Z
-DTEND:20261004T210400Z
-DTSTAMP:20261004T200400Z
-UID:event:6374:2026-10-04T16:04:00
-DESCRIPTION:https://cal.red/?event=6374\n317 East Houston Street\nNew York
-  City\nCost: 5-25 sliding scale
-LOCATION:The Parkside Lounge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NYCmesh.net Info Session & Community Dinner
-DTSTART:20261004T210000Z
-DTEND:20261004T220000Z
-DTSTAMP:20261004T210000Z
-UID:event:6410:2026-10-04T17:00:00
-DESCRIPTION:https://cal.red/?event=6410\nCost: 0
-LOCATION:Ridgewood
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:New York Modular Society 7th Anniversary Show
 DTSTART:20261005T230000Z
 DTEND:20261006T000000Z
@@ -134,6 +59,15 @@ DESCRIPTION:https://cal.red/?event=6379\n\n370 Jay Street\, Brooklyn\, NY\
 LOCATION:The Garage at NYU
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:2 Keyboards\, 3 Guitars\, 4 Saxophones
+DTSTART:20261005T230000Z
+DTEND:20261006T000000Z
+DTSTAMP:20261005T230000Z
+UID:event:6435:2026-10-05T19:00:00
+DESCRIPTION:https://cal.red/?event=6435\nCost: 🌀 notaflof
+LOCATION:@ the laundromat (all ages)\, ask a pal\, maspeth\, queens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20261006T000000Z
@@ -162,6 +96,16 @@ DTSTAMP:20261006T000000Z
 UID:event:6368:2026-10-05T20:00:00
 DESCRIPTION:https://cal.red/?event=6368\nCost: 0
 LOCATION:Online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us to tell City Council to write AI rules for New Yorkers\, n
+ ot tech billionaires.
+DTSTART:20261006T023000Z
+DTEND:20261006T033000Z
+DTSTAMP:20261006T023000Z
+UID:event:6434:2026-10-05T22:30:00
+DESCRIPTION:https://cal.red/?event=6434\nCost: 0
+LOCATION:City Hall Park • 250 Broadway\, New York\, NY 10007 US
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -209,6 +153,17 @@ DTSTAMP:20261006T230000Z
 UID:event:6372:2026-10-06T19:00:00
 DESCRIPTION:https://cal.red/?event=6372\nCost: 0
 LOCATION:@seventhheaven.bar
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Weinberg Residency: Sam Weinberg Trio (ft. Thorbjørn Stefansson\,
+  Henry Mermer)\, Amaranth (Katie Webster\, Anna Fortuna\, Nick Joz\, Maliq
+  Wynn)
+DTSTART:20261007T000000Z
+DTEND:20261007T010000Z
+DTSTAMP:20261007T000000Z
+UID:event:6436:2026-10-06T20:00:00
+DESCRIPTION:https://cal.red/?event=6436\nCost: $20 🌀 notaflof
+LOCATION:@ sisters (all ages)\, 900 fulton st\, clinton hill\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Morning Drifts\, William DeLee\, Nathan O’Flynn-Pruitt
@@ -279,6 +234,17 @@ UID:event:6371:2026-10-08T19:00:00
 DESCRIPTION:https://cal.red/?event=6371\nCost: $20 if you're not a subscri
  ber
 LOCATION:Tavern 29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🇵🇸FUNDRAISER FOR GAZA🇵🇸
+DTSTART:20261009T200000Z
+DTEND:20261009T210000Z
+DTSTAMP:20261009T200000Z
+UID:event:6433:2026-10-09T16:00:00
+DESCRIPTION:https://cal.red/?event=6433\n📍Widdi Hall\, 5602 6th Ave\, B
+ rooklyn\, NY 11220 (Side Entrance on 56th St.)\nCost: 🎟️Entry tickets
+  are $10!
+LOCATION:[Sunset Park]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Total Recall
@@ -840,6 +806,15 @@ DTSTAMP:20261018T230000Z
 UID:event:6384:2026-10-18T19:00:00
 DESCRIPTION:https://cal.red/?event=6384\nCost: $40
 LOCATION:Crown Heights Brooklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Palestine Will Be Free: The Story of Hanzala
+DTSTART:20261018T230000Z
+DTEND:20261019T000000Z
+DTSTAMP:20261018T230000Z
+UID:event:6432:2026-10-18T19:00:00
+DESCRIPTION:https://cal.red/?event=6432\nCost: 35+
+LOCATION:Roulette
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wet Spot Presents DESIRE: A Connie's Clown Room Experience
