@@ -53,6 +53,16 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ableton Move Certification
+DTSTART:20261008T180000Z
+DTEND:20261008T210000Z
+DTSTAMP:20261008T180000Z
+UID:Ableton Move Certification-2026-10-08T18:00:00+00:00
+DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
+ ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Capture Your World: Teen Photography Bootcamp - Cycle 4
 DTSTART:20261008T200000Z
 DTEND:20261008T220000Z
@@ -66,16 +76,6 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/class/capture-your-world
  d-73.9477896!16s%2Fg%2F1tqtysw9?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAF
  QAw%3D%3D
 LOCATION:Clarendon Library
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ableton Move Certification
-DTSTART:20261008T180000Z
-DTEND:20261008T210000Z
-DTSTAMP:20261008T180000Z
-UID:Ableton Move Certification-2026-10-08T18:00:00+00:00
-DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/ableton-move-c
- ertification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall 2026 Exhibitions: Preview & Reception
@@ -118,16 +118,6 @@ DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fundamentals of Screenwriting\, online
-DTSTART:20261013T160000Z
-DTEND:20261013T190000Z
-DTSTAMP:20261013T160000Z
-UID:Fundamentals of Screenwriting\, online-2026-10-13T16:00:00+00:00
-DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/fundamentals-o
- f-screenwriting/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Teen Filmmaking Bootcamp Cycle 9 (Fall 2026)
 DTSTART:20261013T200000Z
 DTEND:20261013T220000Z
@@ -137,6 +127,16 @@ DESCRIPTION:Cost: free / application \nhttps://bricartsmedia.org/class/tee
  n-filmmaking-bootcamp-cycle-9-fall-2026/\nhttps://goo.gl/maps/vX4YR8kcVXHm
  bBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fundamentals of Screenwriting\, online
+DTSTART:20261013T160000Z
+DTEND:20261013T190000Z
+DTSTAMP:20261013T160000Z
+UID:Fundamentals of Screenwriting\, online-2026-10-13T16:00:00+00:00
+DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/fundamentals-o
+ f-screenwriting/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Radio Podcasting
@@ -484,20 +484,20 @@ LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere
-DTSTART:20261102T190000Z
-DTEND:20261102T220000Z
-DTSTAMP:20261102T190000Z
-UID:Video Editing with Premiere-2026-11-02T19:00:00+00:00
+DTSTART:20261102T230000Z
+DTEND:20261103T020000Z
+DTSTAMP:20261102T230000Z
+UID:Video Editing with Premiere-2026-11-02T23:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-editing-
  with-premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Editing with Premiere
-DTSTART:20261102T230000Z
-DTEND:20261103T020000Z
-DTSTAMP:20261102T230000Z
-UID:Video Editing with Premiere-2026-11-02T23:00:00+00:00
+DTSTART:20261102T190000Z
+DTEND:20261102T220000Z
+DTSTAMP:20261102T190000Z
+UID:Video Editing with Premiere-2026-11-02T19:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-editing-
  with-premiere/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
