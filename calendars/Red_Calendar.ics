@@ -20,16 +20,6 @@ DESCRIPTION:https://cal.red/?event=6426\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Too Fat for China
-DTSTART:20261006T223000Z
-DTEND:20261006T233000Z
-DTSTAMP:20261006T223000Z
-UID:event:6245:2026-10-06T18:30:00
-DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
- nCost: 25.00
-LOCATION:The RAT NYC (DUMBO)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:An Evening of Pizza & Poetry
 DTSTART:20261006T223000Z
 DTEND:20261006T233000Z
@@ -367,6 +357,15 @@ UID:event:6266:2026-10-10T20:00:00
 DESCRIPTION:https://cal.red/?event=6266\nCost: 🌀 free / notaflof
 LOCATION:@ mama tried (all ages)\, 787 3rd ave\, sunset park\, bklyn –
  – usually outdoors in backyard
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amphibian (PA) / Mouths Agape / Mike Alfieri
+DTSTART:20261011T000000Z
+DTEND:20261011T010000Z
+DTSTAMP:20261011T000000Z
+UID:event:6463:2026-10-10T20:00:00
+DESCRIPTION:https://cal.red/?event=6463\nCost: 10
+LOCATION:610 Dean St (Prospect Heights)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Surrealist Ball - Performance Art by Rute Ventura with Orchid McRa

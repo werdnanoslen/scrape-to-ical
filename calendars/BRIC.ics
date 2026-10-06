@@ -263,16 +263,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/mobile-phone-photo
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20261019T180000Z
-DTEND:20261019T210000Z
-DTSTAMP:20261019T180000Z
-UID:Mini Studio Production-2026-10-19T18:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
- oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Audition Essentials\, in-person
 DTSTART:20261019T220000Z
 DTEND:20261020T010000Z
@@ -280,6 +270,16 @@ DTSTAMP:20261019T220000Z
 UID:Audition Essentials\, in-person-2026-10-19T22:00:00+00:00
 DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/audition-essen
  tials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mini Studio Production
+DTSTART:20261019T180000Z
+DTEND:20261019T210000Z
+DTSTAMP:20261019T180000Z
+UID:Mini Studio Production-2026-10-19T18:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
+ oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
