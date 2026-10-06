@@ -72,9 +72,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20261006T034022Z
-DTEND;VALUE=DATE:20261006T054022Z
-UID:We Can’t Dream Alone-2026-10-06 03:40:22.604085+00:00
+DTSTART;VALUE=DATE:20261006T083652Z
+DTEND;VALUE=DATE:20261006T103652Z
+UID:We Can’t Dream Alone-2026-10-06 08:36:52.004646+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
@@ -745,6 +745,49 @@ DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
  our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
  r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
  a_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall First Discoveries
+DTSTART;VALUE=DATE:20261021T040000Z
+DTEND;VALUE=DATE:20261021T060000Z
+UID:Fall First Discoveries-2026-10-21 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
+ –November 6\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot 
+ up a plant\, create a craft\, read a story\, and use your senses to explor
+ e nature at special Discovery Garden activity stations designed for toddle
+ rs.Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bb
+ g.org/visit/event/fall_first_discoveries\n\n<img src="/img/uploads/hero/_l
+ ist_thumbnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20261021T040000Z
+DTEND;VALUE=DATE:20261021T060000Z
+UID:Seasonal Highlights Tour-2026-10-21 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
+ walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
+ our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
+ r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
+ a_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discovery Fall Seed Exchange
+DTSTART;VALUE=DATE:20261021T040000Z
+DTEND;VALUE=DATE:20261021T060000Z
+UID:Discovery Fall Seed Exchange-2026-10-21 04:00:00+00:00
+DESCRIPTION:Wednesday\, October 21\, 2026 | 4–6 p.m.\n					\n\n\n					\n
+ 						\n							| Drop-in\n\nCome celebrate the end of the growing season w
+ ith a Seed Exchange in the Discovery Garden!Learn More›about Discovery F
+ all Seed Exchange\n\nMore info:\nhttps://www.bbg.org/visit/event/discovery
+ _fall_seed_exchange\n\n<img src="/img/uploads/hero/_list_thumbnail_regular
+ /seed-saving-JW-54910715048.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
