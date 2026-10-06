@@ -754,6 +754,16 @@ DESCRIPTION:https://cal.red/?event=6384\nCost: $40
 LOCATION:Crown Heights Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Belladonna Presents Arthur Katrina\, Matthias Kodat\, and Mohammed
+  Zenia
+DTSTART:20261015T233000Z
+DTEND:20261016T003000Z
+DTSTAMP:20261015T233000Z
+UID:event:6460:2026-10-15T19:30:00
+DESCRIPTION:https://cal.red/?event=6460\n292 E. 3rd St\nLES\nCost: Free
+LOCATION:Bullet Space
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
  𝘛 𝘐𝘚𝘕’𝘛 𝘛𝘏𝘌 𝘛𝘖𝘔 𝘍𝘖𝘖𝘓𝘌
  𝘙𝘠 𝘖𝘍 𝘍𝘈𝘓𝘓. 𝐒𝐇𝐀𝐑𝐏𝐄𝐍 𝐘𝐎
@@ -769,6 +779,16 @@ UID:event:5977:2026-10-15T20:00:00
 DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
  h event on website.\nCost: Variable
 LOCATION:Pageant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALZA Festival
+DTSTART:20261016T220000Z
+DTEND:20261016T230000Z
+DTSTAMP:20261016T220000Z
+UID:event:6459:2026-10-16T18:00:00
+DESCRIPTION:https://cal.red/?event=6459\nCost: $20-25
+LOCATION:AMC 19th Street East 6\, 890 Broadway\, NY\, NY 10013. Flatiron/U
+ nion Square
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony Kushner's A Bright Room Called Day
@@ -823,6 +843,16 @@ DTSTAMP:20261017T020000Z
 UID:event:6437:2026-10-16T22:00:00
 DESCRIPTION:https://cal.red/?event=6437\nCost: 13
 LOCATION:Alphaville\, Bushwick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALZA Festival
+DTSTART:20261017T140000Z
+DTEND:20261017T150000Z
+DTSTAMP:20261017T140000Z
+UID:event:6459:2026-10-17T10:00:00
+DESCRIPTION:https://cal.red/?event=6459\nCost: $20-25
+LOCATION:AMC 19th Street East 6\, 890 Broadway\, NY\, NY 10013. Flatiron/U
+ nion Square
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -911,6 +941,16 @@ DESCRIPTION:https://cal.red/?event=6440\n303 Saratoga Ave\, Brooklyn NY 11
  233\nOcean Hill / Brownsville\nCost: suggested donation $20 (all are welco
  me)
 LOCATION:Delight Factory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALZA Festival
+DTSTART:20261018T143000Z
+DTEND:20261018T153000Z
+DTSTAMP:20261018T143000Z
+UID:event:6459:2026-10-18T10:30:00
+DESCRIPTION:https://cal.red/?event=6459\nCost: $20-25
+LOCATION:AMC 19th Street East 6\, 890 Broadway\, NY\, NY 10013. Flatiron/U
+ nion Square
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
