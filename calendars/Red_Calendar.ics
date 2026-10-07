@@ -58,6 +58,17 @@ DESCRIPTION:https://cal.red/?event=6456\nCost: 10
 LOCATION:The Bureau 208 West 13th st #208
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Join creative technologist Rubiat Fusigboye for a low-stakes show-
+ and-tell dedicated to creative coding\, physical computing\, and experimen
+ ts that may or may not be finished yet.
+DTSTART:20261006T230000Z
+DTEND:20261007T000000Z
+DTSTAMP:20261006T230000Z
+UID:event:6467:2026-10-06T19:00:00
+DESCRIPTION:https://cal.red/?event=6467\nCost: 15
+LOCATION:Index Chinatown
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Weinberg Residency: Sam Weinberg Trio (ft. Thorbjørn Stefansson\,
   Henry Mermer)\, Amaranth (Katie Webster\, Anna Fortuna\, Nick Joz\, Maliq
   Wynn)
@@ -198,6 +209,17 @@ DESCRIPTION:https://cal.red/?event=6442\nCost: $15 Online // $20 Door
 LOCATION:The Makers' Space\, 281 N 7th St\, Williamsburg\, Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Friday 10/9 ABC No Rio keeps the DIY and the politics but gets jus
+ t a teensy bit more melodic than usual:
+DTSTART:20261009T220000Z
+DTEND:20261009T230000Z
+DTSTAMP:20261009T220000Z
+UID:event:6466:2026-10-09T18:00:00
+DESCRIPTION:https://cal.red/?event=6466\n411 S 5th St in Brooklyn\nCost: $
+ 15-50 sliding scale
+LOCATION:at @the_p.i.t._
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🪆 Solidarity Across Time: A Conversation with Molly Crabapple
 DTSTART:20261009T223000Z
 DTEND:20261009T233000Z
@@ -236,13 +258,23 @@ DESCRIPTION:https://cal.red/?event=6438\n303 Saratoga Ave\, Brooklyn NY 11
 LOCATION:Delight Factory
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Celebrate 🎉 4 years of 128 LIT in Print
+SUMMARY:Celebrate 🎉 4 years of 128 LIT
 DTSTART:20261009T233000Z
 DTEND:20261010T003000Z
 DTSTAMP:20261009T233000Z
-UID:event:6457:2026-10-09T19:30:00
-DESCRIPTION:https://cal.red/?event=6457\nCost: 0
-LOCATION:Black Spring Books
+UID:event:6465:2026-10-09T19:30:00
+DESCRIPTION:https://cal.red/?event=6465\nCost: 0
+LOCATION:#blackspringbooks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20261009T233000Z
+DTEND:20261010T003000Z
+DTSTAMP:20261009T233000Z
+UID:event:6469:2026-10-09T19:30:00
+DESCRIPTION:https://cal.red/?event=6469\n2640 Grand Concourse\, Bronx\, NY
+  10458\nCost: 😍 Free Event
+LOCATION:Edgar Allan Poe Cottage
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Experience and Internet Museum 📲👩🏻‍🔬
@@ -500,6 +532,15 @@ DTSTAMP:20261011T230000Z
 UID:event:6449:2026-10-11T19:00:00
 DESCRIPTION:https://cal.red/?event=6449\nCost: 0
 LOCATION:Topos Too
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mana Muscarsel Isla Book Launch + Reading Experiments Vol. 1
+DTSTART:20261011T230000Z
+DTEND:20261012T000000Z
+DTSTAMP:20261011T230000Z
+UID:event:6464:2026-10-11T19:00:00
+DESCRIPTION:https://cal.red/?event=6464\nCost: 0
+LOCATION:Jackson Heights
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌬️ October has arrived\, enchanting the lands with amethyst a
@@ -1412,6 +1453,16 @@ UID:event:6245:2026-11-03T18:30:00
 DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
  nCost: 25.00
 LOCATION:The RAT NYC (DUMBO)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Real Life Tonight
+DTSTART:20261104T023000Z
+DTEND:20261104T033000Z
+DTSTAMP:20261104T023000Z
+UID:event:6468:2026-11-03T21:30:00
+DESCRIPTION:https://cal.red/?event=6468\n21 A Clinton St. New York\, NY\nL
+ ower East Side\nCost: $15 online and at the door
+LOCATION:Caveat NYC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (NLNL)
