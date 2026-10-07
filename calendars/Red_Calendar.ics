@@ -30,19 +30,6 @@ DESCRIPTION:https://cal.red/?event=6394\nCost: $10
 LOCATION:743 Dekalbe Avenue (Dreamsong Music Lab) Bed-Stuy
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Brendan Mahan discusses and signs OVERCOMING THE WALL OF AWFUL wit
- h Dr. Zach Gershon
-DTSTART:20261007T230000Z
-DTEND:20261008T000000Z
-DTSTAMP:20261007T230000Z
-UID:event:6397:2026-10-07T19:00:00
-DESCRIPTION:https://cal.red/?event=6397\n\n82nd & Broadway\n\n2289 Broadwa
- y\n\nNew York\, NY\nCost: A purchase of OVERCOMING THE WALL OF AWFUL  from
-  Barnes & Noble Upper West Side is required to join the signing line at th
- is event.
-LOCATION:Upper West Side (82nd & Broadway)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:
 DTSTART:20261007T230000Z
 DTEND:20261008T000000Z
@@ -348,6 +335,15 @@ DTSTAMP:20261011T003000Z
 UID:event:6350:2026-10-10T20:30:00
 DESCRIPTION:https://cal.red/?event=6350\nCost: $30
 LOCATION:Dada Bar in Ridgewood Queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Run/Walk in Prospect Park for Gaza!
+DTSTART:20261011T110000Z
+DTEND:20261011T120000Z
+DTSTAMP:20261011T110000Z
+UID:event:6474:2026-10-11T07:00:00
+DESCRIPTION:https://cal.red/?event=6474\nCost: Optional
+LOCATION:Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:How to Look at Plants: Observing your Urban Ecosystem
@@ -1067,6 +1063,16 @@ UID:event:6376:2026-10-20T19:00:00
 DESCRIPTION:https://cal.red/?event=6376\n317 East Houston Street\nNew York
   City\nCost: 5-25 sliding scale
 LOCATION:The Parkside Lounge
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Astronomy on Tap NYC: The Dark Night
+DTSTART:20261020T230000Z
+DTEND:20261021T000000Z
+DTSTAMP:20261020T230000Z
+UID:event:6475:2026-10-20T19:00:00
+DESCRIPTION:https://cal.red/?event=6475\nCost: 0
+LOCATION:Somethin' Else / DeKalb Market Hall\, 445 Albee Square W\, Brookl
+ yn\, NY 11201 (Downtown Brooklyn)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Joshua Lodge #890 Charity Canadian Whiskey Tasting Event
