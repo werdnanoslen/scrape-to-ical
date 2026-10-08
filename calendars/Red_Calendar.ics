@@ -49,6 +49,16 @@ DESCRIPTION:https://cal.red/?event=6371\nCost: $20 if you're not a subscri
 LOCATION:Tavern 29
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tyshawn Sorey & Tim Dahl\, Chaser\, Keith Fullerton Whitman & Chuc
+ k Bettis\, Will Bollinger
+DTSTART:20261009T000000Z
+DTEND:20261009T010000Z
+DTSTAMP:20261009T000000Z
+UID:event:6487:2026-10-08T20:00:00
+DESCRIPTION:https://cal.red/?event=6487\nCost: $20
+LOCATION:@ tv eye (21+)\, 16-47 weirfield st.\, ridgewood\, queens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🇵🇸FUNDRAISER FOR GAZA🇵🇸
 DTSTART:20261009T200000Z
 DTEND:20261009T210000Z
@@ -174,6 +184,15 @@ DESCRIPTION:https://cal.red/?event=6484\nCost: $20/ticket
 LOCATION:Regal Union Square Theater
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Slow Circuits: Digital Care and Data Maintenance
+DTSTART:20261010T160000Z
+DTEND:20261010T170000Z
+DTSTAMP:20261010T160000Z
+UID:event:6486:2026-10-10T12:00:00
+DESCRIPTION:https://cal.red/?event=6486\nCost: 0
+LOCATION:Greenpoint Public Library
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Film Screening: Javaid Shampoo (2004) Director's Cut
 DTSTART:20261010T170000Z
 DTEND:20261010T180000Z
@@ -250,6 +269,16 @@ DESCRIPTION:https://cal.red/?event=6384\nCost: $40
 LOCATION:Crown Heights Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The December 4 Legal Committee presents DEPOSE: LUIGI MANGIONE\, T
+ HE RIGHT TO HEALTH\, AND THE UNFINISHED AMERICAN REVOLUTION
+DTSTART:20261010T230000Z
+DTEND:20261011T000000Z
+DTSTAMP:20261010T230000Z
+UID:event:6492:2026-10-10T19:00:00
+DESCRIPTION:https://cal.red/?event=6492\nCost: 0
+LOCATION:585 Woodward Ave\, Ridgewood\, NY 11385
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Pangea: Unleashed
 DTSTART:20261010T233000Z
 DTEND:20261011T003000Z
@@ -305,15 +334,6 @@ DTSTAMP:20261011T150000Z
 UID:event:6398:2026-10-11T11:00:00
 DESCRIPTION:https://cal.red/?event=6398\nCost: 0
 LOCATION:Green Oasis Community Garden\, 372 E 8th Street\, East Village
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HOW TO LOOK AT PLANTS
-DTSTART:20261011T150000Z
-DTEND:20261011T160000Z
-DTSTAMP:20261011T150000Z
-UID:event:6446:2026-10-11T11:00:00
-DESCRIPTION:https://cal.red/?event=6446\nCost: 0
-LOCATION:East Village
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arts For Art Free InGardens Shows
@@ -400,15 +420,6 @@ UID:event:6382:2026-10-11T19:00:00
 DESCRIPTION:https://cal.red/?event=6382\nGowanus\, Brooklyn\nCost: free/sl
  iding scale
 LOCATION:KAJE (74 15th St) - upstairs level
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tony Kushner's A Bright Room Called Day
-DTSTART:20261011T230000Z
-DTEND:20261012T000000Z
-DTSTAMP:20261011T230000Z
-UID:event:6384:2026-10-11T19:00:00
-DESCRIPTION:https://cal.red/?event=6384\nCost: $40
-LOCATION:Crown Heights Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:House of Scorpio Sinema Club: LES VAMPYRES (2000)\, directed by Ja
@@ -558,6 +569,18 @@ DESCRIPTION:https://cal.red/?event=6451\nCost: 10
 LOCATION:Index Chinatown
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[FUNDRAISER] Input x Cybersoul: Fundraiser to Fight Deed Theft: sh
+ ekdash\, Rose Kourts\, Sasha Rome b2b Joshua Orange\, CAMILLA\, LeCamille\
+ , DAYE. b2b GEOTHEORY
+DTSTART:20261014T020000Z
+DTEND:20261014T030000Z
+DTSTAMP:20261014T020000Z
+UID:event:6488:2026-10-13T22:00:00
+DESCRIPTION:https://cal.red/?event=6488\nCost: 🌀 notaflof
+LOCATION:@ bossa nova civic club (21+)\, 1271 myrtle ave\, bushwick\, bkly
+ n
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Word Play Social: Things That Go Boggle in the Night
 DTSTART:20261014T223000Z
 DTEND:20261014T233000Z
@@ -595,6 +618,17 @@ DESCRIPTION:https://cal.red/?event=6455\nCost: 0
 LOCATION:KGB Red Room
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Morphism NYC: Cyberimp\, Vinton Surf\, NO EYES\, Trust Fund Uzu\, 
+ Smoovebrain\, Sage Hardware\, Bubblegum Octopus
+DTSTART:20261014T230000Z
+DTEND:20261015T000000Z
+DTSTAMP:20261014T230000Z
+UID:event:6490:2026-10-14T19:00:00
+DESCRIPTION:https://cal.red/?event=6490\nCost: $15 🌀notaflof
+LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
+ s
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🌬️ October has arrived\, enchanting the lands with amethyst a
  nd cooling the air around our ears. Here is a look at this month’s progr
  amming:
@@ -604,6 +638,16 @@ DTSTAMP:20261015T000000Z
 UID:event:6448:2026-10-14T20:00:00
 DESCRIPTION:https://cal.red/?event=6448\nCost: See link
 LOCATION:Performance Space New York
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Assembly No. 35: Christina Wheeler / Luke Stewart / Trae Crudup\, 
+ Scott Li\, YeYelle (DJ)
+DTSTART:20261015T000000Z
+DTEND:20261015T010000Z
+DTSTAMP:20261015T000000Z
+UID:event:6489:2026-10-14T20:00:00
+DESCRIPTION:https://cal.red/?event=6489\nCost: 🌀 notaflof
+LOCATION:@ sisters (all ages)\, 900 fulton st\, clinton hill\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HOW TO START A NEWSLETTER
@@ -642,6 +686,15 @@ DTSTAMP:20261015T220000Z
 UID:event:6447:2026-10-15T18:00:00
 DESCRIPTION:https://cal.red/?event=6447\nCost: 0
 LOCATION:Various locations
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cultural Capital: Screening & Talkback
+DTSTART:20261015T220000Z
+DTEND:20261015T230000Z
+DTSTAMP:20261015T220000Z
+UID:event:6485:2026-10-15T18:00:00
+DESCRIPTION:https://cal.red/?event=6485\nCost: Free
+LOCATION:Emily Harvey Foundation (537 Broadway\, Floor 2)\, SoHo
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SALON CREATIVES VOL. VIII
@@ -736,6 +789,15 @@ UID:event:6459:2026-10-16T18:00:00
 DESCRIPTION:https://cal.red/?event=6459\nCost: $20-25
 LOCATION:AMC 19th Street East 6\, 890 Broadway\, NY\, NY 10013. Flatiron/U
  nion Square
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maneka\, Debbie Dopamine\, Ribbon\, Sky Pocket
+DTSTART:20261016T223000Z
+DTEND:20261016T233000Z
+DTSTAMP:20261016T223000Z
+UID:event:6491:2026-10-16T18:30:00
+DESCRIPTION:https://cal.red/?event=6491\nCost: $14
+LOCATION:@ purgatory (21+)\, 675 central ave\, bushwick\, bklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tony Kushner's A Bright Room Called Day
@@ -875,6 +937,16 @@ DTSTAMP:20261017T230000Z
 UID:event:6482:2026-10-17T19:00:00
 DESCRIPTION:https://cal.red/?event=6482\nNEW YORK\, 10003\nCost: $25-$108
 LOCATION:La MaMa Experimental Theatre 66 EAST 4TH STREET
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faccia Bruta\, Iker Munduate\, Tie Die\, Karol Konstancia
+DTSTART:20261017T230000Z
+DTEND:20261018T000000Z
+DTSTAMP:20261017T230000Z
+UID:event:6493:2026-10-17T19:00:00
+DESCRIPTION:https://cal.red/?event=6493\nCost: 🌀 notaflof
+LOCATION:@ skinny apartment (all ages)\, ridgewood\, queens –– email s
+ kinnyapartment@aol.com for address
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌬️ October has arrived\, enchanting the lands with amethyst a
