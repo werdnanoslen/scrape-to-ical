@@ -506,4 +506,34 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/event/reel-sisters-bric-
  25/09/Reel-sisters-200x200.jpg" alt="" />
 LOCATION:BRIC House
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DaVinci Resolve for Editors
+DTSTART:20261106T230000Z
+DTEND:20261107T020000Z
+DTSTAMP:20261106T230000Z
+UID:DaVinci Resolve for Editors-2026-11-06T23:00:00+00:00
+DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
+ e-for-editors/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ableton Live Essentials
+DTSTART:20261106T180000Z
+DTEND:20261106T220000Z
+DTSTAMP:20261106T180000Z
+UID:Ableton Live Essentials-2026-11-06T18:00:00+00:00
+DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
+ ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio Podcasting
+DTSTART:20261106T220000Z
+DTEND:20261107T020000Z
+DTSTAMP:20261106T220000Z
+UID:Studio Podcasting-2026-11-06T22:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
+ ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
 END:VCALENDAR
