@@ -943,8 +943,8 @@ SUMMARY:Faccia Bruta\, Iker Munduate\, Tie Die\, Karol Konstancia
 DTSTART:20261017T230000Z
 DTEND:20261018T000000Z
 DTSTAMP:20261017T230000Z
-UID:event:6493:2026-10-17T19:00:00
-DESCRIPTION:https://cal.red/?event=6493\nCost: 🌀 notaflof
+UID:event:6495:2026-10-17T19:00:00
+DESCRIPTION:https://cal.red/?event=6495\nCost: $15 🌀 notaflof
 LOCATION:@ skinny apartment (all ages)\, ridgewood\, queens –– email s
  kinnyapartment@aol.com for address
 END:VEVENT
@@ -1731,6 +1731,15 @@ UID:event:6332:2026-11-27T18:00:00
 DESCRIPTION:https://cal.red/?event=6332\n506 5th Ave\, Brooklyn\, NY 11215
  \nSouth Slope\nCost: 0
 LOCATION:Young Ethel's
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Split My Soul
+DTSTART:20261206T003000Z
+DTEND:20261206T013000Z
+DTSTAMP:20261206T003000Z
+UID:event:6494:2026-12-05T19:30:00
+DESCRIPTION:https://cal.red/?event=6494\nCost: 33.85 (includes fees)
+LOCATION:Judson Memorial Church\, Greenwich Village
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:community health initiative (CHI) free clinic!
