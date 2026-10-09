@@ -72,61 +72,15 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20261009T064400Z
-DTEND;VALUE=DATE:20261009T084400Z
-UID:We Can’t Dream Alone-2026-10-09 06:44:00.913763+00:00
+DTSTART;VALUE=DATE:20261009T135808Z
+DTEND;VALUE=DATE:20261009T155808Z
+UID:We Can’t Dream Alone-2026-10-09 13:58:08.386494+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
  We Can’t Dream Alone\n\nMore info:\nhttps://www.bbg.org/visit/event/we_c
  ant_dream_alone\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/202
  60902_WeCantDreamAlone_SariGoodfriend48.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:School Group Visits: Discovery Trail
-DTSTART;VALUE=DATE:20261008T040000Z
-DTEND;VALUE=DATE:20261008T060000Z
-UID:School Group Visits: Discovery Trail-2026-10-08 04:00:00+00:00
-DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | September 29
- –November 5\, 2026 (except November 3) \n					\n\n\n					\n						\n					
- 		| Preregistration Required\n\nUse real science tools as you explore plan
- ts alongside Discovery Docents at our hands-on activity stations throughou
- t the Discovery Garden.Learn More›about School Group Visits: Discovery T
- rail\n\nMore info:\nhttps://www.bbg.org/visit/event/school_group_visits_di
- scovery_trail\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regula
- r/discovery-cart_BB_42604393462-1120.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20261008T040000Z
-DTEND;VALUE=DATE:20261008T060000Z
-UID:Seasonal Highlights Tour-2026-10-08 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
- \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
- walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
- our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
- r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
- a_MS_52371474767.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Archtober: Ancestral Ecologies Sunset Tour
-DTSTART;VALUE=DATE:20261008T040000Z
-DTEND;VALUE=DATE:20261008T060000Z
-UID:Archtober: Ancestral Ecologies Sunset Tour-2026-10-08 04:00:00+00:00
-DESCRIPTION:Thursday\, October 8\, 2026 | 5–6 p.m.\n\nJoin BBG’s curat
- orial team for a special tour of Ancestral Ecologies\, a site-specific exh
- ibition by the inaugural fellows of BBG’s new Heidi Nitze Art × Environ
- ment Fellowship\, presented in conjunction with the 2026 Archtober festiva
- l.Learn More›about Archtober: Ancestral Ecologies Sunset Tour\n\nMore in
- fo:\nhttps://www.bbg.org/visit/event/ancestral_ecologies_sunset_tour_archt
- ober\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Nitze-Fellows_
- JW_260515-002-2800x1200-c.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -453,22 +407,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Accessible Birding Tour with Verbal Description
-DTSTART;VALUE=DATE:20261017T040000Z
-DTEND;VALUE=DATE:20261017T060000Z
-UID:Accessible Birding Tour with Verbal Description-2026-10-17 04:00:00+00
- :00
-DESCRIPTION:Saturday\, October 17\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n
- \n					\n						\n							| Preregistration Required\n\nJoin an accessible b
- irding tour at the Garden led by educator Alexandra Wang (Avian Alex)\, M.
- S. Ed.Learn More›about Accessible Birding Tour with Verbal Description\n
- \nMore info:\nhttps://www.bbg.org/visit/event/accessible_birding_tour_with
- _verbal_description\n\n<img src="/img/uploads/hero/_list_thumbnail_regular
- /hummingbirds-NFG_JW_260917-002-2800x1200.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fall Family Discovery Weekends
 DTSTART;VALUE=DATE:20261017T040000Z
 DTEND;VALUE=DATE:20261017T060000Z
@@ -485,15 +423,18 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:GAP Information Session
+SUMMARY:Accessible Birding Tour with Verbal Description
 DTSTART;VALUE=DATE:20261017T040000Z
 DTEND;VALUE=DATE:20261017T060000Z
-UID:GAP Information Session-2026-10-17 04:00:00+00:00
-DESCRIPTION:Saturday\, October 17\, 2026\n					\n\n					\n					| 11 a.m.
- –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
- ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
- ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
- egular/gap2015.jpg" alt="" />
+UID:Accessible Birding Tour with Verbal Description-2026-10-17 04:00:00+00
+ :00
+DESCRIPTION:Saturday\, October 17\, 2026 | 10:30 a.m.–12 p.m.\n					\n\n
+ \n					\n						\n							| Preregistration Required\n\nJoin an accessible b
+ irding tour at the Garden led by educator Alexandra Wang (Avian Alex)\, M.
+ S. Ed.Learn More›about Accessible Birding Tour with Verbal Description\n
+ \nMore info:\nhttps://www.bbg.org/visit/event/accessible_birding_tour_with
+ _verbal_description\n\n<img src="/img/uploads/hero/_list_thumbnail_regular
+ /hummingbirds-NFG_JW_260917-002-2800x1200.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -509,6 +450,19 @@ DESCRIPTION:Sunday\, October 4\; Saturdays\, October 17 & October 31\, 202
  e info:\nhttps://www.bbg.org/visit/event/family_storytime\n\n<img src="/im
  g/uploads/manual/hero/_list_thumbnail_regular/storytime-custom-MS-49001587
  152.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GAP Information Session
+DTSTART;VALUE=DATE:20261017T040000Z
+DTEND;VALUE=DATE:20261017T060000Z
+UID:GAP Information Session-2026-10-17 04:00:00+00:00
+DESCRIPTION:Saturday\, October 17\, 2026\n					\n\n					\n					| 11 a.m.
+ –1 p.m.					\n					\n\n\n					\n						\n							| Preregistration Requir
+ ed\n\n\n\nMore info:\nhttps://www.bbg.org/visit/event/garden_apprentice_pr
+ ogram_information_session\n\n<img src="/img/uploads/hero/_list_thumbnail_r
+ egular/gap2015.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -759,6 +713,66 @@ DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
  our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
  r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
  a_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall Harvest Festival
+DTSTART;VALUE=DATE:20261024T040000Z
+DTEND;VALUE=DATE:20261024T060000Z
+UID:Fall Harvest Festival-2026-10-24 04:00:00+00:00
+DESCRIPTION:Saturday\, October 24\, 2026 | 11 a.m.–5 p.m. (last entry 4
+ :30 p.m.)\n					\n\n\n					\n						\n							| Ticketed Event\n\nEnjoy liv
+ e music\, hands-on activities for families\, a cider and beer garden\, pum
+ pkin-decorating\, and more. Come dressed in your best flannel—or a costu
+ me for an afternoon parade!Learn More›about Fall Harvest Festival\n\nMor
+ e info:\nhttps://www.bbg.org/visit/event/fall_harvest_festival\n\n<img src
+ ="/img/uploads/manual/hero/_list_thumbnail_regular/BBG_Thumbnail_HarvestNE
+ ON_1120x744_RR6.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Natural Perfume Blending
+DTSTART;VALUE=DATE:20261024T040000Z
+DTEND;VALUE=DATE:20261024T060000Z
+UID:Natural Perfume Blending-2026-10-24 04:00:00+00:00
+DESCRIPTION:Single session on Saturday\, October 24 or Saturday\, November
+  21\, 2026 | 12:30–4 p.m. \n					\n\n\n					\n						\n							| Preregist
+ ration Required\n\nGain a basic understanding of the sense of smell\, the 
+ history of perfume\, the advent of synthetic ingredients\, and the return 
+ to naturals. Leave with two bottles of your own bespoke perfume!Learn More
+ ›about Natural Perfume Blending\n\nMore info:\nhttps://www.bbg.org/class
+ es/natural_perfume_blending\n\n<img src="/img/uploads/hero/_list_thumbnail
+ _regular/naturalperfume_13541411134.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20261024T040000Z
+DTEND;VALUE=DATE:20261024T060000Z
+UID:Seasonal Highlights Tour-2026-10-24 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
+ walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
+ our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
+ r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
+ a_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chinese Brush Painting
+DTSTART;VALUE=DATE:20261024T040000Z
+DTEND;VALUE=DATE:20261024T060000Z
+UID:Chinese Brush Painting-2026-10-24 04:00:00+00:00
+DESCRIPTION:5 Saturdays: October 31–December 5\, 2026 (except November 2
+ 8) | 1:30–3:30 p.m.\n					\n\n\n					\n						| Waitlist Only\n\nLearn to
+  paint in the Chinese style using a bamboo brush\, ink\, and rice paper.Le
+ arn More›about Chinese Brush Painting\n\nMore info:\nhttps://www.bbg.org
+ /classes/chinese_brush_painting\n\n<img src="/img/uploads/hero/_list_thumb
+ nail_regular/19SAEARTCBP.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
