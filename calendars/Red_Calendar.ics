@@ -531,6 +531,17 @@ DESCRIPTION:https://cal.red/?event=6451\nCost: 10
 LOCATION:Index Chinatown
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NYC Event Organizers Meetup with Unplatform
+DTSTART:20261013T230000Z
+DTEND:20261014T000000Z
+DTSTAMP:20261013T230000Z
+UID:event:6498:2026-10-13T19:00:00
+DESCRIPTION:https://cal.red/?event=6498\nCost: Free\; optional contributio
+ ns welcome
+LOCATION:3rd Avenue public space (POPS)\, 875 Third Avenue\, Midtown East\
+ , Manhattan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[FUNDRAISER] Input x Cybersoul: Fundraiser to Fight Deed Theft: sh
  ekdash\, Rose Kourts\, Sasha Rome b2b Joshua Orange\, CAMILLA\, LeCamille\
  , DAYE. b2b GEOTHEORY
@@ -704,6 +715,15 @@ DTSTAMP:20261015T230000Z
 UID:event:6384:2026-10-15T19:00:00
 DESCRIPTION:https://cal.red/?event=6384\nCost: $40
 LOCATION:Crown Heights Brooklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anna by the Window Screening + Jackie Jacket Performance
+DTSTART:20261015T230000Z
+DTEND:20261016T000000Z
+DTSTAMP:20261015T230000Z
+UID:event:6501:2026-10-15T19:00:00
+DESCRIPTION:https://cal.red/?event=6501\nCost: $10
+LOCATION:B Scene\,  50 Avenue B Lower East Side
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Belladonna Presents Arthur Katrina\, Matthias Kodat\, and Mohammed
@@ -931,6 +951,17 @@ DESCRIPTION:https://cal.red/?event=6440\n303 Saratoga Ave\, Brooklyn NY 11
  233\nOcean Hill / Brownsville\nCost: suggested donation $20 (all are welco
  me)
 LOCATION:Delight Factory
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reggae Rewind: Fall Edition
+DTSTART:20261018T030000Z
+DTEND:20261018T040000Z
+DTSTAMP:20261018T030000Z
+UID:event:6499:2026-10-17T23:00:00
+DESCRIPTION:https://cal.red/?event=6499\nCost: Early bird $15 + tax\; ladi
+ es free before midnight\; $25 at the door
+LOCATION:LITTLEFIELD\, Gowanus\, Brooklyn (635 Sackett Street\, Brooklyn\,
+  NY 11217)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ALZA Festival
@@ -1283,6 +1314,17 @@ DTSTAMP:20261025T200000Z
 UID:event:6477:2026-10-25T16:00:00
 DESCRIPTION:https://cal.red/?event=6477\nCost: $10
 LOCATION:222 Bowery New York\, NY 10012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reading and Conversation: The Cavalier With Nathalie Quintane\, Jo
+ nathan Larson\, Justine Lextrait\, and Andreas Petrossiants
+DTSTART:20261025T220000Z
+DTEND:20261025T230000Z
+DTSTAMP:20261025T220000Z
+UID:event:6500:2026-10-25T18:00:00
+DESCRIPTION:https://cal.red/?event=6500\n379 Bushwick Avenue\nBrooklyn\, N
+ Y 11206\nCost: 0
+LOCATION:Wendy's Subway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KLOVIS GAYNOR / JOANIE DRAGO / DUMB DICK JIMMY/ MARSHALL LACOUNT &
