@@ -896,6 +896,15 @@ DESCRIPTION:https://cal.red/?event=6445\nCost: Various costs\; see link
 LOCATION:Secret Riso Club
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Running Down the Walls - 5k For Political Prisoners
+DTSTART:20261018T180000Z
+DTEND:20261018T190000Z
+DTSTAMP:20261018T180000Z
+UID:event:6507:2026-10-18T14:00:00
+DESCRIPTION:https://cal.red/?event=6507\nCost: $20
+LOCATION:Lincoln Road/East Lake Drive entrance of Prospect Park\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joy in Motion
 DTSTART:20261018T200000Z
 DTEND:20261018T210000Z
