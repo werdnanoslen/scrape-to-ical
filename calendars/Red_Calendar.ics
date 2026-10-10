@@ -40,6 +40,15 @@ DESCRIPTION:https://cal.red/?event=6249\n46 Washington Avenue Brooklyn\, N
 LOCATION:Recess in Clinton Hill
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:boshis spontaneous orchestra
+DTSTART:20261010T170000Z
+DTEND:20261010T180000Z
+DTSTAMP:20261010T170000Z
+UID:event:6505:2026-10-10T13:00:00
+DESCRIPTION:https://cal.red/?event=6505\nCost: 0
+LOCATION:bushwick\, 1002 metropolitan ave
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arts For Art Free InGardens Shows
 DTSTART:20261010T180000Z
 DTEND:20261010T190000Z
@@ -535,6 +544,15 @@ UID:event:6401:2026-10-15T17:30:00
 DESCRIPTION:https://cal.red/?event=6401\n23 Marcus Garvey Blvd\, Brooklyn\
  nCost: 0
 LOCATION:Brooklyn Peace Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bodega Cats of New York: Talk & Q&A at the Banksy Museum
+DTSTART:20261015T213000Z
+DTEND:20261015T223000Z
+DTSTAMP:20261015T213000Z
+UID:event:6506:2026-10-15T17:30:00
+DESCRIPTION:https://cal.red/?event=6506\nCost: $20
+LOCATION:Banksy Museum\, 277 Canal Street\, Floor 2\, New York\, NY 10013
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bright Five

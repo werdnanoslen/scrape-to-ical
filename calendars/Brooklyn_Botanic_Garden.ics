@@ -72,9 +72,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20261010T190029Z
-DTEND;VALUE=DATE:20261010T210029Z
-UID:We Can’t Dream Alone-2026-10-10 19:00:29.503429+00:00
+DTSTART;VALUE=DATE:20261010T231305Z
+DTEND;VALUE=DATE:20261011T011305Z
+UID:We Can’t Dream Alone-2026-10-10 23:13:05.990935+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
@@ -138,20 +138,6 @@ DESCRIPTION:Saturdays & Sundays\, September 12–October 25\, 2026 (except
  rn More›about Members’ Fall Mornings\n\nMore info:\nhttps://www.bbg.or
  g/visit/event/members_fall_mornings\n\n<img src="/img/uploads/hero/_list_t
  humbnail_regular/visitors-fall-native-flora_MS_50514350966.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20261011T040000Z
-DTEND;VALUE=DATE:20261011T060000Z
-UID:Seasonal Highlights Tour-2026-10-11 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
- \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
- walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
- our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
- r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
- a_MS_52371474767.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
