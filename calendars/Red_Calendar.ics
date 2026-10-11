@@ -571,6 +571,16 @@ DESCRIPTION:https://cal.red/?event=6439\n303 Saratoga Ave\, Brooklyn NY 11
 LOCATION:Delight Factory
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:K-HOLES 1st Show in 15 Years with Genre is Death\, Crush and DJ Jo
+ nathan Toubin
+DTSTART:20261016T230000Z
+DTEND:20261017T000000Z
+DTSTAMP:20261016T230000Z
+UID:event:6510:2026-10-16T19:00:00
+DESCRIPTION:https://cal.red/?event=6510\nCost: 25
+LOCATION:TV EYE Ridgewood\, Queens
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Not Your Uncle Tony: Comedy by Misfit Italian Americans
 DTSTART:20261016T233000Z
 DTEND:20261017T003000Z
@@ -623,6 +633,15 @@ DTSTAMP:20261017T170000Z
 UID:event:6445:2026-10-17T13:00:00
 DESCRIPTION:https://cal.red/?event=6445\nCost: Various costs\; see link
 LOCATION:Secret Riso Club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Break the Chain Arms Embargo Campaign Mass Meeting
+DTSTART:20261017T180000Z
+DTEND:20261017T190000Z
+DTSTAMP:20261017T180000Z
+UID:event:6509:2026-10-17T14:00:00
+DESCRIPTION:https://cal.red/?event=6509\nCost: 0
+LOCATION:Gramercy Park\, 15 Rutherford Place\, New York\, NY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pop Gym x Another World Intro to Self-Defense Series
