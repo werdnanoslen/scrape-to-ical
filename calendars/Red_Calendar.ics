@@ -903,6 +903,16 @@ DESCRIPTION:https://cal.red/?event=6448\nCost: See link
 LOCATION:Performance Space New York
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fundraiser Walk for fighting Global Poverty
+DTSTART:20261024T150000Z
+DTEND:20261024T160000Z
+DTSTAMP:20261024T150000Z
+UID:event:6512:2026-10-24T11:00:00
+DESCRIPTION:https://cal.red/?event=6512\nCost: 0
+LOCATION:Meet at the Golden Sherman Monument - Grand Army Plaza - 5th Aven
+ ue and E 60th Street In Midtown
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Khajistan Portal Test: Day Two & Closing Party
 DTSTART:20261024T170000Z
 DTEND:20261024T180000Z
@@ -1184,6 +1194,16 @@ UID:event:6103:2026-11-03T18:00:00
 DESCRIPTION:https://cal.red/?event=6103\nCost: $40
 LOCATION:Players Theatre - 115 MacDougal Street\, New York\, NY\, United S
  tates\, 10012.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On The Origin of Skibidi: A Teach-In on the Internet-ification of 
+ Our Everyday Words
+DTSTART:20261103T230000Z
+DTEND:20261104T000000Z
+DTSTAMP:20261103T230000Z
+UID:event:6513:2026-11-03T18:00:00
+DESCRIPTION:https://cal.red/?event=6513\nCost: 0
+LOCATION:Williamsburg Library Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Too Fat for China
