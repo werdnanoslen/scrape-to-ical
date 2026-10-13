@@ -72,9 +72,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20261013T032734Z
-DTEND;VALUE=DATE:20261013T052734Z
-UID:We Can’t Dream Alone-2026-10-13 03:27:34.422081+00:00
+DTSTART;VALUE=DATE:20261013T091429Z
+DTEND;VALUE=DATE:20261013T111429Z
+UID:We Can’t Dream Alone-2026-10-13 09:14:29.153594+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
@@ -409,6 +409,21 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Putting Your Garden to Bed for Winter
+DTSTART;VALUE=DATE:20261018T040000Z
+DTEND;VALUE=DATE:20261018T060000Z
+UID:Putting Your Garden to Bed for Winter-2026-10-18 04:00:00+00:00
+DESCRIPTION:Single session on Sunday\, October 18 or Sunday\, October 25\,
+  2026\n					\n\n\n					\n						\n							| Preregistration Required\n\nLear
+ n the basics of getting your garden in shape as we near the end of the gro
+ wing season.Learn More›about Putting Your Garden to Bed for Winter\n\nMo
+ re info:\nhttps://www.bbg.org/classes/putting_your_garden_to_bed_for_winte
+ r\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/put-garden-to-bed
+ _LL_54453691037_35a7c80049_o.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:All-Abilities Discovery Afternoon (with VISIONS)
 DTSTART;VALUE=DATE:20261018T040000Z
 DTEND;VALUE=DATE:20261018T060000Z
@@ -421,21 +436,6 @@ DESCRIPTION:Sunday\, October 18\, 2026 | 2–4 p.m.\n					\n\n\n					\n
  Afternoon (with VISIONS)\n\nMore info:\nhttps://www.bbg.org/visit/event/al
  l_abilities_discovery_afternoon_with_visions\n\n<img src="/img/uploads/her
  o/_list_thumbnail_regular/all-abilities_LL_54410423764.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Putting Your Garden to Bed for Winter
-DTSTART;VALUE=DATE:20261018T040000Z
-DTEND;VALUE=DATE:20261018T060000Z
-UID:Putting Your Garden to Bed for Winter-2026-10-18 04:00:00+00:00
-DESCRIPTION:Single session on Sunday\, October 18 or Sunday\, October 25\,
-  2026\n					\n\n\n					\n						\n							| Preregistration Required\n\nLear
- n the basics of getting your garden in shape as we near the end of the gro
- wing season.Learn More›about Putting Your Garden to Bed for Winter\n\nMo
- re info:\nhttps://www.bbg.org/classes/putting_your_garden_to_bed_for_winte
- r\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/put-garden-to-bed
- _LL_54453691037_35a7c80049_o.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -746,6 +746,65 @@ DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
  our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
  r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
  a_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall First Discoveries
+DTSTART;VALUE=DATE:20261028T040000Z
+DTEND;VALUE=DATE:20261028T060000Z
+UID:Fall First Discoveries-2026-10-28 04:00:00+00:00
+DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
+ –November 6\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot 
+ up a plant\, create a craft\, read a story\, and use your senses to explor
+ e nature at special Discovery Garden activity stations designed for toddle
+ rs.Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.bb
+ g.org/visit/event/fall_first_discoveries\n\n<img src="/img/uploads/hero/_l
+ ist_thumbnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seasonal Highlights Tour
+DTSTART;VALUE=DATE:20261028T040000Z
+DTEND;VALUE=DATE:20261028T060000Z
+UID:Seasonal Highlights Tour-2026-10-28 04:00:00+00:00
+DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
+ \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
+ walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
+ our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
+ r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
+ a_MS_52371474767.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Creating Dried Arrangements
+DTSTART;VALUE=DATE:20261028T040000Z
+DTEND;VALUE=DATE:20261028T060000Z
+UID:Creating Dried Arrangements-2026-10-28 04:00:00+00:00
+DESCRIPTION:Wednesday\, October 28\, 2026 | 5:30–8:30 p.m.  \n					\n\n\
+ n					\n						\n							| Preregistration Required\n\nCreate a beautiful fr
+ esh basket that will dry over time.Learn More›about Creating Dried Arran
+ gements\n\nMore info:\nhttps://www.bbg.org/classes/creating_dried_arrangem
+ ents\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/27082301319-28
+ 00x1200-c.jpg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crafting Community Care: DIY Fire Ciders
+DTSTART;VALUE=DATE:20261028T040000Z
+DTEND;VALUE=DATE:20261028T060000Z
+UID:Crafting Community Care: DIY Fire Ciders-2026-10-28 04:00:00+00:00
+DESCRIPTION:Wednesday\, October 28\, 2026 | 6–8 p.m.Free\n					\n\n\n			
+ 		\n						\n							| Preregistration Required\n\nLearn the history and hea
+ ling power of fire cider\, then craft your own immune-boosting blend with 
+ fall herbs—plus\, take home an herbal plant to grow!Learn More›about C
+ rafting Community Care: DIY Fire Ciders\n\nMore info:\nhttps://www.bbg.org
+ /classes/crafting_community_care_DIY_fire_ciders\n\n<img src="/img/uploads
+ /hero/_list_thumbnail_regular/24WAEFOODFC_fire-cider_AH_(1).jpeg" alt="" /
+ >
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

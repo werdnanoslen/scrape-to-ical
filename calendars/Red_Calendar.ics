@@ -11,38 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:Arts For Art Free InGardens Shows
-DTSTART:20261012T180000Z
-DTEND:20261012T190000Z
-DTSTAMP:20261012T180000Z
-UID:event:6269:2026-10-12T14:00:00
-DESCRIPTION:https://cal.red/?event=6269\nCost: 🌀 free
-LOCATION:@ first street green (all ages)\, 33 e. 1st st.\, bowery\, mnhtn 
- –– outdoors
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
-DTSTART:20261012T220000Z
-DTEND:20261012T230000Z
-DTSTAMP:20261012T220000Z
-UID:event:4537:2026-10-12T18:00:00
-DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
- elps keep IA’s doors open and lights on\, quite literally): $5-$10
-LOCATION:Park Slope
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
-   🅲🅰🅻.🆁🅴🅳
-DTSTART:20261013T000000Z
-DTEND:20261013T010000Z
-DTSTAMP:20261013T000000Z
-UID:event:6054:2026-10-12T20:00:00
-DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
- e 30)
-LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
- n ur love's arms
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Permacomputing NYC presets VAPE SYNTHS
 DTSTART:20261013T220000Z
 DTEND:20261013T230000Z
@@ -452,6 +420,16 @@ LOCATION:AMC 19th Street East 6\, 890 Broadway\, NY\, NY 10013. Flatiron/U
  nion Square
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Luddite Club Doc - Open Studios
+DTSTART:20261017T160000Z
+DTEND:20261017T170000Z
+DTSTAMP:20261017T160000Z
+UID:event:6515:2026-10-17T12:00:00
+DESCRIPTION:https://cal.red/?event=6515\n183 Lorraine Street\nBrooklyn\, N
+ Y 11231\n3rd flr - studio 81\nCost: 0
+LOCATION:Red Hook / Gowanus
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:
 DTSTART:20261017T170000Z
 DTEND:20261017T180000Z
@@ -496,6 +474,15 @@ UID:event:6369:2026-10-17T17:00:00
 DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
  aypal\, Venmo or Zelle. Proceeds go directly to the readers.
 LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LUDD LOVERS PARK LOVE
+DTSTART:20261017T210000Z
+DTEND:20261017T220000Z
+DTSTAMP:20261017T210000Z
+UID:event:6516:2026-10-17T17:00:00
+DESCRIPTION:https://cal.red/?event=6516\nCost: free :)
+LOCATION:Ft. Greene Park\, by the monument
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Entomology of a Human Zine Release Party & Exhibition
@@ -596,6 +583,16 @@ DTSTAMP:20261018T160000Z
 UID:event:6445:2026-10-18T12:00:00
 DESCRIPTION:https://cal.red/?event=6445\nCost: Various costs\; see link
 LOCATION:Secret Riso Club
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Luddite Club Doc - Open Studios
+DTSTART:20261018T160000Z
+DTEND:20261018T170000Z
+DTSTAMP:20261018T160000Z
+UID:event:6515:2026-10-18T12:00:00
+DESCRIPTION:https://cal.red/?event=6515\n183 Lorraine Street\nBrooklyn\, N
+ Y 11231\n3rd flr - studio 81\nCost: 0
+LOCATION:Red Hook / Gowanus
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Running Down the Walls - 5k For Political Prisoners
@@ -1134,6 +1131,15 @@ UID:event:6458:2026-10-31T14:30:00
 DESCRIPTION:https://cal.red/?event=6458\n138 South Oxford St\, Brooklyn NY
   11217\nFort Greene\, BK\nCost: $20
 LOCATION:A.R.T./New York - South Oxford Spaces - The Great Room
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 2nd Annual Graveyard Smash
+DTSTART:20261031T203000Z
+DTEND:20261031T213000Z
+DTSTAMP:20261031T203000Z
+UID:event:6514:2026-10-31T16:30:00
+DESCRIPTION:https://cal.red/?event=6514\nCost: $25
+LOCATION:352 Troutman St\, Bushwick
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
