@@ -1470,6 +1470,15 @@ DESCRIPTION:https://cal.red/?event=6517\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Rest\, Restore\, Resist: Spiritual Care for Challenging Times
+DTSTART:20261116T220000Z
+DTEND:20261116T230000Z
+DTSTAMP:20261116T220000Z
+UID:event:6543:2026-11-16T17:00:00
+DESCRIPTION:https://cal.red/?event=6543\nCost: $50 - 100
+LOCATION:Stony Point NY\, with transportation provided from Manhattan
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20261117T010000Z
@@ -1480,6 +1489,15 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rest\, Restore\, Resist: Spiritual Care for Challenging Times
+DTSTART:20261117T140000Z
+DTEND:20261117T150000Z
+DTSTAMP:20261117T140000Z
+UID:event:6543:2026-11-17T09:00:00
+DESCRIPTION:https://cal.red/?event=6543\nCost: $50 - 100
+LOCATION:Stony Point NY\, with transportation provided from Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Too Fat for China
