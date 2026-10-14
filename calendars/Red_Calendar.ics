@@ -11,104 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:Permacomputing NYC presets VAPE SYNTHS
-DTSTART:20261013T220000Z
-DTEND:20261013T230000Z
-DTSTAMP:20261013T220000Z
-UID:event:6338:2026-10-13T18:00:00
-DESCRIPTION:https://cal.red/?event=6338\n585 Woodward Ave Ridgewood\, Quee
- ns\nCost: FREE
-LOCATION:Ridgewood Commons
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MATHIAS ÉNARD IS GOING ON TOUR 🎯
-DTSTART:20261013T220000Z
-DTEND:20261013T230000Z
-DTSTAMP:20261013T220000Z
-UID:event:6447:2026-10-13T18:00:00
-DESCRIPTION:https://cal.red/?event=6447\nCost: 0
-LOCATION:Various locations
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Too Fat for China
-DTSTART:20261013T223000Z
-DTEND:20261013T233000Z
-DTSTAMP:20261013T223000Z
-UID:event:6245:2026-10-13T18:30:00
-DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
- nCost: 25.00
-LOCATION:The RAT NYC (DUMBO)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arts & Wellbeing Lab - Mindful Doodling
-DTSTART:20261013T223000Z
-DTEND:20261013T233000Z
-DTSTAMP:20261013T223000Z
-UID:event:6407:2026-10-13T18:30:00
-DESCRIPTION:https://cal.red/?event=6407\nCost: 0
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PSNY LGBTQIA+ Free Verse Workshop: The Spirit Game
-DTSTART:20261013T230000Z
-DTEND:20261014T000000Z
-DTSTAMP:20261013T230000Z
-UID:event:6243:2026-10-13T19:00:00
-DESCRIPTION:https://cal.red/?event=6243\nCost: Free!
-LOCATION:Zoom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reading!
-DTSTART:20261013T230000Z
-DTEND:20261014T000000Z
-DTSTAMP:20261013T230000Z
-UID:event:6361:2026-10-13T19:00:00
-DESCRIPTION:https://cal.red/?event=6361\n44-19 Purves St\nLong Island City
- \nCost: 0
-LOCATION:Sculpture Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Creative Showcase Vol. 7
-DTSTART:20261013T230000Z
-DTEND:20261014T000000Z
-DTSTAMP:20261013T230000Z
-UID:event:6386:2026-10-13T19:00:00
-DESCRIPTION:https://cal.red/?event=6386\nCost: 10
-LOCATION:Chinatown
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INDEX: Creative Showcase
-DTSTART:20261013T230000Z
-DTEND:20261014T000000Z
-DTSTAMP:20261013T230000Z
-UID:event:6451:2026-10-13T19:00:00
-DESCRIPTION:https://cal.red/?event=6451\nCost: 10
-LOCATION:Index Chinatown
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:NYC Event Organizers Meetup with Unplatform
-DTSTART:20261013T230000Z
-DTEND:20261014T000000Z
-DTSTAMP:20261013T230000Z
-UID:event:6498:2026-10-13T19:00:00
-DESCRIPTION:https://cal.red/?event=6498\nCost: Free\; optional contributio
- ns welcome
-LOCATION:3rd Avenue public space (POPS)\, 875 Third Avenue\, Midtown East\
- , Manhattan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[FUNDRAISER] Input x Cybersoul: Fundraiser to Fight Deed Theft: sh
- ekdash\, Rose Kourts\, Sasha Rome b2b Joshua Orange\, CAMILLA\, LeCamille\
- , DAYE. b2b GEOTHEORY
-DTSTART:20261014T020000Z
-DTEND:20261014T030000Z
-DTSTAMP:20261014T020000Z
-UID:event:6488:2026-10-13T22:00:00
-DESCRIPTION:https://cal.red/?event=6488\nCost: 🌀 notaflof
-LOCATION:@ bossa nova civic club (21+)\, 1271 myrtle ave\, bushwick\, bkly
- n
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Word Play Social: Things That Go Boggle in the Night
 DTSTART:20261014T223000Z
 DTEND:20261014T233000Z
@@ -117,6 +19,15 @@ UID:event:6402:2026-10-14T18:30:00
 DESCRIPTION:https://cal.red/?event=6402\nCost: 0
 LOCATION:Antler Accelerator\, 33 W. 17th Street\, 6th Floor\, New York\, N
  Y 10011 (Flatiron)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Have Convos About Zionism
+DTSTART:20261014T223000Z
+DTEND:20261014T233000Z
+DTSTAMP:20261014T223000Z
+UID:event:6524:2026-10-14T18:30:00
+DESCRIPTION:https://cal.red/?event=6524\nCost: 0
+LOCATION:People’s Forum 320 West 37th St.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -155,6 +66,15 @@ UID:event:6490:2026-10-14T19:00:00
 DESCRIPTION:https://cal.red/?event=6490\nCost: $15 🌀notaflof
 LOCATION:@ future space (all ages)\, 5-84 woodward ave\, ridgewood\, queen
  s
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Litmus Press 25th Anniversary
+DTSTART:20261014T233000Z
+DTEND:20261015T003000Z
+DTSTAMP:20261014T233000Z
+UID:event:6531:2026-10-14T19:30:00
+DESCRIPTION:https://cal.red/?event=6531\nCost: 25
+LOCATION:St. Mark’s Church
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🌬️ October has arrived\, enchanting the lands with amethyst a
@@ -410,6 +330,16 @@ DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
 LOCATION:Pageant
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A quarterly magazine of worker writing
+DTSTART:20261017T000000Z
+DTEND:20261017T010000Z
+DTSTAMP:20261017T000000Z
+UID:event:6525:2026-10-16T20:00:00
+DESCRIPTION:https://cal.red/?event=6525\nCost: 0
+LOCATION:📍T.J. Byrnes Bar & Restaurant Behind 55 Fulton Market\, 77 Ful
+ ton St\, New York\, NY 10038
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Simple Sone Album Release Show
 DTSTART:20261017T020000Z
 DTEND:20261017T030000Z
@@ -427,6 +357,15 @@ UID:event:6459:2026-10-17T10:00:00
 DESCRIPTION:https://cal.red/?event=6459\nCost: $20-25
 LOCATION:AMC 19th Street East 6\, 890 Broadway\, NY\, NY 10013. Flatiron/U
  nion Square
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a day of community care & healthcare info!!
+DTSTART:20261017T150000Z
+DTEND:20261017T160000Z
+DTSTAMP:20261017T150000Z
+UID:event:6528:2026-10-17T11:00:00
+DESCRIPTION:https://cal.red/?event=6528\nCost: 0
+LOCATION:Mayday Space
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Luddite Club Doc - Open Studios
@@ -455,6 +394,15 @@ DTSTAMP:20261017T180000Z
 UID:event:6509:2026-10-17T14:00:00
 DESCRIPTION:https://cal.red/?event=6509\nCost: 0
 LOCATION:Gramercy Park\, 15 Rutherford Place\, New York\, NY
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a New York City socialist walking tour on October 17!
+DTSTART:20261017T180000Z
+DTEND:20261017T190000Z
+DTSTAMP:20261017T180000Z
+UID:event:6535:2026-10-17T14:00:00
+DESCRIPTION:https://cal.red/?event=6535\nCost: 0
+LOCATION:Astor Place\, next to the big cube
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pop Gym x Another World Intro to Self-Defense Series
@@ -657,6 +605,17 @@ DTSTAMP:20261018T230000Z
 UID:event:6432:2026-10-18T19:00:00
 DESCRIPTION:https://cal.red/?event=6432\nCost: 35+
 LOCATION:Roulette
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NYC: an evening of hallucinatory histories exploring folk anthropo
+ logy\, regional mythology\, and other altered transmissions brought to you
+  by Camille and Faith of @texasoverture and Sam of @nymphetalumni
+DTSTART:20261018T230000Z
+DTEND:20261019T000000Z
+DTSTAMP:20261018T230000Z
+UID:event:6534:2026-10-18T19:00:00
+DESCRIPTION:https://cal.red/?event=6534\nCost: 0
+LOCATION:EARTH
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:ARTIFACT - An Experimental Music Series
@@ -900,6 +859,17 @@ DESCRIPTION:https://cal.red/?event=6384\nCost: $40
 LOCATION:Crown Heights Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Celebrating Anne Waldman and Sarah Rigg’s deeply moving new chap
+ book ‘Floating like Sunlight: words of passage\, ritual\, oracle\, livin
+ g and dying’
+DTSTART:20261023T230000Z
+DTEND:20261024T000000Z
+DTSTAMP:20261023T230000Z
+UID:event:6532:2026-10-23T19:00:00
+DESCRIPTION:https://cal.red/?event=6532\nCost: 0
+LOCATION:black spring books
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
  𝘛 𝘐𝘚𝘕’𝘛 𝘛𝘏𝘌 𝘛𝘖𝘔 𝘍𝘖𝘖𝘓𝘌
  𝘙𝘠 𝘖𝘍 𝘍𝘈𝘓𝘓. 𝐒𝐇𝐀𝐑𝐏𝐄𝐍 𝐘𝐎
@@ -957,6 +927,16 @@ DESCRIPTION:https://cal.red/?event=6445\nCost: Various costs\; see link
 LOCATION:Secret Riso Club
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:People Movers
+DTSTART:20261024T190000Z
+DTEND:20261024T200000Z
+DTSTAMP:20261024T190000Z
+UID:event:6527:2026-10-24T15:00:00
+DESCRIPTION:https://cal.red/?event=6527\n56-21 2nd St\, Long Island City\n
+ Cost: 0
+LOCATION:Flux IV
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
 DTSTART:20261024T210000Z
 DTEND:20261024T220000Z
@@ -965,6 +945,15 @@ UID:event:6369:2026-10-24T17:00:00
 DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
  aypal\, Venmo or Zelle. Proceeds go directly to the readers.
 LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free community screening: SINNERS (2025)
+DTSTART:20261024T220000Z
+DTEND:20261024T230000Z
+DTSTAMP:20261024T220000Z
+UID:event:6533:2026-10-24T18:00:00
+DESCRIPTION:https://cal.red/?event=6533\nCost: 0
+LOCATION:📍: 248 Rochester Ave [BMBNY Hub]
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First President of Japan\, Qween Kong\, AFK\, Ultra Deluxe
@@ -1087,6 +1076,15 @@ DESCRIPTION:https://cal.red/?event=6472\nCost: Free admission\, two-drink
 LOCATION:KGB Bar (East Village)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dani Baker Chapbook release TUES OCTOBER 27
+DTSTART:20261027T230000Z
+DTEND:20261028T000000Z
+DTSTAMP:20261027T230000Z
+UID:event:6536:2026-10-27T19:00:00
+DESCRIPTION:https://cal.red/?event=6536\nCost: 0
+LOCATION:@toposbookstore
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PSNY Fall Virtual Poetry Intensive: Unreadable Poetry
 DTSTART:20261028T223000Z
 DTEND:20261028T233000Z
@@ -1149,6 +1147,24 @@ DTSTAMP:20261030T230000Z
 UID:event:6478:2026-10-30T19:00:00
 DESCRIPTION:https://cal.red/?event=6478\nCost: Free
 LOCATION:222 Bowery New York\, NY 10012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:disonare 10
+DTSTART:20261030T230000Z
+DTEND:20261031T000000Z
+DTSTAMP:20261030T230000Z
+UID:event:6530:2026-10-30T19:00:00
+DESCRIPTION:https://cal.red/?event=6530\nCost: 0
+LOCATION:Torn Page Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:8Ball-O-Ween: Ghouls Gone Wild
+DTSTART:20261031T030000Z
+DTEND:20261031T040000Z
+DTSTAMP:20261031T030000Z
+UID:event:6537:2026-10-30T23:00:00
+DESCRIPTION:https://cal.red/?event=6537\nCost: $10-25
+LOCATION:Trans-Pecos (Ridgewood / Bushwick Border)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tarot Cabaret
