@@ -880,6 +880,16 @@ DESCRIPTION:https://cal.red/?event=6532\nCost: 0
 LOCATION:black spring books
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Cavalier: An Evening with Nathalie Quintane and Jonathan Larso
+ n
+DTSTART:20261023T230000Z
+DTEND:20261024T000000Z
+DTSTAMP:20261023T230000Z
+UID:event:6542:2026-10-23T19:00:00
+DESCRIPTION:https://cal.red/?event=6542\nCost: Free!
+LOCATION:68 Jay St #425 in DUMBO\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
  𝘛 𝘐𝘚𝘕’𝘛 𝘛𝘏𝘌 𝘛𝘖𝘔 𝘍𝘖𝘖𝘓𝘌
  𝘙𝘠 𝘖𝘍 𝘍𝘈𝘓𝘓. 𝐒𝐇𝐀𝐑𝐏𝐄𝐍 𝐘𝐎
@@ -1124,6 +1134,17 @@ DESCRIPTION:https://cal.red/?event=6502\nBushwick\nCost: Free but donation
 LOCATION:Purgatory Bar\, 675 Central Ave\, Brooklyn\, NY 11207
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ron Like Hell (DJ) and Ivy Meadows (lights) at SMILERS\, curated b
+ y Max Levin
+DTSTART:20261029T210000Z
+DTEND:20261029T220000Z
+DTSTAMP:20261029T210000Z
+UID:event:6540:2026-10-29T17:00:00
+DESCRIPTION:https://cal.red/?event=6540\nEast Village\nCost: Free\, no tic
+ kets
+LOCATION:431 East 6th Street #4 Roof
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: Speculative Poetry
 DTSTART:20261029T230000Z
 DTEND:20261030T000000Z
@@ -1223,6 +1244,15 @@ DTSTAMP:20261101T170000Z
 UID:event:6355:2026-11-01T12:00:00
 DESCRIPTION:https://cal.red/?event=6355\nCost: free
 LOCATION:another world
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Break the Chain for Palestine - Jamaica Field Day
+DTSTART:20261101T190000Z
+DTEND:20261101T200000Z
+DTSTAMP:20261101T190000Z
+UID:event:6541:2026-11-01T14:00:00
+DESCRIPTION:https://cal.red/?event=6541\nCost: 0
+LOCATION:Rufus King Park\, Jamaica\, Queens
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Bar Music
