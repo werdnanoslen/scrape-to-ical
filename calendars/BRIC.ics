@@ -82,16 +82,6 @@ DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/lightroom-esse
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mobile Phone Photography \, online
-DTSTART:20261017T150000Z
-DTEND:20261017T170000Z
-DTSTAMP:20261017T150000Z
-UID:Mobile Phone Photography \, online-2026-10-17T15:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/mobile-phone-photo
- graphy/
-LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JazzFest 2026
 DTSTART:20261017T220000Z
 DTEND:20261017T070000Z
@@ -101,6 +91,16 @@ DESCRIPTION:https://bricartsmedia.org/event/jazzfest-2026/\n<img src="http
  s://bricartsmedia.org/wp-content/uploads/2026/07/BJF26_Announcement_Graphi
  c_Mohini_without_Bilal_V2-200x200.png" alt="" />
 LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mobile Phone Photography \, online
+DTSTART:20261017T150000Z
+DTEND:20261017T170000Z
+DTSTAMP:20261017T150000Z
+UID:Mobile Phone Photography \, online-2026-10-17T15:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/mobile-phone-photo
+ graphy/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mini Studio Production
@@ -202,6 +202,17 @@ DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/street-photogr
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Community Event: Hometown Project presents Songs of Solidarity
+DTSTART:20261026T220000Z
+DTEND:20261027T023000Z
+DTSTAMP:20261026T220000Z
+UID:Community Event: Hometown Project presents Songs of Solidarity-2026-10
+ -26T22:00:00+00:00
+DESCRIPTION:Cost: $50+\nhttps://www.thehometownproject.org/events2/2026/so
+ ngs-in-solidarity-benefit-2026
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Accelerated TV Studio
 DTSTART:20261026T180000Z
 DTEND:20261026T210000Z
@@ -223,20 +234,20 @@ LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
-DTSTART:20261027T160000Z
-DTEND:20261027T190000Z
-DTSTAMP:20261027T160000Z
-UID:Video Production in the Field-2026-10-27T16:00:00+00:00
+DTSTART:20261027T220000Z
+DTEND:20261028T010000Z
+DTSTAMP:20261027T220000Z
+UID:Video Production in the Field-2026-10-27T22:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
  on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
-DTSTART:20261027T220000Z
-DTEND:20261028T010000Z
-DTSTAMP:20261027T220000Z
-UID:Video Production in the Field-2026-10-27T22:00:00+00:00
+DTSTART:20261027T160000Z
+DTEND:20261027T190000Z
+DTSTAMP:20261027T160000Z
+UID:Video Production in the Field-2026-10-27T16:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
  on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
@@ -399,16 +410,6 @@ DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:DaVinci Resolve for Editors
-DTSTART:20261106T230000Z
-DTEND:20261107T020000Z
-DTSTAMP:20261106T230000Z
-UID:DaVinci Resolve for Editors-2026-11-06T23:00:00+00:00
-DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
- e-for-editors/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Studio Podcasting
 DTSTART:20261106T220000Z
 DTEND:20261107T020000Z
@@ -416,6 +417,16 @@ DTSTAMP:20261106T220000Z
 UID:Studio Podcasting-2026-11-06T22:00:00+00:00
 DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
  ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DaVinci Resolve for Editors
+DTSTART:20261106T230000Z
+DTEND:20261107T020000Z
+DTSTAMP:20261106T230000Z
+UID:DaVinci Resolve for Editors-2026-11-06T23:00:00+00:00
+DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
+ e-for-editors/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
