@@ -710,6 +710,16 @@ DESCRIPTION:https://cal.red/?event=6448\nCost: See link
 LOCATION:Performance Space New York
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:New York Modular Society presents: Ghost Notes
+DTSTART:20261024T010000Z
+DTEND:20261024T020000Z
+DTSTAMP:20261024T010000Z
+UID:event:6552:2026-10-23T21:00:00
+DESCRIPTION:https://cal.red/?event=6552\n18-14 Astoria Blvd\, Astoria\nCos
+ t: donation
+LOCATION:Medusa Art Studios & Cafe
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fundraiser Walk for fighting Global Poverty
 DTSTART:20261024T150000Z
 DTEND:20261024T160000Z
@@ -825,6 +835,17 @@ UID:event:6500:2026-10-25T18:00:00
 DESCRIPTION:https://cal.red/?event=6500\n379 Bushwick Avenue\nBrooklyn\, N
  Y 11206\nCost: 0
 LOCATION:Wendy's Subway
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:cozy room #3 with cecilio & paolo mosca (slow life)
+DTSTART:20261025T220000Z
+DTEND:20261025T230000Z
+DTSTAMP:20261025T220000Z
+UID:event:6553:2026-10-25T18:00:00
+DESCRIPTION:https://cal.red/?event=6553\nCost: $30 standard\; $15 with arr
+ ival before 7pm\; pay-what-you-can tickets for those with limited funds
+LOCATION:reforesters laboratory\, 147 metropolitan ave\, williamsburg\, br
+ ooklyn\, ny 11249
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KLOVIS GAYNOR / JOANIE DRAGO / DUMB DICK JIMMY/ MARSHALL LACOUNT &
