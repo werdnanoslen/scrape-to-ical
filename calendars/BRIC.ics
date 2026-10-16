@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Make a Digital Story\, BPL
-DTSTART:20261015T150000Z
-DTEND:20261015T170000Z
-DTSTAMP:20261015T150000Z
-UID:Make a Digital Story\, BPL-2026-10-15T15:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-digital-sto
- ry/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Studio Podcasting
-DTSTART:20261015T170000Z
-DTEND:20261015T210000Z
-DTSTAMP:20261015T170000Z
-UID:Studio Podcasting-2026-10-15T17:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
- ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Make a Movie On Your Phone\, BPL
-DTSTART:20261015T180000Z
-DTEND:20261015T200000Z
-DTSTAMP:20261015T180000Z
-UID:Make a Movie On Your Phone\, BPL-2026-10-15T18:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-movie-on-yo
- ur-phone/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:JazzFest 2026
 DTSTART:20261016T230000Z
 DTEND:20261016T040000Z
@@ -380,13 +350,13 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/event/reel-sisters-bric-
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Studio Podcasting
-DTSTART:20261106T220000Z
-DTEND:20261107T020000Z
-DTSTAMP:20261106T220000Z
-UID:Studio Podcasting-2026-11-06T22:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
- ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Ableton Live Essentials
+DTSTART:20261106T180000Z
+DTEND:20261106T220000Z
+DTSTAMP:20261106T180000Z
+UID:Ableton Live Essentials-2026-11-06T18:00:00+00:00
+DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
+ ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -400,13 +370,13 @@ DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ableton Live Essentials
-DTSTART:20261106T180000Z
-DTEND:20261106T220000Z
-DTSTAMP:20261106T180000Z
-UID:Ableton Live Essentials-2026-11-06T18:00:00+00:00
-DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
- ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Studio Podcasting
+DTSTART:20261106T220000Z
+DTEND:20261107T020000Z
+DTSTAMP:20261106T220000Z
+UID:Studio Podcasting-2026-11-06T22:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
+ ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -483,5 +453,33 @@ UID:Video Production in the Field-2026-11-10T19:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
  on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIC House Party presents Brooklyn Brujeria Day II: Magic Market +
+  Fair
+DTSTART:20261114T170000Z
+DTEND:20261114T220000Z
+DTSTAMP:20261114T170000Z
+UID:BRIC House Party presents Brooklyn Brujeria Day II: Magic Market + Fai
+ r-2026-11-14T17:00:00+00:00
+DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/event/bric-house-party-pr
+ esents-brooklyn-brujeria-day-ii-magic-market-fair-noche-de-salsa-fiesta/\n
+ https://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org
+ /wp-content/uploads/2026/09/TOB_7961-200x200.jpg" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRIC House Party presents Brooklyn Brujeria Day II: Noche de Salsa
+  + Fiesta
+DTSTART:20261115T020000Z
+DTEND:20261114T070000Z
+DTSTAMP:20261115T020000Z
+UID:BRIC House Party presents Brooklyn Brujeria Day II: Noche de Salsa + F
+ iesta-2026-11-15T02:00:00+00:00
+DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/event/bric-house-party-pr
+ esents-brooklyn-brujeria-day-ii-magic-market-fair-noche-de-salsa-fiesta/\n
+ https://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org
+ /wp-content/uploads/2026/09/TOB_8247-1-1-200x200.jpg" alt="" />
+LOCATION:BRIC House
 END:VEVENT
 END:VCALENDAR
