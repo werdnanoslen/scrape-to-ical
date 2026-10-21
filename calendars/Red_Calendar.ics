@@ -11,101 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:SCREENPRINT 101 (5 week) w/ Francesca Barr
-DTSTART:20261020T220000Z
-DTEND:20261020T230000Z
-DTSTAMP:20261020T220000Z
-UID:event:6551:2026-10-20T18:00:00
-DESCRIPTION:https://cal.red/?event=6551\nCost: 250
-LOCATION:The Peoples Forum\, Midtown West\, Manhattan
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Too Fat for China
-DTSTART:20261020T223000Z
-DTEND:20261020T233000Z
-DTSTAMP:20261020T223000Z
-UID:event:6245:2026-10-20T18:30:00
-DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
- nCost: 25.00
-LOCATION:The RAT NYC (DUMBO)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PSNY Free Verse Workshop for Immigrant Writers: Ekphrasis as Irrev
- erence
-DTSTART:20261020T230000Z
-DTEND:20261021T000000Z
-DTSTAMP:20261020T230000Z
-UID:event:6244:2026-10-20T19:00:00
-DESCRIPTION:https://cal.red/?event=6244\nCost: Free!
-LOCATION:Zoom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Readings at Parkside:   Nate Lippens
-DTSTART:20261020T230000Z
-DTEND:20261021T000000Z
-DTSTAMP:20261020T230000Z
-UID:event:6376:2026-10-20T19:00:00
-DESCRIPTION:https://cal.red/?event=6376\n317 East Houston Street\nNew York
-  City\nCost: 5-25 sliding scale
-LOCATION:The Parkside Lounge
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Astronomy on Tap NYC: The Dark Night
-DTSTART:20261020T230000Z
-DTEND:20261021T000000Z
-DTSTAMP:20261020T230000Z
-UID:event:6475:2026-10-20T19:00:00
-DESCRIPTION:https://cal.red/?event=6475\nCost: 0
-LOCATION:Somethin' Else / DeKalb Market Hall\, 445 Albee Square W\, Brookl
- yn\, NY 11201 (Downtown Brooklyn)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Quote Unquote
-DTSTART:20261020T230000Z
-DTEND:20261021T000000Z
-DTSTAMP:20261020T230000Z
-UID:event:6504:2026-10-20T19:00:00
-DESCRIPTION:https://cal.red/?event=6504\n219 Irving Ave\nBushwick\, Brookl
- yn\nCost: 0
-LOCATION:Hive Mind Books
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hyperscale Book Launch
-DTSTART:20261020T230000Z
-DTEND:20261021T000000Z
-DTSTAMP:20261020T230000Z
-UID:event:6558:2026-10-20T19:00:00
-DESCRIPTION:https://cal.red/?event=6558\nCost: 0
-LOCATION:Bushwick 1013 Willoughby Ave
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Letter Writing to Political Prisoners
-DTSTART:20261020T230000Z
-DTEND:20261021T000000Z
-DTSTAMP:20261020T230000Z
-UID:event:6559:2026-10-20T19:00:00
-DESCRIPTION:https://cal.red/?event=6559\nCost: 0
-LOCATION:Ridgewood\, Queens
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:RAPHAEL ROGINSKI PLAYS THE VELVET UNDERGROUND ON SOLO GUITAR
-DTSTART:20261021T000000Z
-DTEND:20261021T010000Z
-DTSTAMP:20261021T000000Z
-UID:event:6476:2026-10-20T20:00:00
-DESCRIPTION:https://cal.red/?event=6476\nCost: 15
-LOCATION:222 Bowery\, New York NY 10012
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Circuit Hacking
-DTSTART:20261021T000000Z
-DTEND:20261021T010000Z
-DTSTAMP:20261021T000000Z
-UID:event:6560:2026-10-20T20:00:00
-DESCRIPTION:https://cal.red/?event=6560\nCost: 0-5
-LOCATION:Ridgewood\, Queens
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Women+ on the Edge of Democracy
 DTSTART:20261021T150000Z
 DTEND:20261021T160000Z
@@ -173,16 +78,6 @@ DESCRIPTION:https://cal.red/?event=6568\nCost: 15+
 LOCATION:Bushwick by the Morgan L
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:No Lights No Lycra (NLNL)
-DTSTART:20261022T000000Z
-DTEND:20261022T010000Z
-DTSTAMP:20261022T000000Z
-UID:event:6289:2026-10-21T20:00:00
-DESCRIPTION:https://cal.red/?event=6289\nHell's Kitchen\nCost: PWYCA (sugg
- ested $15)
-LOCATION:Prime Produce\, 424 W 54th St
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kate McCambridge /// Yoshiko Chuma & The School of Hard Knocks @ S
  MILERS
 DTSTART:20261022T220000Z
@@ -191,6 +86,29 @@ DTSTAMP:20261022T220000Z
 UID:event:6539:2026-10-22T18:00:00
 DESCRIPTION:https://cal.red/?event=6539\neast village\nCost: Free
 LOCATION:431 East 6th Street\, #4 ROOF
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Come meet local organizers and neighbors while learning about impo
+ rtant community initiatives happening in Brooklyn and across the city!!
+DTSTART:20261022T220000Z
+DTEND:20261022T230000Z
+DTSTAMP:20261022T220000Z
+UID:event:6582:2026-10-22T18:00:00
+DESCRIPTION:https://cal.red/?event=6582\nCost: 0
+LOCATION:Starr Bar [Bushwick]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:𝑻𝒉𝒆𝒔𝒆 𝑷𝒐𝒆𝒎𝒔 𝑾𝒆𝒏𝒕 𝑫
+ 𝒐𝒘𝒏 𝑭𝒊𝒈𝒉𝒕𝒊𝒏𝒈: 𝑶𝒏 𝑨𝒓𝒕\, 
+ 𝑳𝒂𝒃𝒐𝒓\, 𝒂𝒏𝒅 𝑰𝒏𝒇𝒓𝒂𝒔𝒕𝒓𝒖
+ 𝒄𝒕𝒖𝒓𝒆
+DTSTART:20261022T220000Z
+DTEND:20261022T230000Z
+DTSTAMP:20261022T220000Z
+UID:event:6592:2026-10-22T18:00:00
+DESCRIPTION:https://cal.red/?event=6592\nTheater 200\, Iris & B. Gerald Ca
+ ntor Film Center\n36 East 8th Street\nNew York\, NY 10003\nCost: Free
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: Poems that Fly
@@ -218,6 +136,36 @@ DTSTAMP:20261022T230000Z
 UID:event:6511:2026-10-22T19:00:00
 DESCRIPTION:https://cal.red/?event=6511\n[williamsburg]\nCost: free!
 LOCATION:Glasshaus Cafe (28 Herbert St\, Brooklyn\, NY 11222)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Greetings Reading
+DTSTART:20261022T230000Z
+DTEND:20261023T000000Z
+DTSTAMP:20261022T230000Z
+UID:event:6574:2026-10-22T19:00:00
+DESCRIPTION:https://cal.red/?event=6574\nCost: 0
+LOCATION:Unnameable Books
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:This spooky season\, conjure a creature\, summon a sound\, and dis
+ cover the demon box!
+DTSTART:20261022T230000Z
+DTEND:20261023T000000Z
+DTSTAMP:20261022T230000Z
+UID:event:6578:2026-10-22T19:00:00
+DESCRIPTION:https://cal.red/?event=6578\nCost: 33+
+LOCATION:@wavefield.nyc
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:We’re so excited to join the @thebrooklynnomads at the @jalopybr
+ ooklyn for a night of songs of liberation and struggle from the Palestinia
+ n diaspora.
+DTSTART:20261022T230000Z
+DTEND:20261023T000000Z
+DTSTAMP:20261022T230000Z
+UID:event:6585:2026-10-22T19:00:00
+DESCRIPTION:https://cal.red/?event=6585\nCost: 15-35
+LOCATION:Jalopy Theater
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tuning Tubes
@@ -256,15 +204,6 @@ DESCRIPTION:https://cal.red/?event=6283\nChelsea\nNew York\, NY 10011\nCos
 LOCATION:61 Chelsea Piers\, Sky Rink
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tony Kushner's A Bright Room Called Day
-DTSTART:20261023T230000Z
-DTEND:20261024T000000Z
-DTSTAMP:20261023T230000Z
-UID:event:6384:2026-10-23T19:00:00
-DESCRIPTION:https://cal.red/?event=6384\nCost: $40
-LOCATION:Crown Heights Brooklyn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Celebrating Anne Waldman and Sarah Rigg’s deeply moving new chap
  book ‘Floating like Sunlight: words of passage\, ritual\, oracle\, livin
  g and dying’
@@ -293,6 +232,19 @@ DTSTAMP:20261023T230000Z
 UID:event:6548:2026-10-23T19:00:00
 DESCRIPTION:https://cal.red/?event=6548\nCost: $20
 LOCATION:238 N 12th St\, Williamsburg\, Brooklyn NY 11211
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Al Ahrar NY/NJ will be hosting a double screening of two short fil
+ ms at May Day Space followed by a discussion on the current struggle of Pa
+ lestinian prisoners
+DTSTART:20261023T230000Z
+DTEND:20261024T000000Z
+DTSTAMP:20261023T230000Z
+UID:event:6591:2026-10-23T19:00:00
+DESCRIPTION:https://cal.red/?event=6591\nCost: Event is free but any donat
+ ions for @maydayspace will be very much welcome. See you there ❤️‍
+ 🔥
+LOCATION:Mayday Space
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
@@ -371,6 +323,27 @@ DESCRIPTION:https://cal.red/?event=6445\nCost: Various costs\; see link
 LOCATION:Secret Riso Club
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:See you at the @studiomuseum this coming Saturday Oct 24th  First 
+ come first served 😉🧵🪡 no need to RSVP
+DTSTART:20261024T170000Z
+DTEND:20261024T180000Z
+DTSTAMP:20261024T170000Z
+UID:event:6590:2026-10-24T13:00:00
+DESCRIPTION:https://cal.red/?event=6590\nCost: 0
+LOCATION:#studiomuseumharlem
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:JOIN US this Saturday for our next Repair Cafe\, "Repair Is Someth
+ ing We Inherit: From Making Do to the Modern Repair Café."
+DTSTART:20261024T180000Z
+DTEND:20261024T190000Z
+DTSTAMP:20261024T180000Z
+UID:event:6573:2026-10-24T14:00:00
+DESCRIPTION:https://cal.red/?event=6573\n22 Linden Blvd.\nBrooklyn\, NY 11
+ 226\n718.856.0813\nbklynlibrary.org\nCost: 0
+LOCATION:FLATBUSH LIBRARY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:People Movers
 DTSTART:20261024T190000Z
 DTEND:20261024T200000Z
@@ -411,6 +384,15 @@ LOCATION:Bushwick DIY basement venue - Instagram @borbo.the.clown or email
   borbo.the.clown@gmail.com for the address
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+DTSTAMP:20261024T210000Z
+UID:event:6579:2026-10-24T17:00:00
+DESCRIPTION:https://cal.red/?event=6579\n310 W 139th St\nCost: 0
+LOCATION:📍Grace Congregational Church
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Free community screening: SINNERS (2025)
 DTSTART:20261024T220000Z
 DTEND:20261024T230000Z
@@ -429,6 +411,15 @@ UID:event:6545:2026-10-24T18:00:00
 DESCRIPTION:https://cal.red/?event=6545\n192 10th Ave\nNew York\, NY 10011
  \nCost: 0
 LOCATION:192 Books
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crush
+DTSTART:20261024T220000Z
+DTEND:20261024T230000Z
+DTSTAMP:20261024T220000Z
+UID:event:6583:2026-10-24T18:00:00
+DESCRIPTION:https://cal.red/?event=6583\n414 Broadway\, 3rd Floor\nCost: 0
+LOCATION:Woodbine
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:First President of Japan\, Qween Kong\, AFK\, Ultra Deluxe
@@ -460,6 +451,15 @@ DESCRIPTION:https://cal.red/?event=6566\n257 Nassau Ave\nBrooklyn\, NY 112
 LOCATION:Sunview Acropolis
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Launch of The Cuts
+DTSTART:20261024T230000Z
+DTEND:20261025T000000Z
+DTSTAMP:20261024T230000Z
+UID:event:6575:2026-10-24T19:00:00
+DESCRIPTION:https://cal.red/?event=6575\nCost: 0
+LOCATION:@blackspringbooks
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Misc Connections: A Purely Analog Olio House Party
 DTSTART:20261025T000000Z
 DTEND:20261025T010000Z
@@ -467,6 +467,46 @@ DTSTAMP:20261025T000000Z
 UID:event:6561:2026-10-24T20:00:00
 DESCRIPTION:https://cal.red/?event=6561\nCost: 30
 LOCATION:Olio Lighthouse\, Prospect Heights Brooklyn
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHUT DOWN THE SALE OF STOLEN PALESTINIAN LAND IN THE BRONX‼️
+DTSTART:20261025T000000Z
+DTEND:20261025T010000Z
+DTSTAMP:20261025T000000Z
+UID:event:6589:2026-10-24T20:00:00
+DESCRIPTION:https://cal.red/?event=6589\nCost: 0
+LOCATION:📍Riverdale\, Bronx (exact location TBA)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for our second Clinica Pa’La Gente.
+DTSTART:20261025T150000Z
+DTEND:20261025T160000Z
+DTSTAMP:20261025T150000Z
+UID:event:6588:2026-10-25T11:00:00
+DESCRIPTION:https://cal.red/?event=6588\nCost: 0
+LOCATION:📍Mayday Space\, 176 St. Nicholas Ave
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:You know the Jewish Left of 2026. But who were the radicals\, poet
+ s and troublemakers who laid the foundation for our collective work over 1
+ 00 years ago? And why are so many buried in the same place?
+DTSTART:20261025T160000Z
+DTEND:20261025T170000Z
+DTSTAMP:20261025T160000Z
+UID:event:6586:2026-10-25T12:00:00
+DESCRIPTION:https://cal.red/?event=6586\nCost: 0
+LOCATION:Glendale\, Queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for a healing justice rooted community ear seeding skill s
+ hare on Oct 25th! RSVP via DM (somewhat limited spots\, first come first s
+ erve)
+DTSTART:20261025T180000Z
+DTEND:20261025T190000Z
+DTSTAMP:20261025T180000Z
+UID:event:6581:2026-10-25T14:00:00
+DESCRIPTION:https://cal.red/?event=6581\nCost: 0
+LOCATION:Another World
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Booked and Unbothered
@@ -485,6 +525,26 @@ DTSTAMP:20261025T200000Z
 UID:event:6477:2026-10-25T16:00:00
 DESCRIPTION:https://cal.red/?event=6477\nCost: $10
 LOCATION:222 Bowery New York\, NY 10012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A benefit concert in solidarity with the people of Palestine\, fea
+ turing the Palestinian Youth Choir
+DTSTART:20261025T200000Z
+DTEND:20261025T210000Z
+DTSTAMP:20261025T200000Z
+UID:event:6572:2026-10-25T16:00:00
+DESCRIPTION:https://cal.red/?event=6572\nCost: 20+
+LOCATION:Grace Church Van Vorst [Jersey City]
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Come join your favorite Socialist Feminists at STARR BAR on Octobe
+ r 25th for a very special screening of the 1976 horror classic Carrie!
+DTSTART:20261025T210000Z
+DTEND:20261025T220000Z
+DTSTAMP:20261025T210000Z
+UID:event:6587:2026-10-25T17:00:00
+DESCRIPTION:https://cal.red/?event=6587\nCost: 0
+LOCATION:Starr Bar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Reading and Conversation: The Cavalier With Nathalie Quintane\, Jo
@@ -529,6 +589,16 @@ DESCRIPTION:https://cal.red/?event=6508\nCost: 1 drink per set or donate t
 LOCATION:@ big bar (21+)\, 75 e. 7th st.\, east village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Reading 10/25/26 at 7pm with Terrence Arjoon\, Izzy Casey\, Asha F
+ utterman\, Kimberly Lambright\, and Nick Maione
+DTSTART:20261025T230000Z
+DTEND:20261026T000000Z
+DTSTAMP:20261025T230000Z
+UID:event:6584:2026-10-25T19:00:00
+DESCRIPTION:https://cal.red/?event=6584\nCost: 0
+LOCATION:Afterword Bookshop 💚
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🌬️ October has arrived\, enchanting the lands with amethyst a
  nd cooling the air around our ears. Here is a look at this month’s progr
  amming:
@@ -549,6 +619,15 @@ DESCRIPTION:https://cal.red/?event=6445\nCost: Various costs\; see link
 LOCATION:Secret Riso Club
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:zine club
+DTSTART:20261026T223000Z
+DTEND:20261026T233000Z
+DTSTAMP:20261026T223000Z
+UID:event:6571:2026-10-26T18:30:00
+DESCRIPTION:https://cal.red/?event=6571\nCost: 0
+LOCATION:interference archive
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20261027T000000Z
@@ -561,14 +640,13 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Too Fat for China
-DTSTART:20261027T223000Z
-DTEND:20261027T233000Z
-DTSTAMP:20261027T223000Z
-UID:event:6245:2026-10-27T18:30:00
-DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
- nCost: 25.00
-LOCATION:The RAT NYC (DUMBO)
+SUMMARY:What happens to poetry when we share our language with machines?
+DTSTART:20261027T210000Z
+DTEND:20261027T220000Z
+DTSTAMP:20261027T210000Z
+UID:event:6576:2026-10-27T17:00:00
+DESCRIPTION:https://cal.red/?event=6576\nCost: 0
+LOCATION:Onassis ONX\, 390 Broadway\, 4th Floor\, New York
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SALON: Hair/Power Book Release and Signing
@@ -667,13 +745,13 @@ DESCRIPTION:https://cal.red/?event=6239\nCost: $28.52
 LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tony Kushner's A Bright Room Called Day
+SUMMARY:
 DTSTART:20261029T230000Z
 DTEND:20261030T000000Z
 DTSTAMP:20261029T230000Z
-UID:event:6384:2026-10-29T19:00:00
-DESCRIPTION:https://cal.red/?event=6384\nCost: $40
-LOCATION:Crown Heights Brooklyn
+UID:event:6577:2026-10-29T19:00:00
+DESCRIPTION:https://cal.red/?event=6577\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Masma Dream World\, The Human Dream Project\, 'nguento\, Aeonium
@@ -1026,6 +1104,16 @@ DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
 LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:it’s going to be a wacky one 😵‍💫 see ya there 🍂🫶
+ 💕
+DTSTART:20261115T230000Z
+DTEND:20261116T000000Z
+DTSTAMP:20261115T230000Z
+UID:event:6570:2026-11-15T18:00:00
+DESCRIPTION:https://cal.red/?event=6570\nCost: 0
+LOCATION:Trains
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:
 DTSTART:20261116T003000Z
 DTEND:20261116T013000Z
@@ -1189,6 +1277,15 @@ DESCRIPTION:https://cal.red/?event=6508\nCost: 1 drink per set or donate t
 LOCATION:@ big bar (21+)\, 75 e. 7th st.\, east village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Private Nature
+DTSTART:20261206T000000Z
+DTEND:20261206T010000Z
+DTSTAMP:20261206T000000Z
+UID:event:6544:2026-12-05T19:00:00
+DESCRIPTION:https://cal.red/?event=6544\nCost: 35
+LOCATION:Bushwick\, Bed-Stuy
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Split My Soul
 DTSTART:20261206T003000Z
 DTEND:20261206T013000Z
@@ -1223,6 +1320,15 @@ DTSTAMP:20261211T000000Z
 UID:event:6352:2026-12-10T19:00:00
 DESCRIPTION:https://cal.red/?event=6352\nLES\nCost: $20
 LOCATION:Parkside Lounge 317 E Houston St
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Private Nature
+DTSTART:20261213T000000Z
+DTEND:20261213T010000Z
+DTSTAMP:20261213T000000Z
+UID:event:6544:2026-12-12T19:00:00
+DESCRIPTION:https://cal.red/?event=6544\nCost: 35
+LOCATION:Bushwick\, Bed-Stuy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
