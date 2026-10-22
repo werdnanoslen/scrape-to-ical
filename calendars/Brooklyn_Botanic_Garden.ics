@@ -72,9 +72,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20261023T002404Z
-DTEND;VALUE=DATE:20261023T022404Z
-UID:We Can’t Dream Alone-2026-10-23 00:24:04.579794+00:00
+DTSTART;VALUE=DATE:20261023T035129Z
+DTEND;VALUE=DATE:20261023T055129Z
+UID:We Can’t Dream Alone-2026-10-23 03:51:29.239763+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
@@ -629,6 +629,21 @@ DESCRIPTION:Friday\, November 6\, 2026 | 11 a.m.–1 p.m.\n					\n\n\n
  .bbg.org/visit/event/memory_program_november_2026\n\n<img src="/img/upload
  s/hero/_list_thumbnail_regular/childrens-garden-MS-52280051040.jpeg" alt="
  " />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Holiday Memory Program
+DTSTART;VALUE=DATE:20261106T050000Z
+DTEND;VALUE=DATE:20261106T070000Z
+UID:Holiday Memory Program-2026-11-06 05:00:00+00:00
+DESCRIPTION:Friday\, December 11\, 2026 | 1:30–3:30 p.m.\n					\n\n\n			
+ 		\n						\n							| Preregistration Required\n\nCome in from the cold and
+  celebrate winter and the holiday season. This is a drop-in program design
+ ed for people with dementia and their caregivers.Learn More›about Holida
+ y Memory Program\n\nMore info:\nhttps://www.bbg.org/visit/event/memory_pro
+ gram_december_2026\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/
+ Garland-making-workshop.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
