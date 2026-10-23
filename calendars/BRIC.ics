@@ -11,30 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261023T150000Z
-DTEND:20261023T220000Z
-DTSTAMP:20261023T150000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-10-23T15:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261024T150000Z
-DTEND:20261024T220000Z
-DTSTAMP:20261024T150000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-10-24T15:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Studio Podcasting
 DTSTART:20261024T170000Z
 DTEND:20261024T210000Z
@@ -86,18 +62,6 @@ DESCRIPTION:Cost: 120\,00 $\nhttps://bricartsmedia.org/class/tv-studio-pro
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261027T150000Z
-DTEND:20261027T220000Z
-DTSTAMP:20261027T150000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-10-27T15:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Video Production in the Field
 DTSTART:20261027T220000Z
 DTEND:20261028T010000Z
@@ -116,18 +80,6 @@ UID:Video Production in the Field-2026-10-27T16:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
  on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261028T150000Z
-DTEND:20261028T220000Z
-DTSTAMP:20261028T150000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-10-28T15:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Class Acts\, A Night of Comedy & Music in support of PS11
@@ -151,18 +103,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/produce-remotely/
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261029T150000Z
-DTEND:20261029T220000Z
-DTSTAMP:20261029T150000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-10-29T15:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Brooklyn Blueprint\, Powered by JP Morgan Chase & Co
 DTSTART:20261029T220000Z
 DTEND:20261030T000000Z
@@ -183,18 +123,6 @@ UID:Intermediate Premiere-2026-10-29T14:30:00+00:00
 DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/intermediate-premi
  ere/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
 LOCATION:Brooklyn Public Library\, Central
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261030T150000Z
-DTEND:20261030T220000Z
-DTSTAMP:20261030T150000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-10-30T15:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pre-Production Essentials\, online
@@ -225,18 +153,6 @@ UID:Intro to Sound Design-2026-10-30T22:00:00+00:00
 DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/intro-to-sound
  -design/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261031T150000Z
-DTEND:20261031T220000Z
-DTSTAMP:20261031T150000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-10-31T15:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Intro to Digital Photography\, online
@@ -279,18 +195,6 @@ DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-editing-
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261103T160000Z
-DTEND:20261103T230000Z
-DTSTAMP:20261103T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-03T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mini Studio Production
 DTSTART:20261103T230000Z
 DTEND:20261104T020000Z
@@ -311,18 +215,6 @@ DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/the-premiere-i
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261104T160000Z
-DTEND:20261104T230000Z
-DTSTAMP:20261104T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-04T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Reel Sisters + BRIC Present An Evening of Staged Script Readings 2
  026
 DTSTART:20261104T233000Z
@@ -335,30 +227,6 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/event/reel-sisters-bric-
  4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org/wp-content/uploads/20
  25/09/Reel-sisters-200x200.jpg" alt="" />
 LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261105T160000Z
-DTEND:20261105T230000Z
-DTSTAMP:20261105T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-05T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261106T160000Z
-DTEND:20261106T230000Z
-DTSTAMP:20261106T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-06T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ableton Live Essentials
@@ -389,18 +257,6 @@ UID:DaVinci Resolve for Editors-2026-11-06T23:00:00+00:00
 DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
  e-for-editors/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261107T160000Z
-DTEND:20261107T230000Z
-DTSTAMP:20261107T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-07T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Immigrant Artist Biennial: Memories of Disruption
@@ -434,18 +290,6 @@ UID:The Art of Video Editing\, online-2026-11-09T19:00:00+00:00
 DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/art-video-editi
  ng-online-course/
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261110T160000Z
-DTEND:20261110T230000Z
-DTSTAMP:20261110T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-10T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brooklyn Poetry Slam: Write On/Write Now
@@ -488,42 +332,6 @@ UID:Video Production in the Field-2026-11-10T19:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
  on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261111T160000Z
-DTEND:20261111T230000Z
-DTSTAMP:20261111T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-11T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261112T160000Z
-DTEND:20261112T230000Z
-DTSTAMP:20261112T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-12T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261113T160000Z
-DTEND:20261113T230000Z
-DTSTAMP:20261113T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-13T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mini Studio Production
@@ -571,17 +379,5 @@ DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/event/bric-house-party-pr
  https://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org
  /wp-content/uploads/2026/09/TOB_8247-1-1-200x200.jpg" alt="" />
 LOCATION:BRIC House
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:On display | From the BRIClab + Johan Orellana: Remnants of a Fork
- ing Path
-DTSTART:20261114T160000Z
-DTEND:20261114T230000Z
-DTSTAMP:20261114T160000Z
-UID:On display | From the BRIClab + Johan Orellana: Remnants of a Forking 
- Path-2026-11-14T16:00:00+00:00
-DESCRIPTION:https://bricartsmedia.org/events/exhibitions/\nhttps://goo.gl/
- maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Gallery
 END:VEVENT
 END:VCALENDAR
