@@ -26,6 +26,21 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Block by Block
+DTSTART;VALUE=DATE:20260523T040000Z
+DTEND;VALUE=DATE:20261026T040000Z
+UID:Block by Block-2026-05-23 04:00:00+00:00
+DESCRIPTION:May 23–October 25\, 2026\n\nFor 30 years\, theGreenest Block
+  in Brooklyn contesthas demonstrated how small collective actions can buil
+ d communities and transform neighborhoods\, block by block. Celebrate this
+  anniversary with special exhibits and events.Learn More›about Block by 
+ Block\n\nMore info:\nhttps://www.bbg.org/blockbyblock\n\n<img src="/img/up
+ loads/manual/hero/_list_thumbnail_regular/2026_BbB_Web_1120x744_RR1.png" a
+ lt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Block by Block: Streetscapes
 DTSTART;VALUE=DATE:20260523T040000Z
 DTEND;VALUE=DATE:20261026T040000Z
@@ -57,9 +72,9 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20261024T181328Z
-DTEND;VALUE=DATE:20261024T201328Z
-UID:We Can’t Dream Alone-2026-10-24 18:13:28.110792+00:00
+DTSTART;VALUE=DATE:20261024T214804Z
+DTEND;VALUE=DATE:20261024T234804Z
+UID:We Can’t Dream Alone-2026-10-24 21:48:04.603361+00:00
 DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
   artist Madjeen Isaac explore how collective care\, memory\, and ecologica
  l knowledge are crucial to building a more just future.Learn More›about 
@@ -82,50 +97,6 @@ DESCRIPTION:Saturday\, October 24\, 2026 | 11 a.m.–5 p.m. (last entry 4
  e info:\nhttps://www.bbg.org/visit/event/fall_harvest_festival\n\n<img src
  ="/img/uploads/manual/hero/_list_thumbnail_regular/BBG_Thumbnail_HarvestNE
  ON_1120x744_RR6.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Natural Perfume Blending
-DTSTART;VALUE=DATE:20261024T040000Z
-DTEND;VALUE=DATE:20261024T060000Z
-UID:Natural Perfume Blending-2026-10-24 04:00:00+00:00
-DESCRIPTION:Single session on Saturday\, October 24 or Saturday\, November
-  21\, 2026 | 12:30–4 p.m. \n					\n\n\n					\n						\n							| Preregist
- ration Required\n\nGain a basic understanding of the sense of smell\, the 
- history of perfume\, the advent of synthetic ingredients\, and the return 
- to naturals. Leave with two bottles of your own bespoke perfume!Learn More
- ›about Natural Perfume Blending\n\nMore info:\nhttps://www.bbg.org/class
- es/natural_perfume_blending\n\n<img src="/img/uploads/hero/_list_thumbnail
- _regular/naturalperfume_13541411134.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Seasonal Highlights Tour
-DTSTART;VALUE=DATE:20261024T040000Z
-DTEND;VALUE=DATE:20261024T060000Z
-UID:Seasonal Highlights Tour-2026-10-24 04:00:00+00:00
-DESCRIPTION:Tuesday–Sunday | 1–2 p.m.September 8–October 31\, 2026\n
- \nDiscover BBG’s early-fall foliage\, fruits\, and flowers on this free 
- walk led by trained Garden Guides.Learn More›about Seasonal Highlights T
- our\n\nMore info:\nhttps://www.bbg.org/visit/event/seasonal_highlights_tou
- r_fall\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/hardy-begoni
- a_MS_52371474767.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chinese Brush Painting
-DTSTART;VALUE=DATE:20261024T040000Z
-DTEND;VALUE=DATE:20261024T060000Z
-UID:Chinese Brush Painting-2026-10-24 04:00:00+00:00
-DESCRIPTION:5 Saturdays: October 31–December 5\, 2026 (except November 2
- 8) | 1:30–3:30 p.m.\n					\n\n\n					\n						| Waitlist Only\n\nLearn to
-  paint in the Chinese style using a bamboo brush\, ink\, and rice paper.Le
- arn More›about Chinese Brush Painting\n\nMore info:\nhttps://www.bbg.org
- /classes/chinese_brush_painting\n\n<img src="/img/uploads/hero/_list_thumb
- nail_regular/19SAEARTCBP.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT

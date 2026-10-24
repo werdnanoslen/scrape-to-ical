@@ -11,16 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:BRIC
 BEGIN:VEVENT
-SUMMARY:Studio Podcasting
-DTSTART:20261024T170000Z
-DTEND:20261024T210000Z
-DTSTAMP:20261024T170000Z
-UID:Studio Podcasting-2026-10-24T17:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
- ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Street Photography
 DTSTART:20261024T180000Z
 DTEND:20261024T210000Z
@@ -28,6 +18,16 @@ DTSTAMP:20261024T180000Z
 UID:Street Photography-2026-10-24T18:00:00+00:00
 DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/street-photogr
  aphy/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Studio Podcasting
+DTSTART:20261024T170000Z
+DTEND:20261024T210000Z
+DTSTAMP:20261024T170000Z
+UID:Studio Podcasting-2026-10-24T17:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
+ ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -63,20 +63,20 @@ LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
-DTSTART:20261027T160000Z
-DTEND:20261027T190000Z
-DTSTAMP:20261027T160000Z
-UID:Video Production in the Field-2026-10-27T16:00:00+00:00
+DTSTART:20261027T220000Z
+DTEND:20261028T010000Z
+DTSTAMP:20261027T220000Z
+UID:Video Production in the Field-2026-10-27T22:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
  on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Video Production in the Field
-DTSTART:20261027T220000Z
-DTEND:20261028T010000Z
-DTSTAMP:20261027T220000Z
-UID:Video Production in the Field-2026-10-27T22:00:00+00:00
+DTSTART:20261027T160000Z
+DTEND:20261027T190000Z
+DTSTAMP:20261027T160000Z
+UID:Video Production in the Field-2026-10-27T16:00:00+00:00
 DESCRIPTION:Cost: 75\,00 $\nhttps://bricartsmedia.org/class/video-producti
  on-in-the-field/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
@@ -103,16 +103,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/produce-remotely/
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intermediate Premiere
-DTSTART:20261029T143000Z
-DTEND:20261029T173000Z
-DTSTAMP:20261029T143000Z
-UID:Intermediate Premiere-2026-10-29T14:30:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/intermediate-premi
- ere/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
-LOCATION:Brooklyn Public Library\, Central
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Brooklyn Blueprint\, Powered by JP Morgan Chase & Co
 DTSTART:20261029T220000Z
 DTEND:20261030T000000Z
@@ -123,6 +113,16 @@ DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/the-brooklyn-bluep
  rint-business-culture-community-powered-by-jp-morgan-chase-co/\nhttps://go
  o.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intermediate Premiere
+DTSTART:20261029T143000Z
+DTEND:20261029T173000Z
+DTSTAMP:20261029T143000Z
+UID:Intermediate Premiere-2026-10-29T14:30:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/intermediate-premi
+ ere/\nhttps://goo.gl/maps/CXHiyebf7AbZeeru8
+LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pre-Production Essentials\, online
@@ -229,16 +229,6 @@ DESCRIPTION:Cost: Free\nhttps://bricartsmedia.org/event/reel-sisters-bric-
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ableton Live Essentials
-DTSTART:20261106T180000Z
-DTEND:20261106T220000Z
-DTSTAMP:20261106T180000Z
-UID:Ableton Live Essentials-2026-11-06T18:00:00+00:00
-DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
- ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Studio Podcasting
 DTSTART:20261106T220000Z
 DTEND:20261107T020000Z
@@ -246,6 +236,16 @@ DTSTAMP:20261106T220000Z
 UID:Studio Podcasting-2026-11-06T22:00:00+00:00
 DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/studio-podcast
  ing/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ableton Live Essentials
+DTSTART:20261106T180000Z
+DTEND:20261106T220000Z
+DTSTAMP:20261106T180000Z
+UID:Ableton Live Essentials-2026-11-06T18:00:00+00:00
+DESCRIPTION:Cost: 60\,00 $\nhttps://bricartsmedia.org/class/ableton-live-e
+ ssentials/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
@@ -334,18 +334,24 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/motion-graphic
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BRIC House Party presents Brooklyn Brujeria Day II: Noche de Salsa
-  + Fiesta
-DTSTART:20261115T020000Z
-DTEND:20261114T070000Z
-DTSTAMP:20261115T020000Z
-UID:BRIC House Party presents Brooklyn Brujeria Day II: Noche de Salsa + F
- iesta-2026-11-15T02:00:00+00:00
-DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/event/bric-house-party-pr
- esents-brooklyn-brujeria-day-ii-magic-market-fair-noche-de-salsa-fiesta/\n
- https://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org
- /wp-content/uploads/2026/09/TOB_8247-1-1-200x200.jpg" alt="" />
-LOCATION:BRIC House
+SUMMARY:Mini Studio Production
+DTSTART:20261114T190000Z
+DTEND:20261114T220000Z
+DTSTAMP:20261114T190000Z
+UID:Mini Studio Production-2026-11-14T19:00:00+00:00
+DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
+ oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House Media Center
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alternatives to Adobe\, online
+DTSTART:20261114T160000Z
+DTEND:20261114T180000Z
+DTSTAMP:20261114T160000Z
+UID:Alternatives to Adobe\, online-2026-11-14T16:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/alternatives-to-ad
+ obe/
+LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:BRIC House Party presents Brooklyn Brujeria Day II: Magic Market +
@@ -361,33 +367,26 @@ DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/event/bric-house-party-pr
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alternatives to Adobe\, online
-DTSTART:20261114T160000Z
-DTEND:20261114T180000Z
-DTSTAMP:20261114T160000Z
-UID:Alternatives to Adobe\, online-2026-11-14T16:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/alternatives-to-ad
- obe/
-LOCATION:Virtual
+SUMMARY:BRIC House Party presents Brooklyn Brujeria Day II: Noche de Salsa
+  + Fiesta
+DTSTART:20261115T020000Z
+DTEND:20261114T070000Z
+DTSTAMP:20261115T020000Z
+UID:BRIC House Party presents Brooklyn Brujeria Day II: Noche de Salsa + F
+ iesta-2026-11-15T02:00:00+00:00
+DESCRIPTION:Cost: $15\nhttps://bricartsmedia.org/event/bric-house-party-pr
+ esents-brooklyn-brujeria-day-ii-magic-market-fair-noche-de-salsa-fiesta/\n
+ https://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org
+ /wp-content/uploads/2026/09/TOB_8247-1-1-200x200.jpg" alt="" />
+LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mini Studio Production
-DTSTART:20261114T190000Z
-DTEND:20261114T220000Z
-DTSTAMP:20261114T190000Z
-UID:Mini Studio Production-2026-11-14T19:00:00+00:00
-DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/mini-studio-pr
- oduction/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Interviewing for Film & TV\, online
-DTSTART:20261117T160000Z
-DTEND:20261117T180000Z
-DTSTAMP:20261117T160000Z
-UID:Interviewing for Film & TV\, online-2026-11-17T16:00:00+00:00
-DESCRIPTION:Cost: 10\,00 $\nhttps://bricartsmedia.org/class/interviewing-f
- or-film-tv/
+SUMMARY:ORIENTATION\, online (BME2)
+DTSTART:20261117T220000Z
+DTEND:20261117T233000Z
+DTSTAMP:20261117T220000Z
+UID:ORIENTATION\, online (BME2)-2026-11-17T22:00:00+00:00
+DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/media-orientation/
 LOCATION:Virtual
 END:VEVENT
 END:VCALENDAR

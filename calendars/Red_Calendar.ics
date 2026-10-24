@@ -481,6 +481,15 @@ DESCRIPTION:https://cal.red/?event=6577\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dykes N' Bass
+DTSTART:20261030T000000Z
+DTEND:20261030T010000Z
+DTSTAMP:20261030T000000Z
+UID:event:6600:2026-10-29T20:00:00
+DESCRIPTION:https://cal.red/?event=6600\nCost: 10 (NOTAFLOF)
+LOCATION:Boyfriend Co-op (Bushwick)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Masma Dream World\, The Human Dream Project\, 'nguento\, Aeonium
 DTSTART:20261030T230000Z
 DTEND:20261031T000000Z
@@ -969,6 +978,15 @@ UID:event:6369:2026-11-21T17:00:00
 DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
  aypal\, Venmo or Zelle. Proceeds go directly to the readers.
 LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chris Urriola - Acoustic w/ Val Kinzler Band
+DTSTART:20261122T010000Z
+DTEND:20261122T020000Z
+DTSTAMP:20261122T010000Z
+UID:event:6598:2026-11-21T20:00:00
+DESCRIPTION:https://cal.red/?event=6598\nCost: See venue for admission
+LOCATION:140 First\, 140 1st Ave\, New York NY 10009 (East Village)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Big Bar Music
