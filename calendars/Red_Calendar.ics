@@ -60,13 +60,22 @@ DESCRIPTION:https://cal.red/?event=6540\nEast Village\nCost: Free\, no tic
 LOCATION:431 East 6th Street #4 Roof
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:
-DTSTART:20261029T230000Z
-DTEND:20261030T000000Z
-DTSTAMP:20261029T230000Z
-UID:event:6577:2026-10-29T19:00:00
-DESCRIPTION:https://cal.red/?event=6577\nCost: 0
-LOCATION:
+SUMMARY:Konrad Aderer’s ENEMY ALIEN
+DTSTART:20261029T220000Z
+DTEND:20261029T230000Z
+DTSTAMP:20261029T220000Z
+UID:event:6641:2026-10-29T18:00:00
+DESCRIPTION:https://cal.red/?event=6641\nCost: 0
+LOCATION:PIT
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Roof 50th event at NYU this week!
+DTSTART:20261029T220000Z
+DTEND:20261029T230000Z
+DTSTAMP:20261029T220000Z
+UID:event:6645:2026-10-29T18:00:00
+DESCRIPTION:https://cal.red/?event=6645\nCost: 0
+LOCATION:244 Greene St
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PSNY Virtual Workshop: Speculative Poetry
@@ -76,6 +85,24 @@ DTSTAMP:20261029T230000Z
 UID:event:6239:2026-10-29T19:00:00
 DESCRIPTION:https://cal.red/?event=6239\nCost: $28.52
 LOCATION:Zoom
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:
+DTSTART:20261029T230000Z
+DTEND:20261030T000000Z
+DTSTAMP:20261029T230000Z
+UID:event:6577:2026-10-29T19:00:00
+DESCRIPTION:https://cal.red/?event=6577\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🎶 Join us for our last event of the year! 🎶
+DTSTART:20261029T230000Z
+DTEND:20261030T000000Z
+DTSTAMP:20261029T230000Z
+UID:event:6646:2026-10-29T19:00:00
+DESCRIPTION:https://cal.red/?event=6646\nCost: 0
+LOCATION:📍 Poets House\, 10 River Terrace\, New York
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dykes N' Bass
@@ -99,6 +126,15 @@ DESCRIPTION:https://cal.red/?event=6614\n1642 Weirfield St.\, Ridgewood\,
 LOCATION:𝙏𝙀𝙈𝙋𝙀𝙎𝙏
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Masma Dream World\, The Human Dream Project\, 'nguento\, Aeonium
+DTSTART:20261030T230000Z
+DTEND:20261031T000000Z
+DTSTAMP:20261030T230000Z
+UID:event:6226:2026-10-30T19:00:00
+DESCRIPTION:https://cal.red/?event=6226\nCost: 20
+LOCATION:Stone Circle Theatre Sanctuary\, Ridgewood\, NY
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tony Kushner's A Bright Room Called Day
 DTSTART:20261030T230000Z
 DTEND:20261031T000000Z
@@ -106,15 +142,6 @@ DTSTAMP:20261030T230000Z
 UID:event:6384:2026-10-30T19:00:00
 DESCRIPTION:https://cal.red/?event=6384\nCost: $40
 LOCATION:Crown Heights Brooklyn
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:disonare 10
-DTSTART:20261030T230000Z
-DTEND:20261031T000000Z
-DTSTAMP:20261030T230000Z
-UID:event:6530:2026-10-30T19:00:00
-DESCRIPTION:https://cal.red/?event=6530\nCost: 0
-LOCATION:Torn Page Salon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SINA NAJAFI TALKS ABOUT GENOCIDE WITH EYAL WEIZMAN
@@ -126,13 +153,13 @@ DESCRIPTION:https://cal.red/?event=6478\nCost: Free
 LOCATION:222 Bowery New York\, NY 10012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Masma Dream World\, The Human Dream Project\, 'nguento\, Aeonium
+SUMMARY:disonare 10
 DTSTART:20261030T230000Z
 DTEND:20261031T000000Z
 DTSTAMP:20261030T230000Z
-UID:event:6226:2026-10-30T19:00:00
-DESCRIPTION:https://cal.red/?event=6226\nCost: 20
-LOCATION:Stone Circle Theatre Sanctuary\, Ridgewood\, NY
+UID:event:6530:2026-10-30T19:00:00
+DESCRIPTION:https://cal.red/?event=6530\nCost: 0
+LOCATION:Torn Page Salon
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:8Ball-O-Ween: Ghouls Gone Wild
@@ -220,6 +247,15 @@ DESCRIPTION:https://cal.red/?event=6508\nCost: 1 drink per set or donate t
 LOCATION:@ big bar (21+)\, 75 e. 7th st.\, east village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:First Mondays at Performance Space New York
+DTSTART:20261103T000000Z
+DTEND:20261103T010000Z
+DTSTAMP:20261103T000000Z
+UID:event:6356:2026-11-02T19:00:00
+DESCRIPTION:https://cal.red/?event=6356\nCost: 🖤Always FREE with RSVP!
+LOCATION:Performance Space New York
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Women+ on the Edge of Democracy
 DTSTART:20261103T000000Z
 DTEND:20261103T010000Z
@@ -228,15 +264,6 @@ UID:event:6613:2026-11-02T19:00:00
 DESCRIPTION:https://cal.red/?event=6613\n161A Chrystie St.\, New York\, NY
   10002\nCost: 0
 LOCATION:Dixon Place (LES)
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First Mondays at Performance Space New York
-DTSTART:20261103T000000Z
-DTEND:20261103T010000Z
-DTSTAMP:20261103T000000Z
-UID:event:6356:2026-11-02T19:00:00
-DESCRIPTION:https://cal.red/?event=6356\nCost: 🖤Always FREE with RSVP!
-LOCATION:Performance Space New York
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
@@ -251,16 +278,6 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:On The Origin of Skibidi: A Teach-In on the Internet-ification of 
- Our Everyday Words
-DTSTART:20261103T230000Z
-DTEND:20261104T000000Z
-DTSTAMP:20261103T230000Z
-UID:event:6513:2026-11-03T18:00:00
-DESCRIPTION:https://cal.red/?event=6513\nCost: 0
-LOCATION:Williamsburg Library Auditorium
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Heartland Marimba Quartet NYC Concert
 DTSTART:20261103T230000Z
 DTEND:20261104T000000Z
@@ -269,6 +286,16 @@ UID:event:6103:2026-11-03T18:00:00
 DESCRIPTION:https://cal.red/?event=6103\nCost: $40
 LOCATION:Players Theatre - 115 MacDougal Street\, New York\, NY\, United S
  tates\, 10012.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:On The Origin of Skibidi: A Teach-In on the Internet-ification of 
+ Our Everyday Words
+DTSTART:20261103T230000Z
+DTEND:20261104T000000Z
+DTSTAMP:20261103T230000Z
+UID:event:6513:2026-11-03T18:00:00
+DESCRIPTION:https://cal.red/?event=6513\nCost: 0
+LOCATION:Williamsburg Library Auditorium
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Too Fat for China
@@ -300,15 +327,6 @@ DESCRIPTION:https://cal.red/?event=6601\nCost: 0
 LOCATION:Antler Accelerator\, 33 W. 17th Street\, 6th Floor (Flatiron)
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Translating Palestine Now
-DTSTART:20261105T000000Z
-DTEND:20261105T010000Z
-DTSTAMP:20261105T000000Z
-UID:event:6637:2026-11-04T19:00:00
-DESCRIPTION:https://cal.red/?event=6637\nCost: 0
-LOCATION:The People's Forum\, Manhattan
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skip the Small Talk Night at Threes Brewing Greenpoint
 DTSTART:20261105T000000Z
 DTEND:20261105T010000Z
@@ -316,6 +334,15 @@ DTSTAMP:20261105T000000Z
 UID:event:6617:2026-11-04T19:00:00
 DESCRIPTION:https://cal.red/?event=6617\nCost: $15 (sale\; regularly $24)
 LOCATION:Threes Brewing Greenpoint\, 113 Franklin St\, Brooklyn\, NY 11222
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Translating Palestine Now
+DTSTART:20261105T000000Z
+DTEND:20261105T010000Z
+DTSTAMP:20261105T000000Z
+UID:event:6637:2026-11-04T19:00:00
+DESCRIPTION:https://cal.red/?event=6637\nCost: 0
+LOCATION:The People's Forum\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (NLNL)
@@ -338,6 +365,35 @@ DESCRIPTION:https://cal.red/?event=6479\nCost: $10
 LOCATION:222 Bowery New York\, NY 10012
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Millennial Speed-Dating (Monogamous)
+DTSTART:20261106T000000Z
+DTEND:20261106T010000Z
+DTSTAMP:20261106T000000Z
+UID:event:6619:2026-11-05T19:00:00
+DESCRIPTION:https://cal.red/?event=6619\nCost: $35 (sale\; regularly $55)
+LOCATION:McCarren Parkhouse\, 855 Lorimer St\, Brooklyn\, NY 11222 (Greenp
+ oint / Williamsburg)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nobody's Dummy
+DTSTART:20261106T000000Z
+DTEND:20261106T010000Z
+DTSTAMP:20261106T000000Z
+UID:event:6643:2026-11-05T19:00:00
+DESCRIPTION:https://cal.red/?event=6643\n264 Canal Street\, #3W\nNew York\
+ , NY 10013\nCost: Free
+LOCATION:Triple Canopy & Electronic Arts Intermix
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anti-AI Porn Teach In - Socialist Feminist WG x Tech Action WG
+DTSTART:20261106T000000Z
+DTEND:20261106T010000Z
+DTSTAMP:20261106T000000Z
+UID:event:6647:2026-11-05T19:00:00
+DESCRIPTION:https://cal.red/?event=6647\nCost: 0
+LOCATION:NYC-DSA Midtown Office • 315 W 35th St\, New York\, NY 10001 US
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
  𝘛 𝘐𝘚𝘕’𝘛 𝘛𝘏𝘌 𝘛𝘖𝘔 𝘍𝘖𝘖𝘓𝘌
  𝘙𝘠 𝘖𝘍 𝘍𝘈𝘓𝘓. 𝐒𝐇𝐀𝐑𝐏𝐄𝐍 𝐘𝐎
@@ -353,6 +409,15 @@ UID:event:5977:2026-11-05T20:00:00
 DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
  h event on website.\nCost: Variable
 LOCATION:Pageant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The next Rogue Loon Reading Series is upon us!
+DTSTART:20261106T010000Z
+DTEND:20261106T020000Z
+DTSTAMP:20261106T010000Z
+UID:event:6642:2026-11-05T20:00:00
+DESCRIPTION:https://cal.red/?event=6642\nCost: 0
+LOCATION:@blackspringbooks
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20s Skip the Small Talk Night at Bibliotheque NYC with SaySimons
@@ -400,6 +465,15 @@ DESCRIPTION:https://cal.red/?event=6609\n1134 President St.\nBrooklyn\, NY
 LOCATION:Rodeo
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Intro to Self-Defense Workshop
+DTSTART:20261107T190000Z
+DTEND:20261107T200000Z
+DTSTAMP:20261107T190000Z
+UID:event:6520:2026-11-07T14:00:00
+DESCRIPTION:https://cal.red/?event=6520\nCost: 0
+LOCATION:Outbox\, Bushwick
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Play Without Ceasing
 DTSTART:20261107T190000Z
 DTEND:20261107T200000Z
@@ -409,15 +483,6 @@ DESCRIPTION:https://cal.red/?event=6556\n252 Green Street\, 3rd Floor\nBro
  oklyn\, NY 11222\nGreenpoint\, Brooklyn\nCost: Sliding Scale - $12.00 to $
  30.00 ($12 Tickets with code FAITH)
 LOCATION:Bechdel Project
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Intro to Self-Defense Workshop
-DTSTART:20261107T190000Z
-DTEND:20261107T200000Z
-DTSTAMP:20261107T190000Z
-UID:event:6520:2026-11-07T14:00:00
-DESCRIPTION:https://cal.red/?event=6520\nCost: 0
-LOCATION:Outbox\, Bushwick
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cretins
@@ -519,6 +584,15 @@ DESCRIPTION:https://cal.red/?event=4537\nCost: Suggested donation (which h
 LOCATION:Park Slope
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Triple Canopy Symposium 🤝 Durations (@durations.world)
+DTSTART:20261110T000000Z
+DTEND:20261110T010000Z
+DTSTAMP:20261110T000000Z
+UID:event:6644:2026-11-09T19:00:00
+DESCRIPTION:https://cal.red/?event=6644\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🅰🅳🅳   🆈🅾🆄🆁   🅴🆅🅴🅽🆃   🆃🅾 
    🅲🅰🅻.🆁🅴🅳
 DTSTART:20261110T010000Z
@@ -551,6 +625,24 @@ DESCRIPTION:https://cal.red/?event=6554\n192 10th Ave\, New York\, NY 1001
 LOCATION:192 Books\, Chelsea
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Millennial Skip the Small Talk Night at Threes Brewing Gowanus
+DTSTART:20261111T000000Z
+DTEND:20261111T010000Z
+DTSTAMP:20261111T000000Z
+UID:event:6621:2026-11-10T19:00:00
+DESCRIPTION:https://cal.red/?event=6621\nCost: $15 (sale\; regularly $24)
+LOCATION:Threes Brewing Gowanus\, 333 Douglass St\, Brooklyn\, NY 11217
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Triple Canopy Symposium 🤝 Durations (@durations.world)
+DTSTART:20261111T000000Z
+DTEND:20261111T010000Z
+DTSTAMP:20261111T000000Z
+UID:event:6644:2026-11-10T19:00:00
+DESCRIPTION:https://cal.red/?event=6644\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Book Launch: Mud Songs with Patricio Ferrari and Urayoán Noel
 DTSTART:20261112T000000Z
 DTEND:20261112T010000Z
@@ -559,6 +651,25 @@ UID:event:6555:2026-11-11T19:00:00
 DESCRIPTION:https://cal.red/?event=6555\n192 10th Ave\, New York\, NY 1001
  1\nCost: 0
 LOCATION:192 Books\, Chelsea
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skip the Small Talk Night at Pianos
+DTSTART:20261112T000000Z
+DTEND:20261112T010000Z
+DTSTAMP:20261112T000000Z
+UID:event:6622:2026-11-11T19:00:00
+DESCRIPTION:https://cal.red/?event=6622\nCost: $28.33 (including fees)
+LOCATION:Pianos: The Mezzanine\, 158 Ludlow St\, New York\, NY 10002 (Lowe
+ r East Side)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQIA+ Skip the Small Talk Night at Bibliotheque NYC
+DTSTART:20261114T000000Z
+DTEND:20261114T010000Z
+DTSTAMP:20261114T000000Z
+UID:event:6623:2026-11-13T19:00:00
+DESCRIPTION:https://cal.red/?event=6623\nCost: $15 (sale\; regularly $24)
+LOCATION:Bibliotheque NYC\, 54 Mercer St\, New York\, NY 10013 (SoHo)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Who's the Boss - Bossware\, AI\, and Workplace Surveillance
@@ -581,6 +692,16 @@ DESCRIPTION:https://cal.red/?event=6606\n509 Atlantic Ave\, Brooklyn\, NY
 LOCATION:Roulette
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
+DTSTART:20261114T220000Z
+DTEND:20261114T230000Z
+DTSTAMP:20261114T220000Z
+UID:event:6369:2026-11-14T17:00:00
+DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
+ aypal\, Venmo or Zelle. Proceeds go directly to the readers.
+LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bets in a Burning House
 DTSTART:20261114T220000Z
 DTEND:20261114T230000Z
@@ -591,14 +712,15 @@ DESCRIPTION:https://cal.red/?event=6605\n509 Atlantic Ave\, Brooklyn\, NY
 LOCATION:Roulette
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
-DTSTART:20261114T220000Z
-DTEND:20261114T230000Z
-DTSTAMP:20261114T220000Z
-UID:event:6369:2026-11-14T17:00:00
-DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
- aypal\, Venmo or Zelle. Proceeds go directly to the readers.
-LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+SUMMARY:Land as Archive: synthesizing environmental\, personal\, and polit
+ ical histories
+DTSTART:20261115T003000Z
+DTEND:20261115T013000Z
+DTSTAMP:20261115T003000Z
+UID:event:6640:2026-11-14T19:30:00
+DESCRIPTION:https://cal.red/?event=6640\n46 Market St\nNew York\, NY 10002
+ \nCost: $25-$250
+LOCATION:Hello Market\, Lower East Side
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ghosted\, Too
@@ -630,6 +752,15 @@ DTSTAMP:20261115T230000Z
 UID:event:6570:2026-11-15T18:00:00
 DESCRIPTION:https://cal.red/?event=6570\nCost: 0
 LOCATION:Trains
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Triple Canopy Symposium 🤝 Durations (@durations.world)
+DTSTART:20261116T000000Z
+DTEND:20261116T010000Z
+DTSTAMP:20261116T000000Z
+UID:event:6644:2026-11-15T19:00:00
+DESCRIPTION:https://cal.red/?event=6644\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:
@@ -681,6 +812,16 @@ DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
 LOCATION:The RAT NYC (DUMBO)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Skip the Small Talk Night at McCarren Parkhouse
+DTSTART:20261118T000000Z
+DTEND:20261118T010000Z
+DTSTAMP:20261118T000000Z
+UID:event:6624:2026-11-17T19:00:00
+DESCRIPTION:https://cal.red/?event=6624\nCost: $15 (sale\; regularly $24)
+LOCATION:McCarren Parkhouse\, 855 Lorimer St\, Brooklyn\, NY 11222 (Greenp
+ oint / Williamsburg)
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:We Charge Genocide at 75
 DTSTART:20261118T230000Z
 DTEND:20261119T000000Z
@@ -714,6 +855,16 @@ UID:event:5977:2026-11-19T20:00:00
 DESCRIPTION:https://cal.red/?event=5977\n\nNOTE: Check time of day for eac
  h event on website.\nCost: Variable
 LOCATION:Pageant
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millennial Speed-Dating (Monogamous)
+DTSTART:20261121T000000Z
+DTEND:20261121T010000Z
+DTSTAMP:20261121T000000Z
+UID:event:6625:2026-11-20T19:00:00
+DESCRIPTION:https://cal.red/?event=6625\nCost: $35 (sale\; regularly $55)
+LOCATION:Liz's Book Bar\, 315 Smith St\, Brooklyn\, NY 11231 (Carroll Gard
+ ens)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
@@ -750,6 +901,17 @@ UID:event:6369:2026-11-21T17:00:00
 DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
  aypal\, Venmo or Zelle. Proceeds go directly to the readers.
 LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:OGRE: a t4t fairytale
+DTSTART:20261122T000000Z
+DTEND:20261122T010000Z
+DTSTAMP:20261122T000000Z
+UID:event:6618:2026-11-21T19:00:00
+DESCRIPTION:https://cal.red/?event=6618\n163 W 72nd Street \n*please note\
+ , the performance is located on the second floor with no elevator access\n
+ Cost: $25 online\, with a $10 bodega minimum
+LOCATION:Upper West Side - The Reverie Room
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chris Urriola - Acoustic w/ Val Kinzler Band
@@ -823,6 +985,15 @@ DESCRIPTION:https://cal.red/?event=6508\nCost: 1 drink per set or donate t
 LOCATION:@ big bar (21+)\, 75 e. 7th st.\, east village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:LGBTQIA+ Skip the Small Talk Night at Threes Brewing Gowanus
+DTSTART:20261202T000000Z
+DTEND:20261202T010000Z
+DTSTAMP:20261202T000000Z
+UID:event:6626:2026-12-01T19:00:00
+DESCRIPTION:https://cal.red/?event=6626\nCost: $15 (sale\; regularly $24)
+LOCATION:Threes Brewing Gowanus\, 333 Douglass St\, Brooklyn\, NY 11217
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Unruly Play
 DTSTART:20261203T000000Z
 DTEND:20261203T010000Z
@@ -878,6 +1049,15 @@ DESCRIPTION:https://cal.red/?event=6356\nCost: 🖤Always FREE with RSVP!
 LOCATION:Performance Space New York
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Skip the Small Talk Night at Threes Brewing Greenpoint
+DTSTART:20261210T000000Z
+DTEND:20261210T010000Z
+DTSTAMP:20261210T000000Z
+UID:event:6628:2026-12-09T19:00:00
+DESCRIPTION:https://cal.red/?event=6628\nCost: $15 (sale\; regularly $24)
+LOCATION:Threes Brewing Greenpoint\, 113 Franklin St\, Brooklyn\, NY 11222
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ménage à Trois IV: HOME
 DTSTART:20261211T000000Z
 DTEND:20261211T010000Z
@@ -924,6 +1104,52 @@ DESCRIPTION:https://cal.red/?event=6599\nCost: $10 advance\, $15 day of sh
  ow
 LOCATION:Bowery Palace\, 327 Bowery\, New York NY 10003 (NoHo / East Villa
  ge)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millennial Speed-Dating (Monogamous)
+DTSTART:20261218T000000Z
+DTEND:20261218T010000Z
+DTSTAMP:20261218T000000Z
+UID:event:6629:2026-12-17T19:00:00
+DESCRIPTION:https://cal.red/?event=6629\nCost: $35 (sale\; regularly $55)
+LOCATION:Bibliotheque NYC\, 54 Mercer St\, New York\, NY 10013 (SoHo)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:20s Skip the Small Talk Night at Bibliotheque NYC
+DTSTART:20270108T000000Z
+DTEND:20270108T010000Z
+DTSTAMP:20270108T000000Z
+UID:event:6631:2027-01-07T19:00:00
+DESCRIPTION:https://cal.red/?event=6631\nCost: $15 (sale\; regularly $24)
+LOCATION:Bibliotheque NYC\, 54 Mercer St\, New York\, NY 10013 (SoHo)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQIA+ Skip the Small Talk Night at Bibliotheque NYC
+DTSTART:20270121T000000Z
+DTEND:20270121T010000Z
+DTSTAMP:20270121T000000Z
+UID:event:6633:2027-01-20T19:00:00
+DESCRIPTION:https://cal.red/?event=6633\nCost: $15 (sale\; regularly $24)
+LOCATION:Bibliotheque NYC\, 54 Mercer St\, New York\, NY 10013 (SoHo)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Skip the Small Talk Night at P&T Knitwear Bookstore
+DTSTART:20270123T000000Z
+DTEND:20270123T010000Z
+DTSTAMP:20270123T000000Z
+UID:event:6634:2027-01-22T19:00:00
+DESCRIPTION:https://cal.red/?event=6634\nCost: $15 (sale\; regularly $24)
+LOCATION:P&T Knitwear Bookstore\, 180 Orchard St\, New York\, NY 10002 (Lo
+ wer East Side)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Millennial Speed-Dating (Monogamous)
+DTSTART:20270128T000000Z
+DTEND:20270128T010000Z
+DTSTAMP:20270128T000000Z
+UID:event:6635:2027-01-27T19:00:00
+DESCRIPTION:https://cal.red/?event=6635\nCost: $35 (sale\; regularly $55)
+LOCATION:Bibliotheque NYC\, 54 Mercer St\, New York\, NY 10013 (SoHo)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dale Smith\, Casper Lee\, Nicole Wallace
