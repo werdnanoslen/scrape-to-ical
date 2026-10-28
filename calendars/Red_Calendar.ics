@@ -11,73 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
-SUMMARY:What happens to poetry when we share our language with machines?
-DTSTART:20261027T210000Z
-DTEND:20261027T220000Z
-DTSTAMP:20261027T210000Z
-UID:event:6576:2026-10-27T17:00:00
-DESCRIPTION:https://cal.red/?event=6576\nCost: 0
-LOCATION:Onassis ONX\, 390 Broadway\, 4th Floor\, New York
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mindful Doodling
-DTSTART:20261027T223000Z
-DTEND:20261027T233000Z
-DTSTAMP:20261027T223000Z
-UID:event:6562:2026-10-27T18:30:00
-DESCRIPTION:https://cal.red/?event=6562\nCost: 0 (Donation is welcome)
-LOCATION:Zoom
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:a [room] of our own: a terminal workshop with viola he
-DTSTART:20261027T223000Z
-DTEND:20261027T233000Z
-DTSTAMP:20261027T223000Z
-UID:event:6546:2026-10-27T18:30:00
-DESCRIPTION:https://cal.red/?event=6546\n47 Great Jones\, 3rd Floor\nNew Y
- ork\, NY\nCost: 45
-LOCATION:CultureHub\, East Village
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SALON: Hair/Power Book Release and Signing
-DTSTART:20261027T223000Z
-DTEND:20261027T233000Z
-DTSTAMP:20261027T223000Z
-UID:event:6538:2026-10-27T18:30:00
-DESCRIPTION:https://cal.red/?event=6538\n224 Roebling St.\nBrooklyn\, NY 1
- 1211\n(Williamsburg)\nCost: free
-LOCATION:SALON
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dani Baker Chapbook release TUES OCTOBER 27
-DTSTART:20261027T230000Z
-DTEND:20261028T000000Z
-DTSTAMP:20261027T230000Z
-UID:event:6536:2026-10-27T19:00:00
-DESCRIPTION:https://cal.red/?event=6536\nCost: 0
-LOCATION:@toposbookstore
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:My name is Rachel Corrie
-DTSTART:20261027T230000Z
-DTEND:20261028T000000Z
-DTSTAMP:20261027T230000Z
-UID:event:6602:2026-10-27T19:00:00
-DESCRIPTION:https://cal.red/?event=6602\n154 Christopher St\, New York\, N
- Y 10014 \nThe West Village\nCost: $25
-LOCATION:IRT Theater:
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:WFMU Literary Guild
-DTSTART:20261027T230000Z
-DTEND:20261028T000000Z
-DTSTAMP:20261027T230000Z
-UID:event:6472:2026-10-27T19:00:00
-DESCRIPTION:https://cal.red/?event=6472\nCost: Free admission\, two-drink 
- minimum
-LOCATION:KGB Bar (East Village)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Women+ on the Edge of Democracy
 DTSTART:20261028T150000Z
 DTEND:20261028T160000Z
@@ -165,15 +98,6 @@ DESCRIPTION:https://cal.red/?event=6478\nCost: Free
 LOCATION:222 Bowery New York\, NY 10012
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tony Kushner's A Bright Room Called Day
-DTSTART:20261030T230000Z
-DTEND:20261031T000000Z
-DTSTAMP:20261030T230000Z
-UID:event:6384:2026-10-30T19:00:00
-DESCRIPTION:https://cal.red/?event=6384\nCost: $40
-LOCATION:Crown Heights Brooklyn
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:disonare 10
 DTSTART:20261030T230000Z
 DTEND:20261031T000000Z
@@ -181,6 +105,15 @@ DTSTAMP:20261030T230000Z
 UID:event:6530:2026-10-30T19:00:00
 DESCRIPTION:https://cal.red/?event=6530\nCost: 0
 LOCATION:Torn Page Salon
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tony Kushner's A Bright Room Called Day
+DTSTART:20261030T230000Z
+DTEND:20261031T000000Z
+DTSTAMP:20261030T230000Z
+UID:event:6384:2026-10-30T19:00:00
+DESCRIPTION:https://cal.red/?event=6384\nCost: $40
+LOCATION:Crown Heights Brooklyn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Masma Dream World\, The Human Dream Project\, 'nguento\, Aeonium
@@ -421,15 +354,6 @@ DESCRIPTION:https://cal.red/?event=6609\n1134 President St.\nBrooklyn\, NY
 LOCATION:Rodeo
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Intro to Self-Defense Workshop
-DTSTART:20261107T190000Z
-DTEND:20261107T200000Z
-DTSTAMP:20261107T190000Z
-UID:event:6520:2026-11-07T14:00:00
-DESCRIPTION:https://cal.red/?event=6520\nCost: 0
-LOCATION:Outbox\, Bushwick
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Play Without Ceasing
 DTSTART:20261107T190000Z
 DTEND:20261107T200000Z
@@ -439,6 +363,15 @@ DESCRIPTION:https://cal.red/?event=6556\n252 Green Street\, 3rd Floor\nBro
  oklyn\, NY 11222\nGreenpoint\, Brooklyn\nCost: Sliding Scale - $12.00 to $
  30.00 ($12 Tickets with code FAITH)
 LOCATION:Bechdel Project
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Intro to Self-Defense Workshop
+DTSTART:20261107T190000Z
+DTEND:20261107T200000Z
+DTSTAMP:20261107T190000Z
+UID:event:6520:2026-11-07T14:00:00
+DESCRIPTION:https://cal.red/?event=6520\nCost: 0
+LOCATION:Outbox\, Bushwick
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cretins
@@ -460,6 +393,15 @@ DESCRIPTION:https://cal.red/?event=6369\n[Lower Manhattan]\nCost: $5 via P
 LOCATION:Artists Space\, 11 Cortlandt Alley\, NYC
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Cretins
+DTSTART:20261108T000000Z
+DTEND:20261108T010000Z
+DTSTAMP:20261108T000000Z
+UID:event:6593:2026-11-07T19:00:00
+DESCRIPTION:https://cal.red/?event=6593\nCost: 10
+LOCATION:Cloud City\, 85 N 1st St\, Williamsburg\, Brooklyn\, 11249
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Play Without Ceasing
 DTSTART:20261108T000000Z
 DTEND:20261108T010000Z
@@ -469,15 +411,6 @@ DESCRIPTION:https://cal.red/?event=6556\n252 Green Street\, 3rd Floor\nBro
  oklyn\, NY 11222\nGreenpoint\, Brooklyn\nCost: Sliding Scale - $12.00 to $
  30.00 ($12 Tickets with code FAITH)
 LOCATION:Bechdel Project
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cretins
-DTSTART:20261108T000000Z
-DTEND:20261108T010000Z
-DTSTAMP:20261108T000000Z
-UID:event:6593:2026-11-07T19:00:00
-DESCRIPTION:https://cal.red/?event=6593\nCost: 10
-LOCATION:Cloud City\, 85 N 1st St\, Williamsburg\, Brooklyn\, 11249
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Common Resonance presents Koe (聲): flute and cello
@@ -490,14 +423,15 @@ LOCATION:Zürcher Gallery\, 33 Bleecker Street\, New York\, NY 10012 — N
  oHo\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Big Bar Music
+SUMMARY:Sinema Club Double Feature: TOTALLY F***ED UP (1993) and NOWHERE (
+ 1997)
 DTSTART:20261109T000000Z
 DTEND:20261109T010000Z
 DTSTAMP:20261109T000000Z
-UID:event:6508:2026-11-08T19:00:00
-DESCRIPTION:https://cal.red/?event=6508\nCost: 1 drink per set or donate t
- o band
-LOCATION:@ big bar (21+)\, 75 e. 7th st.\, east village\, mnhtn
+UID:event:6604:2026-11-08T19:00:00
+DESCRIPTION:https://cal.red/?event=6604\nCost: $10 for existing members / 
+ $12 for non-members
+LOCATION:267 Douglass St\, 3rd floor\, (Gowanus) Brooklyn\, NY 11217
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Garbage Man Stan Film Premiere Featuring Live Music Performances
@@ -509,15 +443,14 @@ DESCRIPTION:https://cal.red/?event=6603\nCost: $18
 LOCATION:Future Space Studios in Ridgewood
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sinema Club Double Feature: TOTALLY F***ED UP (1993) and NOWHERE (
- 1997)
+SUMMARY:Big Bar Music
 DTSTART:20261109T000000Z
 DTEND:20261109T010000Z
 DTSTAMP:20261109T000000Z
-UID:event:6604:2026-11-08T19:00:00
-DESCRIPTION:https://cal.red/?event=6604\nCost: $10 for existing members / 
- $12 for non-members
-LOCATION:267 Douglass St\, 3rd floor\, (Gowanus) Brooklyn\, NY 11217
+UID:event:6508:2026-11-08T19:00:00
+DESCRIPTION:https://cal.red/?event=6508\nCost: 1 drink per set or donate t
+ o band
+LOCATION:@ big bar (21+)\, 75 e. 7th st.\, east village\, mnhtn
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
