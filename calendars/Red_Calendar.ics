@@ -76,6 +76,17 @@ DESCRIPTION:https://cal.red/?event=6600\nCost: 10 (NOTAFLOF)
 LOCATION:Boyfriend Co-op (Bushwick)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:mixing-it-up (Luke Stewart\, Shara Lunon\, Majid Araim\, Jennifer 
+ Gersten\, Caroline Morton\, Marc Edwards\, John King)
+DTSTART:20261030T000000Z
+DTEND:20261030T010000Z
+DTSTAMP:20261030T000000Z
+UID:event:6651:2026-10-29T20:00:00
+DESCRIPTION:https://cal.red/?event=6651\nCost: $20
+LOCATION:@ nublu classic (21+)\, 62 loisaida / ave c\, alphabet city\, mnh
+ tn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝙄𝙨𝙞𝙨 𝘿𝙖𝙫𝙞𝙨-𝙈𝙖𝙧𝙠𝙨 / 𝘾
  𝙧𝙪𝙚𝙡 𝙊𝙥𝙩𝙞𝙢𝙞𝙨𝙢 / w text by 𝙎𝙖𝙧
  𝙖𝙝 𝘾𝙝𝙚𝙠𝙛𝙖
@@ -187,6 +198,15 @@ DTSTAMP:20261101T190000Z
 UID:event:6541:2026-11-01T14:00:00
 DESCRIPTION:https://cal.red/?event=6541\nCost: 0
 LOCATION:Rufus King Park\, Jamaica\, Queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:inconvenient brass band in the galley!
+DTSTART:20261101T200000Z
+DTEND:20261101T210000Z
+DTSTAMP:20261101T200000Z
+UID:event:6650:2026-11-01T15:00:00
+DESCRIPTION:https://cal.red/?event=6650\nCost: FREE
+LOCATION:Earth Bound Books : 148flushing ave bk
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winterfat Writing Circle #3: Lessons of the Land
@@ -398,6 +418,15 @@ DTSTAMP:20261107T000000Z
 UID:event:6636:2026-11-06T19:00:00
 DESCRIPTION:https://cal.red/?event=6636\nCost: 20
 LOCATION:BUSHWICK/EAST WILLIAMSBURG
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Danger Boss\, CONCEALER\, Angel Puppet
+DTSTART:20261107T000000Z
+DTEND:20261107T010000Z
+DTSTAMP:20261107T000000Z
+UID:event:6649:2026-11-06T19:00:00
+DESCRIPTION:https://cal.red/?event=6649\nCost: $25
+LOCATION:20 Meadow St Williamsburg
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐

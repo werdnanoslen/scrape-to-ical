@@ -185,6 +185,19 @@ DESCRIPTION:Cost: 40\,00 $\nhttps://bricartsmedia.org/class/davinci-resolv
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unbound & Beautiful: A Wearable Patch Workshop 
+DTSTART:20261107T190000Z
+DTEND:20261107T210000Z
+DTSTAMP:20261107T190000Z
+UID:Unbound & Beautiful: A Wearable Patch Workshop -2026-11-07T19:00:00+00
+ :00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/unbound-beautiful-
+ a-wearable-patch-workshop/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6\n<img sr
+ c="https://bricartsmedia.org/wp-content/uploads/2026/10/IMG_2587-1-200x200
+ .jpeg" alt="" />
+LOCATION:BRIC House Gallery
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall Exhibitions Tour
 DTSTART:20261107T193000Z
 DTEND:20261107T203000Z
@@ -278,6 +291,20 @@ DESCRIPTION:Cost: 50\,00 $\nhttps://bricartsmedia.org/class/motion-graphic
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:First Look: Scripted In Brooklyn BRIC TV x National Endowment for 
+ the Arts
+DTSTART:20261112T000000Z
+DTEND:20261112T030000Z
+DTSTAMP:20261112T000000Z
+UID:First Look: Scripted In Brooklyn BRIC TV x National Endowment for the 
+ Arts-2026-11-12T00:00:00+00:00
+DESCRIPTION:Cost: FREE\nhttps://bricartsmedia.org/event/first-look-scripte
+ d-in-brooklyn-bric-tv-x-national-endowment-for-the-arts/\nhttps://goo.gl/m
+ aps/vX4YR8kcVXHmbBZJ6\n<img src="https://bricartsmedia.org/wp-content/uplo
+ ads/2026/01/File-200x200.png" alt="" />
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall Exhibitions Tour
 DTSTART:20261114T193000Z
 DTEND:20261114T203000Z
@@ -343,6 +370,18 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/alternatives-to-ad
 LOCATION:Virtual
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Center for Communication | Launch Pad: Start Your Career in Film &
+ #038\; TV
+DTSTART:20261117T233000Z
+DTEND:20261118T010000Z
+DTSTAMP:20261117T233000Z
+UID:Center for Communication | Launch Pad: Start Your Career in Film &#038
+ \; TV-2026-11-17T23:30:00+00:00
+DESCRIPTION:https://www.centerforcommunication.org/calendar/launch-pad-sta
+ rt-your-career-in-film-tv\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Interviewing for Film & TV\, online
 DTSTART:20261117T160000Z
 DTEND:20261117T180000Z
@@ -372,15 +411,5 @@ UID:BRIC x Seed&#038\;Spark: Stretch that Buck: Film Budgeting 101 &#8211\
 DESCRIPTION:https://bricartsmedia.org/class/bric-x-seedspark-stretch-that-
  buck-film-budgeting-101-november-18-2026/
 LOCATION:Virtual
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Make a Digital Story\, BRIC
-DTSTART:20261118T190000Z
-DTEND:20261118T210000Z
-DTSTAMP:20261118T190000Z
-UID:Make a Digital Story\, BRIC-2026-11-18T19:00:00+00:00
-DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/make-a-digital-sto
- ry/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
 END:VEVENT
 END:VCALENDAR
