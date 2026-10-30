@@ -11,6 +11,18 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Red Calendar
 BEGIN:VEVENT
+SUMMARY:END VIOLENCE AGAINST WOMEN: A FEMINIST HALLOWEEN SCREAM 🖤🌙
+DTSTART:20261030T210000Z
+DTEND:20261030T220000Z
+DTSTAMP:20261030T210000Z
+UID:event:6661:2026-10-30T17:00:00
+DESCRIPTION:https://cal.red/?event=6661\n\n⏰ 5-530p Bellevue Hospital 46
+ 2 1st Ave\, NY\, NY 10016\n⏰ 530-630p Plaza across the street at 27th St
+  and 1st Ave\nCost: 0
+LOCATION:Join us as we gather outside Bellevue Hospital to hold space for 
+ survivors\, share our truths\, and unleash our collective fury.
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:𝙄𝙨𝙞𝙨 𝘿𝙖𝙫𝙞𝙨-𝙈𝙖𝙧𝙠𝙨 / 𝘾
  𝙧𝙪𝙚𝙡 𝙊𝙥𝙩𝙞𝙢𝙞𝙨𝙢 / w text by 𝙎𝙖𝙧
  𝙖𝙝 𝘾𝙝𝙚𝙠𝙛𝙖
@@ -21,6 +33,26 @@ UID:event:6614:2026-10-30T18:00:00
 DESCRIPTION:https://cal.red/?event=6614\n1642 Weirfield St.\, Ridgewood\, 
  NY 11385\nCost: 0
 LOCATION:𝙏𝙀𝙈𝙋𝙀𝙎𝙏
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Really excited to have Ibrahima Sow back at PIT on Fri Oct 30 — 
+ with David Beal and Duff McIntosh from Th’ Inbred!  Sick show!!!
+DTSTART:20261030T223000Z
+DTEND:20261030T233000Z
+DTSTAMP:20261030T223000Z
+UID:event:6655:2026-10-30T18:30:00
+DESCRIPTION:https://cal.red/?event=6655\nCost: 0
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:incoming this fifth friday… an evening of guided web surfing ! 
+ ✨
+DTSTART:20261030T223000Z
+DTEND:20261030T233000Z
+DTSTAMP:20261030T223000Z
+UID:event:6658:2026-10-30T18:30:00
+DESCRIPTION:https://cal.red/?event=6658\nCost: 0
+LOCATION:triple canopy
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Masma Dream World\, The Human Dream Project\, 'nguento\, Aeonium
@@ -66,6 +98,15 @@ DTSTAMP:20261031T030000Z
 UID:event:6537:2026-10-30T23:00:00
 DESCRIPTION:https://cal.red/?event=6537\nCost: $10-25
 LOCATION:Trans-Pecos (Ridgewood / Bushwick Border)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:MAYDAY World of Witches Market
+DTSTART:20261031T160000Z
+DTEND:20261031T170000Z
+DTSTAMP:20261031T160000Z
+UID:event:6656:2026-10-31T12:00:00
+DESCRIPTION:https://cal.red/?event=6656\nCost: 0
+LOCATION:
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tarot Cabaret
@@ -122,6 +163,15 @@ DTSTAMP:20261101T190000Z
 UID:event:6541:2026-11-01T14:00:00
 DESCRIPTION:https://cal.red/?event=6541\nCost: 0
 LOCATION:Rufus King Park\, Jamaica\, Queens
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FREE Sashiko workshop
+DTSTART:20261101T190000Z
+DTEND:20261101T200000Z
+DTSTAMP:20261101T190000Z
+UID:event:6660:2026-11-01T14:00:00
+DESCRIPTION:https://cal.red/?event=6660\nCost: 🎟️ FREE!
+LOCATION:📍 The 14th Street Y
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:inconvenient brass band in the galley!
@@ -204,14 +254,13 @@ DESCRIPTION:https://cal.red/?event=6513\nCost: 0
 LOCATION:Williamsburg Library Auditorium
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Too Fat for China
-DTSTART:20261103T233000Z
-DTEND:20261104T003000Z
-DTSTAMP:20261103T233000Z
-UID:event:6245:2026-11-03T18:30:00
-DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
- nCost: 25.00
-LOCATION:The RAT NYC (DUMBO)
+SUMMARY:the rumors are True 🎩❗️Night Philosophy returns.
+DTSTART:20261104T000000Z
+DTEND:20261104T010000Z
+DTSTAMP:20261104T000000Z
+UID:event:6657:2026-11-03T19:00:00
+DESCRIPTION:https://cal.red/?event=6657\nCost: 0
+LOCATION:317 E Houston St\, NYC
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Real Life Tonight
@@ -222,6 +271,15 @@ UID:event:6468:2026-11-03T21:30:00
 DESCRIPTION:https://cal.red/?event=6468\n21 A Clinton St. New York\, NY\nL
  ower East Side\nCost: $15 online and at the door
 LOCATION:Caveat NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TWC NYC General Meeting
+DTSTART:20261104T223000Z
+DTEND:20261104T233000Z
+DTSTAMP:20261104T223000Z
+UID:event:6671:2026-11-04T17:30:00
+DESCRIPTION:https://cal.red/?event=6671\nCost: Free
+LOCATION:Please register to see the exact location of this event.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Word Play Social: We Give Thanks for our Board Game Friends
@@ -251,6 +309,15 @@ DESCRIPTION:https://cal.red/?event=6637\nCost: 0
 LOCATION:The People's Forum\, Manhattan
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Translating Palestine Now
+DTSTART:20261105T000000Z
+DTEND:20261105T010000Z
+DTSTAMP:20261105T000000Z
+UID:event:6666:2026-11-04T19:00:00
+DESCRIPTION:https://cal.red/?event=6666\nCost: 0
+LOCATION:People's Forum
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:No Lights No Lycra (NLNL)
 DTSTART:20261105T010000Z
 DTEND:20261105T020000Z
@@ -259,6 +326,16 @@ UID:event:6291:2026-11-04T20:00:00
 DESCRIPTION:https://cal.red/?event=6291\nHell's Kitchen\nCost: PWYCA (sugg
  ested $15)
 LOCATION:Prime Produce\, 424 W 54th St
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Join us for an evening of conversation on plants\, migration\, and
+  belonging.
+DTSTART:20261105T230000Z
+DTEND:20261106T000000Z
+DTSTAMP:20261105T230000Z
+UID:event:6653:2026-11-05T18:00:00
+DESCRIPTION:https://cal.red/?event=6653\nCost: 0
+LOCATION:Residency Unlimited\, 360 Court St #4\, Brooklyn\, NY 11231
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MÓNICA DE LA TORRE\, LUCÍA HINOJOSA GAXIOLA AND ANDROS ZINS-BROW
@@ -324,6 +401,15 @@ DTSTAMP:20261106T010000Z
 UID:event:6642:2026-11-05T20:00:00
 DESCRIPTION:https://cal.red/?event=6642\nCost: 0
 LOCATION:@blackspringbooks
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Civics
+DTSTART:20261106T230000Z
+DTEND:20261107T000000Z
+DTSTAMP:20261106T230000Z
+UID:event:6667:2026-11-06T18:00:00
+DESCRIPTION:https://cal.red/?event=6667\nCost: 0
+LOCATION:Stavros Niarchos Foundation Library (SNFL) in New York City
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20s Skip the Small Talk Night at Bibliotheque NYC with SaySimons
@@ -418,6 +504,15 @@ DESCRIPTION:https://cal.red/?event=6652\nWilliamsburg\, Brooklyn\nCost: 0
 LOCATION:176 N9
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Come out and meet your new bi boo!
+DTSTART:20261107T200000Z
+DTEND:20261107T210000Z
+DTSTAMP:20261107T200000Z
+UID:event:6665:2026-11-07T15:00:00
+DESCRIPTION:https://cal.red/?event=6665\nCost: 0
+LOCATION:Boyfriend Coop
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Segue Reading Series at Artists Space hosted by Nightboat Books!
 DTSTART:20261107T220000Z
 DTEND:20261107T230000Z
@@ -467,6 +562,17 @@ DESCRIPTION:https://cal.red/?event=6608\n303 Saratoga Ave\, Brooklyn NY 11
 LOCATION:Delight Factory
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Thalassa
+DTSTART:20261108T010000Z
+DTEND:20261108T020000Z
+DTSTAMP:20261108T010000Z
+UID:event:6654:2026-11-07T20:00:00
+DESCRIPTION:https://cal.red/?event=6654\nCost: To join\, please Venmo: @po
+ etsforpal or CashApp: minamorx. Tickets are sliding scale $10-$100. No one
+  will be turned away for lack of funds.
+LOCATION:Boyfriend’s Co-op
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Common Resonance presents Koe (聲): flute and cello
 DTSTART:20261108T220000Z
 DTEND:20261108T230000Z
@@ -507,6 +613,16 @@ DESCRIPTION:https://cal.red/?event=6604\nCost: $10 for existing members /
 LOCATION:267 Douglass St\, 3rd floor\, (Gowanus) Brooklyn\, NY 11217
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free Documentary Screening w/ Filmmaker Q&A
+DTSTART:20261109T000000Z
+DTEND:20261109T010000Z
+DTSTAMP:20261109T000000Z
+UID:event:6673:2026-11-08T19:00:00
+DESCRIPTION:https://cal.red/?event=6673\n506 5th Avenue\nBrooklyn\, NY 112
+ 15\nCost: 0
+LOCATION:Young Ethel's
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Palestine: Fiber Friends of Falastin! [Interference Archive]
 DTSTART:20261109T230000Z
 DTEND:20261110T000000Z
@@ -538,16 +654,6 @@ LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Too Fat for China
-DTSTART:20261110T233000Z
-DTEND:20261111T003000Z
-DTSTAMP:20261110T233000Z
-UID:event:6245:2026-11-10T18:30:00
-DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
- nCost: 25.00
-LOCATION:The RAT NYC (DUMBO)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Two Books from Phenomenal World Books
 DTSTART:20261111T000000Z
 DTEND:20261111T010000Z
@@ -576,6 +682,15 @@ DESCRIPTION:https://cal.red/?event=6644\nCost: 0
 LOCATION:
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:EAI and Rhizome present Trust & Safety
+DTSTART:20261111T000000Z
+DTEND:20261111T010000Z
+DTSTAMP:20261111T000000Z
+UID:event:6659:2026-11-10T19:00:00
+DESCRIPTION:https://cal.red/?event=6659\nCost: 0
+LOCATION:264 Canal St 3W
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Book Launch: Mud Songs with Patricio Ferrari and Urayoán Noel
 DTSTART:20261112T000000Z
 DTEND:20261112T010000Z
@@ -596,6 +711,54 @@ LOCATION:Pianos: The Mezzanine\, 158 Ludlow St\, New York\, NY 10002 (Lowe
  r East Side)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Belladonna* presents SOL CABRINI AND JOEY BAER
+DTSTART:20261112T230000Z
+DTEND:20261113T000000Z
+DTSTAMP:20261112T230000Z
+UID:event:6668:2026-11-12T18:00:00
+DESCRIPTION:https://cal.red/?event=6668\n411 South 5th St\, Williamsburg B
+ K\nCost: The reading is free as always and BYO.
+LOCATION:The P.I.T. (Property is Theft)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Anti-AI Porn Teach In - Socialist Feminist WG x Tech Action WG
+DTSTART:20261113T000000Z
+DTEND:20261113T010000Z
+DTSTAMP:20261113T000000Z
+UID:event:6663:2026-11-12T19:00:00
+DESCRIPTION:https://cal.red/?event=6663\nCost: 0
+LOCATION:NYC-DSA Midtown Office
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twice a year\, Ugly Duckling Presse throws a party to celebrate a 
+ new season of books and chapbooks.
+DTSTART:20261113T003000Z
+DTEND:20261113T013000Z
+DTSTAMP:20261113T003000Z
+UID:event:6669:2026-11-12T19:30:00
+DESCRIPTION:https://cal.red/?event=6669\nCost: 10
+LOCATION:232 3rd St #E303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:𝙄𝙈𝙀𝙎 𝙎𝙌𝙐𝘼𝙍𝙀 𝙇𝘼𝙎 𝙑𝙀
+ 𝙂𝘼𝙎
+DTSTART:20261113T010000Z
+DTEND:20261113T020000Z
+DTSTAMP:20261113T010000Z
+UID:event:6672:2026-11-12T20:00:00
+DESCRIPTION:https://cal.red/?event=6672\nCost: 15
+LOCATION:Life World • NYC
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FORECLOSURES
+DTSTART:20261113T230000Z
+DTEND:20261114T000000Z
+DTSTAMP:20261113T230000Z
+UID:event:6662:2026-11-13T18:00:00
+DESCRIPTION:https://cal.red/?event=6662\nCost: FREE
+LOCATION:People's Forum
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:LGBTQIA+ Skip the Small Talk Night at Bibliotheque NYC
 DTSTART:20261114T000000Z
 DTEND:20261114T010000Z
@@ -603,6 +766,16 @@ DTSTAMP:20261114T000000Z
 UID:event:6623:2026-11-13T19:00:00
 DESCRIPTION:https://cal.red/?event=6623\nCost: $15 (sale\; regularly $24)
 LOCATION:Bibliotheque NYC\, 54 Mercer St\, New York\, NY 10013 (SoHo)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Haunted by Light
+DTSTART:20261114T170000Z
+DTEND:20261114T180000Z
+DTSTAMP:20261114T170000Z
+UID:event:6670:2026-11-14T12:00:00
+DESCRIPTION:https://cal.red/?event=6670\n55 Washington Street\nBrooklyn\, 
+ NY 11201\nCost: Free
+LOCATION:Strother School of Radical Attention
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Who's the Boss - Bossware\, AI\, and Workplace Surveillance
@@ -735,16 +908,6 @@ DESCRIPTION:https://cal.red/?event=6543\nCost: $50 - 100
 LOCATION:Stony Point NY\, with transportation provided from Manhattan
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Too Fat for China
-DTSTART:20261117T233000Z
-DTEND:20261118T003000Z
-DTSTAMP:20261117T233000Z
-UID:event:6245:2026-11-17T18:30:00
-DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
- nCost: 25.00
-LOCATION:The RAT NYC (DUMBO)
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Skip the Small Talk Night at McCarren Parkhouse
 DTSTART:20261118T000000Z
 DTEND:20261118T010000Z
@@ -798,6 +961,16 @@ UID:event:6625:2026-11-20T19:00:00
 DESCRIPTION:https://cal.red/?event=6625\nCost: $35 (sale\; regularly $55)
 LOCATION:Liz's Book Bar\, 315 Smith St\, Brooklyn\, NY 11231 (Carroll Gard
  ens)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Paid Protest Comedy for the NYC DSA Socialist Feminist Working Gro
+ up
+DTSTART:20261121T003000Z
+DTEND:20261121T013000Z
+DTSTAMP:20261121T003000Z
+UID:event:6664:2026-11-20T19:30:00
+DESCRIPTION:https://cal.red/?event=6664\nCost: 15
+LOCATION:Starr Bar
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓 𝘞𝘌𝘓𝘓…𝘐𝘍 𝘐
@@ -886,16 +1059,6 @@ DESCRIPTION:https://cal.red/?event=6054\nCost: Truly like 10 seconds (mayb
  e 30)
 LOCATION:Your cozy home! On the train on ur phone! At your dumb office\; i
  n ur love's arms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Too Fat for China
-DTSTART:20261124T233000Z
-DTEND:20261125T003000Z
-DTSTAMP:20261124T233000Z
-UID:event:6245:2026-11-24T18:30:00
-DESCRIPTION:https://cal.red/?event=6245\n68-117 Jay Street\nBrooklyn\, NY\
- nCost: 25.00
-LOCATION:The RAT NYC (DUMBO)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tracy Cregan\, Conan the Accountant and Earthcreeper
