@@ -963,6 +963,16 @@ LOCATION:Liz's Book Bar\, 315 Smith St\, Brooklyn\, NY 11231 (Carroll Gard
  ens)
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Curious Incident of the Dog in the Night-Time
+DTSTART:20261121T000000Z
+DTEND:20261121T010000Z
+DTSTAMP:20261121T000000Z
+UID:event:6674:2026-11-20T19:00:00
+DESCRIPTION:https://cal.red/?event=6674\nCost: $35-$75
+LOCATION:ART/NY Mezzanine Theatre\, 502 West 53rd Street\, New York\, NY 1
+ 0019
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Paid Protest Comedy for the NYC DSA Socialist Feminist Working Gro
  up
 DTSTART:20261121T003000Z
