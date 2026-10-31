@@ -729,6 +729,16 @@ DESCRIPTION:https://cal.red/?event=6605\n509 Atlantic Ave\, Brooklyn\, NY
 LOCATION:Roulette
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mad Or What?!
+DTSTART:20261115T000000Z
+DTEND:20261115T010000Z
+DTSTAMP:20261115T000000Z
+UID:event:6675:2026-11-14T19:00:00
+DESCRIPTION:https://cal.red/?event=6675\n1260 Myrtle Ave\, Brooklyn\, NY 1
+ 1221\nCost: 10
+LOCATION:Mood Ring - Bushwick
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Land as Archive: synthesizing environmental\, personal\, and polit
  ical histories
 DTSTART:20261115T003000Z
