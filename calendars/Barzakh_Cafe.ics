@@ -11,39 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:Persian Jam Session with Mehrnam Rastegari
-DTSTART:20261031T220000Z
-DTEND:20261101T000000Z
-DTSTAMP:20261031T220000Z
-UID:Persian Jam Session with Mehrnam Rastegari
-DESCRIPTION:https://www.viewcy.com/event/persian_jam_session_w\n<p><img al
- t="Persian Jam Session with Mehrnam Rastegari thumbnail" class="F3H6Gq_cov
- erImg" data-nimg="1" data-sentry-component="ImageWithFallback" data-sentry
- -element="Image" data-sentry-source-file="index.tsx" decoding="async" heig
- ht="186" loading="lazy" src="https://www.viewcy.com/_next/image?url=https%
- 3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredire
- ct%2FeyJfcmFpbHMiOnsiZGF0YSI6MzAwMDkyLCJwdXIiOiJibG9iX2lkIn19--4c376f2af7f
- 74ac4bad31e061bca5b30480bfd28%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcG
- ciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1
- YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af96
- 0c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\
- ;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Fact
- ive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MzAwMDk
- yLCJwdXIiOiJibG9iX2lkIn19--4c376f2af7f74ac4bad31e061bca5b30480bfd28%2FeyJf
- cmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNj
- MwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFu
- ZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89
- %2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?url=https%3A
- %2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect
- %2FeyJfcmFpbHMiOnsiZGF0YSI6MzAwMDkyLCJwdXIiOiJibG9iX2lkIn19--4c376f2af7f74
- ac4bad31e061bca5b30480bfd28%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGci
- LCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YW
- xpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c
- 4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q
- =75 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:EIHA Book Club: Madonna in a Fur Coat by Sabahattin Ali
 DTSTART:20261101T203000Z
 DTEND:20261101T223000Z
@@ -1011,6 +978,39 @@ DESCRIPTION:https://www.viewcy.com/event/teentara_ft_farooque\n<p><img alt
  lcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141
  458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75 2x" style="co
  lor: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shai Permilovsky Trio
+DTSTART:20261128T010000Z
+DTEND:20261128T030000Z
+DTSTAMP:20261128T010000Z
+UID:Shai Permilovsky Trio
+DESCRIPTION:https://www.viewcy.com/event/shai_permilovsky_trio_1\n<p><img 
+ alt="Shai Permilovsky Trio thumbnail" class="F3H6Gq_coverImg" data-nimg="1
+ " data-sentry-component="ImageWithFallback" data-sentry-element="Image" da
+ ta-sentry-source-file="index.tsx" decoding="async" height="186" loading="l
+ azy" src="https://www.viewcy.com/_next/image?url=https%3A%2F%2Fwww.viewcy.
+ com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOn
+ siZGF0YSI6MzEyMzQyLCJwdXIiOiJibG9iX2lkIn19--d517acbf6befd7a8c182d1f2653efb
+ 8349881e19%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZ
+ mlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnR
+ lcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141
+ 458db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75" srcset="/_ne
+ xt/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepre
+ sentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MzEyMzQyLCJwdXIiOiJibG9iX2
+ lkIn19--d517acbf6befd7a8c182d1f2653efb8349881e19%2FeyJfcmFpbHMiOnsiZGF0YSI
+ 6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic
+ 3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmF
+ yaWF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.
+ png&amp\;w=384&amp\;q=75 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.co
+ m%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsi
+ ZGF0YSI6MzEyMzQyLCJwdXIiOiJibG9iX2lkIn19--d517acbf6befd7a8c182d1f2653efb83
+ 49881e19%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml
+ sbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlc
+ mxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb14145
+ 8db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75 2x" style="colo
+ r: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
