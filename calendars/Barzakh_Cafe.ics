@@ -11,41 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Barzakh Cafe
 BEGIN:VEVENT
-SUMMARY:EIHA Book Club: Madonna in a Fur Coat by Sabahattin Ali
-DTSTART:20261101T203000Z
-DTEND:20261101T223000Z
-DTSTAMP:20261101T203000Z
-UID:EIHA Book Club: Madonna in a Fur Coat by Sabahattin Ali
-DESCRIPTION:https://www.viewcy.com/event/eiha_book_club_madon\n<p><img alt
- ="EIHA Book Club: Madonna in a Fur Coat by Sabahattin Ali thumbnail" class
- ="F3H6Gq_coverImg" data-nimg="1" data-sentry-component="ImageWithFallback"
-  data-sentry-element="Image" data-sentry-source-file="index.tsx" decoding=
- "async" height="186" loading="lazy" src="https://www.viewcy.com/_next/imag
- e?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentati
- ons%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MzA1MDY1LCJwdXIiOiJibG9iX2lkIn19-
- -1f54056cfb57bab4eba84a36b989e91ee6f8cae6%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3
- JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAi
- OnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW
- 9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FWhatsApp%2520Image%2520
- 2026-10-05%2520at%252011.59.30%2520PM.jpeg&amp\;w=640&amp\;q=75" srcset="/
- _next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Fre
- presentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MzA1MDY1LCJwdXIiOiJibG9
- iX2lkIn19--1f54056cfb57bab4eba84a36b989e91ee6f8cae6%2FeyJfcmFpbHMiOnsiZGF0
- YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOn
- sic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoi
- dmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FWhatsApp%2520
- Image%25202026-10-05%2520at%252011.59.30%2520PM.jpeg&amp\;w=384&amp\;q=75 
- 1x\, /_next/image?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storag
- e%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MzA1MDY1LCJwdXIiO
- iJibG9iX2lkIn19--1f54056cfb57bab4eba84a36b989e91ee6f8cae6%2FeyJfcmFpbHMiOn
- siZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2
- ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicH
- VyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FWhatsAp
- p%2520Image%25202026-10-05%2520at%252011.59.30%2520PM.jpeg&amp\;w=640&amp\
- ;q=75 2x" style="color: transparent\;" width="308"/></p>
-LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Book Celebration for Darwish: Poems
 DTSTART:20261101T230000Z
 DTEND:20261102T010000Z
@@ -1011,6 +976,39 @@ DESCRIPTION:https://www.viewcy.com/event/shai_permilovsky_trio_1\n<p><img
  mxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb14145
  8db8b42948a4e89%2FNew%2520Designs.png&amp\;w=640&amp\;q=75 2x" style="colo
  r: transparent\;" width="308"/></p>
+LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Morocco in Motion: A Dance Experience with Moul Lmozon
+DTSTART:20261128T030000Z
+DTEND:20261128T050000Z
+DTSTAMP:20261128T030000Z
+UID:Morocco in Motion: A Dance Experience with Moul Lmozon
+DESCRIPTION:https://www.viewcy.com/event/morocco_in_motion_a_1\n<p><img al
+ t="Morocco in Motion: A Dance Experience with Moul Lmozon thumbnail" class
+ ="F3H6Gq_coverImg" data-nimg="1" data-sentry-component="ImageWithFallback"
+  data-sentry-element="Image" data-sentry-source-file="index.tsx" decoding=
+ "async" height="186" loading="lazy" src="https://www.viewcy.com/_next/imag
+ e?url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentati
+ ons%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MzA5MDQwLCJwdXIiOiJibG9iX2lkIn19-
+ -c2b6d1b81be17764f97d33d442fb8de1da666d5a%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3
+ JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAi
+ OnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW
+ 9uIn19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp
+ \;w=640&amp\;q=75" srcset="/_next/image?url=https%3A%2F%2Fwww.viewcy.com%2
+ Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF
+ 0YSI6MzA5MDQwLCJwdXIiOiJibG9iX2lkIn19--c2b6d1b81be17764f97d33d442fb8de1da6
+ 66d5a%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbC
+ I6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOnRydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxh
+ Y2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9uIn19--af960c4893032d1120fb141458db
+ 8b42948a4e89%2FNew%2520Designs.png&amp\;w=384&amp\;q=75 1x\, /_next/image?
+ url=https%3A%2F%2Fwww.viewcy.com%2Frails%2Factive_storage%2Frepresentation
+ s%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6MzA5MDQwLCJwdXIiOiJibG9iX2lkIn19--c
+ 2b6d1b81be17764f97d33d442fb8de1da666d5a%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3Jt
+ YXQiOiJqcGciLCJyZXNpemVfdG9fZmlsbCI6WzExMjAsNjMwXSwic2F2ZXIiOnsic3RyaXAiOn
+ RydWUsInF1YWxpdHkiOjg1LCJpbnRlcmxhY2UiOiJQbGFuZSJ9fSwicHVyIjoidmFyaWF0aW9u
+ In19--af960c4893032d1120fb141458db8b42948a4e89%2FNew%2520Designs.png&amp\;
+ w=640&amp\;q=75 2x" style="color: transparent\;" width="308"/></p>
 LOCATION:Barzakh Cafe\, 147 Utica Ave\, Brooklyn\, NY 11213
 END:VEVENT
 END:VCALENDAR
