@@ -11,36 +11,6 @@ X-MICROSOFT-CALSCALE:GREGORIAN
 X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
-SUMMARY:We Can’t Dream Alone
-DTSTART;VALUE=DATE:20261102T051757Z
-DTEND;VALUE=DATE:20261102T071757Z
-UID:We Can’t Dream Alone-2026-11-02 05:17:57.927257+00:00
-DESCRIPTION:September–October\, 2026\n\nFour paintings by Brooklyn-based
-  artist Madjeen Isaac explore how collective care\, memory\, and ecologica
- l knowledge are crucial to building a more just future.Learn More›about 
- We Can’t Dream Alone\n\nMore info:\nhttps://www.bbg.org/visit/event/we_c
- ant_dream_alone\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/202
- 60902_WeCantDreamAlone_SariGoodfriend48.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall Family Discovery Weekends
-DTSTART;VALUE=DATE:20261101T040000Z
-DTEND;VALUE=DATE:20261101T060000Z
-UID:Fall Family Discovery Weekends-2026-11-01 04:00:00+00:00
-DESCRIPTION:Saturdays & Sundays\, 10:30 a.m.–12:30 p.m. | September 1
- 9–October 31\, 2026  (except October 10–11 and October 24)\n					\n\n
- \n					\n						\n							| Drop-in\n\nLearn and play together in the Discov
- ery Garden. This is a drop-in program for families with children of all ag
- es.Learn More›about Fall Family Discovery Weekends\n\nMore info:\nhttps:
- //www.bbg.org/visit/event/fall_family_discovery_weekends\n\n<img src="/img
- /uploads/manual/hero/_list_thumbnail_regular/custom_weekend-MS-20146021173
- .jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fall Discovery Days
 DTSTART;VALUE=DATE:20261103T050000Z
 DTEND;VALUE=DATE:20261103T070000Z
@@ -131,21 +101,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Discovery Sing-Along with Sabrina Chap
-DTSTART;VALUE=DATE:20261106T050000Z
-DTEND;VALUE=DATE:20261106T070000Z
-UID:Discovery Sing-Along with Sabrina Chap-2026-11-06 05:00:00+00:00
-DESCRIPTION:Wednesday\, November 4 and Friday\, November 6 | 11–11:45 a
- .m.\n					\n\n\n					\n						\n							| Drop-in\n\nCome to the Discovery G
- arden for a garden sing-along! Join Sabrina Chap in singing\, dancing\, an
- d playing with instruments\, scarves\, and bubbles.Learn More›about Disc
- overy Sing-Along with Sabrina Chap\n\nMore info:\nhttps://www.bbg.org/visi
- t/event/discovery_sing_along_with_sabrina_chap\n\n<img src="/img/uploads/h
- ero/_list_thumbnail_regular/DG_Sing_Along_MS_52910076079.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:November Memory Program
 DTSTART;VALUE=DATE:20261106T050000Z
 DTEND;VALUE=DATE:20261106T070000Z
@@ -158,6 +113,21 @@ DESCRIPTION:Friday\, November 6\, 2026 | 11 a.m.–1 p.m.\n					\n\n\n
  .bbg.org/visit/event/memory_program_november_2026\n\n<img src="/img/upload
  s/hero/_list_thumbnail_regular/childrens-garden-MS-52280051040.jpeg" alt="
  " />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discovery Sing-Along with Sabrina Chap
+DTSTART;VALUE=DATE:20261106T050000Z
+DTEND;VALUE=DATE:20261106T070000Z
+UID:Discovery Sing-Along with Sabrina Chap-2026-11-06 05:00:00+00:00
+DESCRIPTION:Wednesday\, November 4 and Friday\, November 6 | 11–11:45 a
+ .m.\n					\n\n\n					\n						\n							| Drop-in\n\nCome to the Discovery G
+ arden for a garden sing-along! Join Sabrina Chap in singing\, dancing\, an
+ d playing with instruments\, scarves\, and bubbles.Learn More›about Disc
+ overy Sing-Along with Sabrina Chap\n\nMore info:\nhttps://www.bbg.org/visi
+ t/event/discovery_sing_along_with_sabrina_chap\n\n<img src="/img/uploads/h
+ ero/_list_thumbnail_regular/DG_Sing_Along_MS_52910076079.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -251,6 +221,20 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tablescapes
+DTSTART;VALUE=DATE:20261112T050000Z
+DTEND;VALUE=DATE:20261112T070000Z
+UID:Tablescapes-2026-11-12 05:00:00+00:00
+DESCRIPTION:2 Thursdays: November 12 and November 19\, 2026 | 6–7:30 p.m
+ .\n					\n\n\n					\n						\n							| Preregistration Required\n\nLearn fl
+ oral design basics and craft unique holiday table arrangements.Learn More
+ ›about Tablescapes\n\nMore info:\nhttps://www.bbg.org/classes/tablescape
+ s\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Tablescapes_IMG_3
+ 334.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Starting Seeds for Community Self-Sufficiency
 DTSTART;VALUE=DATE:20261112T050000Z
 DTEND;VALUE=DATE:20261112T070000Z
@@ -263,20 +247,6 @@ DESCRIPTION:Thursday\, November 12\, 2026 | 6–8 p.m.Free\n					\n\n\n
  fo:\nhttps://www.bbg.org/classes/starting_seeds_for_community_self_suffici
  ency\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/49856627548-28
  00x1200-c.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tablescapes
-DTSTART;VALUE=DATE:20261112T050000Z
-DTEND;VALUE=DATE:20261112T070000Z
-UID:Tablescapes-2026-11-12 05:00:00+00:00
-DESCRIPTION:2 Thursdays: November 12 and November 19\, 2026 | 6–7:30 p.m
- .\n					\n\n\n					\n						\n							| Preregistration Required\n\nLearn fl
- oral design basics and craft unique holiday table arrangements.Learn More
- ›about Tablescapes\n\nMore info:\nhttps://www.bbg.org/classes/tablescape
- s\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Tablescapes_IMG_3
- 334.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -298,6 +268,20 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Chinese Brush Painting
+DTSTART;VALUE=DATE:20261114T050000Z
+DTEND;VALUE=DATE:20261114T070000Z
+UID:Chinese Brush Painting-2026-11-14 05:00:00+00:00
+DESCRIPTION:5 Saturdays: October 31–December 5\, 2026 (except November 2
+ 8) | 1:30–3:30 p.m.\n					\n\n\n					\n						| Waitlist Only\n\nLearn to
+  paint in the Chinese style using a bamboo brush\, ink\, and rice paper.Le
+ arn More›about Chinese Brush Painting\n\nMore info:\nhttps://www.bbg.org
+ /classes/chinese_brush_painting_oct_2026\n\n<img src="/img/uploads/hero/_l
+ ist_thumbnail_regular/19SAEARTCBP.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Drawing for Absolute Beginners: Botanicals
 DTSTART;VALUE=DATE:20261114T050000Z
 DTEND;VALUE=DATE:20261114T070000Z
@@ -309,20 +293,6 @@ DESCRIPTION:Saturday\, November 14\, 2026 | 1:30–3:30 p.m. \n					\n\n\n
  asses/drawing_for_absolute_beginners_botanicals\n\n<img src="/img/uploads/
  hero/_list_thumbnail_regular/NCarey_roseinaglass2_Drawing-for-Absolute-Beg
  inner_Botanicals.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chinese Brush Painting
-DTSTART;VALUE=DATE:20261114T050000Z
-DTEND;VALUE=DATE:20261114T070000Z
-UID:Chinese Brush Painting-2026-11-14 05:00:00+00:00
-DESCRIPTION:5 Saturdays: October 31–December 5\, 2026 (except November 2
- 8) | 1:30–3:30 p.m.\n					\n\n\n					\n						| Waitlist Only\n\nLearn to
-  paint in the Chinese style using a bamboo brush\, ink\, and rice paper.Le
- arn More›about Chinese Brush Painting\n\nMore info:\nhttps://www.bbg.org
- /classes/chinese_brush_painting_oct_2026\n\n<img src="/img/uploads/hero/_l
- ist_thumbnail_regular/19SAEARTCBP.jpeg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
