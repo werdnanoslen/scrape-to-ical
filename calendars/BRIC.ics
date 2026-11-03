@@ -323,16 +323,6 @@ DESCRIPTION:Cost: free\nhttps://bricartsmedia.org/class/street-photography
 LOCATION:Brooklyn Public Library\, Central
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Fundamentals of Screenwriting\, in-person
-DTSTART:20261120T230000Z
-DTEND:20261121T020000Z
-DTSTAMP:20261120T230000Z
-UID:Fundamentals of Screenwriting\, in-person-2026-11-20T23:00:00+00:00
-DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/fundamentals-o
- f-screenwriting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
-LOCATION:BRIC House Media Center
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Make a Movie On Your Phone
 DTSTART:20261120T170000Z
 DTEND:20261120T190000Z
@@ -353,21 +343,21 @@ DESCRIPTION:Cost: $35\nhttps://bricartsmedia.org/event/max-bric-present-ma
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Field Audio Equipment Certification
-DTSTART:20261121T190000Z
-DTEND:20261121T220000Z
-DTSTAMP:20261121T190000Z
-UID:Field Audio Equipment Certification-2026-11-21T19:00:00+00:00
-DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/field-audio-eq
- uipment-certification/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+SUMMARY:Fundamentals of Screenwriting\, in-person
+DTSTART:20261120T230000Z
+DTEND:20261121T020000Z
+DTSTAMP:20261120T230000Z
+UID:Fundamentals of Screenwriting\, in-person-2026-11-20T23:00:00+00:00
+DESCRIPTION:Cost: 25\,00 $\nhttps://bricartsmedia.org/class/fundamentals-o
+ f-screenwriting/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
 LOCATION:BRIC House Media Center
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fall Exhibitions Tour
-DTSTART:20261121T183000Z
-DTEND:20261121T193000Z
-DTSTAMP:20261121T183000Z
-UID:Fall Exhibitions Tour-2026-11-21T18:30:00+00:00
+DTSTART:20261121T193000Z
+DTEND:20261121T203000Z
+DTSTAMP:20261121T193000Z
+UID:Fall Exhibitions Tour-2026-11-21T19:30:00+00:00
 DESCRIPTION:https://bricartsmedia.org/events/exhibitions/
 LOCATION:
 END:VEVENT
@@ -382,11 +372,31 @@ DESCRIPTION:Cost: $35\nhttps://bricartsmedia.org/event/max-bric-present-ma
 LOCATION:BRIC House
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:MAX + BRIC present MAXmachina Fall 2026
+DTSTART:20261122T003000Z
+DTEND:20261122T023000Z
+DTSTAMP:20261122T003000Z
+UID:MAX + BRIC present MAXmachina Fall 2026-2026-11-22T00:30:00+00:00
+DESCRIPTION:Cost: $35\nhttps://bricartsmedia.org/event/max-bric-present-ma
+ xmachina-fall-2026/\nhttps://goo.gl/maps/vX4YR8kcVXHmbBZJ6
+LOCATION:BRIC House
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Media Marketing\, online
+DTSTART:20261121T160000Z
+DTEND:20261121T180000Z
+DTSTAMP:20261121T160000Z
+UID:Social Media Marketing\, online-2026-11-21T16:00:00+00:00
+DESCRIPTION:Cost: 5\,00 $\nhttps://bricartsmedia.org/class/social-media-ma
+ rketing/
+LOCATION:Virtual
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall Exhibitions Tour
-DTSTART:20261121T193000Z
-DTEND:20261121T203000Z
-DTSTAMP:20261121T193000Z
-UID:Fall Exhibitions Tour-2026-11-21T19:30:00+00:00
+DTSTART:20261121T183000Z
+DTEND:20261121T193000Z
+DTSTAMP:20261121T183000Z
+UID:Fall Exhibitions Tour-2026-11-21T18:30:00+00:00
 DESCRIPTION:https://bricartsmedia.org/events/exhibitions/
 LOCATION:
 END:VEVENT
