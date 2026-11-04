@@ -162,6 +162,15 @@ DESCRIPTION:https://cal.red/?event=6642\nCost: 0
 LOCATION:@blackspringbooks
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sound Salon: Salsa Dance to Bad Bunny on Vinyl
+DTSTART:20261106T010000Z
+DTEND:20261106T020000Z
+DTSTAMP:20261106T010000Z
+UID:event:6704:2026-11-05T20:00:00
+DESCRIPTION:https://cal.red/?event=6704\nCost: 30
+LOCATION:Olio Lighthouse in Prospect Heights\, Brooklyn
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AI Civics
 DTSTART:20261106T230000Z
 DTEND:20261107T000000Z
@@ -378,6 +387,26 @@ DESCRIPTION:https://cal.red/?event=6654\nCost: To join\, please Venmo: @po
  etsforpal or CashApp: minamorx. Tickets are sliding scale $10-$100. No one
   will be turned away for lack of funds.
 LOCATION:Boyfriend’s Co-op
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pumpkins for Palestine
+DTSTART:20261108T170000Z
+DTEND:20261108T180000Z
+DTSTAMP:20261108T170000Z
+UID:event:6702:2026-11-08T12:00:00
+DESCRIPTION:https://cal.red/?event=6702\nBOYFRIEND Co-op\n1157 Myrtle Ave\
+ nBrooklyn\, NY\nCost: Recommended donation of $15
+LOCATION:Bushwick
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Small File Media Festival: Screening and Workshop
+DTSTART:20261108T180000Z
+DTEND:20261108T190000Z
+DTSTAMP:20261108T180000Z
+UID:event:6703:2026-11-08T13:00:00
+DESCRIPTION:https://cal.red/?event=6703\n36-01 35th Ave\nAstoria\, New Yor
+ k 11106\nCost: Free
+LOCATION:Museum of the Moving Image
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gaza Relief Circus
