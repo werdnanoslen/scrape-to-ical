@@ -12,9 +12,9 @@ X-PUBLISHED-TTL:PT6H
 X-WR-RELCALID:Brooklyn Botanic Garden
 BEGIN:VEVENT
 SUMMARY:Lightscape
-DTSTART;VALUE=DATE:20261106T002656Z
-DTEND;VALUE=DATE:20261106T022656Z
-UID:Lightscape-2026-11-06 00:26:56.360013+00:00
+DTSTART;VALUE=DATE:20261106T054310Z
+DTEND;VALUE=DATE:20261106T074310Z
+UID:Lightscape-2026-11-06 05:43:10.268266+00:00
 DESCRIPTION:November 20\, 2026–January 3\, 2027\n					\n\n\n					\n					
  	\n							| Ticketed Event\n\nExperience the magic of Lightscape\, NYC’s
   most dazzling light show! Celebrate the beauty of nature in winter on thi
@@ -38,36 +38,6 @@ DESCRIPTION:Tuesdays & Thursdays\, 10:30 a.m.–12:30 p.m. | September 29
  rail\n\nMore info:\nhttps://www.bbg.org/visit/event/school_group_visits_di
  scovery_trail\n\n<img src="/img/uploads/manual/hero/_list_thumbnail_regula
  r/discovery-cart_BB_42604393462-1120.jpg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fall First Discoveries
-DTSTART;VALUE=DATE:20261106T050000Z
-DTEND;VALUE=DATE:20261106T070000Z
-UID:Fall First Discoveries-2026-11-06 05:00:00+00:00
-DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
- –November 13\, 2026\n					\n\n\n					\n						\n							| Drop-in\n\nPot
-  up a plant\, create a craft\, read a story\, and use your senses to explo
- re nature at special Discovery Garden activity stations designed for toddl
- ers.Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.b
- bg.org/visit/event/fall_first_discoveries\n\n<img src="/img/uploads/hero/_
- list_thumbnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Discovery Sing-Along with Sabrina Chap
-DTSTART;VALUE=DATE:20261106T050000Z
-DTEND;VALUE=DATE:20261106T070000Z
-UID:Discovery Sing-Along with Sabrina Chap-2026-11-06 05:00:00+00:00
-DESCRIPTION:Wednesday\, November 4 and Friday\, November 6 | 11–11:45 a
- .m.\n					\n\n\n					\n						\n							| Drop-in\n\nCome to the Discovery G
- arden for a garden sing-along! Join Sabrina Chap in singing\, dancing\, an
- d playing with instruments\, scarves\, and bubbles.Learn More›about Disc
- overy Sing-Along with Sabrina Chap\n\nMore info:\nhttps://www.bbg.org/visi
- t/event/discovery_sing_along_with_sabrina_chap\n\n<img src="/img/uploads/h
- ero/_list_thumbnail_regular/DG_Sing_Along_MS_52910076079.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -192,20 +162,6 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Tablescapes
-DTSTART;VALUE=DATE:20261112T050000Z
-DTEND;VALUE=DATE:20261112T070000Z
-UID:Tablescapes-2026-11-12 05:00:00+00:00
-DESCRIPTION:2 Thursdays: November 12 and November 19\, 2026 | 6–7:30 p.m
- .\n					\n\n\n					\n						\n							| Preregistration Required\n\nLearn fl
- oral design basics and craft unique holiday table arrangements.Learn More
- ›about Tablescapes\n\nMore info:\nhttps://www.bbg.org/classes/tablescape
- s\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Tablescapes_IMG_3
- 334.jpeg" alt="" />
-LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
- 5
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Starting Seeds for Community Self-Sufficiency
 DTSTART;VALUE=DATE:20261112T050000Z
 DTEND;VALUE=DATE:20261112T070000Z
@@ -222,6 +178,20 @@ LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tablescapes
+DTSTART;VALUE=DATE:20261112T050000Z
+DTEND;VALUE=DATE:20261112T070000Z
+UID:Tablescapes-2026-11-12 05:00:00+00:00
+DESCRIPTION:2 Thursdays: November 12 and November 19\, 2026 | 6–7:30 p.m
+ .\n					\n\n\n					\n						\n							| Preregistration Required\n\nLearn fl
+ oral design basics and craft unique holiday table arrangements.Learn More
+ ›about Tablescapes\n\nMore info:\nhttps://www.bbg.org/classes/tablescape
+ s\n\n<img src="/img/uploads/hero/_list_thumbnail_regular/Tablescapes_IMG_3
+ 334.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fall First Discoveries
 DTSTART;VALUE=DATE:20261113T050000Z
 DTEND;VALUE=DATE:20261113T070000Z
@@ -233,6 +203,21 @@ DESCRIPTION:Wednesdays & Fridays\, 10:30 a.m.–12:30 p.m. | September 9
  ers.Learn More›about Fall First Discoveries\n\nMore info:\nhttps://www.b
  bg.org/visit/event/fall_first_discoveries\n\n<img src="/img/uploads/hero/_
  list_thumbnail_regular/discovery-days_MS_52835703008.jpeg" alt="" />
+LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Discovery Sing-Along with Sabrina Chap
+DTSTART;VALUE=DATE:20261113T050000Z
+DTEND;VALUE=DATE:20261113T070000Z
+UID:Discovery Sing-Along with Sabrina Chap-2026-11-13 05:00:00+00:00
+DESCRIPTION:Wednesday\, November 4 and Friday\, November 13 | 11–11:45 
+ a.m.\n					\n\n\n					\n						\n							| Drop-in\n\nCome to the Discovery 
+ Garden for a garden sing-along! Join Sabrina Chap in singing\, dancing\, a
+ nd playing with instruments\, scarves\, and bubbles.Learn More›about Dis
+ covery Sing-Along with Sabrina Chap\n\nMore info:\nhttps://www.bbg.org/vis
+ it/event/discovery_sing_along_with_sabrina_chap\n\n<img src="/img/uploads/
+ hero/_list_thumbnail_regular/DG_Sing_Along_MS_52910076079.jpg" alt="" />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
@@ -288,13 +273,13 @@ DTSTART;VALUE=DATE:20261114T050000Z
 DTEND;VALUE=DATE:20261114T070000Z
 UID:ASL Artist Talk: Patterns and Shapes in Nature-2026-11-14 05:00:00+00:
  00
-DESCRIPTION:Saturday\, November 14\, 2026 | 1:30–4 p.m. \n					\n\n\n			
- 		\n						\n							| Preregistration Required\n\nEnjoy an ASL-led artist t
- alk and tour for the d/Deaf community.Learn More›about ASL Artist Talk: 
- Patterns and Shapes in Nature\n\nMore info:\nhttps://www.bbg.org/visit/eve
- nt/asl_artist_talk_patterns_and_shapes_in_nature\n\n<img src="/img/uploads
- /hero/_list_thumbnail_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt=
- "" />
+DESCRIPTION:Saturday\, November 14\, 2026 | 2–4 p.m. \n					\n\n\n					\
+ n						\n							| Preregistration Required\n\nEnjoy an ASL-led artist talk
+  and tour for the d/Deaf community.Learn More›about ASL Artist Talk: Pat
+ terns and Shapes in Nature\n\nMore info:\nhttps://www.bbg.org/visit/event/
+ asl_artist_talk_patterns_and_shapes_in_nature\n\n<img src="/img/uploads/he
+ ro/_list_thumbnail_regular/NBrowne_Crossing_Paths_Sassafras1.jpeg" alt="" 
+ />
 LOCATION:Brooklyn Botanic Garden\, 990 Washington Ave\, Brooklyn\, NY 1122
  5
 END:VEVENT
